@@ -1,1 +1,10 @@
 /mnt/c/Users/jeyav/Project_Graph_Mining/final/GloVeGraphs/Initial_Test/Generated Graphs/mu_0.05_N_1000 0.994821855671
+/mnt/c/Users/jeyav/Project_Graph_Mining/final/GloVeGraphs/Initial_Test/Generated Graphs/mu_0.0_N_1000 0.999236979448
+/mnt/c/Users/jeyav/Project_Graph_Mining/final/GloVeGraphs/Initial_Test/Generated Graphs/mu_0.15_N_1000 0.9902238503
+/mnt/c/Users/jeyav/Project_Graph_Mining/final/GloVeGraphs/Initial_Test/Generated Graphs/mu_0.1_N_1000 0.991325470374
+/mnt/c/Users/jeyav/Project_Graph_Mining/final/GloVeGraphs/Initial_Test/Generated Graphs/mu_0.25_N_1000 0.984871527005
+/mnt/c/Users/jeyav/Project_Graph_Mining/final/GloVeGraphs/Initial_Test/Generated Graphs/mu_0.2_N_1000 0.987446160302
+/mnt/c/Users/jeyav/Project_Graph_Mining/final/GloVeGraphs/Initial_Test/Generated Graphs/mu_0.35_N_1000 0.983796629491
+/mnt/c/Users/jeyav/Project_Graph_Mining/final/GloVeGraphs/Initial_Test/Generated Graphs/mu_0.3_N_1000 0.985854441182
+/mnt/c/Users/jeyav/Project_Graph_Mining/final/GloVeGraphs/Initial_Test/Generated Graphs/mu_0.45_N_1000 0.974116855601
+/mnt/c/Users/jeyav/Project_Graph_Mining/final/GloVeGraphs/Initial_Test/Generated Graphs/mu_0.4_N_1000 0.979622189834
