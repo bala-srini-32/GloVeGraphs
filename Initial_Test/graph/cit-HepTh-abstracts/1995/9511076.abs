@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9511076
+From: Emil Vinteler <vinteler@frodo.sissa.it>
+Date: Sun, 12 Nov 95 18:19:51 MET   (12kb)
+
+Title: Star--Matrix Models
+Authors: E.Vinteler
+Comments: 15 pages, Latex (to appear in Mod.Phys.Lett.)
+Report-no: SISSA-ISAS 92/95/EP
+Journal-ref: Mod.Phys.Lett. A10 (1995) 2709-2725
+\\
+  The star-matrix models are difficult to solve due to the multiple powers of
+the Vandermonde determinants in the partition function. We apply to these
+models a modified Q-matrix approach and we get results consistent with those
+obtained by other methods.As examples we study the inhomogenous gaussian model
+on Bethe tree and matrix $q$-Potts-like model. For the last model in the
+special cases $q=2$ and $q=3$, we write down explicit formulas which
+determinate the critical behaviour of the system.For $q=2$ we argue that the
+critical behaviour is indeed that of the Ising model on the $\phi^3$ lattice.
+\\

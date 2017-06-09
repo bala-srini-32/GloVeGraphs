@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0105260
+From: Oleg Ruchayskiy <ruchay@flash.uchicago.edu>
+Date: Fri, 25 May 2001 21:42:38 GMT   (19kb)
+Date (revised v2): Sat, 26 May 2001 10:44:39 GMT   (19kb)
+
+Title: On Associativity Equations in Dispersionless Integrable Hierarchies
+Authors: A. Boyarsky, A. Marshakov, O. Ruchayskiy, P. Wiegmann, A. Zabrodin
+Comments: 16 pages, LaTeX
+Report-no: FIAN/TD-06/01, ITEP/TH-22/01, SPIN-2001/10, EFI-2001-13
+Subj-class: High Energy Physics - Theory; Exactly Solvable and Integrable
+  Systems
+Journal-ref: Phys.Lett. B515 (2001) 483-492
+\\
+  We discuss the origin of the associativity (WDVV) equations in the context of
+quasiclassical or Whitham hierarchies. The associativity equations are shown to
+be encoded in the dispersionless limit of the Hirota equations for KP and Toda
+hierarchies. We show, therefore, that any tau-function of dispersionless KP or
+Toda hierarchy provides a solution to associativity equations. In general, they
+depend on infinitely many variables. We also discuss the particular solution to
+the dispersionless Toda hierarchy that describes conformal mappings and
+construct a family of new solutions to the WDVV equations depending on finite
+number of variables.
+\\

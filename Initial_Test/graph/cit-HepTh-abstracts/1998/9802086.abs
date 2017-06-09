@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9802086
+From: Serge Lazzarini <Serge.Lazzarini@cptsu5.univ-mrs.fr>
+Date: Thu, 12 Feb 1998 14:07:31 GMT   (27kb)
+
+Title: Kodaira-Spencer deformation of complex structures and Lagrangian field
+  theory
+Authors: G. Bandelloni (INFN and Genova Univ., Genova), S. Lazzarini (CPT and
+  Mediterranean Univ., Marseille)
+Comments: LaTeX, 30 pages, no figure. Submitted to Journ. Math. Phys
+Report-no: CPT-98/P.3622
+Journal-ref: J.Math.Phys. 39 (1998) 3619-3642
+\\
+  In complete analogy with the Beltrami parametrization of complex structures
+on a (compact) Riemann surface, we use in this paper the Kodaira-Spencer
+deformation theory of complex structures on a (compact) complex manifold of
+higher dimension. According to the Newlander-Nirenberg theorem, a smooth change
+of local complex coordinates can be implemented with respect to an integrable
+complex structure parametrized by a Beltrami differential. The question of
+constructing a local field theory on a complex compact manifold is addressed
+and the action of smooth diffeomorphisms is studied in the BRS algebraic
+approach. The BRS cohomology for the diffeomorphisms gives rise to generalized
+Gel'fand-Fuchs cocycles provided that the Kodaira-Spencer integrability
+condition is satisfied. The diffeomorphism anomaly is computed and turns out to
+be holomorphically split as in the bidimensional Lagrangian conformal models.
+Moreover, its algebraic structure is much more complicated than the one
+proposed in a quite recent paper hep-th/9606082 (Nucl. Phys. B484 (1997) 196).
+\\

@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0112213
+From: Marie-Noelle Celerier <Marie-Noelle.celerier@obspm.fr>
+Date: Fri, 21 Dec 2001 15:54:47 GMT   (46kb)
+
+Title: Dirac Equation in Scale Relativity
+Authors: Marie-Noelle Celerier, Laurent Nottale (Observatoire de Paris-Meudon)
+Comments: 33 pages, 4 figures, latex. Submitted to Phys. Rev. D
+\\
+  The theory of scale relativity provides a new insight into the origin of
+fundamental laws in physics. Its application to microphysics allows to recover
+quantum mechanics as mechanics on a non-differentiable (fractal) space-time.
+The Schr\"odinger and Klein-Gordon equations have already been demonstrated as
+geodesic equations in this framework. We propose here a new development of the
+intrinsic properties of this theory to obtain, using the mathematical tool of
+Hamilton's bi-quaternions, a derivation of the Dirac equation, which, in
+standard physics, is merely postulated. The bi-quaternionic nature of the Dirac
+spinor is obtained by adding to the differential (proper) time symmetry
+breaking, which yields the complex form of the wave-function in the
+Schr\"odinger and Klein-Gordon equations, the breaking of further symmetries,
+namely, the differential coordinate symmetry ($dx^{\mu} \leftrightarrow -
+dx^{\mu}$) and the parity and time reversal symmetries.
+\\

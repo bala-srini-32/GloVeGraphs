@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0011282
+From: Martin Cederwall <tfemc@fy.chalmers.se>
+Date: Thu, 30 Nov 2000 10:24:50 GMT   (29kb)
+Date (revised v2): Wed, 20 Dec 2000 09:07:06 GMT   (29kb)
+Date (revised v3): Wed, 16 May 2001 06:11:07 GMT   (29kb)
+
+Title: Holographic Noncommutativity
+Authors: David S. Berman, Vanicson L. Campos, Martin Cederwall, Ulf Gran,
+  Henric Larsson, Mikkel Nielsen, Bengt E.W. Nilsson and Per Sundell
+Comments: latex, 40 pp. v2: minor changes, one ref. added. v3: corrections in
+  eqs. 27 and 70
+Report-no: UG-00-21, Goteborg-ITP-preprint
+Journal-ref: JHEP 0105 (2001) 002
+\\
+  We examine noncommutative Yang-Mills and open string theories using
+magnetically and electrically deformed supergravity duals. The duals are near
+horizon regions of Dp-brane bound state solutions which are obtained by using
+O(p+1,p+1) transformations of Dp-branes. The action of the T-duality group
+implies that the noncommutativity parameter is constant along holographic
+RG-flows. The moduli of the noncommutative theory, i.e., the open string metric
+and coupling constant, as well as the zero-force condition are shown to be
+invariant under the O(p+1,p+1) transformation, i.e., deformation independent.
+We find sufficient conditions, including zero force and constant dilaton in the
+ISO(3,1)-invariant D3 brane solution, for exact S-duality between
+noncommutative Yang-Mills and open string theories. These results are used to
+construct noncommutative field and string theories with N=1 supersymmetry from
+the T^(1,1) and Pilch-Warner solutions. The latter has a non-trivial zero-force
+condition due to the warping.
+\\

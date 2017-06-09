@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0002124
+From: Marc-Andre Lewis <lewism@cirano.umontreal.ca>
+Date: Tue, 15 Feb 2000 14:08:27 GMT   (13kb)
+Date (revised v2): Thu, 27 Jul 2000 15:22:26 GMT   (15kb)
+
+Title: Boundary states for a free boson defined on finite geometries
+Authors: Marc-Andre Lewis and Yvan Saint-Aubin
+Comments: 16 pages, LaTeX (uses AMS components). Revised version; an analogy
+  with string theory computations is discussed and references added
+Subj-class: High Energy Physics - Theory; Statistical Mechanics
+Journal-ref: J.Phys. A34 (2001) 845-860
+\\
+  Langlands recently constructed a map that factorizes the partition function
+of a free boson on a cylinder with boundary condition given by two arbitrary
+functions in the form of a scalar product of boundary states. We rewrite these
+boundary states in a compact form, getting rid of technical assumptions
+necessary in his construction. This simpler form allows us to show explicitly
+that the map between boundary conditions and states commutes with conformal
+transformations preserving the boundary and the reality condition on the scalar
+field.
+\\

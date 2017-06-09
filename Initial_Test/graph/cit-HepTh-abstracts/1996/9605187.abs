@@ -1,0 +1,19 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9605187
+From: "T.A. Bolokhov" <bolohov1@snoopy.niif.spb.su>
+Date: Sun, 26 May 1996 15:22:40 +0400 (MSD)   (53kb)
+
+Title: How Algebraic Bethe Ansatz works for integrable model
+Authors: L.D. Faddeev (St.Petersburg Branch of Steklov Mathematical Institute,
+  Research Institute for Theoretical Physics University of Helsinki)
+Comments: Les-Houches lectures, 59 pages, Latex
+\\
+  I study the technique of Algebraic Bethe Ansatz for solving integrable models
+and show how it works in detail on the simplest example of spin 1/2 XXX
+magnetic chain. Several other models are treated more superficially, only the
+specific details are given. Several parameters, appearing in these
+generalizations: spin $s$, anisotropy parameter $\ga$, shift $\om$ in the
+alternating chain, allow to include in our treatment most known examples of
+soliton theory, including relativistic model of Quantum Field Theory.
+\\

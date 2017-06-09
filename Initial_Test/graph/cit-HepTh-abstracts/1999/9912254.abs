@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9912254
+From: Fumihiko Sugino <sugino@post.kek.jp>
+Date: Mon, 27 Dec 1999 11:00:53 GMT   (25kb)
+Date (revised v2): Thu, 6 Jan 2000 05:07:36 GMT   (25kb)
+Date (revised v3): Thu, 20 Jan 2000 14:15:11 GMT   (26kb)
+Date (revised v4): Thu, 6 Apr 2000 10:50:38 GMT   (26kb)
+
+Title: Witten's Open String Field Theory in Constant B-Field Background
+Authors: Fumihiko Sugino
+Comments: 35 pages, LaTeX, no figures, Arguments about string coupling
+  constants are modified. final version to be published in JHEP
+Report-no: KEK-TH-667
+Journal-ref: JHEP 0003 (2000) 017
+\\
+  In this paper we consider Witten's bosonic open string field theory in the
+presence of a constant background of the second-rank antisymmetric tensor field
+$B_{ij}$. We extend the operator formulation of Gross and Jevicki in this
+situation and construct the overlap vertices explicitly. As a result we find a
+noncommutative structure of the Moyal type only in the zero-mode sector, which
+is consistent with the result of the correlation functions among vertex
+operators in the world sheet formulation. Furthermore we find out a certain
+unitary transformation of the string field which absorbs the Moyal type
+noncommutative structure. It can be regarded as a microscopic origin of the
+transformation between the gauge fields in commutative and noncommutative gauge
+theories discussed by Seiberg and Witten.
+\\

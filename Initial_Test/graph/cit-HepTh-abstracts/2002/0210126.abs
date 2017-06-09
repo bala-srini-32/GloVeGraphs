@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0210126
+From: Christopher Herzog <herzog@kitp.ucsb.edu>
+Date: Mon, 14 Oct 2002 02:18:39 GMT   (16kb)
+Date (revised v2): Wed, 16 Oct 2002 01:39:21 GMT   (16kb)
+Date (revised v3): Tue, 7 Jan 2003 18:41:27 GMT   (16kb)
+
+Title: The Hydrodynamics of M-Theory
+Authors: Christopher P. Herzog
+Comments: 1+19 pages, references added, section 5 clarified, eq. (72) corrected
+Journal-ref: JHEP 0212 (2002) 026
+\\
+  We consider the low energy limit of a stack of N M-branes at finite
+temperature. In this limit, the M-branes are well described, via the AdS/CFT
+correspondence, in terms of classical solutions to the eleven dimensional
+supergravity equations of motion. We calculate Minkowski space two-point
+functions on these M-branes in the long-distance, low-frequency limit, i.e. the
+hydrodynamic limit, using the prescription of Son and Starinets
+[hep-th/0205051]. From these Green's functions for the R-currents and for
+components of the stress-energy tensor, we extract two kinds of diffusion
+constant and a viscosity. The N dependence of these physical quantities may
+help lead to a better understanding of M-branes.
+\\

@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9710240
+From: Akikazu Hashimoto <aki@puhep1.princeton.edu>
+Date: Fri, 31 Oct 1997 00:01:43 GMT   (29kb)
+Date (revised v2): Wed, 12 Nov 1997 07:29:03 GMT   (29kb)
+
+Title: The Spectrum of a Large N Gauge Theory Near Transition from Confinement
+  to Screening
+Authors: David J. Gross, Akikazu Hashimoto, and Igor R. Klebanov
+Comments: 17 pages, 9 postscript figures, uses psfig.sty, reference added
+Report-no: NSF-ITP-97-133, PUPT-1737
+Journal-ref: Phys.Rev. D57 (1998) 6420-6428
+\\
+  We study the spectrum of 1+1 dimensional large $N$ QCD coupled to an adjoint
+Majorana fermion of mass $m$. As $m\to 0$ this model makes a transition from
+confinement to screening. We argue that in this limit the spectrum becomes
+continuous for mass greater than twice the mass of the lightest bound state.
+This critical mass is nothing but the threshold for a decay into two lightest
+states. We present numerical results based on DLCQ that appear to support our
+claim.
+\\

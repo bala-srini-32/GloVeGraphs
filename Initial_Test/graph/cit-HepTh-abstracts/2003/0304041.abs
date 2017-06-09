@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0304041
+From: George Tsoupros <gts@pku.edu.cn>
+Date: Fri, 4 Apr 2003 19:53:02 GMT   (26kb)
+Date (revised v2): Sun, 6 Apr 2003 15:59:36 GMT   (26kb)
+Date (revised v3): Tue, 8 Apr 2003 19:20:04 GMT   (26kb)
+Date (revised v4): Sun, 27 Apr 2003 20:04:39 GMT   (27kb)
+
+Title: Perturbative Evaluation of Interacting Scalar Fields on a Curved
+  Manifold with Boundary
+Authors: George Tsoupros
+Comments: 25 pages, 1 figure. Minor elucidations in the Appendix regarding the
+  cut-off $ N_0$ and in p.4 regarding the gravitational action. Certain
+  reference-related ommission corrected. To appear in Classical and Quantum
+  Gravity
+\\
+  The effects of quantum corrections to a conformally invariant scalar field
+theory on a curved manifold of positive constant curvature with boundary are
+considered in the context of a renormalisation procedure. The renormalisation
+of the theory to second order in the scalar self-coupling pursued herein
+involves explicit calculations of up to third loop-order and reveals that, in
+addition to the renormalisation of the scalar self-coupling and scalar field,
+the removal of all divergences necessitates the introduction of conformally
+non-invariant counterterms proportional to $ R\Phi^2$ and $ K\Phi^2$ in the
+bare scalar action as well as counterterms proportional to $ RK^2$, $ R^2$ and
+$ RK$ in the gravitational action. The substantial backreaction effects and
+their relevance to the renormalisation procedure are analysed.
+\\

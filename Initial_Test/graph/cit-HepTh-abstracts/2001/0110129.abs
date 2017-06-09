@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0110129
+From: Gabriele Veneziano <venezia@mail.cern.ch>
+Date: Mon, 15 Oct 2001 15:58:32 GMT   (9kb)
+Date (revised v2): Tue, 12 Mar 2002 15:36:31 GMT   (10kb)
+
+Title: Large-N bounds on, and compositeness limit of, gauge and gravitational
+  interactions
+Authors: G. Veneziano
+Comments: 8 pages, Latex, minor modifications in notations and references
+Report-no: CERN-TH/2001-278
+Journal-ref: JHEP 0206 (2002) 051
+\\
+  In a toy model of gauge and gravitational interactions in $D \ge 4$
+dimensions, endowed with an invariant UV cut-off $\Lambda$, and containing a
+large number $N$ of non-self-interacting matter species, the physical gauge and
+gravitational couplings at the cut-off, $\alpha_g \equiv g^2 \Lambda^{D-4}$ and
+$\alpha_G \equiv G_N \Lambda^{D-2}$, are shown to be bounded by appropriate
+powers of ${1\over N}$. This implies that the infinite-bare-coupling (so-called
+compositeness) limit of these theories is smooth, and can even resemble our
+world. We argue that such a result, when extended to more realistic situations,
+can help avoid large-N violations of entropy bounds, solve the dilaton
+stabilization and GUT-scale problems in superstring theory, and provide a new
+possible candidate for quintessence.
+\\

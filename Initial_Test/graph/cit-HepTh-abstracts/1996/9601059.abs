@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9601059
+From: "Joseph A. Minahan" <minahan@physics1.usc.edu>
+Date: Thu, 11 Jan 1996 16:16:59 -0800 (PST)   (12kb)
+Date (revised): Thu, 1 Feb 1996 12:01:28 -0800 (PST)
+
+Title: $N=2$ Super Yang-Mills and Subgroups of $SL(2,Z)$
+Authors: Joseph A. Minahan and Dennis Nemeschansky
+Comments: harvmac, 16 pages, no figures. (Expressions for beta functions have
+  been simplified. Minor corrections in text)
+Report-no: USC-96/01
+Journal-ref: Nucl.Phys. B468 (1996) 72-84
+\\
+  We discuss $SL(2,Z)$ subgroups appropriate for the study of $N=2$ Super
+Yang-Mills with $N_f=2n$ flavors. Hyperelliptic curves describing such theories
+should have coefficients that are modular forms of these subgroups. In
+particular, uniqueness arguments are sufficient to construct the $SU(3)$ curve,
+up to two numerical constants, which can be fixed by making some assumptions
+about strong coupling behavior. We also discuss the situation for higher
+groups. We also include a derivation of the closed form $\beta$-function for
+the $SU(2)$ and $SU(3)$ theories without matter, and the massless theories with
+$N_f=n$.
+\\

@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9902029
+From: Andrei.Smilga@math.univ-nantes.fr (Andrei Smilga)
+Date: Wed, 3 Feb 1999 13:49:21 GMT   (26kb)
+Date (revised v2): Mon, 1 Mar 1999 16:26:32 GMT   (42kb)
+Date (revised v3): Fri, 30 Apr 1999 01:19:39 GMT   (50kb)
+
+Title: Vacuum structure in supersymmetric Yang-Mills theories with any gauge
+  group
+Authors: V.G. Kac, A.V. Smilga
+Comments: 41 pages, 9 figures, 9 tables. Final version to be published in the
+  Yuri Golfand memorial volume. We added the Appendix D with classification of
+  all non-trivial commuting n-tuples for arbitrary n
+Report-no: Nantes-PhT-99/3
+Subj-class: High Energy Physics - Theory; Mathematical Physics; Group Theory
+\\
+  We consider the pure supersymmetric Yang--Mills theories placed on a small
+3-dimensional spatial torus with higher orthogonal and exceptional gauge
+groups. The problem of constructing the quantum vacuum states is reduced to a
+pure mathematical problem of classifying the flat connections on 3-torus. The
+latter problem is equivalent to the problem of classification of commuting
+triples of elements in a connected simply connected compact Lie group which is
+solved in this paper. In particular, we show that for higher orthogonal SO(N),
+N > 6, and for all exceptional groups the moduli space of flat connections
+involves several distinct connected components. The total number of
+vacuumstates is given in all cases by the dual Coxeter number of the group
+which agrees with the result obtained earlier with the instanton technique.
+\\

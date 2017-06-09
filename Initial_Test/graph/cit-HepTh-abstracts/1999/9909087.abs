@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9909087
+From: Gordon Chalmers <chalmers@pcl9.hep.anl.gov>
+Date: Mon, 13 Sep 1999 22:51:29 GMT   (15kb)
+Date (revised v2): Thu, 7 Oct 1999 18:22:51 GMT   (15kb)
+
+Title: Quantization and Scattering in the IIB SL(2,Z) Covariant Superstring
+Authors: Gordon Chalmers, Koenraad Schalm
+Comments: 15 pages, LaTeX, additional comments
+Report-no: ANL-HEP-99-78, YITP-99-48
+Journal-ref: JHEP 9910 (1999) 016
+\\
+  We rewrite the SL(2,Z) covariant worldsheet action for the IIB string
+proposed by Townsend in a Polyakov form. In a flat background the formalism
+yields separate (p,q) sectors. In each one the action is that of the IIB string
+action with the string slope parameter \alp\pr replaced by its SL(2,Z) analogue
+\alp_{pq}\pr. SL(2,Z) invariant graviton scattering amplitudes are obtained
+from those of the fundamental (1,0) string by summing over the different
+sectors. The tree-level four-graviton amplitude in this formalism differs from
+a previously conjectured non-perturbative form; both yield the same expansion
+in order \alpha\pr^3.
+\\

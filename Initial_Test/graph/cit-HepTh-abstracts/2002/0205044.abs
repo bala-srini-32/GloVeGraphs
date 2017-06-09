@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0205044
+From: Andrei SMILGA <smilga@subatech.in2p3.fr>
+Date: Mon, 6 May 2002 12:30:23 GMT   (16kb)
+
+Title: Abelian matrix models in two loops
+Author: A.V. Smilga
+Comments: 16 pages LaTeX
+Report-no: SUBATECH-02-20
+\\
+  We perform a two-loop calculation of the effective Lagrangian for the
+low--energy modes of the quantum mechanical system obtained by dimensional
+reduction from 4D, N = 1 supersymmetric QED. The bosonic part of the Lagrangian
+describes the motion over moduli space of vector potentials A_i endowed with a
+nontrivial conformally flat metric. We determined the coefficient of the
+two-loop correction to the metric, which is proportional to 1/A^6. For the
+matrix model obtained from Abelian 4D, N = 2 theory, this correction vanishes,
+as it should.
+\\

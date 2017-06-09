@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9808077
+From: Uwe Trittmann <trittman@tick.mpi-hd.mpg.de>
+Date: Thu, 13 Aug 1998 11:46:00 GMT   (317kb)
+Date (revised v2): Tue, 16 Jan 2001 23:48:43 GMT   (42kb)
+
+Title: Note on a Positronium Model from Flow Equations in Front Form Dynamics
+Authors: Uwe Trittmann
+Comments: 7 pp., 3 figures, uses ijmpa1.sty, version to be published in
+  Int.Jour.Mod.Phys.(Suppl.)
+Journal-ref: Int.J.Mod.Phys. A16S1C (2001) 987-993
+\\
+  In this note we address the problem of solving for the positronium mass
+spectrum. We use front-form dynamics together with the method of flow
+equations. For a special choice of the similarity function, the calculations
+can be simplified by analytically integrating over the azimuthal angle. One
+obtains an effective Hamiltonian and we solve numerically for its spectrum.
+Comparing our results with different approaches we find encouraging properties
+concerning the cutoff dependence of the results.
+\\

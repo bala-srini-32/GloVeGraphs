@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9902133
+From: Alice Rogers <alice.rogers@kcl.ac.uk>
+Date: Thu, 18 Feb 1999 18:49:21 GMT   (11kb)
+
+Title: Gauge Fixing and BFV Quantization
+Authors: Alice Rogers
+Comments: 14 pages
+Report-no: KCL-MTH-99-05
+Journal-ref: Class.Quant.Grav. 17 (2000) 389-397
+\\
+  Nonsingularity conditions are established for the BFV gauge-fixing fermion
+which are sufficient for it to lead to the correct path integral for a theory
+with constraints canonically quantized in the BFV approach. The conditions
+ensure that anticommutator of this fermion with the BRST charge regularises the
+path integral by regularising the trace over non-physical states in each ghost
+sector. The results are applied to the quantization of a system which has a
+Gribov problem, using a non-standard form of the gauge-fixing fermion.
+\\

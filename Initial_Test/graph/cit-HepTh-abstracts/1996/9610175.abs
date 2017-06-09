@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9610175
+From: "Ian Lawrie" <PHY6IDL@phys-irc.novell.leeds.ac.uk>
+Date: Wed, 23 Oct 1996 11:43:47 GMT   (21kb)
+
+Title: Nonequilibrium perturbation theory for complex scalar fields
+Authors: I.D. Lawrie and D.B. McKernan
+Comments: 15 pages using RevTeX; 2 figures in 1 Postscript file; Submitted to
+  Phys. Rev. D
+Journal-ref: Phys.Rev. D55 (1997) 2290-2297
+\\
+  Real-time perturbation theory is formulated for complex scalar fields away
+from thermal equilibrium in such a way that dissipative effects arising from
+the absorptive parts of loop diagrams are approximately resummed into the
+unperturbed propagators. Low order calculations of physical quantities then
+involve quasiparticle occupation numbers which evolve with the changing state
+of the field system, in contrast to standard perturbation theory, where these
+occupation numbers are frozen at their initial values. The evolution equation
+of the occupation numbers can be cast approximately in the form of a Boltzmann
+equation. Particular attention is given to the effects of a non-zero chemical
+potential, and it is found that the thermal masses and decay widths of
+quasiparticle modes are different for particles and antiparticles.
+\\

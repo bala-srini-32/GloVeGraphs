@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9511199
+From: Dr R Szabo <r.szabo1@physics.oxford.ac.uk>
+Date: Tue, 28 Nov 95 17:07:15 GMT   (30kb)
+
+Title: Conformal Motions and the Duistermaat-Heckman Integration Formula
+Authors: L. D. Paniak, G. W. Semenoff and R. J. Szabo
+Comments: 13 pages LaTeX, run twice. Uses epsf.tex, 2 postscript files read
+  directly into LaTeX file from directory
+Report-no: UBC/S-95/1, OUTP-95-46P
+Journal-ref: Phys.Lett. B372 (1996) 236-245
+\\
+  We derive a geometric integration formula for the partition function of a
+classical dynamical system and use it to show that corrections to the WKB
+approximation vanish for any Hamiltonian which generates conformal motions of
+some Riemannian geometry on the phase space. This generalizes previous cases
+where the Hamiltonian was taken as an isometry generator. We show that this
+conformal symmetry is similar to the usual formulations of the
+Duistermaat-Heckman integration formula in terms of a supersymmetric Ward
+identity for the dynamical system. We present an explicit example of a
+localizable Hamiltonian system in this context and use it to demonstrate how
+the dynamics of such systems differ from previous examples of the
+Duistermaat-Heckman theorem.
+\\

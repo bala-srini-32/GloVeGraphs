@@ -1,0 +1,33 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0203085
+From: "Dr Pascal Baseilhac" <pascal@yukawa.kyoto-u.ac.jp>
+Date: Sat, 9 Mar 2002 08:21:40 GMT   (34kb)
+Date (revised v2): Wed, 17 Apr 2002 13:19:52 GMT   (35kb)
+
+Title: Liouville field theory coupled to a critical Ising model:
+  Non-perturbative analysis, duality and applications
+Authors: P. Baseilhac
+Comments: 29 pages, 1 fig., LaTeX file with epsfig, amssymb, 3 references
+  added. To appear in Nucl. Phys. B
+Report-no: YITP-02-01
+Subj-class: High Energy Physics - Theory; Mathematical Physics
+Journal-ref: Nucl.Phys. B636 (2002) 465-496
+\\
+  Two different kinds of interactions between a ${Z}_{n}$-parafermionic and a
+Liouville field theory are considered. For generic values of $n$, the effective
+central charges describing the UV behavior of both models are calculated in the
+Neveu-Schwarz sector. For $n=2$ exact vacuum expectation values of primary
+fields of the Liouville field theory, as well as the first descendent fields
+are proposed. For $n=1$, known results for Sinh-Gordon and Bullough-Dodd models
+are recovered whereas for $n=2$, exact results for these two integrable coupled
+Ising-Liouville models are shown to exchange under a weak-strong coupling
+duality relation. In particular, exact relations between the parameters in the
+actions and the mass of the particles are obtained. At specific imaginary
+values of the coupling and $n=2$, we use previous results to obtain exact
+information about: (a) Integrable coupled models like Ising-${\cal M}_{p/p'}$,
+homogeneous sine-Gordon model $SU(3)_2$ or the Ising-XY model; (b)
+Neveu-Schwarz sector of the $\Phi_{13}$ integrable perturbation of N=1
+supersymmetric minimal models. Several non-perturbative checks are done, which
+support the exact results.
+\\

@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9912212
+From: Albert Schwarz <schwarz@math.ucdavis.edu>
+Date: Wed, 22 Dec 1999 06:07:46 GMT   (12kb)
+Date (revised v2): Thu, 27 Apr 2000 07:03:00 GMT   (12kb)
+
+Title: Noncommutative supergeometry and duality
+Author: Albert Schwarz
+Comments: 16 pages, Latex. Misprints corrected. Appendix added
+Report-no: UCD 99-12
+Journal-ref: Lett.Math.Phys. 50 (1999) 309-321
+\\
+  We introduce a notion of Q-algebra that can be considered as a generalization
+of the notion of Q-manifold (a supermanifold equipped with an odd vector field
+obeying {Q,Q} =0). We develop the theory of connections on modules over
+Q-algebras and prove a general duality theorem for gauge theories on such
+modules. This theorem contains as a simplest case SO(d,d,{\bf Z})-duality of
+gauge theories on noncommutative tori.
+\\

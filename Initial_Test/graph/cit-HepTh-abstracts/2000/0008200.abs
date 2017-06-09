@@ -1,0 +1,34 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0008200
+From: Christian Korff <christian.korff@physik.fu-berlin.de>
+Date: Fri, 25 Aug 2000 15:41:05 GMT   (460kb)
+Date (revised v2): Fri, 1 Sep 2000 10:22:09 GMT   (275kb)
+
+Title: Lie algebraic structures in integrable models, affine Toda field theory
+Authors: Christian Korff
+Comments: 193 pages, 15 figures, PhD thesis, layout of the figures enhanced
+\\
+  The most prominent class of integrable quantum field theories in 1+1
+dimensions is affine Toda theory. Distinguished by a rich underlying Lie
+algebraic structure these models have in recent years attracted much attention
+not only as test laboratories for non-perturbative methods in quantum field
+theory but also in the context of off-critical models. After a short
+introduction the mathematical preliminaries such as root systems, Coxeter
+geometry, dual algebras, q-deformed Coxeter elements and q-deformed Cartan
+matrices are introduced. Using this mathematical framework the bootstrap
+analysis of the affine Toda S-matrices with real coupling is performed and
+several universal Lie algebraic formulae proved. The Lie algebraic methods are
+then extended to define a new class of colour valued S-matrices and also here
+universal expressions are derived. The second part of the thesis presents a
+detailed analysis of the high-energy regime of the integrable models discussed
+in the first part. By means of the thermodynamic Bethe ansatz the central
+charges of the ultraviolet conformal field theories are calculated and in case
+of affine Toda theories also the first order term in the scaling function is
+analytically obtained. For the colour valued S-matrices the connection to WZNW
+coset models is discussed. A particular subclass of them, the so-called
+Homogeneous Sine-Gordon models, is investigated in some detail and it is found
+that the presence of unstable particles in these theories gives rise to a
+staircase pattern in the corresponding scaling function. This thesis summarizes
+the results of previously published articles listed in the introduction.
+\\

@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9712057
+From: Harald Dorn <dorn@qft3.physik.hu-berlin.de>
+Date: Fri, 5 Dec 1997 12:27:20 GMT   (21kb)
+
+Title: Non-Abelian gauge field dynamics on matrix D-branes in curved space and
+  two-dimensional $\sigma$-models
+Authors: H.Dorn
+Comments: 8 pages, 1 figure, LATEX
+Report-no: HU Berlin-EP-97/89
+Journal-ref: Fortsch.Phys. 47 (1999) 151-157
+\\
+  A survey is given of the formulation of a $\sigma$-model describing an open
+string moving in general target space background fields and coupling to both a
+matrix-valued D-brane position and a matrix-valued gauge field on the D-brane.
+The equations of motion for the D-brane and the gauge field are derived from
+the conformal invariance condition on the string world sheet in lowest order of
+$\ap$. The ordering problem of the involved matrices is solved. In addition to
+our previous work we discuss a conflict between the classical T-duality rules
+and renormalization. The calculation of the RG $\beta$-functions does not yield
+the mass term obtained by formal application of these rules in the case of
+target space separated D-brane copies.
+\\

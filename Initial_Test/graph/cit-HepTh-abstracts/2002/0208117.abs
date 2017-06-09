@@ -1,0 +1,18 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0208117
+From: Daniel Litim <daniel.litim@cern.ch>
+Date: Fri, 16 Aug 2002 14:24:39 GMT   (50kb)
+
+Title: Convergence and stability of the renormalisation group
+Authors: Daniel F. Litim
+Comments: 8 pages, 4 figures, uses ActaStyle.cls, invited talk given at RG2002,
+  March 10-16, 2002, Strba, Slowakia
+Report-no: CERN-TH/2002-197
+\\
+  Within the exact renormalisation group approach, it is shown that stability
+properties of the flow are controlled by the choice for the regulator. Equally,
+the convergence of the flow is enhanced for specific optimised choices for the
+regularisation. As an illustration, we exemplify our reasoning for 3d scalar
+theories at criticality. Implications for other theories are discussed.
+\\

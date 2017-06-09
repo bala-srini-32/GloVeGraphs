@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9609192
+From: Friedemann <brandt@tholos.ecm.ub.es>
+Date: Tue, 24 Sep 1996 20:27:52 +0200   (52kb)
+Date (revised): Fri, 22 Nov 1996 09:34:48 +0100
+Date (revised): Mon, 13 Oct 1997 09:12:24 GMT
+
+Title: Local BRST cohomology in minimal D=4, N=1 supergravity
+Author: Friedemann Brandt
+Comments: 58 pages, latex 2.09, no figures; final version, minor corrections,
+  Comment added in conclusions (footnote), refs. updated
+Journal-ref: Annals Phys. 259 (1997) 253-312
+\\
+  The local BRST cohomology is computed in old and new minimal supergravity,
+including the coupling to Yang-Mills gauge multiplets. This covers the
+determination of all gauge invariant local actions for these models, the
+classification of all the possible counterterms that are invariant on-shell, of
+all candidate gauge anomalies, and of the possible nontrivial (continuous)
+deformations of the standard actions and gauge transformations. Among others it
+is proved that in old minimal supergravity the most general gauge invariant
+action can indeed be constructed from well-known superspace integrals, whereas
+in new minimal supergravity there are only a few additional (but important)
+contributions which cannot be constructed in this way without further ado.
+Furthermore the results indicate that supersymmetry itself is not anomalous in
+minimal supergravity and show that the gauge transformations are extremely
+stable under consistent deformations of the models. There is however an unusual
+deformation converting new into old minimal supergravity with local
+R-invariance which is reminiscent of a duality transformation.
+\\

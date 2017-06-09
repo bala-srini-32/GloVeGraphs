@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0009235
+From: Andrew Neitzke <neitzke@fas.harvard.edu>
+Date: Thu, 28 Sep 2000 16:55:30 GMT   (25kb)
+Date (revised v2): Wed, 18 Oct 2000 03:25:23 GMT   (26kb)
+
+Title: Rationality, quasirationality and finite W-algebras
+Authors: Matthias R. Gaberdiel and Andrew Neitzke
+Comments: 25 pages, AMSLaTeX; added references and clarified the relation of
+  our results to previous work of Li et al
+Report-no: DAMTP-2000-111
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+\\
+  Some of the consequences that follow from the C_2 condition of Zhu are
+analysed. In particular it is shown that every conformal field theory
+satisfying the C_2 condition has only finitely many n-point functions, and this
+result is used to prove a version of a conjecture of Nahm, namely that every
+representation of such a conformal field theory is quasirational. We also show
+that every such vertex operator algebra is a finite W-algebra, and we give a
+direct proof of the convergence of its characters as well as the finiteness of
+the fusion rules.
+\\

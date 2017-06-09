@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9712104
+From: Alexandre Grezzi de Miranda Schmidt <schmidt@ift.unesp.br>
+Date: Thu, 11 Dec 1997 00:42:30 GMT   (44kb)
+Date (revised v2): Fri, 15 Oct 1999 11:43:32 GMT   (44kb)
+
+Title: Solutions for a massless off-shell two-loop three-point vertex
+Authors: Alfredo T. Suzuki and Alexandre G. M. Schmidt
+Comments: 11 pages, ReVTeX, 5 figures in postscript format, reference [12]
+  corrected
+\\
+  Negative dimensional integration method (NDIM) seems to be a very promising
+technique for evaluating massless and/or massive Feynman diagrams. It is unique
+in the sense that the method simultaneously gives solutions in different
+regions of external momenta. Moreover, it is a technique whereby the
+difficulties associated with performing parametric integrals --- the standard
+approach --- are transferred to a simpler solving of a system of linear
+algebraic equations. Employing this method, we calculate a massless two-loop
+three point vertex with all the external legs off-shell. Then NDIM approach
+allows us to obtain twenty-one distinct new power series representations for
+the integral in question. In order to verify the correctness of our results, we
+consider five particular cases where either two of the external legs are put
+on-shell, or one of them amputated or one exponent of the propagators is set to
+zero, and compare our results thus obtained with the ones calculated with
+standard methods in positive dimension.
+\\

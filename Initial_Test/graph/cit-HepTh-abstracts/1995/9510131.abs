@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9510131
+From: anjan@tnp.saha.ernet.in (Anjan Kundu)
+Date: Wed, 18 Oct 95 17:53 GMT-0600   (12kb)
+
+Title: Exact Bethe ansatz solution of nonultralocal quantum mKdV model
+Authors: Anjan Kundu
+Comments: 12 pages, latex, no figures
+Report-no: SINP-TNP/95-15
+Subj-class: High Energy Physics - Theory; Quantum Algebra; Exactly Solvable and
+  Integrable Systems
+Journal-ref: Mod.Phys.Lett. A10 (1995) 2955-2966
+\\
+  A lattice regularized Lax operator for the nonultralocal modified Korteweg de
+Vries (mKdV) equation is proposed at the quantum level with the basic operators
+satisfying a $q$-deformed braided algebra. Finding further the associated
+quantum $R$ and $Z$-matrices the exact integrability of the model is proved
+through the braided quantum Yang--Baxter equation, a suitably generalized
+equation for the nonultralocal models. Using the algebraic Bethe ansatz the
+eigenvalue problem of the quantum mKdV model is exactly solved and its
+connection with the spin-$\ha$ XXZ chain is established, facilitating the
+investigation of the corresponding conformal properties.
+\\

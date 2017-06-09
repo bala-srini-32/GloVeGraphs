@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9509039
+From: atsuo kuniba <atsuo@hep1.c.u-tokyo.ac.jp>
+Date: Fri, 8 Sep 95 18:08:28 +0900   (8kb)
+
+Title: Pfaffian and Determinant Solutions to A Discretized Toda Equation for
+  $B_r, C_r$ and $D_r$
+Author: Atsuo Kuniba, Shuichi Nakamura and Ryogo Hirota
+Comments: Plain Tex, 9 pages
+Subj-class: High Energy Physics - Theory; Exactly Solvable and Integrable
+  Systems
+Journal-ref: J.Phys. A29 (1996) 1759-1766
+\\
+  We consider a class of 2 dimensional Toda equations on discrete space-time.
+It has arisen as functional relations in commuting family of transfer matrices
+in solvable lattice models associated with any classical simple Lie algebra
+$X_r$. For $X_r = B_r, C_r$ and $D_r$, we present the solution in terms of
+Pfaffians and determinants. They may be viewed as Yangian analogues of the
+classical Jacobi-Trudi formula on Schur functions.
+\\

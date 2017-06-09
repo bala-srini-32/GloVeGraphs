@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0112246
+From: Silvia Penati <Silvia.Penati@mib.infn.it>
+Date: Fri, 28 Dec 2001 10:05:24 GMT   (35kb)
+Date (revised v2): Fri, 8 Feb 2002 08:30:33 GMT   (35kb)
+Date (revised v3): Thu, 28 Nov 2002 15:28:45 GMT   (37kb)
+
+Title: An integrable noncommutative version of the sine--Gordon system
+Authors: Marcus T. Grisaru and Silvia Penati
+Comments: 28 pages, 2 figures. More comments about the equations of motion have
+  been added
+\\
+  Using the bicomplex approach we discuss a noncommutative system in
+two--dimensional Euclidean space. It is described by an equation of motion
+which reduces to the ordinary sine--Gordon equation when the noncommutation
+parameter is removed, plus a constraint equation which is nontrivial only in
+the noncommutative case. We show that the system has an infinite number of
+conserved currents and we give the general recursive relation for constructing
+them. For the particular cases of lower spin nontrivial currents we work out
+the explicit expressions and perform a direct check of their conservation.
+These currents reduce to the usual sine-Gordon currents in the commutative
+limit. We find classical ``localized'' solutions to first order in the
+noncommutativity parameter and describe the Backlund transformations for our
+system. Finally, we comment on the relation of our noncommutative system to the
+commutative sine-Gordon system.
+\\

@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0207107
+From: Barton Zwiebach <zwiebach@mail.lns.mit.edu>
+Date: Thu, 11 Jul 2002 14:58:10 GMT   (162kb)
+Date (revised v2): Wed, 4 Sep 2002 15:04:41 GMT   (166kb)
+
+Title: Dynamics with Infinitely Many Time Derivatives and Rolling Tachyons
+Authors: Nicolas Moeller and Barton Zwiebach
+Comments: 46 pages, 14 figures, LaTeX. Replaced version: Minor typos corrected,
+  some figures edited for clarity
+Report-no: CTP-MIT-3283
+Journal-ref: JHEP 0210 (2002) 034
+\\
+  Both in string field theory and in p-adic string theory the equations of
+motion involve infinite number of time derivatives. We argue that the initial
+value problem is qualitatively different from that obtained in the limit of
+many time derivatives in that the space of initial conditions becomes strongly
+constrained. We calculate the energy-momentum tensor and study in detail time
+dependent solutions representing tachyons rolling on the p-adic string theory
+potentials. For even potentials we find surprising small oscillations at the
+tachyon vacuum. These are not conventional physical states but rather
+anharmonic oscillations with a nontrivial frequency--amplitude relation. When
+the potentials are not even, small oscillatory solutions around the bottom must
+grow in amplitude without a bound. Open string field theory resembles this
+latter case, the tachyon rolls to the bottom and ever growing oscillations
+ensue. We discuss the significance of these results for the issues of emerging
+closed strings and tachyon matter.
+\\

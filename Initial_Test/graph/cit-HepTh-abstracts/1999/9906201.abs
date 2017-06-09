@@ -1,0 +1,34 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9906201
+From: Konstadinos Sfetsos <Konstadinos.Sfetsos@cern.ch>
+Date: Fri, 25 Jun 1999 18:59:23 GMT   (38kb)
+Date (revised v2): Wed, 10 Nov 1999 08:51:51 GMT   (38kb)
+
+Title: Wilson loops from multicentre and rotating branes, mass gaps and phase
+  structure in gauge theories
+Authors: A. Brandhuber and K. Sfetsos
+Comments: 27 pages, latex, 7 figures; v2: no substantial changes, version to
+  appear in Adv. Theor. Math. Phys
+Report-no: CERN-TH/99-191
+Journal-ref: Adv.Theor.Math.Phys. 3 (1999) 851-887
+\\
+  Within the AdS/CFT correspondence we use multicentre D3-brane metrics to
+investigate Wilson loops and compute the associated heavy quark-antiquark
+potentials for the strongly coupled SU(N) super-Yang-Mills gauge theory, when
+the gauge symmetry is broken by the expectation values of the scalar fields.
+For the case of a uniform distribution of D3-branes over a disc, we find that
+there exists a maximum separation beyond which there is no force between the
+quark and the antiquark, i.e. the screening is complete. We associate this
+phenomenon with the possible existence of a mass gap in the strongly coupled
+gauge theory. In the finite-temperature case, when the corresponding
+supergravity solution is a rotating D3-brane solution, there is a class of
+potentials interpolating between a Coulombic and a confining behaviour.
+However, above a certain critical value of the mass parameter, the potentials
+exhibit a behaviour characteristic of statistical systems undergoing phase
+transitions. The physical path preserves the concavity property of the
+potential and minimizes the energy. Using the same rotating-brane solutions, we
+also compute spatial Wilson loops, associated with the quark-antiquark
+potential in models of three-dimensional gauge theories at zero temperature,
+with similar results.
+\\

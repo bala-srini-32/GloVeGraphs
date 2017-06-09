@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9702091
+From: pinsky@mps.ohio-state.edu (Stephen Pinsky)
+Date: Tue, 11 Feb 1997 12:16:40 -0500   (6kb)
+
+Title: Wilson Loop on a Light-Cone Cylinder
+Author: Stephen Pinsky (Ohio State University)
+Comments: 7 pages, RevTex
+\\
+  QCD without matter and quantized on a light-cone spatial cylinder is
+considered. For the gauge group SU(N) the theory has N-1 quantum mechanical
+degrees of freedom, which describe the color fux that circulates around the the
+spatial cylinder. In 1+1 dimensions this problem can be solved analytically. I
+use the solution for SU(2) to compute the Wilson loop phase on the surface of
+the cylinder and find that it is equal to g^2 area/4. This result is different
+from the well known result for flat space. I argue that for SU(N) the Wilson
+loop phase for a contour on a light-cone spatial cylinder is g^2(area) (N-1)/4.
+The underlying reason for this result is that only the N-1 dimensional Cartan
+subgroup of SU(N) is dynamical in this problem.
+\\

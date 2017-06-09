@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9608143
+From: kraus@avzw02.physik.uni-bonn.de (Elisabeth Kraus)
+Date: Wed, 21 Aug 96 12:50:50 +0200   (23kb)
+
+Title: The standard model in the on-shell scheme
+Authors: Elisabeth Kraus and Klaus Sibold
+Comments: 8 pages, two-column style (espcrc2.sty), using LaTeX2e. To appear in
+  the Proceedings of the Workshop ``QCD and QED in Higher Order'', Rheinsberg,
+  Germany (April 1996)
+Report-no: BONN-TH-96-09
+Journal-ref: Nucl.Phys.Proc.Suppl. 51C (1996) 81-87
+\\
+  We outline the renormalization of the standard model to all orders of
+perturbation theory in a way which does not make essential use of a specific
+subtraction scheme but is based on the Slavnov-Taylor identity. Physical fields
+and parameters are used throughout the paper. The Ward-identity for the global
+gauge invariance of the vertex functions is formulated. As an application the
+Callan-Symanzik equation is derived.
+\\

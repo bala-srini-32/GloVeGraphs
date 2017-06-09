@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9602020
+From: Jens Hoppe <hoppe@itp.phys.ethz.ch>
+Date: Mon, 5 Feb 1996 18:07:52 +0100   (16kb)
+
+Title: On M-Algebras, the Quantisation of Nambu-Mechanics, and Volume
+  Preserving Diffeomorphisms
+Author: Jens Hoppe
+Comments: 16 pages, LaTex
+Report-no: ETH-TH/95-33
+Journal-ref: Helv.Phys.Acta 70 (1997) 302-317
+\\
+  M-branes are related to theories on function spaces $\cal{A}$ involving
+M-linear non-commutative maps from $\cal{A} \times \cdots \times \cal{A}$ to
+$\cal{A}$. While the Lie-symmetry-algebra of volume preserving diffeomorphisms
+of $T^M$ cannot be deformed when M>2, the arising M-algebras naturally relate
+to Nambu's generalisation of Hamiltonian mechanics, e.g. by providing a
+representation of the canonical M-commutation relations, $[J_1,\cdots,
+J_M]=i\hbar$. Concerning multidimensional integrability, an important
+generalisation of Lax-pairs is given.
+\\

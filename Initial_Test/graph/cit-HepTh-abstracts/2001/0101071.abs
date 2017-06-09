@@ -1,0 +1,19 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0101071
+From: John F. Wheater <j.wheater1@physics.oxford.ac.uk>
+Date: Thu, 11 Jan 2001 17:23:35 GMT   (12kb)
+Date (revised v2): Mon, 15 Jan 2001 10:20:30 GMT   (12kb)
+
+Title: The Convergence of Yang-Mills Integrals
+Authors: Peter Austing and John F. Wheater
+Comments: 13 pages, no figures, uses JHEP class. Extra references added
+Report-no: OUTP-01-01P
+Journal-ref: JHEP 0102 (2001) 028
+\\
+  We prove that SU(N) bosonic Yang-Mills matrix integrals are convergent for
+dimension (number of matrices) $D\ge D_c$. It is already known that $D_c=5$ for
+N=2; we prove that $D_c=4$ for N=3 and that $D_c=3$ for $N\ge 4$. These results
+are consistent with the numerical evaluations of the integrals by Krauth and
+Staudacher.
+\\

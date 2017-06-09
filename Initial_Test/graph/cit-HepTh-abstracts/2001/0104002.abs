@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0104002
+From: Davide Fioravanti <davidef@he.sissa.it>
+Date: Sat, 31 Mar 2001 17:29:32 GMT   (37kb)
+
+Title: A braided Yang-Baxter Algebra in a Theory of two coupled Lattice Quantum
+  KdV: algebraic properties and ABA representations
+Authors: Davide Fioravanti, Marco Rossi
+Comments: Latex file, 46 pages
+Subj-class: High Energy Physics - Theory; Quantum Algebra; Exactly Solvable and
+  Integrable Systems
+Journal-ref: J.Phys. A35 (2002) 3647-3682
+\\
+  A generalization of the Yang-Baxter algebra is found in quantizing the
+monodromy matrix of two (m)KdV equations discretized on a space lattice. This
+braided Yang-Baxter equation still ensures that the transfer matrix generates
+operators in involution which form the Cartan sub-algebra of the braided
+quantum group. Representations diagonalizing these operators are described
+through relying on an easy generalization of Algebraic Bethe Ansatz techniques.
+The conjecture that this monodromy matrix algebra leads, {\it in the cylinder
+continuum limit}, to a Perturbed Minimal Conformal Field Theory description is
+analysed and supported.
+\\

@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9503169
+From: volovich@vax.mat.utovrm.it
+Date: Fri, 24 Mar 1995 12:49:33 +0100   (10kb)
+
+Title: Stochastic bosonization in arbitrary dimensions
+Authors: L.Accardi, Y.G.Lu and I.Volovich
+Report-no: CVV-211-95
+Comments: 14 pages, Tex
+\\
+  A procedure of bosonization of Fermions in an arbitrary dimension is
+suggested. It is shown that a quadratic expression in the fermionic fields
+after rescaling time $t\to t/\lambda^2$ and performing the limit $\lambda\to0$
+(stochastic limit), gives rise to a bosonic operator satisfying the boson
+canonical commutation relations. This stochastic bosonization of Fermions is
+considered first for free fields and then for a model with three--linear
+couplings. The limiting dynamics of the bosonic theory turns out to be
+described by means of a quantum stochastic differential equations.
+\\

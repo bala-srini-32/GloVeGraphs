@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0105028
+From: Elisabeth Kraus <kraus@th.physik.uni-bonn.de>
+Date: Thu, 3 May 2001 08:33:11 GMT   (44kb)
+
+Title: Non-renormalization theorems of Supersymmetric QED in the Wess-Zumino
+  gauge
+Authors: E. Kraus and D. St\"ockinger
+Comments: Latex, 47 pages
+Report-no: BN-TH-01-04, KA-TP-14-2001
+Journal-ref: Nucl.Phys. B626 (2002) 73-112
+\\
+  The non-renormalization theorem of chiral vertices and the generalized
+non-renormalization theorem of the photon self energy are derived in SQED on
+the basis of algebraic renormalization. For this purpose the gauge coupling is
+extended to an external superfield. This extension already provides detailed
+insight into the divergence structure. Moreover, using the local supercoupling
+together with an additional external vector multiplet that couples to the axial
+current, the model becomes complete in the sense of multiplicative
+renormalization, with two important implications. First, a Slavnov--Taylor
+identity describing supersymmetry, gauge symmetry, and axial symmetry including
+the axial anomaly can be established to all orders. Second, from this
+Slavnov-Taylor identity we can infer a Callan-Symanzik equation expressing all
+aspects of the non-renormalization theorems. In particular, the gauge
+$\beta$-function appears explicitely in the closed form.
+\\

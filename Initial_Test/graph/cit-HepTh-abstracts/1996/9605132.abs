@@ -1,0 +1,18 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9605132
+From: Park daegil <dkpark@chep5.kaist.ac.kr>
+Date: Tue, 21 May 96 03:17:41 -0400   (9kb)
+
+Title: Comment on "Background thermal contributions in testing the Unruh
+  effect"
+Authors: D.K.Park, H.W.Lee, Y.S.Myung, Jin Young Kim
+Comments: REVTEX, 2 PS files included
+\\
+  Costa and Matsas (gr-qc/9412030) claimed in their recent paper that a
+thermal bath does not affect substantially the transition probability for fast
+moving inertial Unruh detector. It is shown that their claim holds only for
+small $\beta \Delta E$.  We show that, for large enough $\beta \Delta E$, the
+transition probability is not monotonically decreasing function of the
+detector's speed contrary to their claim.
+\\

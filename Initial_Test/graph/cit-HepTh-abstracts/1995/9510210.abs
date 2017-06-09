@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9510210
+From: volovich@arevol.mian.su (Volovich Igor)
+Date: Sun, 29 Oct 95 21:31:59 +0300 (MSK)   (11kb)
+Date (revised): Wed, 1 Nov 95 22:55:08 +0300 (MSK)
+Date (revised): Mon, 6 Nov 95 16:51:42 +0300 (MSK)
+
+Title: The Master Field for QCD and $q$-Deformed Quantum Field Theory
+Authors: I.Ya.Aref'eva and I.V.Volovich
+Comments: More comments about a new gauge theory and more references are added,
+  14 pages, latex
+Report-no: SMI-25-95
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+Journal-ref: Nucl.Phys. B462 (1996) 600-612
+\\
+  The master fields for the large $N$ limit of matrix models and gauge theory
+are constructed. The master fields satisfy to standard equations of
+relativistic field theory but fields are quantized according to a new rule. To
+define the master field we use the Yang-Feldman equation with a free field
+quantized in the Boltzmannian Fock space. The master field for gauge theory
+does not take values in a finite-dimensional Lie algebra however there is a
+non-Abelian gauge symmetry. For the construction of the master field it is
+essential to work in Minkowski space-time and to use the Wightman correlation
+functions. The BRST quantization of the master field for gauge theory and a
+loop equation are considered.
+\\

@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0007250
+From: Joseph A. Minahan <minahan@ctpbrown.mit.edu>
+Date: Mon, 31 Jul 2000 13:54:26 GMT   (25kb)
+Date (revised v2): Mon, 21 Aug 2000 15:36:01 GMT   (26kb)
+
+Title: Finite Temperature Effects in the Supergravity Dual of the N=1* Gauge
+  Theory
+Authors: Daniel Z. Freedman and Joseph A. Minahan
+Comments: 32 pages, revtex 3.0; v2, references added, factors of 2 corrected,
+  including an overall factor of 4 in the entropy computation
+Report-no: CTP-3003
+Journal-ref: JHEP 0101 (2001) 036
+\\
+  We consider the supergravity dual of the N=1* theory at finite temperature by
+applying the Polchinski-Strassler construction to the black D3 brane solution
+of Type IIB supergravity. At finite temperature the 5-brane probe action is
+minimized when the probe falls to the horizon, although metastable minima with
+r>>r_H persist for a range of temperatures. Thermal effects on the 3-form
+source for the hypermultiplet mass m and its order m^2 back reaction on the
+other fields of the IIB theory are computed. We find unique solutions which are
+regular at the horizon and have the correct behavior on the boundary. For fixed
+temperature T, the horizon shrinks for increasing m^2 suggesting that there is
+a critical temperature separating the system into high and low temperature
+phases. In the high temperature phase 5-branes are unnecessary since there are
+no naked singularities. Using the order m^2 correction to the horizon area we
+calculate the correction to the entropy to be \Delta S =-0.1714N^2m^2T, which
+is less than the free field result.
+\\

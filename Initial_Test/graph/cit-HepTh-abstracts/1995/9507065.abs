@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9507065
+From: Rinat.Kashaev@enslapp.ens-lyon.fr (Rinat KASHAEV)
+Date: Tue, 11 Jul 95 14:05:14 +0200   (17kb)
+
+Title: Affine Toda field theory as a 3-dimensional integrable system
+Authors: R.M. Kashaev and N. Reshetikhin
+Comments: 17 pages, LaTeX
+Report-no: ENSLAPP-L-/95
+Journal-ref: Commun.Math.Phys. 188 (1997) 251-266
+\\
+  The affine Toda field theory is studied as a 2+1-dimensional system. The
+third dimension appears as the discrete space dimension, corresponding to the
+simple roots in the $A_N$ affine root system, enumerated according to the
+cyclic order on the $A_N$ affine Dynkin diagram. We show that there exists a
+natural discretization of the affine Toda theory, where the equations of motion
+are invariant with respect to permutations of all discrete coordinates. The
+discrete evolution operator is constructed explicitly. The thermodynamic Bethe
+ansatz of the affine Toda system is studied in the limit $L,N\to\infty$. Some
+conjectures about the structure of the spectrum of the corresponding discrete
+models are stated.
+\\

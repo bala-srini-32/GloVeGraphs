@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9606051
+From: eli@ecm.ub.es (Emili Elizalde)
+Date: Mon, 10 Jun 1996 20:24:47 +0200   (19kb)
+
+Title: The Gross-Neveu model on a sphere with a magnetic monopole
+Authors: E. Elizalde, S. Naftulin and S.D. Odintsov
+Comments: LaTeX, 9 pages, 3 figures
+Report-no: CEAB 96/1-21
+Journal-ref: Phys.Rev. D54 (1996) 5010-5013
+\\
+  We study, for the first time, the phase structure of the Gross--Neveu model
+with a combination of a (constant) gravitational and a magnetic field. This has
+been made possible by our finding of an exact solution to the problem, namely
+the effective potential for the composite fermions. Then, from the
+corresponding implicit equation the phase diagram for the dynamical fermion
+mass is calculated numerically for some values of the magnetic field. %(what
+can be done with arbitrary precision). For a small magnetic field the phase
+diagram hints to the possibility of a second order phase transition at some
+critical curvature. With growing magnetic field only the phase with broken
+chiral symmetry survives, because the magnetic field prevents the decay of the
+chiral condensate. This result is bound to have important consequences in early
+universe cosmology.
+\\

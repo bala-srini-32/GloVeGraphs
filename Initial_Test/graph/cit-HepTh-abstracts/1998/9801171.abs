@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9801171
+From: Jens Boeckenhauer <bocken@x4u2.desy.de>
+Date: Mon, 26 Jan 1998 15:43:14 GMT   (29kb)
+Date (revised v2): Mon, 2 Mar 1998 17:39:08 GMT   (30kb)
+
+Title: Modular Invariants, Graphs and $\alpha$-Induction for Nets of Subfactors
+  I
+Author: J. B\"ockenhauer and D. E. Evans
+Comments: 36 pages, latex, several corrections, a strong additivity assumption
+  had to be added
+Journal-ref: Commun.Math.Phys. 197 (1998) 361-386
+\\
+  We analyze the induction and restriction of sectors for nets of subfactors
+defined by Longo and Rehren. Picking a local subfactor we derive a formula
+which specifies the structure of the induced sectors in terms of the original
+DHR sectors of the smaller net and canonical endomorphisms. We also obtain a
+reciprocity formula for induction and restriction of sectors, and we prove a
+certain homomorphism property of the induction mapping.
+  Developing further some ideas of F. Xu we will apply this theory in a
+forthcoming paper to nets of subfactors arising from conformal field theory, in
+particular those coming from conformal embeddings or orbifold inclusions of
+SU(n) WZW models. This will provide a better understanding of the labeling of
+modular invariants by certain graphs, in particular of the A-D-E classification
+of SU(2) modular invariants.
+\\

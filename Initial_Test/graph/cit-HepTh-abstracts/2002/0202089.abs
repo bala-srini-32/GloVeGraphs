@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0202089
+From: Vladimir Nesterenko <nestr@thsun1.jinr.ru>
+Date: Thu, 14 Feb 2002 18:27:18 GMT   (17kb)
+
+Title: Casimir effect for a perfectly conducting wedge in terms of local zeta
+  function
+Authors: V.V. Nesterenko, G. Lambiase, and G. Scarpetta
+Comments: 20 pages, REVTeX, no figures, no tables
+Journal-ref: Annals Phys. 298 (2002) 403-420
+\\
+  The vacuum energy density of electromagnetic field inside a perfectly
+conducting wedge is calculated by making use of the local zeta function
+technique. This regularization completely eliminates divergent expressions in
+the course of calculations and gives rise to a finite expression for the energy
+density in question without any subtractions. Employment of the Hertz
+potentials for constructing the general solution to the Maxwell equations
+results in a considerable simplification of the calculations. Transition to the
+global zeta function is carried out by introducing a cutoff nearby the cusp at
+the origin. Proceeding from this the heat kernel coefficients are calculated
+and the high temperature asymptotics of the Helmholtz free energy and of the
+torque of the Casimir forces are found. The wedge singularity gives rise to a
+specific high temperature behaviour $\sim T^2$ of the quantities under
+consideration. The obtained results are directly applicable to the free energy
+of a scalar massless field and electromagnetic field on the background of a
+cosmic string.
+\\

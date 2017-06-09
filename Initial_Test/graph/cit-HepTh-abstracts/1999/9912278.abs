@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9912278
+From: Mario Pernici <pernici@pcteor.mi.infn.it>
+Date: Thu, 30 Dec 1999 17:28:12 GMT   (27kb)
+
+Title: Semi-naive dimensional renormalization
+Authors: M. Pernici
+Comments: 28 pages, 3 figures
+Report-no: IFUM 652/FT
+Journal-ref: Nucl.Phys. B582 (2000) 733-755
+\\
+  We propose a treatment of $\gamma^5$ in dimensional regularization which is
+based on an algebraically consistent extension of the Breitenlohner-Maison-'t
+Hooft-Veltman (BMHV) scheme; we define the corresponding minimal
+renormalization scheme and show its equivalence with a non-minimal BMHV scheme.
+The restoration of the chiral Ward identities requires the introduction of
+considerably fewer finite counterterms than in the BMHV scheme. This scheme is
+the same as the minimal naive dimensional renormalization in the case of
+diagrams not involving fermionic traces with an odd number of $\gamma^5$, but
+unlike the latter it is a consistent scheme. As a simple example we apply our
+minimal subtraction scheme to the Yukawa model at two loops in presence of
+external gauge fields.
+\\

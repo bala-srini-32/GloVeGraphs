@@ -1,0 +1,33 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0003076
+From: Csaba Csaki <csaki@eotvos.lanl.gov>
+Date: Thu, 9 Mar 2000 23:51:50 GMT   (27kb)
+Date (revised v2): Fri, 10 Mar 2000 22:28:58 GMT   (28kb)
+Date (revised v3): Tue, 22 Aug 2000 21:22:37 GMT   (30kb)
+
+Title: Holographic RG and Cosmology in Theories with Quasi-Localized Gravity
+Authors: Csaba Csaki, Joshua Erlich, Timothy J. Hollowood and John Terning
+Comments: 19 pages, LaTeX, 2 figures, requires JHEP.cls, significant changes:
+  effects of induced boundary operators included
+Report-no: HUTP-00/A008
+Journal-ref: Phys.Rev. D63 (2001) 065019
+\\
+  We study the long distance behaviour of brane theories with quasi-localized
+gravity. The 5D effective theory at large scales follows from a holographic
+renormalization group flow. As intuitively expected, the graviton is
+effectively four dimensional at intermediate scales and becomes five
+dimensional at large scales. However in the holographic effective theory the
+essentially 4D radion dominates at long distances and gives rise to scalar
+anti-gravity. The holographic description shows that at large distances the GRS
+model is equivalent to the model recently proposed by Dvali, Gabadadze and
+Porrati (DGP), where a tensionless brane is embedded into 5D Minkowski space,
+with an additional induced 4D Einstein-Hilbert term on the brane. In the
+holographic description the radion of the GRS model is automatically localized
+on the tensionless brane, and provides the ghost-like field necessary to cancel
+the extra graviton polarization of the DGP model. Thus, there is a holographic
+duality between these theories. This analysis provides physical insight into
+how the GRS model works at intermediate scales; in particular it sheds light on
+the size of the width of the graviton resonance, and also demonstrates how the
+holographic RG can be used as a practical tool for calculations.
+\\

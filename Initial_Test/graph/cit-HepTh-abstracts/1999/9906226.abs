@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9906226
+From: Vijay Balasubramanian <vijayb@pauli.harvard.edu>
+Date: Tue, 29 Jun 1999 04:22:10 GMT   (35kb)
+
+Title: Holographic Particle Detection
+Authors: Vijay Balasubramanian and Simon F. Ross
+Comments: 26 pages, LaTeX, 7 figures, uses epsf.sty
+Report-no: HUTP-99/A032, UCSBTH-99-1
+Journal-ref: Phys.Rev. D61 (2000) 044007
+\\
+  In anti-de Sitter (AdS) space, classical supergravity solutions are
+represented "holographically" by conformal field theory (CFT) states in which
+operators have expectation values. These 1-point functions are directly related
+to the asymptotic behaviour of bulk fields. In some cases, distinct
+supergravity solutions have identical asymptotic behaviour; so dual expectation
+values are insufficient to distinguish them. We argue that non-local objects in
+the gauge theory can resolve the ambiguity, and explicitly show that
+collections of point particles in AdS_3 can be detected by studying kinks in
+dual CFT Green functions. Three dimensional black holes can be formed by
+collision of such particles. We show how black hole formation can be detected
+in the holographic dual, and calculate CFT quantities that are sensitive to the
+distribution of matter inside the event horizon.
+\\

@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0108236
+From: Jean-Bernard Zuber <zuber@spht.saclay.cea.fr>
+Date: Fri, 31 Aug 2001 17:09:46 GMT   (45kb)
+Date (revised v2): Sun, 2 Sep 2001 17:35:02 GMT   (44kb)
+Date (revised v3): Wed, 14 Nov 2001 17:02:58 GMT   (45kb)
+
+Title: Conformal Field Theories, Graphs and Quantum Algebras
+Authors: Valentina Petkova and Jean-Bernard Zuber
+Comments: 23 pages, 12 figures, LateX. To appear in MATHPHYS ODYSSEY 2001
+  --Integrable Models and Beyond, ed. M. Kashiwara and T. Miwa, Progress in
+  Math., Birkhauser. References and comments added
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+\\
+  This article reviews some recent progress in our understanding of the
+structure of Rational Conformal Field Theories, based on ideas that originate
+for a large part in the work of A. Ocneanu. The consistency conditions that
+generalize modular invariance for a given RCFT in the presence of various types
+of boundary conditions --open, twisted-- are encoded in a system of integer
+multiplicities that form matrix representations of fusion-like algebras. These
+multiplicities are also the combinatorial data that enable one to construct an
+abstract ``quantum'' algebra, whose $6j$- and $3j$-symbols contain essential
+information on the Operator Product Algebra of the RCFT and are part of a cell
+system, subject to pentagonal identities. It looks quite plausible that the
+classification of a wide class of RCFT amounts to a classification of ``Weak
+$C^*$- Hopf algebras''.
+\\

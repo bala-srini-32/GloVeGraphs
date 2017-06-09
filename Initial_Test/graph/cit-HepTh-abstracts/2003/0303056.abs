@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0303056
+From: Alexei Isaev <isaevap@thsun1.jinr.ru>
+Date: Thu, 6 Mar 2003 21:20:30 GMT   (16kb)
+Date (revised v2): Wed, 26 Mar 2003 09:46:37 GMT   (17kb)
+
+Title: Multi-loop Feynman integrals and conformal quantum mechanics
+Authors: A.P. Isaev (BLTP, Jinr, Dubna)
+Comments: 15 pages, Latex, corrected some typos
+Subj-class: High Energy Physics - Theory; Mathematical Physics
+\\
+  New algebraic approach to analytical calculations of D-dimensional integrals
+for multi-loop Feynman diagrams is proposed. We show that the known analytical
+methods of evaluation of multi-loop Feynman integrals, such as integration by
+parts and star-triangle relation methods, can be drastically simplified by
+using this algebraic approach. To demonstrate the advantages of the algebraic
+method of analytical evaluation of multi-loop Feynman diagrams, we calculate
+ladder diagrams for the massless $\phi^3$ theory. Using our algebraic approach
+we show that the problem of evaluation of special classes of Feynman diagrams
+reduces to the calculation of the Green functions for specific quantum
+mechanical problems. In particular, the integrals for ladder massless diagrams
+in the $\phi^3$ scalar field theory are given by the Green function for the
+conformal quantum mechanics.
+\\

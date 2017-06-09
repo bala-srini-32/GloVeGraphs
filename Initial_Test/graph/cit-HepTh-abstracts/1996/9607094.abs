@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9607094
+From: wulkhaar@tph100.physik.uni-leipzig.de
+Date: Fri, 12 Jul 96 10:29:56 -0000   (37kb)
+Date (revised): Tue, 29 Oct 96 15:04:04 +0100
+
+Title: The Mathematical Footing of Non-associative Geometry
+Authors: Raimar Wulkenhaar
+Comments: 39 pages, LaTeX2e + AMS macros, revised version: modified definition
+  of an ideal, because the old definition leads to a vanishing Higgs potential
+  in the standard model (hep-th/9607096)
+\\
+  Starting with a Hilbert space endowed with a representation of a unitary Lie
+algebra and an action of a generalized Dirac operator, we develop a
+mathematical concept towards gauge field theories. This concept shares common
+features with the non--commutative geometry a la Connes/Lott, differs from
+that, however, by the implementation of unitary Lie algebras instead of
+associative *-algebras. The general scheme is presented in detail and is
+applied to functions $\otimes$ matrices.
+\\

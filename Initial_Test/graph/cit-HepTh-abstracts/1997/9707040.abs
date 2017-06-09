@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9707040
+From: Ivan Avramidi <avramidi@rz.uni-greifswald.de>
+Date: Thu, 03 Jul 1997 10:12:08 METDST   (19kb)
+Date (revised): Fri, 10 Apr 1998 23:58:44 GMT
+
+Title: Green functions of higher-order differential operators
+Author: Ivan G. Avramidi (University of Iowa)
+Comments: 26 pages, LaTeX, 65 KB, no figures, some misprints and small mistakes
+  are fixed, final version to appear in J. Math. Phys. (May, 1998)
+Report-no: University of Greifswald (July, 1997)
+Journal-ref: J.Math.Phys. 39 (1998) 2889-2909
+\\
+  The Green functions of the partial differential operators of even order
+acting on smooth sections of a vector bundle over a Riemannian manifold are
+investigated via the heat kernel methods. We study the resolvent of a special
+class of higher-order operators formed by the products of second-order
+operators of Laplace type defined with the help of a unique Riemannian metric
+but with different bundle connections and potential terms. The asymptotic
+expansion of the Green functions near the diagonal is studied in detail in any
+dimension. As a by-product a simple criterion for the validity of the Huygens
+principle is obtained. It is shown that all the singularities as well as the
+non-analytic regular parts of the Green functions of such high-order operators
+are expressed in terms of the usual heat kernel coefficients $a_k$ for a
+special Laplace type second-order operator.
+\\

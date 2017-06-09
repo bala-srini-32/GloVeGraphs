@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9809031
+From: Giampiero.Esposito@na.infn.it
+Date: Fri, 4 Sep 1998 13:40:27 GMT   (14kb)
+Date (revised v2): Thu, 11 Mar 1999 07:17:42 GMT   (15kb)
+Date (revised v3): Thu, 14 Dec 2000 09:23:34 GMT   (15kb)
+
+Title: Boundary-Value Problems for the Squared Laplace Operator
+Author: Giampiero Esposito
+Comments: 22 pages, plain Tex. In the revised version, section 5 has been
+  amended
+Report-no: DSF preprint 98/31
+Journal-ref: Nuovo Cim. B114 (1999) 1029-1048; Erratum-ibid. B115 (2000) 1355
+\\
+  The squared Laplace operator acting on symmetric rank-two tensor fields is
+studied on a (flat) Riemannian manifold with smooth boundary. Symmetry of this
+fourth-order elliptic operator is obtained provided that such tensor fields and
+their first (or second) normal derivatives are set to zero at the boundary.
+Strong ellipticity of the resulting boundary-value problems is also proved.
+Mixed boundary conditions are eventually studied which involve complementary
+projectors and tangential differential operators. In such a case, strong
+ellipticity is guaranteed if a pair of matrices are non-degenerate. These
+results find application to the analysis of quantum field theories on manifolds
+with boundary.
+\\

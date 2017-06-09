@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0202153
+From: "Igor R. Klebanov" <klebanov@feynman.princeton.edu>
+Date: Fri, 22 Feb 2002 20:52:54 GMT   (14kb)
+Date (revised v2): Sun, 24 Feb 2002 16:00:37 GMT   (14kb)
+Date (revised v3): Wed, 27 Feb 2002 16:39:56 GMT   (15kb)
+
+Title: PP Wave Limit and Enhanced Supersymmetry in Gauge Theories
+Author: N. Itzhaki, Igor R. Klebanov and Sunil Mukhi
+Comments: 15 pages, LaTeX; v2: added more detail to a derivation, and a
+  preprint number; v3: minor corrections, some remarks and references added
+Report-no: PUPT-2024, TIFR/TH/02-06
+Journal-ref: JHEP 0203 (2002) 048
+\\
+  We observe that the pp wave limit of $AdS_5\times M^5$ compactifications of
+type IIB string theory is universal, and maximally supersymmetric, as long as
+$M^5$ is smooth and preserves some supersymmetry. We investigate a specific
+case, $M^5=T^{1,1}$. The dual ${\cal N}=1$ SCFT, describing D3-branes at a
+conifold singularity, has operators that we identify with the oscillators of
+the light-cone string in the universal pp-wave background. The correspondence
+is remarkable in that it relies on the exact spectrum of anomalous dimensions
+in this CFT, along with the existence of certain exceptional series of
+operators whose dimensions are protected only in the limit of large `t Hooft
+coupling. We also briefly examine the singular case $M^5=S^5/Z_2$, for which
+the pp wave background becomes a $Z_2$ orbifold of the maximally supersymmetric
+background by reflection of 4 transverse coordinates. We find operators in the
+corresponding ${\cal N}=2$ SCFT with the right properties to describe both the
+untwisted and the twisted sectors of the closed string.
+\\

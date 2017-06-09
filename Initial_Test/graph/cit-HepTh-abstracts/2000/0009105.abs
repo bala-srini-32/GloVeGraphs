@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0009105
+From: Shun'ichi Shinohara <shunichi@gauge.scphys.kyoto-u.ac.jp>
+Date: Thu, 14 Sep 2000 02:21:13 GMT   (12kb)
+Date (revised v2): Tue, 19 Sep 2000 02:07:01 GMT   (12kb)
+Date (revised v3): Fri, 27 Oct 2000 09:27:33 GMT   (12kb)
+
+Title: BRST Invariance of the Non-Perturbative Vacuum in Bosonic Open String
+  Field Theory
+Authors: Hiroyuki Hata and Shun'ichi Shinohara (Kyoto Univ.)
+Comments: 14 pages, no figures, LaTeX2e, v2: references added, minor changes,
+  v3: typos corrected
+Report-no: KUNS-1683
+Journal-ref: JHEP 0009 (2000) 035
+\\
+  Tachyon condensation on a bosonic D-brane was recently demonstrated
+numerically in Witten's open string field theory with level truncation
+approximation. This non-perturbative vacuum, which is obtained by solving the
+equation of motion, has to satisfy furthermore the requirement of BRST
+invariance. This is indispensable in order for the theory around the
+non-perturbative vacuum to be consistent. We carry out the numerical analysis
+of the BRST invariance of the solution and find that it holds to a good
+accuracy. We also mention the zero-norm property of the solution. The
+observations in this paper are expected to give clues to the analytic
+expression of the vacuum solution.
+\\

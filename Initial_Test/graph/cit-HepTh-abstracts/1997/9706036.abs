@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9706036
+From: Hans-Christian Pauli <pauli@mpi-hd.mpg.de>
+Date: Thu, 5 Jun 1997 18:43:57 +0200 (MET DST)   (195kb)
+
+Title: Towards solving gauge-field theory
+Author: H.C. Pauli (MPI Kernphysik, Heidelberg, Germany)
+Comments: Latex, 12 pages, 4 figures
+\\
+  The canonical front form Hamiltonian for non-Abelian SU(N) gauge theory in
+3+1 dimensions is mapped non-perturbatively on an effective Hamiltonian which
+acts only in the Fock space of a quark and an antiquark. The approach is based
+on the novel method of iterated resolvents and on discretized light-cone
+quantization, driven to the continuum limit. It is free of the usual
+Tamm-Dancoff truncations of the Fock space, rather the perturbative series are
+consistently resumed to all orders in the coupling constant. Emphasis is put on
+dealing with the many-body aspects of gauge field theory. The effective
+interaction turns out to be the kernel of an integral equation in the momentum
+space of a single quark, which is frame-independent and solvable on
+comparatively small computers. Important is that the higher Fock-space
+amplitudes can be retrieved self-consistently from these solutions.
+\\

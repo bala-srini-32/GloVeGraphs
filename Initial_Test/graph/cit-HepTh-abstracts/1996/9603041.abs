@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9603041
+From: garrahan@juno.cnea.edu.ar (Juan P. Garrahan)
+Date: Thu, 7 Mar 96 14:48:29-030   (31kb)
+
+Title: Lagrangian Becchi-Rouet-Stora-Tyutin treatment of collective coordinates
+Author: Juan P. Garrahan, Martin Kruczenski, and Daniel R. Bes
+Comments: LaTeX file, 26 pages, PostScript figures at end of file
+Report-no: Tandar preprint TAN-FNT-95/013
+Journal-ref: Phys.Rev. D53 (1996) 7176-7186
+\\
+  The Becchi-Rouet-Stora-Tyutin (BRST) treatment for the quantization of
+collective coordinates is considered in the Lagrangian formalism. The motion of
+a particle in a Riemannian manifold is studied in the case when the classical
+solutions break a non-abelian global invariance of the action. Collective
+coordinates are introduced, and the resulting gauge theory is quantized in the
+BRST antifield formalism. The partition function is computed perturbatively to
+two-loops, and it is shown that the results are independent of gauge-fixing
+parameters.
+\\

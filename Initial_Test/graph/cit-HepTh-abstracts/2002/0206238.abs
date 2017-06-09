@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0206238
+From: Sang-Jin Sin <sjs@hepth.hanyang.ac.kr>
+Date: Wed, 26 Jun 2002 13:23:55 GMT   (32kb)
+Date (revised v2): Sat, 29 Jun 2002 12:18:56 GMT   (32kb)
+Date (revised v3): Wed, 3 Jul 2002 09:48:43 GMT   (31kb)
+
+Title: A note on singular D-branes in group manifolds
+Authors: Taichi Itoh and Sang-Jin Sin (Hanyang Univ.)
+Comments: 28 pages,6 figures. v3:Typo corrected, reference added
+Journal-ref: Nucl.Phys. B650 (2003) 497-521
+\\
+  After reviewing D-branes as conjugacy classes and various charge
+quantizations (modulo $k$) in WZW model, we develop the classification and
+systematic construction of all possible untwisted D-branes in Lie groups of
+A-D-E series. D-branes are classified according to their positions in the
+maximal torus. The moduli space of D-branes is naturally identified with a unit
+cell in the weight space which is exponentiated to be the maximal torus.
+However, for the D-brane classification, one may consider only the fundamental
+Weyl domain that is surrounded by the hyperplanes defined by Weyl reflections.
+We construct all the D-branes by the method of iterative deletion in the Dynkin
+diagram. The dimension of a D-brane always becomes an even number and it
+reduces as we go from a generic point of the fundamental domain to its higher
+co-dimensional boundaries. Quantum mechanical stability requires that only
+D-branes at discrete positions are allowed.
+\\

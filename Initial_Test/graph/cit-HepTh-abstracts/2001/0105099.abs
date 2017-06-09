@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0105099
+From: Robert Marnelius <tferm@fy.chalmers.se>
+Date: Fri, 11 May 2001 10:03:21 GMT   (20kb)
+Date (revised v2): Wed, 19 Dec 2001 12:03:34 GMT   (20kb)
+
+Title: Extended observables in theories with constraints
+Author: Simon Lyakhovich, Robert Marnelius
+Comments: 26 pages, Latexfile,Minor misprints on page 4 are corrected
+Journal-ref: Int.J.Mod.Phys. A16 (2001) 4271-4296
+\\
+  In a classical Hamiltonian theory with second class constraints the phase
+space functions on the constraint surface are observables. We give general
+formulas for extended observables, which are expressions representing the
+observables in the enveloping unconstrained phase space. These expressions
+satisfy in the unconstrained phase space a Poisson algebra of the same form as
+the Dirac bracket algebra of the observables on the constraint surface. The
+general formulas involve new differential operators that differentiate the
+Dirac bracket. Similar extended observables are also constructed for theories
+with first class constraints which, however, are gauge dependent. For such
+theories one may also construct gauge invariant extensions with similar
+properties. Whenever extended observables exist the theory is expected to allow
+for a covariant quantization. A mapping procedure is proposed for covariant
+quantization of theories with second class constraints.
+\\

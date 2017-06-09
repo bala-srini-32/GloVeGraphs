@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9511166
+From: t32@nikhef.nl (Jan Willem v. Holten)
+Date: Thu, 23 Nov 1995 10:58:53 +0100   (14kb)
+
+Title: Killing tensors and a new geometric duality
+Authors: R.H. Rietdijk and J.W. van Holten
+Comments: 20 pages (a4), standard LaTeX, no figures
+Report-no: NIKHEF/95-061
+Journal-ref: Nucl.Phys. B472 (1996) 427-446
+\\
+  We present a theorem describing a dual relation between the local geometry of
+a space admitting a symmetric second-rank Killing tensor, and the local
+geometry of a space with a metric specified by this Killing tensor. The
+relation can be generalized to spinning spaces, but only at the expense of
+introducing torsion. This introduces new supersymmetries in their geometry.
+Interesting examples in four dimensions include the Kerr-Newman metric of
+spinning black-holes and self-dual Taub-NUT.
+\\

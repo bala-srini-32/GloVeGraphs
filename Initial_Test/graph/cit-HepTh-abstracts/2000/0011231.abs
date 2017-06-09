@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0011231
+From: Ricardo Troncoso <ratron@blackhole.cecs.cl>
+Date: Sun, 26 Nov 2000 00:44:44 GMT   (15kb)
+Date (revised v2): Thu, 24 May 2001 01:42:32 GMT   (16kb)
+Date (revised v3): Tue, 24 Jul 2001 19:34:50 GMT   (16kb)
+
+Title: Degenerate Dynamical Systems
+Authors: J. Saavedra, R. Troncoso and J. Zanelli
+Comments: 6 pages, 1 figure, two columns, revtex. Minor changes. Final version
+  for J. Math. Phys
+Report-no: CECS-PHY-00/12, USACH-FM-00/10
+Subj-class: High Energy Physics - Theory; Mathematical Physics; Dynamical
+  Systems
+Journal-ref: J.Math.Phys. 42 (2001) 4383-4390
+\\
+  Dynamical systems whose symplectic structure degenerates, becoming
+noninvertible at some points along the orbits are analyzed. It is shown that
+for systems with a finite number of degrees of freedom, like in classical
+mechanics, the degeneracy occurs on domain walls that divide phase space into
+nonoverlapping regions each one describing a nondegenerate system, causally
+disconnected from each other. These surfaces are characterized by the sign of
+the Liouville's flux density on them, behaving as sources or sinks of orbits.
+In this latter case, once the system reaches the domain wall, it acquires a new
+gauge invariance and one degree of freedom is dynamically frozen, while the
+remaining degrees of freedom evolve regularly thereafter.
+\\

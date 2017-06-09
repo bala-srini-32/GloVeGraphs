@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9606163
+From: ettore@math.sunysb.edu (Ettore Aldrovandi)
+Date: Tue, 25 Jun 1996 13:42:00 -0400 (EDT)   (40kb)
+Date (revised): Tue, 3 Sep 1996 16:00:56 -0400 (EDT)
+
+Title: Generating Functional in CFT and Effective Action for Two-Dimensional
+  Quantum Gravity on Higher Genus Riemann Surfaces
+Authors: Ettore Aldrovandi and Leon A. Takhtajan (Dept. of Mathematics, SUNY at
+  Stony Brook)
+Comments: 38 pages. Latex2e + AmsLatex2.1. One embedded figure. One section on
+  the relation with the geometry of fiber spaces on the Teichmueller space and
+  several important references added
+Subj-class: High Energy Physics - Theory; Differential Geometry
+Journal-ref: Commun.Math.Phys. 188 (1997) 29-67
+\\
+  We formulate and solve the analog of the universal Conformal Ward Identity
+for the stress-energy tensor on a compact Riemann surface of genus $g>1$, and
+present a rigorous invariant formulation of the chiral sector in the induced
+two-dimensional gravity on higher genus Riemann surfaces. Our construction of
+the action functional uses various double complexes naturally associated with a
+Riemann surface, with computations that are quite similar to descent
+calculations in BRST cohomology theory. We also provide an interpretation for
+the action functional in terms of the geometry of different fiber spaces over
+the Teichm\"{u}ller space of compact Riemann surfaces of genus $g>1$.
+\\

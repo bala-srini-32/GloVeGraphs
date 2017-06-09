@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9805084
+From: tferm@fy.chalmers.se (Robert Marnelius)
+Date: Thu, 14 May 1998 11:48:22 GMT   (11kb)
+Date (revised v2): Fri, 15 May 1998 15:23:06 GMT   (11kb)
+Date (revised v3): Mon, 18 May 1998 12:28:41 GMT   (11kb)
+Date (revised v4): Fri, 5 Jun 1998 14:19:18 GMT   (11kb)
+Date (revised v5): Fri, 10 Jul 1998 06:20:36 GMT   (11kb)
+Date (revised v6): Mon, 19 Oct 1998 14:06:26 GMT   (11kb)
+Date (revised v7): Fri, 29 Jan 1999 14:30:59 GMT   (11kb)
+
+Title: Quantum antibrackets
+Authors: Igor Batalin,Robert Marnelius
+Comments: 12 pages,Latexfile,Corrected misprint in (43)
+Report-no: ITP-Goteborg 98-04
+Journal-ref: Phys.Lett. B434 (1998) 312-320
+\\
+  A binary expression in terms of operators is given which satisfies all the
+quantum counterparts of the algebraic properties of the classical antibracket.
+This quantum antibracket has therefore the same relation to the classical
+antibracket as commutators to Poisson brackets. It is explained how this
+quantum antibracket is related to the classical antibracket and the
+\Delta-operator in the BV-quantization. Higher quantum antibrackets are
+introduced in terms of generating operators, which automatically yield all
+their subsequent Jacobi identities as well as the consistent Leibniz' rules.
+\\

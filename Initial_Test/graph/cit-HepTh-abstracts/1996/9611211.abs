@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9611211
+From: fferrari@lpthe.jussieu.fr (Franco FERRARI)
+Date: Mon, 25 Nov 1996 16:59:14 +0100 (MET)   (10kb)
+
+Title: Dirac Quantization of the Chern-Simons Field Theory in the Coulomb Gauge
+Authors: Franco Ferrari and Ignazio Lazzizzera
+Comments: 15 pages, Latex+RevTex, no figures
+Report-no: PAR-LPTHE 96-38, UTF 386/96
+Journal-ref: Phys.Lett. B395 (1997) 250-256
+\\
+  In this letter the Chern-Simons field theories are studied in the Coulomb
+gauge using the Dirac's canonical formalism for constrained systems. As a
+strategy, we first work out the constraints and then quantize, replacing the
+Dirac brackets with quantum commutators. We find that the Chern-Simons field
+theories become two dimensional models with no propagation along the time
+direction. Moreover, we prove that, despite of the presence of non-trivial
+self-interactions in the gauge fixed functional, the commutation relations
+between the fields are trivial at any order in perturbation theory in the
+absence of couplings with matter fields. If these couplings are present,
+instead, the commutation relations become rather involved, but it is still
+possible to study their main properties and to show that they vanish at the
+tree level.
+\\

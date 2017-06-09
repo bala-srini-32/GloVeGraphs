@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9709036
+From: HORWITZ@VM.TAU.AC.IL
+Date: Thu, 04 Sep 97 14:09:37 IST   (22kb)
+Date (revised): Thu, 9 Apr 1998 10:18:19 GMT
+
+Title: Representation of Quantum Mechanical Resonances in the Lax-Phillips
+  Hilbert Space
+Authors: Y. Strauss, L.P. Horwitz and E. Eisenberg
+Comments: Plain TeX, 26 pages. Minor revisions
+Journal-ref: J.Math.Phys. 41 (2000) 8050-8071
+\\
+  We discuss the quantum Lax-Phillips theory of scattering and unstable
+systems. In this framework, the decay of an unstable system is described by a
+semigroup. The spectrum of the generator of the semigroup corresponds to the
+singularities of the Lax-Phillips $S$-matrix. In the case of discrete (complex)
+spectrum of the generator of the semigroup, associated with resonances, the
+decay law is exactly exponential. The states corresponding to these resonances
+(eigenfunctions of the generator of the semigroup) lie in the Lax-Phillips
+Hilbert space, and therefore all physical properties of the resonant states can
+be computed.
+  We show that the Lax-Phillips $S$-matrix is unitarily related to the
+$S$-matrix of standard scattering theory by a unitary transformation
+parametrized by the spectral variable $\sigma$ of the Lax-Phillips theory.
+Analytic continuation in $\sigma$ has some of the properties of a method
+developed some time ago for application to dilation analytic potentials.
+  We work out an illustrative example using a Lee-Friedrichs model for the
+underlying dynamical system.
+\\

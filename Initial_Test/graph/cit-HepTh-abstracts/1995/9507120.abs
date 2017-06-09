@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9507120
+From: "R.D.Simmons" <R.D.Simmons@soton.ac.uk>
+Date: Sat, 22 Jul 1995 15:32:22 +0100 (BST)   (8kb)
+
+Title: One-Loop Quadratic Divergences of the Dual Non-Linear Sigma Model in
+  Four-Dimensional Spacetime
+Author: R.D. Simmons
+Comments: 9 pages, LaTeX2e, no figures, uses axodraw package for Feynman
+  diagrams. Axodraw available via anonymous ftp,
+  ftp://ftp.nikhef.nl/pub/form/axodraw/export
+  DVI version of preprint available via anonymous ftp or WWW;
+  ftp://hep2.phys.soton.ac.uk/pub/preprints/rdsquad.dvi
+  http://wwwhep.phys.soton.ac.uk/hepftp/pub/preprints/rdsquad.dvi
+Report-no: SHEP 95/24
+\\
+  Following a review of the dual description of the non-linear sigma model we
+investigate the one-loop quadratic divergences. We use the covariant background
+field method for the general case and apply the results to the important
+example of $SU(2)$.
+\\

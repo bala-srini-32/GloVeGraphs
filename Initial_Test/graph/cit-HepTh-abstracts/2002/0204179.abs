@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0204179
+From: SILVA Sebastian <silva@aei-potsdam.mpg.de>
+Date: Mon, 22 Apr 2002 14:29:09 GMT   (19kb)
+Date (revised v2): Mon, 29 Apr 2002 11:58:52 GMT   (19kb)
+
+Title: Black hole entropy and thermodynamics from symmetries
+Authors: Sebastian Silva
+Comments: LaTeX, 23 pages, no figures
+Journal-ref: Class.Quant.Grav. 19 (2002) 3947-3962
+\\
+  Given a boundary of spacetime preserved by a Diff(S^{1}) sub-algebra, we
+propose a systematic method to compute the zero mode and the central extension
+of the associated Virasoro algebra of charges. Using these values in the Cardy
+formula, we may derive an associated statistical entropy to be compared with
+the Bekenstein-Hawking result.
+  To illustrate our method, we study in detail the BTZ and the rotating
+Kerr-adS_{4} black holes (at spatial infinity and on the horizon). In both
+cases, we are able to reproduce the area law with the correct factor of 1/4 for
+the entropy. We also recover within our framework the first law of black hole
+thermodynamics.
+  We compare our results with the analogous derivations proposed by Carlip and
+others. Although similar, our method differs in the computation of the zero
+mode. In particular, the normalization of the ground state is automatically
+fixed by our construction.
+\\

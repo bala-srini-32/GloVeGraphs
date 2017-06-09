@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9810177
+From: "Giancarlo Rossi, Universita' di Roma" <Giancarlo.Rossi@roma2.infn.it>
+Date: Thu, 22 Oct 1998 13:16:51 GMT   (9kb)
+
+Title: Schr\"odinger Functional and Quantization of Gauge Theories in the
+  Temporal Gauge
+Authors: G.C. Rossi
+Comments: plain Latex, 6 pages, uses sprocl.sty (included). Talk given at PI98,
+  Florence, Italy
+\\
+  In the language of Feynman path integrals the quantization of gauge theories
+is most easily carried out with the help of the Schr\"odinger Functional (SF).
+Within this formalism the essentially unique gauge fixing condition is
+$A_{\circ} = 0$ (temporal gauge), as any other rotationally invariant gauge
+choice can be shown to be functionally equivalent to the former. In the
+temporal gauge Gauss' law is automatically implemented as a constraint on the
+states. States not annihilated by the Gauss operator describe the situation in
+which external (infinitely heavy) colour sources interact with the gauge field.
+The SF in the presence of an arbitrary distribution of external colour sources
+can be expressed in an elegant and concise way.
+\\

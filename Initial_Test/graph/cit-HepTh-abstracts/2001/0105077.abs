@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0105077
+From: Clifford V. Johnson <c.v.johnson@durham.ac.uk>
+Date: Wed, 9 May 2001 19:01:07 GMT   (44kb)
+Date (revised v2): Thu, 12 Jul 2001 20:27:47 GMT   (44kb)
+
+Title: The Enhancon and the Consistency of Excision
+Authors: Clifford V. Johnson, Robert C. Myers, Amanda W. Peet, Simon F. Ross
+Comments: 31 pages, 3 figures, latex, psfig (v2: a few typo's corrected. In
+  conclusions section, added enhancements to discussion of available choices of
+  interior for non-extremal enhancons.)
+Report-no: McGill/01-03, UTPT-01-07, NSF-ITP-01-21, DCTP-01/35
+Journal-ref: Phys.Rev. D64 (2001) 106001
+\\
+  The enhancon mechanism removes a family of time-like singularities from
+certain supergravity spacetimes by forming a shell of branes on which the
+exterior geometry terminates. The problematic interior geometry is replaced by
+a new spacetime, which in the prototype extremal case is simply flat. We show
+that this excision process, made inevitable by stringy phenomena such as
+enhanced gauge symmetry and the vanishing of certain D-branes' tension at the
+shell, is also consistent at the purely gravitational level. The source
+introduced at the excision surface between the interior and exterior geometries
+behaves exactly as a shell of wrapped D6-branes, and in particular, the tension
+vanishes at precisely the enhancon radius. These observations can be
+generalised, and we present the case for non-extremal generalisations of the
+geometry, showing that the procedure allows for the possibility that the
+interior geometry contains an horizon. Further knowledge of the dynamics of the
+enhancon shell itself is needed to determine the precise position of the
+horizon, and to uncover a complete physical interpretation of the solutions.
+\\

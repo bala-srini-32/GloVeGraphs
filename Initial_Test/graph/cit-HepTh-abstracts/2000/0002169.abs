@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0002169
+From: Toshiya Kawai <toshiya@kurims.kyoto-u.ac.jp>
+Date: Mon, 21 Feb 2000 16:35:28 GMT   (60kb)
+Date (revised v2): Fri, 25 Feb 2000 06:59:28 GMT   (60kb)
+Date (revised v3): Mon, 24 Apr 2000 18:29:14 GMT   (60kb)
+Date (revised v4): Tue, 29 Aug 2000 07:38:13 GMT   (60kb)
+
+Title: String Partition Functions and Infinite Products
+Authors: Toshiya Kawai and Kota Yoshioka
+Comments: 55 pages, minor corrections, typos
+Subj-class: High Energy Physics - Theory; Algebraic Geometry
+Journal-ref: Adv.Theor.Math.Phys. 4 (2000) 397-485
+\\
+  We continue to explore the conjectural expressions of the Gromov-Witten
+potentials for a class of elliptically and K3 fibered Calabi-Yau 3-folds in the
+limit where the base P^1 of the K3 fibration becomes infinitely large. At least
+in this limit we argue that the string partition function (=the exponential
+generating function of the Gromov-Witten potentials) can be expressed as an
+infinite product in which the Kahler moduli and the string coupling are treated
+somewhat on an equal footing. Technically speaking, we use the exponential
+lifting of a weight zero Jacobi form to reach the infinite product as in the
+celebrated work of Borcherds. However, the relevant Jacobi form is associated
+with a lattice of Lorentzian signature. A major part of this work is devoted to
+an attempt to interpret the infinite product or more precisely the Jacobi form
+in terms of the bound states of D2- and D0-branes using a vortex description
+and its suitable generalization.
+\\

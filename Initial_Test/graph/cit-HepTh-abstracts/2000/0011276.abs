@@ -1,0 +1,32 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0011276
+From: "R. Loll" <loll@aei-potsdam.mpg.de>
+Date: Wed, 29 Nov 2000 18:23:47 GMT   (176kb)
+Date (revised v2): Sun, 27 May 2001 23:04:27 GMT   (210kb)
+
+Title: Non-perturbative 3d Lorentzian Quantum Gravity
+Authors: J. Ambjorn (NBI, Copenhagen), J. Jurkiewicz (U. Krakow) and R. Loll
+  (AEI, Golm)
+Comments: 35 pages, 17 figures, final version, to appear in Phys. Rev. D (some
+  clarifying comments and some references added)
+Report-no: AEI-2000-074
+Journal-ref: Phys.Rev. D64 (2001) 044011
+\\
+  We have recently introduced a discrete model of Lorentzian quantum gravity,
+given as a regularized non-perturbative state sum over simplicial Lorentzian
+space-times, each possessing a unique Wick rotation to Euclidean signature. We
+investigate here the phase structure of the Wick-rotated path integral in three
+dimensions with the aid of computer simulations. After fine-tuning the
+cosmological constant to its critical value, we find a whole range of the
+gravitational coupling constant $k_0$ for which the functional integral is
+dominated by non-degenerate three-dimensional space-times. We therefore have a
+situation in which a well-defined ground state of extended geometry is
+generated dynamically from a non-perturbative state sum of fluctuating
+geometries. Remarkably, its macroscopic scaling properties resemble those of a
+semi-classical spherical universe. Measurements so far indicate that $k_0$
+defines an overall scale in this extended phase, without affecting the physics
+of the continuum limit. These findings provide further evidence that discrete
+{\it Lorentzian} gravity is a promising candidate for a non-trivial theory of
+quantum gravity.
+\\

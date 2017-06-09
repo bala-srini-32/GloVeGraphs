@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0201165
+From: Gernot Akemann <akemann@spht.saclay.cea.fr>
+Date: Mon, 21 Jan 2002 15:13:26 GMT   (34kb)
+Date (revised v2): Wed, 6 Mar 2002 14:34:27 GMT   (34kb)
+
+Title: New Critical Matrix Models and Generalized Universality
+Authors: G. Akemann and G. Vernizzi
+Comments: LaTeX, 25 pages, 1 figure; references added, NPB to appear
+Report-no: SPhT T01/141, OUTP-01-62P
+Journal-ref: Nucl.Phys. B631 (2002) 471-499
+\\
+  We study a class of one-matrix models with an action containing nonpolynomial
+terms. By tuning the coupling constants in the action to criticality we obtain
+that the eigenvalue density vanishes as an arbitrary real power at the origin,
+thus defining a new class of multicritical matrix models. The corresponding
+microscopic scaling law is given and possible applications to the chiral phase
+transition in QCD are discussed. For generic coupling constants off-criticality
+we prove that all microscopic correlation functions at the origin of the
+spectrum remain in the known Bessel universality class. An arbitrary number of
+Dirac mass terms can be included and the corresponding massive universality is
+maintained as well. We also investigate the critical behavior at the edge of
+the spectrum: there, in contrast to the behavior at the origin, we find the
+same critical exponents as derived from matrix models with a polynomial action.
+\\

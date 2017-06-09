@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9802021
+From: GRASSI@le.infn.it
+Date: Wed, 4 Feb 1998 15:25:42 GMT   (21kb)
+
+Title: Continuous approximation of binomial lattices
+Authors: V. Grassi, R. A. Leo, G. Soliani and L. Solombrino
+Comments: 30 pages, LaTeX, no figures. Submitted to Annals of Physics
+Journal-ref: Int.J.Mod.Phys. A14 (1999) 2357-2384
+\\
+  A systematic analysis of a continuous version of a binomial lattice,
+containing a real parameter $\gamma$ and covering the Toda field equation as
+$\gamma\to\infty$, is carried out in the framework of group theory. The
+symmetry algebra of the equation is derived. Reductions by one-dimensional and
+two-dimensional subalgebras of the symmetry algebra and their corresponding
+subgroups, yield notable field equations in lower dimensions whose solutions
+allow to find exact solutions to the original equation. Some reduced equations
+turn out to be related to potentials of physical interest, such as the
+Fermi-Pasta-Ulam and the Killingbeck potentials, and others. An instanton-like
+approximate solution is also obtained which reproduces the Eguchi-Hanson
+instanton configuration for $\gamma\to\infty$. Furthermore, the equation under
+consideration is extended to $(n+1)$--dimensions. A spherically symmetric form
+of this equation, studied by means of the symmetry approach, provides
+conformally invariant classes of field equations comprising remarkable special
+cases. One of these $(n=4)$ enables us to establish a connection with the
+Euclidean Yang-Mills equations, another appears in the context of Differential
+Geometry in relation to the socalled Yamabe problem. All the properties of the
+reduced equations are shared by the spherically symmetric generalized field
+equation.
+\\

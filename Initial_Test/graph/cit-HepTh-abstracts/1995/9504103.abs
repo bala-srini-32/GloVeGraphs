@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9504103
+From: Dana Fine <dfine@cis.umassd.edu>
+Date: Thu, 20 Apr 1995 10:15:23 -0400   (12kb)
+Date (revised): Mon, 29 Jan 1996 13:31:35 -0500
+
+Title: Topological Sectors and Measures on Moduli Space in Quantum Yang-Mills
+  on a Riemann Surface
+Authors: Dana Stanley Fine
+Comments: 13 pages, Latex (v. 2.09), figure available on request, revised to
+  add 2 new references, clarify exposition, fix typos. Version to appear in J.
+  Math. Phys., Spring 1996
+Journal-ref: J.Math.Phys. 37 (1996) 1161-1170
+\\
+  Previous path integral treatments of Yang-Mills on a Riemann surface
+automatically sum over principal fiber bundles of all possible topological
+types in computing quantum expectations. This paper extends the path integral
+formulation to treat separately each topological sector. The formulation is
+sufficiently explicit to calculate Wilson line expectations exactly. Further,
+it suggests two new measures on the moduli space of flat connections, one of
+which proves to agree with the small-volume limit of the Yang-Mills measure.
+\copyright {\em 1996 American Institute of Physics.}
+\\

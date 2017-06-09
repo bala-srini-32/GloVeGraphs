@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9512122
+From: "Chau" <ling-lie_chau@quadra01.ucdavis.edu>
+Date: 17 Dec 1995 01:25:21 -0800   (13kb)
+
+Title: The K-Z Equation and the Quantum-Group Difference Equation in Quantum
+  Self-dual Yang-Mills Theory
+Authors: Ling-Lie Chau and Itaru Yamanaka (UC Davis)
+Comments: 15 pages, uses phyzzx
+Report-no: UCDPHYS-PUB-34-95, to appear in J. Math. Phys
+Journal-ref: J.Math.Phys. 37 (1996) 3704-3712
+\\
+  From the time-independent current $\tcj(\bar y,\bar k)$ in the quantum
+self-dual Yang-Mills (SDYM) theory, we construct new group-valued quantum
+fields $\tilde U(\bar y,\bar k)$ and $\bar U^{-1}(\bar y,\bar k)$ which satisfy
+a set of exchange algebras such that fields of $\tcj(\bar y,\bar k)\sim\tilde
+U(\bar y,\bar k)~\partial\bar y~\tilde U^{-1}(\bar y,\bar k)$ satisfy the
+original time-independent current algebras. For the correlation functions of
+the products of the $\tilde U(\bar y,\bar k)$ and $\tilde U^{-1}(\bar y,\bar
+k)$ fields defined in the invariant state constructed through the current
+$\tcj(\bar y,\bar k)$ we can derive the Knizhnik-Zamolodchikov (K-Z) equations
+with an additional spatial dependence on $\bar k$. From the $\tilde U(\bar
+y,\bar k)$ and $\tilde U^{-1}(\bar y,\bar k)$ fields we construct the
+quantum-group generators --- local, global, and semi-local --- and their
+algebraic relations. For the correlation functions of the products of the
+$\tilde U$ and $\tilde U^{-1}$ fields defined in the invariant state
+constructed through the semi-local quantum-group generators we obtain the
+quantum-group difference equations. We give the explicit solution to the two
+point function.
+\\

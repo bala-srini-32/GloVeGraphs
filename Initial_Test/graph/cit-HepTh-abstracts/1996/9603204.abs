@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9603204
+From: Rajamani Narayanan <rnarayan@fermi.phys.washington.edu>
+Date: Fri, 29 Mar 1996 14:54:45 -0800 (PST)   (31kb)
+
+Title: Anomaly free U(1) chiral gauge theories on a two dimensional torus
+Authors: Rajamani Narayanan, Herbert Neuberger
+Comments: 30 pages
+Report-no: UW/PT-96-04; DOE/ER/40561-254-INT96-00-123; RU-96-18
+Journal-ref: Nucl.Phys. B477 (1996) 521-548
+\\
+  We consider anomaly free combinations of chiral fermions coupled to $U(1)$
+gauge fields on a 2D torus first in the continuum and then on the lattice in
+the overlap formulation. Both in the continuum and on the lattice, when the
+background consists of sufficiently large constant gauge potentials the action
+induced by the fermions varies significantly under certain singular gauge
+transformations. ``Ruling away'' such discontinuities cannot be justified in
+the continuum framework and does not naturally fit on the lattice. Complete
+gauge invariance in the continuum can be restored in some models by choosing
+special boundary conditions for the fermions. Evidence is presented that gauge
+averaging the overlap phases in these models produces correct continuum
+results.
+\\

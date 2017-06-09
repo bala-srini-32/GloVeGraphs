@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9506135
+From: Bert Schellekens <t58@next.nikhef.nl>
+Date: Tue, 20 Jun 95 16:21:15 +0200   (102kb)
+Date (revised): Wed, 21 Jun 95 16:23:51 +0200
+Date (revised): Fri, 6 Feb 1998 16:42:28 GMT
+
+Title: From Dynkin diagram symmetries to fixed point structures
+Authors: J"urgen Fuchs, Bert Schellekens, Christoph Schweigert
+Comments: Latex, 60 pages (extended version 63 pages), 4 uuencoded figures
+  Formula (6.25) corrected. While this correction might be important in
+  applications of our work, the results of the paper are not affected by it. In
+  the present submission the "extended version" is default. In this version the
+  corrected formula is (6.32)
+Report-no: NIKHEF 95-028
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+Journal-ref: Commun.Math.Phys. 180, 39, 1996
+\\
+  Any automorphism of the Dynkin diagram of a symmetrizable Kac-Moody algebra
+induces an automorphism of the algebra and a mapping between its highest weight
+modules. For a large class of such Dynkin diagram automorphisms, we can
+describe various aspects of these maps in terms of another Kac-Moody algebra,
+the `orbit Lie algebra'. In particular, the generating function for the trace
+of the map on modules, the `twining character', is equal to a character of the
+orbit Lie algebra. Orbit Lie algebras and twining characters constitute a
+crucial step towards solving the fixed point resolution problem in conformal
+field theory.
+\\

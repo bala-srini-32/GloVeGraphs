@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9511121
+From: Alexander Moroz <am@th.ph.bham.ac.uk>
+Date: Thu, 16 Nov 1995 15:47:58 GMT   (8kb)
+Date (revised): Fri, 15 Mar 1996 14:48:34 GMT
+
+Title: On indices of the Dirac operator in a non-Fredholm case
+Authors: Alexander Moroz
+Comments: 9 pages, plain latex, no figures. Two definitions supplied and one
+  reference added + some minor corrections, to appear in Mod. Phys. Lett. A
+Report-no: TPBU-2-95
+Journal-ref: Mod.Phys.Lett. A11 (1996) 979-986
+\\
+  The Dirac Hamiltonian with the Aharonov-Bohm potential provides an example of
+a non-Fredholm operator for which all spectral asymmetry comes entirely from
+the continuous spectrum. In this case one finds that the use of standard
+definitions of the resolvent regularized, the heat kernel regularized, and the
+Witten indices misses the contribution coming from the continuous spectrum and
+gives vanishing spectral asymmetry and axial anomaly. This behaviour in the
+case of the continuous spectrum seems to be general and its origin is
+discussed.
+\\

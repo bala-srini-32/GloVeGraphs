@@ -1,0 +1,32 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0108021
+From: Alexander Turbiner <turbiner@nuclecu.unam.mx>
+Date: Sat, 4 Aug 2001 10:42:25 GMT   (27kb)
+Date (revised v2): Tue, 7 Aug 2001 19:55:01 GMT   (28kb)
+
+Title: Solvability of the $F_4$ Integrable System
+Authors: Konstantin G. Boreskov, Juan Carlos Lopez V., Alexander V. Turbiner
+Comments: 35 pages, LaTeX
+Report-no: LPT-ORSAY 01-76 (2001)
+Subj-class: High Energy Physics - Theory; Mathematical Physics; Exactly
+  Solvable and Integrable Systems; Spectral Theory
+Journal-ref: Int.J.Mod.Phys. A16 (2001) 4769
+\\
+  It is shown that the $F_4$ rational and trigonometric integrable systems are
+exactly-solvable for {\it arbitrary} values of the coupling constants. Their
+spectra are found explicitly while eigenfunctions by pure algebraic means. For
+both systems new variables are introduced in which the Hamiltonian has an
+algebraic form being also (block)-triangular. These variables are invariant
+with respect to the Weyl group of $F_4$ root system and can be obtained by
+averaging over an orbit of the Weyl group. Alternative way of finding these
+variables exploiting a property of duality of the $F_4$ model is presented. It
+is demonstrated that in these variables the Hamiltonian of each model can be
+expressed as a quadratic polynomial in the generators of some
+infinite-dimensional Lie algebra of differential operators in a
+finite-dimensional representation. Both Hamiltonians preserve the same flag of
+polynomials and each subspace of the flag coincides with the finite-dimensional
+representation space of this algebra. Quasi-exactly-solvable generalization of
+the rational $F_4$ model depending on two continuous and one discrete
+parameters is found.
+\\

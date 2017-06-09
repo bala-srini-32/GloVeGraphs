@@ -1,0 +1,37 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9607075
+From: MUNCZEK@KUPHSX.PHSX.UKANS.EDU
+Date: Tue, 9 Jul 1996 14:40 CST   (47kb)
+
+Title: Study of Quark Propagator Solutions to the Dyson--Schwinger Equation in
+  a Confining Model
+Author: Douglas W. McKay and Herman J. Munczek (Department of Physics and
+  Astronomy, The University of Kansas, Lawrence)
+Journal-ref: Phys.Rev. D55 (1997) 2455-2463
+\\
+  We solve the Dyson--Schwinger equation for the quark propagator in a model
+with singular infrared behavior for the gluon propagator. We require that the
+solutions, easily found in configuration space, be tempered distributions and
+thus have Fourier transforms. This severely limits the boundary conditions that
+the solutions may satisify. The sign of the dimensionful parameter that
+characterizes the model gluon propagator can be either positive or negative. If
+the sign is negative, we find a unique solution. It is singular at the origin
+in momentum space, falls off like $1/p^2$ as $p^2\rightarrow +/-\infty$, and it
+is truly nonperturbative in that it is singular in the limit that the
+gluon--quark interaction approaches zero. If the sign of the gluon propagator
+coefficient is positive, we find solutions that are, in a sense that we
+exhibit, unconstrained linear combinations of advanced and retarded
+propagators. These solutions are singular at the origin in momentum space, fall
+off like $1/p^2$ asympotically, exhibit ``resonant--like" behavior at the
+position of the bare mass of the quark when the mass is large compared to the
+dimensionful interaction parameter in the gluon propagator model, and smoothly
+approach a linear combination of free--quark, advanced and retarded two--point
+functions in the limit that the interaction approaches zero. In this sense,
+these solutions behave in an increasingly ``particle--like" manner as the quark
+becomes heavy. The Feynman propagator and the Wightman function are not
+tempered distributions and therefore are not acceptable solutions to the
+Schwinger--Dyson equation in our model. On this basis we advance several
+arguments to show that the Fourier--transformable solutions we find are
+consistent with quark confinement, even though they have singularities on the
+\\

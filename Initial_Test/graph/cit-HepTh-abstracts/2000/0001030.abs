@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0001030
+From: Samik Sen <samik@maths.tcd.ie>
+Date: Fri, 7 Jan 2000 13:19:34 GMT   (25kb)
+
+Title: A geometric discretisation scheme applied to the Abelian Chern-Simons
+  theory
+Authors: Samik Sen, Siddhartha Sen, James C. Sexton and David H. Adams
+Comments: 27 pages, 5 figures, 6 tables. in latex
+Report-no: TCDMATH 99-18
+Journal-ref: Phys.Rev. E61 (2000) 3174-3185
+\\
+  We give a detailed general description of a recent geometrical discretisation
+scheme and illustrate, by explicit numerical calculation, the scheme's ability
+to capture topological features. The scheme is applied to the Abelian
+Chern-Simons theory and leads, after a necessary field doubling, to an
+expression for the discrete partition function in terms of untwisted
+Reidemeister torsion and of various triangulation dependent factors. The
+discrete partition function is evaluated computationally for various
+triangulations of $S^3$ and of lens spaces. The results confirm that the
+discretisation scheme is triangulation independent and coincides with the
+continuum partition function
+\\

@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0008088
+From: "Sumit R. Das" <das@gravity.theory.tifr.res.in>
+Date: Thu, 10 Aug 2000 20:40:27 GMT   (12kb)
+Date (revised v2): Sat, 9 Dec 2000 21:00:31 GMT   (12kb)
+
+Title: Giant Gravitons, BPS bounds and Noncommutativity
+Authors: Sumit R. Das, Antal Jevicki and Samir D. Mathur
+Comments: 15 pages, harvmac, corrected some typos
+Report-no: TIFR-TH/00-43, OHSTPY-HEP-T-00-012
+Journal-ref: Phys.Rev. D63 (2001) 044001
+\\
+  It has been recently suggested that gravitons moving in $AdS_m \times S^n$
+spacetimes along the $S^n$ blow up into spherical $(n-2)$ branes whose radius
+increases with increasing angular momentum. This leads to an upper bound on the
+angular momentum, thus ``explaining'' the stringy exclusion principle. We show
+that this bound is present only for states which saturate a BPS-like condition
+involving the energy $E$ and angular momentum $J$, $E \geq J/R$, where $R$ is
+the radius of $S^n$. Restriction of motion to such states lead to a
+noncommutativity of the coordinates on $S^n$. As an example of motions which do
+not obey the exclusion principle bound, we show that there are finite action
+instanton configurations interpolating between two possible BPS states. We
+suggest that this is consistent with the proposal that there is an effective
+description in terms of supergravity defined on noncommutative spaces and
+noncommutativity arises here because of imposing supersymmetry.
+\\

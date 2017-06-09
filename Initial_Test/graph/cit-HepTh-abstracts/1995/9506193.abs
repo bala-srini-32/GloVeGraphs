@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9506193
+From: kristja@amoco.saclay.cea.fr (Charlotte Kristjansen)
+Date: Thu, 29 Jun 1995 18:11:35 +0200   (32kb)
+
+Title: Exact Solution of the O(n) Model on a Random Lattice
+Authors: B. Eynard and C. Kristjansen, (SPhT, Saclay)
+Comments: 44 pages, LaTeX file, no figures
+Report-no: SPhT/95-068
+Journal-ref: Nucl.Phys. B455 (1995) 577-618
+\\
+  We present an exact solution of the $O(n)$ model on a random lattice. The
+coupling constant space of our model is parametrized in terms of a set of
+moment variables and the same type of universality with respect to the
+potential as observed for the one-matrix model is found. In addition we find a
+large degree of universality with respect to $n$; namely for $n\in ]-2,2[$ the
+solution can be presented in a form which is valid not only for any potential,
+but also for any $n$ (not necessarily rational). The cases $n=\pm 2$ are
+treated separately. We give explicit expressions for the genus zero
+contribution to the one- and two-loop correlators as well as for the genus one
+contribution to the one-loop correlator and the free energy. It is shown how
+one can obtain from these results any multi-loop correlator and the free energy
+to any genus and the structure of the higher genera contributions is described.
+Furthermore we describe how the calculation of the higher genera contributions
+can be pursued in the scaling limit.
+\\

@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9903192
+From: Kirill Krasnov <krasnov@phys.psu.edu>
+Date: Mon, 22 Mar 1999 20:05:33 GMT   (11kb)
+Date (revised v2): Tue, 23 Mar 1999 18:06:17 GMT   (11kb)
+Date (revised v3): Thu, 17 Jun 1999 19:24:39 GMT   (11kb)
+
+Title: Simple Spin Networks as Feynman Graphs
+Authors: Laurent Freidel and Kirill Krasnov
+Comments: 13 pages, no figures; few typos corrected
+Report-no: CGPG-99/3-2, NSF-ITP/99/19
+Subj-class: High Energy Physics - Theory; Mathematical Physics
+Journal-ref: J.Math.Phys. 41 (2000) 1681-1690
+\\
+  We show how spin networks can be described and evaluated as Feynman integrals
+over an internal space. This description can, in particular, be applied to the
+so-called simple SO(D) spin networks that are of importance for
+higher-dimensional generalizations of loop quantum gravity. As an illustration
+of the power of the new formalism, we use it to obtain the asymptotics of an
+amplitude for the D-simplex and show that its oscillatory part is given by the
+Regge action.
+\\

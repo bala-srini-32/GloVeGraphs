@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9702092
+From: Denny Fliegner <D.Fliegner@ThPhys.Uni-Heidelberg.DE>
+Date: Tue, 11 Feb 1997 17:51:45 +0100 (MET)   (7kb)
+
+Title: Application of the Worldline Path Integral Method to the Calculation of
+  Inverse Mass Expansions
+Authors: D. Fliegner (Heidelberg U., ITP), P. Haberl (RWTH Aachen, ITP), M.G.
+  Schmidt (Heidelberg U., ITP), C. Schubert (Humboldt U., Berlin)
+Comments: 6 pages, LaTeX. Talk given at 5th International Workshop on Software
+  Engineering and Artificial Intelligence for High Energy and Nuclear Physics
+  (AIHENP96), Lausanne (Switzerland), 2-6 September 1996
+Report-no: HD-THEP-96/54, HUB-EP-96/57
+Journal-ref: Nucl.Instrum.Meth. A389 (1997) 374-377
+\\
+  Higher order coefficients of the inverse mass expansion of one-loop effective
+actions are obtained from a one-dimensional path integral representation. For
+the case of a massive scalar loop in the background of both a scalar potential
+and a (non Abelian) gauge field explicit results to $O(T^5)$ in the proper time
+parameter are presented.
+\\

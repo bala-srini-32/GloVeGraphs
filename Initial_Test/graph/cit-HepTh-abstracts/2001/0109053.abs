@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0109053
+From: Chris E. Beasley <cbeasley@princeton.edu>
+Date: Thu, 6 Sep 2001 22:50:25 GMT   (39kb)
+
+Title: Toric Duality Is Seiberg Duality
+Authors: C. E. Beasley and M. R. Plesser
+Comments: 46 pages, 2 figures, harvmac
+Report-no: DUKE-CGTP-01-11, PUPT-2006
+Journal-ref: JHEP 0112 (2001) 001
+\\
+  We study four N=1 SU(N)^6 gauge theories, with bi-fundamental chiral matter
+and a superpotential. In the infrared, these gauge theories all realize the
+low-energy world-volume description of N coincident D3-branes transverse to the
+complex cone over a del Pezzo surface dP_3 which is the blowup of P^2 at three
+generic points. Therefore, the four gauge theories are expected to fall into
+the same universality class--an example of a phenomenon that has been termed
+"toric duality." However, little independent evidence has been given that such
+theories are infrared-equivalent.
+  In fact, we show that the four gauge theories are related by the N=1 duality
+of Seiberg, vindicating this expectation. We also study holographic aspects of
+these gauge theories. In particular we relate the spectrum of chiral operators
+in the gauge theories to wrapped D3-brane states in the AdS dual description.
+We finally demonstrate that the other known examples of toric duality are
+related by N=1 duality, a fact which we conjecture holds generally.
+\\

@@ -1,0 +1,33 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0011085
+From: J. David Vergara <david@vergara.nuclecu.unam.mx>
+Date: Fri, 10 Nov 2000 17:55:46 GMT   (11kb)
+Date (revised v2): Wed, 20 Dec 2000 18:41:05 GMT   (12kb)
+Date (revised v3): Tue, 30 Jan 2001 22:26:11 GMT   (11kb)
+
+Title: Weyl Invariant p-brane and Dp-brane actions
+Authors: J. Antonio Garc\'ia, Rom\'an Linares and J. David Vergara
+Comments: 12 pages, one additional section
+Report-no: ICN-UNAM-00-16
+Journal-ref: Phys.Lett. B503 (2001) 154-162
+\\
+  Conformal invariant new forms of $p$-brane and D$p$-brane actions are
+proposed. The field content of these actions are: an induced metric, gauge
+fields, an auxiliary metric and an auxiliary scalar field that implements the
+Weyl invariance. This scalar field transforms with a conformal weight that
+depends on the brane dimension. The proposed actions are Weyl invariant in any
+dimension and the elimination of the auxiliary metric and the scalar field
+reproduces the Nambu-Goto action for $p$-branes and the Born-Infeld action for
+D$p$-branes. As a consequence of the fact that in the $p$-brane case, the
+action is quadratic in $\partial_0 X$, we develop a complete construction for
+the associated canonical formalism, solving the problem in previous
+formulations of conformal $p$-brane actions where the Hamiltonian can not be
+constructed. We obtain the algebra of constraints and identify the generator of
+the Weyl symmetry. In the construction of the corresponding supersymmetric
+generalization of this conformal $p$-brane action we show that the associated
+$\kappa$-symmetry is consistent with the conformal invariance. In the
+D$p$-brane case, the actions are quadratic in the gauge fields. These actions
+can be used to construct new conformal couplings in any dimension $p$ to the
+auxiliary scalar field now promoted as a dynamical variable.
+\\

@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0011126
+From: Evaldo M F Curado <eme@cbpf.br>
+Date: Tue, 14 Nov 2000 21:56:28 GMT   (94kb)
+Date (revised v2): Mon, 5 Mar 2001 18:16:43 GMT   (95kb)
+
+Title: Multi Parametric Deformed Heisenberg Algebras: A Route to Complexity
+Authors: E. M. F. Curado and M. A. Rego-Monteiro
+Comments: latex, 17 pages, 5 PS figures; to be published in J. Phys. A: Math
+  and Gen (2001); a few sentences were added in order to clarify some points
+Report-no: CBPF-NF-066/00
+Subj-class: High Energy Physics - Theory; Mathematical Physics; Statistical
+  Mechanics; Exactly Solvable and Integrable Systems
+Journal-ref: J.Phys. A34 (2001) 3253-3264
+\\
+  We introduce a generalization of the Heisenberg algebra which is written in
+terms of a functional of one generator of the algebra, $f(J_0)$, that can be
+any analytical function. When $f$ is linear with slope $\theta$, we show that
+the algebra in this case corresponds to $q$-oscillators for $q^2 = \tan
+\theta$. The case where $f$ is a polynomial of order $n$ in $J_0$ corresponds
+to a $n$-parameter deformed Heisenberg algebra. The representations of the
+algebra, when $f$ is any analytical function, are shown to be obtained through
+the study of the stability of the fixed points of $f$ and their composed
+functions. The case when $f$ is a quadratic polynomial in $J_0$, the simplest
+non-linear scheme which is able to create chaotic behavior, is analyzed in
+detail and special regions in the parameter space give representations that
+cannot be continuously deformed to representations of Heisenberg algebra.
+\\

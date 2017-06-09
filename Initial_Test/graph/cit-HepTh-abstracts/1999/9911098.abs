@@ -1,0 +1,34 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9911098
+From: Iouri Chepelev <chepelev@insti.physics.sunysb.edu>
+Date: Mon, 15 Nov 1999 02:47:08 GMT   (267kb)
+Date (revised v2): Wed, 17 Nov 1999 23:50:35 GMT   (290kb)
+Date (revised v3): Fri, 10 Dec 1999 21:34:37 GMT   (290kb)
+Date (revised v4): Wed, 24 May 2000 20:06:08 GMT   (313kb)
+
+Title: Renormalization of Quantum Field Theories on Noncommutative R^d, I.
+  Scalars
+Authors: Iouri Chepelev and Radu Roiban
+Comments: Latex, 31 pages, many postscript figures; v2: A false statement in
+  section 4.2 fixed and 3 figures added. The concluding section modified:
+  scalar NQFT is not renormalizable. An argument about renormalizability of
+  Wess-Zumino model added in the concluding section. References added; v3:
+  Title of figure 15 changed. Typos corrected. A reference added; v4: Improved
+  definition of index j and some clarifying comments. Added references.
+  Statements on non-renormalizability softened at the referee's request
+Journal-ref: JHEP 0005 (2000) 037
+\\
+  A noncommutative Feynman graph is a ribbon graph and can be drawn on a genus
+$g$ 2-surface with a boundary. We formulate a general convergence theorem for
+the noncommutative Feynman graphs in topological terms and prove it for some
+classes of diagrams in the scalar field theories. We propose a noncommutative
+analog of Bogoliubov-Parasiuk's recursive subtraction formula and show that the
+subtracted graphs from a class $\Omega_d$ satisfy the conditions of the
+convergence theorem. For a generic scalar noncommutative quantum field theory
+on $\re^d$, the class $\Omega_d$ is smaller than the class of all diagrams in
+the theory. This leaves open the question of perturbative renormalizability of
+noncommutative field theories. We comment on how the supersymmetry can improve
+the situation and suggest that a noncommutative analog of Wess-Zumino model is
+renormalizable.
+\\

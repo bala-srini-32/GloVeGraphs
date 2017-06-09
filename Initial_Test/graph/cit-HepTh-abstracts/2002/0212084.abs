@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0212084
+From: E. Ardonne <ardonne@uiuc.edu>
+Date: Fri, 6 Dec 2002 23:36:50 GMT   (62kb)
+Date (revised v2): Wed, 8 Jan 2003 16:25:27 GMT   (62kb)
+
+Title: K-matrices for 2D conformal field theories
+Authors: E. Ardonne, P. Bouwknegt, P. Dawson
+Comments: 60 pages, 2 figures, v2: note added, minor changes, references added
+Report-no: ADP-01-30/M99, ITFA-02-33
+Subj-class: High Energy Physics - Theory; Mesoscopic Systems and Quantum Hall
+  Effect
+\\
+  In this paper we examine fermionic type characters (Universal Chiral
+Partition Functions) for general 2D conformal field theories with a bilinear
+form given by a matrix of the form K \oplus K^{-1}. We provide various
+techniques for determining these K-matrices, and apply these to a variety of
+examples including (higher level) WZW and coset conformal field theories.
+Applications of our results to fractional quantum Hall systems and (level
+restricted) Kostka polynomials are discussed.
+\\

@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9806249
+From: "KLAUS BERING, NBI, DK" <BERING@nbivms.nbi.dk>
+Date: Tue, 30 Jun 1998 21:52:40 GMT   (31kb)
+Date (revised v2): Mon, 28 Sep 1998 22:53:24 GMT   (35kb)
+Date (revised v3): Fri, 3 Dec 1999 00:10:07 GMT   (35kb)
+
+Title: Putting an Edge to the Poisson Bracket
+Authors: K. Bering (MIT)
+Comments: 36 pages, LaTeX. v2: A manifest formulation of the Poisson bracket
+  and some examples are added, corrected a claim in Appendix C, added an
+  Appendix F and a reference. v3: Some comments and references added
+Report-no: MIT-CTP-2746
+Journal-ref: J.Math.Phys. 41 (2000) 7468-7500
+\\
+  We consider a general formalism for treating a Hamiltonian (canonical) field
+theory with a spatial boundary. In this formalism essentially all functionals
+are differentiable from the very beginning and hence no improvement terms are
+needed. We introduce a new Poisson bracket which differs from the usual
+``bulk'' Poisson bracket with a boundary term and show that the Jacobi identity
+is satisfied. The result is geometrized on an abstract world volume manifold.
+The method is suitable for studying systems with a spatial edge like the ones
+often considered in Chern-Simons theory and General Relativity. Finally, we
+discuss how the boundary terms may be related to the time ordering when
+quantizing.
+\\

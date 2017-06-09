@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9804101
+From: Hugh Osborn <H.Osborn@damtp.cam.ac.uk>
+Date: Wed, 15 Apr 1998 11:16:05 GMT   (17kb)
+
+Title: Constructing a c-function for SUSY Gauge Theories
+Authors: D.Z. Freedman and H. Osborn
+Comments: 11 pages, 1 figure, uses harvmac and epsf
+Report-no: DAMTP/98-23
+Journal-ref: Phys.Lett. B432 (1998) 353-360
+\\
+  Recently a non-perturbative formula for the RG flow between UV and IR fixed
+points of the coefficient in the trace of the energy momentum tensor of the
+Euler density has been obtained for N=1 SUSY gauge theories by relating the
+trace and R-current anomalies. This result is compared here with an earlier
+perturbation theory analysis based on a naturally defined metric on the space
+of couplings for general renormalisable quantum field theories. This approach
+is specialised to N=1 supersymmetric theories and extended, using consistency
+arguments, to obtain the Euler coefficient at fixed points to 4-loops. The
+result agrees completely, to this order, with the exact formula.
+\\

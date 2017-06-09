@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0106036
+From: wati@itp.ucsb.edu (Washington Taylor)
+Date: Mon, 4 Jun 2001 22:52:36 GMT   (42kb)
+Date (revised v2): Wed, 27 Jun 2001 22:46:20 GMT   (42kb)
+
+Title: Split string field theory II
+Authors: David J. Gross (ITP) and Washington Taylor (ITP, MIT)
+Comments: 44 pages, Latex; v2: reference added, typos fixed, footnote added
+  regarding ghost solution
+Report-no: NSF-ITP-01-51, MIT-CTP-3145
+Journal-ref: JHEP 0108 (2001) 010
+\\
+  We describe the ghost sector of cubic string field theory in terms of degrees
+of freedom on the two halves of a split string. In particular, we represent a
+class of pure ghost BRST operators as operators on the space of half-string
+functionals. These BRST operators were postulated by Rastelli, Sen, and
+Zwiebach to give a description of cubic string field theory in the closed
+string vacuum arising from condensation of a D25-brane in the original
+tachyonic theory. We find a class of solutions for the ghost equations of
+motion using the pure ghost BRST operators. We find a vanishing action for
+these solutions, and discuss possible interpretations of this result. The form
+of the solutions we find in the pure ghost theory suggests an analogous class
+of solutions in the original theory on the D25-brane with BRST operator Q_B
+coupling the matter and ghost sectors.
+\\

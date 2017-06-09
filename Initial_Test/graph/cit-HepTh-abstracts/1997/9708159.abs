@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9708159
+From: tatar@phyvax.ir.miami.edu
+Date: Thu, 28 Aug 1997 18:21:07 EST   (13kb)
+
+Title: Koszul-Tate Cohomology For an Sp(2)-Covariant Quantization of Gauge
+  Theories with Linearly Dependent Generators
+Authors: Liviu Tatar, Radu Tatar
+Comments: 13 pages, Latex, To Be Published in International Journal of Modern
+  Physics A
+Report-no: UMTG-187
+Journal-ref: Int.J.Mod.Phys. A13 (1998) 1981-1994
+\\
+  The anti-BRST transformation, in its Sp(2)-symmetric version, for the general
+case of any stage-reducible gauge theories is implemented in the usual BV
+approach. This task is accomplished not by duplicating the gauge symmetries but
+rather by duplicating all fields and antifields of the theory and by imposing
+the acyclicity of the Koszul-Tate differential. In this way the Sp(2)-covariant
+quantization can be realised in the standard BV approach and its equivalence
+with BLT quantization can be proven by a special gauge fixing procedure.
+\\

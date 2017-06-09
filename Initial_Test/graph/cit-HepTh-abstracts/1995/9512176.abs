@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9512176
+From: Grigore Dan <grigore@theor1.ifa.ro>
+Date: Thu, 21 Dec 1995 15:58:58 +0100 (MET)   (19kb)
+Date (revised): Mon, 12 Aug 1996 12:19:44 +0200 (EET)
+
+Title: Variational Equations and Symmetries in the Lagrangian Formalism II.
+  Arbitrary Vector Fields
+Author: Dan Radu Grigore
+Comments: 26 pages, LATEX, some errors corrected, many simplifications of the
+  proofs
+Journal-ref: Fortsch.Phys. 45 (1997) 727-751
+\\
+  We continue the study of symmetries in the Lagrangian formalism of arbitrary
+order with the help of the so-called Anderson-Duchamp-Krupka equations. For the
+case of second-order equations and arbitrary vector fields we are able to
+establish a polynomial structure in the second-order derivatives. This
+structure is based on the some linear combinations of Olver hyper-Jacobians. We
+use as the main tools Fock space techniques and induction. This structure can
+be used to analyze Lagrangian systems with groups of Noetherian symmetries. As
+an illustration we analyze the case of Lagrangian equations with Abelian gauge
+invariance.
+\\

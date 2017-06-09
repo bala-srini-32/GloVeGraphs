@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9603206
+From: Mimura <mim@th.phys.titech.ac.jp>
+Date: Sat, 30 Mar 1996 12:26:21 +0900   (32kb)
+Date (revised): Thu, 18 Apr 1996 16:49:36 +0900
+Date (revised): Thu, 5 Sep 1996 21:42:32 +0900
+
+Title: Gauge Symmetry Breaking through Soft Masses in Supersymmetric Gauge
+  Theories
+Author: Eric D'Hoker, Yukihiro Mimura, and Norisuke Sakai
+Comments: LaTeX file, 37 page, some minor changes are included. Especially, the
+  descriptions of sect. 2.5 are a little changed. Basic results are unchanged
+Report-no: TIT/HEP-317, UCLA/96/TEP/11
+Journal-ref: Phys.Rev. D54 (1996) 7724-7740
+\\
+  We analyze the effects of soft supersymmetry breaking terms on N=1
+supersymmetric QCD with $N_f$ flavors and color gauge group $SU(N_c)$. The mass
+squared of some squarks may be negative, as long as vacuum stability is ensured
+by a simple mass inequality. For $N_f<N_c$, we include the dynamics of the
+non-perturbative superpotential and use the original (s)quark and gauge fields,
+while for $N_f>N_c+1$, we formulate the dynamics in terms of dual (s)quarks and
+a dual gauge group $SU(N_f-N_c)$. The presence of negative squark mass squared
+terms leads to spontaneous breakdown of flavor and color symmetry. We determine
+this breaking pattern, derive the spectrum, and argue that the masses vary
+smoothly as one crosses from the Higgs phase into the confining phase.
+\\

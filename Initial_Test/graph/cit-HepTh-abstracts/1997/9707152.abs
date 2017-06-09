@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9707152
+From: Matthias Burkardt <burkardt@theorie3.physik.uni-erlangen.de>
+Date: Thu, 17 Jul 1997 14:58:57 +0200 (MET DST)   (8kb)
+
+Title: A 3+1 Dimensional LF-Model with Spontaneous $\chi SB$
+Author: M. Burkardt and H. El-Khozondar
+Comments: 6 pages, LaTex, 1 figure, invited talk at International Workshop on
+  ``New Nonperturbative Methods and Quantization on the Light Cone'', Les
+  Houches, France, Feb. 24 - March 7, 1997
+\\
+  We investigate a 3+1 dimensional toy model that exhibits spontaneous
+breakdown of chiral symmetry, both in a light-front (LF) Hamiltonian and in a
+Euclidean Schwinger-Dyson (SD) formulation. We show that both formulations are
+completely equivalent --- provided the renormalization is properly done. For
+the model considered, this means that if one uses the same transverse momentum
+cutoff on the SD and LF formulations then the vertex mass in the LF calculation
+must be taken to be the same as the current quark mass in the SD calculation.
+The kinetic mass term in the LF calculation is renormalized non-trivially,
+which is eventually responsible for the mass generation of the physical fermion
+of the model.
+\\

@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0303161
+From: Marco Bertola <bertola@mathstat.concordia.ca>
+Date: Tue, 18 Mar 2003 19:15:33 GMT   (16kb)
+
+Title: Mixed Correlation Functions of the Two-Matrix Model
+Authors: M. Bertola, B. Eynard
+Comments: 16 pages
+Report-no: CRM-2961, Saclay T03-028
+Subj-class: High Energy Physics - Theory; Exactly Solvable and Integrable
+  Systems
+\\
+  We compute the correlation functions mixing the powers of two non-commuting
+random matrices within the same trace. The angular part of the integration was
+partially known in the literature: we pursue the calculation and carry out the
+eigenvalue integration reducing the problem to the construction of the
+associated biorthogonal polynomials. The generating function of these
+correlations becomes then a determinant involving the recursion coefficients of
+the biorthogonal polynomials.
+\\

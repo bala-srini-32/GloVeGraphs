@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0303077
+From: Wen-Li Yang <wlyang@yukawa.kyoto-u.ac.jp>
+Date: Mon, 10 Mar 2003 06:49:52 GMT   (15kb)
+Date (revised v2): Mon, 14 Apr 2003 09:16:52 GMT   (15kb)
+
+Title: Algebraic Bethe ansatz for the elliptic quantum group
+  $E_{\tau,\eta}(sl_n)$ and its applications
+Authors: Bo-yu Hou, Ryu Sasaki and Wen-Li Yang
+Comments: 22 pages, latex file, misprints are corrected and references are
+  updated
+Report-no: YITP-03-06
+\\
+  We study the tensor product of the {\it higher spin representations} (see the
+definition in Sect. 2.2) of the elliptic quantum group $E_{\tau,\eta}(sl_n)$.
+The transfer matrices associated with the $E_{\tau,\eta}(sl_n)$-module are
+exactly diagonalized by the nested Bethe ansatz method. Some special cases of
+the construction give the exact solution for the $Z_n$ Belavin model and for
+the elliptic $A_{n-1}$ Ruijsenaars-Schneider model.
+\\

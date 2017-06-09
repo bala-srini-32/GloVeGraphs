@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0203061
+From: Chris E. Beasley <cbeasley@princeton.edu>
+Date: Thu, 7 Mar 2002 07:54:52 GMT   (14kb)
+Date (revised v2): Mon, 12 Aug 2002 23:10:06 GMT   (14kb)
+
+Title: A Note on Fluxes and Superpotentials in M-theory Compactifications on
+  Manifolds of G_2 Holonomy
+Authors: Chris Beasley and Edward Witten
+Comments: 15 pages, harvmac, v2: reference added
+Report-no: PUPT-2025
+Journal-ref: JHEP 0207 (2002) 046
+\\
+  We consider the breaking of N=1 supersymmetry by non-zero G-flux when
+M-theory is compactified on a smooth manifold X of G_2 holonomy. Gukov has
+proposed a superpotential W to describe this breaking in the low-energy
+effective theory. We check this proposal by comparing the bosonic potential
+implied by W with the corresponding potential deduced from the
+eleven-dimensional supergravity action. One interesting aspect of this check is
+that, though W depends explicitly only on G-flux supported on X, W also
+describes the breaking of supersymmetry by G-flux transverse to X.
+\\

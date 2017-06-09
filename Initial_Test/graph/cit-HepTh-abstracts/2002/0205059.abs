@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0205059
+From: Heinrich Saller <hns@mppmu.mpg.de>
+Date: Tue, 7 May 2002 10:57:46 GMT   (19kb)
+
+Title: Probability Collectives for Unstable Particles
+Author: Heinrich Saller (MPI fuer Physik)
+Comments: 18 pages, latex, macros included
+Report-no: MPI-PhT/2002-16
+Journal-ref: Int.J.Theor.Phys. 41 (2002) 1491-1509
+\\
+  Unstable particles, together with their stable decay products, constitute
+probability collectives which are defined as Hilbert spaces with dimension
+higher than one, nondecomposable in a particle basis. Their structure is
+considered in the framework of Birkhoff-von Neumann's Hilbert subspace
+lattices. Bases with particle states are related to bases with a diagonal
+scalar product by a Hilbert-bein involving the characteristic decay parameters
+(in some analogy to the $n$-bein structures of metrical manifolds). Probability
+predictions as expectation values, involving unstable particles, have to take
+into account all members of the higher dimensional collective. E.g., the
+unitarity structure of the $S$-matrix for an unstable particle collective can
+be established by a transformation with its Hilbert-bein.
+\\

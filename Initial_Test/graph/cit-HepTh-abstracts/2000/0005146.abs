@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0005146
+From: Sumati Surya <ssurya@tifr.res.in>
+Date: Tue, 16 May 2000 15:55:56 GMT   (19kb)
+Date (revised v2): Mon, 3 Jul 2000 07:07:30 GMT   (38kb)
+Date (revised v3): Wed, 20 Sep 2000 18:02:02 GMT   (35kb)
+
+Title: On the Moduli Space of the Localized 1-5 System
+Authors: Donald Marolf and Sumati Surya
+Comments: Note added
+Journal-ref: JHEP 0008 (2000) 018
+\\
+  We calculate the effective action for small velocity scattering of localized
+1-branes and 5-branes. Momentum is allowed to flow in the direction along the
+1-branes so that the moduli space has only 1/8 of the full supersymmetry.
+Relative to the more familiar case with the 1-branes delocalized along the
+5-branes, this introduces new moduli associated with the motion of the 1-branes
+along the 5-branes. We consider in detail the moduli space metric for the
+associated two body problem. Even for motion transverse to the 5-brane, our
+results differ substantially from the delocalized case. However, this
+difference only appears when both the 1-brane charge and the momentum charge
+are localized. Despite the fact that, in a certain sense, 1-branes
+spontaneously delocalize near a 5-brane horizon, the moduli space metric in
+this limit continues to differ from the delocalized result. This fact may be of
+use in developing a new description of the associated BPS bound states. The new
+terms depend on the torus size $L$ in such a way that they give a finite
+contribution in the $L \to \infty$ limit.
+\\

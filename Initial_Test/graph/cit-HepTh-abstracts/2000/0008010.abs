@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0008010
+From: Cosmas Zachos <zachos@hep.anl.gov>
+Date: Tue, 1 Aug 2000 18:29:00 GMT   (14kb)
+Date (revised v2): Thu, 14 Sep 2000 14:45:47 GMT   (14kb)
+
+Title: A Survey of Star Product Geometry
+Authors: Cosmas Zachos
+Comments: 14p, LateX/crckapb.sty, proceedings of NATO ARW: UIC 2000, July 22-26
+Report-no: ANL-HEP-CP-00-085
+\\
+  A brief pedagogical survey of the star product is provided, through
+Groenewold's original construction based on the Weyl correspondence. It is then
+illustrated how simple Landau orbits in a constant magnetic field, through
+their Dirac Brackets, define a noncommutative structure since these brackets
+exponentiate to a star product---a circumstance rarely operative for generic
+Dirac Brackets. The geometric picture of the star product based on its Fourier
+representation kernel is utilized in the evaluation of chains of star products.
+The intuitive appreciation of their associativity and symmetries is thereby
+enhanced. This construction is compared and contrasted with the remarkable
+phase-space polygon construction of Almeida.
+\\

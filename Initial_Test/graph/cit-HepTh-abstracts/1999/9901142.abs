@@ -1,0 +1,37 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9901142
+From: Federico Berruto <federico.berruto@pg.infn.it>
+Date: Wed, 27 Jan 1999 15:58:32 GMT   (34kb)
+Date (revised v2): Wed, 1 Sep 1999 12:23:04 GMT   (34kb)
+Date (revised v3): Sun, 22 Oct 2000 17:42:39 GMT   (34kb)
+
+Title: On the Correspondence Between the Strongly Coupled 2-Flavor Lattice
+  Schwinger Model and the Heisenberg Antiferromagnetic Chain
+Authors: F. Berruto (1), G. Grignani (1), G. W. Semenoff (2) and P. Sodano (1)
+  ((1) Dipartimento di Fisica and I.N.F.N., Perugia, Italy, (2) Department of
+  Physics and Astronomy, University of British Columbia, Canada)
+Comments: A misprint in the last equation corrected
+Subj-class: High Energy Physics - Theory; Statistical Mechanics
+Journal-ref: Annals Phys. 275 (1999) 254-296
+\\
+  We study the strong coupling limit of the 2-flavor massless Schwinger model
+on a lattice using staggered fermions and the Hamiltonian approach to lattice
+gauge theories. Using the correspondence between the low-lying states of the
+2-flavor strongly coupled lattice Schwinger model and the antiferromagnetic
+Heisenberg chain established in a previous paper, we explicitly compute the
+mass gaps of the other excitations in terms of vacuum expectation values
+(v.e.v.'s) of powers of the Heisenberg Hamiltonian and spin-spin correlation
+functions. We find a satisfactory agreement with the results of the continuum
+theory already at the second order in the strong coupling expansion. We show
+that the pattern of symmetry breaking of the continuum theory is well
+reproduced by the lattice theory; we see indeed that in the lattice theory the
+isoscalar and isovector chiral condensates are zero to every order in the
+strong coupling expansion. In addition, we find that the chiral condensate
+$<\bar{\psi}_{L}^{(2)}\bar{\psi}_{L}^{(1)}\psi_{R}^{(1)}\psi_{R}^{(2)}>$ is non
+zero also on the lattice; this is the only relic in this lattice model of the
+axial anomaly in the continuum theory. We compute the v.e.v.'s of the spin-spin
+correlators of the Heisenberg model which are pertinent to the calculation of
+the mass spectrum and obtain an explicit construction of the lowest lying
+states for finite size Heisenberg Hamiltonian chains.
+\\

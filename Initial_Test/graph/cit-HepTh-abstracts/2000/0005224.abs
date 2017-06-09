@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0005224
+From: David Nolland <d.j.nolland@durham.ac.uk>
+Date: Wed, 24 May 2000 17:54:47 GMT   (8kb)
+Date (revised v2): Mon, 5 Jun 2000 15:12:20 GMT   (7kb)
+Date (revised v3): Tue, 19 Sep 2000 17:03:59 GMT   (8kb)
+Date (revised v4): Wed, 23 May 2001 12:47:58 GMT   (8kb)
+
+Title: Order 1/N^2 test of the Maldacena conjecture: Cancellation of the
+  one-loop Weyl anomaly
+Authors: Paul Mansfield and David Nolland
+Comments: LaTeX, 8 pages. Explanatory note added about boundary conditions.
+  Typographical errors in table 2 corrected
+Journal-ref: Phys.Lett. B495 (2000) 435-439
+\\
+  We test the Maldacena conjecture for type IIB String Theory/ N=4 Yang-Mills
+by calculating the one-loop corrections in the bulk theory to the Weyl anomaly
+of the boundary CFT when the latter is coupled to a Ricci-flat metric. The
+contributions cancel within each supermultiplet, in agreement with the
+conjecture.
+\\

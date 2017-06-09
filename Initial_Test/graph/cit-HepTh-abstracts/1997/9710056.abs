@@ -1,0 +1,19 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9710056
+From: dkpark@hanma.kyungnam.ac.kr (Ueae(CDu))
+Date: Tue, 7 Oct 1997 11:53:28 GMT   (13kb)
+
+Title: The Second Virial Coefficient of Spin-1/2 Interacting Anyon System
+Authors: Sahng-Kyoon Yoo and D.K.Park
+Comments: 9 pages, 2 figs included
+Journal-ref: J.Phys. A32 (1999) 921-925
+\\
+  Evaluating the propagator by the usual time-sliced manner, we use it to
+compute the second virial coefficient of an anyon gas interacting through the
+repulsive potential of the form $g/r^2 (g > 0)$. All the cusps for the
+unpolarized spin-1/2 as well as spinless cases disappear in the $\omega \to 0$
+limit, where $\omega$ is a frequency of harmonic oscillator which is introduced
+as a regularization method. As $g$ approaches to zero, the result reduces to
+the noninteracting hard-core limit.
+\\

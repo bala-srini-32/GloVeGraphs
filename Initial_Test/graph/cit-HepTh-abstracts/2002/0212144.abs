@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0212144
+From: Gary Shiu <shiu@physics.wisc.edu>
+Date: Thu, 12 Dec 2002 17:53:10 GMT   (30kb)
+Date (revised v2): Thu, 16 Jan 2003 14:30:39 GMT   (30kb)
+
+Title: (Re)constructing Dimensions
+Authors: Raul Rabadan and Gary Shiu
+Comments: 23 pages, 3 figures, 2 references added
+Report-no: CERN-TH/2002-359, MAD-TH-02-3
+\\
+  Compactifying a higher-dimensional theory defined in R^{1,3+n} on an
+n-dimensional manifold {\cal M} results in a spectrum of four-dimensional
+(bosonic) fields with masses m^2_i = \lambda_i, where - \lambda_i are the
+eigenvalues of the Laplacian on the compact manifold. The question we address
+in this paper is the inverse: given the masses of the Kaluza-Klein fields in
+four dimensions, what can we say about the size and shape (i.e. the topology
+and the metric) of the compact manifold? We present some examples of
+isospectral manifolds (i.e., different manifolds which give rise to the same
+Kaluza-Klein mass spectrum). Some of these examples are Ricci-flat, complex and
+K\"{a}hler and so they are isospectral backgrounds for string theory. Utilizing
+results from finite spectral geometry, we also discuss the accuracy of
+reconstructing the properties of the compact manifold (e.g., its dimension,
+volume, and curvature etc) from measuring the masses of only a finite number of
+Kaluza-Klein modes.
+\\

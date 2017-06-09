@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0004145
+From: Rudra Prakash Malik <malik@BOSON.bose.res.in>
+Date: Thu, 20 Apr 2000 12:08:42 GMT   (18kb)
+Date (revised v2): Mon, 11 Sep 2000 10:14:47 GMT   (18kb)
+Date (revised v3): Thu, 19 Oct 2000 15:40:34 GMT   (18kb)
+
+Title: Hodge decomposition theorem for Abelian two form gauge theory
+Authors: E. Harikumar (Univ. of Hyderabad), R. P. Malik (Bose Centre, Calcutta)
+  and M. Sivakumar (Univ. of Hyderabad)
+Comments: LaTeX, 18 pages, no figures, minor corrections, references updated,
+  typos corrected, journal reference given
+Journal-ref: J.Phys. A33 (2000) 7149-7164
+\\
+  We show that the BRST/anti-BRST invariant 3+1 dimensional 2-form gauge theory
+has further nilpotent symmetries (dual BRST /anti-dual BRST) that leave the
+gauge fixing term invariant. The generator for the dual BRST symmetry is
+analogous to the co-exterior derivative of differential geometry. There exists
+a bosonic symmetry which keeps the ghost terms invariant and it turns out to be
+the analogue of the Laplacian operator. The Hodge duality operation is shown to
+correspond to a discrete symmetry in the theory. The generators of all these
+continuous symmetries are shown to obey the algebra of the de Rham cohomology
+operators of differential geometry. We derive the extended BRST algebra
+constituted by six conserved charges and discuss the Hodge decomposition
+theorem in the quantum Hilbert space of states.
+\\

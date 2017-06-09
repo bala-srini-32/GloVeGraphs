@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0207017
+From: C. Hofman <hofman@pop.physics.rutgers.edu>
+Date: Tue, 2 Jul 2002 19:58:01 GMT   (23kb)
+
+Title: Nonabelian 2-Forms
+Authors: C. Hofman
+Comments: 22 pages, LaTeX
+Report-no: RUNHETC-2002-24
+\\
+  We study gauge theories based on nonabelian 2-forms. Certain connections on
+loop space give rise to generalized covariant derivatives that include a
+nonabelian 2-form. This can be used to find rather straightforward expressions
+for the field strength and gauge transformations. As a special case we recover
+formulas for connections on nonabelian gerbe, as recently constructed in
+mathematics. The general construction gives rise to connections on algebra
+bundles, which might be relevant for D-branes in the presence of torsion. We
+construct BV sigma model actions for these connections and discuss their gauge
+fixing. We find both Yang-Mills type and topological BF type actions.
+\\

@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0203242
+From: Gil Schieber <schieber@cpt.univ-mrs.fr>
+Date: Tue, 26 Mar 2002 14:47:57 GMT   (509kb)
+
+Title: Determination of quantum symmetries for higher ADE systems from the
+  modular T matrix
+Authors: R. Coquereaux (1), G. Schieber (1 and 2) ((1) Centre de Physique
+  Theorique, Luminy, Marseille, (2) Instituto de Fisica, UFRJ, Rio de Janeiro)
+Comments: 24 pages, 16 figures
+Subj-class: High Energy Physics - Theory; Mathematical Physics; Quantum Algebra
+\\
+  We show that the Ocneanu algebra of quantum symmetries, for an ADE diagram
+(or for higher Coxeter-Dynkin systems, like the Di Francesco - Zuber system)
+is, in most cases, deduced from the structure of the modular T matrix in the A
+series. We recover in this way the (known) quantum symmetries of su(2) diagrams
+and illustrate our method by studying those associated with the three genuine
+exceptional diagrams of type su(3), namely E5, E9 and E21. This also provides
+the shortest way to the determination of twisted partition functions in
+boundary conformal field theory with defect lines.
+\\

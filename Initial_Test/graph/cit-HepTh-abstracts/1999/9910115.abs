@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9910115
+From: Niels Obers <obers@nordita.dk>
+Date: Fri, 15 Oct 1999 13:52:04 GMT   (13kb)
+Date (revised v2): Wed, 1 Mar 2000 11:05:28 GMT   (13kb)
+
+Title: Eisenstein Series in String Theory
+Authors: N.A. Obers (Nordita and NBI) and B. Pioline (Harvard and LPTHE)
+Comments: 11 pages, Latex, submitted to Proceedings of Strings '99, published
+  version
+Report-no: NORDITA-1999/65 HE, NBI-HE-99-40, HUTP-99/054, LPTHE-99-34
+Journal-ref: Class.Quant.Grav. 17 (2000) 1215-1224
+\\
+  We discuss the relevance of Eisenstein series for representing certain
+G(Z)-invariant string theory amplitudes which receive corrections from BPS
+states only. The Eisenstein series are constructed using G(Z)-invariant mass
+formulae and are manifestly invariant modular functions on the symmetric space
+K\G(R) of non-compact type, with K the maximal compact subgroup of G(R). In
+particular, we show how Eisenstein series of the T-duality group SO(d,d,Z) can
+be used to represent one- and g-loop amplitudes in compactified string theory.
+We also obtain their non-perturbative extensions in terms of the Eisenstein
+series of the U-duality group E_{d+1(d+1)}(Z).
+\\

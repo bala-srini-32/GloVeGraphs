@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9510044
+From: pons@ecm.ub.es
+Date: Mon, 9 Oct 1995 15:36:00 +0200   (13kb)
+
+Title: Plugging the Gauge Fixing into the Lagrangian
+Author: Josep M. Pons (DECM, Universitat de Barcelona)
+Comments: 14 pages. Latex. To be published in Int. Journal of Modern Physics
+Report-no: UB-ECM-PF 94/36
+Journal-ref: Int.J.Mod.Phys. A11 (1996) 975-988
+\\
+  A complete analysis of the consequences of introducing a set of holonomic
+gauge fixing constraints (to fix the dynamics) into a singular Lagrangian is
+performed. It is shown in general that the dynamical system originated from the
+reduced Lagrangian erases all the information regarding the first class
+constraints of the original theory, but retains its second class. It is proved
+that even though the reduced Lagrangian can be singular, it never possesses any
+gauge freedom. As an application, the example of $n \cdot A = 0$ gauges in
+electromagnetism is treated in full detail.
+\\

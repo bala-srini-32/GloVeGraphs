@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9709045
+From: meggiola@ibmth.difi.unipi.it (Enrico MEGGIOLARO)
+Date: Fri, 5 Sep 1997 15:04:26 +0200   (9kb)
+
+Title: High-energy quark-quark scattering and the eikonal approximation
+Author: Enrico Meggiolaro
+Comments: Talk given at the ``High Energy Conference on Quantum
+  Chromodynamics'', Montpellier (France), July 3rd-9th 1997 (QCD 97); 6 pages,
+  LaTeX file, uses ``espcrc2.sty''
+Journal-ref: Nucl.Phys.Proc.Suppl. 64 (1998) 191-196
+\\
+  The high-energy quark-quark scattering amplitude is calculated first in the
+case of scalar QCD, using Fradkin's approach to derive the scalar quark
+propagator in an external gluon field and computing it in the eikonal
+approximation. The results are then extended to the case of ``real'' (i.e.,
+fermion) QCD. The high-energy quark-quark scattering amplitude turns out to be
+described by the expectation value of two lightlike Wilson lines, running along
+the classical trajectories of the two colliding particles. Interesting analytic
+properties of the high-energy quark-quark scattering amplitude can be derived,
+going from Minkowskian to Euclidean theory: they could open the possibility of
+evaluating the high-energy scattering amplitude directly on the lattice.
+\\

@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9808007
+From: maedan@tokyo-ct.ac.jp (Shinji Maedan)
+Date: Mon, 3 Aug 1998 06:17:22 GMT   (10kb)
+
+Title: Infrared divergence on the light-front and dynamical Higgs mechanism
+Author: S.Maedan (Tokyo Nat. Coll.)
+Comments: 14 pages, LaTeX, to appear in Phys. Lett. B
+Report-no: DPTN-9801
+Journal-ref: Phys.Lett. B437 (1998) 390-397
+\\
+  Dynamical Higgs mechanism on the light-front (LF) is studied using a (1+1)
+dimensional model, with emphasis on the infrared divergence problem. The
+consideration of the zero mode $ k^+ = 0 $ is not sufficient for investigating
+dynamical symmetry breaking on the LF. It also needs to treat properly an
+infrared divergence caused by internal momentum $ p^+ \to 0 ~ (p^+ \neq 0) $ in
+the continuum limit. In order to avoid the divergence, we introduce an infrared
+cutoff function $ F_{\rm IR} (p, \Lambda) $ which is not Lorentz invariant. It
+is then shown that the gauge boson obtains mass dynamically on the LF.
+\\

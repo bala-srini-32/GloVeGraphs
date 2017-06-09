@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0003029
+From: Horst G. Kausch <h.g.kausch@durham.ac.uk>
+Date: Fri, 3 Mar 2000 19:48:55 GMT   (27kb)
+Date (revised v2): Sun, 5 Mar 2000 18:23:04 GMT   (28kb)
+
+Title: Symplectic Fermions
+Authors: Horst G. Kausch
+Comments: LaTeX2e, 30 pages
+Report-no: DTP/00/21
+Journal-ref: Nucl.Phys. B583 (2000) 513-541
+\\
+  We study two-dimensional conformal field theories generated from a
+``symplectic fermion'' - a free two-component fermion field of spin one - and
+construct the maximal local supersymmetric conformal field theory generated
+from it. This theory has central charge c=-2 and provides the simplest example
+of a theory with logarithmic operators.
+  Twisted states with respect to the global SL(2,C)-symmetry of the symplectic
+fermions are introduced and we describe in detail how one obtains a consistent
+set of twisted amplitudes. We study orbifold models with respect to finite
+subgroups of SL(2,C) and obtain their modular invariant partition functions. In
+the case of the cyclic orbifolds explicit expressions are given for all two-,
+three- and four-point functions of the fundamental fields. The C_2-orbifold is
+shown to be isomorphic to the bosonic local logarithmic conformal field theory
+of the triplet algebra encountered previously. We discuss the relation of the
+C_4-orbifold to critical dense polymers.
+\\

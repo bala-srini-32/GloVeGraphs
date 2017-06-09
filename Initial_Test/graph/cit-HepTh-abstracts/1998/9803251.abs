@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9803251
+From: henning@nxth04.cern.ch
+Date: Mon, 30 Mar 1998 20:41:17 GMT   (8kb)
+Date (revised v2): Fri, 3 Apr 1998 09:10:18 GMT   (9kb)
+
+Title: Spinors and the AdS/CFT correspondence
+Authors: Mans Henningson and Konstadinos Sfetsos
+Comments: 9 pages, harvmac; minor changes, added references
+Report-no: CERN-TH/98-78
+Journal-ref: Phys.Lett. B431 (1998) 63-68
+\\
+  We consider a free massive spinor field in Euclidean Anti-de Sitter space.
+The usual Dirac action in bulk is supplemented by a certain boundary term. The
+boundary conditions of the field are parametrized by a spinor on the boundary,
+subject to a projection. We calculate the dependence of the partition function
+on this boundary spinor. The result agrees with the generating functional of
+the correlation functions of a quasi-primary spinor operator, of a certain
+scaling dimension, in a free conformal field theory on the boundary.
+\\

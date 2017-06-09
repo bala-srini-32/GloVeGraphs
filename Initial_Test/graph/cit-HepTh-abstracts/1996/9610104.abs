@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9610104
+From: peter johnson <P.R.Johnson@swansea.ac.uk>
+Date: Tue, 15 Oct 1996 15:37:04 +0100   (47kb)
+Date (revised): Fri, 8 Nov 1996 17:37:52 GMT
+
+Title: Inverse scattering and solitons in $A_{n-1}$ affine Toda field theories
+Authors: E.J.Beggs, P.R.Johnson (Swansea)
+Comments: 28 pages, Latex, 4 figs included
+Report-no: SWAT 95-96/115
+Journal-ref: Nucl.Phys. B484 (1997) 653-681
+\\
+  We implement the inverse scattering method in the case of the $A_n$ affine
+Toda field theories, by studying the space-time evolution of simple poles in
+the underlying loop group. We find the known single soliton solutions, as well
+as additional solutions with non-linear modes of oscillation around the
+standard solution, by studying the particularly simple case where the residue
+at the pole is a rank one projection. We show that these solutions with extra
+modes have the same mass and topological charges as the standard solutions, so
+we do not shed any light on the missing topological charge problem in these
+models. We also show that the integrated energy-momentum density can be
+calculated from the central extension of the loop group.
+\\

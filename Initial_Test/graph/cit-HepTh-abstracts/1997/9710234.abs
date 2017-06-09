@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9710234
+From: Bert Schroer <schroer@physik.fu-berlin.de>
+Date: Thu, 30 Oct 1997 12:26:01 GMT   (31kb)
+Date (revised v2): Thu, 6 Nov 1997 16:33:53 GMT   (32kb)
+Date (revised v3): Mon, 15 Dec 1997 15:40:42 GMT   (33kb)
+
+Title: Modular Localization, H-Temperatures and the Bethe Ansatz Structure
+Authors: Bert Schroer (FU-Berlin)
+Comments: 32 pages tcilatex, unpulished conference Report. The discussion of
+  the modular Moeller operator and the in-representation of the Zamolodchikov
+  algebra in section 4 has been extended and an annoying misprint in section 3
+  was removed. Since the original paper on which this report was based has
+  meanwhile appeared as hep-th/9712124, the present report will remain
+  unchanged in the hep-th archive
+\\
+  The recently proposed constructive approach to nonperturbative QFT, based on
+modular localization, is reviewed and extended. It allows to unify black holes
+physics and H-temperatures (H standing for Hawking or Horizon) with the
+bootstrap-formfactor program for nonperturbative construction of low
+dimensional QFT. In case of on-shell particle number conservation, the
+equations characterizing the modular localization spaces for wedges are
+Bethe-Ansatz equation in the form as recently obtained in the treatment of
+factorizable models.
+\\

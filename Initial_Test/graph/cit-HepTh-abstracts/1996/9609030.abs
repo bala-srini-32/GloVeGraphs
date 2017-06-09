@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9609030
+From: "Alexander V. Razumov" <razumov@mx.ihep.su>
+Date: Tue, 03 Sep 1996 10:36:32 GMT+03:00   (9kb)
+
+Title: Hamiltonian reduction of free particle motion on group SL(2, ${\Bbb R}$)
+Authors: A. V. Razumov, V. I. Yasnov
+Comments: 12 pages, LaTeX file, to be publised in Teor. Mat. Fiz
+Report-no: IHEP 96-40
+Journal-ref: Theor.Math.Phys. 110 (1997) 119-128; Teor.Mat.Fiz. 110 (1997)
+  149-161
+\\
+  The structure of the reduced phase space arising in the Hamiltonian reduction
+of the phase space corresponding to a free particle motion on the group ${\rm
+SL}(2, {\Bbb R})$ is investigated. The considered reduction is based on the
+constraints similar to those used in the Hamiltonian reduction of the
+Wess--Zumino--Novikov--Witten model to Toda systems. It is shown that the
+reduced phase space is diffeomorphic either to the union of two
+two--dimensional planes, or to the cylinder $S^1 \times {\Bbb R}$. Canonical
+coordinates are constructed for the both cases, and it is shown that in the
+first case the reduced phase space is symplectomorphic to the union of two
+cotangent bundles $T^*({\Bbb R})$ endowed with the canonical symplectic
+structure, while in the second case it is symplectomorphic to the cotangent
+bundle $T^*(S^1)$ also endowed with the canonical symplectic structure.
+\\

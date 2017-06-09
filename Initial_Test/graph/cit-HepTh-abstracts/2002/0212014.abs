@@ -1,0 +1,35 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0212014
+From: Brett McInnes <matmcinn@nus.edu.sg>
+Date: Mon, 2 Dec 2002 13:20:41 GMT   (20kb)
+Date (revised v2): Sat, 14 Dec 2002 08:28:21 GMT   (24kb)
+Date (revised v3): Sat, 21 Dec 2002 08:33:48 GMT   (25kb)
+
+Title: The Covariant Entropy Bound, Brane Cosmology, and the Null Energy
+  Condition
+Authors: Brett McInnes
+Comments: 21 pages, 3 figures, version 2:corrected and greatly improved
+  discussion of the Bousso-Randall consistency check, references added;
+  version3: more references added, JHEP version
+Journal-ref: JHEP 0212 (2002) 053
+\\
+  In discussions of Bousso's Covariant Entropy Bound, the Null Energy Condition
+is always assumed, as a sufficient {\em but not necessary} condition which
+helps to ensure that the entropy on any lightsheet shall necessarily be finite.
+  The spectacular failure of the Strong Energy Condition in cosmology has,
+however, led many astrophysicists and cosmologists to consider models of dark
+energy which violate {\em all} of the energy conditions, and indeed the current
+data do not completely rule out such models. The NEC also has a questionable
+status in brane cosmology: it is probably necessary to violate the NEC in the
+bulk in order to obtain a "self-tuning" theory of the cosmological constant. In
+order to investigate these proposals, we modify the Karch-Randall model by
+introducing NEC-violating matter into $AdS_5$ in such a way that the brane
+cosmological constant relaxes to zero. The entropy on lightsheets remains
+finite. However, we still find that the spacetime is fundamentally incompatible
+with the Covariant Entropy Bound machinery, in the sense that it fails the
+Bousso-Randall consistency condition. We argue that holography probably forbids
+all {\em cosmological} violations of the NEC, and that holography is in fact
+the fundamental physical principle underlying the cosmological version of the
+NEC.
+\\

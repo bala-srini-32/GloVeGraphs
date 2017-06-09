@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0006121
+From: Vladimir Nesterenko <nestr@thsun1.jinr.ru>
+Date: Fri, 16 Jun 2000 14:38:58 GMT   (11kb)
+Date (revised v2): Tue, 9 Jan 2001 19:05:39 GMT   (11kb)
+Date (revised v3): Fri, 7 Sep 2001 08:20:47 GMT   (14kb)
+
+Title: Casimir effect for a dilute dielectric ball at finite temperature
+Authors: V.V. Nesterenko, G. Lambiase, and G. Scarpetta
+Comments: 15 pages, REVTeX, no figures, no tables; editor corrections are
+  introduced, version published in Phys. Rev. D 15
+Journal-ref: Phys. Rev. D64 (2001) 025013
+\\
+  The Casimir effect at finite temperature is investigated for a dilute
+dielectric ball; i.e., the relevant internal and free energies are calculated.
+The starting point in this study is a rigorous general expression for the
+internal energy of a system of noninteracting oscillators in terms of the sum
+over the Matsubara frequencies. Summation over the angular momentum values is
+accomplished in a closed form by making use of the addition theorem for the
+relevant Bessel functions. For removing the divergences the renormalization
+procedure is applied that has been developed in the calculation of the
+corresponding Casimir energy at zero temperature. The behavior of the
+thermodynamic characteristics in the low and high temperature limits is
+investigated.
+\\

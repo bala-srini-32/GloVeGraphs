@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9912240
+From: Adrian Mueller <amueller@physik.unizh.ch>
+Date: Thu, 23 Dec 1999 16:50:14 GMT   (79kb)
+Date (revised v2): Wed, 28 Jun 2000 13:58:18 GMT   (82kb)
+
+Title: Finite Temperature QED: Non-Cancellation of Infrared Divergencies and
+  Thermal Corrections to the Electron Magnetic Moment
+Authors: Adrian Muller
+Comments: 101 pages, no figures, latex, Sec. 3.3 corrected, Sec. 3.4
+  generalized
+Report-no: ZU-TH 37/99
+\\
+  In this work quantum electrodynamics at T > 0 is considered. For this purpose
+we use thermo field dynamics and the causal approach to quantum field theory
+according to Epstein and Glaser, the latter being a rigorous method to avoid
+the well-known ultraviolet divergencies of quantum field theory. It will be
+shown that the theory is infrared divergent if the usual scattering states are
+used. The same is true if we use more general mixed states. This is in
+contradiction to the results established in the literature, and we will point
+out why these earlier approaches fail to describe the infrared behaviour
+correctly. We also calculate the thermal corrections to the electron magnetic
+moment in the low temperature approximation k_B T << m_e. This is done by
+investigating the scattering of an electron on a C-number potential in third
+order in the limit of small momentum transfer p -> q. We reproduce one of the
+different results reported up to now in literature. In the low temperature
+approximation infrared finiteness is recovered in a very straightforward way:
+In contrast to the literature we do not have to introduce a thermal Dirac
+equation or thermal spinors.
+\\

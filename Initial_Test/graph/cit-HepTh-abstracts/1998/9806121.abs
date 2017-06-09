@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9806121
+From: Christoph Schweigert <Christoph.Schweigert@cern.ch>
+Date: Mon, 15 Jun 1998 15:34:53 GMT   (12kb)
+
+Title: Completeness of boundary conditions for the critical three-state Potts
+  model
+Authors: J. Fuchs, C. Schweigert
+Comments: 9 pages, LaTeX2e
+Report-no: CERN-TH/98-163
+Journal-ref: Phys.Lett. B441 (1998) 141-146
+\\
+  We show that the conformally invariant boundary conditions for the
+three-state Potts model are exhausted by the eight known solutions. Their
+structure is seen to be similar to the one in a free field theory that leads to
+the existence of D-branes in string theory. Specifically, the fixed and mixed
+boundary conditions correspond to Neumann conditions, while the free boundary
+condition and the new one recently found by Affleck et al [1] have a natural
+interpretation as Dirichlet conditions for a higher-spin current. The latter
+two conditions are governed by the Lee\hy Yang fusion rules. These results can
+be generalized to an infinite series of non-diagonal minimal models, and
+beyond.
+\\

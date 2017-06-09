@@ -1,0 +1,19 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0303139
+From: Juan Maldacena <malda@ias.edu>
+Date: Fri, 14 Mar 2003 20:48:29 GMT   (33kb)
+Date (revised v2): Thu, 24 Apr 2003 16:07:15 GMT   (35kb)
+
+Title: Closed strings from decaying D-branes
+Author: Neil Lambert, Hong Liu, Juan Maldacena
+Comments: harvmac, 30 pages, 2 figures. v2: references and minor changes added
+\\
+  We compute the emission of closed string radiation from homogeneous rolling
+tachyons. For an unstable decaying D$p$-brane the radiated energy is infinite
+to leading order for $p\leq 2$ and finite for $p>2$. The closed string state
+produced by a decaying brane is closely related to the state produced by
+D-instantons at a critical Euclidean distance from $t=0$. In the case of a D0
+brane one can cutoff this divergence so that we get a finite energy final state
+which would be the state that the brane decays into.
+\\

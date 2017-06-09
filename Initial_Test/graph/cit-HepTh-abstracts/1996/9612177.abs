@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9612177
+From: Jouko Mickelsson <jouko@theophys.kth.se>
+Date: Tue, 17 Dec 96 13:29:07 MET   (6kb)
+
+Title: Vacuum Polarization Renormalization and the Geometric Phase
+Authors: Edwin Langmann and Jouko Mickelsson
+Comments: 5 pages in AMSTEX format. This is a talk given by Jouko Mickelsson at
+  "XXI. Colloquium on Group Theoretical Methods in Physics" in Goslar, July
+  1996
+\\
+  As an application of the renormalization method introduced by the second
+author we give a causal definition of the phase of the quantum scattering
+matrix for fermions in external Yang-Mills potentials. The phase is defined
+using parallel transport along the path of renormalized time evolution
+operators. The time evolution operators are elements of the restricted unitary
+group $U_{res}$ of Pressley and Segal. The central extension of $U_{res}$ plays
+a central role.
+\\

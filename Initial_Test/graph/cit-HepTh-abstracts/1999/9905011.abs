@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9905011
+From: Ryu Sasaki <ryu@yukawa.kyoto-u.ac.jp>
+Date: Mon, 3 May 1999 12:30:01 GMT   (27kb)
+
+Title: Generalised Calogero-Moser models and universal Lax pair operators
+Authors: A.J. Bordner, E. Corrigan and R. Sasaki
+Comments: 37 pages, LaTeX2e, no macro, no figure
+Report-no: YITP-99-19, DTP/99/31
+Subj-class: High Energy Physics - Theory; Mathematical Physics; Exactly
+  Solvable and Integrable Systems
+Journal-ref: Prog.Theor.Phys. 102 (1999) 499-529
+\\
+  Calogero-Moser models can be generalised for all of the finite reflection
+groups. These include models based on non-crystallographic root systems, that
+is the root systems of the finite reflection groups, H_3, H_4, and the dihedral
+group I_2(m), besides the well-known ones based on crystallographic root
+systems, namely those associated with Lie algebras. Universal Lax pair
+operators for all of the generalised Calogero-Moser models and for any choices
+of the potentials are constructed as linear combinations of the reflection
+operators. The consistency conditions are reduced to functional equations for
+the coefficient functions of the reflection operators in the Lax pair. There
+are only four types of such functional equations corresponding to the
+two-dimensional sub-root systems, A_2, B_2, G_2, and I_2(m). The root type and
+the minimal type Lax pairs, derived in our previous papers, are given as the
+simplest representations. The spectral parameter dependence plays an important
+role in the Lax pair operators, which bear a strong resemblance to the Dunkl
+operators, a powerful tool for solving quantum Calogero-Moser models.
+\\

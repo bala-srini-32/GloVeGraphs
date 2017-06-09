@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9511046
+From: Sen-Ben Liao <senben@phy.duke.edu>
+Date: Tue, 7 Nov 1995 07:58:19 -0500   (29kb)
+
+Title: Operator Cutoff Regularization and Renormalization Group in Yang-Mills
+  Theory
+Authors: Sen-Ben Liao
+Comments: 36 pages in plain TeX, no figures
+Report-no: DUKE-TH-94-65
+Journal-ref: Phys.Rev. D56 (1997) 5008-5033
+\\
+  We derive a manifestly gauge invariant low energy blocked action for
+Yang-Mills theory using operator cutoff regularization, a prescription which
+renders the theory finite with a regulating smearing function constructed for
+the proper-time integration. By embedding the momentum cutoff scales in the
+smearing function, operator cutoff formalism allows for a direct application of
+Wilson-Kadanoff renormalization group to Yang-Mills theory in a completely
+gauge symmetry preserving manner. In particular, we obtain a renormalization
+group flow equation which takes into consideration the contributions of higher
+dimensional operators and provides a systematic way of exploring the influence
+of these operators as the strong coupling, infrared limit is approached.
+\\

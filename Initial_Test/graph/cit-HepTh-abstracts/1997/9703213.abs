@@ -1,0 +1,33 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9703213
+From: okumura_yoshitaka <okum@isc.chubu.ac.jp>
+Date: Sat, 29 Mar 1997 16:39:59 +0900   (22kb)
+
+Title: Left-right symmetric gauge model in a noncommutative geometry on
+  $M_4\times Z_4$
+Author: Yoshitaka Okumura
+Comments: 22 pages, LaTex file
+Report-no: CHUBU97032
+Journal-ref: Nuovo Cim. A110 (1997) 267-294
+\\
+  The left-right symmetric gauge model with the symmetry of $SU(3)_c\times
+SU(2)_L\times SU(2)_R\times U(1)$ is reconstructed in a new scheme of the
+noncommutative differential geometry (NCG) on the discrete space $M_4\times
+Z_4$ which is a product space of Minkowski space and four points space. The
+characteristic point of this new scheme is to take the fermion field to be a
+vector in a 24-dimensional space which contains all leptons and quarks.
+Corresponding to this specification, all gauge and Higgs boson fields are
+represented in $24\times 24$ matrix forms. We incorporate two Higgs doublet
+bosons $h$ and $SU(2)_R$ adjoint Higgs $\xi_R$ which are as usual transformed
+as $(2,2^\ast,0)$ and $(1,3,-2)$ under $SU(2)_L\times SU(2)_R\times U(1)$,
+respectively. Owing to the revise of the algebraic rules in a new NCG, we can
+obtain the necessary potential and interacting terms between these Higgs bosons
+which are responsible for giving masses to the particles included. Among the
+Higgs doublet bosons, one CP-even scalar boson survives in the weak energy
+scale and other four scalar bosons acquire the mass of the $SU(2)_R\times U(1)$
+breaking scale, which is similar to the situation in the standard model.
+$\xi_R$ is responsible to spontaneously break $SU(2)\ma{R} \times U(1)$ down to
+$U(1)\ma{Y}$ and so well explains the seesaw mechanism. Up and down quarks have
+the different masses through the vacuum expectation value of $h$.
+\\

@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0205153
+From: Raimar Wulkenhaar <raimar.wulkenhaar@mis.mpg.de>
+Date: Wed, 15 May 2002 15:50:20 GMT   (23kb)
+
+Title: Quantisation of \theta-expanded non-commutative QED
+Authors: Jesper M. Grimstrup (Vienna), Raimar Wulkenhaar (Leipzig)
+Comments: 24 pages, LaTeX, uses the feynmf package
+Report-no: TUW 02-11
+Journal-ref: Eur.Phys.J. C26 (2002) 139-151
+\\
+  We analyse two new versions of \theta-expanded non-commutative quantum
+electrodynamics up to first order in \theta and first loop order. In the first
+version we expand the bosonic sector using the Seiberg-Witten map, leaving the
+fermions unexpanded. In the second version we leave both bosons and fermions
+unexpanded. The analysis shows that the Seiberg-Witten map is a field
+redefinition at first order in \theta. However, at higher order in \theta the
+Seiberg-Witten map cannot be regarded as a field redefinition. We find that the
+initial action of any \theta-expanded massless non-commutative QED must include
+one extra term proportional to \theta which we identify by loop calculations.
+\\

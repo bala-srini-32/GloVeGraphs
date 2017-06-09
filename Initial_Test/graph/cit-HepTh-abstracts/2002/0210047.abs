@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0210047
+From: Eynard Bertrand <eynard@spht.saclay.cea.fr>
+Date: Fri, 4 Oct 2002 19:09:13 GMT   (38kb)
+
+Title: Large N expansion of the 2-matrix model
+Authors: B. Eynard
+Comments: 41 pages, 9 figures epsf
+Report-no: SPHT T-02/128, CRM-2868
+Subj-class: High Energy Physics - Theory; Exactly Solvable and Integrable
+  Systems; Mathematical Physics
+Journal-ref: JHEP 0301 (2003) 051
+\\
+  We present a method, based on loop equations, to compute recursively all the
+terms in the large $N$ topological expansion of the free energy for the
+2-hermitian matrix model. We illustrate the method by computing the first
+subleading term, i.e. the free energy of a statistical physics model on a
+discretized torus.
+\\

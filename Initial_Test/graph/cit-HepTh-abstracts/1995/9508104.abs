@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9508104
+From: cognola@science.unitn.it (Guido)
+Date: Tue, 22 Aug 1995 11:21:15 +0100   (23kb)
+Date (revised): Tue, 29 Aug 1995 16:30:38 +0100
+Date (revised): Wed, 30 Aug 1995 08:41:41 +0100
+
+Title: Finite Temperature Effects for Massive Fields in D-dimensional
+  Rindler-like Spaces
+Authors: Andrei A. Bytsenko, Guido Cognola and Sergio Zerbini
+Comments: 20 pages, LaTex, some references and a missing term in Eq.(6.2) added
+Report-no: University of Trento, UTF 357
+Journal-ref: Nucl.Phys. B458 (1996) 267-290
+\\
+  The first quantum corrections to the free energy for massive fields in
+$D$-dimensional space-times of the form $\R\times\R^+\times\M^{N-1}$, where
+$D=N+1$ and $\M^{N-1}$ is a constant curvature manifold, is investigated by
+means of the $\zeta$-function regularization. It is suggested that the nature
+of the divergences, which are present in the thermodynamical quantities, might
+be better understood making use of the conformal related optical metric and
+associated techniques. The general form of the horizon divercences of the free
+energy is obtained as a function of free energy densities of fields having
+negative square masses (absence of the gap in the Laplace operator spectrum) on
+ultrastatic manifolds with hyperbolic spatial section $H^{N-2n}$ and of the
+Seeley-DeWitt coefficients of the Laplace operator on the manifold $\M^{N-1}$.
+Furthermore, recurrence relations are found relating higher and lower
+dimensions. The cases of Rindler space, where $\M^{N-1}=\R^{N-1}$ and very
+massive $D$-dimensional black holes, where $\M^{N-1}=S^{N-1}$ are treated as
+examples. The renormalization of the internal energy is also discussed.
+\\

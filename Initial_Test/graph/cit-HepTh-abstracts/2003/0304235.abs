@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0304235
+From: Jose M. Isidro <jmisidro@ific.uv.es>
+Date: Mon, 28 Apr 2003 10:01:32 GMT   (7kb)
+Date (revised v2): Thu, 8 May 2003 10:26:14 GMT   (7kb)
+
+Title: Quantum Mechanics in Infinite Symplectic Volume
+Authors: J.M. Isidro
+Comments: 8 pages, LaTeX
+Subj-class: High Energy Physics - Theory; Mathematical Physics
+\\
+  We quantise complex, infinite-dimensional projective space CP(H). We apply
+the result to quantise a complex, finite-dimensional, classical phase space C
+whose symplectic volume is infinite, by holomorphically embedding it into
+CP(H). The embedding is univocally determined by requiring it to be an isometry
+between the Bergman metric on C and the Fubiny-Study metric on CP(H). Then the
+Hilbert-space bundle over C is the pullback, by the embedding, of the
+Hilbert-space bundle over CP(H).
+\\

@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9511049
+From: asevrin@tena4.vub.ac.be (Alexander Sevrin)
+Date: Tue, 7 Nov 95 18:39:09 WET   (36kb)
+
+Title: Strings from $N=2$ Gauged Wess-Zumino-Witten Models
+Author: E. Ragoucy, A. Sevrin and P. Sorba
+Comments: 50 pages, LaTeX
+Report-no: ENSLAPP-555/95, VUB-TH.395
+Journal-ref: Commun.Math.Phys. 181 (1996) 91
+\\
+  We present an algebraic approach to string theory. An embedding of $sl(2|1)$
+in a super Lie algebra together with a grading on the Lie algebra determines a
+nilpotent subalgebra of the super Lie algebra. Chirally gauging this subalgebra
+in the corresponding Wess-Zumino-Witten model, breaks the affine symmetry of
+the Wess-Zumino-Witten model to some extension of the $N=2$ superconformal
+algebra. The extension is completely determined by the $sl(2|1)$ embedding. The
+realization of the superconformal algebra is determined by the grading. For a
+particular choice of grading, one obtains in this way, after twisting, the BRST
+structure of a string theory. We classify all embeddings of $sl(2|1)$ into Lie
+super algebras and give a detailed account of the branching of the adjoint
+representation. This provides an exhaustive classification and characterization
+of both all extended $N=2$ superconformal algebras and all string theories
+which can be obtained in this way.
+\\

@@ -1,0 +1,35 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0003114
+From: "Simon L. Lyakhovich" <sll@phys.tsu.ru>
+Date: Tue, 14 Mar 2000 18:27:51 GMT   (20kb)
+Date (revised v2): Sun, 23 Apr 2000 03:23:32 GMT   (21kb)
+
+Title: Fedosov Deformation Quantization as a BRST Theory
+Authors: M.A. Grigoriev and S.L. Lyakhovich
+Comments: Latex2e, 20 pages, minor corrections, references added
+Subj-class: High Energy Physics - Theory; Quantum Algebra; Differential
+  Geometry
+Journal-ref: Commun.Math.Phys. 218 (2001) 437-457
+\\
+  The relationship is established between the Fedosov deformation quantization
+of a general symplectic manifold and the BFV-BRST quantization of constrained
+dynamical systems. The original symplectic manifold $\mathcal M$ is presented
+as a second class constrained surface in the fibre bundle ${{\mathcal
+T}^*_\rho}{\mathcal M}$ which is a certain modification of a usual cotangent
+bundle equipped with a natural symplectic structure. The second class system is
+converted into the first class one by continuation of the constraints into the
+extended manifold, being a direct sum of ${{\mathcal T}^*_\rho}{\mathcal M}$
+and the tangent bundle $T {\mathcal M}$. This extended manifold is equipped
+with a nontrivial Poisson bracket which naturally involves two basic
+ingredients of Fedosov geometry: the symplectic structure and the symplectic
+connection. The constructed first class constrained theory, being equivalent to
+the original symplectic manifold, is quantized through the BFV-BRST procedure.
+The existence theorem is proven for the quantum BRST charge and the quantum
+BRST invariant observables. The adjoint action of the quantum BRST charge is
+identified with the Abelian Fedosov connection while any observable, being
+proven to be a unique BRST invariant continuation for the values defined in the
+original symplectic manifold, is identified with the Fedosov flat section of
+the Weyl bundle. The Fedosov fibrewise star multiplication is thus recognized
+as a conventional product of the quantum BRST invariant observables.
+\\

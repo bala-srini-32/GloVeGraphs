@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9802136
+From: vgusynin@gluk.apc.org
+Date: Thu, 19 Feb 1998 20:46:15 GMT   (13kb)
+Date (revised v2): Tue, 24 Feb 1998 07:41:14 GMT   (14kb)
+Date (revised v3): Fri, 23 Oct 1998 14:43:05 GMT   (15kb)
+
+Title: Effective Action and Conformal Phase Transition in Three-Dimensional QED
+Authors: V. P. Gusynin, V. A. Miransky and A. V. Shpagin
+Comments: 17 pages, RevTex file, no figures. The discussion of the effective
+  action is extended
+Journal-ref: Phys.Rev. D58 (1998) 085023
+\\
+  The effective action for local composite operators in $QED_3$ is considered.
+The effective potential is calculated in leading order in $1/N_f$ ($N_f$ is the
+number of fermion flavors) and used to describe the features of the phase
+transition at $N_f=N_{\rm cr}$, $3<N_{\rm cr}<5$. It is shown that this
+continuous phase transition satisfies the criteria of the conformal phase
+transition, considered recently in the literature. In particular, there is an
+abrupt change of the spectrum of light excitations at the critical point,
+although the phase transition is continuous, and the structure of the equation
+for the divergence of the dilatation current is essentially different in the
+symmetric and nonsymmetric phases. The connection of this dynamics with the
+dynamics in $QCD_4$ is briefly discussed.
+\\

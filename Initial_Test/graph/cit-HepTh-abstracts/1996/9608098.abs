@@ -1,0 +1,33 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9608098
+From: K.Strobl@sussex.ac.uk (Karl Strobl)
+Date: Thu, 15 Aug 1996 16:39:54 +0100 (BST)   (194kb)
+
+Title: Universality and Critical Phenomena in String Defect Statistics
+Authors: Karl Strobl and Mark Hindmarsh
+Comments: 62 pages, plain LaTeX, macro mathsymb.sty included, figures included.
+  also available on
+  http://starsky.pcss.maps.susx.ac.uk/groups/pt/preprints/96/96011.ps.gz
+Report-no: SUSX-TH-96-11
+\\
+  The idea of biased symmetries to avoid or alleviate cosmological problems
+caused by the appearance of some topological defects is familiar in the context
+of domain walls, where the defect statistics lend themselves naturally to a
+percolation theory description, and for cosmic strings, where the proportion of
+infinite strings can be varied or disappear entirely depending on the bias in
+the symmetry. In this paper we measure the initial configurational statistics
+of a network of string defects after a symmetry-breaking phase transition with
+initial bias in the symmetry of the ground state. Using an improved algorithm,
+which is useful for a more general class of self-interacting walks on an
+infinite lattice, we extend the work in \cite{MHKS} to better statistics and a
+different ground state manifold, namely $\R P^2$, and explore various different
+discretisations. Within the statistical errors, the critical exponents of the
+Hagedorn transition are found to be quite possibly universal and identical to
+the critical exponents of three-dimensional bond or site percolation. This
+improves our understanding of the percolation theory description of defect
+statistics after a biased phase transition, as proposed in \cite{MHKS}. We also
+find strong evidence that the existence of infinite strings in the Vachaspati
+Vilenkin algorithm is generic to all (string-bearing) vacuum manifolds, all
+discretisations thereof, and all regular three-dimensional lattices.
+\\

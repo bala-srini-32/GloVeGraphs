@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9805007
+From: Michael Dine <dine@mailbox.slac.stanford.edu>
+Date: Fri, 1 May 1998 21:58:51 GMT   (15kb)
+Date (revised v2): Fri, 4 Sep 1998 22:54:22 GMT   (16kb)
+Date (revised v3): Wed, 9 Sep 1998 17:00:26 GMT   (16kb)
+
+Title: Renormalization of Higher Derivative Operators in the Matrix Model
+Author: Michael Dine, Robert Echols and Joshua P. Gray
+Comments: 14 pages latex. Note added in light of recent developments
+Report-no: SCIPP 98/15
+Journal-ref: Phys.Lett. B444 (1998) 103-110
+\\
+  $M$-theory is believed to be described in various dimensions by large $N$
+field theories. It has been further conjectured that at finite $N$, these
+theories describe the discrete light cone quantization (DLCQ) of $M$ theory.
+Even at low energies, this is not necessarily the same thing as the DLCQ of
+supergravity. It is believed that this is only the case for quantities which
+are protected by non-renormalization theorems. In 0+1 and 1+1 dimensions, we
+provide further evidence of a non-renormalization theorem for the $v^4$ terms,
+but also give evidence that there are not such theorems at order $v^8$ and
+higher.
+\\

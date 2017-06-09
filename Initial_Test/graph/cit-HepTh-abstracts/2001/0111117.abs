@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0111117
+From: Frank Ferrari <frank.ferrari@unine.ch>
+Date: Tue, 13 Nov 2001 15:44:42 GMT   (6kb)
+Date (revised v2): Fri, 16 Nov 2001 09:46:51 GMT   (6kb)
+Date (revised v3): Thu, 24 Jan 2002 15:42:09 GMT   (6kb)
+
+Title: A note on theta dependence
+Authors: Frank Ferrari (Universite de Neuchatel and Princeton University)
+Comments: 6 pages; v2: a couple of clarifying sentences added; v3: references
+  added
+Report-no: NEIP-01-010, PUPT-2007, LPTENS-01/36
+Journal-ref: Phys.Lett. B529 (2002) 261-264
+\\
+  The dependence on the topological theta angle term in quantum field theory is
+usually discussed in the context of instanton calculus. There the observables
+are 2 pi periodic, analytic functions of theta. However, in strongly coupled
+theories, the semi-classical instanton approximation can break down due to
+infrared divergences. Instances are indeed known where analyticity in theta can
+be lost, while the 2 pi periodicity is preserved. In this short note we exhibit
+a simple two dimensional example where the 2 pi periodicity is lost. The
+observables remain periodic under the transformation theta -> theta + 2 k pi
+for some k >= 2. We also briefly discuss the case of four dimensional N=2
+supersymmetric gauge theories.
+\\

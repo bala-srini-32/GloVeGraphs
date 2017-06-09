@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0004083
+From: Marty Stock <mstock@mit.edu>
+Date: Tue, 11 Apr 2000 20:36:35 GMT   (11kb)
+Date (revised v2): Tue, 2 May 2000 20:31:27 GMT   (11kb)
+Date (revised v3): Mon, 17 Jul 2000 20:17:40 GMT   (11kb)
+
+Title: Supersymmetric Fluid Mechanics
+Authors: R. Jackiw and A.P. Polychronakos
+Comments: 12 pages, REVtex, amssym macros; publication version for Phys Rev D;
+  email to jackiw@mitlns.mit.edu
+Report-no: MIT-CTP-2943
+Subj-class: High Energy Physics - Theory; Mathematical Physics; Fluid Dynamics
+Journal-ref: Phys.Rev. D62 (2000) 085019
+\\
+  When anticommuting Grassmann variables are introduced into a fluid dynamical
+model with irrotational velocity and no vorticity, the velocity acquires a
+nonvanishing curl and the resultant vorticity is described by Gaussian
+potentials formed from the Grassmann variables. Upon adding a further specific
+interaction with the Grassmann degrees of freedom, the model becomes
+supersymmetric.
+\\

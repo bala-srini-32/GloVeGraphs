@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9704001
+From: yamadah@cc.it-chiba.ac.jp
+Date: Tue, 1 Apr 1997 14:13:48 +0900   (11kb)
+Date (revised): Wed, 2 Apr 1997 11:14:52 +0900
+
+Title: Modified Laplace transformation method at finite temperature:
+  application to infra-red problems of N component $\phi^4$ theory
+Author: Hirofumi Yamada
+Comments: 16pages, Latex, typographical errors are corrected
+Journal-ref: Int.J.Mod.Phys. A13 (1998) 4133-4146
+\\
+  Modified Laplace transformation method is applied to N component $\phi^4$
+theory and the finite temperature problem in the massless limit is re-examined
+in the large N limit. We perform perturbation expansion of the dressed
+thermal mass in the massive case to several orders and try the massless
+approximation with the help of modified Laplace transformation. The
+contribution with fractional power of the coupling constant is recovered from
+the truncated massive series. The use of inverse Laplace transformation with
+respect to the mass square is crucial in evaluating the coefficients of
+fractional power terms.
+\\

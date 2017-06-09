@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9612142
+From: Tomas Ortin Miguel <Tomas.Ortin@cern.ch>
+Date: Thu, 12 Dec 1996 18:03:48 +0100 (MET)   (11kb)
+Date (revised): Wed, 22 Jan 1997 18:18:40 +0100 (MET)
+
+Title: Extremality Versus Supersymmetry in Stringy Black Holes
+Authors: Tomas Ortin (CERN)
+Comments: Latex2e file with optional macros for small versions. References to
+  Kutasov and Martinec's work added
+Report-no: CERN-TH/96-357
+Journal-ref: Phys.Lett. B422 (1998) 93-100
+\\
+  We study general black-hole solutions of the low-energy string effective
+action in arbitrary dimensions using a general metric that can describe them
+all in a unified way both in the extreme and non-extreme cases. We calculate
+the mass, temperature and entropy and study which relations amongst the charges
+and the mass lead to extremality. We find that the temperature always vanishes
+in the extreme limit and we find that, for a set of n charges (no further
+reducible by duality) there are 2^{(n-1)} combinations of the charges that
+imply extremality. Not all of these combinations can be central charge
+eigenvalues and, thus, there are in general extreme black holes which are not
+supersymmetric (or ``BPS-saturated''). In the N=8 supergravity case we argue
+that the existence of roughly as many supersymmetric and non-supersymmetric
+extreme black holes suggests the existence of an underlying twelve-dimensional
+structure.
+\\

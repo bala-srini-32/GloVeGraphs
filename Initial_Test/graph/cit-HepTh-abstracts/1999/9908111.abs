@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9908111
+From: jf yang <jfyang@fudan.edu.cn>
+Date: Tue, 17 Aug 1999 01:17:09 GMT   (18kb)
+Date (revised v2): Thu, 19 Aug 1999 00:37:10 GMT   (18kb)
+Date (revised v3): Thu, 2 Sep 1999 10:16:56 GMT   (17kb)
+Date (revised v4): Thu, 4 Nov 1999 12:48:45 GMT   (18kb)
+Date (revised v5): Mon, 12 Jun 2000 11:44:34 GMT   (17kb)
+Date (revised v6): Wed, 12 Jul 2000 12:13:31 GMT   (17kb)
+
+Title: Harmonic scale transformation in effective QFTs with underlying
+  structures
+Author: Jifeng Yang (Fudan Univ., Shanghai, P. R. China)
+Comments: 11 pages, RevTex, no figure
+\\
+  New equations governing the scale transformation behaviors of a QFT with
+underlying structures are derived. These equations, with their several
+equivalent versions, can yield some new and significant insights and results
+that are difficult to see in the conventional renormalization programs. Among
+the several equivalent versions, one is similar to the usual Callan-Symanzik
+equation and renormalization group equation but with different meanings. From
+another version, the anomalous equation of energy-momentum tensor trace can be
+easily obtained. It can be shown that with the new versions one could partially
+fix the scheme dependence and hence some renormalization schemes like momentum
+space subtractions are questionable. The asymptotic freedom for QCD is easily
+reproduced at one-loop level in our new version CSE. Finally the decoupling
+theorem a la Appelquist and Carazzone are discussed within our strategy.
+\\

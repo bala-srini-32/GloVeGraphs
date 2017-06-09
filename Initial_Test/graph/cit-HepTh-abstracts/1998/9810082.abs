@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9810082
+From: "Aleksandr I. Sokolov" <ais@sokol.usr.etu.spb.ru>
+Date: Mon, 12 Oct 1998 17:37:22 GMT   (11kb)
+Date (revised v2): Fri, 30 Apr 1999 11:11:13 GMT   (11kb)
+Date (revised v3): Mon, 13 Dec 1999 10:35:50 GMT   (11kb)
+
+Title: Universal critical coupling constants for the three-dimensional n-vector
+  model from field theory
+Authors: A. I. Sokolov, E. V. Orlov, V. A. Ul'kov, and S. S. Kashtanov (Saint
+  Petersburg Electrotechnical University, St. Petersburg, Russia)
+Comments: 11 pages, LaTeX, no figures, published version with two wrongly
+  addressed references in Table II capture corrected
+Report-no: SPb Eltech University Preprint, 9 October 1998
+Journal-ref: Phys. Rev. E 60, 1344-1349 (1999)
+\\
+  The field-theoretical renormalization group approach in three dimensions is
+used to estimate the universal critical values of renormalized coupling
+constants g_6 and g_8 for the O(n)-symmetric model. The RG series for g_6 and
+g_8 are calculated in the four-loop and three-loop approximations respectively
+and then resummed by means of the Pade-Borel-Leroy technique. Under the optimal
+value of the shift parameter b providing the fastest convergence of the
+iteration procedure numerical estimates for the universal critical values
+g_6^*(n) are obtained for n = 1, 2, 3,...40 with the accuracy no worse than
+0.3%. The RG expansion for g_8 demonstrates stronger divergence and results in
+considerably cruder numerical estimates. They are found to be consistent with
+the values of g_8^* deduced from the exact RG equations and, for n > 8, with
+those given by a constrained analysis of corresponding \epsilon-expansion.
+\\

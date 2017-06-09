@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0103232
+From: Christian Mercat <cmercat@unimelb.edu.au>
+Date: Wed, 28 Mar 2001 05:20:20 GMT   (32kb)
+Date (revised v2): Tue, 26 Jun 2001 06:27:19 GMT   (31kb)
+
+Title: Integrable and Conformal Boundary Conditions for Z_k Parafermions on a
+  Cylinder
+Authors: Christian Mercat and Paul A. Pearce
+Comments: 27 pages, 1 Encapsulated Postscript figure, uses lscape.sty
+Journal-ref: J.Phys. A34 (2001) 5751-5772
+\\
+  We study integrable and conformal boundary conditions for ^sl(2) Z_k
+parafermions on a cylinder. These conformal field theories are realized as the
+continuum scaling limit of critical A-D-E lattice models with negative spectral
+parameter. The conformal boundary conditions labelled by (a,m) in (G, Z_{2k})
+are identified with associated integrable lattice boundary conditions labelled
+by (r,a) in (A_{g-2},G) where g is the Coxeter number of the A-D-E graph G. We
+obtain analytically the boundary free energies, present general expressions for
+the parafermion cylinder partition functions and confirm these results by
+numerical calculations.
+\\

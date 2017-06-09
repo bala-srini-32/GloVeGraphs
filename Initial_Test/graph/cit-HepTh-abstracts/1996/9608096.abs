@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9608096
+From: rhd@fwi.uva.nl (R. H. Dijkgraaf)
+Date: Thu, 15 Aug 1996 16:10:51 +0200 (MET DST)   (17kb)
+Date (revised): Mon, 18 Nov 1996 09:38:05 +0100 (MET)
+
+Title: Elliptic Genera of Symmetric Products and Second Quantized Strings
+Author: R. Dijkgraaf, G. Moore, E. Verlinde, H. Verlinde
+Comments: 17 pages, latex, 1 figure, to appear in Commun. Math. Phys
+Report-no: CERN-TH/96-222, ITFA/96-31, YCTP-P16-96
+Subj-class: High Energy Physics - Theory; Algebraic Geometry
+Journal-ref: Commun.Math.Phys. 185 (1997) 197-209
+\\
+  In this note we prove an identity that equates the elliptic genus partition
+function of a supersymmetric sigma model on the N-fold symmetric product
+$M^N/S_N$ of a manifold M to the partition function of a second quantized
+string theory on the space $M \times S^1$. The generating function of these
+elliptic genera is shown to be (almost) an automorphic form for O(3,2,Z). In
+the context of D-brane dynamics, this result gives a precise computation of the
+free energy of a gas of D-strings inside a higher-dimensional brane.
+\\

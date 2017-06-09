@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0003227
+From: Moshe Rozali <rozali@physics.rutgers.edu>
+Date: Fri, 24 Mar 2000 23:42:34 GMT   (37kb)
+Date (revised v2): Mon, 17 Apr 2000 15:34:02 GMT   (37kb)
+
+Title: Noncommutative Gauge Theory, Divergences and Closed Strings
+Authors: Arvind Rajaraman and Moshe Rozali
+Comments: 20 pages, 2 figures, LATEX
+Report-no: RUNHETC-2000-10
+Journal-ref: JHEP 0004 (2000) 033
+\\
+  We study the renormalization of non-commutative gauge theories with matter.
+ As in the scalar field theory cases, there are logarithmic infrared
+divergences resulting from integrating out high momentum modes. In order to
+reproduce the correct infrared behaviour, the Wilsonian effective action has to
+include certain ''closed string`` modes with prescribed couplings.
+  In the case of quiver gauge theories, realized in string theory on orbifolds,
+we identify the required modes with a set of twisted sector fields. These
+closed string modes have exactly the prescribed couplings to correct the
+Wilsonian effective action. This provides a concrete origin for the appearance
+of closed string modes in noncommutative field theories.
+\\

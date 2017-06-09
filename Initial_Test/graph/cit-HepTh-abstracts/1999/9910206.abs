@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9910206
+From: HADJIIVANOV LYUDMIL KIRILOV <lhadji@ictp.trieste.it>
+Date: Tue, 26 Oct 1999 16:21:20 GMT   (21kb)
+
+Title: A Finite Dimensional Gauge Problem in the WZNW Model
+Authors: M. Dubois-Violette, P. Furlan, L.K. Hadjiivanov, A.P. Isaev, P.N.
+  Pyatov, I.T. Todorov
+Comments: 20 pages, LATEX. Talk presented by I.T. Todorov at the International
+  symposium "Quantum Theory and Symmetries"' 18-22 July 1999, Goslar, Germany
+Report-no: L.P.T.-ORSAY 99-73, ESI 778
+Subj-class: High Energy Physics - Theory; Mathematical Physics; Quantum Algebra
+\\
+  The left and right zero modes of the level k SU(n) WZNW model give rise to a
+pair of isomorphic (left and right) mutually commuting quantum matrix algebras.
+For a deformation parameter q being an even (2h-th, h = k + n) root of unity
+each of these matrix algebras admits an ideal such that the corresponding
+factor algebra is finite dimensional. The structure of superselection sectors
+of the (diagonal) 2D WZNW model is then reduced to a finite dimensional problem
+of a gauge theory type. For n=2 this problem is solved using a generalized BRS
+formalism.
+\\

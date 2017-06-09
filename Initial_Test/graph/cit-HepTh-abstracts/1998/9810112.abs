@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9810112
+From: Alexei Isaev <isaevap@thsun1.jinr.ru>
+Date: Thu, 15 Oct 1998 12:13:02 GMT   (5kb)
+
+Title: Path-Integral for Quadratic Hamiltonian Systems and Boundary Conditions
+Authors: A. T. Filippov, A. P. Isaev
+Comments: 4 pages, LaTeX 2e, sprocl.sty. To be published in the Proceedings of
+  6-th International Conference on "Path-Integrals from peV to TeV" (Florence,
+  Italy, 25-29 August 1998)
+\\
+  A path-integral representation for the kernel of the evolution operator of
+general Hamiltonian systems is reviewed. We study the models with bosonic and
+fermionic degrees of freedom. A general scheme for introducing boundary
+conditions in the path-integral is given. We calculate the path-integral for
+the systems with quadratic first class constraints and present an explicit
+formula for the heat kernel in this case. These results may be applied to many
+quantum systems which can be reduced to the Hamiltonian systems with quadratic
+constraints (confined quarks, Calogero type models, string and $p$-brain
+theories, etc.).
+\\

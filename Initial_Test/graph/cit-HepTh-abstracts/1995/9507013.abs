@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9507013
+From: MPESKIN@SLAC.Stanford.EDU
+Date: Mon, 03 Jul 1995 13:54 -0800 (PST)   (44kb)
+
+Title: Exotic Non-Supersymmetric Gauge Dynamics from Supersymmetric QCD
+Authors: Ofer Aharony, Jacob Sonnenschein, Michael E. Peskin, and Shimon
+  Yankielowicz
+Comments: 36 pages, latex + 2 figures (uuencoded ps)
+Report-no: SLAC-PUB-6938,CERN-TH/95-159,TAUP-2269-95
+Journal-ref: Phys.Rev. D52 (1995) 6157-6174
+\\
+  We extend Seiberg's qualitative picture of the behavior of supersymmetric QCD
+to nonsupersymmetric models by adding soft supersymmetry breaking terms. In
+this way, we recover the standard vacuum of QCD with $N_f$ flavors and $N_c$
+colors when $N_f < N_c$. However, for $N_f \geq N_c$, we find new exotic
+states---new vacua with spontaneously broken baryon number for $N_f = N_c$, and
+a vacuum state with unbroken chiral symmetry for $N_f > N_c$. These exotic
+vacua contain massless composite fermions and, in some cases, dynamically
+generated gauge bosons. In particular Seiberg's electric-magnetic duality seems
+to persist also in the presence of (small) soft supersymmetry breaking. We
+argue that certain, specially tailored, lattice simulations may be able to
+detect the novel phenomena. Most of the exotic behavior does not survive the
+decoupling limit of large SUSY breaking parameters.
+\\

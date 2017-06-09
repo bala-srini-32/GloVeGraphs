@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9812229
+From: Harutada Sato <H.Sato@ThPhys.Uni-Heidelberg.DE>
+Date: Thu, 24 Dec 1998 19:20:39 GMT   (32kb)
+Date (revised v2): Tue, 1 Jun 1999 12:30:59 GMT   (35kb)
+
+Title: World-line approach to the Bern-Kosower formalism in two-loop Yang-Mills
+  theory
+Authors: Haru-Tada Sato and Michael G. Schmidt (Heidelberg U.)
+Comments: 37(+1) pages, details added for section 2
+Report-no: HD-THEP-98-64
+Journal-ref: Nucl.Phys. B560 (1999) 551-586
+\\
+  Based on the world-line formalism with a sewing method, we derive the
+Yang-Mills effective action in a form useful to generate the Bern-Kosower-type
+master formulae for gluon scattering amplitudes at the two-loop level. It is
+shown that four-gluon ($\Phi^4$ type sewing) contributions can be encapsulated
+in the action with three-gluon ($\Phi^3$ type) vertices only, the total action
+thus becoming a simple expression. We then derive a general formula for a
+two-loop Euler-Heisenberg type action in a pseudo-abelian $su(2)$ background.
+The ghost loop and fermion loop cases are also studied.
+\\

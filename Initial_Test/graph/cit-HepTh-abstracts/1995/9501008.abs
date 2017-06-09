@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9501008
+From: "Charles Sommerfield, (203)432-6924" <SOMMERFLD@yalph2.physics.yale.edu>
+Date: Tue, 03 Jan 1995 16:25:27 -0400 (EDT)   (6kb)
+
+Title: On Abelian Bosonization of Free Fermi Fields in Three Space Dimensions.
+Author: Ramesh Abhiraman and Charles M. Sommerfield, Yale University.
+Comments: Based on a talk given by C. Sommerfield at Gursey Memorial Conference
+  I, Bogazici Univerisity, Istanbul, Turkey, June 1994, 7 pages, plain TeX.
+Report-no: YCTP-P1-95.
+\\
+One of the methods used to extend two-dimensional bosonization to four
+space-time dimensions involves a transformation to new spatial variables so
+that only one of them appears kinematically. The problem is then reduced to an
+Abelian version of two-dimensional bosonization with extra ``internal''
+coordinates. On a formal level, putting these internal coordinates on a finite
+lattice seems to provide a well-defined prescription for calculating
+correlation functions. However, in the infinite-lattice or continuum limits,
+certain difficulties appear that require very delicate specification of all of
+the many limiting procedures involved in the construction.
+\\

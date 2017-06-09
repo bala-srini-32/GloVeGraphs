@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0209089
+From: S. Prem Kumar <s.p.kumar@swansea.ac.uk>
+Date: Tue, 10 Sep 2002 18:11:25 GMT   (25kb)
+Date (revised v2): Thu, 12 Sep 2002 16:03:49 GMT   (25kb)
+
+Title: Exact Superpotentials from Matrix Models
+Authors: Nick Dorey, Timothy J. Hollowood, S. Prem Kumar and Annamaria
+  Sinkovics
+Comments: 28 pages, 1 figure, latex with JHEP.cls, replaced with typos
+  corrected and one clarifying comment
+Report-no: SWAT-350
+Journal-ref: JHEP 0211 (2002) 039
+\\
+  Dijkgraaf and Vafa (DV) have conjectured that the exact superpotential for a
+large class of N=1 SUSY gauge theories can be extracted from the planar limit
+of a certain holomorphic matrix integral. We test their proposal against
+existing knowledge for a family of deformations of N=4 SUSY Yang-Mills theory
+involving an arbitrary polynomial superpotential for one of the three adjoint
+chiral superfields. Specifically, we compare the DV prediction for these models
+with earlier results based on the connection between SUSY gauge theories and
+integrable systems. We find complete agreement between the two approaches. In
+particular we show how the DV proposal allows the extraction of the exact
+eigenvalues of the adjoint scalar in the confining vacuum and hence computes
+all related condensates of the finite-N gauge theory. We extend these results
+to include Leigh-Strassler deformations of the N=4 theory.
+\\

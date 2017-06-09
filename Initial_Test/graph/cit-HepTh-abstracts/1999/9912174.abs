@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9912174
+From: Maximilian Kreuzer <kreuzer@hep.itp.tuwien.ac.at>
+Date: Mon, 20 Dec 1999 17:30:59 GMT   (11kb)
+Date (revised v2): Tue, 25 Jan 2000 11:48:29 GMT   (11kb)
+
+Title: $\Lambda$-symmetry and background independence of noncommutative gauge
+  theory on $\mathbb R^n$
+Authors: Maximilian Kreuzer and Jian-Ge Zhou
+Comments: 16 pages, LaTeX2e, minor revisions (version published in JHEP)
+Report-no: TUW-99/27
+Journal-ref: JHEP 0001 (2000) 011
+\\
+  Background independence of noncommutative Yang-Mills theory on $\mathbb R^n$
+is discussed. The quantity $\theta \hat F \theta - \theta$ is found to be
+background dependent at subleading order, and it becomes background independent
+only when the ordinary gauge field strength $F$ is constant. It is shown that,
+at small values of $B$, the noncommutative Dirac-Born-Infeld action possesses
+$\Lambda$-symmetry at least to subleading order in $\theta$ if $F$ damps fast
+enough at infinity.
+\\

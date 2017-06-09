@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0111003
+From: Thomas Branson <branson@math.uiowa.edu>
+Date: Wed, 31 Oct 2001 21:25:26 GMT   (28kb)
+
+Title: Electromagnetism, metric deformations, ellipticity and gauge operators
+  on conformal 4-manifolds
+Authors: Thomas Branson and A. Rod Gover
+Comments: 30 pages, LaTeX
+Journal-ref: Differ.Geom.Appl. 17 (2001) 229-249
+\\
+  On Riemannian signature conformal 4-manifolds we give a conformally invariant
+extension of the Maxwell operator on 1-forms. We show the extension is in an
+appropriate sense injectively elliptic, and recovers the invariant gauge
+operator of Eastwood and Singer. The extension has a natural compatibility with
+the de Rham complex and we prove that, given a certain restriction, its
+conformally invariant null space is isomorphic to the first de Rham cohomology.
+General machinery for extending this construction is developed and as a second
+application we describe an elliptic extension of a natural operator on
+perturbations of conformal structure. This operator is closely linked to a
+natural sequence of invariant operators that we construct explictly. In the
+conformally flat setting this yields a complex known as the conformal
+deformation complex and for this we describe a conformally invariant Hodge
+theory which parallels the de Rham result.
+\\

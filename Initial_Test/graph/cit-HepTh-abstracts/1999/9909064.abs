@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9909064
+From: Bodo Geyer <bodo.geyer@itp.uni-leipzig.de>
+Date: Fri, 10 Sep 1999 13:10:09 GMT   (26kb)
+Date (revised v2): Fri, 11 Feb 2000 09:27:12 GMT   (26kb)
+
+Title: Superspace formulation of general massive gauge theories and geometric
+  interpretation of mass-dependent BRST symmetries
+Authors: Bodo Geyer and Dietmar M\"ulsch
+Comments: 35 pages, AMSTEX, precision of references
+Journal-ref: J.Math.Phys. 41 (2000) 7304-7332
+\\
+  A superspace formulation is proposed for the osp(1,2)-covariant Lagrangian
+quantization of general massive gauge theories. The superalgebra os0(1,2) is
+considered as subalgebra of sl(1,2); the latter may be considered as the
+algebra of generators of the conformal group in a superspace with two
+anticommuting coordinates. The mass-dependent (anti)BRST symmetries of proper
+solutions of the quantum master equations in the osp(1,2)-covariant formalism
+are realized in that superspace as invariance under translations combined with
+mass-dependent special conformal transformations. The Sp(2) symmetry - in
+particular the ghost number conservation - and the "new ghost number"
+conservation are realized as invariance under symplectic rotations and
+dilatations, respectively. The transformations of the gauge fields - and of the
+full set of necessarily required (anti)ghost and auxiliary fields - under the
+superalgebra sl(1,2) are determined both for irreducible and first-stage
+reducible theories with closed gauge algebra.
+\\

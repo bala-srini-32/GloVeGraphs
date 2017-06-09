@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0301039
+From: Glenn Barnich <gbarnich@ulb.ac.be>
+Date: Tue, 7 Jan 2003 23:37:42 GMT   (9kb)
+Date (revised v2): Thu, 9 Jan 2003 17:10:25 GMT   (10kb)
+
+Title: Boundary charges in gauge theories: using Stokes theorem in the bulk
+Authors: Glenn Barnich
+Comments: 9 pages Latex file, formulation of some statements improved
+Report-no: ULB-TH/03-01
+\\
+  Boundary charges in gauge theories (like the ADM mass in general relativity)
+can be understood as integrals of linear conserved n-2 forms of the free theory
+obtained by linearization around the background. These forms are associated
+one-to-one to reducibility parameters of this background (like the time-like
+Killing vector of Minkowski space-time). For such n-2 forms, a non-linear
+completion is constructed that is closed in the full interacting theory and
+thus allows the use of Stokes theorem without bulk contributions, provided a
+one parameter solution to the full equations of motion with appropriate
+fall-off conditions is used and the reducibility parameters of the background
+are simultaneously reducibility parameters of this one parameter solution.
+\\

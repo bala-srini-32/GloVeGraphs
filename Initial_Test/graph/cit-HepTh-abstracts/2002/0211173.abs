@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0211173
+From: Volker Braun <volker.braun@physik.hu-berlin.de>
+Date: Tue, 19 Nov 2002 10:50:23 GMT   (24kb)
+
+Title: On Berenstein-Douglas-Seiberg Duality
+Authors: Volker Braun
+Comments: 22 pages, LaTeX
+Report-no: LPTENS-02/58
+Journal-ref: JHEP 0301 (2003) 082
+\\
+  I review the proposal of Berenstein-Douglas for a completely general
+definition of Seiberg duality. To give evidence for their conjecture I present
+the first example of a physical dual pair and explicitly check that it
+satisfies the requirements. Then I explicitly show that a pair of toric dual
+quivers is also dual according to their proposal. All these computations go
+beyond tilting modules, and really work in the derived category. I introduce
+all necessary mathematics where needed.
+\\

@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0102120
+From: Tim Morris <trmorris@hep.phys.soton.ac.uk>
+Date: Mon, 19 Feb 2001 18:23:37 GMT   (26kb)
+
+Title: An exact RG formulation of quantum gauge theory
+Author: Tim R. Morris
+Comments: 13 pages, 5 figs, ws-p9-75x6-50.cls (included), epsf. Talk presented
+  at the 2nd Conference on Exact RG, Rome 2000
+Report-no: SHEP 01-09
+Journal-ref: Int.J.Mod.Phys. A16 (2001) 1899-1912
+\\
+  A gauge invariant Wilsonian effective action is constructed for pure SU(N)
+Yang-Mills theory by formulating the corresponding flow equation. Manifestly
+gauge invariant calculations can be performed i.e. without gauge fixing or
+ghosts. Regularisation is implemented in a novel way which realises a
+spontaneously broken SU(N|N) supergauge theory. As an example we sketch the
+computation of the one-loop beta function, performed for the first time without
+any gauge fixing.
+\\

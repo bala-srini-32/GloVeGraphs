@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0204172
+From: Joris Raeymaekers <joris@sandpile.theory.tifr.res.in>
+Date: Sat, 20 Apr 2002 12:19:06 GMT   (21kb)
+Date (revised v2): Wed, 17 Jul 2002 12:14:20 GMT   (21kb)
+
+Title: Ghost Sector of Vacuum String Field Theory and the Projection Equation
+Authors: Robertus Potting and Joris Raeymaekers
+Comments: 25 pages, no figures. Typos corrected, published version
+Journal-ref: JHEP 0206 (2002) 002
+\\
+  We study the ghost sector of vacuum string field theory where the BRST
+operator Q is given by the midpoint insertion proposed by Gaiotto, Rastelli,
+Sen and Zwiebach. We introduce a convenient basis of half-string modes in terms
+of which Q takes a particularly simple form. We show that there exists a field
+redefinition which reduces the ghost sector field equation to a pure projection
+equation for string fields satisfying the constraint that the ghost number is
+equally divided over the left- and right halves of the string. When this
+constraint is imposed, vacuum string field theory can be reformulated as a
+$U(\infty)$ cubic matrix model. Ghost sector solutions can be constructed from
+projection operators on half-string Hilbert space just as in the matter sector.
+We construct the ghost sector equivalent of various well-known matter sector
+projectors such as the sliver, butterfly and nothing states.
+\\

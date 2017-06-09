@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9605222
+From: Jacques Distler <distler@golem.ph.utexas.edu>
+Date: Thu, 30 May 1996 17:17:31 -0500 (CDT)   (27kb)
+
+Title: Resolving Singularities in (0,2) Models
+Authors: J. Distler, B. Greene and D. Morrison
+Comments: 33 pages, harvmac
+Report-no: CLNS 96/1411, DUKE-TH-96-109, UTTG--05--96
+Journal-ref: Nucl.Phys. B481 (1996) 289-312
+\\
+  In contrast to the familiar (2,2) case, the singularities which arise in the
+(0,2) setting can be associated with degeneration of the base Calabi-Yau
+manifold {\it and/or}\/ with degenerations of the gauge bundle. We study a
+variety of such singularities and give a procedure for resolving those which
+can be cured perturbatively. Among the novel features which emerge are models
+in which smoothing singularities in the base yields a gauge {\it sheaf}\/ as
+opposed to a gauge bundle as the structure to which left moving fermions
+couple. Supersymmetric $\sigma$-models with target data being an appropriate
+sheaf on a Calabi-Yau space therefore appear to be the natural arena for N=1
+string models in four dimensions. We also indicate a variety of singularities
+which would require a nonperturbative treatment for their resolution and
+briefly discuss applications to heterotic models on K3.
+\\

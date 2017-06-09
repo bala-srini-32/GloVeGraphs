@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9612061
+From: Sergey Solodukhin <sergey@avatar.uwaterloo.ca>
+Date: Thu, 5 Dec 1996 15:12:16 -0500   (13kb)
+Date (revised): Tue, 10 Dec 1996 15:01:46 -0500
+Date (revised): Mon, 26 May 1997 15:50:25 -0400
+
+Title: Non-minimal coupling and quantum entropy of black hole
+Authors: Sergey N. Solodukhin
+Comments: 16 pages, latex, no figures; an error in calculation of the entropy
+  corrected, the entropy now is positive for any non-minimal coupling
+Report-no: WATPHYS-TH-96/19
+Journal-ref: Phys.Rev. D56 (1997) 4968-4974
+\\
+  Formulating the statistical mechanics for a scalar field with non-minimal
+$\xi R \phi^2$ coupling in a black hole background we propose modification of
+the original 't Hooft ``brick wall'' prescription. Instead of the Dirichlet
+condition we suggest some scattering ansatz for the field functions at the
+horizon. This modifies the energy spectrum of the system and allows one to
+obtain the statistical entropy dependent on the non-minimal coupling. For
+$\xi<0$ the entropy renormalizes the classical Bekenstein-Hawking entropy in
+the correct way and agrees with the result previously obtained within the
+conical singularity approach. For a positive $\xi$, however, the results
+differ.
+\\

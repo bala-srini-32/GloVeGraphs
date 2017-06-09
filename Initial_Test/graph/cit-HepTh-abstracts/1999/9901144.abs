@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9901144
+From: Gordon Chalmers <chalmers@pcl9.hep.anl.gov>
+Date: Wed, 27 Jan 1999 16:30:35 GMT   (17kb)
+Date (revised v2): Thu, 28 Jan 1999 04:29:55 GMT   (17kb)
+Date (revised v3): Mon, 8 Mar 1999 23:36:01 GMT   (17kb)
+
+Title: Holographic Normal Ordering and Multi-particle States in the AdS/CFT
+  Correspondence
+Authors: Gordon Chalmers and Koenraad Schalm
+Comments: 18 pages, one equation corr., further comments and refs. added
+Report-no: ANL-HEP-PR-98-143, ITP-SB-98-71
+Journal-ref: Phys.Rev. D61 (2000) 046001
+\\
+  The general correlator of composite operators of N=4 supersymmetric gauge
+field theory is divergent. We introduce a means for renormalizing these
+correlators by adding a boundary theory on the AdS space correcting for the
+divergences. Such renormalizations are not equivalent to the standard normal
+ordering of current algebras in two dimensions. The correlators contain contact
+terms that contribute to the OPE; we relate them diagrammatically to
+correlation functions of compound composite operators dual to multi-particle
+states.
+\\

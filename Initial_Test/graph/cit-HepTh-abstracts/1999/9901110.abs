@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9901110
+From: Sergey Paston <sergey.paston@pobox.spbu.ru>
+Date: Fri, 22 Jan 1999 21:30:38 GMT   (39kb)
+
+Title: Comparison of quantum field perturbation theory for the light front with
+  the theory in lorentz coordinates
+Authors: S. A. Paston, V. A. Franke
+Comments: LaTex 2.09, 20 pages, 5 figures
+Journal-ref: Theor.Math.Phys. 112 (1997) 1117-1130; Teor.Mat.Fiz. 112 (1997)
+  399-416
+\\
+  The relationship between the perturbation theory in light-front coordinates
+and Lorentz-covariant perturbation theory is investigated. A method for finding
+the difference between separate terms of the corresponding series without their
+explicit evaluation is proposed. A procedure of constructing additional
+counter-terms to the canonical Hamiltonian that compensate this difference at
+any finite order is proposed. For the Yukawa model, the light-front Hamiltonian
+with all of these counter-terms is obtained in a closed form. Possible
+application of this approach to gauge theories is discussed.
+\\

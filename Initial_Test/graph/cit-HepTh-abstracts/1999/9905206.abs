@@ -1,0 +1,19 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9905206
+From: Michael Strickland <mstrickl@pacific.mps.ohio-state.edu>
+Date: Thu, 27 May 1999 15:57:58 GMT   (112kb)
+
+Title: Optimization of Renormalization Group Flow
+Authors: Sen-Ben Liao, Janos Polonyi, and Michael Strickland
+Comments: 23 pages, 7 figures
+Report-no: CCU-TH-99-01
+Journal-ref: Nucl.Phys. B567 (2000) 493-514
+\\
+  Renormalization group flow equations for scalar lambda Phi^4 are generated
+using three classes of smooth smearing functions. Numerical results for the
+critical exponent nu in three dimensions are calculated by means of a truncated
+series expansion of the blocked potential. We demonstrate how the convergence
+of nu as a function of the order of truncation can be improved through a fine
+tuning of the smoothness of the smearing functions.
+\\

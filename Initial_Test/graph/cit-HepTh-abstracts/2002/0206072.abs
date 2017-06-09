@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0206072
+From: Frederik Denef <denef@math.columbia.edu>
+Date: Sun, 9 Jun 2002 23:20:47 GMT   (66kb)
+Date (revised v2): Wed, 7 Aug 2002 11:23:47 GMT   (64kb)
+Date (revised v3): Tue, 13 Aug 2002 19:04:22 GMT   (64kb)
+
+Title: Quantum Quivers and Hall/Hole Halos
+Authors: Frederik Denef
+Comments: 39 pages, 10 figures. v2: minor errors corrected and some parts
+  rewritten for clarity. v3: references added
+Journal-ref: JHEP 0210 (2002) 023
+\\
+  Two pictures of BPS bound states in Calabi-Yau compactifications of type II
+string theory exist, one as a set of particles at equilibrium separations from
+each other, the other as a fusion of D-branes at a single point of space. We
+show how quiver quantum mechanics smoothly interpolates between the two, and
+use this, together with recent mathematical results on the cohomology of quiver
+varieties, to solve some nontrivial ground state counting problems in
+multi-particle quantum mechanics, including one arising in the setup of the
+spherical quantum Hall effect, and to count ground state degeneracies of
+certain dyons in supersymmetric Yang-Mills theories. A crucial ingredient is a
+non-renormalization theorem in N=4 quantum mechanics for the first order part
+of the Lagrangian in an expansion in powers of velocity.
+\\

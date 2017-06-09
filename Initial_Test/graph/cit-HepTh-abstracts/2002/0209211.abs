@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0209211
+From: Matthew J. Strassler <strasslr@fermi.phys.washington.edu>
+Date: Wed, 25 Sep 2002 17:47:49 GMT   (131kb)
+
+Title: Deep Inelastic Scattering and Gauge/String Duality
+Authors: Joseph Polchinski (ITP, UCSB) and Matthew J. Strassler (U.Washington)
+Comments: 52 pages, 10 figures
+Report-no: NSF-ITP-02-139, UW/PT 02-23
+\\
+  We study deep inelastic scattering in gauge theories which have dual string
+descriptions. As a function of $gN$ we find a transition. For small $gN$, the
+dominant operators in the OPE are the usual ones, of approximate twist two,
+corresponding to scattering from weakly interacting partons. For large $gN$,
+double-trace operators dominate, corresponding to scattering from entire
+hadrons (either the original `valence' hadron or part of a hadron cloud.) At
+large $gN$ we calculate the structure functions. As a function of Bjorken $x$
+there are three regimes: $x$ of order one, where the scattering produces only
+supergravity states; $x$ small, where excited strings are produced; and, $x$
+exponentially small, where the excited strings are comparable in size to the
+AdS space. The last regime requires in principle a full string calculation in
+curved spacetime, but the effect of string growth can be simply obtained from
+the world-sheet renormalization group.
+\\

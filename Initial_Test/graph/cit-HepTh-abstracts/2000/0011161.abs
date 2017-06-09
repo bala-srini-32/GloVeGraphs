@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0011161
+From: Christian Brouder <christian.brouder@lmcp.jussieu.fr>
+Date: Fri, 17 Nov 2000 15:28:08 GMT   (44kb)
+Date (revised v2): Tue, 21 Nov 2000 18:15:41 GMT   (46kb)
+
+Title: Noncommutative renormalization for massless QED
+Authors: Christian Brouder and Alessandra Frabetti
+Comments: 50 pages, use feynmf package. Abstract and typos corrected
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+\\
+  We study the renormalization of massless QED from the point of view of the
+Hopf algebra discovered by D. Kreimer. For QED, we describe a Hopf algebra of
+renormalization which is neither commutative nor cocommutative. We obtain
+explicit renormalization formulas for the electron and photon propagators, for
+the vacuum polarization and the electron self-energy, which are equivalent to
+Zimmermann's forest formula for the sum of all Feynman diagrams at a given
+order of interaction.
+  Then we extend to QED the Connes-Kreimer map defined by the coupling constant
+of the theory (i.e. the homomorphism between some formal diffeomorphisms and
+the Hopf algebra of renormalization) by defining a noncommutative Hopf algebra
+of diffeomorphisms, and then showing that the renormalization of the electric
+charge defines a homomorphism between this Hopf algebra and the Hopf algebra of
+renormalization of QED.
+  Finally we show that Dyson's formulas for the renormalization of the electron
+and photon propagators can be given in a noncommutative (e.g. matrix-valued)
+form.
+\\

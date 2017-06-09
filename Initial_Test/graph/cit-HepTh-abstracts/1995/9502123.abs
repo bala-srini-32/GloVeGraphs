@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9502123
+From: y.chen@ic.ac.uk
+Date: Mon, 20 Feb 95 17:52:33 +0000   (7kb)
+
+Title: Largest eigenvalue distribution in the double scaling limit of matrix
+  models: A Coulomb fluid approach.
+Authors: Yang Chen, Kasper J. Eriksen and Craig A. Tracy.
+Comments: 10 pages, no figures, to appear in J.Phys. A Lett. 1995.
+Journal-ref: J.Phys. A28 (1995) L207-L212
+\\
+Using thermodynamic arguments we find that the probability that there are no
+eigenvalues in the interval (-s,\infty) in the double scaling limit of
+Hermitean matrix models is O(exp(-s^{2m+1})) as s\rightarrow+\infty.Here
+m=1,2,3.. determine the m^{th} multi-critical point of the level
+density:\sigma(x)\sim b[1-(x/b)^2]^{m-1/2} and b^2\sim N.Furthermore,the size
+of the transition zone where the eigenvalue density becomes vanishingly small
+at the tail of the spectrum is \sim N^{(m-3/2)/(2m+1)} in agreement with
+earlier work based on the string equation.
+\\

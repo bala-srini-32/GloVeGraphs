@@ -1,0 +1,42 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9905229
+From: wellington da cruz <wdacruz@exatas.campus.uel.br>
+Date: Mon, 31 May 1999 19:41:03 GMT   (20kb)
+Date (revised v2): Mon, 7 Jun 1999 11:02:46 GMT   (20kb)
+Date (revised v3): Thu, 10 Jun 1999 19:27:55 GMT   (20kb)
+Date (revised v4): Wed, 30 Jun 1999 18:13:16 GMT   (20kb)
+Date (revised v5): Fri, 16 Jul 1999 19:56:36 GMT   (21kb)
+Date (revised v6): Tue, 27 Jul 1999 18:49:25 GMT   (21kb)
+Date (revised v7): Mon, 9 Aug 1999 11:35:51 GMT   (21kb)
+Date (revised v8): Tue, 24 Aug 1999 11:19:50 GMT   (21kb)
+Date (revised v9): Tue, 7 Sep 1999 14:35:54 GMT   (21kb)
+Date (revised v10): Sat, 23 Oct 1999 13:45:22 GMT   (21kb)
+Date (revised v11): Mon, 15 Nov 1999 11:58:44 GMT   (21kb)
+Date (revised v12): Mon, 22 Nov 1999 11:53:29 GMT   (22kb)
+Date (revised v13): Wed, 24 Nov 1999 22:00:12 GMT   (22kb)
+Date (revised v14): Tue, 22 Feb 2000 10:37:56 GMT   (22kb)
+Date (revised v15): Mon, 31 Jul 2000 22:22:52 GMT   (22kb)
+
+Title: Fractons and Fractal Statistics
+Authors: Wellington da Cruz
+Comments: 25pages, latex, additional references. To appear in International
+  Journal of Modern Physics A (2000)
+Report-no: UEL/DF-990502
+Subj-class: High Energy Physics - Theory; Chaotic Dynamics
+Journal-ref: Int.J.Mod.Phys. A15 (2000) 3805-3828
+\\
+  Fractons are anyons classified into equivalence classes and they obey a
+specific fractal statistics. The equivalence classes are labeled by a fractal
+parameter or Hausdorff dimension $h$. We consider this approach in the context
+of the Fractional Quantum Hall Effect (FQHE) and the concept of duality between
+such classes, defined by $\tilde{h}=3-h$ shows us that the filling factors for
+which the FQHE were observed just appear into these classes. A connection
+between equivalence classes $h$ and the modular group for the quantum phase
+transitions of the FQHE is also obtained. A $\beta-$function is defined for a
+complex conductivity which embodies the classes $h$. The thermodynamics is also
+considered for a gas of fractons $(h,\nu)$ with a constant density of states
+and an exact equation of state is obtained at low-temperature and low-density
+limits. We also prove that the Farey sequences for rational numbers can be
+expressed in terms of the equivalence classes $h$.
+\\

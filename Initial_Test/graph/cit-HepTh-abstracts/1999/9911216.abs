@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9911216
+From: Michele Caselle <caselle@to.infn.it>
+Date: Fri, 26 Nov 1999 14:38:37 GMT   (34kb)
+Date (revised v2): Tue, 21 Dec 1999 14:55:36 GMT   (34kb)
+Date (revised v3): Tue, 25 Jan 2000 10:15:26 GMT   (34kb)
+
+Title: Critical amplitudes and mass spectrum of the 2D Ising model in a
+  magnetic field
+Authors: M.Caselle and M.Hasenbusch
+Comments: Final version, minor changes in the text, 52 pages
+Report-no: DFTT 58/99
+Subj-class: High Energy Physics - Theory; Statistical Mechanics
+Journal-ref: Nucl.Phys. B579 (2000) 667-703
+\\
+  We compute the spectrum and several critical amplitudes of the two
+dimensional Ising model in a magnetic field with the transfer matrix method.
+The three lightest masses and their overlaps with the spin and the energy
+operators are computed on lattices of a width up to L=21. In extracting the
+continuum results we also take into account the corrections to scaling due to
+irrelevant operators. In contrast with previous Monte Carlo simulations our
+final results are in perfect agreement with the predictions of S-matrix and
+conformal field theory. We also obtain the amplitudes of some of the subleading
+corrections, for which no S-matrix prediction has yet been obtained.
+\\

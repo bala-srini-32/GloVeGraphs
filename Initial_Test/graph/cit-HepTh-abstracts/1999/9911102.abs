@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9911102
+From: Jack Ng <yjng@ctpwhite.mit.edu>
+Date: Sat, 13 Nov 1999 20:18:09 GMT   (8kb)
+Date (revised v2): Sun, 28 Nov 1999 20:28:44 GMT   (8kb)
+Date (revised v3): Fri, 30 Jun 2000 21:08:37 GMT   (8kb)
+
+Title: A small but nonzero cosmological constant
+Authors: Y. Jack Ng and H. van Dam (University of North Carolina)
+Comments: A discussion on the form of the cosmological constant (inversely
+  proportional to the square of the cosmic scale factor) after the epoch
+  corresponding to the redshift $z \sim 1$ is added. Two new references are
+  added. This version of the paper will appear in Int. J. Mod. Phys. D
+Journal-ref: Int.J.Mod.Phys. D10 (2001) 49-56
+\\
+  Recent astrophysical observations seem to indicate that the cosmological
+constant is small but nonzero and positive. The old cosmological constant
+problem asks why it is so small; we must now ask, in addition, why it is
+nonzero (and is in the range found by recent observations), and why it is
+positive. In this essay, we try to kill these three metaphorical birds with one
+stone. That stone is the unimodular theory of gravity, which is the ordinary
+theory of gravity, except for the way the cosmological constant arises in the
+theory. We argue that the cosmological constant becomes dynamical, and
+eventually, in terms of the cosmic scale factor $R(t)$, it takes the form
+$\Lambda(t) = \Lambda(t_0)(R(t_0)/R(t))^2$, but not before the epoch
+corresponding to the redshift parameter $z \sim 1$.
+\\

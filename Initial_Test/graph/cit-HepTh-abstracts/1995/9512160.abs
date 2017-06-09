@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9512160
+From: bbakalov@fmi.uni-sofia.bg (Bojko Bakalov)
+Date: Wed, 20 Dec 1995 07:46:18 +0200 (WET)   (13kb)
+
+Title: A QFT approach to W_{1+infty}
+Authors: B.N.Bakalov (Sofia Univ., Bulgaria), L.S.Georgiev (Bulgarian Academy
+  of Sciences), I.T.Todorov (MIT, Cambridge MA)
+Comments: 15 pages, LaTeX2e, no figures. To appear in Proc. 2nd Workshop New
+  Trends in QFT (August 1995), Razlog, Bulgaria
+\\
+  W_{1+infty} is defined as an infinite dimensional Lie algebra spanned by the
+unit operator and the Laurent modes of a series of local quasiprimary chiral
+fields V^l(z) of dimension l+1 (l=0,1,2,...). These fields are neutral with
+respect to the u(1) current J(z)=V^0(z); as a result the (l+2)-fold commutator
+of J with V^l vanishes. We outline a construction of rational conformal field
+theories with stress energy tensor T(z)=V^1(z) whose chiral algebras include
+all V^l's. It is pointed out that earlier work on local extensions of the u(1)
+current algebra solves the problem of classifying all such theories for
+Virasoro central charge c=1.
+\\

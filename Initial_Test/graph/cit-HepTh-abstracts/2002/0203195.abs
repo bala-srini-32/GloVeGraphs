@@ -1,0 +1,18 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0203195
+From: Antti Salmela <asalmela@pcu.helsinki.fi>
+Date: Thu, 21 Mar 2002 13:49:39 GMT   (12kb)
+
+Title: An algebraic method for solving the SU(3) Gauss law
+Authors: Antti Salmela
+Comments: 19 pages, LaTex2e
+Report-no: HIP-2002-11/TH
+\\
+  A generalisation of existing SU(2) results is obtained. In particular, the
+source-free Gauss law for SU(3)-valued gauge fields is solved using a
+non-Abelian analogue of the Poincare lemma. When sources are present, the
+colour-electric field is divided into two parts in a way similar to the Hodge
+decomposition. Singularities due to coinciding eigenvalues of the
+colour-magnetic field are also analysed.
+\\

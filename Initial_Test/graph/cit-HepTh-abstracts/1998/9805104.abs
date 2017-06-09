@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9805104
+From: Joseph A. Minahan <minahan@physics1.usc.edu>
+Date: Mon, 18 May 1998 21:36:32 GMT   (125kb)
+
+Title: Quark Potentials in the Higgs Phase of Large N Supersymmetric Yang-Mills
+  Theories
+Authors: J. A. Minahan and N. P. Warner
+Comments: 23 pages, 7 figures, harvmac (b)
+Report-no: USC-98/006
+Journal-ref: JHEP 9806 (1998) 005
+\\
+  We compute, in the large N limit, the quark potential for ${\cal N}=4$
+supersymmetric SU(N) Yang-Mills theory broken to $SU(N_1) \times SU(N_2)$. At
+short distances the quarks see only the unbroken gauge symmetry and have an
+attractive potential that falls off as 1/L. At longer distances the interquark
+interaction is sensitive to the symmetry breaking, and other QCD states appear.
+These states correspond to combinations of the quark-antiquark pair with some
+number of W-particles. If there is one or more W-particles then this state is
+unstable because of the coulomb interaction between the W-particles and between
+the W's and the quarks. As L is decreased the W-particles delocalize and these
+coulomb branches merge onto a branch with a linear potential. The quarks on
+this branch see the unbroken gauge group, but the flux tube is unstable to the
+production of W-particles.
+\\

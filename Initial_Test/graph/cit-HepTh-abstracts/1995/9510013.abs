@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9510013
+From: Rolf Bayer <bayer@truck.mpi-hd.mpg.de>
+Date: Wed, 4 Oct 1995 11:56:44 +0100   (207kb)
+
+Title: Towards Solving QCD in Light-Cone Quantization -- On the Spectrum of the
+  Transverse Zero Modes for SU(2)
+Author: Hans-Christian Pauli and Rolf Bayer (Max-Planck-Institut f\"ur
+  Kernphysik in Heidelberg)
+Comments: 1 Latex file & 9 Postscript files; tarred, compressed and uuencoded
+Report-no: MPI H-V32-1995
+Journal-ref: Phys.Rev. D53 (1996) 939-951
+\\
+  The formalism for a non-abelian pure gauge theory in (2+1) dimensions has
+recently been derived within Discretized Light-Cone Quantization, restricting
+to the lowest {\it transverse} momentum gluons. It is argued why this model can
+be a paradigm for full QCD. The physical vacuum becomes non-trivial even in
+light-cone quantization. The approach is brought here to tractable form by
+suppressing by hand both the dynamical gauge and the constraint zero mode, and
+by performing a Tamm-Dancoff type Fock-space truncation. Within that model the
+Hamiltonian is diagonalized numerically, yielding mass spectra and
+wavefunctions of the glue-ball states. We find that only color singlets have a
+stable and discrete bound state spectrum. The connection with confinement is
+discussed. The structure function of the gluons has a shape like $ [{x(1-x)}]
+^{1\over 3} $. The existence of the continuum limit is verified by deriving a
+coupled set of integral equations.
+\\

@@ -1,0 +1,18 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9910059
+From: Iosif L. Bena <iosif@physics.ucsb.edu>
+Date: Wed, 6 Oct 1999 22:23:20 GMT   (3kb)
+Date (revised v2): Fri, 19 May 2000 00:17:08 GMT   (4kb)
+
+Title: The antisymmetric tensor propagator in AdS
+Authors: Iosif Bena
+Comments: Typos corrected, references added, 5 pages, REVTEX
+Journal-ref: Phys.Rev. D62 (2000) 127901
+\\
+  In this brief note we construct the propagator for the antisymmetric tensor
+in AdS_{d+1}. We check our result using the Poincare duality between the
+antisymmetric tensor and the gauge boson in AdS_5. This propagator was needed
+for a computation which turned out to be too hard. It can be used for computing
+various other things in AdS.
+\\

@@ -1,0 +1,33 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9601161
+From: mironov@td.lpi.ac.ru (Andrei Mironov)
+Date: Tue, 30 Jan 1996 19:37:22 +0300 (MSK)   (47kb)
+
+Title: Liouville Type Models in Group Theory Framework. I. Finite-Dimensional
+  Algebras
+Authors: A.Gerasimov, S.Kharchev, A.Marshakov, A.Mironov, A.Morozov,
+  M.Olshanetsky (ITEP, Lebedev Physical Institute)
+Comments: 47 pages, LaTeX
+Report-no: ITEP/TH-7/95, FIAN/td-18/95
+Journal-ref: Int.J.Mod.Phys. A12 (1997) 2523-2584
+\\
+  In the series of papers we represent the ``Whittaker'' wave functional of
+$d+1$-dimensional Liouville model as a correlator in $d+0$-dimensional theory
+of the sine-Gordon type (for $d=0$ and $1$). Asypmtotics of this wave function
+is characterized by the Harish-Chandra function, which is shown to be a product
+of simple $\Gamma$-function factors over all positive roots of the
+corresponding algebras (finite-dimensional for $d=0$ and affine for $d=1$).
+This is in nice correspondence with the recent results on 2- and 3-point
+correlators in $1+1$ Liouville model, where emergence of peculiar
+double-periodicity is observed. The Whittaker wave functions of
+$d+1$-dimensional non-affine ("conformal") Toda type models are given by simple
+averages in the $d+0$ dimensional theories of the affine Toda type. This
+phenomenon is in obvious parallel with representation of the free-field wave
+functional, which is originally a Gaussian integral over interior of a
+$d+1$-dimensional disk with given boundary conditions, as a (non-local)
+quadratic integral over the $d$-dimensional boundary itself. In the present
+paper we mostly concentrate on the finite-dimensional case. The results for
+finite-dimensional "Iwasawa" Whittaker functions were known, and we present
+their survey. We also construct new "Gauss" Whittaker functions.
+\\

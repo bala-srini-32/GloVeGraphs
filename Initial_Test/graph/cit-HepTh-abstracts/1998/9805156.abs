@@ -1,0 +1,35 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9805156
+From: "Steven S. Gubser" <ssgubser@viper.princeton.edu>
+Date: Mon, 25 May 1998 00:43:37 GMT   (22kb)
+Date (revised v2): Tue, 2 Jun 1998 13:21:15 GMT   (23kb)
+Date (revised v3): Wed, 19 Aug 1998 20:43:54 GMT   (24kb)
+Date (revised v4): Wed, 9 Sep 1998 18:11:10 GMT   (24kb)
+
+Title: Coupling Constant Dependence in the Thermodynamics of N=4 Supersymmetric
+  Yang-Mills Theory
+Authors: Steven S. Gubser (Princeton), Igor R. Klebanov (Princeton, IAS), and
+  Arkady A. Tseytlin (Imperial College London)
+Comments: 24 pages; a paragraph about the 5-form background added in section 3;
+  in the Note Added we clarify the meaning of the metric found in section 3;
+  sign in eq. (34) corrected
+Report-no: IASSNS-HEP-98-47, PUPT-1794, Imperial/TP/97-98/47
+Journal-ref: Nucl.Phys. B534 (1998) 202-222
+\\
+  The free energy of the maximally supersymmetric SU(N) gauge theory at
+temperature T is expected to scale, in the large N limit, as N^2 T^4 times a
+function of the 't Hooft coupling, f(g_{YM}^2 N). In the strong coupling limit
+the free energy has been deduced from the near-extremal 3-brane geometry, and
+its normalization has turned out to be 3/4 times that found in the weak
+coupling limit. In this paper we calculate the leading correction to this
+result in inverse powers of the coupling, which originates from the R^4 terms
+in the tree level effective action of type IIB string theory. The correction to
+3/4 is positive and of order (g_{YM}^2 N)^{-3/2}. Thus, f(g_{YM}^2 N) increases
+as the 't Hooft coupling is decreased, in accordance with the expectation that
+it should be approaching 1 in the weak coupling limit. We also discuss similar
+corrections for other conformal theories describing coincident branes. In
+particular, we suggest that the coupling-independence of the near extremal
+entropy for D1-branes bound to D5-branes is related to the vanishing of the
+Weyl tensor of AdS_3\times S^3.
+\\

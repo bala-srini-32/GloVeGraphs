@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0110081
+From: Rafael I. Nepomechie <nepomechie@physics.miami.edu>
+Date: Tue, 9 Oct 2001 12:58:52 GMT   (11kb)
+
+Title: Bethe Ansatz solution of the open XX spin chain with nondiagonal
+  boundary terms
+Authors: Rafael I. Nepomechie
+Comments: 14 pages, LaTeX; amssymb, no figures
+Report-no: UMTG-231
+Subj-class: High Energy Physics - Theory; Exactly Solvable and Integrable
+  Systems
+Journal-ref: J.Phys. A34 (2001) 9993-10004
+\\
+  We consider the integrable open XX quantum spin chain with nondiagonal
+boundary terms. We derive an exact inversion identity, using which we obtain
+the eigenvalues of the transfer matrix and the Bethe Ansatz equations. For
+generic values of the boundary parameters, the Bethe Ansatz solution is
+formulated in terms of Jacobian elliptic functions.
+\\

@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9912248
+From: F. Riva <riva@pcteor.mi.infn.it>
+Date: Fri, 24 Dec 1999 15:45:18 GMT   (411kb)
+Date (revised v2): Thu, 20 Jan 2000 09:29:49 GMT   (411kb)
+
+Title: Dimensional renormalization of Yukawa theories wia Wilsonian methods
+Authors: M. Pernici, M. Raciti, F. Riva
+Comments: 32 pages, 9 figures, revised version: minor errors corrected, a
+  reference added
+Report-no: IFUM 649/FT
+Journal-ref: Nucl.Phys. B577 (2000) 293-324
+\\
+  In the 't Hooft-Veltman dimensional regularization scheme it is necessary to
+introduce finite counterterms to satisfy chiral Ward identities. It is a
+non-trivial task to evaluate these counterterms even at two loops. We suggest
+the use of Wilsonian exact renormalization group techniques to reduce the
+computation of these counterterms to simple master integrals. We illustrate
+this method by a detailed study of a generic Yukawa model with massless
+fermions at two loops.
+\\

@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0004065
+From: "Sergei Kharchev" <kharchev@vitep5.itep.ru>
+Date: Mon, 10 Apr 2000 20:38:40 GMT   (9kb)
+Date (revised v2): Tue, 11 Apr 2000 14:37:42 GMT   (9kb)
+
+Title: Eigenfunctions of $GL(N,\RR)$ Toda chain: The Mellin-Barnes
+  representation
+Authors: S. Kharchev, D. Lebedev
+Comments: Latex+amssymb.sty, 7 pages; corrected some typos published in Pis'ma
+  v ZhETF (2000), vol. 71, 338-343
+Report-no: ITEP-TH-45/99
+Subj-class: High Energy Physics - Theory; Quantum Algebra; Exactly Solvable and
+  Integrable Systems
+Journal-ref: Pisma Zh.Eksp.Teor.Fiz. 71 (2000) 338-343; JETP Lett. 71 (2000)
+  235-238
+\\
+  The recurrent relations between the eigenfunctions for $GL(N,\RR)$ and
+$GL(N-1,\RR)$ quantum Toda chains is derived. As a corollary, the Mellin-Barnes
+integral representation for the eigenfunctions of a quantum open Toda chain is
+constructed for the $N$-particle case.
+\\

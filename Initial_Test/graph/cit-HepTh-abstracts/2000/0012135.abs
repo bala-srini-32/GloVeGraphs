@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0012135
+From: James P. Gregory <j.p.gregory@durham.ac.uk>
+Date: Fri, 15 Dec 2000 13:05:10 GMT   (28kb)
+Date (revised v2): Wed, 10 Jan 2001 17:16:20 GMT   (28kb)
+
+Title: Looking for event horizons using UV/IR relations
+Authors: James P. Gregory and Simon F. Ross
+Comments: 22 pages, 5 figures; references added
+Report-no: DTP/00/109
+Journal-ref: Phys.Rev. D63 (2001) 104023
+\\
+  A primary goal in holographic theories of gravity is to study the causal
+structure of spacetime from the field theory point of view. This is a
+particularly difficult problem when the spacetime has a non-trivial causal
+structure, such as a black hole. We attempt to study causality through the
+UV/IR relation between field theory and spacetime quantities, which encodes
+information about bulk position. We study the UV/IR relations for charged black
+hole spacetimes in the AdS/CFT correspondence. We find that the UV/IR relations
+have a number of interesting features, but find little information about the
+presence of a horizon in the bulk. The scale of Wilson loops is simply related
+to radial position, whether there is a horizon or not. For time-dependent
+probes, the part of the history near the horizon only effects the late-time
+behaviour of field theory observables. Static supergravity probes have a finite
+scale size related to radial position in generic black holes, but there is an
+interesting logarithmic divergence as the temperature approaches zero.
+\\

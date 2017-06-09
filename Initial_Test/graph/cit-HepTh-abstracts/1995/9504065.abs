@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9504065
+From: PIGUET@sc2a.unige.ch
+Date: Wed, 12 Apr 1995 11:48:05 +0000 (WET-DST)   (18kb)
+Date (revised): Mon, 08 May 1995 17:11:08 +0000 (WET-DST)
+
+Title: Algebraic Renormalization of $N=2$ Supersymmetric Yang-Mills
+  Chern-Simons Theory in the Wess-Zumino Gauge
+Authors: Nicola Maggiore, Olivier Piguet and Mathieu Ribordy
+Comments: 17 pages, latex, no figures. Computation of the cohomology corrected.
+  Appendix added
+Report-no: UGVA-DPT-1995/O4-886
+Journal-ref: Helv. Phys. Acta 68 (1995) 264
+\\
+  We consider a N=2 supersymmetric Yang-Mills-Chern-Simons model, coupled to
+matter, in the Wess-Zumino gauge. The theory is characterized by a superalgebra
+which displays two kinds of obstructions to the closure on the translations:
+field dependent gauge transformations, which give rise to an infinite algebra,
+and equations of motion. The aim is to put the formalism in a closed form,
+off-shell, without introducing auxiliary fields. In order to perform that, we
+collect all the symmetries of the model into a unique nilpotent Slavnov-Taylor
+operator. Furthermore, we prove the renormalizability of the model through the
+analysis of the cohomology arising from the generalized Slavnov-Taylor
+operator. In particular, we show that the model is free of anomaly.
+\\

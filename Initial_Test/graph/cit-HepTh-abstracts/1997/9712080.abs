@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9712080
+From: David McMullan <d.mcmullan@plymouth.ac.uk>
+Date: Mon, 8 Dec 1997 16:22:29 GMT   (121kb)
+Date (revised v2): Tue, 17 Feb 1998 16:39:13 GMT   (121kb)
+
+Title: Soft Dynamics and Gauge Theories
+Authors: Emili Bagan, Martin Lavelle, David McMullan
+Comments: 10 pages, 8 figures; version to appear in Phys. Rev. D [RC], minor
+  clarifications
+Report-no: UAB-FT-417
+Journal-ref: Phys.Rev. D57 (1998) 4521-4524
+\\
+  Infra-red divergences obscure the underlying soft dynamics in gauge theories.
+They remove the pole structures associated with particle propagation in the
+various Green's functions of gauge theories. Here we present a solution to this
+problem. We give two equations which describe how charged particles must be
+dressed by gauge degrees of freedom. One follows from gauge invariance, the
+other, which is new, from velocity superselection rules familiar from the heavy
+quark effective theory. The solution to these equations in the abelian theory
+is proven to lead to on-shell Green's functions that are free of soft
+divergences at all orders in perturbation theory.
+\\

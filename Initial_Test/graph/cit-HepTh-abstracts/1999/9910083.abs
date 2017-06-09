@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9910083
+From: LEE Hyung Won <hwlee@physics.inje.ac.kr>
+Date: Sat, 9 Oct 1999 06:52:46 GMT   (145kb)
+Date (revised v2): Wed, 13 Oct 1999 07:01:12 GMT   (145kb)
+
+Title: Noncommutative Geometry and Anyonic Field Theory in the Magnetic Field
+Authors: H. W. Lee, Y.S. Myung (Inje University)
+Comments: 19 pages in ReVTeX, 3 embedded eps figures, minor correction was made
+  between eq.(50) and (51), one reference is added
+Report-no: INJE-TP-99-6
+\\
+  We consider an easy way to get the noncommutative spacetime in Minkowski
+space. This corresponds to introducing a magnetic field ${\rm\bf B} = B \hat
+{\rm\bf k}$ in the plane. We construct a green's function in coordinate space
+which includes a Moyal phase factor. The projection to the lowest Landau
+level(LLL) is necessary for a simple calculation. Using this green's function
+and a second quantized formalism, we study the thermodynamic property of the
+anyons on the noncommutative geometry. It turns out that the Moyal phase
+factors contribute to the thermodynamic potential $\Omega$ as opposed to the
+free-particle nature.
+\\

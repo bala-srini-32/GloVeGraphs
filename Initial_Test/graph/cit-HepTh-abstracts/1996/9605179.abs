@@ -1,0 +1,18 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9605179
+From: ubriaco@ltp.upr.clu.edu (Marcelo Ubriaco)
+Date: Thu, 23 May 1996 13:22:58 -0400   (18kb)
+
+Title: Thermodynamics of a free $SU_q(2)$ fermionic system
+Author: Marcelo R. Ubriaco
+Comments: LaTeX file, 13 pages, three figures ,uses psfig.sty, packaged as a
+  single tar.gz uuencoded file
+\\
+  We calculate the partition function, average occupation number and internal
+energy for a $SU_q(2)$ fermionic system and compare this model at $T=0$ with
+the ordinary fermionic, $q=1$, case. At low temperatures and $q\gg 1$ we find
+the chemical potential $\mu$ to have the same temperature dependence than the
+Fermi case. For $q\ll 1$, the function $\mu(T)$ has in addition a linear
+dependence on $T$.
+\\

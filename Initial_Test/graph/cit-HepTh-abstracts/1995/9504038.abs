@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9504038
+From: Kirill N Ilinski <kni@th.ph.bham.ac.uk>
+Date: Fri, 7 Apr 95 14:26:12 BST   (9kb)
+Date (revised): Fri, 8 Sep 95 15:35:05 BST
+
+Title: Exchange statistics in 1D: from the viewpoint of exact solution
+Author: Ilinski, G.V.Kalinin, V.S.Kapitonov
+Comments: A few formulae are corrected. A new formula for the generation
+  function is added
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+\\
+  We show that the exchange statistics have consequences in 1D systems with
+compact topology, contrary to the common opinion that exchange statistics is
+arbitrary in 1D. As examples of non-trivial statistical behavior we exactly
+calculate the partition function and correlators for systems of free
+q-particles on compactified chains using functional integral techniques and the
+supersymmetric trick. In particular we consider a spin 1/2 XY-chain with
+periodic boundary conditions that corresponds to the case of q=-1.
+\\

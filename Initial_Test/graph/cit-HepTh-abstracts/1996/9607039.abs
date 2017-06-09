@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9607039
+From: golinel@wasa.saclay.cea.fr (Olivier Golinelli)
+Date: Thu, 4 Jul 1996 16:14:57 +0200   (110kb)
+
+Title: Meanders: A Direct Enumeration Approach
+Authors: P. Di Francesco, O. Golinelli, E. Guitter (CEA-Saclay, France)
+Comments: uses harvmac (l), epsf, 16 figs included, uuencoded, tar compressed
+Report-no: Saclay preprint t96-062
+Journal-ref: Nucl.Phys. B482 (1996) 497-535
+\\
+  We study the statistics of semi-meanders, i.e. configurations of a set of
+roads crossing a river through n bridges, and possibly winding around its
+source, as a toy model for compact folding of polymers. By analyzing the
+results of a direct enumeration up to n=29, we perform on the one hand a large
+n extrapolation and on the other hand we reformulate the available data into a
+large q expansion, where q is a weight attached to each road. We predict a
+transition at q=2 between a low-q regime with irrelevant winding, and a large-q
+regime with relevant winding.
+\\

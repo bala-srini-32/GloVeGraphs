@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0011166
+From: Clifford V. Johnson <c.v.johnson@durham.ac.uk>
+Date: Sun, 19 Nov 2000 20:43:23 GMT   (16kb)
+Date (revised v2): Wed, 24 Jan 2001 15:20:41 GMT   (16kb)
+Date (revised v3): Fri, 11 May 2001 20:41:14 GMT   (16kb)
+
+Title: Probing Some N=1 AdS/CFT RG Flows
+Authors: Clifford V. Johnson, Kenneth J. Lovis, David C. Page
+Comments: 15 pages, Latex (v2: added reference. minor footnote added, v3:
+  non-trivial clarifications and extensions of comments about the metric on
+  moduli space)
+Report-no: DTP/00/97
+Journal-ref: JHEP 0105 (2001) 036
+\\
+  We present the results of probing the ten dimensional type IIB supergravity
+solution corresponding to a renormalisation group flow of supersymmetric SU(n)
+Yang-Mills theory from pure gauge N=4 to N=1 with two massless adjoint
+flavours. The endpoint of the flow is an infrared fixed point theory, and
+because of this simplicity of the theory, the effective Lagrangian for the
+probe is very well-behaved, having no zeros or singularities in the tension,
+and a smooth potential, all of which we exhibit. Specialising to the locus of
+points where the potential vanishes, we also characterise a part of the Coulomb
+branch of the N=1 theory. The simplicity of the gauge theory physics allows us
+to isolate and emphasise a key holographic feature of brane probe physics which
+has wider applications in the study of geometry/gauge theory duals.
+\\

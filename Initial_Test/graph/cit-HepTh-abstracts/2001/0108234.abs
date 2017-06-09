@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0108234
+From: Suresh Govindarajan <suresh@chaos.iitm.ernet.in>
+Date: Fri, 31 Aug 2001 09:38:07 GMT   (23kb)
+Date (revised v2): Sun, 2 Sep 2001 10:26:16 GMT   (24kb)
+
+Title: Disc Instantons in Linear Sigma Models
+Authors: Suresh Govindarajan (IITM), T. Jayaraman (IMSc), Tapobrata Sarkar
+  (TIFR)
+Comments: 1+32 pages, 1 figure, LaTeX2e; (v2) Tables and References added,
+  typos fixed
+Report-no: IMSc/2001/07/32; TIFR/TH/01-22
+Journal-ref: Nucl.Phys. B646 (2002) 498-523
+\\
+  We construct a linear sigma model for open-strings ending on special
+Lagrangian cycles of a Calabi-Yau manifold. We illustrate the construction for
+the cases considered by Aganagic and Vafa in hep-th/0012041. This leads
+naturally to concrete models for the moduli space of open-string instantons.
+These instanton moduli spaces can be seen to be intimately related to certain
+auxiliary boundary toric varieties. By considering the relevant
+Gelfand-Kapranov-Zelevinsky (GKZ) differential equations of the boundary toric
+variety, we obtain the contributions to the worldvolume superpotential on the
+A-branes from open-string instantons. By using an ansatz due to Aganagic, Klemm
+and Vafa in hep-th/0105045, we obtain the relevant change of variables from the
+linear sigma model to the non-linear sigma model variables - the open-string
+mirror map. Using this mirror map, we obtain results in agreement with those of
+AV and AKV for the counting of holomorphic disc instantons.
+\\

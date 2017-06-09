@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9607167
+From: "Patrick E. Dorey" <P.E.Dorey@durham.ac.uk>
+Date: Sun, 21 Jul 96 23:44:37 BST   (65kb)
+Date (revised): Tue, 6 Aug 96 18:28:38 BST
+
+Title: Excited states by analytic continuation of TBA equations
+Authors: Patrick Dorey and Roberto Tateo
+Comments: 25 pages, latex, 6 ps files, uses epsf.tex. Typos corrected
+Report-no: DTP-96/29
+Journal-ref: Nucl.Phys. B482 (1996) 639-659
+\\
+  We suggest an approach to the problem of finding integral equations for the
+excited states of an integrable model, starting from the Thermodynamic Bethe
+Ansatz equations for its ground state. The idea relies on analytic continuation
+through complex values of the coupling constant, and an analysis of the
+monodromies that the equations and their solutions undergo. For the scaling
+Lee-Yang model, we find equations in this way for the one- and two- particle
+states in the spin-zero sector, and suggest various generalisations. Numerical
+results show excellent agreement with the truncated conformal space approach,
+and we also treat some of the ultraviolet and infrared asymptotics
+analytically.
+\\

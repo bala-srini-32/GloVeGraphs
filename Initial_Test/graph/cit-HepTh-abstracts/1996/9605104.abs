@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9605104
+From: Gerard Watts <gmtw@mth.kcl.ac.uk>
+Date: Wed, 15 May 1996 13:11:32 +0100   (178kb)
+Date (revised): Fri, 20 Dec 1996 11:23:36 GMT
+
+Title: On the relation between Phi(1,2) and Phi(1,5) perturbed minimal models
+Authors: H.G.Kausch (1), G.Takacs (2) and G.M.T.Watts (1), ((1) King's College
+  London, (2) ELTE Budapest)
+Comments: LaTeX, 23 pages, 12 figures. Substantial revision of introductory
+  section, new discussion of complex eigenvalues and non-unitary S-matrices
+Report-no: KCL-TH-96-7
+Journal-ref: Nucl.Phys. B489 (1997) 557-579
+\\
+  We consider the RSOS S-matrices of the Phi(1,5) perturbed minimal models
+which have recently been found in the companion paper [hep-th/9604098]. These
+S-matrices have some interesting properties, in particular, unitarity may be
+broken in a stronger sense than seen before, while one of the three classes of
+Phi(1,5) perturbations (to be described) shares the same Thermodynamic Bethe
+Ansatz as a related Phi(1,2) perturbation. We test these new S-matrices by the
+standard Truncated Conformal Space method, and further observe that in some
+cases the BA equations for two particle energy levels may be continued to
+complex rapidity to describe (a) single particle excitations and (b) complex
+eigenvalues of the Hamiltonian corresponding to non-unitary S-matrix elements.
+We make some comments on identities between characters in the two related
+models following from the fact that the two perturbed theories share the same
+breather sector.
+\\

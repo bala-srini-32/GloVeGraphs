@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9511004
+From: Stefan Mashkevich <mash@phys.unit.no>
+Date: Wed, 1 Nov 1995 15:13:46 +0100   (24kb)
+Date (revised): Sun, 12 Nov 1995 21:02:37 +0100
+Date (revised): Sat, 9 Nov 1996 05:07:16 +0100
+
+Title: Finite-size anyons and perturbation theory
+Author: Stefan Mashkevich (Kiev, Oslo)
+Comments: 18 pages (RevTex) + 4 PS figures (all included); a new section on
+  equation of state added
+Journal-ref: Phys.Rev. D54 (1996) 6537-6543
+\\
+  We address the problem of finite-size anyons, i.e., composites of charges and
+finite radius magnetic flux tubes. Making perturbative calculations in this
+problem meets certain difficulties reminiscent of those in the problem of
+pointlike anyons. We show how to circumvent these difficulties for anyons of
+arbitrary spin. The case of spin 1/2 is special because it allows for a direct
+application of perturbation theory, while for any other spin, a redefinition of
+the wave function is necessary. We apply the perturbative algorithm to the
+N-body problem, derive the first-order equation of state and discuss some
+examples.
+\\

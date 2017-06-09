@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9510096
+From: "A. Khare" <khare@iopb.ernet.in>
+Date: Sun, 15 Oct 1995 13:16:08 -0500   (5kb)
+
+Title: Exact Solution of a N-body Problem in One Dimension
+Author: Avinash Khare
+Comments: 8 pages, tex file, no figures, sign in the first term on the right
+  hand side of eq.3 corrected
+Report-no: IP-BBSR /95-95
+Subj-class: High Energy Physics - Theory; Exactly Solvable and Integrable
+  Systems
+Journal-ref: J.Phys. A29 (1996) L45-L48; J.Phys. A29 (1996) 6459-6460
+\\
+  Complete energy spectrum is obtained for the quantum mechanical problem of N
+one dimensional equal mass particles interacting via potential
+$$V(x_1,x_2,...,x_N) = g\sum^N_{i < j}{1\over (x_i-x_j)^2} - {\alpha\over
+\sqrt{\sum_{i < j} (x_i-x_j)^2}}$$ Further, it is shown that scattering
+configuration, characterized by initial momenta $p_i (i=1,2,...,N)$ goes over
+into a final configuration characterized uniquely by the final momenta $p'_i$
+with $p'_i=p_{N+1-i}$.
+\\

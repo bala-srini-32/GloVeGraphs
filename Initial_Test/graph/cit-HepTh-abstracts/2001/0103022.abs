@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0103022
+From: Alex Buchel <buchel@itp.ucsb.edu>
+Date: Sun, 4 Mar 2001 20:06:27 GMT   (21kb)
+Date (revised v2): Tue, 13 Mar 2001 21:55:49 GMT   (21kb)
+Date (revised v3): Fri, 8 Jun 2001 00:05:48 GMT   (18kb)
+
+Title: Comments on supergravity dual of pure N=1 Super Yang Mills theory with
+  unbroken chiral symmetry
+Authors: Alex Buchel, Andrew Frey
+Comments: 34 pages, LaTeX, v2: references added, v3: section 2 reduced, minor
+  clarifications, to be published in PRD
+Report-no: NSF-ITP-01-16
+Journal-ref: Phys.Rev. D64 (2001) 064007
+\\
+  Maldacena and Nunez [hep-th/0008001] identified a gravity solution describing
+pure N=1 Yang-Mills (YM) in the IR. Their (smooth) supergravity solution
+exhibits confinement and the U(1)_R chiral symmetry breaking of the dual YM
+theory, while the singular solution corresponds to the gauge theory phase with
+unbroken U(1)_R chiral symmetry. In this paper we discuss supersymmetric type
+IIB compactifications on resolved conifolds with torsion. We rederive singular
+background of [hep-th/0008001] directly from the supersymmetry conditions. This
+solution is the relevant starting point to study non-BPS backgrounds dual to
+the high temperature phase of pure YM. We construct the simplest black hole
+solution in this background. We argue that it has a regular Schwarzschild
+horizon and provides a resolution of the IR singularity of the chirally
+symmetric extremal solution as suggested in [hep-th/0011146].
+\\

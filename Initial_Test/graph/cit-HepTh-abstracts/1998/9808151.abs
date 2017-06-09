@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9808151
+From: Strobl, Thomas <tstrobl@physik.rwth-aachen.de>
+Date: Tue, 25 Aug 1998 14:57:16 GMT   (34kb)
+
+Title: BRST Inner Product Spaces and the Gribov Obstruction
+Authors: Norbert Duechting, Sergei V. Shabanov and Thomas Strobl
+Comments: 49 pages, 1 figure (included)
+Report-no: PITHA 98/27
+Subj-class: High Energy Physics - Theory; Mathematical Physics
+Journal-ref: Nucl.Phys. B538 (1999) 485-514
+\\
+  A global extension of the Batalin-Marnelius proposal for a BRST inner product
+to gauge theories with topologically nontrivial gauge orbits is discussed. It
+is shown that their (appropriately adapted) method is applicable to a large
+class of mechanical models with a semisimple gauge group in the adjoint and
+fundamental representation. This includes cases where the Faddeev-Popov method
+fails. Simple models are found also, however, which do not allow for a
+well-defined global extension of the Batalin-Marnelius inner product due to a
+Gribov obstruction. Reasons for the partial success and failure are worked out
+and possible ways to circumvent the problem are briefly discussed.
+\\

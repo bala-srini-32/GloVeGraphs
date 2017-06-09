@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9810048
+From: "Carlos M. Naon" <naon@venus.fisica.unlp.edu.ar>
+Date: Wed, 7 Oct 1998 18:15:14 GMT   (8kb)
+
+Title: Path-integral formulation of backward and umklapp scattering for 1d
+  spinless fermions
+Authors: V.I. Fern\'andez and C.M.Na\'on
+Comments: 12 pages, latex, no figures. Submitted to Teor.Mat.Fiz. (Russia),
+  Proceedings of the Second International Conference on Exactly Solvable in
+  Mathematical Physics, Chelyabinsk, Russia, August 1998. Authors names
+  corrected
+Report-no: La Plata Th 98-15
+Journal-ref: Theor.Math.Phys. 118 (1999) 385-391; Teor.Mat.Fiz. 118 (1999)
+  488-496
+\\
+  We present a (1+1)-dimensional fermionic QFT with non-local couplings between
+currents. This model describes an ensemble of spinless fermions interacting
+through forward, backward and umklapp scattering processes. We express the
+vacuum to vacuum functional in terms of a non trivial fermionic determinant.
+Using path-integral methods we find a bosonic representation for this
+determinant. Thus we obtain an effective action depending on three scalar
+fields, two of which correspond to the physical collective excitations whereas
+the third one is an auxiliary field that is left to be integrated by means of
+an approximate technique.
+\\

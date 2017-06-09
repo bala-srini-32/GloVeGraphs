@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0103110
+From: Silvio Paolo Sorella <sorella@dft.if.uerj.br>
+Date: Wed, 14 Mar 2001 16:05:11 GMT   (23kb)
+Date (revised v2): Wed, 28 Mar 2001 13:31:36 GMT   (23kb)
+
+Title: An Algebraic Criterion for the Ultraviolet Finiteness of Quantum Field
+  Theories
+Authors: V.E.R. Lemes, M.S. Sarandy, S.P. Sorella, O.S. Ventura and L.C.Q.
+  Vilar
+Comments: 1+32 pages, LaTeX2e, typos corrected
+Journal-ref: J.Phys. A34 (2001) 9485-9506
+\\
+  An algebraic criterion for the vanishing of the beta function for
+renormalizable quantum field theories is presented. Use is made of the descent
+equations following from the Wess-Zumino consistency condition. In some cases,
+these equations relate the fully quantized action to a local gauge invariant
+polynomial. The vanishing of the anomalous dimension of this polynomial enables
+us to establish a nonrenormalization theorem for the beta function $\beta_g$,
+stating that if the one-loop order contribution vanishes, then $\beta_g$ will
+vanish to all orders of perturbation theory. As a by-product, the special case
+in which $\beta_g$ is only of one-loop order, without further corrections, is
+also covered. The examples of the N=2,4 supersymmetric Yang-Mills theories are
+worked out in detail.
+\\

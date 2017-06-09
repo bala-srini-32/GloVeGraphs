@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9712148
+From: Lee Smolin <smolin@phys.psu.edu>
+Date: Tue, 16 Dec 1997 04:39:24 GMT   (23kb)
+Date (revised v2): Tue, 6 Jan 1998 03:49:44 GMT   (23kb)
+
+Title: Nonperturbative dynamics for abstract (p,q) string networks
+Authors: Fotini Markopoulou and Lee Smolin
+Comments: Latex, 12 pages, epsfig, 7 figures, minor changes
+Journal-ref: Phys.Rev. D58 (1998) 084033
+\\
+  We describe abstract (p,q) string networks which are the string networks of
+Sen without the information about their embedding in a background spacetime.
+The non-perturbative dynamical formulation invented for spin networks, in terms
+of causal evolution of dual triangulations, is applied to them. The formal
+transition amplitudes are sums over discrete causal histories that evolve (p,q)
+string networks. The dynamics depend on two free SL(2,Z) invariant functions
+which describe the amplitudes for the local evolution moves.
+\\

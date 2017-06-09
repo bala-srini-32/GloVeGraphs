@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9911197
+From: Axel Krause <axkrause@qft18.physik.hu-berlin.de>
+Date: Wed, 24 Nov 1999 22:27:50 GMT   (10kb)
+Date (revised v2): Thu, 23 Dec 1999 18:01:40 GMT   (11kb)
+
+Title: On the Flattening of Negative Curvature via T-Duality with a
+  non-constant B-Field
+Authors: Axel Krause
+Comments: 8 pages, small corrections
+Report-no: HUB-EP-99/61
+\\
+  In an earlier paper, Alvarez, Alvarez-Gaume, Barbon and Lozano pointed out,
+that the only way to "flatten" negative curvature by means of a T-duality is by
+introducing an appropriate, non-constant NS-NS B-field. In this paper, we are
+investigating this further and ask, whether it is possible to T-dualize AdS_d
+space to flat space with some suitably chosen B. To answer this question, we
+derive a relationship between the original curvature tensor and the one of the
+T-dualized metric involving the B-field. It turns out that there is one
+particular component, which is independent of B. By inspection of this
+component, we then show, that it is not possible to dualize AdS_d to flat space
+irrespective of the choice of B. Finally, we examine the extension of AdS to an
+AdS_5 x S^5 geometry and propose a chain of S- and T-dualities together with an
+SL(2,Z) coordinate transformation, leading to a dual D9-brane geometry.
+\\

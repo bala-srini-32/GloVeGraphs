@@ -1,0 +1,32 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9707166
+From: Andreas U. Schnmidt <aschmidt@math.uni-frankfurt.de>
+Date: Fri, 18 Jul 1997 08:24:44 MDT   (23kb)
+Date (revised): Thu, 20 Dec 2001 15:55:29 GMT
+Date (revised): Mon, 4 Mar 2002 11:47:20 GMT
+
+Title: Mathematical Problems of Gauge Quantum Field Theory: A Survey on the
+  Schwinger Model
+Authors: Andreas U. Schmidt
+Comments: 22 pages, AMSTeX with PICTeX macros. Typos corrected, reference
+  added. v3: further references added, introduction and abstract updated
+Subj-class: High Energy Physics - Theory; Functional Analysis
+Journal-ref: Universitatis Iagellonicae Acta Math., Fasc. XXXIV, 113-134 (1997)
+\\
+  This extended write-up of a talk gives an introductory survey of mathematical
+problems of the quantization of gauge systems. Using the Schwinger model as an
+exactly tractable but nontrivial example which exhibits general features of
+gauge quantum field theory, I cover the following subjects: The axiomatics of
+quantum field theory, formulation of quantum field theory in terms of Wightman
+functions, reconstruction of the state space, the local formulation of gauge
+theories, indefiniteness of the Wightman functions in general and in the
+special case of the Schwinger model, the state space of the Schwinger model,
+special features of the model. New results are contained in the Mathematical
+Appendix, where I consider in an abstract setting the Pontrjagin space
+structure of a special class of indefinite inner product spaces - the so called
+quasi-positive ones. This is motivated by the indefinite inner product space
+structure appearing in the above context and generalizes results of Morchio and
+Strocchi [J. Math. Phys. 31 (1990) 1467], and Dubin and Tarski [J. Math. Phys.
+7 (1966) 574].
+\\

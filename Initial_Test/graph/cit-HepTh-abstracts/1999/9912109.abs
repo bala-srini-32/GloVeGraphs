@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9912109
+From: winter@ime.usp.br
+Date: Mon, 13 Dec 1999 20:22:20 GMT   (36kb)
+
+Title: New Approach to the Integrability of the Calogero Models
+Authors: Michael Forger and Axel Winterhalder
+Comments: Latex2e, 44 pages, no figures
+Report-no: RT-MAP 99/07
+\\
+  We develop a new, systematic approach towards studying the integrability of
+the ordinary Calogero-Moser-Sutherland models as well as the elliptic Calogero
+models associated with arbitrary (semi-)simple Lie algebras and with symmetric
+pairs of Lie algebras. It is based on the introduction of a function F, defined
+on the relevant root system and with values in the respective Cartan
+subalgebra, satisfying a certain set of combinatoric identities that ensure, in
+one stroke, the existence of a Lax representation and of a dynamical R-matrix,
+given by completely explicit formulas. It is shown that among the simple Lie
+algebras, only those belonging to the A-series admit such a function F, whereas
+the AIII-series of symmetric pairs of Lie algebras, corresponding to the
+complex Grassmannians SU(p,q)/S(U(p) x U(q)), allows non-trivial solutions when
+|p-q| <= 1. Apart from reproducing all presently known dynamical R-matrices for
+Calogero models, our approach provides new ones, namely for the ordinary models
+when |p-q| = 1 and for the elliptic models when |p-q| = 1 or p = q.
+\\

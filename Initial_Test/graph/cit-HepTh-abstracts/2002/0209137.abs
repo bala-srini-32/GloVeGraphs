@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0209137
+From: Keiichi Nagao <nagao@post.kek.jp>
+Date: Tue, 17 Sep 2002 08:19:22 GMT   (22kb)
+Date (revised v2): Wed, 2 Oct 2002 08:25:16 GMT   (23kb)
+
+Title: Chiral Anomaly on Fuzzy 2-Sphere
+Authors: Hajime Aoki, Satoshi Iso and Keiichi Nagao
+Comments: latex 41 pages, references added, typo corrected
+Report-no: SAGA-HE-189, KEK-TH-839
+\\
+  We investigate chiral anomaly for fermions in fundamental representation on
+noncommutative (fuzzy) 2-sphere. In spite that this system is realized by
+finite dimensional matrices and no regularization is necessary for either UV or
+IR, we can reproduce the correct chiral anomaly which is consistent with the
+calculations done in flat noncommutative space. Like the flat case, there are
+ambiguities to define chiral currents. We define chiral currents in a
+gauge-invariant way and a gauge-covariant way, and show that the corresponding
+anomalous chiral Ward--Takahashi identities take different forms. The
+Ward--Takahashi identity for the gauge-invariant current contains explicit
+nonlocality while that for the covariant one is given by a local expression.
+\\

@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9810186
+From: Csaba Csaki <csaki@thwk5.lbl.gov>
+Date: Fri, 23 Oct 1998 01:39:17 GMT   (36kb)
+Date (revised v2): Tue, 3 Nov 1998 01:38:52 GMT   (36kb)
+
+Title: Large N QCD from Rotating Branes
+Authors: Csaba Csaki (Berkeley), Yaron Oz (CERN), Jorge Russo (Imperial
+  College), John Terning (Berkeley)
+Comments: 30 pages, LaTeX, 8 figures, most accurate lattice results and
+  references added
+Report-no: UCB-PTH-98/52, LBNL-42424, CERN-TH/98-338, Imperial/TP/98-99/5
+Journal-ref: Phys.Rev. D59 (1999) 065012
+\\
+  We study large N SU(N) Yang-Mills theory in three and four dimensions using a
+one-parameter family of supergravity models which originate from non-extremal
+rotating D-branes. We show explicitly that varying this "angular momentum"
+parameter decouples the Kaluza-Klein modes associated with the compact D-brane
+coordinate, while the mass ratios for ordinary glueballs are quite stable
+against this variation, and are in good agreement with the latest lattice
+results. We also compute the topological susceptibility and the gluon
+condensate as a function of the "angular momentum" parameter.
+\\

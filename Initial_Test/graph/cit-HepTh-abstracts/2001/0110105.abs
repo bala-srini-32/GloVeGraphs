@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0110105
+From: Andrei Smilga <Andrei.Smilga@math.univ-nantes.fr>
+Date: Thu, 11 Oct 2001 14:39:13 GMT   (23kb)
+Date (revised v2): Thu, 7 Feb 2002 17:17:03 GMT   (24kb)
+
+Title: Quasiclassical expansion for Tr{(-1)^F exp(-\beta H)}
+Author: A.V. Smilga
+Comments: 33 pages LaTeX; final version to be published in Comm. Math. Phys
+Report-no: SUBATECH-01-11
+Subj-class: High Energy Physics - Theory; Mathematical Physics
+Journal-ref: Commun.Math.Phys. 230 (2002) 245-269
+\\
+  We start with some methodic remarks referring to purely bosonic quantum
+systems and then explain how corrections to the leading--order quasiclassical
+result for the fermion--graded partition function Tr{(-1)^F exp(-\beta H)} can
+be calculated at small \beta. We perform such calculation for certain
+supersymmetric quantum mechanical systems where such corrections are expected
+to appear. We consider in particular supersymmetric Yang-Mills theory reduced
+to (0+1) dimensions and were surprised to find that the correction of order
+\beta^2 vanishes in this case.
+  We discuss also a nonstandard N =2 supersymmetric sigma model defined on S^3
+and other 3--dimensional conformally flat manifolds and show that the
+quasiclassical expansion breaks down for this system.
+\\

@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9707136
+From: pavel@darss.mpg.uni-rostock.de
+Date: Tue, 15 Jul 97 10:55:56 +0200   (22kb)
+
+Title: Hamiltonian reduction of SU(2) Dirac-Yang-Mills mechanics
+Author: S.A. Gogilidze, A.M. Khvedelidze, D.M. Mladenov, H.-P. Pavel
+Comments: 25 pages Revtex, no figures
+Report-no: Rostock prepr. MPG-VT-UR 109/97 and Dubna prepr. E2-97-217
+Journal-ref: Phys.Rev. D57 (1998) 7488-7500
+\\
+  The SU(2) gauge invariant Dirac-Yang-Mills mechanics of spatially homogeneous
+isospinor and gauge fields is considered in the framework of the generalized
+Hamiltonian approach. The unconstrained Hamiltonian system equivalent to the
+model is obtained using the gaugeless method of Hamiltonian reduction. The
+latter includes the Abelianization of the first class constraints, putting the
+second class constraints into the canonical form and performing a canonical
+transformation to a set of adapted coordinates such that a subset of the new
+canonical pairs coincides with the second class constraints and part of the new
+momenta is equal to the Abelian constraints. In the adapted basis the pure
+gauge degrees of freedom automatically drop out from the consideration after
+projection of the model onto the constraint shell. Apart from the elimination
+of these ignorable degrees of freedom a further Hamiltonian reduction is
+achieved due to the three dimensional group of rigid symmetry possessed by the
+system.
+\\

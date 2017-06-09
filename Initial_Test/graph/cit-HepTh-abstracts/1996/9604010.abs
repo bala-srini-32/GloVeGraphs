@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9604010
+From: Per Sundell <tfepsu@fy.chalmers.se>
+Date: Tue, 2 Apr 1996 14:33:17 +0200   (17kb)
+Date (revised): Wed, 12 Jun 1996 14:50:47 +0200
+
+Title: Finite Deformations of Conformal Field Theories Using Analytically
+  Regularized Connections
+Authors: Alexander von Gussich and Per Sundell (Institute of Theoretical
+  Physics, Chalmers University of Technology)
+Comments: 21 pages, use Latex2e twice. Replaced version: minor corrections,
+  additional Comment, additional reference
+Report-no: ITP 96-5
+Journal-ref: Nucl.Phys. B487 (1997) 445-466
+\\
+  We study some natural connections on spaces of conformal field theories using
+an analytical regularization method. The connections are based on marginal
+conformal field theory deformations. We show that the analytical regularization
+preserves conformal invariance and leads to integrability of the marginal
+deformations. The connections are shown to be flat and to generate well-defined
+finite parallel transport. These finite parallel transports yield formulations
+of the deformed theories in the state space of an undeformed theory. The
+restrictions of the connections to the tangent space are curved but free of
+torsion.
+\\

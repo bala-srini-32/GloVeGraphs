@@ -1,0 +1,36 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9809126
+From: marco.matone@pd.infn.it
+Date: Thu, 17 Sep 1998 15:59:32 GMT   (9kb)
+Date (revised v2): Fri, 20 Nov 1998 15:45:47 GMT   (9kb)
+
+Title: Equivalence Principle: Tunnelling, Quantized Spectra and Trajectories
+  from the Quantum HJ Equation
+Authors: Alon E. Faraggi and Marco Matone
+Comments: 1+10 pages, LaTeX. Typos corrected, to appear in Phys. Lett. B
+Report-no: UMN-TH-1721-98-TPI-MINN-98/18, DFPD97/TH/58
+Subj-class: High Energy Physics - Theory; Mathematical Physics; Exactly
+  Solvable and Integrable Systems
+Journal-ref: Phys.Lett. B445 (1999) 357-365
+\\
+  A basic aspect of the recently proposed approach to quantum mechanics is that
+no use of any axiomatic interpretation of the wave function is made. In
+particular, the quantum potential turns out to be an intrinsic potential energy
+of the particle, which, similarly to the relativistic rest energy, is never
+vanishing. This is related to the tunnel effect, a consequence of the fact that
+the conjugate momentum field is real even in the classically forbidden regions.
+The quantum stationary Hamilton-Jacobi equation is defined only if the ratio
+psi^D/psi of two real linearly independent solutions of the Schroedinger
+equation, and therefore of the trivializing map, is a local homeomorphism of
+the extended real line into itself, a consequence of the Moebius symmetry of
+the Schwarzian derivative. In this respect we prove a basic theorem relating
+the request of continuity at spatial infinity of psi^D/psi, a consequence of
+the q - 1/q duality of the Schwarzian derivative, to the existence of L^2(R)
+solutions of the corresponding Schroedinger equation. As a result, while in the
+conventional approach one needs the Schroedinger equation with the L^2(R)
+condition, consequence of the axiomatic interpretation of the wave function,
+the equivalence principle by itself implies a dynamical equation that does not
+need any assumption and reproduces both the tunnel effect and energy
+quantization.
+\\

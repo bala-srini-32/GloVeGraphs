@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9512090
+From: frahm@itp.uni-hannover.de
+Date: Wed, 13 Dec 1995 09:00:52 +0100 (MET)   (28kb)
+Date (revised): Thu, 8 Aug 1996 14:08:27 +0200 (MEST)
+
+Title: Determinant representation for a quantum correlation function of the
+  lattice sine-Gordon model
+Authors: Fabian H. L. Essler, Holger Frahm, Alexander R. Its, Vladimir E.
+  Korepin
+Comments: 30 pages Latex2e, 2 Figures, epsf. Significantly extended and revised
+  version
+Report-no: OUTP-95-67S, ITP-UH-28/95, ITP-SB-95-48, YITP-96-26
+Journal-ref: J.Phys. A30 (1997) 219-244
+\\
+  We consider a completely integrable lattice regularization of the sine-Gordon
+model with discrete space and continuous time. We derive a determinant
+representation for a correlation function which in the continuum limit turns
+into the correlation function of local fields. The determinant is then embedded
+into a system of integrable integro-differential equations. The leading
+asymptotic behaviour of the correlation function is described in terms of the
+solution of a Riemann Hilbert Problem (RHP) related to the system of
+integro-differential equations. The leading term in the asymptotical
+decomposition of the solution of the RHP is obtained.
+\\

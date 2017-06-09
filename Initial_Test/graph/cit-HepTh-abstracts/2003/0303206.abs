@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0303206
+From: giuseppe bimonte <giuseppe.bimonte@na.infn.it>
+Date: Mon, 24 Mar 2003 16:02:12 GMT   (7kb)
+
+Title: New classical brackets for dissipative systems
+Authors: G. Bimonte, G. Esposito, G. Marmo and C. Stornaiolo
+Comments: 4 pages
+Report-no: DSF 2003/8
+\\
+  A set of brackets for classical dissipative systems, subject to external
+random forces, are derived. The method is inspired to the old procedure found
+by Peierls, for deriving the canonical brackets of conservative systems,
+starting from an action principle. It is found that an adaptation of Peierls'
+method is applicable also to dissipative systems, when the friction term can be
+described by a linear functional of the coordinates, as is the case in the
+classical Langevin equation, with an arbitrary memory function. The general
+expression for the brackets satisfied by the coordinates, as well as by the
+external random forces, at different times, is determined, and it turns out
+that they all satisfy the Jacobi identity. Upon quantization, these classical
+brackets are found to coincide with the commutation rules for the quantum
+Langevin equation, that have been obtained in the past, by appealing to
+microscopic conservative quantum models for the friction mechanism.
+\\

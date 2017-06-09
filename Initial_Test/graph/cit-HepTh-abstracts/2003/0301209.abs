@@ -1,0 +1,33 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0301209
+From: Peter Jarvis <peter.jarvis@utas.edu.au>
+Date: Sun, 26 Jan 2003 22:44:05 GMT   (37kb)
+Date (revised v2): Sat, 15 Feb 2003 23:49:23 GMT   (37kb)
+
+Title: Polynomial super-gl(n) algebras
+Authors: P. D. Jarvis (University of Tasmania) and G. Rudolph (University of
+  Leipzig)
+Comments: 31 pages, LaTeX, including minor corrections to equation (3) and
+  reference [60]
+Report-no: UTAS-PHYS-02-03
+\\
+  We introduce a class of finite dimensional nonlinear superalgebras $L =
+L_{\bar{0}} + L_{\bar{1}}$ providing gradings of $L_{\bar{0}} = gl(n) \simeq
+sl(n) + gl(1)$. Odd generators close by anticommutation on polynomials (of
+degree $>1$) in the $gl(n)$ generators. Specifically, we investigate `type I'
+super-$gl(n)$ algebras, having odd generators transforming in a single
+irreducible representation of $gl(n)$ together with its contragredient.
+Admissible structure constants are discussed in terms of available $gl(n)$
+couplings, and various special cases and candidate superalgebras are identified
+and exemplified via concrete oscillator constructions. For the case of the
+$n$-dimensional defining representation, with odd generators $Q_{a},
+\bar{Q}{}^{b}$, and even generators ${E^{a}}_{b}$, $a,b = 1,...,n$, a three
+parameter family of quadratic super-$gl(n)$ algebras (deformations of
+$sl(n/1)$) is defined. In general, additional covariant Serre-type conditions
+are imposed, in order that the Jacobi identities be fulfilled. For these
+quadratic super-$gl(n)$ algebras, the construction of Kac modules, and
+conditions for atypicality, are briefly considered. Applications in quantum
+field theory, including Hamiltonian lattice QCD and space-time supersymmetry,
+are discussed.
+\\

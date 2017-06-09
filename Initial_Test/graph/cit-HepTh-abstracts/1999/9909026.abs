@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9909026
+From: Yoshitaka Okumura <okum@bu.edu>
+Date: Sat, 4 Sep 1999 12:17:04 GMT   (14kb)
+
+Title: BRST invariant formulation of spontaneously broken gauge theory in
+  generalized differential geometry
+Author: Yoshitaka Okumura
+Comments: 15 pages
+Report-no: CHUBU9903
+Journal-ref: J.Math.Phys. 41 (2000) 1788-1800
+\\
+  Noncommutative geometry(NCG) on the discrete space successfully reproduces
+the Higgs mechanism of the spontaneously broken gauge theory, in which the
+Higgs boson field is regarded as a kind of gauge field on the discrete space.
+We could construct the generalized differential geometry(GDG) on the discrete
+space $M_4\times Z_N$ which is very close to NCG in case of $M_4\times Z_2$.
+GDG is a direct generalization of the differential geometry on the ordinary
+manifold into the discrete one. In this paper, we attempt to construct the BRST
+invariant formulation of spontaneously broken gauge theory based on GDG and
+obtain the BRST invariant Lagrangian with the t'Hooft-Feynman gauge fixing
+term.
+\\

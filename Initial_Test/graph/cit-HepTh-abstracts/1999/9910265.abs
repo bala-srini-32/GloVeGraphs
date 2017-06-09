@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9910265
+From: Lebedev Dmitri <lebedev@desargues.univ-lyon1.fr>
+Date: Mon, 1 Nov 1999 15:43:24 GMT   (21kb)
+Date (revised v2): Tue, 2 Nov 1999 11:39:13 GMT   (21kb)
+
+Title: Integral representation for the eigenfunctions of quantum periodic Toda
+  chain
+Authors: S. Kharchev, D. Lebedev
+Comments: 22 pages, LaTeX 2.09, misprnts corrected
+Report-no: ITEP-TH-54/99
+Subj-class: High Energy Physics - Theory; Mathematical Physics; Quantum
+  Algebra; Exactly Solvable and Integrable Systems
+Journal-ref: Lett.Math.Phys. 50 (1999) 53-77
+\\
+  Integral representation for the eigenfunctions of quantum periodic Toda chain
+is constructed for N-particle case. The multiple integral is calculated using
+the Cauchy residue formula. This gives the representation which reproduces the
+particular results obtained by Gutzwiller for N=2,3 and 4-particle chain. Our
+method to solve the problem combines the ideas of Gutzwiller and R-matrix
+approach of Sklyanin with the classical results in the theory of the Whittaker
+functions. In particular, we calculate Sklyanin's invariant scalar product from
+the Plancherel formula for the Whittaker functions derived by
+Semenov-Tian-Shansky thus obtaining the natural interpretation of the Sklyanin
+measure in terms of the Harish-Chandra function.
+\\

@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0005205
+From: Chang-Yeong Lee <leecy@zippy.ph.utexas.edu>
+Date: Mon, 22 May 2000 22:02:25 GMT   (17kb)
+Date (revised v2): Fri, 1 Sep 2000 02:53:19 GMT   (19kb)
+Date (revised v3): Thu, 22 Feb 2001 21:40:40 GMT   (14kb)
+
+Title: Matrix Theory Compactification on Noncommutative $T^4/Z_2$
+Authors: Eunsang Kim, Hoil Kim, Chang-Yeong Lee
+Comments: 19 pages, LaTeX, review part shortened and corrected
+Report-no: UTTG-10-00
+Journal-ref: J.Math.Phys. 42 (2001) 2677-2688
+\\
+  In this paper, we construct gauge bundles on a noncommutative toroidal
+orbifold $T^4_\theta/Z_2$. First, we explicitly construct a bundle with
+constant curvature connections on a noncommutative $T^4_\theta$ following
+Rieffel's method. Then, applying the appropriate quotient conditions for its
+$Z_2$ orbifold, we find a Connes-Douglas-Schwarz type solution of matrix theory
+compactified on $T^4_\theta/Z_2$. When we consider two copies of a bundle on
+$T^4_\theta$ invariant under the $Z_2$ action, the resulting Higgs branch
+moduli space of equivariant constant curvature connections becomes an ordinary
+toroidal orbifold $T^4/Z_2$.
+\\

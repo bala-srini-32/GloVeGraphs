@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0303054
+From: Calin Iuliu Lazaroiu <calin@physik.hu-berlin.de>
+Date: Fri, 7 Mar 2003 09:28:20 GMT   (44kb)
+
+Title: Geometric regularizations and dual conifold transitions
+Authors: K. Landsteiner, C. I. Lazaroiu
+Comments: 18 pages
+Report-no: HU-EP 03/14
+Journal-ref: JHEP 0304 (2003) 028
+\\
+  We consider a geometric regularization for the class of conifold transitions
+relating D-brane systems on noncompact Calabi-Yau spaces to certain flux
+backgrounds. This regularization respects the SL(2,Z) invariance of the flux
+superpotential, and allows for computation of the relevant periods through the
+method of Picard-Fuchs equations. The regularized geometry is a noncompact
+Calabi-Yau which can be viewed as a monodromic fibration, with the nontrivial
+monodromy being induced by the regulator. It reduces to the original,
+non-monodromic background when the regulator is removed. Using this
+regularization, we discuss the simple case of the local conifold, and show how
+the relevant field-theoretic information can be extracted in this approach.
+\\

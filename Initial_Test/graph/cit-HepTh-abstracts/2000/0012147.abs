@@ -1,0 +1,19 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0012147
+From: Andrei Ivanov <ivanov@kph.tuwien.ac.at>
+Date: Sat, 16 Dec 2000 20:13:15 GMT   (5kb)
+Date (revised v2): Tue, 19 Dec 2000 11:52:00 GMT   (5kb)
+Date (revised v3): Sat, 23 Dec 2000 10:30:52 GMT   (5kb)
+
+Title: On the evaluation of the evolution operator Z_Reg(R_2,R_1) in the
+  Diakonov-Petrov approach to the Wilson loop
+Authors: M. Faber, A. N. Ivanov, N. I. Troitskaya
+Comments: 7 pages, no figures, Latex, the contribution of all terms of order
+  O(delta/I_i), where i = perp or parallel, are calculated
+\\
+  We evaluate the evolution operator Z_Reg(R_2,R_1) introduced by Diakonov and
+Petrov for the definition of the Wilson loop in terms of a path integral over
+gauge degrees of freedom. We use the procedure suggested by Diakonov and Petrov
+(Phys. Lett. B224 (1989) 131) and show that the evolution operator vanishes.
+\\

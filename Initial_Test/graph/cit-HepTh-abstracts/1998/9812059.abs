@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9812059
+From: nesterenko@vaxsa.csied.unisa.it
+Date: Mon, 7 Dec 1998 16:28:02 GMT   (14kb)
+
+Title: Casimir Energy of a Ball and Cylinder in the Zeta Function Technique
+Authors: G. Lambiase, V.V. Nesterenko, M. Bordag
+Comments: REVTeX, 16 pages, no figures, no tables
+Journal-ref: J.Math.Phys. 40 (1999) 6254-6265
+\\
+  A simple method is proposed to construct the spectral zeta functions required
+for calculating the electromagnetic vacuum energy with boundary conditions
+given on a sphere or on an infinite cylinder. When calculating the Casimir
+energy in this approach no exact divergencies appear and no renormalization is
+needed. The starting point of the consideration is the representation of the
+zeta functions in terms of contour integral, further the uniform asymptotic
+expansion of the Bessel function is essentially used. After the analytic
+continuation, needed for calculating the Casimir energy, the zeta functions are
+presented as infinite series containing the Riemann zeta function with rapidly
+falling down terms. The spectral zeta functions are constructed exactly for a
+material ball and infinite cylinder placed in an uniform endless medium under
+the condition that the velocity of light does not change when crossing the
+interface. As a special case, perfectly conducting spherical and cylindrical
+shells are also considered in the same line. In this approach one succeeds,
+specifically, in justifying, in mathematically rigorous way, the appearance of
+the contribution to the Casimir energy for cylinder which is proportional to
+$\ln (2\pi)$.
+\\

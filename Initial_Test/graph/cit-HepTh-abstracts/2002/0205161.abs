@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0205161
+From: Mark Walton <waltonm@cs.uleth.ca>
+Date: Wed, 15 May 2002 21:45:09 GMT   (20kb)
+Date (revised v2): Tue, 21 May 2002 17:32:53 GMT   (20kb)
+Date (revised v3): Fri, 1 Nov 2002 20:09:54 GMT   (21kb)
+
+Title: D-branes in asymmetrically gauged WZW models and axial-vector duality
+Authors: Mark A. Walton and Jian-Ge Zhou
+Comments: 25 pages, 4 figures; note and references added
+Journal-ref: Nucl.Phys. B648 (2003) 523-541
+\\
+  We construct D-branes in a left-right asymmetrically gauged WZW model, with
+the gauge subgroup embedded differently on the left and the right of the group
+element. The symmetry-preserving boundary conditions for the group-valued field
+$g$ are described, and the corresponding action is found. When the subgroup
+$H=U(1)$, we can implement T-duality on the axially gauged WZW action; an
+orbifold of the vectorially gauged theory is produced. For the parafermion
+$SU(2)/U(1)$ coset model, a $\sigma$-model is obtained with vanishing gauge
+field on D-branes. We show that a boundary condition surviving from the SU(2)
+parent theory characterizes D-branes in the parafermion theory, determining the
+shape of A-branes. The gauge field on B-branes is obtained from the boundary
+condition for A-branes, by the orbifold construction and T-duality. These gauge
+fields stabilize the B-branes.
+\\

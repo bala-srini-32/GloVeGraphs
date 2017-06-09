@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9710096
+From: "M.Abouzeid" <M.Abouzeid@qmw.ac.uk>
+Date: Fri, 10 Oct 1997 16:57:37 GMT   (12kb)
+Date (revised v2): Mon, 17 Nov 1997 15:09:22 GMT   (12kb)
+Date (revised v3): Mon, 22 Dec 1997 18:27:21 GMT   (12kb)
+
+Title: Conformal Invariance and Duality in Self-Dual Gravity and (2,1)
+  Heterotic String Theory
+Authors: M. Abou Zeid and C. M. Hull
+Comments: LaTeX, 14 pages, no figures. One reference added and interpretation
+  revised; version to appear in Physics Letters B
+Report-no: QMW-PH-97-31
+Journal-ref: Phys.Lett. B419 (1998) 139-147; Erratum-ibid. B431 (1998) 459
+\\
+  A system of gravity coupled to a 2-form gauge field, a dilaton and Yang-Mills
+fields in $2n$ dimensions arises from the (2,1) sigma model or string. The
+field equations imply that the curvature with torsion and Yang-Mills field
+strength are self-dual in four dimensions, or satisfy generalised self-duality
+equations in $2n$ dimensions. The Born-Infeld-type action describing this
+system is simplified using an auxiliary metric and shown to be classically Weyl
+invariant only in four dimensions. A dual form of the action is found (no
+isometries are required). In four dimensions, the dual geometry is self-dual
+gravity without torsion coupled to a scalar field. In $D>4$ dimensions, the
+dual geometry is hermitian and determined by a $D-4$ form potential $K$,
+generalising the K\"{a}hler potential of the four dimensional case, with the
+fundamental 2-form given by $\tilde J= i*\partial \bar \partial K$. The
+coupling to Yang-Mills is through a term $K\wedge tr (F\wedge F)$ and leads to
+a Uhlenbeck-Yau field equation $\tilde J^{ij}F_{ij}=0$.
+\\

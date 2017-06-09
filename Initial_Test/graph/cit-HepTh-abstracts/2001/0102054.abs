@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0102054
+From: Stefano Arnone <sa@hep.phys.soton.ac.uk>
+Date: Fri, 9 Feb 2001 16:53:37 GMT   (31kb)
+
+Title: A gauge invariant regulator for the ERG
+Authors: S. Arnone, Yu.A. Kubyshin, T.R. Morris and J.F. Tighe
+Comments: 13 pages, 2 figures, uses ws-p9-75x6-50.cls, talk presented at the
+  2nd Conference on the Exact RG, Rome 2000
+Report-no: SHEP 01-07
+Journal-ref: Int.J.Mod.Phys. A16 (2001) 1989
+\\
+  A gauge invariant regularisation for dealing with pure Yang-Mills theories
+within the exact renormalization group approach is proposed. It is based on the
+regularisation via covariant higher derivatives and includes auxiliary
+Pauli-Villars fields which amounts to a spontaneously broken SU(N|N)
+super-gauge theory. We demonstrate perturbatively that the extended theory is
+ultra-violet finite in four dimensions and argue that it has a sensible limit
+when the regularization cutoff is removed.
+\\

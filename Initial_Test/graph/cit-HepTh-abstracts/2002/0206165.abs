@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0206165
+From: faraggi@thphys.ox.ac.uk
+Date: Tue, 18 Jun 2002 17:00:51 GMT   (15kb)
+
+Title: Partition functions of NAHE-based free fermionic string models
+Authors: Alon E. Faraggi
+Comments: 14 pages. Standard LaTeX
+Report-no: OUTP-02-25P
+Journal-ref: Phys.Lett. B544 (2002) 207-214
+\\
+  The heterotic string free fermionic formulation produced a large class of
+three generation models, with an underlying SO(10) GUT symmetry which is broken
+directly at the string level by Wilson lines. A common subset of boundary
+condition basis vectors in these models is the NAHE set, which corresponds to
+Z2 X Z2 orbifold of an SO(12) Narain lattice, with (h11,h21)=(27,3).
+Alternatively, a manifold with the same data is obtained by starting with a Z2
+X Z2 orbifold at a generic point on the lattice, with (h11,h21)=(51,3), and
+adding a freely acting Z2 involution. The equivalence of the two constructions
+is proven by examining the relevant partition functions. The explicit
+realization of the shift that reproduces the compactification at the free
+fermionic point is found. It is shown that other closely related shifts
+reproduce the same massless spectrum, but different massive spectrum, thus
+demonstrating the utility of extracting information from the full partition
+function. A freely acting involution of the type discussed here, enables the
+use of Wilson lines to break the GUT symmetry and can be utilized in
+non-perturbative studies of the free fermionic models.
+\\

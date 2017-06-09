@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0005206
+From: Gungwon Kang <kang@physics.inje.ac.kr>
+Date: Tue, 23 May 2000 01:36:51 GMT   (24kb)
+Date (revised v2): Mon, 7 Aug 2000 07:22:35 GMT   (24kb)
+
+Title: Stability of the GRS Model
+Authors: Y.S. Myung and G. Kang
+Comments: Revtex, 1 figure, 10 pages, a wrong citation corrected
+Report-no: INJE-TP-00-04
+Journal-ref: Phys.Lett. B497 (2001) 296-302
+\\
+  We discuss the compatibility between the weaker energy condition and the
+stability of Gregory, Rubakov and Sibiryakov (GRS) model. Because the GRS
+spacetime violates the weak energy condition, it may cause the instability. In
+the GRS model, the four dimensional gravity can be described by the massive KK
+modes with the resonance. Hence, instead of considering the weaker energy
+condition, we require for the stability of this model: no tachyon and no ghost
+condition for graviton modes ($h_{\mu\nu}$). No tachyonic condition ($m^2_h
+\geq 0$) is satisfied because the lowest state $m_h=0$ is supersymmetric vacuum
+state. Further, no ghost state condition is achieved if one requires some
+relations for the matter source: $2T_{55}= T^{\mu}_{\mu}=3(T_{22}+T_{33})$. It
+turns out that, although the GRS spacetime does not satisfy the weaker energy
+condition, it is stable against small perturbation.
+\\

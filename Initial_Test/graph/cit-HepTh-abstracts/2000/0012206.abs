@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0012206
+From: Stuart Corney <scorn@oberon.phys.utas.edu.au>
+Date: Thu, 21 Dec 2000 05:42:05 GMT   (14kb)
+
+Title: Generalised scalar particle quantisation in 1+1 dimensions and
+  $D(2,1;\alpha)$
+Authors: S P Corney, P D Jarvis, I Tsohantjis and D S McAnally
+Comments: 16 pages, no figures
+Report-no: UTAS-PHYS-00-15
+Journal-ref: J.Phys. A34 (2001) 4115-4128
+\\
+  The exceptional superalgebra $\D21a$ has been classified as a candidate
+conformal supersymmetry algera in two dimensions. We propose an alternative
+interpretation of it as an extended BFV-BRST quantisation superalgebra in 2D
+($D(2,1;1) \simeq osp(2,2|2)$). A superfield realization is presented wherein
+the standard extended phase space coordinates can be identified. The physical
+states are studied via the cohomology of the BRST operator. Finally we reverse
+engineer a classical action corresponding to the algebraic model we have
+constructed, and identify the Lagrangian equations of motion.
+\\

@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9510047
+From: Francesco Ravanini - Bologna <RAVANINI@bologna.infn.it>
+Date: Mon, 9 Oct 1995 18:40:10 +0100 (MET)   (14kb)
+Date (revised): Thu, 19 Oct 1995 20:56:39 +0100 (MET)
+
+Title: Generalized KdV and Quantum Inverse Scattering Description of Conformal
+  Minimal Models
+Author: Davide Fioravanti, Francesco Ravanini and Marian Stanishkov
+Comments: 12 pages, latex. 1 reference added
+Report-no: DFUB-95-08
+Journal-ref: Phys.Lett. B367 (1996) 113-120
+\\
+  We propose an alternative description of 2 dimensional Conformal Field Theory
+in terms of Quantum Inverse Scattering. It is based on the generalized KdV
+systems attached to $A_2^{(2)}$, yielding the classical limit of Virasoro as
+Poisson bracket structure. The corresponding T-system is shown to coincide with
+the one recently proposed by Kuniba and Suzuki. We classify the primary
+operators of the minimal models that commute with all the Integrals of Motion,
+and that are therefore candidates to perturb the model by keeping the
+conservation laws. For our $A_2^{(2)}$ structure these happen to be
+$\phi_{1,2},\phi_{2,1},\phi_{1,5}$, in contrast to the $A_1^{(1)}$ case,
+studied by Bazhanov, Lukyanov and Zamolodchikov~\cite{BLZ}, related to
+$\phi_{1,3}$.
+\\

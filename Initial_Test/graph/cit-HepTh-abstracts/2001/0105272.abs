@@ -1,0 +1,34 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0105272
+From: nakatsu@het.phys.sci.osaka-u.ac.jp
+Date: Mon, 28 May 2001 11:41:27 GMT   (114kb)
+Date (revised v2): Tue, 29 May 2001 09:27:39 GMT   (114kb)
+Date (revised v3): Mon, 23 Jul 2001 02:37:23 GMT   (120kb)
+Date (revised v4): Tue, 3 Dec 2002 04:38:11 GMT   (128kb)
+
+Title: Classical Open-String Field Theory ; $A_{\infty}$-Algebra,
+  Renormalization Group and Boundary States
+Authors: T. Nakatsu
+Comments: 91 pages, 17 figures. This is the published version. Section 1
+  (Introduction) is revised to include a brief review on renormalization group.
+  Other parts do not change
+Report-no: OU-HET 384
+Journal-ref: Nucl. Phys. B 642 (2002) 13-90
+\\
+  We investigate classical bosonic open-string field theory from the
+perspective of the Wilson renormalization group of world-sheet theory. The
+microscopic action is identified with Witten's covariant cubic action and the
+short-distance cut-off scale is introduced by length of open-string strip which
+appears in the Schwinger representation of open-string propagator. {\it
+Classical open-string field theory} in the title means open-string field theory
+governed by a classical part of the low energy action. It is obtained by
+integrating out suitable tree interactions of open-strings and is of
+non-polynomial type. We study this theory by using the BV formalism. It turns
+out to be deeply related with deformation theory of $A_{\infty}$-algebra. We
+introduce renormalization group equation of this theory and discuss it from
+several aspects. It is also discussed that this theory is interpreted as a
+boundary open-string field theory. Closed-string BRST charge and boundary
+states of closed-string field theory in the presence of open-string field play
+important roles.
+\\

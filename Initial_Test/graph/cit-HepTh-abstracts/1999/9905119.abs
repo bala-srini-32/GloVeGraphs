@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9905119
+From: pdv@ccr.jussieu.fr (Philippe DROZ-VINCENT)
+Date: Mon, 17 May 1999 17:02:54 GMT   (21kb)
+Date (revised v2): Thu, 6 Jul 2000 16:43:27 GMT   (21kb)
+Date (revised v3): Wed, 21 Feb 2001 14:21:27 GMT   (24kb)
+Date (revised v4): Thu, 9 Jan 2003 18:52:18 GMT   (24kb)
+
+Title: Reduction of relativistic three-body kinematics
+Authors: Ph. Droz-Vincent (LUTH, Observatoire, Meudon, France)
+Comments: LaTeX file, 28 pages. Presentation improved; many points clarified.
+  Several misprints and the expression for $\Gamma (0)$ are corrected. Display
+  of approximate cluster separability. Velocity of light is restored in the
+  formulas, the nonrelativistic limit is considered
+Subj-class: High Energy Physics - Theory; Mathematical Physics
+\\
+  The Klein-Gordon system describing three scalar particles without interaction
+is cast into a new form, by transformation of the momenta. Two redundant
+degrees of freedom are eliminated; we are left with a covariant equation for a
+reduced wave function with three-dimensional arguments. This new formulation of
+the mass-shell constraints is equivalent to the original KG system in a sector
+characterized by positivity of the energies and, if the mass differences are
+not too large, by a moderately relativistic regime. Then, mutual interaction is
+introduced and produces a tractable model.
+\\

@@ -1,0 +1,33 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0110026
+From: Janos Polonyi <polonyi@fresnel.u-strasbg.fr>
+Date: Tue, 2 Oct 2001 13:39:48 GMT   (86kb)
+Date (revised v2): Fri, 10 Jan 2003 17:49:52 GMT   (92kb)
+
+Title: Lectures on the functional renormalization group method
+Authors: Janos Polonyi
+Comments: 47 pages, 11 figures, final version
+Subj-class: High Energy Physics - Theory; Strongly Correlated Electrons
+Journal-ref: Central European Journal of Physics 1,1 (2002)
+\\
+  These introductory notes are about functional renormalization group equations
+and some of their applications. It is emphasised that the applicability of this
+method extends well beyond critical systems, it actually provides us a general
+purpose algorithm to solve strongly coupled quantum field theories. The
+renormalization group equation of F. Wegner and A. Houghton is shown to resum
+the loop-expansion. Another version, due to J. Polchinski, is obtained by the
+method of collective coordinates and can be used for the resummation of the
+perturbation series. The genuinely non-perturbative evolution equation is
+obtained in a manner reminiscent of the Schwinger-Dyson equations. Two variants
+of this scheme are presented where the scale which determines the order of the
+successive elimination of the modes is extracted from external and internal
+spaces. The renormalization of composite operators is discussed briefly as an
+alternative way to arrive at the renormalization group equation. The scaling
+laws and fixed points are considered from local and global points of view.
+Instability induced renormalization and new scaling laws are shown to occur in
+the symmetry broken phase of the scalar theory. The flattening of the effective
+potential of a compact variable is demonstrated in case of the sine-Gordon
+model. Finally, a manifestly gauge invariant evolution equation is given for
+QED.
+\\

@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9710099
+From: Michael Lashkevich <lashkevi@landau.ac.ru>
+Date: Mon, 13 Oct 1997 18:12:05 GMT   (29kb)
+Date (revised v2): Thu, 30 Oct 1997 21:46:37 GMT   (29kb)
+Date (revised v3): Fri, 31 Oct 1997 18:17:18 GMT   (29kb)
+Date (revised v4): Sun, 22 Feb 1998 19:46:48 GMT   (29kb)
+
+Title: Free Field Construction for Correlation Functions of the Eight-Vertex
+  Model
+Authors: Michael Lashkevich and Yaroslav Pugai (Landau Institute for
+  Theoretical Physics)
+Comments: 22 pages, uses pictex.tex, typos corrected and minor changes
+Report-no: LANDAU-97-TMP-5
+Subj-class: High Energy Physics - Theory; Quantum Algebra; Exactly Solvable and
+  Integrable Systems
+Journal-ref: Nucl.Phys. B516 (1998) 623-651
+\\
+  A free field representation for the type $I$ vertex operators and the corner
+transfer matrices of the eight-vertex model is proposed. The construction uses
+the vertex-face correspondence, which makes it possible to express correlation
+functions of the eight-vertex model in terms of correlation functions of the
+SOS model with a nonlocal insertion. This new nonlocal insertion admits of a
+free field representation in terms of Lukyanov's screening operator. The
+spectrum of the corner transfer matrix and the Baxter--Kelland formula for the
+average staggered polarization have been reproduced.
+\\

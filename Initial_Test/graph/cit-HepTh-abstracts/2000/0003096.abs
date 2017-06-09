@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0003096
+From: Christian Schubert <schubert@lapp.in2p3.fr>
+Date: Mon, 13 Mar 2000 14:46:27 GMT   (15kb)
+
+Title: Three-Loop Four-Point Correlator in N=4 SYM
+Authors: B. Eden, C. Schubert, E. Sokatchev
+Comments: 8 pages, standard latex, uses feynman and curves.sty
+Report-no: LAPTH-786/2000
+Journal-ref: Phys.Lett. B482 (2000) 309-314
+\\
+  We explicitly compute the complete three-loop (O(g^4)) contribution to the
+four-point function of chiral primary current-like operators <(q)^2 q^2 (q)^2
+q^2> in any finite N=2 SYM theory. The computation uses N=2 harmonic
+supergraphs in coordinate space. Dramatic simplifications are achieved by a
+double insertion of the N=2 SYM linearized action, and application of
+superconformal covariance arguments to the resulting nilpotent six-point
+amplitude. The result involves polylogarithms up to fourth order of the
+conformal cross ratios. It becomes particularly simple in the N=4 special case.
+\\

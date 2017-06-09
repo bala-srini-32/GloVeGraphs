@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9902129
+From: Eugene Shuster <eugeneus@mit.edu>
+Date: Fri, 19 Feb 1999 01:01:13 GMT   (13kb)
+
+Title: Killing spinors and Supersymmetry on AdS
+Authors: Eugene Shuster
+Comments: LaTeX 2e, 19 pages, no figures
+Report-no: MIT-CTP-2828
+Journal-ref: Nucl.Phys. B554 (1999) 198-214
+\\
+  In this paper we construct several supersymmetric theories, including SU(N)
+gauge theory, on AdS_5 background. We discuss the proper definition of the
+Killing equation for the symplectic Majorana spinors required in AdS_5
+supersymmetric theories. We find that the symplectic Killing spinor equation
+involves a matrix M in the USp(2N) indices whose role was not recognized
+previously. Using the correct Killing spinors we explicitly confirm that the
+particle masses in the constructed theories agree with the predictions of the
+AdS/CFT correspondence. Finally, we establish correct O(d-1,2) isometry
+transformations required to keep the Lagrangian invariant on AdS_d.
+\\

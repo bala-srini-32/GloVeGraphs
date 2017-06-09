@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9503190
+From: Ryuichi Nakayama <nakayama@theory.kek.jp>
+Date: Tue, 28 Mar 1995 15:23:46 +0900   (43kb)
+
+Title: Integrability of Schwinger-Dyson Equations in 2D Quantum Gravity 
+  and c < 1 Non-critical String Field Theory
+Authors: Ryuichi Nakayama and Toshiya Suzuki
+Comments: 15 pages, Latex, 4 figures
+Report-no: EPHOU-95002, HUPS-94-5
+Journal-ref: Phys. Lett. B354 (1995) 69
+\\
+  We investigate the integrability of the Schwinger-Dyson equations in $c = 1 -
+\frac{6}{m(m+1)}$ string field theory which were proposed by Ikehara et al as
+the continuum limit of the Schwinger-Dyson equations of the matrix chain model.
+We show the continuum Schwinger-Dyson equations generate a closed algebra. This
+algebra contains Virasoro algebra but does not coincide with $W_{\infty}$
+algebra. We include in the Schwinger-Dyson equations a new process of removing
+from the loop boundaries the operator ${\cal H}(\sigma)$ which locally changes
+the spin configuration. We also derive the string field Hamiltonian from the
+continuum Schwinger-Dyson equations. Its form is universal for all $c = 1 -
+\frac{6}{m(m+1)}$ string theories.
+\\

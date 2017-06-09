@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9807078
+From: Michael Duetsch <duetsch@mail.desy.de>
+Date: Fri, 10 Jul 1998 16:18:45 GMT   (33kb)
+Date (revised v2): Wed, 18 Nov 1998 15:04:52 GMT   (35kb)
+
+Title: A local (perturbative) construction of observables in gauge theories:
+  the example of QED
+Authors: M. Duetsch and K. Fredenhagen
+Comments: corrected typos, a few supplements, 34 pages, written by TEX, some
+  macros are at the beginning of the file. To appear in Commun. Math. Phys
+Report-no: DESY 98-090
+Journal-ref: Commun.Math.Phys. 203 (1999) 71-105
+\\
+  Interacting fields can be constructed as formal power series in the framework
+of causal perturbation theory. The local field algebra $\tilde {\cal F}({\cal
+O})$ is obtained without performing the adiabatic limit; the (usually bad)
+infrared behavior plays no role. To construct the observables in gauge theories
+we use the Kugo-Ojima formalism; we define the BRST-transformation $\tilde s$
+as a graded derivation on the algebra of interacting fields and use the
+implementation of $\tilde s$ by the Kugo-Ojima operator $Q_{\rm int}$. Since
+our treatment is local, the operator $Q_{\rm int}$ differs from the
+corresponding operator $Q$ of the free theory. We prove that the Hilbert space
+structure present in the free case is stable under perturbations. All
+assumptions are shown to be satisfied in QED.
+\\

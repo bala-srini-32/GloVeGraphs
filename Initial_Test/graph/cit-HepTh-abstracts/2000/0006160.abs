@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0006160
+From: Thomas Mehen <mehen@theory.caltech.edu>
+Date: Wed, 21 Jun 2000 21:20:01 GMT   (25kb)
+Date (revised v2): Tue, 1 Aug 2000 20:21:20 GMT   (25kb)
+
+Title: Quantum Field Theories With Compact Noncommutative Extra Dimensions
+Authors: Jaume Gomis, Thomas Mehen, Mark B. Wise (Caltech)
+Comments: 15 pages, 4 Postscript figures, uses harvmac,references added,
+  corrected typos in two equations, expanded discussion of gauge field zero
+  mode dynamics
+Journal-ref: JHEP 0008 (2000) 029
+\\
+  We study field theories on spaces with additional compact noncommutative
+dimensions. As an example, we study \phi^3 on R^{1,3}\times T^{2}_\theta using
+perturbation theory. The infrared divergences in the noncompact theory give
+rise to unusual dynamics for the mode of \phi which is constant along the
+torus. Correlation functions involving this mode vanish. Moreover, we show that
+the spectrum of Kaluza-Klein excitations can be very different from the
+analogous commuting theory. There is an additional contribution to the
+Kaluza-Klein mass formula that resembles the contribution of winding states in
+string theory. We also consider the effect of noncommutativity on the four
+dimensional Kaluza-Klein excitations of a six dimensional gauge field.
+\\

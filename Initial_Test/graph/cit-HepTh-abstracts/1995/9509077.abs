@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9509077
+From: avramidi@math-inf.uni-greifswald.d400.de
+Date: Thu, 14 Sep 1995 11:16:40 +0200   (17kb)
+
+Title: The heat kernel approach for calculating the effective action in quantum
+  field theory and quantum gravity
+Author: Ivan G. Avramidi (University of Greifswald)
+Comments: 21 pages, Plain TeX, 52 KB, no figures
+Report-no: University of Greifswald (June, 1994)
+\\
+  A short informal overview about recent progress in the calculation of the
+effective action in quantum gravity is given. I describe briefly the standard
+heat kernel approach to the calculation of the effective action and discuss the
+applicability of the Schwinger - De Witt asymptotic expansion in the case of
+strong background fields. I propose a new ansatz for the heat kernel that
+generalizes the Schwinger - De Witt one and is always valid. Then I discuss the
+general structure of the asymptotic expansion and put forward some approximate
+explicitly covariant methods for calculating the heat kernel, namely, the
+high-energy approximation as well as the low-energy one. In both cases the
+explicit formulae for the heat kernel are given.
+\\

@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9704069
+From: flad@qcd.th.u-psud.fr (Patricia Flad)
+Date: Wed, 9 Apr 1997 11:12:03 +0100   (9kb)
+
+Title: Generalized cohomologies and the physical subspace of the $SU(2)$ WZNW
+  model
+Authors: Michel Dubois-Violette, Ivan T. Todorov
+Comments: 12 pages, Latex2e, available at http://qcd.th.u-psud.fr
+Report-no: LPTHE-ORSAY 97-08, BLTP-JINR, Dubna E2-97-113
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+Journal-ref: Lett.Math.Phys. 42 (1997) 183-192
+\\
+  The zero modes of the monodromy extended SU(2) WZNW model give rise to a
+gauge theory with a finite dimensional state space. A generalized BRS operator
+$A$ such that $A^h=0 (h=k+2=3,4,...$ being the height of the current algebra
+representation) acts in a (2h-1)-dimensional indefinite metric space $H_I$ of
+quantum group invariant vectors. The generalized cohomologies $Ker A^n/ Im
+A^{h-n} (n=1,..., h-1)$ are 1-dimensional. Their direct sum spans the physical
+subquotient of $H_I$.
+\\

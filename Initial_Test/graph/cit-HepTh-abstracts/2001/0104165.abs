@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0104165
+From: brigitte@fteor5.fis.uc.pt
+Date: Thu, 19 Apr 2001 14:47:14 GMT   (6kb)
+Date (revised v2): Thu, 13 Sep 2001 11:07:43 GMT   (7kb)
+
+Title: Inverse Mass Expansion of the One-Loop Effective Action
+Authors: Alexander A. Osipov and Brigitte Hiller (Centro de Fisica Teorica,
+  Departamento de Fisica da Universidade de Coimbra, Coimbra, Portugal)
+Comments: 4 pages, RevTex style, no figures. Modified title, slight changes in
+  text, additional references, version published in Phys. Lett. B. Original
+  title: Generalized Proper-Time Expansion of the Effective Action
+Journal-ref: Phys. Lett. B515 (2001) 458-462
+\\
+  A method is described for the development of the one-loop effective action
+expansion as an asymptotic series in inverse powers of the fermion mass. The
+method is based on the Schwinger-DeWitt proper-time technique, which allows for
+loop particles with non-degenerate masses. The case with SU(2)xSU(2) as the
+symmetry group is considered. The obtained novel series generalizes the
+well-known Schwinger-De Witt inverse mass expansion for equal masses, and is
+chiral invariant at each order. We calculate the asymptotic coefficients up to
+fifth order and clarify their relationship with the standard Seeley-DeWitt
+coefficients.
+\\

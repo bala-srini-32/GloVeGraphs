@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0102117
+From: Romanenko <ar@ups.kiev.ua>
+Date: Mon, 19 Feb 2001 15:05:01 GMT   (15kb)
+
+Title: Quantum mechanics on Riemannian Manifold in Schwinger's Quantization
+  approach III
+Authors: N. Chepilko (Physics Institute of the Ukrainian Academy of Sciences),
+  A. Romanenko (Kiev Taras Shevchenko University)
+Comments: 21 pages, no figures, LaTeX
+Journal-ref: Eur.Phys.J. C21 (2001) 757-767
+\\
+  Using extended Schwinger's quantization approach quantum mechanics on a
+Riemannian manifold $M$ with a given action of an intransitive group of
+isometries is developed. It was shown that quantum mechanics can be determined
+unequivocally only on submanifolds of $M$ where $G$ acts simply transitively
+(orbits of $G$-action). The remaining part of degrees of freedom can be
+described unequivocally after introducing some additional assumptions. Being
+logically unmotivated, these assumptions are similar to canonical quantization
+postulates. Besides this ambiguity that has a geometrical nature there is
+undetermined gauge field of $\hbar$ (or higher) order, vanishing in the
+classical limit $\hbar\to 0$.
+\\

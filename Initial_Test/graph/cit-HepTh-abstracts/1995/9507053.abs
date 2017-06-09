@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9507053
+From: rmk@newton.ruph.cornell.edu
+Date: Sat, 8 Jul 1995 22:34:00 -0400   (19kb)
+
+Title: Massless Boundary Sine-Gordon at the Free Fermion Point: Correlation and
+  Partition Functions with Applications to Quantum Wires
+Author: Robert M. Konik
+Comments: 24 pages; Tex with harvmac macros; 4 Postscript figures, uuencoded
+Report-no: CLNS 95/1350
+\\
+  In this report we compute the boundary states (including the boundary
+entropy) for the boundary sine-Gordon theory. From the boundary states, we
+derive both correlation and partition functions. Through the partition
+function, we show that boundary sine-Gordon maps onto a doubled boundary Ising
+model. With the current-current correlators, we calculate for finite system
+size the ac-conductance of tunneling quantum wires with dimensionless free
+conductance 1/2 (or, alternatively interacting quantum Hall edges at filling
+fraction 1/2). In the dc limit, the results of C. Kane and M. Fisher, Phys.
+Rev. B46 (1992) 15233, are reproduced.
+\\

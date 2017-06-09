@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9902114
+From: Christoph Kopper <kopper@cpht.polytechnique.fr>
+Date: Tue, 16 Feb 1999 12:12:08 GMT   (39kb)
+Date (revised v2): Thu, 5 Aug 1999 15:23:33 GMT   (41kb)
+
+Title: Renormalization Proof for Spontaneously broken Yang-Mills Theory with
+  Flow Equations
+Authors: Ch. Kopper (Ecole Polytechnique), V.F. Mueller (Universitaet
+  Kaiserslautern)
+Comments: 46 pages, minor corrections, to appear in Commun.Math.Phys
+Journal-ref: Commun.Math.Phys. 209 (2000) 477-516
+\\
+  In this paper we present a renormalizability proof for spontaneously broken
+SU(2) gauge theory. It is based on Flow Equations, i.e. on the Wilson
+renormalization group adapted to perturbation theory. The power counting part
+of the proof, which is conceptually and technically simple, follows the same
+lines as that for any other renormalizable theory. The main difficulty stems
+from the fact that the regularization violates gauge invariance. We prove that
+there exists a class of renormalization conditions such that the renormalized
+Green functions satisfy the Slavnov-Taylor identities of SU(2) Yang-Mills
+theory on which the gauge invariance of the renormalized theory is based.
+\\

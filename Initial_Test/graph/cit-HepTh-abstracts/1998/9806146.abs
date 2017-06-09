@@ -1,0 +1,34 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9806146
+From: Chris Hull <C.M.Hull@qmw.ac.uk>
+Date: Wed, 17 Jun 1998 21:58:56 GMT   (43kb)
+Date (revised v2): Sun, 5 Jul 1998 09:44:49 GMT   (44kb)
+Date (revised v3): Tue, 11 Aug 1998 17:05:06 GMT   (44kb)
+
+Title: Timelike T-Duality, de Sitter Space, Large $N$ Gauge Theories and
+  Topological Field Theory
+Authors: C.M. Hull (QMW)
+Comments: 47 pages, 1 Postscript figure, uses phyzzx macro. Monor corrections
+Report-no: QMW-PH-98-28
+Journal-ref: JHEP 9807 (1998) 021
+\\
+  T-Duality on a timelike circle does not interchange IIA and IIB string
+theories, but takes the IIA theory to a type $IIB^*$ theory and the IIB theory
+to a type $IIA^*$ theory. The type $II^*$ theories admit E-branes, which are
+the images of the type II D-branes under timelike T-duality and correspond to
+imposing Dirichlet boundary conditions in time as well as some of the spatial
+directions. The effective action describing an E$n$-brane is the
+$n$-dimensional Euclidean super-Yang-Mills theory obtained by dimensionally
+reducing 9+1 dimensional super-Yang-Mills on $9-n$ spatial dimensions and one
+time dimension. The $IIB^*$ theory has a solution which is the product of
+5-dimensional de Sitter space and a 5-hyperboloid, and the E4-brane corresponds
+to anon-singular complete solution which interpolates between this solution and
+flat space. This leads to a duality between the large $N$ limit of the
+Euclidean 4-dimensional U(N) super-Yang-Mills theory and the $IIB^*$ string
+theory in de Sitter space, and both are invariant under the same de Sitter
+supergroup. This theory can be twisted to obtain a large $N$ topological gauge
+theory and its topological string theory dual. Flat space-time may be an
+unstable vacuum for the type $II^*$ theories, but they have supersymmetric
+cosmological solutions.
+\\

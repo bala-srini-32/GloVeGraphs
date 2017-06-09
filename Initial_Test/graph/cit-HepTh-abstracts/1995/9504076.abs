@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9504076
+From: Geoffrey Harris <geoff@yukawa.uchicago.edu>
+Date: Fri, 14 Apr 1995 12:32:06 -0500   (324kb)
+
+Title: Self Avoiding Surfaces in the 3D Ising Model
+Author: Vl.S Dotsenko, G. Harris, E. Marinari, E. Martinec, M. Picco & P.
+  Windey
+Comments: latex file, followed by 34 ps figures (no epsf)
+Report-no: PAR-LPTHE 9513, SU-HEP 4241-608, EFI 95-17
+Journal-ref: Nucl.Phys. B448 (1995) 577-620
+\\
+  We examine the geometrical and topological properties of surfaces surrounding
+clusters in the 3--$d$ Ising model. For geometrical clusters at the percolation
+temperature and Fortuin--Kasteleyn clusters at $T_c$, the number of surfaces of
+genus $g$ and area $A$ behaves as $A^{x(g)}e^{-\mu(g)A}$, with $x$
+approximately linear in $g$ and $\mu$ constant. These scaling laws are the same
+as those we obtain for simulations of 3--$d$ bond percolation. We observe that
+cross--sections of spin domain boundaries at $T_c$ decompose into a
+distribution $N(l)$ of loops of length $l$ that scales as $l^{-\tau}$ with
+$\tau \sim 2.2$. We also present some new numerical results for 2--$d$
+self-avoiding loops that we compare with analytic predictions. We address the
+prospects for a string--theoretic description of cluster boundaries.
+\\

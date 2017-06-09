@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0304150
+From: Simon F. Ross <s.f.ross@durham.ac.uk>
+Date: Thu, 17 Apr 2003 10:01:09 GMT   (26kb)
+Date (revised v2): Fri, 9 May 2003 08:29:11 GMT   (26kb)
+
+Title: Holography beyond the horizon and cosmic censorship
+Authors: Thomas S. Levi and Simon F. Ross
+Comments: 21 pages, 3 figures, v2: minor changes
+Report-no: UPR-1037-T, DCPT-03/19
+\\
+  We investigate the description of the region behind the event horizon in
+rotating black holes in the AdS/CFT correspondence, using the rotating BTZ
+black hole as a concrete example. We extend a technique introduced by Kraus,
+Ooguri and Shenker [hep-th/0212277], based on analytically continuing
+amplitudes defined in a Euclidean space, to include rotation. In the rotating
+case, boundary amplitudes again have two different bulk descriptions, involving
+either integration only over the regions outside the black holes' event
+horizon, or integration over this region and the region between the event
+horizon and the Cauchy horizon (inner horizon). We argue that generally, the
+holographic map will relate the field theory to the region bounded by the
+Cauchy horizons in spacetime. We also argue that these results suggest that the
+holographic description of black holes will satisfy strong cosmic censorship.
+\\

@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0006075
+From: zhoubr@sun.ihep.ac.cn
+Date: Sun, 11 Jun 2000 09:23:12 GMT   (7kb)
+Date (revised v2): Mon, 3 Sep 2001 10:33:30 GMT   (9kb)
+
+Title: Propagators for scalar bound states at finite temperature in a NJL model
+Authors: Bang-Rong Zhou (Graduate School, Academia Sinica, Beijing, China)
+Comments: 8 pages, Latex, no figues, the main conclusions are corrected:
+  identity of the propagators in the two formalisms of thermal field theory are
+  proven
+Report-no: AS-GS-TP-004(2000)
+Journal-ref: Commun.Theor.Phys. 37 (2002) 303-308
+\\
+  We reexamine physical causal propagators for scalar and pseudoscalar bound
+states at finite temperature in a chiral $U_L(1)\times U_R(1)$ NJL model,
+defined by four-point amputated functions subtracted through the gap equation,
+and prove that they are completely equivalent in the imaginary-time and
+real-time formalism by separating carefully the imaginary part of the
+zero-temperature loop integral. It is shown that the thermal transformation
+matrix of the matrix propagators for these bound states in the real-time
+formalism is precisely the one of the matrix propagator for an elementary
+scalar particle and this fact shows similarity of thermodynamic property
+between a composite and an elementary scalar particle. The retarded and
+advanced propagators for these bound states are also given explicitly from the
+imaginary-time formalism.
+\\

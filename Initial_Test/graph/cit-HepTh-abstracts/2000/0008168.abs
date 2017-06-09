@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0008168
+From: Rudra Prakash Malik <malik@BOSON.bose.res.in>
+Date: Tue, 22 Aug 2000 10:44:15 GMT   (25kb)
+Date (revised v2): Tue, 29 Aug 2000 07:33:49 GMT   (26kb)
+Date (revised v3): Tue, 13 Feb 2001 06:32:28 GMT   (28kb)
+Date (revised v4): Tue, 24 Apr 2001 15:24:00 GMT   (28kb)
+
+Title: $CP^{1}$ model with Hopf interaction: the quantum theory
+Authors: B. Chakraborty (Bose Centre, Calcutta) Subir Ghosh (ISI, Calcutta) R.
+  P. Malik (Bose Centre, Calcutta)
+Comments: LaTeX, 28 pages, no figures, typos corrected, journal ref. given
+Journal-ref: Nucl.Phys. B600 (2001) 351-377
+\\
+  The $CP^1$ model with Hopf interaction is quantised following the
+Batalin-Tyutin (BT) prescription. In this scheme, extra BT fields are
+introduced which allow for the existence of only commuting first-class
+constraints. Explicit expression for the quantum correction to the expectation
+value of the energy density and angular momentum in the physical sector of this
+model is derived. The result shows, in the particular operator ordering that we
+have chosen to work with, that the quantum effect has a divergent contribution
+of $ {\cal O} (\hbar^2)$ in the energy expectation value. But, interestingly
+the Hopf term, though topological in nature, can have a finite ${\cal O}
+(\hbar)$ contribution to energy density in the homotopically nontrivial
+topological sector. The angular momentum operator, however, is found to have no
+quantum correction, indicating the absence of any fractional spin even at this
+quantum level. Finally, the extended Lagrangian incorporating the BT auxiliary
+fields is computed in the conventional framework of BRST formalism exploiting
+Faddeev-Popov technique of path integral method.
+\\

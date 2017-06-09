@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9802180
+From: daniel.zwanziger@nyu.edu (Daniel Zwanziger)
+Date: Wed, 25 Feb 1998 19:39:59 GMT   (11kb)
+
+Title: Coulomb-gauge in QCD: renormalization and confinement
+Authors: Daniel Zwanziger
+Comments: 12 pages, 0 figures, Lecture given at the 1997 Yukawa International
+  Seminar at Kyoto, Japan
+Report-no: NYU-THPH-9807
+Journal-ref: Prog.Theor.Phys.Suppl. 131 (1998) 233-242
+\\
+  We review the Coulomb gauge in QCD and report some recent results. The
+minimal Coulomb gauge is defined and the fundamental modular region, a region
+without Gribov copies, is described. The Coulomb gauge action is expressed in
+terms of the dynamical degrees of freedom with an instantaneous Coulomb
+interaction, and its physical meaning is discussed. The local Coulomb gauge
+action with phase-space and ghost variables is derived, and its BRS-invariance
+and renormalizability are reviewed. It is shown that the instantanteous part
+$V(R)$ of $g^2 D_{00}(R, t)$, the time-time component of the gluon propagator,
+is a renormalization-group invariant $V(R) = f(R\Lambda_{QCD})/R$, and that the
+contribution of $V(R)$ to the Wilson loop exponentiates. It is conjectured that
+$V(R) \sim \kappa_{coul}R$ at large $R$, and that $\kappa_{coul}$ provides an
+order parameter for confinement of color even in the presence of dynamical
+quarks.
+\\

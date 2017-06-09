@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0210216
+From: Gregory Korchemsky <korchems@qcd.th.u-psud.fr>
+Date: Tue, 22 Oct 2002 14:35:26 GMT   (49kb)
+
+Title: Separation of variables for the quantum SL(2,R) spin chain
+Authors: S.E.Derkachov, G.P.Korchemsky and A.N.Manashov
+Comments: 26 pages, Latex style, 9 figures
+Report-no: LPT-Orsay-02-88, RUB-TP2-13/02
+Subj-class: High Energy Physics - Theory; Exactly Solvable and Integrable
+  Systems; Quantum Algebra
+\\
+  We construct representation of the Separated Variables (SoV) for the quantum
+SL(2,R) Heisenberg closed spin chain and obtain the integral representation for
+the eigenfunctions of the model. We calculate explicitly the Sklyanin measure
+defining the scalar product in the SoV representation and demonstrate that the
+language of Feynman diagrams is extremely useful in establishing various
+properties of the model. The kernel of the unitary transformation to the SoV
+representation is described by the same "pyramid diagram" as appeared before in
+the SoV representation for the SL(2,C) spin magnet. We argue that this kernel
+is given by the product of the Baxter Q-operators projected onto a special
+reference state.
+\\

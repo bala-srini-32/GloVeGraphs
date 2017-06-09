@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0211264
+From: Frederic P. Schuller <f.p.schuller@damtp.cam.ac.uk>
+Date: Wed, 27 Nov 2002 19:22:58 GMT   (16kb)
+
+Title: Quantum Field Theory on Pseudo-Complex Spacetime
+Authors: Frederic P. Schuller, Mattias N.R. Wohlfarth (DAMTP, Cambridge), and
+  Thomas W. Grimm (Hamburg)
+Comments: 20 pages, 1 diagram, REVTeX
+Report-no: DAMTP-2002-145
+\\
+  The pseudo-complex Poincare group encodes both a universal speed and a
+maximal acceleration, which can be viewed as the kinematics of Born-Infeld
+electrodynamics. The irreducible representations of this group are constructed,
+providing the particle spectrum of a relativistic quantum theory that also
+respects a maximal acceleration. One finds that each standard relativistic
+particle is associated with a 'pseudo'-partner of equal spin but generically
+different mass. These pseudo-partners act as Pauli-Villars regulators for the
+other member of the doublet, as is found from the explicit construction of
+quantum field theory on pseudo-complex spacetime. Conversely, a Pauli-Villars
+regularised quantum field theory on real spacetime possesses a field phase
+space with integrable pseudo-complex structure, which gives rise to a quantum
+field theory on pseudo-complex spacetime.
+  This equivalence between (i) maximal acceleration kinematics, (ii)
+pseudo-complex quantum field theory, and (iii) Pauli-Villars regularisation
+rigorously establishes a conjecture on the regularising property of the maximal
+acceleration principle in quantum field theory, by Nesterenko, Feoli, Lambiase
+and Scarpetta [Phys. Rev. D60, 065001].
+\\

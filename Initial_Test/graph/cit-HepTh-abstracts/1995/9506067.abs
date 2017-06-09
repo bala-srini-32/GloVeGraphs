@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9506067
+From: kapustin@theory.caltech.edu (Anton Kapustin)
+Date: Fri, 9 Jun 95 14:11:09 PDT   (16kb)
+Date (revised): Mon, 26 Jun 95 17:17:46 PDT
+
+Title: Surface excitations and surface energy of the antiferromagnetic XXZ
+  chain by the Bethe ansatz approach
+Authors: S.Skorik, A.Kapustin
+Comments: Revtex file with 2 figures. Complementary remarks added
+Report-no: USC-95-015, CALT-68-1998
+Journal-ref: J.Phys. A29 (1996) 1629-1638
+\\
+  We study boundary bound states using the Bethe ansatz formalism for the
+finite $XXZ$ $(\Delta>1)$ chain in a boundary magnetic field $h$. Boundary
+bound states are represented by the ``boundary strings'' similar to those
+described in the work of H.Saleur, S.Skorik. We find that for certain values of
+$h$ the ground state wave function contains boundary strings, and from this
+infer the existence of two ``critical'' fields in agreement with the results of
+Jimbo et al. An expression for the vacuum surface energy in the thermodynamic
+limit is derived and found to be an analytic function of $h$. We argue that
+boundary excitations appear only in pairs with ``bulk'' excitations or with
+boundary excitations at the other end of the chain. We mainly discuss the case
+where the magnetic fields at the left and the right boundaries are
+antiparallel, but we also comment on the case of the parallel fields. In the
+Ising ($\Delta=\infty$) and isotropic ($\Delta=1$) limits our results agree
+with those previously known.
+\\

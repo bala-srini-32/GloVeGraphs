@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0109142
+From: "Oleg Shvedov" <shvedov@qs.phys.msu.su>
+Date: Wed, 19 Sep 2001 17:16:26 GMT   (38kb)
+
+Title: Renormalization of Poincare Transformations in Hamiltonian Semiclassical
+  Field Theory
+Authors: Oleg Yu. Shvedov
+Comments: LaTeX, 40 pages; short version of hep-th/0103076
+Journal-ref: J.Math.Phys. 43 (2002) 1809-1843
+\\
+  Semiclassical Hamiltonian field theory is investigated from the axiomatic
+point of view. A notion of a semiclassical state is introduced. An "elementary"
+semiclassical state is specified by a set of classical field configuration and
+quantum state in this external field. "Composed" semiclassical states viewed as
+formal superpositions of "elementary" states are nontrivial only if the Maslov
+isotropic condition is satisfied; the inner product of "composed" semiclassical
+states is degenerate. The mathematical proof of Poincare invariance of
+semiclassical field theory is obtained for "elementary" and "composed"
+semiclassical states. The notion of semiclassical field is introduced; its
+Poincare invariance is also mathematically proved.
+\\

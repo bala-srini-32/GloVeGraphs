@@ -1,0 +1,35 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0207027
+From: Michael R. Douglas <mrd@mike.rutgers.edu>
+Date: Tue, 2 Jul 2002 18:24:40 GMT   (61kb)
+
+Title: Seiberg Duality for Quiver Gauge Theories
+Authors: David Berenstein and Michael R. Douglas
+Comments: 52 pages, 6 figures, Latex in JHEP format
+Report-no: RU-NHETC-2002-26
+\\
+  A popular way to study N=1 supersymmetric gauge theories is to realize them
+geometrically in string theory, as suspended brane constructions, D-branes
+wrapping cycles in Calabi-Yau manifolds, orbifolds, and otherwise. Among the
+applications of this idea are simple derivations and generalizations of Seiberg
+duality for the theories which can be so realized.
+  We abstract from these arguments the idea that Seiberg duality arises because
+a configuration of gauge theory can be realized as a bound state of a
+collection of branes in more than one way, and we show that different brane
+world-volume theories obtained this way have matching moduli spaces, the
+primary test of Seiberg duality.
+  Furthermore, we do this by defining ``brane'' and all the other ingredients
+of such arguments purely algebraically, for a very large class of N=1 quiver
+supersymmetric gauge theories, making physical intuitions about brane-antibrane
+systems and tachyon condensation precise using the tools of homological
+algebra.
+  These techniques allow us to compute the spectrum and superpotential of the
+dual theory from first principles, and to make contact with geometry and
+topological string theory when this is appropriate, but in general provide a
+more abstract notion of ``noncommutative geometry'' which is better suited to
+these problems. This makes contact with mathematical results in the
+representation theory of algebras; in this language, Seiberg duality is a
+tilting equivalence between the derived categories of the quiver algebras of
+the dual theories.
+\\

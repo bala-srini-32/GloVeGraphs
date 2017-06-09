@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9705006
+From: Felix Finster <felix@abel.MATH.HARVARD.EDU>
+Date: Fri, 2 May 1997 09:58:51 -0400 (EDT)   (20kb)
+Date (revised): Thu, 16 Oct 1997 21:12:38 GMT
+Date (revised): Thu, 3 Sep 1998 04:04:47 GMT
+Date (revised): Tue, 30 Mar 1999 15:47:01 GMT
+
+Title: Definition of the Dirac Sea in the Presence of External Fields
+Authors: Felix Finster
+Comments: 23 pages (published version)
+Subj-class: High Energy Physics - Theory; Functional Analysis; Mathematical
+  Physics
+Journal-ref: Adv.Theor.Math.Phys. 2 (1998) 963-985
+\\
+  It is shown that the Dirac sea can be uniquely defined for the Dirac equation
+with general interaction, if we impose a causality condition on the Dirac sea.
+We derive an explicit formula for the Dirac sea in terms of a power series in
+the bosonic potentials.
+  The construction is extended to systems of Dirac seas. If the system contains
+chiral fermions, the causality condition yields a restriction for the bosonic
+potentials.
+\\

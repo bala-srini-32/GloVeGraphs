@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9909065
+From: Michele Caselle <caselle@to.infn.it>
+Date: Fri, 10 Sep 1999 13:31:58 GMT   (34kb)
+Date (revised v2): Fri, 21 Apr 2000 10:37:47 GMT   (37kb)
+
+Title: Short distance behaviour of correlators in the 2D Ising model in a
+  magnetic field
+Authors: M. Caselle, P. Grinza and N. Magnoli
+Comments: 46 pages, 10 figures, final version to appear in Nucl. Phys. B
+Report-no: DFTT 41/99
+Subj-class: High Energy Physics - Theory; Statistical Mechanics
+Journal-ref: Nucl.Phys. B579 (2000) 635-666
+\\
+  We study the spin-spin, spin-energy and energy-energy correlators in the 2d
+Ising model perturbed by a magnetic field. We compare the results of a set of
+high precision Montecarlo simulations with the predictions of two different
+approximations: the Form Factor approach, based on the exact S-matrix
+description of the model, and a short distance perturbative expansion around
+the conformal point. Both methods give very good results, the first one
+performs better for distances larger than the correlation length, while the
+second one is more precise for distances smaller than the correlation length.
+In order to improve this agreement we extend the perturbative analysis to the
+second order in the derivatives of the OPE constants.
+\\

@@ -1,0 +1,32 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9701182
+From: antonsen, frank <antonsen@alf.nbi.dk>
+Date: Thu, 30 Jan 1997 06:26:26 MST   (26kb)
+
+Title: A New Non-Perturbative Approach to Quantum Theory in Curved Spacetime
+  Using the Wigner Function
+Authors: Frank Antonsen
+Comments: LaTeX2e (uses amssymb), 36 pages
+Journal-ref: Phys.Rev. D56 (1997) 920-935
+\\
+  A new non-perturbative approach to quantum theory in curved spacetime and to
+quantum gravity, based on a generalisation of the Wigner equation, is proposed.
+Our definition for a Wigner equation differs from what have otherwise been
+proposed, and does not imply any approximations. It is a completely exact
+equation, fully equivalent to the Heisenberg equations of motion. The approach
+makes different approximation schemes possible, e.g. it is possible to perform
+a systematic calculation of the quantum effects order by order. An iterative
+scheme for this is also proposed. The method is illustrated with some simple
+examples and applications. A calculation of the trace of the renormalised
+energy-momentum tensor is done, and the conformal anomaly is thereby related to
+non-conservation of a current in d=2 dimensions and a relationship between a
+vector and an axial-vector current in d=4 dimensions.
+  The corresponding ``hydrodynamic equations'' governing the evolution of
+macroscopic quantities are derived by taking appropriate moments. The emphasis
+is put on the spin-1/2 case, but it is shown how to extend to arbitrary spins.
+Gravity is treated first in the Palatini formalism, which is not very
+tractable, and then more successfully in the Ashtekar formalism, where the
+constraints lead to infinite order differential equations for the Wigner
+functions.
+\\

@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0201146
+From: Shinsuke Kawai <kawai@thphys.ox.ac.uk>
+Date: Fri, 18 Jan 2002 19:06:50 GMT   (91kb)
+Date (revised v2): Mon, 25 Feb 2002 12:28:41 GMT   (92kb)
+
+Title: Coulomb-gas approach for boundary conformal field theory
+Authors: Shinsuke Kawai
+Comments: 10 pages, 1 figure, revtex. Minor corrections, references added. To
+  appear in Nuclear Physics B
+Report-no: OUTP 0203P
+Subj-class: High Energy Physics - Theory; Statistical Mechanics
+Journal-ref: Nucl.Phys. B630 (2002) 203-221
+\\
+  We present a construction of boundary states based on the Coulomb-gas
+formalism of Dotsenko and Fateev. It is shown that Neumann-like coherent states
+on the charged bosonic Fock space provide a set of boundary states with
+consistent modular properties. Such coherent states are characterised by the
+boundary charges, which are related to the number of bulk screening operators
+through the charge neutrality condition. We illustrate this using the Ising
+model as an example, and show that all of its known consistent boundary states
+are reproduced in our formalism. This method applies to $c<1$ minimal conformal
+theories and provides an unified computational tool for studying boundary
+states of such theories.
+\\

@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9912280
+From: Sergey Fyodorovich Prokushkin <prok@Stanford.EDU>
+Date: Thu, 30 Dec 1999 22:01:00 GMT   (15kb)
+Date (revised v2): Fri, 3 Mar 2000 22:18:11 GMT   (15kb)
+
+Title: Coordinate-Free Action for AdS3 Higher-Spin-Matter Systems
+Authors: Sergey Prokushkin (1), Arkady Segal (2), and Mikhail Vasiliev (2) ((1)
+  Stanford University, (2) Lebedev Physics Institute)
+Comments: LaTeX, 14 pages, no figures; revised version to be published in
+  Phys.Lett.B
+Report-no: FIAN/TD/18-99
+Journal-ref: Phys.Lett. B478 (2000) 333-342
+\\
+  A coordinate-free action principle for the N=2 supersymmetric model of spin 0
+and spin 1/2 matter fields interacting via Chern-Simons higher spin gauge
+fields in AdS3 is formulated in terms of star-product algebra of two
+oscillators. Although describing proper relativistic dynamics the action does
+not contain space-time coordinates. It is given by a supertrace of a
+forth-order polynomial in the 3d higher spin superalgebra. The theory admits a
+free parameter characterizing the inequivalent vacua associated with the
+parameter of mass m of the matter fields. For the case of the massless matter,
+the model has a form of the noncommutative 2d Yang-Mills theory with some
+infinite-dimensional gauge group. The limit m\to\infty corresponds to the
+SU(\infty) 2d Yang-Mills theory.
+\\

@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0106138
+From: Armen Nersessian <nerses@thsun1.jinr.ru>
+Date: Fri, 15 Jun 2001 15:25:50 GMT   (6kb)
+Date (revised v2): Wed, 25 Jul 2001 13:07:16 GMT   (7kb)
+Date (revised v3): Fri, 27 Jul 2001 14:36:12 GMT   (7kb)
+Date (revised v4): Sun, 29 Jul 2001 20:45:22 GMT   (8kb)
+
+Title: Two phases of the noncommutative quantum mechanics
+Authors: Stefano Bellucci, Armen Nersessian and Corneliu Sochichiu
+Comments: 4 pages, presentation still improved, mistakes corrected, new
+  sections added
+Journal-ref: Phys.Lett. B522 (2001) 345-349
+\\
+  We consider quantum mechanics on the noncommutative plane in the presence of
+magnetic field $B$. We show, that the model has two essentially different
+phases separated by the point $B\theta=c\hbar^2/e$, where $\theta$ is a
+parameter of noncommutativity. In this point the system reduces to
+exactly-solvable one-dimensional system. When $\kappa=1-eB\theta/c\hbar^2<0$
+there is a finite number of states corresponding to the given value of the
+angular momentum. In another phase, i.e. when $\kappa>0$ the number of states
+is infinite. The perturbative spectrum near the critical point $\kappa=0$ is
+computed.
+\\

@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0003031
+From: Robert Demello Koch <robert@sigma.phys.wits.ac.za>
+Date: Mon, 6 Mar 2000 02:37:35 GMT   (11kb)
+Date (revised v2): Tue, 14 Mar 2000 05:27:32 GMT   (11kb)
+
+Title: Lumps and P-branes in Open String Field Theory
+Authors: R. de Mello Koch, A. Jevicki, M. Mihailescu and R. Tatar
+Comments: 11 pages, 1 figure, 1 table; v2: small typos corrected
+Report-no: BROWN-HET-1216
+Journal-ref: Phys.Lett. B482 (2000) 249-254
+\\
+  We describe numerical methods for constructing lump solutions in open string
+field theory. According to Sen, these lumps represent lower dimensional
+Dp-Branes and numerical evaluation of their energy can be compared with the
+expected value for the tension. We take particular care of all higher
+derivative terms inherent in Witten's version of open string field theory. The
+importance of these terms for off shell phenomena is argued in the text.
+Detailed numerical calculations done for the case of general $p$ brane show
+very good agreement with Sen's conjectured value. This gives credence to the
+conjecture itself and establishes further the usefulness of Witten's version of
+SFT .
+\\

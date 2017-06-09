@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9707185
+From: Markus Quandt <quandt@pthp8.tphys.physik.uni-tuebingen.de>
+Date: Tue, 22 Jul 97 16:54:41 MESZ   (39kb)
+Date (revised): Mon, 2 Feb 1998 14:52:18 GMT
+
+Title: Field Strength Formulation of SU(2) Yang-Mills Theory in the Maximal
+  Abelian Gauge: Perturbation Theory
+Authors: M. Quandt, H. Reinhardt (Tuebingen U.)
+Comments: 29 pages LaTeX, 6 postscript figures. Version to be published in Int.
+  J. Mod. Phys. A
+Report-no: UNITU-THEP-13-1997
+Journal-ref: Int.J.Mod.Phys. A13 (1998) 4049-4076
+\\
+  We present a reformulation of SU(2) Yang-Mills theory in the maximal Abelian
+gauge, where the non-Abelian gauge field components are exactly integrated out
+at the expense of a new Abelian tensor field. The latter can be treated in a
+semiclassical approximation and the corresponding saddle point equation is
+derived. Besides the non-trivial solutions, which are presumably related to
+non-perturbative interactions for the Abelian gauge field, the equation of
+motion for the tensor fields allows for a trivial solution as well. We show
+that the semiclassical expansion around this trivial solution is equivalent to
+the standard perturbation theory. In particular, we calculate the one-loop
+$\beta$-function for the running coupling constant in this approach and
+reproduce the standard result.
+\\

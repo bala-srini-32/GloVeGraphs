@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9911040
+From: Jacques Distler <distler@golem.ph.utexas.edu>
+Date: Fri, 5 Nov 1999 22:44:44 GMT   (34kb)
+Date (revised v2): Fri, 5 May 2000 16:12:33 GMT   (34kb)
+
+Title: Chiral Symmetry Breaking in the AdS/CFT Correspondence
+Authors: Jacques Distler and Frederic Zamora
+Comments: 21 pages, 1 figure. LaTeX2e, using utarticle.cls (included). Several
+  clarifications and added references. This is the published version, to appear
+  in JHEP
+Report-no: UTTG--07--99
+Journal-ref: JHEP 0005 (2000) 005
+\\
+  We study the SU(3)-invariant relevant deformation of D=4 N=4 SU(N) gauge
+theory at large N using the AdS/CFT correspondence. At low energies, we obtain
+a nonsupersymmetric gauge theory with three left-handed quarks in the adjoint
+of SU(N). In terms of the five dimensional gauged supergravity, there is an
+unstable critical point in the scalar potential for fluctuations of some fields
+in a nontrivial representation of the symmetry group SU(3). On the field theory
+side, this corresponds to dynamical breaking of the SU(3) chiral symmetry down
+to SO(3). We compute the condensate of the quark bilinear and the two-point
+correlation function of the spontaneously broken currents from supergravity and
+find a nonzero `pion' decay constant, f_pi.
+\\

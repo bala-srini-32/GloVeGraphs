@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0303003
+From: Wade Naylor <wnaylor@vega.ess.sci.osaka-u.ac.jp>
+Date: Sun, 2 Mar 2003 05:07:59 GMT   (6kb)
+Date (revised v2): Sun, 13 Apr 2003 06:11:01 GMT   (6kb)
+
+Title: Fermion Casimir energy for a de Sitter brane in AdS(5)
+Authors: Ian G. Moss, Wenceslao Santiago-Germ\'{a}n (Newcastle University),
+  Wade Naylor, Misao Sasaki (Osaka U., Dept. Earth & Space Sci.)
+Comments: Talk given at the 12th Workshop on General Relativity and
+  Gravitation, University of Tokyo, Tokyo, Japan, 25-28 Nov 2002
+Report-no: OU-TAP-196
+\\
+  Based on some recent work of the authors, we focus on the relationship
+between the Casimir energy of a Majorana spinor field for a Euclidean Einstein
+universe $S^4\times R$ and for a Euclidean de Sitter brane ($S^4$) embedded in
+AdS(5). This is for a conformally coupled massless field. Interestingly, the
+one brane effective potential is zero and the results are equivalent, as for
+the scalar case, when evaluated on the conformally related cylinder. However,
+using the actual metric this equivalence no longer holds because a non-trivial
+contribution from the path integral measure (known as the cocycle function) is
+non-zero.
+\\

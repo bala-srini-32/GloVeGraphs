@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9901029
+From: Sergey Paston <sergey.paston@pobox.spbu.ru>
+Date: Sat, 9 Jan 1999 18:06:47 GMT   (59kb)
+
+Title: Quantum Field Theory in Light-Front coordinates
+Authors: V. A. Franke, Yu. V. Novozhilov, S. A. Paston, E. V. Prokhvatilov
+Comments: LaTeX2.09, 45 pages, 7 figures, Published in the book: "Quantum
+  Theory in honour of Vladimir A. Fock", Part 1. Unesco, St. Petersburg
+  University, Euro-Asian Physical Society, 1998
+Journal-ref: In the book: "Quantum Theory in honour of Vladimir A. Fock", Part
+  1., 1998. P. 38-97
+\\
+  Canonical formulation of quantum field theory on the Light Front (LF) is
+reviewed. The problem of constructing the LF Hamiltonian which gives the theory
+equivalent to original Lorentz and gauge invariant one is considered. We
+describe possible ways of solving this problem: (a) the limiting transition
+from the equal-time Hamiltonian in a fastly moving Lorentz frame to LF
+Hamiltonian, (b) the direct comparison of LF perturbation theory in coupling
+constant and usual Lorentz-covariant Feynman perturbation theory. Gauge
+invariant regularization of LF Hamiltonian via introducing a lattice in
+transverse coordinates and imposing periodic boundary conditions in LF
+coordinate $x^-$ for gauge fields on the interval $|x^-|< L$ is considered. We
+find that LF canonical formalism for this regularization avoid usual most
+complicated constraints connecting zero and nonzero modes of gauge fields.
+\\

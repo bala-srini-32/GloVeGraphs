@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0206035
+From: Carl E. Carlson <carlson@physics.wm.edu>
+Date: Tue, 4 Jun 2002 23:25:00 GMT   (151kb)
+Date (revised v2): Fri, 7 Jun 2002 22:24:22 GMT   (152kb)
+Date (revised v3): Tue, 13 Aug 2002 21:25:01 GMT   (67kb)
+
+Title: Noncommutative Gauge Theory without Lorentz Violation
+Authors: Carl E. Carlson, Christopher D. Carone, and Nahum Zobin (William and
+  Mary)
+Comments: 19 pages, 3 figures, revtex 4 (Version to appear in PRD)
+Report-no: WM-02-106
+Journal-ref: Phys.Rev. D66 (2002) 075001
+\\
+  The most popular noncommutative field theories are characterized by a matrix
+parameter theta^(mu,nu) that violates Lorentz invariance. We consider the
+simplest algebra in which the theta-parameter is promoted to an operator and
+Lorentz invariance is preserved. This algebra arises through the contraction of
+a larger one for which explicit representations are already known. We formulate
+a star product and construct the gauge-invariant Lagrangian for
+Lorentz-conserving noncommutative QED. Three-photon vertices are absent in the
+theory, while a four-photon coupling exists and leads to a distinctive
+phenomenology.
+\\

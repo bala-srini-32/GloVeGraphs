@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9703183
+From: Alexander Belopolsky <belopols@augustus0.physics.unc.edu>
+Date: Tue, 25 Mar 1997 21:24:44 MST   (41kb)
+Date (revised): Mon, 31 Mar 1997 23:12:39 MST
+Date (revised): Sat, 7 Jun 1997 11:43:06 MDT
+
+Title: New Geometrical Approach to Superstrings
+Authors: Alexander Belopolsky
+Comments: 38 pages, 1 figure. More references added. Analysis of the dilaton
+  theorem expanded
+Report-no: IFP/103/UNC
+Subj-class: High Energy Physics - Theory; Mathematical Physics; Algebraic
+  Geometry
+\\
+  We present a new geometrical approach to superstrings based on the
+geometrical theory of integration on supermanifolds. This approach provides an
+effective way to calculate multi-loop superstring amplitudes for arbitrary
+backgrounds. It makes possible to calculate amplitudes for the physical states
+defined as BRST cohomology classes using arbitrary representatives. Since the
+new formalism does not rely on the presence of primary representatives for the
+physical states it is particulary valuable for analyzing the discrete states
+for which no primary representatives are available. We show that the discrete
+states provide information about symmetries of the background including odd
+symmetries which mix Bose and Fermi states. The dilaton is an example of a
+non-discrete state which cannot be covariantly represented by a primary vertex.
+The new formalism allows to prove the dilaton theorem by a direct calculation.
+\\

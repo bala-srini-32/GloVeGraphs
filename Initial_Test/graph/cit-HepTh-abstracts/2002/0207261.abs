@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0207261
+From: Wen-Fa Lu <wenfalu@phya.yonsei.ac.kr>
+Date: Tue, 30 Jul 2002 02:34:50 GMT   (24kb)
+Date (revised v2): Wed, 14 Aug 2002 15:37:39 GMT   (25kb)
+
+Title: Sine-Gordon Effective Potential beyond Gaussian Approximation
+Authors: Wen-Fa Lu, Chul Koo Kim and Kyun Nahm
+Comments: 9 pages and 4 EPS figures, the revised version with literal changes
+  and minor corrections to typo errors in equations
+Journal-ref: Phys.Lett. B546 (2002) 177-188
+\\
+  Combining an optimized expansion scheme in the spirit of the background field
+method with the Coleman's normal-ordering renormalization prescription, we
+calculate the effective potential of sine-Gordon field theory beyond the
+Gaussian approximation. The first-order result is just the sine-Gordon Gaussian
+effective potential (GEP). For the range of the coupling beta^2 <= 3.4 pi (an
+approximate value), a calculation with Mathematica indicates that the result up
+to the second order is finite without any further renormalization procedure and
+tends to improve the GEP more substantially while beta^2 increases from zero.
+\\

@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9701112
+From: Michael Trunk <trunk@phyv3.physik.uni-freiburg.de>
+Date: Wed, 22 Jan 97 15:43:26 +0100   (19kb)
+Date (revised): Thu, 15 Jul 1999 16:00:26 GMT
+
+Title: Algebraic Constraint Quantization and the Pseudo-Rigid Body
+Author: Michael Trunk (University of Freiburg, Germany)
+Comments: 23 pages, Latex2.09; contains a new section with a self-contained
+  presentation of the algebraic constraint quantization scheme
+Report-no: THEP 96/17
+\\
+  The pseudo--rigid body represents an example of a constrained system with a
+nonunimodular gauge group. This system is treated along the guidelines of an
+algebraic constraint quantization scheme which focusses on observable
+quantities, translating the vanishing of the constraints into representation
+conditions on the algebra of observables. The constraint which is responsible
+for the nonunimodularity of the gauge group is shown not to contribute to the
+observable content of the constraints, i.e., not to impose any restrictions on
+the construction of the quantum theory of the system. The application of the
+algebraic constraint quantization scheme yields a unique quantization of the
+physical degrees of freedom, which are shown to form a realization of the
+so-called CM(N) model of collective motions.
+\\

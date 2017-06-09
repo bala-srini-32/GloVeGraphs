@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0201177
+From: Shunsuke Teraguchi <teraguch@gauge.scphys.kyoto-u.ac.jp>
+Date: Wed, 23 Jan 2002 09:41:13 GMT   (23kb)
+Date (revised v2): Fri, 8 Feb 2002 08:38:02 GMT   (23kb)
+Date (revised v3): Wed, 27 Mar 2002 05:27:26 GMT   (23kb)
+
+Title: Exact Results on Twist Anomaly
+Authors: Hiroyuki Hata, Sanefumi Moriyama and Shunsuke Teraguchi (Kyoto Univ)
+Comments: 26 pages, one figure, LaTeX2e, v3: minor corrections
+Report-no: KUNS-1753
+Journal-ref: JHEP 0202 (2002) 036
+\\
+  In vacuum string field theory, the sliver state solution has been proposed as
+a candidate of a D-brane configuration. Physical observables associated with
+this solution, such as its energy density and the tachyon mass, are written in
+terms of the Neumann coefficients. These observables, though vanish naively due
+to twist symmetry, acquire non-vanishing values arising from their singular
+behavior. Therefore, this phenomenon is called twist anomaly. In this paper we
+present an analytical derivation of these physical observables with the help of
+the star algebra spectroscopy. We also identify in our derivation the origin of
+the twist anomaly in the finite-size matrix regularization.
+\\

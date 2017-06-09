@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9808070
+From: Emil Mottola <emil@pion.lanl.gov>
+Date: Wed, 12 Aug 1998 20:29:24 GMT   (32kb)
+
+Title: Fractal Geometry of Quantum Spacetime at Large Scales
+Authors: Ignatios Antoniadis, Pawel O. Mazur, and Emil Mottola
+Comments: LaTeX 2.09 File, using RevTex and epsf inputs with 2 figures
+Report-no: LA-UR-98-3410, CPHT-S638.0898
+Journal-ref: Phys.Lett. B444 (1998) 284-292
+\\
+  We compute the intrinsic Hausdorff dimension of spacetime at the infrared
+fixed point of the quantum conformal factor in 4D gravity. The fractal
+dimension is defined by the appropriate covariant diffusion equation in four
+dimensions and is determined by the coefficient of the Gauss-Bonnet term in the
+trace anomaly to be generally greater than 4. In addition to being testable in
+simplicial simulations, this scaling behavior suggests a physical mechanism for
+the screening of the effective cosmological `constant' and inverse Newtonian
+coupling at very large distance scales, which has implications for the dark
+matter content and large scale structure of the universe.
+\\

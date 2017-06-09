@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0302203
+From: Ichiro Oda <ioda@edogawa-u.ac.jp>
+Date: Tue, 25 Feb 2003 23:31:55 GMT   (14kb)
+Date (revised v2): Fri, 28 Feb 2003 07:23:54 GMT   (14kb)
+
+Title: Covariant Matrix Model of Superparticle in the Pure Spinor Formalism
+Authors: Ichiro Oda
+Comments: 13 pages, no figures, two references added
+Report-no: EDO-EP-45
+\\
+  On the basis of the Berkovits pure spinor formalism of covariant quantization
+of supermembrane, we attempt to construct a M(atrix) theory which is covariant
+under $SO(1,10)$ Lorentz group. We first construct a bosonic M(atrix) theory by
+starting with the first-order formalism of bosonic membrane, which precisely
+gives us a bosonic sector of M(atrix) theory by BFSS. Next we generalize this
+method to the construction of M(atrix) theory of supermembranes. However, it
+seems to be difficult to obtain a covariant and supersymmetric M(atrix) theory
+from the Berkovits pure spinor formalism of supermembrane because of the matrix
+character of the BRST symmetry. Instead, in this paper, we construct a
+supersymmetric and covariant matrix model of 11D superparticle, which
+corresponds to a particle limit of covariant M(atrix) theory. By an explicit
+calculation, we show that the one-loop effective potential is trivial, thereby
+implying that this matrix model is a free theory at least at the one-loop
+level.
+\\

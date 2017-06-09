@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9705152
+From: Maru Nobuhito <maru@eken.phys.nagoya-u.ac.jp>
+Date: Wed, 21 May 1997 14:28:26 +0900 (JST)   (14kb)
+
+Title: Lattice Formulation of Supersymmetric Yang-Mills Theories without
+  Fine-Tuning
+Authors: Nobuhito Maru and Jun Nishimura
+Comments: 20pages, plain TeX, no figures
+Report-no: DPNU-97-25
+Journal-ref: Int.J.Mod.Phys. A13 (1998) 2841-2856
+\\
+  We present a lattice formulation which gives super Yang-Mills theories in any
+dimensions with simple supersymmetry as well as extended supersymmetry in the
+continuum limit without fine-tuning. We first formulate super Yang-Mills
+theories with simple supersymmetry in 3,4,6,10 dimensions, incorporating the
+gluino on the lattice using the overlap formalism. In 4D, exact chiral symmetry
+forbids gluino mass, which ensures that the continuum limit is supersymmetric
+without fine-tuning. In 3D, exact parity invariance plays the same role. 6D and
+10D thories being anomalous, we formulate them as anomalous chiral gauge
+theories as they are. Dimensional reduction within lattice formulation is then
+applied to the theories in 3,4,6 and 10D to obtain super Yang-Mills theories in
+arbitrary dimensions with either simple or extended supersymmetry.
+\\

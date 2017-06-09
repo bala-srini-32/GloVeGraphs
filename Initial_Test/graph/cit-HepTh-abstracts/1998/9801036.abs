@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9801036
+From: Yuji Ohta <ota@kurims.kyoto-u.ac.jp>
+Date: Thu, 8 Jan 1998 05:39:29 GMT   (26kb)
+Date (revised v2): Mon, 19 Jan 1998 09:32:42 GMT   (26kb)
+
+Title: Picard-Fuchs Equation and Prepotential of Five Dimensional SUSY Gauge
+  Theory Compactified on a Circle
+Authors: Hiroaki Kanno (Dept. Math., Hiroshima Univ.) and Yuji Ohta (Res. Inst.
+  Math. Sci., Kyoto Univ.)
+Comments: revised version, appendix E is enlarged, references are added, latex,
+  32 pages, 1 figure, documentstyle[12pt,eclepsf,a4]{article}
+Journal-ref: Nucl.Phys. B530 (1998) 73-98
+\\
+  Five dimensional supersymmetric gauge theory compactified on a circle defines
+an effective N=2 supersymmetric theory for massless fields in four dimensions.
+Based on the relativistic Toda chain Hamiltonian proposed by Nekrasov, we
+derive the Picard-Fuchs equation on the moduli space of the Coulomb branch of
+SU(2) gauge theory. Our Picard-Fuchs equation agrees with those from other
+approaches; the spectral curve of XXZ spin chain and supersymmetric cycle in
+compactified M theory. By making use of a relation to the Picard-Fuchs equation
+of SU(2) Seiberg-Witten theory, we obtain the prepotential and the effective
+coupling constant that incorporate both a perturbative effect of Kaluza-Klein
+modes and a non-perturbative one of four dimensional instantons. In the weak
+coupling regime we check that the prepotential exhibits a consistent behavior
+in large and small radius limits of the circle.
+\\

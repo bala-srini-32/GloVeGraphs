@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9903005
+From: Edward Witten <witten@ias.edu>
+Date: Sat, 27 Feb 1999 19:35:22 GMT   (26kb)
+Date (revised v2): Sun, 11 Apr 1999 19:26:33 GMT   (27kb)
+
+Title: Supersymmetric Index Of Three-Dimensional Gauge Theory
+Authors: Edward Witten
+Comments: 29 pp. References added
+\\
+  In N=1 super Yang-Mills theory in three spacetime dimensions, with a simple
+gauge group $G$ and a Chern-Simons interaction of level $k$, the supersymmetric
+index $\Tr (-1)^F$ can be computed by making a relation to a pure Chern-Simons
+theory or microscopically by an explicit Born-Oppenheimer calculation on a
+two-torus. The result shows that supersymmetry is unbroken if $|k|\geq h/2$
+(with $h$ the dual Coxeter number of $G$) and suggests that dynamical
+supersymmetry breaking occurs for $|k|<h/2$. The theories with large $|k|$ are
+massive gauge theories whose universality class is not fully described by the
+standard criteria.
+\\

@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9808163
+From: Carmen Molina-Paris <carmen@t6-serv.lanl.gov>
+Date: Thu, 27 Aug 1998 00:57:21 GMT   (6kb)
+
+Title: Quantum Gravity Without Ghosts
+Authors: Bryce DeWitt and Carmen Molina-Paris
+Comments: This is a paper submitted to the Gravity Research Foundation Essay
+  Competition of 1998 that received Honorable Mention
+Report-no: LAUR# 98-1014
+Journal-ref: Mod.Phys.Lett. A13 (1998) 2475-2478
+\\
+  An outline is given of a recently discovered technique for building a quantum
+effective action that is completely independent of gauge-fixing choices and
+ghost determinants. One makes maximum use of the geometry and fibre-bundle
+structure of the space of field histories and introduces a set of nonlocal
+composite fields: the geodesic normal fields based on Vilkovisky's connection
+on the space of histories. The closed-time-path formalism of Schwinger, Bakshi,
+Mahantappa {\it et al} can be adapted for these fields, and a set of
+gauge-fixing-independent dynamical equations for their expectation values
+(starting from given initial conditions) can be computed. An obvious
+application for such equations is to the study of the formation and radiative
+decay of black holes, and to other back-reaction problems.
+\\

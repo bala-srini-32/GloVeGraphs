@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0201101
+From: "P.M.Sutcliffe" <p.m.sutcliffe@ukc.ac.uk>
+Date: Tue, 15 Jan 2002 10:04:48 GMT   (391kb)
+Date (revised v2): Wed, 2 Oct 2002 11:58:38 GMT   (391kb)
+
+Title: Central Configurations in Three Dimensions
+Authors: Richard Battye, Gary Gibbons and Paul Sutcliffe
+Comments: 37 pages, 18 figures, 3 as colour jpg files. References added.
+  Version to appear in Proceedings of the Royal Society
+Subj-class: High Energy Physics - Theory; Mathematical Physics
+\\
+  We consider the equilibria of point particles under the action of two body
+central forces in which there are both repulsive and attractive interactions,
+often known as central configurations, with diverse applications in physics, in
+particular as homothetic time-dependent solutions to Newton's equations of
+motion and as stationary states in the One Component Plasma model.
+Concentrating mainly on the case of an inverse square law balanced by a linear
+force, we compute numerically equilibria and their statistical properties. When
+all the masses (or charges) of the particles are equal, for small numbers of
+points they are regular convex deltahedra, which on increasing the number of
+points give way to a multi-shell structure. In the limit of a large number of
+points we argue using an analytic model that they form a homogeneous spherical
+distribution of points, whose spatial distribution appears, from our
+preliminary investigation, to be similar to that of a Bernal hard-sphere
+liquid.
+\\

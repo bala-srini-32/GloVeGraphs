@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9608077
+From: Pierre Ramond <ramond@phys.ufl.edu>
+Date: Mon, 12 Aug 1996 17:18:20 -0400 (EDT)   (13kb)
+
+Title: Superalgebras in $N=1$ Gauge Theories
+Author: P. Ramond
+Comments: Submitted to Phys. Letters B, 12 pages,tex, macros included
+Report-no: UFIFT-HEP-96-19
+Journal-ref: Phys.Lett. B390 (1997) 179-184
+\\
+  $N=1$ supersymmetric gauge theories with global flavor symmetries contain a
+gauge invariant W-superalgebra which acts on its moduli space of gauge
+invariants. With adjoint matter, this superalgebra reduces to a graded Lie
+algebra. When the gauge group is $SO(n_c)$, with vector matter, it is a
+W-algebra, and the primary invariants form one of its representation. The same
+superalgebra exists in the dual theory, but its construction in terms of the
+dual fields suggests that duality may be understood in terms of a charge
+conjugation within the algebra. We extend the analysis to the gauge group
+$E_6$.
+\\

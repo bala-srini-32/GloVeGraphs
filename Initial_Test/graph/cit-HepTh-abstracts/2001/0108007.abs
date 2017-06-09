@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0108007
+From: Valentin Khoze <valya.khoze@durham.ac.uk>
+Date: Wed, 1 Aug 2001 22:21:10 GMT   (30kb)
+Date (revised v2): Wed, 8 Aug 2001 21:26:11 GMT   (31kb)
+Date (revised v3): Mon, 1 Oct 2001 17:50:00 GMT   (30kb)
+
+Title: Notes on Noncommutative Instantons
+Authors: Chong-Sun Chu, Valentin V. Khoze and Gabriele Travaglini
+Comments: Regular instanton solutions are now explicitly constructed also for
+  the case of space-space noncommutativity
+Journal-ref: Nucl.Phys. B621 (2002) 101-130
+\\
+  We study in detail the ADHM construction of U(N) instantons on noncommutative
+Euclidean space-time R_{NC}^4 and noncommutative space R_{NC}^2 x R^2. We point
+out that the completeness condition in the ADHM construction could be
+invalidated in certain circumstances. When this happens, regular instanton
+configuration may not exist even if the ADHM constraints are satisfied. Some of
+the existing solutions in the literature indeed violate the completeness
+condition and hence are not correct. We present alternative solutions for these
+cases. In particular, we show for the first time how to construct explicitly
+regular U(N) instanton solutions on R_{NC}^4 and on R_{NC}^2 x R^2. We also
+give a simple general argument based on the Corrigan's identity that the
+topological charge of noncommutative regular instantons is always an integer.
+\\

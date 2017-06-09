@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0107133
+From: "L.L. Salcedo" <salcedo@ugr.es>
+Date: Mon, 16 Jul 2001 12:15:59 GMT   (10kb)
+Date (revised v2): Wed, 26 Sep 2001 09:08:54 GMT   (10kb)
+
+Title: Generalized heat kernel coefficients
+Authors: L.L. Salcedo
+Comments: 6 pages, REVTEX, no figures. Minor corrections
+Report-no: UG-DFM-1-2001
+Journal-ref: Eur.Phys.J.direct C3 (2001) 14
+\\
+  Following Osipov and Hiller, a generalized heat kernel expansion is
+considered for the effective action of bosonic operators. In this
+generalization, the standard heat kernel expansion, which counts inverse powers
+of a c-number mass parameter, is extended by allowing the mass to be a matrix
+in flavor space. We show that the generalized heat kernel coefficients can be
+related to the standard ones in a simple way. This holds with or without trace
+and integration over spacetime, to all orders and for general flavor spaces.
+Gauge invariance is manifest.
+\\

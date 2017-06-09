@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9709136
+From: picco@lpthe.jussieu.fr (Marco PICCO)
+Date: Thu, 18 Sep 1997 22:09:24 +0200 (MET DST)   (31kb)
+
+Title: Random Bond Potts Model: the Test of the Replica Symmetry Breaking
+Authors: Viktor Dotsenko, Vladimir Dotsenko and Marco Picco
+Comments: 50 pages, Latex, 2 eps figures
+Report-no: PAR--LPTHE 97-28
+Journal-ref: Nucl.Phys. B520 (1998) 633-674
+\\
+  Averaged spin-spin correlation function squared
+$\overline{<\sigma(0)\sigma(R)>^{2}}$ is calculated for the ferromagnetic
+random bond Potts model. The technique being used is the renormalization group
+plus conformal field theory. The results are of the $\epsilon$ - expansion type
+fixed point calculation, $\epsilon$ being the deviation of the central charge
+(or the number of components) of the Potts model from the Ising model value.
+Calculations are done both for the replica symmetric and the replica symmetry
+broken fixed points. The results obtained allow for the numerical simulation
+tests to decide between the two different criticalities of the random bond
+Potts model.
+\\

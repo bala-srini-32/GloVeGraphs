@@ -1,0 +1,32 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0108075
+From: Eva Silverstein <evas@slac.stanford.edu>
+Date: Fri, 10 Aug 2001 22:12:22 GMT   (75kb)
+Date (revised v2): Sun, 2 Sep 2001 19:47:34 GMT   (76kb)
+Date (revised v3): Fri, 7 Sep 2001 17:19:05 GMT   (77kb)
+
+Title: Don't Panic! Closed String Tachyons in ALE Spacetimes
+Authors: A. Adams, J. Polchinski, and E. Silverstein
+Comments: 48 pages, harvmac big; 13 figures. v2: added references; comment on
+  gravity regime added to section 5.2. v3: added references
+Report-no: NSF-ITP-01-75, SLAC-PUB-8955
+Journal-ref: JHEP 0110 (2001) 029
+\\
+  We consider closed string tachyons localized at the fixed points of
+noncompact nonsupersymmetric orbifolds. We argue that tachyon condensation
+drives these orbifolds to flat space or supersymmetric ALE spaces. The decay
+proceeds via an expanding shell of dilaton gradients and curvature which
+interpolates between two regions of distinct angular geometry. The string
+coupling remains weak throughout. For small tachyon VEVs, evidence comes from
+quiver theories on D-branes probes, in which deformations by twisted couplings
+smoothly connect non-supersymmetric orbifolds to supersymmetric orbifolds of
+reduced order. For large tachyon VEVs, evidence comes from worldsheet RG flow
+and spacetime gravity. For $\IC^2/\IZ_n$, we exhibit infinite sequences of
+transitions producing SUSY ALE spaces via twisted closed string condensation
+from non-supersymmetric ALE spaces. In a $T$-dual description this provides a
+mechanism for creating NS5-branes via {\it closed} string tachyon condensation
+similar to the creation of D-branes via {\it open} string tachyon condensation.
+We also apply our results to recent duality conjectures involving fluxbranes
+and the type 0 string.
+\\

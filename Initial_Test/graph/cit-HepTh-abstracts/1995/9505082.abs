@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9505082
+From: Hitoshi Murayama (LBL) <MURAYAMA@kelvin.lbl.gov>
+Date: Sat, 13 May 1995 23:28:02 -0700 (PDT)   (43kb)
+
+Title: Studying Non-calculable Models of Dynamical Supersymmetry Breaking
+Authors: Hitoshi Murayama (LBL,Tohoku)
+Comments: 11 pages, LaTeX, requires Psfig1.9, 1 figure in a uuencoded
+  tar-compressed EPS file
+Report-no: LBL-37234
+Journal-ref: Phys. Lett. B355 (1995) 187
+\\
+  There are supersymmetric gauge theories which do not possess any parameters
+nor flat directions, and hence cannot be studied anywhere in the field space
+using holomorphy (``non-calculable''). Some of them are believed to break
+supersymmetry dynamically. We propose a simple technique to analyze these
+models. Introducing a vector-like field into the model, one finds flat
+directions where one can study the dynamics. We unambiguously show that the
+supersymmetry is broken when the mass of the vector-like field is small but
+finite, and hence Witten index vanishes. If we increase the mass of the
+vector-like field, it eventually decouples from the dynamics and the models
+reduce to the original non-calculable models. Assuming the continuity of the
+Witten index in the parameter space, one can establish the dynamical
+supersymmetry breaking in the non-calculable models.
+\\

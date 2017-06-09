@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9503231
+From: Simon Brian Davis <S.B.Davis@damtp.cambridge.ac.uk>
+Date: Sat, 1 Apr 95 12:00 BST   (28kb)
+Date (revised): Sat, 29 Jul 95 01:49 BST
+Date (revised): Wed, 3 Apr 96 12:40:33 +0100
+
+Title: Modular Invariance and the Finiteness of Superstring Theory
+Author: Simon Davis
+Comments: 35 pages, TeX, 2 figures. This is the July version with several
+  typographical corrections and 2 figures included
+Report-no: DAMTP-R/94/27 (Updated version)
+\\
+  The genus-dependence of multi-loop superstring amplitudes is bounded at large
+orders in perturbation theory using the super-Schottky group parametrization of
+supermoduli space. Partial estimates of supermoduli space integrals suggest an
+exponential dependence on the genus when the integration region is restricted
+to a single fundamental domain of the super-modular group in the super-Schottky
+parameter space. Bounds for N-point superstring scattering amplitudes are
+obtained for arbitrary N and are shown to be consistent with exact results
+recently obtained for special type II string amplitudes for orbifold or
+Calabi-Yau compactifications. It is suggested that the generic estimates, which
+imply the validity of superstring perturbation theory in the weak-coupling
+limit, might be used to determine scattering amplitudes at strong coupling
+because of the S-duality of type II and heterotic string theories.
+Non-perturbative effects are consistent with these estimates, based on a sum
+over closed surfaces, because they can be derived from an additional
+contribution to the sum over surfaces corresponding to the insertion of
+Dirichlet boundaries.
+\\

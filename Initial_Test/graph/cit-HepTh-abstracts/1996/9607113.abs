@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9607113
+From: larus@viper.Princeton.EDU (Larus Thorlacius)
+Date: Mon, 15 Jul 1996 00:42:32 -0400   (18kb)
+
+Title: D-Branes and Physical States
+Authors: S. Ramgoolam and L. Thorlacius
+Comments: 22 pages, harvmac, no figures
+Report-no: PUPT-1638
+Journal-ref: Nucl.Phys. B483 (1997) 248-266
+\\
+  States obtained by projecting boundary states, associated with D-branes, to
+fixed mass-level and momentum generically define non-trivial cohomology
+classes. For on-shell states the cohomology is the standard one, but when the
+states are off-shell the relevant cohomology is defined using a BRST operator
+with ghost zero modes removed. The zero momentum cohomology falls naturally
+into multiplets of $SO(D-1,1)$. At the massless level, a simple set of D-brane
+configurations generates the full set of zero-momentum states of standard ghost
+number, including the discrete states. We give a general construction of
+off-shell cohomology classes, which exhibits a non-trivial interaction between
+left and right movers that is not seen in on-shell cohomology. This includes,
+at higher mass levels, states obtained from typical D-brane boundary states as
+well as states with more intricate ghost dependence.
+\\

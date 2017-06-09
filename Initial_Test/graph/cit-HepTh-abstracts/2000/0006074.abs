@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0006074
+From: Constantin Rasinariu <costel@uic.edu>
+Date: Sat, 10 Jun 2000 21:36:17 GMT   (14kb)
+Date (revised v2): Tue, 16 Oct 2001 03:14:22 GMT   (16kb)
+
+Title: Baxter T-Q Equation for Shape Invariant Potentials. The Finite-Gap
+  Potentials Case
+Authors: Ovidiu Lipan and Constantin Rasinariu
+Comments: 25 pages, no figures Extended section 10, one reference added.
+  Version accepted for publication in Jurnal of Mathematical Physics
+Subj-class: High Energy Physics - Theory; Mathematical Physics; Exactly
+  Solvable and Integrable Systems
+Journal-ref: J.Math.Phys. 43 (2002) 847-865
+\\
+  The Darboux transformation applied recurrently on a Schroedinger operator
+generates what is called a {\em dressing chain}, or from a different point of
+view, a set of supersymmetric shape invariant potentials. The finite-gap
+potential theory is a special case of the chain. For the finite-gap case, the
+equations of the chain can be expressed as a time evolution of a Hamiltonian
+system. We apply Sklyanin's method of separation of variables to the chain. We
+show that the classical equation of the separation of variables is the Baxter
+T-Q relation after quantization.
+\\

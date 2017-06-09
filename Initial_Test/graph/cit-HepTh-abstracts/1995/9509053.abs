@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9509053
+From: "Douglas A. Singleton" <das3y@fermi.clas.virginia.edu>
+Date: Sun, 10 Sep 1995 15:51:33 -0400   (7kb)
+
+Title: Increasing Potentials in Non-Abelian and Abelian Gauge Theories
+Author: Douglas Singleton and Atsushi Yoshida
+Comments: 11 pages LaTeX
+Journal-ref: Int.J.Mod.Phys. A12 (1997) 4823-4830
+\\
+  An exact solution for an SU(2) Yang-Mills field coupled to a scalar field is
+given. This solution has potentials with a linear and Coulomb part. This may
+have some physical importance since many phenomenological QCD studies assume a
+linear plus Coulomb potential. Usually the linear potential is motivated with
+lattice gauge theory arguments. Here the linear potential is an exact result of
+the field equations. We also show that in the Nielsen-Olesen Abelian model
+there is an exact solution in the BPS limit which has a Coulomb-like
+electromagnetic field and a logarithmically rising scalar field. Both of these
+solutions must be cut off from above to avoid infinite field energy.
+\\

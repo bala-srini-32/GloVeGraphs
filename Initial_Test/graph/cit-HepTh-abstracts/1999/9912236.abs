@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9912236
+From: Fawad Hassan <fawad@cpht.polytechnique.fr>
+Date: Thu, 23 Dec 1999 13:44:59 GMT   (20kb)
+Date (revised v2): Wed, 1 Mar 2000 18:23:59 GMT   (24kb)
+
+Title: SO(d,d) Transformations of Ramond-Ramond Fields and Space-time Spinors
+Author: S. F. Hassan (Ecole Polytechnique)
+Comments: 25 pages, LaTeX. V2: Added references, comments, and a new section on
+  the relation to the transformation of R-R potentials as SO(d,d) spinors
+Report-no: CPHT-S756.1299
+Journal-ref: Nucl.Phys. B583 (2000) 431-453
+\\
+  We explicitly construct the SO(d,d) transformations of Ramond-Ramond field
+strengths and potentials, along with those of the space-time supersymmetry
+parameters, the gravitinos and the dilatinos in type-II theories. The results
+include the case when the SO(d,d) transformation involves the time direction.
+The derivation is based on the compatibility of SO(d,d) transformations with
+space-time supersymmetry, which automatically guarantees compatibility with the
+equations of motion. It involves constructing the spinor representation of a
+twist that an SO(d,d) action induces between the local Lorentz frames
+associated with the left- and right-moving sectors of the worldsheet theory.
+The relation to the transformation of R-R potentials as SO(d,d) spinors is also
+clarified.
+\\

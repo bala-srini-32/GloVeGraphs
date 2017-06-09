@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0003223
+From: Jun Nishimura <nisimura@alf.nbi.dk>
+Date: Fri, 24 Mar 2000 18:00:19 GMT   (19kb)
+Date (revised v2): Mon, 1 May 2000 13:42:29 GMT   (19kb)
+
+Title: Spontaneous Breakdown of Lorentz Invariance in IIB Matrix Model
+Authors: J. Nishimura and G. Vernizzi (NBI)
+Comments: 12 pages, latex, no figures, references added, version to appear in
+  JHEP
+Report-no: NBI-HE-00-15
+Journal-ref: JHEP 0004 (2000) 015
+\\
+  We study the IIB matrix model, which is conjectured to be a nonperturbative
+definition of superstring theory, by introducing an integer deformation
+parameter `nu' which couples to the imaginary part of the effective action
+induced by fermions. The deformed IIB matrix model continues to be well-defined
+for arbitrary `nu', and it preserves gauge invariance, Lorentz invariance, and
+the cluster property. We study the model at `nu' = infinity using a
+saddle-point analysis, and show that ten-dimensional Lorentz invariance is
+spontaneously broken at least down to an eight-dimensional one. We argue that
+it is likely that the remaining eight-dimensional Lorentz invariance is further
+broken, which can be checked by integrating over the saddle-point
+configurations using standard Monte Carlo simulation.
+\\

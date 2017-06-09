@@ -1,0 +1,34 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0201151
+From: Nathan Berkovits <nathan@insti.physics.sunysb.edu>
+Date: Sun, 20 Jan 2002 11:30:01 GMT   (35kb)
+Date (revised v2): Tue, 22 Jan 2002 20:38:32 GMT   (35kb)
+Date (revised v3): Fri, 8 Feb 2002 11:08:47 GMT   (35kb)
+Date (revised v4): Tue, 16 Apr 2002 21:06:24 GMT   (35kb)
+
+Title: Towards Covariant Quantization of the Supermembrane
+Author: Nathan Berkovits (IFT/UNESP, Sao Paulo)
+Comments: Changed title since the hamiltonian still needs to be regularized.
+  Added reference to Cederwall, Nilsson and Tsimpis
+Report-no: IFT-P.002/2002
+Journal-ref: JHEP 0209 (2002) 051
+\\
+  By replacing ten-dimensional pure spinors with eleven-dimensional pure
+spinors, the formalism recently developed for covariantly quantizing the d=10
+superparticle and superstring is extended to the d=11 superparticle and
+supermembrane. In this formalism, kappa symmetry is replaced by a BRST-like
+invariance using the nilpotent operator Q=int (lambda^alpha d_alpha) where
+d_alpha is the worldvolume variable corresponding to the d=11 spacetime
+supersymmetric derivative and lambda^alpha is an SO(10,1) pure spinor variable
+satisfying (lambda Gamma^c lambda)=0 for c=1 to 11.
+  Super-Poincare covariant unintegrated and integrated supermembrane vertex
+operators are explicitly constructed which are in the cohomology of Q. After
+double-dimensional reduction of the eleventh dimension, these vertex operators
+are related to Type IIA superstring vertex operators where Q=Q_L+Q_R is the sum
+of the left and right-moving Type IIA BRST operators and the eleventh component
+of the pure spinor constraint, (lambda Gamma^{11} lambda)=0, replaces the
+(b_L^0 - b_R^0) constraint of the closed superstring. A conjecture is made for
+the computation of M-theory scattering amplitudes using these supermembrane
+vertex operators.
+\\

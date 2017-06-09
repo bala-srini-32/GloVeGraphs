@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0007220
+From: Leonardo Gualtieri <lgualtie@ulb.ac.be>
+Date: Thu, 27 Jul 2000 15:51:19 GMT   (46kb)
+Date (revised v2): Thu, 5 Oct 2000 11:46:18 GMT   (47kb)
+
+Title: Inconsistency of interacting, multi-graviton theories
+Authors: Nicolas Boulanger, Thibault Damour, Leonardo Gualtieri and Marc
+  Henneaux
+Comments: 44+1 pages, no figures. Case of an infinite number of gravitons
+  treated more completely, comparison with work by Aragone and Deser on
+  gravitational coupling of a single massless spin-2 field discussed
+Report-no: ULB-TH-00/14
+Journal-ref: Nucl.Phys. B597 (2001) 127-171
+\\
+  We investigate, in any spacetime dimension >=3, the problem of consistent
+couplings for a finite collection of massless, spin-2 fields described, in the
+free limit, by a sum of Pauli-Fierz actions. We show that there is no
+consistent (ghost-free) coupling, with at most two derivatives of the fields,
+that can mix the various "gravitons". In other words, there are no
+Yang-Mills-like spin-2 theories. The only possible deformations are given by a
+sum of individual Einstein-Hilbert actions. The impossibility of
+cross-couplings subsists in the presence of scalar matter. Our approach is
+based on the BRST-based deformation point of view and uses results on the
+so-called "characteristic cohomology" for massless spin-2 fields which are
+explained in detail.
+\\

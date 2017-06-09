@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0010196
+From: T. Jayaraman <jayaram@imsc.ernet.in>
+Date: Mon, 23 Oct 2000 09:17:31 GMT   (30kb)
+Date (revised v2): Mon, 6 Nov 2000 12:43:38 GMT   (31kb)
+
+Title: D-branes, Exceptional Sheaves and Quivers on Calabi-Yau manifolds: From
+  Mukai to McKay
+Authors: Suresh Govindarajan (IITM), T. Jayaraman (IMSc)
+Comments: 34+1 pages;LaTex;4 figures v2;comment on flops added;one figure and
+  references added
+Report-no: IMSc/2000/10/57
+Subj-class: High Energy Physics - Theory; Algebraic Geometry
+Journal-ref: Nucl.Phys. B600 (2001) 457-486
+\\
+  We present a method based on mutations of helices which leads to the
+construction (in the large volume limit) of exceptional coherent sheaves
+associated with the $(\sum_al_a=0)$ orbits in Gepner models. This is explicitly
+verified for a few examples including some cases where the ambient weighted
+projective space has singularities not inherited by the Calabi-Yau
+hypersurface. The method is based on two conjectures which lead to the
+analog,in the general case, of the Beilinson quiver for $\BP^n$. We discuss how
+one recovers the McKay quiver using the gauged linear sigma model (GLSM) near
+the orbifold or Gepner point in K\"ahler moduli space.
+\\

@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9807053
+From: "Inna Yu. Karataeva" <karin@phys.tsu.ru>
+Date: Wed, 8 Jul 1998 10:14:28 GMT   (15kb)
+Date (revised v2): Thu, 24 Dec 1998 05:45:53 GMT   (20kb)
+
+Title: BRST-anti-BRST covariant theory for the second class constrained
+  systems. A general method and examples
+Authors: I.Yu. Karataeva and S. L. Lyakhovich (Department of Physics, Tomsk
+  State University, Russia)
+Comments: 19 pages, LaTeX, 2 examples added
+Journal-ref: Nucl.Phys. B545 (1999) 656-676
+\\
+  The BRST-anti-BRST covariant extension is suggested for the split involution
+quantization scheme for the second class constrained theories. The constraint
+algebra generating equations involve on equal footing a pair of BRST charges
+for second class constraints and a pair of the respective anti-BRST charges.
+Formalism displays explicit Sp(2) \times Sp(2) symmetry property. Surprisingly,
+the the BRST-anti-BRST algebra must involve a central element, related to the
+nonvanishing part of the constraint commutator and having no direct analogue in
+a first class theory. The unitarizing Hamiltonian is fixed by the requirement
+of the explicit BRST-anti-BRST symmetry with a much more restricted ambiguity
+if compare to a first class theory or split involution second class case in the
+nonsymmetric formulation. The general method construction is supplemented by
+the explicit derivation of the extended BRST symmetry generators for several
+examples of the second class theories, including self--dual nonabelian model
+and massive Yang Mills theory.
+\\

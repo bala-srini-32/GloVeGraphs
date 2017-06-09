@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0112175
+From: Robert Marnelius <tferm@fy.chalmers.se>
+Date: Wed, 19 Dec 2001 12:53:29 GMT   (11kb)
+Date (revised v2): Tue, 12 Mar 2002 15:34:15 GMT   (11kb)
+
+Title: Projection operator approach to general constrained systems
+Author: Igor Batalin, Simon Lyakhovich, and Robert Marnelius
+Comments: 12 pages, Latexfile,minor misprints corrected
+Journal-ref: Phys.Lett. B534 (2002) 201-208
+\\
+  We propose a new BRST-like quantization procedure which is applicable to
+dynamical systems containing both first and second class constraints. It
+requires no explicit separation into first and second class constraints and
+therefore no conversion of second class constraints is needed. The basic
+ingredient is instead an invariant projection operator which projects out the
+maximal subset of constraints in involution. The hope is that the method will
+enable a covariant quantization of models for which there is no covariant
+separation into first and second class constraints. An example of this type is
+given.
+\\

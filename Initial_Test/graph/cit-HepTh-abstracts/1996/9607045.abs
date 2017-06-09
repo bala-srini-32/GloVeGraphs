@@ -1,0 +1,34 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9607045
+From: Oehme <reo@mppmu.mpg.de>
+Date: Fri, 5 Jul 1996 16:01:04 +0200   (24kb)
+
+Title: Asymptotic Limits and Sum Rules for Propagators in Quantum
+  Chromodynamics
+Author: Jack Wentao Xu
+Comments: 42 pages, Latex
+Report-no: EFI 96-16
+\\
+  In gauge field theories with asymptotic freedom, the short distance
+properties of Green's functions can be obtained on the basis of weak coupling
+perturbation expansions. Within this framework, the large momentum behavior of
+the structure functions for gluon, quark and ghost propagators is derived. The
+limits are found for general, covariant, linear gauges, and in all directions
+of the complex $k^2-$plane. Except for the coefficients, the functional forms
+of the leading asymptotic terms for the various structure functions are
+independent of the gauge parameter. They are determined exactly in terms of
+one-loop expressions (two-loop expressions in cases where one-loop terms
+vanish). With the exception of the Landau gauge, the asymptotic expressions for
+the gauge field propagator play an important r\^{o}le for the corresponding
+limits of quark and ghost propagators. For {\it all} gauges considered, it is
+the sign of the one-loop anomalous dimension coefficient of the gluon field in
+Landau gauge (as a fixed point of the gauge parameter) which is of considerable
+relevance for the asymptotics of the various propagators. The bounds obtained
+from the asymptotic expressions, together with the analytic properties of the
+structure functions, generally lead to un-subtracted dispersion
+representations. In special cases, for a limited number of flavors, sum rules
+are obtained for the discontinuities along the real axis. The sum rule for the
+gluon propagator is a generalization of the superconvergence relation derived
+previously in the Landau gauge.
+\\

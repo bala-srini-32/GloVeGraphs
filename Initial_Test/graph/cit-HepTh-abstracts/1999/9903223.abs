@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9903223
+From: Sergei Shabanov <shabanov@phys.ufl.edu>
+Date: Thu, 25 Mar 1999 23:43:15 GMT   (13kb)
+Date (revised v2): Thu, 13 May 1999 18:23:11 GMT   (14kb)
+
+Title: An effective action for monopoles and knot solitons in Yang-Mills theory
+Authors: Sergei V. Shabanov (Univ. of Florida)
+Comments: plain Latex, 12 pages, no figures, a few references and comments are
+  added, a final version for Phys. Lett. B
+Journal-ref: Phys.Lett. B458 (1999) 322-330
+\\
+  By comparision with numerical results in the maximal Abelian projection of
+lattice Yang-Mills theory, it is argued that the nonperturbative dynamics of
+Yang Mills theory can be described by a set of fields that take their values in
+the coset space SU(2)/U(1). The Yang-Mills connection is parameterized in a
+special way to separate the dependence on the coset field. The coset field is
+then regarded as a collective variable, and a method to obtain its effective
+action is developed. It is argued that the physical excitations of the
+effective action may be knot solitons. A procedure to calculate the mass scale
+of knot solitons is discussed for lattice gauge theories in the maximal Abelian
+projection. The approach is extended to the SU(N) Yang-Mills theory. A relation
+between the large N limit and the monopole dominance is pointed out.
+\\

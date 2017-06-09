@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0211186
+From: Giovanni Feverati <feverati@ms.unimelb.edu.au>
+Date: Wed, 20 Nov 2002 05:08:47 GMT   (35kb)
+
+Title: Critical RSOS and Minimal Models II: Building Representations of the
+  Virasoro Algebra and Fields
+Authors: Giovanni Feverati and Paul A. Pearce
+\\
+  We consider sl(2) minimal conformal field theories and the dual parafermion
+models. Guided by results for the critical A_L Restricted Solid-on-Solid (RSOS)
+models and its Virasoro modules expressed in terms of paths, we propose a
+general level-by-level algorithm to build matrix representations of the
+Virasoro generators and chiral vertex operators (CVOs). We implement our scheme
+for the critical Ising, tricritical Ising, 3-state Potts and Yang-Lee theories
+on a cylinder and confirm that it is consistent with the known two-point
+functions for the CVOs and energy-momentum tensor. Our algorithm employs a
+distinguished basis which we call the L_1-basis. We relate the states of this
+canonical basis level-by-level to orthonormalized Virasoro states.
+\\

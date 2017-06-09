@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9805130
+From: Cesar Fosco <fosco@cab.cnea.edu.ar>
+Date: Wed, 20 May 1998 19:08:10 GMT   (13kb)
+
+Title: Decoupling Transformations in Path Integral Bosonization
+Authors: C. D. Fosco and J.C. Le Guillou
+Comments: 22 pages, Latex
+Report-no: LAPTH-685/98
+Journal-ref: Nucl.Phys. B535 (1998) 483-498
+\\
+  We construct transformations that decouple fermionic fields in interaction
+with a gauge field, in the path integral representation of the generating
+functional. Those transformations express the original fermionic fields in
+terms of non-interacting ones, through non-local functionals depending on the
+gauge field. This procedure, holding true in any number of spacetime dimensions
+both in the Abelian and non-Abelian cases, is then applied to the path integral
+bosonization of the Thirring model in 3 dimensions. Knowledge of the decoupling
+transformations allows us, contrarily to previous bosonizations, to obtain the
+bosonization with an explicit expression of the fermion fields in terms of
+bosonic ones and free fermionic fields. We also explain the relation between
+our technique, in the two dimensional case, and the usual decoupling in 2
+dimensions.
+\\

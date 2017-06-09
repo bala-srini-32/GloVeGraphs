@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9606173
+From: Martin Cederwall <tfemc@fy.chalmers.se>
+Date: Wed, 26 Jun 1996 09:57:24 MDT   (35kb)
+Date (revised): Tue, 30 Jul 1996 07:36:37 MDT
+
+Title: On the Dirac-Born-Infeld Action for D-branes
+Authors: Martin Cederwall, Alexander von Gussich, Aleksandar Mikovic, Bengt
+  E.W. Nilsson and Anders Westerberg
+Comments: Plain TeX, 7 pages, TeX file and one postscript figure in compressed
+  tar archive
+Report-no: Goteborg-ITP-96-8
+Journal-ref: Phys.Lett. B390 (1997) 148-152
+\\
+  In this note, we consider the reformulation of the Dirac-Born-Infeld action
+for a Dirichlet p-brane in Brink-Di Vecchia-Howe-Tucker form, i.e., including
+an independent non-propagating world-volume metric. When p>2, the action
+becomes non-polynomial. A closed expression is derived for p=3. For selfdual
+field-strengths, the DBI action is reproduced by an action with a simple F^2
+term. We speculate on supersymmetrization of the D_3-brane action. We also give
+the governing equations for arbitrary p, and derive an implicit expression for
+the D_4-brane lagrangian.
+\\

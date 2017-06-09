@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9601108
+From: drm@math.duke.edu (David R. Morrison)
+Date: Sun, 21 Jan 1996 18:50:41 -0500   (37kb)
+Date (revised): Sun, 17 Mar 96 14:15:26 EST
+
+Title: Enhanced Gauge Symmetry in Type II String Theory
+Authors: Sheldon Katz, David R. Morrison, and M. Ronen Plesser
+Comments: 43 pages using harvmac's `big' option. (Minor correction concerning
+  magnetically charged states.)
+Report-no: OSU Math 1996-1, DUKE-TH-96-103, WIS-95-62-PH
+Subj-class: High Energy Physics - Theory; Algebraic Geometry
+Journal-ref: Nucl.Phys. B477 (1996) 105-140
+\\
+  We show how enhanced gauge symmetry in type II string theory compactified on
+a Calabi--Yau threefold arises from singularities in the geometry of the target
+space. When the target space of the type IIA string acquires a genus $g$ curve
+$C$ of $A_{N-1}$ singularities, we find that an $SU(N)$ gauge theory with $g$
+adjoint hypermultiplets appears at the singularity. The new massless states
+correspond to solitons wrapped about the collapsing cycles, and their dynamics
+is described by a twisted supersymmetric gauge theory on $C\times \R^4$. We
+reproduce this result from an analysis of the $S$-dual $D$-manifold. We check
+that the predictions made by this model about the nature of the Higgs branch,
+the monodromy of period integrals, and the asymptotics of the one-loop
+topological amplitude are in agreement with geometrical computations. In one of
+our examples we find that the singularity occurs at strong coupling in the
+heterotic dual proposed by Kachru and Vafa.
+\\

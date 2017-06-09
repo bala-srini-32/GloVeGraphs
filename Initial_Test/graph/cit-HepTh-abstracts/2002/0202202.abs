@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0202202
+From: Fernando T Brandt <fbrandt@fma.if.usp.br>
+Date: Thu, 28 Feb 2002 13:52:13 GMT   (171kb)
+Date (revised v2): Mon, 8 Apr 2002 10:54:04 GMT   (171kb)
+
+Title: Hard Thermal Effects in Noncommutative U(N) Yang-Mills Theory
+Authors: F. T. Brandt, J. Frenkel and D. G. C. McKeon
+Comments: This version has been accepted for publication in Phys. Rev. D (16
+  pages). There are small misprint corrections and the inclusion of some extra
+  refferences
+Journal-ref: Phys.Rev. D65 (2002) 125029
+\\
+  We study the behaviour of the two- and three-point thermal Green functions,
+to one loop order in noncommutative U(N) Yang-Mills theory, at temperatures $T$
+much higher than the external momenta $p$. We evaluate the amplitudes for small
+and large values of the variable $\theta p T$ ($\theta$ is the noncommutative
+parameter) and exactly compute the static gluon self-energy for all values of
+$\theta p T$. We show that these gluon functions, which have a leading $T^2$
+behaviour, are gauge independent and obey simple Ward identities. We argue that
+these properties, together with the results for the lowest order amplitudes,
+may be sufficient to fix uniquely the hard thermal loop effective action of the
+noncommutative theory.
+\\

@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0201239
+From: Jean-Bernard Zuber <zuber@spht.saclay.cea.fr>
+Date: Tue, 29 Jan 2002 20:46:57 GMT   (26kb)
+Date (revised v2): Tue, 5 Feb 2002 19:46:50 GMT   (29kb)
+Date (revised v3): Mon, 25 Feb 2002 17:08:36 GMT   (32kb)
+Date (revised v4): Mon, 23 Dec 2002 14:04:06 GMT   (31kb)
+
+Title: Boundary conditions in charge conjugate sl(N) WZW theories
+Authors: V.B. Petkova and J.-B. Zuber
+Comments: 19 pages, harvmac.tex, 1 figure; v4: misprints corrected, the Note
+  added comparing with hep-th/9905038 expanded. A summary of the results of the
+  paper is published in the Proceedings of the NATO Advanced Research Workshop,
+  {\bf Statistical Field Theories}, Como, 2001, eds. A. Cappelli and G.
+  Mussardo, Kluwer Academic Publishers, 2002, p. 161-170
+\\
+  We compute the representations (``nimreps'') of the fusion algebra of affine
+sl(N), which determine the boundary conditions of sl(N) WZW theories twisted by
+the charge conjugation. This is done following two procedures, one of general
+validity, the other specific to the problem at hand. The problem is related to
+the classical problem of decomposition of the fundamental representations of
+sl(N) onto representations of $B_l=so(2l+1)$ or $C_l =sp(2l)$ algebras. The
+relevant nimreps and their diagonalisation matrix are thus expressed in terms
+of modular data of the affine B or C algebras
+\\

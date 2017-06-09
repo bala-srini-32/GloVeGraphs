@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0110116
+From: Rafael I. Nepomechie <nepomechie@physics.miami.edu>
+Date: Fri, 12 Oct 2001 19:21:24 GMT   (14kb)
+Date (revised v2): Sat, 13 Oct 2001 12:35:01 GMT   (14kb)
+Date (revised v3): Tue, 5 Mar 2002 15:58:33 GMT   (14kb)
+
+Title: Solving the open XXZ spin chain with nondiagonal boundary terms at roots
+  of unity
+Authors: Rafael I. Nepomechie
+Comments: 20 pages, LaTeX; amssymb, no figures; V3 contains Note Added giving
+  coefficients c_{p,l}
+Report-no: UMTG-232
+Journal-ref: Nucl.Phys. B622 (2002) 615-632
+\\
+  We consider the open XXZ quantum spin chain with nondiagonal boundary terms.
+For bulk anisotropy value \eta = i \pi/(p+1), p= 1, 2, ..., we propose an exact
+(p+1)-order functional relation for the transfer matrix, which implies
+Bethe-Ansatz-like equations for the corresponding eigenvalues. The key
+observation is that the fused spin-(p+1)/2 transfer matrix can be expressed in
+terms of a lower-spin transfer matrix, resulting in the truncation of the
+fusion hierarchy.
+\\

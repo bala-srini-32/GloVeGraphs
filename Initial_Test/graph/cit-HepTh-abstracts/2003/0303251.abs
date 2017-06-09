@@ -1,0 +1,37 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0303251
+From: Kei-Ichi Kondo <kondo@cuphd.nd.chiba-u.ac.jp>
+Date: Fri, 28 Mar 2003 01:05:34 GMT   (344kb)
+
+Title: Implications of Analyticity to Mass Gap, Color Confinement and Infrared
+  Fixed Point in Yang--Mills theory
+Authors: K.-I. Kondo (Chiba Univ.)
+Comments: 57 pages, 11 figures
+Report-no: CHIBA-EP-139
+\\
+  Analyticity of gluon and Faddeev--Popov ghost propagators and their form
+factors on the complex momentum-squared plane is exploited to continue
+analytically the ultraviolet asymptotic form calculable by perturbation theory
+into the infrared non-perturbative solution. We require the non-perturbative
+multiplicative renormalizability to write down the renormalization group
+equation. These requirements enable one to settle the value of the exponent
+characterizing the infrared asymptotic solution with power behavior which was
+originally predicted by Gribov and has recently been found as approximate
+solutions of the coupled truncated Schwinger--Dyson equations. For this
+purpose, we have obtained all the possible superconvergence relations for the
+propagators and form factors in both the generalized Lorentz gauge and the
+modified Maximal Abelian gauge. We show that the transverse gluon propagators
+are suppressed in the infrared region to be of the massive type irrespective of
+the gauge parameter, in agreement with the recent result of numerical
+simulations on a lattice. However, this method alone is not sufficient to
+specify some of the ghost propagators which play the crucial role in color
+confinement. Combining the above result with the renormalization group equation
+again, we find an infrared enhanced asymptotic solution for the ghost
+propagator. The coupled solutions fulfill the color confinement criterion due
+to Kugo and Ojima and also Nishijima, at least, in the Lorentz--Landau gauge.
+We also point out that the solution in compatible with color confinement leads
+to the existence of the infrared fixed point in pure Yang--Mills theory without
+dynamical quarks. Finally, the Maximal Abelian gauge is also examined in
+connection with quark confinement.
+\\

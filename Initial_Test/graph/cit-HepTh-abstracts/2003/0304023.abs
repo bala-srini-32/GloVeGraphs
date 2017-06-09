@@ -1,0 +1,19 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0304023
+From: Bodo Geyer <bodo.geyer@itp.uni-leipzig.de>
+Date: Thu, 3 Apr 2003 11:18:37 GMT   (8kb)
+
+Title: The basic cohomology of the twisted N=16, D=2 super Maxwell theory
+Authors: B. Geyer and D. M\"ulsch
+Comments: 7 pages, Latex
+\\
+  We consider a recently proposed two-dimensional Abelian model for a Hodge
+theory, which is neither a Witten type nor a Schwarz type topological theory.
+It is argued that this model is not a good candidate for a Hodge theory since,
+on-shell, the BRST Laplacian vanishes. We show, that this model allows for a
+natural extension such that the resulting topological theory is of Witten type
+and can be identified with the twisted N=16, D=2 super Maxwell theory.
+Furthermore, the underlying basic cohomology preserves the Hodge-type structure
+and, on-shell, the BRST Laplacian does not vanish.
+\\

@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9802064
+From: Daniel F. Litim <litim@tholos.ecm.ub.es>
+Date: Tue, 10 Feb 1998 19:54:53 GMT   (13kb)
+Date (revised v2): Mon, 22 Jun 1998 17:26:33 GMT   (14kb)
+
+Title: Flow Equations for Yang-Mills Theories in General Axial Gauges
+Authors: Daniel F. Litim (U. Barcelona), Jan M. Pawlowski (DIAS)
+Comments: 10 pages, latex, no figures, 3 equations added, references updated,
+  to be published in Phys. Lett. B
+Report-no: DIAS-STP/98-03, ECM-UB-PF-98/03, FSUJ-TPI-01/98,
+  Imperial/TP/97-98/22
+Journal-ref: Phys.Lett. B435 (1998) 181-188
+\\
+  We present a formulation of non-Abelian gauge theories in general axial
+gauges using a Wilsonian (or 'Exact') Renormalisation Group. No 'spurious'
+propagator divergencies are encountered in contrast to standard perturbation
+theory. Modified Ward identities, compatible with the flow equation, ensure
+gauge invariance of physical Green functions. The axial gauge $n A=0$ is shown
+to be a fixed point under the flow equation. Possible non-perturbative
+approximation schemes and further applications are outlined.
+\\

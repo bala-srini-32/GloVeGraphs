@@ -1,0 +1,19 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9911088
+From: J. Erickson <erickson@alf.nbi.dk>
+Date: Fri, 12 Nov 1999 08:01:48 GMT   (13kb)
+
+Title: Static Potential in N=4 Supersymmetric Yang-Mills Theory
+Authors: J.K. Erickson, G.W. Semenoff, R.J. Szabo and K. Zarembo
+Comments: 8 pages, four figures using feynmf
+Journal-ref: Phys.Rev. D61 (2000) 105006
+\\
+  We compute the leading order perturbative correction to the static potential
+in ${\cal N}=4$ supersymmetric Yang-Mills theory. We show that the perturbative
+expansion contains infrared logarithms which, when resummed, become logarithms
+of the coupling constant. The resulting correction goes in the right direction
+to match the strong coupling behavior obtained from the AdS/CFT correspondence.
+We find that the strong coupling extrapolation of the sum of ladder diagrams
+goes as $\sqrt{g^2N}$, as in the supergravity approach.
+\\

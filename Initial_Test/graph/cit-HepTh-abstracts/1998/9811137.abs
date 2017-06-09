@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9811137
+From: Jan B. Thomassen <thomasse@ap2.kph.tuwien.ac.at>
+Date: Sat, 14 Nov 1998 16:43:02 GMT   (8kb)
+Date (revised v2): Mon, 30 Nov 1998 13:36:13 GMT   (8kb)
+Date (revised v3): Tue, 15 Dec 1998 12:12:42 GMT   (8kb)
+Date (revised v4): Wed, 3 Feb 1999 18:37:36 GMT   (8kb)
+
+Title: Jacobians of chiral transformations and two-dimensional bosonization
+Authors: Jan B. Thomassen
+Comments: 8 pages, LaTeX, uses Amssymb, minor corrections
+Report-no: IK-TUW 9811401
+\\
+  We formulate a complete path integral bosonization procedure for any
+fermionic theory in two dimensions. The method works equally well for massive
+and massless fermions, and is a generalization of an approach suggested earlier
+by Andrianov. The classical action of the bosons in the bosonized theory is
+identified with -i times the logarithm of the Jacobian of a local chiral
+transformation, with the boson fields as transformation parameters. Three
+examples, the Schwinger model, the massive Thirring model and massive
+non-Abelian bosonization, are worked out.
+\\

@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0008038
+From: Sonia Stanciu <s.stanciu@phys.uu.nl>
+Date: Thu, 3 Aug 2000 17:30:02 GMT   (26kb)
+Date (revised v2): Sun, 6 Aug 2000 17:04:34 GMT   (26kb)
+
+Title: D-brane charge, flux quantisation and relative (co)homology
+Authors: J.M. Figueroa-O'Farrill and S. Stanciu
+Comments: 16 pages, 3 figures (v2: cosmetic changes and definition of relative
+  de Rham complex)
+Report-no: Edinburgh MS-00-010, Spin 2000/19
+Subj-class: High Energy Physics - Theory; Differential Geometry
+Journal-ref: JHEP 0101 (2001) 006
+\\
+  We reconsider the problem of U(1) flux and D0-charge for D-branes in the WZW
+model and investigate the relationship between the different definitions that
+have been proposed recently. We identify the D0-charge as a particular
+reduction of a class in the relative cohomology of the group modulo the
+D-submanifold. We investigate under which conditions this class is equivalent
+to the first Chern class of a line bundle on the D-submanifold and we find that
+in general there is an obstruction given by the cohomology class of the NS
+3-form. Therefore we conclude that for topologically nontrivial B-fields, there
+is strictly speaking no U(1) gauge field on the D-submanifold. Nevertheless the
+ambiguity in the flux is not detected by the D0-charge. This has a natural
+interpretation in terms of gerbes.
+\\

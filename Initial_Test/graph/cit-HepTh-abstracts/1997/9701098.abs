@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9701098
+From: gerry@het.brown.edu (Gerry Guralnik)
+Date: Mon, 20 Jan 97 16:31:32 EST   (9kb)
+
+Title: Source Driven Solutions of Quantum Field Theories
+Authors: G.S. Guralnik
+Comments: 9 pages,Latex,talk given at 3rd AUP Workshop on QCD: Collisions,
+  Confinement and Chaos, Paris, France, 3-8 June 1996
+Report-no: MIT-CTP-2577
+\\
+  I outline the basics of numerical solution of quantum field theory using the
+Source Galerkin method. This method is based on an analysis of the functional
+differential equations of a field theory in the presence of external sources.
+This approach is particularly powerful because it naturally allows the
+inclusion of symmetry information and avoids the fermion determinant problem
+associated with Monte Carlo calculations. The technique is also suitable for
+continuum calculations.
+\\

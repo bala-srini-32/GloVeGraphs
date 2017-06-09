@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9605037
+From: "J.M. Pawlowski" <Pawlowski@hpfs1.physik.uni-jena.de>
+Date: Mon, 6 May 1996 22:58:58 +0200 (MESZ)   (21kb)
+Date (revised): Mon, 18 May 1998 14:44:01 GMT
+
+Title: Exact Flow Equations and the U(1)-Problem
+Authors: J.M. Pawlowski
+Comments: 22 pages, latex, no figures, with stylistic changes and some
+  arguments streamlined, typos corrected, References added, to appear in Phys.
+  Rev. D
+Report-no: FSUJ-TPI-05/96
+Journal-ref: Phys.Rev. D58 (1998) 045011
+\\
+  The effective action of a SU(N)-gauge theory coupled to fermions is evaluated
+at a large infrared cut-off scale k within the path integral approach. The
+gauge field measure includes topologically non-trivial configurations
+(instantons). Due to the explicit infrared regularisation there are no gauge
+field zero modes. The Dirac operator of instanton configurations shows a zero
+mode even after the infrared regularisation, which leads to U_A(1)-violating
+terms in the effective action. These terms are calculated in the limit of large
+scales k.
+\\

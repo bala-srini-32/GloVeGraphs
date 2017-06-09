@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0205094
+From: Volkmar Putz <vputz@mis.mpg.de>
+Date: Fri, 10 May 2002 08:34:23 GMT   (9kb)
+Date (revised v2): Wed, 11 Dec 2002 13:30:12 GMT   (10kb)
+
+Title: Seiberg-Witten map for noncommutative super Yang-Mills theory
+Authors: V. Putz, R. Wulkenhaar
+Comments: 9 pages
+\\
+  In this letter we derive the Seiberg-Witten map for noncommutative super
+Yang-Mills theory in Wess-Zumino gauge. Following (and using results of)
+hep-th/0108045 we split the observer Lorentz transformations into a covariant
+particle Lorentz transformation and a remainder which gives directly the
+Seiberg-Witten differential equations. These differential equations lead to a
+theta-expansion of the noncommutative super Yang-Mills action which is
+invariant under commutative gauge transformations and commutative observer
+Lorentz transformation, but not invariant under commutative supersymmetry
+transformations: The theta-expansion of noncommutative supersymmetry leads to a
+theta-dependent symmetry transformation. For this reason the Seiberg-Witten map
+of super Yang-Mills theory cannot be expressed in terms of superfields.
+\\

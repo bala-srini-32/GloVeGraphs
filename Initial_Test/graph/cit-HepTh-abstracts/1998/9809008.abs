@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9809008
+From: Rita Gianvittorio <ritagian@fis.usb.ve>
+Date: Tue, 1 Sep 1998 20:48:02 GMT   (17kb)
+
+Title: On the QFT relation between Donaldson-Witten invariants and Floer
+  homology theory
+Authors: R. Gianvittorio and A.Restuccia
+Comments: 27 pages, latex, no figures
+Report-no: SB/F/98-257
+\\
+  A TQFT in terms of general gauge fixing functions is discussed. In a
+covariant gauge it yields the Donaldson-Witten TQFT. The theory is formulated
+on a generalized phase space where a simplectic structure is introduced. The
+Hamiltonian is expressed as the anticommutator of off-shell nilpotent BRST and
+anti-BRST charges. Following original ideas of Witten a time reversal operation
+is introduced and an inner product is defined in terms of it. A non-covariant
+gauge fixing is presented giving rise to a manifestly time reversal invariant
+Lagrangean and a positive definite Hamiltonian, with the inner product
+previously introduced. As a consequence, the indefiniteness problem of some of
+the kinetic terms of the Witten's action is resolved. The construction allows
+then a consistent interpretation of Floer groups in terms of the cohomology of
+the BRST charge which is explicitly independent of the background metric.
+ The relation between the BRST cohomology and the ground states of the
+Hamiltonian is then completely stablished. The topological theories arising
+from the covariant, Donaldson-Witten, and non-covariant gauge fixing are shown
+to be quantum equivalent by using the operatorial approach.
+\\

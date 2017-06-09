@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9701164
+From: Maxim Kontsevich <maxim@ihes.fr>
+Date: Tue, 28 Jan 1997 18:26:17 +0100 (MET)   (18kb)
+
+Title: Lyapunov exponents and Hodge theory
+Authors: M. Kontsevich and A. Zorich
+Comments: 16 pages, Latex, extended version of the talk by one of us (M.K.) at
+  the conference "Mathematical Beauty of Physics", Saclay, June 1996, dedicated
+  to the memory of C.Itzykson
+Subj-class: High Energy Physics - Theory; Algebraic Geometry; Differential
+  Geometry
+\\
+  We started from computer experiments with simple one-dimensional ergodic
+dynamical systems called interval exchange transformations. Correlators in
+these systems decay as a power of time. In the simplest non-trivial case the
+exponent is equal to 1/3. We found a formula connecting characteristic
+exponents with explicit integrals over moduli spaces of algebraic curves with
+additional structures. Moreover, these integrals can be interpreted as
+correlators in a topological string theory. Also a new analogy arose between
+ergodic theory and complex algebraic geometry.
+\\

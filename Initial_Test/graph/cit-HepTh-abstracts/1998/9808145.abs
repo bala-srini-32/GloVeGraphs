@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9808145
+From: Hagen Kleinert <kleinert@physik.fu-berlin.de>
+Date: Mon, 24 Aug 1998 13:43:10 GMT   (19kb)
+Date (revised v2): Sun, 28 Nov 1999 07:27:28 GMT   (36kb)
+
+Title: Variational Resummation of $\epsilon$-Expansions of Critical Exponents
+  of Nonlinear O(N)-Symmetric $\sigma$-Model in $2+\epsilon$ Dimensions
+Author: Hagen Kleinert
+Comments: Author Information under
+  http://www.physik.fu-berlin.de/~kleinert/institution.html . Latest update of
+  paper also at http://www.physik.fu-berlin.de/~kleinert/kleiner_re275
+Journal-ref: Phys.Lett. A264 (2000) 357-365
+\\
+  We develop a method for extracting accurate critical exponents from
+perturbation expansions of the O(n)-symmetric nonlinear sigma-model in D=2+
+epsilon dimensions. This is possible by considering the epsilon-expansions in
+this model as strong-coupling expansions of functions of the variable
+tildevarepsilon = 2(4-D)/(D-2), whose first five weak-coupling expansion
+coefficients of powers of tildevarepsilon are known from varepsilon-expansions
+of critical exponents in O(n)-symmetric phi^4-theory in D=4-epsilon dimensions.
+\\

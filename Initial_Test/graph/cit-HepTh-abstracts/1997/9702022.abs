@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9702022
+From: mrow@ibmna35.fuw.edu.pl (Stanislaw Mrowczynski)
+Date: Mon, 3 Feb 1997 18:31:16 +0100   (21kb)
+
+Title: Transport Theory of Massless Fields
+Author: Stanislaw Mrowczynski
+Comments: 32 pages, no macros
+Journal-ref: Phys.Rev. D56 (1997) 2265-2280
+\\
+  Using the Schwinger-Keldysh technique we discuss how to derive the transport
+equations for the system of massless quantum fields. We analyse the scalar
+field models with quartic and cubic interaction terms. In the $\phi^4$ model
+the massive quasiparticles appear due to the self-interaction of massless bare
+fields. Therefore, the derivation of the transport equations strongly resembles
+that one of the massive fields, but the subset of diagrams which provide the
+quasiparticle mass has to be resummed. The kinetic equation for the finite
+width quasiparticles is found, where, except the mean-field and collision
+terms, there are terms which are absent in the standard Boltzmann equation. The
+structure of these terms is discussed. In the massless $\phi^3$ model the
+massive quasiparticles do not emerge and presumably there is no transport
+theory corresponding to this model. It is not surprising since the $\phi^3$
+model is anyhow ill defined.
+\\

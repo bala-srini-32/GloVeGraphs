@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9811140
+From: bern@physics.ucla.edu (Zvi Bern)
+Date: Sun, 15 Nov 1998 06:20:22 GMT   (68kb)
+Date (revised v2): Thu, 4 Mar 1999 23:06:00 GMT   (68kb)
+
+Title: Multi-Leg One-Loop Gravity Amplitudes from Gauge Theory
+Authors: Z. Bern, L. Dixon, M. Perelstein and J.S. Rozowsky
+Comments: Minor errors corrected, Latex, 53 pages
+Report-no: SLAC-PUB-7992, UCLA/98/TEP/28, UFIFT-HEP-98-33
+Journal-ref: Nucl.Phys. B546 (1999) 423-479
+\\
+  By exploiting relations between gravity and gauge theories, we present two
+infinite sequences of one-loop n-graviton scattering amplitudes: the `maximally
+helicity-violating' amplitudes in N=8 supergravity, and the `all-plus' helicity
+amplitudes in gravity with any minimally coupled massless matter content. The
+all-plus amplitudes correspond to self-dual field configurations and vanish in
+supersymmetric theories. We make use of the tree-level Kawai-Lewellen-Tye (KLT)
+relations between open and closed string theory amplitudes, which in the
+low-energy limit imply relations between gravity and gauge theory tree
+amplitudes. For n < 7, we determine the all-plus amplitudes explicitly from
+their unitarity cuts. The KLT relations, applied to the cuts, allow us to
+extend to gravity a previously found `dimension-shifting' relation between (the
+cuts of) the all-plus amplitudes in gauge theory and the maximally
+helicity-violating amplitudes in N=4 super-Yang-Mills theory. The gravitational
+version of the relation lets us determine the n < 7 N=8 supergravity amplitudes
+from the all-plus gravity amplitudes. We infer the two series of amplitudes for
+all n from their soft and collinear properties, which can also be derived from
+gauge theory using the KLT relations.
+\\

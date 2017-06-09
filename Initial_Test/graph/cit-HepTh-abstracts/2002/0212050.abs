@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0212050
+From: Arjan Keurentjes <arjan@tena4.vub.ac.be>
+Date: Wed, 4 Dec 2002 14:14:55 GMT   (10kb)
+
+Title: Oxidation = group theory
+Authors: Arjan Keurentjes
+Comments: LaTeX, 8 pages, uses IOP style files; Talk given at the RTN workshop
+  ``The quantum structure of spacetime and the geometric nature of fundamental
+  interactions'', Leuven, September 2002
+Report-no: VUB-TENA-02-08
+\\
+  Dimensional reduction of theories involving (super-)gravity gives rise to
+sigma models on coset spaces of the form G/H, with G a non-compact group, and H
+its maximal compact subgroup. The reverse process, called oxidation, is the
+reconstruction of the possible higher dimensional theories, given the lower
+dimensional theory. In 3 dimensions, all degrees of freedom can be dualized to
+scalars. Given the group G for a 3 dimensional sigma model on the coset G/H, we
+demonstrate an efficient method for recovering the higher dimensional theories,
+essentially by decomposition into subgroups. The equations of motion, Bianchi
+identities, Kaluza-Klein modifications and Chern-Simons terms are easily
+extracted from the root lattice of the group G. We briefly discuss some aspects
+of oxidation from the E_{8(8)}/SO(16) coset, and demonstrate that our formalism
+reproduces the Chern-Simons term of 11-d supergravity, knows about the
+T-duality of IIA and IIB theory, and easily deals with self-dual tensors, like
+the 5-tensor of IIB supergravity.
+\\

@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9602169
+From: Ivan Avramidi <iavramid@math.uiowa.edu>
+Date: Thu, 29 Feb 1996 10:35:40 +0100   (14kb)
+
+Title: Nonperturbative methods for calculating the heat kernel
+Author: Ivan G. Avramidi (University of Greifswald)
+Comments: 15 pages, Plain TeX, 42 KB, no figures; Talk given at the Int. Conf.
+  `Global Analysis, Differential Geometry and Lie Algebras', Thessaloniki,
+  Greece, December, 1994; to be published in `Algebras, Groups and Geometries'
+Report-no: University of Greifswald (January, 1996)
+Journal-ref: in: Global Analysis, Differential Geometry and Lie Algebras, Ed.
+  G. Tsagas, (Bucharest: Geometry Balkan Press, 1998), pp. 7-21
+\\
+  We study the low-energy approximation for calculation of the heat kernel
+which is determined by the strong slowly varying background fields in strongly
+curved quasi-homogeneous manifolds. A new covariant algebraic approach, based
+on taking into account a finite number of low-order covariant derivatives of
+the background fields and neglecting all covariant derivatives of higher
+orders, is proposed. It is shown that a set of covariant differential operators
+together with the background fields and their low-order derivatives generates a
+finite dimensional Lie algebra. This algebraic structure can be used to present
+the heat semigroup operator in the form of an average over the corresponding
+Lie group. Closed covariant formulas for the heat kernel diagonal are obtained.
+These formulas serve, in particular, as the generating functions for the whole
+sequence of the Hadamard-\-Minakshisundaram-\-De~Witt-\-Seeley coefficients in
+all symmetric spaces.
+\\

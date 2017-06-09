@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0112217
+From: Marty Stock <mstock@mit.edu>
+Date: Fri, 21 Dec 2001 20:00:26 GMT   (37kb)
+
+Title: Searching for Quantum Solitons in a 3+1 Dimensional Chiral Yukawa Model
+Authors: E. Farhi, N. Graham, R.L. Jaffe, and H. Weigel
+Comments: 27 pp., 7 EPS files; email correspondence to jaffe@mit.edu
+Report-no: MIT-CTP-3223
+Journal-ref: Nucl.Phys. B630 (2002) 241-268
+\\
+  We search for static solitons stabilized by heavy fermions in a 3+1
+dimensional Yukawa model. We compute the renormalized energy functional,
+including the exact one-loop quantum corrections, and perform a variational
+search for configurations that minimize the energy for a fixed fermion number.
+We compute the quantum corrections using a phase shift parameterization, in
+which we renormalize by identifying orders of the Born series with
+corresponding Feynman diagrams. For higher-order terms in the Born series, we
+develop a simplified calculational method. When applicable, we use the
+derivative expansion to check our results. We observe marginally bound
+configurations at large Yukawa coupling, and discuss their interpretation as
+soliton solutions subject to general limitations of the model.
+\\

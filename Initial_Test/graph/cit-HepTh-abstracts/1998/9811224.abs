@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9811224
+From: Tomasz Taylor <taylor@super.physics.neu.edu>
+Date: Wed, 25 Nov 1998 19:34:58 GMT   (51kb)
+Date (revised v2): Tue, 1 Dec 1998 00:37:17 GMT   (51kb)
+Date (revised v3): Thu, 14 Jan 1999 20:15:38 GMT   (52kb)
+
+Title: Remarks on Two-Loop Free Energy in N=4 Supersymmetric Yang-Mills Theory
+  at Finite Temperature
+Authors: A. Fotopoulos and T.R. Taylor
+Comments: 5 pages, 1 figure; final form, Physical Review D
+Report-no: NUB-3192
+Journal-ref: Phys.Rev. D59 (1999) 061701
+\\
+  The strong coupling behavior of finite temperature free energy in N=4
+supersymmetric SU(N) Yang-Mills theory has been recently discussed by Gubser,
+Klebanov and Tseytlin in the context of AdS-SYM correspondence. In this note,
+we focus on the weak coupling behavior. As a result of a two-loop computation
+we obtain, in the large N 't Hooft limit, $F(g^2N\to 0)\approx
+-\frac{\pi^2}{6}N^2V_3T^4(1-\frac{3}{2\pi^2}g^2N)$. Comparison with the strong
+coupling expansion provides further indication that free energy is a smooth
+monotonic function of the coupling constant.
+\\

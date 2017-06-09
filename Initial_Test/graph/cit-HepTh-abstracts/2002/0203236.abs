@@ -1,0 +1,32 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0203236
+From: mcarthur@physics.uwa.edu.au
+Date: Tue, 26 Mar 2002 09:33:50 GMT   (19kb)
+Date (revised v2): Tue, 9 Apr 2002 08:41:09 GMT   (19kb)
+Date (revised v3): Tue, 9 Jul 2002 01:05:11 GMT   (19kb)
+
+Title: Quantum metamorphosis of conformal symmetry in N = 4 super Yang-Mills
+  theory
+Authors: S.M. Kuzenko and I.N. McArthur (Western Australia U.)
+Comments: 20 pages, latex, no figures; comments and references added, the final
+  version to appear in NPB, the title changed on referee's request
+Journal-ref: Nucl.Phys. B640 (2002) 78-94
+\\
+  In gauge theories, not all rigid symmetries of the classical action can be
+maintained manifestly in the quantization procedure, even in the absence of
+anomalies. If this occurs for an anomaly-free symmetry, the effective action is
+invariant under a transformation that differs from its classical counterpart by
+quantum corrections. As shown by Fradkin and Palchik years ago, such a
+phenomenon occurs for conformal symmetry in quantum Yang-Mills theories with
+vanishing beta function, such as the N = 4 super Yang-Mills theory. More
+recently, Jevicki et al demonstrated that the quantum metamorphosis of
+conformal symmetry sheds light on the nature of the AdS/CFT correspondence. In
+this paper, we derive the conformal Ward identity for the bosonic sector of the
+N = 4 super Yang-Mills theory using the background field method. We then
+compute the leading quantum modification of the conformal transformation for a
+specific Abelian background which is of interest in the context of the AdS/CFT
+correspondence. In the case of scalar fields, our final result agrees with that
+of Jevicki et al. The resulting vector and scalar transformations coincide with
+those which are characteristic of a D3-brane embedded in AdS5 x S5.
+\\

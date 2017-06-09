@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9605125
+From: Kojima Takeo <kojima@kurims.kyoto-u.ac.jp>
+Date: Sat, 18 May 96 00:53:13 JST   (18kb)
+Date (revised): Wed, 26 Mar 97 08:42:55 JST
+Date (revised): Thu, 27 Mar 97 05:12:24 JST
+
+Title: Ground state Correlation functions for an impenetrable Bose gas with
+  Neumann or Dirichlet boundary conditions
+Authors: T. Kojima
+Comments: LaTEX file, 27 pages, to appear in J. Stat. Phys. (1997)
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+\\
+  We study density correlation functions for an impenetrable Bose gas in a
+finite box, with Neumann or Dirichlet boundary conditions in the ground state.
+We derive the Fredholm minor determinant formulas for the correlation
+functions. In the thermodynamic limit, we express the correlation functions in
+terms of solutions of non-linear differential equations which were introduced
+by Jimbo, Miwa, M\^ori and Sato as a generalization of the fifth Painlev\'e
+equations.
+\\

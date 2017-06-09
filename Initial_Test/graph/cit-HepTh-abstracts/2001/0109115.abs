@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0109115
+From: Niall MacKay <nm15@york.ac.uk>
+Date: Fri, 14 Sep 2001 11:17:03 GMT   (13kb)
+Date (revised v2): Mon, 26 Nov 2001 13:03:39 GMT   (13kb)
+
+Title: Boundary remnant of Yangian symmetry and the structure of rational
+  reflection matrices
+Authors: G. W. Delius, N. J. MacKay, B. J. Short
+Comments: 13 pages. Role of U(1) factor corrected in v2; results are unchanged
+Subj-class: High Energy Physics - Theory; Quantum Algebra; Exactly Solvable and
+  Integrable Systems
+Journal-ref: Phys.Lett. B522 (2001) 335-344; Erratum-ibid. B524 (2002) 401
+\\
+  For the classical principal chiral model with boundary, we give the subset of
+the Yangian charges which remains conserved under certain integrable boundary
+conditions, and extract them from the monodromy matrix. Quantized versions of
+these charges are used to deduce the structure of rational solutions of the
+reflection equation, analogous to the 'tensor product graph' for solutions of
+the Yang-Baxter equation. We give a variety of such solutions, including some
+for reflection from non-trivial boundary states, for the SU(N) case, and
+confirm these by constructing them by fusion from the basic solutions.
+\\

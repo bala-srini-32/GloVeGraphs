@@ -1,0 +1,19 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9603202
+From: sharon@SLAC.Stanford.EDU
+Date: 29 Mar 1996, 12:36:16 PST   (46kb)
+
+Title: Discrete Physics and the Dirac Equation
+Authors: L. H. Kauffman (Univ. Illinois) and H. P. Noyes (SLAC)
+Comments: LaTex 16 pages, 10 figures. To obtain a copy, send e-mail to
+  techpub@slac.stanford.edu
+Report-no: SLAC-PUB-7115
+Journal-ref: Phys.Lett. A218 (1996) 139-146
+\\
+  We rewrite the 1+1 Dirac equation in light cone coordinates in two
+significant forms, and solve them exactly using the classical calculus of
+finite differences. The complex form yields ``Feynman's Checkerboard''---a
+weighted sum over lattice paths. The rational, real form can also be
+interpreted in terms of bit-strings.
+\\

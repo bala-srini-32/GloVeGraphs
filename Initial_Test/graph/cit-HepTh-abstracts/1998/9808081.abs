@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9808081
+From: Jorma Louko <louko@aei-potsdam.mpg.de>
+Date: Thu, 13 Aug 1998 20:13:03 GMT   (30kb)
+Date (revised v2): Wed, 26 Aug 1998 13:35:45 GMT   (30kb)
+Date (revised v3): Sat, 13 Feb 1999 14:03:52 GMT   (30kb)
+
+Title: Single-exterior black holes and the AdS-CFT conjecture
+Authors: Jorma Louko and Donald Marolf
+Comments: 27 pages, LaTeX, using REVTeX v3.1 with amsfonts and epsf, with two
+  eps figures. (v3: references updated)
+Report-no: SU-GP-98/8-1
+Journal-ref: Phys.Rev. D59 (1999) 066002
+\\
+  In the context of the conjectured AdS-CFT correspondence of string theory, we
+consider a class of asymptotically Anti-de Sitter black holes whose conformal
+boundary consists of a single connected component, identical to the conformal
+boundary of Anti-de Sitter space. In a simplified model of the boundary theory,
+we find that the boundary state to which the black hole corresponds is pure,
+but this state involves correlations that produce thermal expectation values at
+the usual Hawking temperature for suitably restricted classes of operators. The
+energy of the state is finite and agrees in the semiclassical limit with the
+black hole mass. We discuss the relationship between the black hole topology
+and the correlations in the boundary state, and speculate on generalizations of
+the results beyond the simplified model theory.
+\\

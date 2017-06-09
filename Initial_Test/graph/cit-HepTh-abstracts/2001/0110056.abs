@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0110056
+From: Arkady Yu. Segal <a.segal@phys.uu.nl>
+Date: Sun, 7 Oct 2001 20:47:02 GMT   (21kb)
+Date (revised v2): Sat, 13 Oct 2001 21:41:26 GMT   (21kb)
+
+Title: Point particle in general background fields vs. free gauge theories of
+  traceless symmetric tensors
+Authors: A. Yu. Segal (Lebedev Physical Institute)
+Comments: 21 pages, remarks on nonlinear generalization added, a mistake in the
+  discussion of degenerate solutions corrected
+Report-no: FIAN/TD/14/01
+\\
+  Point particle may interact to traceless symmetric tensors of arbitrary rank.
+Free gauge theories of traceless symmetric tensors are constructed, that
+provides a possibility for a new type of interactions, when particles exchange
+by those gauge fields. The gauge theories are parameterized by the particle's
+mass m and otherwise are unique for each rank s. For m=0, they are local gauge
+models with actions of 2s-th order in derivatives, known in d=4 as "pure spin",
+or "conformal higher spin" actions by Fradkin and Tseytlin. For nonzero m, each
+rank-s model undergoes a unique nonlocal deformation which entangles fields of
+all ranks, starting from s. There exists a nonlocal transform which maps m > 0
+theories onto m=0 ones, however, this map degenerates at some m > 0 fields
+whose polarizations are determined by zeros of Bessel functions. Conformal
+covariance properties of the m=0 models are analyzed, the space of gauge fields
+is shown to admit an action of an infinite-dimensional "conformal higher spin"
+Lie algebra which leaves gauge transformations intact.
+\\

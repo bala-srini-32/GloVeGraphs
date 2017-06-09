@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0209085
+From: Leonid Chekhov <chekhov@mi.ras.ru>
+Date: Tue, 10 Sep 2002 13:10:09 GMT   (14kb)
+Date (revised v2): Mon, 7 Oct 2002 09:37:15 GMT   (14kb)
+
+Title: Matrix models vs. Seiberg-Witten/Whitham theories
+Authors: L.Chekhov and A.Mironov
+Comments: 8 pages in LaTeX, 1 LaTeX figure, reference added
+Report-no: FIAN/TD-21/02, ITEP/TH-40/02
+Journal-ref: Phys.Lett. B552 (2003) 293-302
+\\
+  We discuss the relation between matrix models and the Seiberg--Witten type
+(SW) theories, recently proposed by Dijkgraaf and Vafa. In particular, we prove
+that the partition function of the Hermitean one-matrix model in the planar
+(large $N$) limit coincides with the prepotential of the corresponding SW
+theory. This partition function is the logarithm of a Whitham $\tau$-function.
+The corresponding Whitham hierarchy is explicitly constructed. The double-point
+problem is solved.
+\\

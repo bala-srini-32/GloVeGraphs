@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9708010
+From: Manfred Requardt <requardt@Theorie.Physik.UNI-Goettingen.DE>
+Date: Mon, 4 Aug 1997 14:37:32 +0200 (MESZ)   (12kb)
+Date (revised): Tue, 14 Oct 1997 08:12:12 GMT
+
+Title: A New Approach to Functional Analysis on Graphs, the Connes-Spectral
+  Triple and its Distance Function
+Authors: M. Requardt
+Comments: 18 pages, Latex, section 3 about functional analysis expanded, some
+  proofs more detailed
+Subj-class: High Energy Physics - Theory; Functional Analysis; Quantum Algebra
+\\
+  Continuing previous work we develop a certain piece of functional analysis on
+general graphs and use it to create what Connes calls a 'spectral triple', i.e.
+a Hilbert space structure, a representation of a certain (function) algebra and
+a socalled 'Dirac operator', encoding part of the geometric/algebraic
+properties of the graph. We derive in particular an explicit expression for the
+'Connes-distance function' and show that it is in general bounded from above by
+the ordinary distance on graphs (being, typically, strictly smaller(!) than the
+latter). We exhibit, among other things, the underlying reason for this
+phenomenon.
+\\

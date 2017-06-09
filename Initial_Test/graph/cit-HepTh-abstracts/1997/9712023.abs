@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9712023
+From: Calin Iuliu Lazaroiu <lazaroiu@cuphy3.phys.columbia.edu>
+Date: Tue, 2 Dec 1997 21:52:34 GMT   (45kb)
+Date (revised v2): Thu, 14 May 1998 18:46:06 GMT   (45kb)
+
+Title: F-theory and linear sigma models
+Authors: M. Bershadsky, T. M. Chiang, B. R. Greene, A. Johansen, C. I. Lazaroiu
+Comments: 40 pages, no figures; minor cosmetic reorganization of section 4;
+  reference [6] updated
+Report-no: CU-TP-870, HUTP/97-A050, CLNS 97/1524
+Journal-ref: Nucl.Phys. B527 (1998) 531-570
+\\
+  We present an explicit method for translating between the linear sigma model
+and the spectral cover description of SU(r) stable bundles over an elliptically
+fibered Calabi-Yau manifold. We use this to investigate the 4-dimensional
+duality between (0,2) heterotic and F-theory compactifications. We indirectly
+find that much interesting heterotic information must be contained in the
+`spectral bundle' and in its dual description as a gauge theory on multiple
+F-theory 7-branes.
+ A by-product of these efforts is a method for analyzing semistability and the
+splitting type of vector bundles over an elliptic curve given as the sheaf
+cohomology of a monad.
+\\

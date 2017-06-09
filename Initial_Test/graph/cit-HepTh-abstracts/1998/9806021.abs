@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9806021
+From: Hirosi Ooguri <ooguri@itp.ucsb.edu>
+Date: Tue, 2 Jun 1998 23:26:38 GMT   (25kb)
+Date (revised v2): Wed, 3 Jun 1998 23:50:25 GMT   (25kb)
+Date (revised v3): Fri, 12 Jun 1998 23:32:59 GMT   (25kb)
+Date (revised v4): Mon, 15 Jun 1998 18:26:37 GMT   (25kb)
+
+Title: Glueball Mass Spectrum From Supergravity
+Authors: Csaba Csaki, Hirosi Ooguri, Yaron Oz and John Terning
+Comments: 21 pages, LaTeX; a footnote added
+Report-no: UCB-PTH-98/30, LBNL-41875, NSF-ITP-98-068
+Journal-ref: JHEP 9901 (1999) 017
+\\
+  We calculate the spectrum of glueball masses in non-supersymmetric Yang-Mills
+theory in three and four dimensions, based on a conjectured duality between
+supergravity and large N gauge theories. The glueball masses are obtained by
+solving supergravity wave equations in a black hole geometry. We find that the
+mass ratios are in good numerical agreement with the available lattice data. We
+also compute the leading (g_{YM}^2 N)^{-1} corrections to the glueball masses,
+by taking into account stringy corrections to the supergravity action and to
+the black hole metric. We find that the corrections to the masses are negative
+and of order (g_{YM}^2N)^{-3/2}. Thus for a fixed ultraviolet cutoff the masses
+decrease as we decrease the 't Hooft coupling, in accordance with our
+expectation about the continuum limit of the gauge theories.
+\\

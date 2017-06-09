@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0201184
+From: Bernardo Uribe <uribe@math.wisc.edu>
+Date: Wed, 23 Jan 2002 23:57:10 GMT   (18kb)
+Date (revised v2): Thu, 25 Apr 2002 20:15:42 GMT   (18kb)
+
+Title: Deligne Cohomology for Orbifolds, discrete torsion and B-fields
+Authors: Ernesto Lupercio and Bernardo Uribe
+Comments: To be published in the Proceedings of the Summer School "Geometric
+  and Topological methods for Quantum Field Theory", Villa de Leyva, Colombia
+  (2001)
+Subj-class: High Energy Physics - Theory; Differential Geometry; Geometric
+  Topology; Algebraic Topology; Algebraic Geometry
+\\
+  In this paper we introduce the concept of Deligne cohomology of an orbifold.
+We prove that the third Deligne cohomology group of a smooth \'{e}tale groupoid
+classify gerbes with connection over the groupoid. We argue that the $B$-field
+and the discrete torsion in type II superstring theories are special kinds of
+gerbes with connection, and finally, for each one of them, using Deligne
+cohomology we construct a flat line bundle over the inertia groupoid, namely a
+Ruan inner local in the case of an orbifold.
+\\

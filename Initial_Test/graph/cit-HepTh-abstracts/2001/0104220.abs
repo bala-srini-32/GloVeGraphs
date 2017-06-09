@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0104220
+From: pb18 <pb18@york.ac.uk>
+Date: Wed, 25 Apr 2001 14:03:37 GMT   (16kb)
+Date (revised v2): Tue, 12 Jun 2001 14:42:22 GMT   (16kb)
+
+Title: Expectation values of descendent fields in the Bullough-Dodd model and
+  related perturbed conformal field theories
+Authors: P. Baseilhac, M. Stanishkov
+Comments: 17 pages, LaTeX file with amssymb, v2:references added. To appear in
+  Nucl. Phys. B
+Subj-class: High Energy Physics - Theory; Mathematical Physics; Exactly
+  Solvable and Integrable Systems
+Journal-ref: Nucl.Phys. B612 (2001) 373-390
+\\
+  The exact vacuum expectation values of the second level descendent fields
+$<(\partial\phi)^2({\overline\partial}\phi)^2e^{a\phi}>$ in the Bullough-Dodd
+model are calculated. By performing quantum group restrictions, we obtain
+$<L_{-2}{\overline L}_{-2}{\Phi}_{lk}>$ in the $\Phi_{12}$, $\Phi_{21}$ and
+$\Phi_{15}$ perturbed minimal CFTs. In particular, the exact expectation value
+$<T{\overline T}>$ is found to be proportional to the square of the bulk free
+energy.
+\\

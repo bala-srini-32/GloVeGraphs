@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9612178
+From: anderl@anubis.ethz.ch
+Date: Tue, 17 Dec 1996 16:54:36 +0100 (MET)   (57kb)
+
+Title: From path representations to global morphisms for a class of minimal
+  models
+Author: Andreas Recknagel (ETH Zuerich)
+Comments: 50 pages, Plain TeX, 2 figures
+Report-no: ETH-TH/96-44
+Journal-ref: Commun.Math.Phys. 201 (1999) 365-409
+\\
+  We construct global observable algebras and global DHR morphisms for the
+Virasoro minimal models with central charge c(2,q), q odd. To this end, we pass
+{}from the irreducible highest weight modules to path representations, which
+involve fusion graphs of the c(2,q) models. The paths have an interpretation in
+terms of quasi-particles which capture some structure of non-conformal
+perturbations of the c(2,q) models. The path algebras associated to the path
+spaces serve as algebras of bounded observables. Global morphisms which
+implement the superselection sectors are constructed using quantum symmetries:
+We argue that there is a canonical semi-simple quantum symmetry algebra for
+each quasi-rational CFT, in particular for the c(2,q) models. These symmetry
+algebras act naturally on the path spaces, which allows to define a global
+field algebra and covariant multiplets therein.
+\\

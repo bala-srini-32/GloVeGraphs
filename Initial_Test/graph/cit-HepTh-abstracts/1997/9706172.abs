@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9706172
+From: Max Niedermaier <man@mppmu.mpg.de>
+Date: Wed, 25 Jun 1997 10:55:24 +0200 (CEST)   (25kb)
+Date (revised): Mon, 10 Nov 1997 09:41:30 GMT
+
+Title: A Derivation of the Cyclic Form Factor Equation
+Author: M.R. Niedermaier
+Comments: 24 pages, Latex, major improvements
+Report-no: MPI-Ph/97-31
+Journal-ref: Commun.Math.Phys. 196 (1998) 411-428
+\\
+  A derivation of the cyclic form factor equation from quantum field
+theoretical principles is given; form factors being the matrix elements of a
+field operator between scattering states. The scattering states are constructed
+from Haag-Ruelle type interpolating fields with support in a `comoving' Rindler
+spacetime. The cyclic form factor equation then arises from the KMS property of
+the modular operators Delta associated with the field algebras of these Rindler
+wedges. The derivation in particular shows that the equation holds in any
+massive 1+1 dim. relativistic QFT, regardless of its integrability.
+\\

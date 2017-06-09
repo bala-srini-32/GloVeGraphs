@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0104053
+From: Boris Blankleider <boris.blankleider@flinders.edu.au>
+Date: Thu, 5 Apr 2001 17:01:58 GMT   (8kb)
+Date (revised v2): Tue, 11 Mar 2003 06:44:25 GMT   (14kb)
+
+Title: Perturbation theory for bound states and resonances where potentials and
+  propagators have arbitrary energy dependence
+Authors: A. N. Kvinikhidze (U. of Manchester), B. Blankleider (Flinders U.)
+Comments: 13 pages, revtex, modified title & abstract, two new sections,
+  corrected typos
+Subj-class: High Energy Physics - Theory; Mathematical Physics
+\\
+  Standard derivations of ``time-independent perturbation theory'' of quantum
+mechanics cannot be applied to the general case where potentials are energy
+dependent or where the inverse free Green function is a non-linear function of
+energy. Such derivations cannot be used, for example, in the context of
+relativistic quantum field theory. Here we solve this problem by providing a
+new, general formulation of perturbation theory for calculating the changes in
+the energy spectrum and wave function of bound states and resonances induced by
+perturbations to the Hamiltonian. Although our derivation is valid for
+energy-dependent potentials and is not restricted to inverse free Green
+functions that are linear in the energy, the expressions obtained for the
+energy and wave function corrections are compact, practical, and maximally
+similar to the ones of quantum mechanics. For the case of relativistic quantum
+field theory, our approach provides a direct covariant way of obtaining
+corrections to bound and resonance state masses, as well as to wave functions
+that are not in the centre of mass frame.
+\\

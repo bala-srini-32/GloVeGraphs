@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9601006
+From: esposito@axpna1.cern.ch
+Date: Wed, 3 Jan 1996 17:27:54 +0100   (13kb)
+
+Title: One-Loop Effective Action on the Four-Ball
+Authors: Giampiero Esposito, Alexander Yu. Kamenshchik, Giuseppe Pollifrone
+Comments: 25 pages, plain Tex
+Report-no: DSF preprint 96/1
+Journal-ref: Class.Quant.Grav. 13 (1996) 943-956
+\\
+  This paper applies $\zeta$-function regularization to evaluate the 1-loop
+effective action for scalar field theories and Euclidean Maxwell theory in the
+presence of boundaries. After a comparison of two techniques developed in the
+recent literature, vacuum Maxwell theory is studied and the contribution of all
+perturbative modes to $\zeta'(0)$ is derived: transverse, longitudinal and
+normal modes of the electromagnetic potential, jointly with ghost modes. The
+analysis is performed on imposing magnetic boundary conditions, when the
+Faddeev-Popov Euclidean action contains the particular gauge-averaging term
+which leads to a complete decoupling of all perturbative modes. It is shown
+that there is no cancellation of the contributions to $\zeta'(0)$ resulting
+from longitudinal, normal and ghost modes.
+\\

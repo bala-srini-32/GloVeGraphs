@@ -1,0 +1,36 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0010048
+From: Andreas Brandhuber <andreas@theory.caltech.edu>
+Date: Fri, 6 Oct 2000 22:02:58 GMT   (21kb)
+Date (revised v2): Mon, 27 Nov 2000 20:12:33 GMT   (23kb)
+Date (revised v3): Mon, 27 Aug 2001 21:06:31 GMT   (28kb)
+Date (revised v4): Mon, 24 Sep 2001 23:06:33 GMT   (28kb)
+Date (revised v5): Fri, 16 Nov 2001 18:56:20 GMT   (28kb)
+
+Title: Current correlators in the Coulomb branch of N=4 SYM
+Authors: Andreas Brandhuber, Konstadinos Sfetsos
+Comments: LaTeX2e, 26 pages; v2: detailed explanations on the decoupling of
+  scalars and gauge field fluctuations added, references; v5: in an addendum
+  (in collaboration with D. Freedman and K. Skenderis) we demonstrate that the
+  zero-mass poles found in the supergravity calculation are in agreement with
+  field theory, thus resolving a puzzle in earlier versions of the paper
+Report-no: CERN-TH/2000-261, NEIP-00-016
+Journal-ref: JHEP 0012 (2000) 014
+\\
+  We study correlators of R-symmetry currents in the Coulomb branch of N = 4
+supersymmetric gauge theory in the large-N limit, using the AdS/CFT
+correspondence. In particular, we consider gauge fields in the presence of
+gravity and scalar fields parameterizing the coset SL(6,R)/SO(6) in the context
+of five-dimensional gauged supergravity. From a ten-dimensional point of view
+these backgrounds correspond to continuous D3-brane distributions. We find the
+surprising result that all 2-point functions of gauge currents fall into the
+same universality class, irrespectively of whether they correspond to broken or
+unbroken symmetries. We show that the problem of finding the spectrum can be
+mapped into an equivalent Schroedinger problem for supersymmetric quantum
+mechanics. The corresponding potential is the supersymmetric partner of the
+potential arising in studies of the spectrum for massless scalars and
+transverse graviton fluctuations in these backgrounds and the associated
+spectra are also identical. We discuss in detail two examples where these
+computations can be done explicitly as in the conformal case.
+\\

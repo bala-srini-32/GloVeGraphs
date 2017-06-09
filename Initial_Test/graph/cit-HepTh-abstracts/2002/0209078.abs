@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0209078
+From: Mikhail Zubkov <zubkov@heron.itep.ru>
+Date: Mon, 9 Sep 2002 22:54:14 GMT   (7kb)
+Date (revised v2): Sat, 14 Sep 2002 16:41:04 GMT   (7kb)
+Date (revised v3): Fri, 25 Oct 2002 13:23:12 GMT   (8kb)
+Date (revised v4): Wed, 27 Nov 2002 22:17:36 GMT   (10kb)
+Date (revised v5): Fri, 29 Nov 2002 11:21:16 GMT   (10kb)
+
+Title: Dirac monopoles embedded into SU(N) gauge theory with $\theta$ - term
+Authors: M.A.Zubkov
+Comments: 5 pages, Revtex4
+Journal-ref: JETP Lett. 76 (2002) 591
+\\
+  We consider Dirac monopoles embedded into SU(N) gauge theory with theta-term
+for $\theta = 4\pi M $ (where $M$ is half-integer for $N = 2$ and is integer
+for $N>2$). Due to the theta - term those monopoles obtain the SU(N) charge and
+become the dyons. They belong to different irreducible representations of SU(N)
+(but not to all of them). The admitted representations are enumerated. Their
+minimal rank increases with increasing of $N$. The main result of the paper is
+the representation of the partition function of SU(N) model with theta-term
+(that contains singular gauge fields correspondent to the mentioned monopoles)
+as the vacuum average of the product of Wilson loops (considered along the
+monopole worldlines). This vacuum average should be calculated within the
+correspondent model without theta-term.
+\\

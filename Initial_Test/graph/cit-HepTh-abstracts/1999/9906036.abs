@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9906036
+From: Paul Fendley <fendley@rockpile.phys.virginia.edu>
+Date: Fri, 4 Jun 1999 14:04:26 GMT   (9kb)
+Date (revised v2): Thu, 7 Jun 2001 15:19:14 GMT   (9kb)
+
+Title: Sigma models as perturbed conformal field theories
+Authors: Paul Fendley
+Comments: 4 pages. v2: corrects typos (including several in the published
+  version)
+Subj-class: High Energy Physics - Theory; Statistical Mechanics
+Journal-ref: Phys.Rev.Lett. 83 (1999) 4468-4471
+\\
+  We show that two-dimensional sigma models are equivalent to certain perturbed
+conformal field theories. When the fields in the sigma model take values in a
+space G/H for a group G and a maximal subgroup H, the corresponding conformal
+field theory is the $k\to\infty$ limit of the coset model $(G/H)_k$, and the
+perturbation is related to the current of G. This correspondence allows us for
+example to find the free energy for the "O(n)" (=O(n)/O(n-1)) sigma model at
+non-zero temperature. It also results in a new approach to the CP^{n} model.
+\\

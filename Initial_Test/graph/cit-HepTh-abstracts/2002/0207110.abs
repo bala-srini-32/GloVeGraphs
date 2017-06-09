@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0207110
+From: Andre van Tonder <andre@het.brown.edu>
+Date: Thu, 11 Jul 2002 17:32:53 GMT   (12kb)
+
+Title: Ghosts as Negative Spinors
+Authors: Andre van Tonder (Brown University)
+Comments: 20 pages, no figures, Latex2e
+Report-no: BROWN-HET-1282
+Journal-ref: Nucl.Phys. B645 (2002) 371-386
+\\
+  We study the the properties of a BRST ghost degree of freedom complementary
+to a two-state spinor. We show that the ghost may be regarded as a unit carrier
+of negative entropy. We construct an irreducible representation of the su(2)
+Lie algebra with negative spin, equal to -1/2, on the ghost state space and
+discuss the representation of finite SU(2) group elements. The Casimir operator
+J^2 of the combined spinor-ghost system is nilpotent and coincides with the
+BRST operator Q. Using this, we discuss the sense in which the positive and
+negative spin representations cancel in the product to give an effectively
+trivial representation. We compute an effective dimension, equal to 1/2, and
+character for the ghost representation and argue that these are consistent with
+this cancellation.
+\\

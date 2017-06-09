@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9503126
+From: Jorge Gamboa Rios <jgamboa@lauca.usach.cl>
+Date: Mon, 20 Mar 95 17:55:48 AST   (9kb)
+
+Title: Anyons in 1+1 Dimensions
+Authors: Jorge Gamboa and Jorge Zanelli
+Comments: 13p. latex (Revtex), no figures.
+Report-no: USACH 950301
+Journal-ref: Phys.Lett. B357 (1995) 131-137
+\\
+  The possibility of excitations with fractional spin and statististics in
+$1+1$ dimensions is explored. The configuration space of a two-particle system
+is the half-line. This makes the Hamiltonian self-adjoint for a family of
+boundary conditions parametrized by one real number $\gamma$. The limit $\gamma
+\rightarrow 0, (\infty$) reproduces the propagator of non-relativistic
+particles whose wavefunctions are even (odd) under particle exchange. A
+relativistic ansatz is also proposed which reproduces the correct Polyakov spin
+factor for the spinning particle in $1+1$ dimensions. These checks support
+validity of the interpretation of $\gamma$ as a parameter related to the
+``spin'' that interpolates continuously between bosons ($\gamma =0$) and
+fermions ($\gamma =\infty$). Our approach can thus be useful for obtaining the
+propagator for one-dimensional anyons.
+\\

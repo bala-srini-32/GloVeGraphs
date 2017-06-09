@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9505191
+From: Steven Kenneth Kauffmann <74631.3052@compuserve.com>
+Date: 21 May 95 12:54:37 EDT   (24kb)
+
+Title: Self-Gravitational Correction of the "Vacuum Polarization" Feynman
+  Diagram Using Full Einstein Equation Propagation of the Intermediate Virtual
+  Gravitons
+Author: S. K. Kauffmann
+Comments: 22 pages, LaTeX, uses mathlet.sty (attached at bottom)
+\\
+  The self-gravitational correction of the ultraviolet-divergent second- order
+"vacuum polarization" radiative correction insertion Feynman diagram is carried
+out using full, self-consistent Einstein equation propagation of the
+intermediate virtual gravitons, which takes into account their important
+non-linear interactions with each other. (As a by-product, the subsequent
+perturbative treatment of these non-linearities is avoided, which eliminates
+the source of the ultraviolet divergences of the second- quantized gravity
+theory itself.) The corrected diagram is finite, makes no contribution to
+charge renormalization (as could be expected of a diagram involving but a
+single transient virtual pair), and its dynamical behaviour accords with the
+standard quantum electrodynamics result except at inaccessibly extreme
+(Planck-scale-related) values of the momentum transfer. There, the standard
+logarithmic rise with momentum transfer which this diagram contributes to the
+effective coupling strength falls away, as the diagram proceeds instead to
+decrease strongly toward zero. The same self-gravitational correction is made
+to the closely related quartically divergent second-order vacuum-to-vacuum
+amplitude correction Feynman diagram, and it is found that the result vanishes
+identically.
+\\

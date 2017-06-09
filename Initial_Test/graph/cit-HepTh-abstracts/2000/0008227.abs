@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0008227
+From: Barton Zwiebach <zwiebach@mail.lns.mit.edu>
+Date: Tue, 29 Aug 2000 22:36:18 GMT   (30kb)
+Date (revised v2): Tue, 12 Sep 2000 20:05:00 GMT   (31kb)
+
+Title: A Solvable Toy Model for Tachyon Condensation in String Field Theory
+Authors: Barton Zwiebach
+Comments: 27 pages, 6 figures, LaTeX. Added references to reflectionless
+  potentials, minor typos corrected
+Report-no: CTP-MIT-3018
+Journal-ref: JHEP 0009 (2000) 028
+\\
+  The lump solution of \phi^3 field theory provides a toy model for unstable
+D-branes of bosonic string theory. The field theory living on this lump is
+itself a cubic field theory involving a tachyon, two additional scalar fields,
+and a scalar field continuum. Its action can be written explicitly because the
+fluctuation spectrum of the lump turns out to be governed by a solvable
+Schroedinger equation; the \ell=3 case of a series of reflectionless
+potentials. We study the multiscalar tachyon potential both exactly and in the
+level expansion, obtaining insight into issues of convergence, branches of the
+solution space, and the mechanism for removal of states after condensation. In
+particular we find an interpretation for the puzzling finite domain of
+definition of string field marginal parameters.
+\\

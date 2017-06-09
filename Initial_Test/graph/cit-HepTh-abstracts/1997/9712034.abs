@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9712034
+From: Kirill N Ilinski <kni@thsun7.ph.bham.ac.uk>
+Date: Wed, 3 Dec 1997 16:29:45 GMT   (17kb)
+Date (revised v2): Mon, 26 Oct 1998 15:16:19 GMT   (19kb)
+
+Title: Black-Scholes equation from Gauge Theory of Arbitrage
+Authors: Kirill Ilinski (University of Birmingham) and Gleb Kalinin (IPhys
+  Group, St-Petersburg)
+Comments: Latex, 19 pages
+Report-no: Preprint IPhys-5-97
+Subj-class: High Energy Physics - Theory; Physics and Society; Statistical
+  Mechanics
+\\
+  We apply Gauge Theory of Arbitrage (GTA) {hep-th/9710148} to derivative
+pricing. We show how the standard results of Black-Scholes analysis appear from
+GTA and derive correction to the Black-Scholes equation due to a virtual
+arbitrage and speculators reaction on it. The model accounts for both violation
+of the no-arbitrage constraint and non-Brownian price walks which resemble real
+financial data. The correction is nonlocal and transform the differential
+Black-Scholes equation to an integro-differential one.
+\\

@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0005150
+From: Alexander G. Abanov <abanov@mit.edu>
+Date: Tue, 16 May 2000 21:25:59 GMT   (4kb)
+Date (revised v2): Mon, 31 Jul 2000 21:57:56 GMT   (4kb)
+
+Title: Hopf term induced by fermions
+Authors: Alexander G. Abanov
+Comments: 5 pages, no figures, latex, elsart.cls, minor errors are corrected
+Journal-ref: Phys.Lett. B492 (2000) 321-323
+\\
+  We derive an effective action for Dirac fermions coupled to O(3) non-linear
+sigma-model (NLSM) through the Yukawa-type interaction. The nonperturbative
+(global) quantum anomaly of this model results in a Hopf term for the effective
+NLSM. We obtain this term using the ``embedding'' of the CP$^1$ model into the
+CP$^M$ generalization of the model which makes the quantum anomaly
+perturbative. This perturbative anomaly is calculated by means of a gradient
+expansion of a fermionic determinant and is given by the Chern-Simons term for
+an auxiliary gauge field.
+\\

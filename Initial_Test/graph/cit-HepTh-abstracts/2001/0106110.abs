@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0106110
+From: Peter Schupp <schupp@theorie.physik.uni-muenchen.de>
+Date: Wed, 13 Jun 2001 22:12:38 GMT   (13kb)
+Date (revised v2): Mon, 18 Jun 2001 11:37:38 GMT   (14kb)
+
+Title: Noncommutative line bundle and Morita equivalence
+Authors: Branislav Jurco, Peter Schupp, Julius Wess
+Comments: 17 pages
+Subj-class: High Energy Physics - Theory; Mathematical Physics; Quantum Algebra
+Journal-ref: Lett.Math.Phys. 61 (2002) 171-186
+\\
+  Global properties of abelian noncommutative gauge theories based on
+$\star$-products which are deformation quantizations of arbitrary Poisson
+structures are studied. The consistency condition for finite noncommutative
+gauge transformations and its explicit solution in the abelian case are given.
+It is shown that the local existence of invertible covariantizing maps (which
+are closely related to the Seiberg-Witten map) leads naturally to the notion of
+a noncommutative line bundle with noncommutative transition functions. We
+introduce the space of sections of such a line bundle and explicitly show that
+it is a projective module. The local covariantizing maps define a new star
+product $\star'$ which is shown to be Morita equivalent to $\star$.
+\\

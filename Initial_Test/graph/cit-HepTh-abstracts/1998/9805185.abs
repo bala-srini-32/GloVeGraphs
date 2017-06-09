@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9805185
+From: Arnd Zapletal <zapletal@physik.fu-berlin.de>
+Date: Wed, 27 May 1998 13:24:21 GMT   (45kb)
+Date (revised v2): Tue, 10 Nov 1998 17:17:04 GMT   (45kb)
+Date (revised v3): Thu, 7 Jan 1999 11:23:41 GMT   (45kb)
+
+Title: Exact Form Factors in Integrable Quantum Field Theories: the Sine-Gordon
+  Model
+Authors: H. Babujian, A. Fring, M. Karowski and A. Zapletal
+Comments: 55 pages, 7 figures, LaTeX
+Subj-class: High Energy Physics - Theory; Exactly Solvable and Integrable
+  Systems
+Journal-ref: Nucl.Phys. B538 (1999) 535-586
+\\
+  We provide detailed arguments on how to derive properties of generalized form
+factors, originally proposed by one of the authors (M.K.) and Weisz twenty
+years ago, solely based on the assumption of "minimal analyticity" and the
+validity of the LSZ reduction formalism. These properties constitute
+consistency equations which allow the explicit evaluation of the n-particle
+form factors once the scattering matrix is known. The equations give rise to a
+matrix Riemann-Hilbert problem. Exploiting the "off-shell" Bethe ansatz we
+propose a general formula for form factors for an odd number of particles. For
+the Sine-Gordon model alias the massive Thirring model we exemplify the general
+solution for several operators. We carry out a consistency check for the
+solution of the three particle form factor against the Thirring model
+perturbation theory and thus confirm the general formalism.
+\\

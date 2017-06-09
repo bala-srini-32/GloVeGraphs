@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9807115
+From: Gianguido Dall'Agata <dallagata@to.infn.it>
+Date: Thu, 16 Jul 1998 19:34:14 GMT   (42kb)
+Date (revised v2): Fri, 24 Jul 1998 13:05:22 GMT   (41kb)
+Date (revised v3): Sun, 1 Nov 1998 08:32:09 GMT   (39kb)
+
+Title: The Osp(8|4) singleton action from the supermembrane
+Authors: Gianguido Dall'Agata, Davide Fabbri, Christophe Fraser, Pietro Fre',
+  Piet Termonia and Mario Trigiante
+Comments: 36 pages, 2 figures, LaTex, uses package latexsym. Improved the text
+  with some clarifications, references and equations added
+Report-no: DFTT 98/39
+Journal-ref: Nucl.Phys. B542 (1999) 157-194
+\\
+  Our goal is to study the supermembrane on an $AdS_4 \times \cal M_7$
+background, where $\cal M_7$ is a 7--dimensional Einstein manifold with $N$
+Killing spinors. This is a direct way to derive the $Osp(N|4)$ singleton field
+theory with all the additional properties inherited from the geometry of the
+internal manifold. As a first example we consider the maximally supersymmetric
+$Osp(8|4)$ singleton corresponding to the choice $\cal M_7 = S^7$. We find the
+explicit form of the action of the membrane coupled to this background geometry
+and show its invariance under non--linearly realised superconformal
+transformations. To do this we introduce a supergroup generalisation of the
+solvable Lie algebra parametrisation of non--compact coset spaces. We also
+derive the action of quantum fluctuations around the classical configuration,
+showing that this is precisely the singleton action. We find that the singleton
+is simply realised as a free field theory living on flat Minkowski space.
+\\

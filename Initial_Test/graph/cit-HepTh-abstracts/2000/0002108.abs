@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0002108
+From: "Oleg Shvedov" <shvedov@qs.phys.msu.su>
+Date: Mon, 14 Feb 2000 10:48:01 GMT   (23kb)
+
+Title: Time Evolution in the External Field: the Unitarity Paradox
+Authors: O.Yu.Shvedov
+Comments: 25 pages, LaTex2e, 1 figure
+Journal-ref: Annals Phys. 287 (2001) 260-290
+\\
+  One of the axioms of quantum field theory is the property of unitarity of the
+evolution operator. However, if one considers the quantum electrodynamics in
+the external field in the leading order of perturbation theory, one will find
+that the evolution transformation is a non-unitary canonical transformation of
+creation and annihilation operators. This observation was one of the arguments
+for the hypothesis that one should choose different representations of the
+canonical commutation relations at different moments of time in the exact
+quantum field theory. In this paper the contradiction is analyzed for the case
+of a simple quantum mechanical model being an analog of the leading order of
+the large-N field theory. On the one hand, this model is renormalized with the
+help of the constructive field theory methods; the Hilbert space and unitary
+evolution operator are constructed. On the other hand, the leading order of the
+evolution transformation in the strong external field is shown to be
+non-unitary. Thus, unitarity of evolution in the exact theory is not in
+contradiction with non-unitarity of the approximate theory.
+\\

@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0003230
+From: Roberto Zucchini <zucchinir@bo.infn.it>
+Date: Sat, 25 Mar 2000 11:57:51 GMT   (18kb)
+
+Title: 3-point functions of universal scalars in maximal SCFTs at large N
+Authors: Fiorenzo Bastianelli, Roberto Zucchini
+Comments: 25 pages, Plain TeX, no figures, requires AMS font files AMSSYM.DEF
+  and amssym.tex
+Report-no: DFUB 00-05
+Journal-ref: JHEP 0005 (2000) 047
+\\
+  We compute all 3-point functions of the ``universal'' scalar operators
+contained in the interacting, maximally supersymmetric CFTs at large N by using
+the AdS/CFT correspondence. These SCFTs are related to the low energy
+description of M5, M2 and D3 branes, and the common set of universal scalars
+corresponds through the AdS/CFT relation to the fluctuations of the metric and
+the magnetic potential along the internal manifold. For the interacting (0,2)
+SCFT_6 at large N, which is related to M5 branes, this set of scalars is
+complete, while additional non-universal scalar operators are present in the
+d=4, N=4 super Yang-Mills theory and in the N=8 SCFT_3, related to D3 and M2
+branes, respectively.
+\\

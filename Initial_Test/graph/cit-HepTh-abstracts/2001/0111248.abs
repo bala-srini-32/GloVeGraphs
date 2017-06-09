@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0111248
+From: Uwe Trittmann <trittman@tick.mpi-hd.mpg.de>
+Date: Tue, 27 Nov 2001 21:32:40 GMT   (61kb)
+
+Title: Exploring N=1 SYM(2+1): the Stress-Tensor Correlator
+Authors: U. Trittmann
+Comments: 5 pp., 6 figures, uses espcrc2.sty. Contribution to the International
+  Workshop "Light-cone Physics: Particles and Strings", ECT*, Trento, Italy,
+  Sep. 3-11, 2001, to be published in Nucl. Phys. B (Proc. Suppl.)
+Journal-ref: Nucl.Phys.Proc.Suppl. 108 (2002) 160-164
+\\
+  The evaluation of field theoretic correlators at strong couplings is
+especially interesting in the light of recently discovered string/field theory
+correspondences. We present a calculation of the stress-tensor correlator in
+N=1 SYM theory in 2+1 dimensions. We calculate this object numerically with the
+method of supersymmetric discrete light-cone quantization (SDLCQ) at large N_c.
+For small distances we reproduce the conformal field theory result with the
+correlator behaving like 1/r^6. In the large r limit the correlator is
+determined by the (massless) BPS states of the theory. We find a critical value
+of the coupling where the correlator goes to zero in this limit. This critical
+coupling is shown to grow linearly with the square root of the transverse
+momentum resolution.
+\\

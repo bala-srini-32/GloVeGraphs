@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9909200
+From: mccartor <mccartor@mail.physics.smu.edu>
+Date: Tue, 28 Sep 1999 20:58:02 GMT   (7kb)
+
+Title: Consistent Perturbative Light Front Formulation of Yang-Mills Theories
+Authors: M. Morara, R. Soldati and G. McCartor
+Comments: 7 pages and uses aipproc.sty
+Report-no: SMUHEP/99-08
+Journal-ref: AIP Conf.Proc. 494 (1999) 284-290
+\\
+  It is shown how to obtain the consistent light front form quantization of a
+non-Abelian pure Yang-Mills theory (gluondynamics) in the framework of the
+standard perturbative approach. After a short review of the previous attempts
+in the light cone gauge $A_-=0$, it is explained how the difficulties can be
+overcome after turning to the anti light cone gauge $A_+=0$. In particular, the
+generating functional of the renormalized Green's functions turns out to be the
+same as in the conventional instant form approach, leading to the
+Mandelstam-Leibbrandt prescription for the free gluon propagator.
+\\

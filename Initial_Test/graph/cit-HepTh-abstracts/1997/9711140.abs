@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9711140
+From: Niall J MacKay <N.J.MacKay@damtp.cam.ac.uk>
+Date: Tue, 18 Nov 1997 18:25:54 GMT   (27kb)
+Date (revised v2): Tue, 16 Jun 1998 11:59:12 GMT   (27kb)
+Date (revised v3): Thu, 4 Feb 1999 14:27:08 GMT   (18kb)
+
+Title: Conserved Charges and Supersymmetry in Principal Chiral Models
+Authors: J. M. Evans, M. Hassan, N. J. MacKay and A. J. Mountain
+Comments: 18 pages, LaTeX. Revised and up-dated version based on conference
+  talks by JME and NJM
+Report-no: DAMTP-97-120
+\\
+  We report on investigations of local (and non-local) charges in bosonic and
+supersymmetric principal chiral models in 1+1 dimensions. In the bosonic PCM
+there is a classically conserved local charge for each symmetric invariant
+tensor of the underlying group. These all commute with the non-local Yangian
+charges. The algebra of the local charges amongst themselves is rather more
+subtle. We give a universal formula for infinite sets of mutually commuting
+local charges with spins equal to the exponents of the underlying classical
+algebra modulo its Coxeter number. Many of these results extend to the
+supersymmetric PCM, but with local conserved charges associated with
+antisymmetric invariants in the Lie algebra. We comment briefly on the quantum
+conservation of local charges in both the bosonic and super PCMs.
+\\

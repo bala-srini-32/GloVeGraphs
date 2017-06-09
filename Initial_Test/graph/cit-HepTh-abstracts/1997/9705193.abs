@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9705193
+From: KALOPER@hep.Physics.McGill.CA
+Date: Sun, 25 May 1997 17:08:23 -0400 (EDT)   (28kb)
+Date (revised): Tue, 17 Jun 1997 17:24:43 -0400 (EDT)
+
+Title: Duality Beyond the First Loop
+Authors: Nemanja Kaloper and Krzysztof Meissner
+Comments: 26 pages, latex, no figures. Several typos corrected, and references
+  to Nucl. Phys. B405 (1993) 109 by E. Kiritsis and Nucl. Phys. B411 (1994) 487
+  by A. Giveon and E. Kiritsis added
+Report-no: CERN-TH/97-13, WATPHYS-THY-96/18
+Journal-ref: Phys.Rev. D56 (1997) 7940-7953
+\\
+  In this article we give a calculation of the two-loop $\sigma$-model
+corrections to the T-duality map in string theory. We use the effective action
+approach, and analyze two-loop corrections in a specific subtraction scheme.
+Focusing on backgrounds which have a single Abelian isometry, we find the
+explicit form for the $O(\alpha')$ modifications of the lowest order duality
+transformations. Rather surprisingly, the manifest two-loop duality depends
+crucially on the torsion field. In contrast to the dilaton and metric fields,
+which are merely passive spectators, the torsion plays a more active role,
+because of the anomalous couplings to the gauge fields that arise via
+dimensional reduction. Our results support the interpretation of T-duality as
+an expansion in the inverse string tension $\alpha'$, and its order-by-order
+realization as a manifest symmetry of the full string theory.
+\\

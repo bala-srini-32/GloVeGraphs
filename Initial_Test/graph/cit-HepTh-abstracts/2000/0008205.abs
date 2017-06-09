@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0008205
+From: Jeremy Michelson <jeremy@physics.rutgers.edu>
+Date: Sun, 27 Aug 2000 19:03:48 GMT   (383kb)
+Date (revised v2): Wed, 1 Aug 2001 17:57:34 GMT   (356kb)
+
+Title: *-TREK: The One-Loop N=4 Noncommutative SYM Action
+Authors: Hong Liu and Jeremy Michelson (Rutgers University)
+Comments: 30 pages AMSLaTeX using JHEP.cls (22 pages if REVTeX4), 2 eps
+  figures. dnmacs is optional. v2: minor typos corrected. Appendix on bosonic
+  annular propogator added
+Report-no: RUNHETC-2000-31
+Journal-ref: Nucl.Phys. B614 (2001) 279-304
+\\
+  We investigate N=4 noncommutative super Yang-Mills (SYM) theory. We compute
+the one-loop four gauge boson scattering amplitude on parallel Dp-branes, and
+find the corresponding contribution to the noncommutative SYM one-loop action
+in a momentum expansion. The result is somewhat surprising. We find that while
+the planar diagram can be written using the usual *-product, the contributions
+from nonplanar diagrams in general involve additional structure beyond the
+*-product, arising from the nontrivial worldsheet correlations surviving the
+field theory limit. To each nonplanar diagram, depending on the number n of
+external vertex operator insertions on each boundary, there is a corresponding
+*_n n-ary operation. We further find that it is no longer possible to write
+down an off-shell gauge invariant one-loop effective action using the
+noncommutative field strength defined at tree-level.
+\\

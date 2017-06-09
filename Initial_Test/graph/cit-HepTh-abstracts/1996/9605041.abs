@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9605041
+From: Steffen Meissner <meissner@qft2.physik.hu-berlin.de>
+Date: Tue, 7 May 96 11:41:10 METDST   (15kb)
+
+Title: Ground State Structure and Low Temperature Behaviour of an Integrable
+  Chain with Alternating Spins
+Authors: B.-D. Doerfel and St. Meissner (HU Berlin)
+Comments: 22 pages, LaTeX, uses ioplppt.sty and PicTeX macros
+Report-no: SFB 288 preprint
+Journal-ref: J.Phys. A29 (1996) 6471-6487
+\\
+  In this paper we continue the investigation of an anisotropic integrable spin
+chain, consisting of spins $s=1$ and $s=\frac{1}{2}$, started in our paper
+\cite{meissner}. The thermodynamic Bethe ansatz is analysed especially for the
+case, when the signs of the two couplings $\bar{c}$ and $\tilde{c}$ differ. For
+the conformally invariant model ($\bar{c}=\tilde{c}$) we have calculated heat
+capacity and magnetic susceptibility at low temperature. In the isotropic limit
+our analysis is carried out further and susceptibilities are calculated near
+phase transition lines (at $T=0$).
+\\

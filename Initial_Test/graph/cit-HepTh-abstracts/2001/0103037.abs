@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0103037
+From: michael bordag <michael.bordag@itp.uni-leipzig.de>
+Date: Tue, 6 Mar 2001 15:10:17 GMT   (18kb)
+Date (revised v2): Thu, 8 Mar 2001 11:16:13 GMT   (18kb)
+
+Title: Multiple reflection expansion and heat kernel coefficients
+Authors: M. Bordag, D. Vassilevich, H. Falomir, E.M. Santangelo
+Comments: 21 pages, corrected for some misprints
+Journal-ref: Phys.Rev. D64 (2001) 045017
+\\
+  We propose the multiple reflection expansion as a tool for the calculation of
+heat kernel coefficients. As an example, we give the coefficients for a sphere
+as a finite sum over reflections, obtaining as a byproduct a relation between
+the coefficients for Dirichlet and Neumann boundary conditions. Further, we
+calculate the heat kernel coefficients for the most general matching conditions
+on the surface of a sphere, including those cases corresponding to the presence
+of delta and delta prime background potentials. In the latter case, the
+multiple reflection expansion is shown to be non-convergent.
+\\

@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9705168
+From: rochev@mx.ihep.su
+Date: Thu, 22 May 1997 15:03:04 GMT+03:00   (9kb)
+Date (revised): Tue, 23 Dec 1997 15:40:56 GMT
+
+Title: On solving Schwinger-Dyson equations for non-Abelian gauge theory
+Author: V.E. Rochev
+Comments: 12 pages, Plain LaTeX, no figures, extended and revised version
+  published in Journal of Physics A
+Journal-ref: J.Phys. A31 (1998) 409-416
+\\
+  A method for solving Schwinger-Dyson equations for the Green function
+generating functional of non-Abelian gauge theory is proposed. The method is
+based on an approximation of Schwinger-Dyson equations by exactly soluble
+equations. For the SU(2) model the first step equations of the iteration scheme
+are solved which define a gauge field propagator. Apart from the usual
+perturbative solution, a non-perturbative solution is found which corresponds
+to the spontaneous symmetry breaking and obeys infrared finite behaviour of the
+propagator.
+\\

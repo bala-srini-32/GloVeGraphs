@@ -1,0 +1,32 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9709064
+From: Sergey Solodukhin <sergey@avatar.uwaterloo.ca>
+Date: Mon, 8 Sep 1997 15:20:11 -0400   (13kb)
+Date (revised): Fri, 12 Sep 1997 14:40:31 -0400
+Date (revised): Tue, 2 Dec 1997 22:55:35 GMT
+Date (revised): Mon, 19 Jan 1998 21:55:39 GMT
+
+Title: Universality of Quantum Entropy for Extreme Black Holes
+Authors: Robert B. Mann and Sergey N. Solodukhin
+Comments: 18 pages, latex, no figures, minor changes, to appear in Nucl. Phys.
+  B
+Report-no: WATPHYS-TH-97/13
+Journal-ref: Nucl.Phys. B523 (1998) 293-307
+\\
+  We consider the extremal limit of a black hole geometry of the
+Reissner-Nordstrom type and compute the quantum corrections to its entropy.
+Universally, the limiting geometry is the direct product of two 2-dimensional
+spaces and is characterized by just a few parameters. We argue that the quantum
+corrections to the entropy of such extremal black holes due to a massless
+scalar field have a universal behavior. We obtain explicitly the form of the
+quantum entropy in this extremal limit as function of the parameters of the
+limiting geometry. We generalize these results to black holes with toroidal or
+higher genus horizon topologies. In general, the extreme quantum entropy is
+completely determined by the spectral geometry of the horizon and in the
+ultra-extreme case it is just a determinant of the 2-dimensional Laplacian. As
+a byproduct of our considerations we obtain expressions for the quantum entropy
+of black holes which are not of the Reissner-Nordstrom type: the extreme
+dilaton and extreme Kerr-Newman black holes. In both cases the classical
+Bekenstein-Hawking entropy is modified by logarithmic corrections.
+\\

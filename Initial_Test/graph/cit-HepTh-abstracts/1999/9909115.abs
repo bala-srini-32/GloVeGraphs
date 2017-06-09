@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9909115
+From: Ronaldo Thibes <thibes@if.ufrj.br>
+Date: Thu, 16 Sep 1999 14:40:13 GMT   (13kb)
+
+Title: On the BFFT quantization of first order systems
+Authors: Ricardo Amorim and Ronaldo Thibes
+Comments: 18 pages, LaTeX, no figures, to appear in Journal of Mathematical
+  Physics
+Journal-ref: J.Math.Phys. 40 (1999) 5306-5317
+\\
+  By using the field-antifield formalism, we show that the method of Batalin,
+Fradkin, Fradkina and Tyutin to convert Hamiltonian systems submitted to second
+class constraints introduces compensating fields which do not belong to the
+BRST cohomology at ghost number one. This assures that the gauge symmetries
+which arise from the BFFT procedure are not obstructed at quantum level. An
+example where massive electrodynamics is coupled to chiral fermions is
+considered. We solve the quantum master equation for the model and show that
+the respective counterterm has a decisive role in extracting anomalous
+expectation values associated with the divergence of the Noether chiral
+current.
+\\

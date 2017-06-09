@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0107017
+From: Axel Pelster <pelster@physik.fu-berlin.de>
+Date: Tue, 3 Jul 2001 14:15:24 GMT   (285kb)
+
+Title: Recursive Graphical Construction for Feynman Diagrams and Their Weights
+  in Ginzburg-Landau Theory
+Authors: Hagen Kleinert, Axel Pelster, and Bruno Van den Bossche
+Comments: Author Information under
+  http://www.physik.fu-berlin.de/~kleinert/institution.html Latest update of
+  paper also at http://www.physik.fu-berlin.de/~kleinert/325
+Journal-ref: Physica A312 (2002) 141-152
+\\
+  The free energy of the Ginzburg-Landau theory satisfies a nonlinear
+functional differential equation which is turned into a recursion relation. The
+latter is solved graphically order by order in the loop expansion to find all
+connected vacuum diagrams, and their corresponding weights. In this way we
+determine the connected vacuum diagrams and their weights up to four loops.
+\\

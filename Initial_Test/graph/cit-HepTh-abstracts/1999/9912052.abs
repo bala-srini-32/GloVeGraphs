@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9912052
+From: Bernard Knaepen <bknaepen@ulb.ac.be>
+Date: Tue, 7 Dec 1999 12:38:08 GMT   (14kb)
+Date (revised v2): Wed, 8 Dec 1999 12:11:09 GMT   (14kb)
+
+Title: A Theorem on First-Order Interaction Vertices for Free p-Form Gauge
+  Fields
+Authors: Marc Henneaux and Bernard Knaepen
+Comments: 18 pages, no figures, misquotes in references corrected
+Report-no: ULB-TH-99/30, DAMTP-1999-172
+Journal-ref: Int.J.Mod.Phys. A15 (2000) 3535-3548
+\\
+  The complete proof of a theorem announced in [1] on the consistent
+interactions for (non-chiral) exterior form gauge fields is given. The theorem
+can be easily generalized to the analysis of anomalies. Its proof amounts to
+computing the local BRST cohomology H^0(s|d) in the space of local n-forms
+depending on the fields, the ghosts, the antifields and their derivatives.
+\\

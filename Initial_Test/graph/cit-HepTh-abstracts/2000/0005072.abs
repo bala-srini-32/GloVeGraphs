@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0005072
+From: Arkady Tseytlin <tseytlin@pacific.mps.ohio-state.edu>
+Date: Mon, 8 May 2000 22:54:57 GMT   (20kb)
+Date (revised v2): Tue, 9 May 2000 20:32:11 GMT   (20kb)
+Date (revised v3): Tue, 30 May 2000 16:23:55 GMT   (22kb)
+
+Title: R^4 terms in 11 dimensions and conformal anomaly of (2,0) theory
+Author: A.A. Tseytlin
+Comments: 21 pages, harvmac. v3: substantial revision of section 5 (now use
+  correct invariant I_3), main arguments are unchanged, but it is no longer
+  claimed that reduction of E_8 invariant itself leads to -3 N shift of the
+  coefficient 4N^3 in the anomaly
+Report-no: OHSTPY-HEP-T-00-006
+Journal-ref: Nucl.Phys. B584 (2000) 233-250
+\\
+  Using AdS_7/CFT_6 correspondence we discuss computation of a subleading O(N)
+term in the scale anomaly of (2,0) theory describing N coincident M5 branes.
+While the leading O(N^3) contribution to the anomaly is determined by the
+supergravity action, the O(N) contribution comes from a particular R^4 term (8d
+Euler density) in the 11-dimensional effective action. This R^4 term is argued
+to be part of the same superinvariant as the P-odd C_3 R^4 term known to
+produce O(N) contribution to the R-symmetry anomaly of (2,0) theory. The known
+results for R-anomaly suggest that the total scale anomaly extrapolated to N=1
+should be the same as the anomaly of a single free (2,0) tensor multiplet. A
+proposed explanation of this agreement is that the coefficient 4N^3 in the
+anomaly (which was found previously to be also the ratio of the 2-point and
+3-point graviton correlators in the (2,0) theory and in the free tensor
+multiplet theory) is shifted to 4N^3 -3N.
+\\

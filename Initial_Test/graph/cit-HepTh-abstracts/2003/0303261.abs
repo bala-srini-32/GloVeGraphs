@@ -1,0 +1,19 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0303261
+From: H. Ballhausen <physik@ballhausen.de>
+Date: Mon, 31 Mar 2003 12:09:24 GMT   (34kb)
+Date (revised v2): Wed, 9 Apr 2003 08:50:19 GMT   (41kb)
+
+Title: Direct Calculation of the Critical Effective Potential
+Authors: H. Ballhausen
+Comments: 4 pages, 3 figures
+\\
+  The critical effective potential is the nonperturbative part of the effective
+action at a phase transition. It equals the scale invariant effective average
+potential and can be calculated from the renormalization group flow of the
+effective average action. In some cases this requires only the solution of an
+ordinary differential equation without actually simulating the renormalization
+group flow. Here the Ising model is examined beyond leading order and with full
+field dependent effective potential.
+\\

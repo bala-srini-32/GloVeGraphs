@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0104032
+From: Matthew J. Strassler <strasslr@ias.edu>
+Date: Tue, 3 Apr 2001 20:47:34 GMT   (19kb)
+Date (revised v2): Wed, 4 Apr 2001 17:12:09 GMT   (19kb)
+
+Title: On Methods for Extracting Exact Non-perturbative Results in
+  Non-supersymmetric Gauge Theories
+Authors: M.J. Strassler (U.Pennsylvania)
+Comments: 17 pages, one figure (v2, sentence added to abstract)
+Report-no: UPR-934-T
+\\
+  At large N, a field theory and its orbifolds (given by projecting out some of
+its fields) share the same planar graphs. If the parent-orbifold relation
+continues even nonperturbatively, then properties such as confinement and
+chiral symmetry breaking will appear in both parent and orbifold. N=1
+supersymmetric Yang-Mills has many nonsupersymmetric orbifolds which resemble
+QCD. A nonperturbative parent-orbifold relation predicts many surprising
+effects, exactly valid at large N, and expected to suffer only mild 1/N
+corrections. These include degeneracies among bosonic hadrons and exact
+predictions for domain wall tensions. Other predictions are valid even when
+supersymmetry in the parent is broken. Since these theories are QCD-like,
+simulation is possible, so these predictions may be numerically tested. The
+method also relates wide classes of nonsupersymmetric theories.
+\\

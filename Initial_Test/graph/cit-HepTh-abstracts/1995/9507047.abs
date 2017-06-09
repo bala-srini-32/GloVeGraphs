@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9507047
+From: Jens Boeckenhauer <i02bok@HP-Cluster.desy.de>
+Date: Fri, 7 Jul 1995 15:34:35 +0200 (MESZ)   (20kb)
+
+Title: An Algebraic Formulation of Level One Wess-Zumino-Witten Models
+Author: J. B{\"o}ckenhauer
+Comments: 20 pages, latex2e
+Report-no: DESY 95-138
+Journal-ref: Rev.Math.Phys. 8 (1996) 925-948
+\\
+  The highest weight modules of the chiral algebra of orthogonal WZW models at
+level one possess a realization in fermionic representation spaces; the
+Kac-Moody and Virasoro generators are represented as unbounded limits of even
+CAR algebras. It is shown that the representation theory of the underlying even
+CAR algebras reproduces precisely the sectors of the chiral algebra. This fact
+allows to develop a theory of local von Neumann algebras on the punctured
+circle, fitting nicely in the Doplicher-Haag-Roberts framework. The relevant
+localized endomorphisms which generate the charged sectors are explicitly
+constructed by means of Bogoliubov transformations. Using CAR theory, the
+fusion rules in terms of sector equivalence classes are proven.
+\\

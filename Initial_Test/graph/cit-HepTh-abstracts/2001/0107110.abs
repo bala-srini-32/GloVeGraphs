@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0107110
+From: "Miguel A. Vazquez-Mozo" <vazquez@alf.nbi.dk>
+Date: Thu, 12 Jul 2001 17:14:58 GMT   (24kb)
+Date (revised v2): Tue, 24 Jul 2001 10:43:47 GMT   (24kb)
+Date (revised v3): Thu, 13 Sep 2001 13:57:27 GMT   (24kb)
+
+Title: Noncommutative Chiral Gauge Theories on the Lattice with Manifest
+  Star-Gauge Invariance
+Authors: J. Nishimura and M.A. Vazquez-Mozo
+Comments: 23 pages, 1 figure. LaTeX, epsf. v3: Reference added and typos
+  corrected. Final version published in Journal of High Energy Physics
+Journal-ref: JHEP 0108 (2001) 033
+\\
+  We show that noncommutative U(r) gauge theories with a chiral fermion in the
+adjoint representation can be constructed on the lattice with manifest
+star-gauge invariance in arbitrary even dimensions. Chiral fermions are
+implemented using a Dirac operator which satisfies the Ginsparg-Wilson
+relation. A gauge-invariant integration measure for the fermion fields can be
+given explicitly, which simplifies the construction as compared with lattice
+chiral gauge theories in ordinary (commutative) space-time. Our construction
+includes the cases where continuum calculations yield a gauge anomaly. This
+reveals a certain regularization dependence, which is reminiscent of parity
+anomaly in commutative space-time with odd dimensions. We speculate that the
+gauge anomaly obtained in the continuum calculations in the present cases can
+be cancelled by an appropriate counterterm.
+\\

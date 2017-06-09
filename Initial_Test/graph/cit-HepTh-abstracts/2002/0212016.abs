@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0212016
+From: Marco Krohn <krohn@itp.uni-hannover.de>
+Date: Mon, 2 Dec 2002 16:06:09 GMT   (25kb)
+
+Title: Ghost Systems Revisited: Modified Virasoro Generators and Logarithmic
+  Conformal Field Theories
+Authors: Marco Krohn, Michael Flohr
+Comments: 24+1 pages LaTeX2e
+Report-no: ITP-UH-26/02
+Journal-ref: JHEP 0301 (2003) 020
+\\
+  We study the possibility of extending ghost systems with higher spin to a
+logarithmic conformal field theory. In particular we are interested in c=-26
+which turns out to behave very differently to the already known c=-2 case. The
+energy momentum tensor cannot be built anymore by a combination of derivatives
+of generalized symplectic fermion fields.
+  Moreover, the logarithmically extended theory is only consistent when
+considered on nontrivial Riemann surfaces. This results in a LCFT with some
+unexpected properties. For instance the Virasoro mode L_0 is diagonal and for
+certain values of the deformation parameters even the whole global conformal
+group is non-logarithmic.
+\\

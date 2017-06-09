@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0001130
+From: Oren Bergman <bergman@theory.caltech.edu>
+Date: Thu, 20 Jan 2000 18:56:21 GMT   (10kb)
+Date (revised v2): Fri, 10 Mar 2000 23:54:48 GMT   (10kb)
+
+Title: On the Consistency of Orbifolds
+Authors: O. Bergman (Caltech), M.R. Gaberdiel (Cambridge)
+Comments: 10 pages, LaTex. The sign ambiguities in the GSO-projection are
+  clarified in the abstract and the introduction, and revised in sections 3 and
+  4. In particular we clarify that modular invariance fixes all the ambiguities
+  in principle, but in practice this is hard to do. The final conclusion
+  regarding the spectrum of the non-supersymmetric orbifold remains unchanged
+Report-no: CALT-68-2256, CITUSC/00-002, DAMTP-2000-4
+Journal-ref: Phys.Lett. B481 (2000) 379-385
+\\
+  Modular invariance is a necessary condition for the consistency of any closed
+string theory. In particular, it imposes stringent constraints on the spectrum
+of orbifold theories, and in principle determines their spectrum uniquely up to
+discrete torsion classes. In practice, however, there are often ambiguities in
+the construction of orbifolds that are a consequence of the fact that the
+action of the orbifold elements on degenerate ground states is not unambiguous.
+We explain that there exists an additional consistency condition, related to
+the spectrum of D-branes in the theory, which eliminates these ambiguities. For
+supersymmetric orbifolds this condition turns out to be equivalent to the
+condition that supersymmetry is unbroken in the twisted sectors, but for
+non-supersymmetric orbifolds it appears to be a genuinely new consistency
+condition.
+\\

@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9606116
+From: T.Hollowood@swansea.ac.uk
+Date: Wed, 19 Jun 96 10:31:05 +0100   (27kb)
+
+Title: The N=1 supersymmetric bootstrap and Lie algebas
+Authors: Timothy J. Hollowood and Evangelos Mavrikis
+Comments: 21 pages, 3 figures (uses psfig.tex), plain tex with macro included
+Report-no: SWAT/116
+Journal-ref: Nucl.Phys. B484 (1997) 631-652
+\\
+  The bootstrap programme for finding exact S-matrices of integrable quantum
+field theories with N=1 supersymmetry is investigated. New solutions are found
+which have the same fusing data as bosonic theories related to the classical
+affine Lie algebras. When the states correspond to a spinor spot of the Dynkin
+diagram they are kinks which carry a non-zero topological charge. Using these
+results, the S-matrices of the supersymmetric O($2n$) sigma model and
+sine-Gordon model can be shown to close under the bootstrap.
+\\

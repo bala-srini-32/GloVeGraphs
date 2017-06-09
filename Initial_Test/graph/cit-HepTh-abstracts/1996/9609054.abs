@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9609054
+From: Hiroshi Suzuki <hsuzuki@mito.ipc.ibaraki.ac.jp>
+Date: Fri, 6 Sep 96 13:34:36 JST   (8kb)
+Date (revised): Mon, 9 Sep 96 14:52:40 JST
+Date (revised): Tue, 10 Sep 96 10:40:36 JST
+Date (revised): Mon, 11 Nov 96 14:17:12 JST
+
+Title: Manifestly Gauge Covariant Treatment of Lattice Chiral Fermion
+Authors: Hiroshi Suzuki (Ibaraki University)
+Comments: 11 pages, phyzzx, The final version to appear in Phys. Rev. D
+Report-no: IU-MSTP/16
+Journal-ref: Phys.Rev. D55 (1997) 2994-2997
+\\
+  We propose a lattice formulation of the chiral fermion which maximally
+respects the gauge symmetry and simultaneously is free of the unwanted species
+doublers. The formulation is based on the lattice fermion propagator and
+composite operators, rather than on the lattice fermion action. The fermionic
+determinant is defined as a functional integral of an expectation value of the
+gauge current operator with respect to the background gauge field: The gauge
+anomaly is characterized as the non-integrability. We perform some perturbative
+test to confirm the gauge covariance and an absence of the doublers. The
+formulation can be applied rather straightforwardly to numerical simulations in
+the quenched approximation.
+\\

@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0108041
+From: Konstantinos Anagnostopoulos <konstant@physics.uoc.gr>
+Date: Tue, 7 Aug 2001 15:28:06 GMT   (23kb)
+Date (revised v2): Thu, 30 Jan 2003 12:45:04 GMT   (30kb)
+
+Title: A new approach to the complex-action problem and its application to a
+  nonperturbative study of superstring theory
+Authors: K.N. Anagnostopoulos (U.Crete) and J. Nishimura (NBI)
+Comments: 7 pages, 4 figures, PRD version somewhat extended from the original
+  version
+Report-no: NBI-HE-01-08
+Subj-class: High Energy Physics - Theory; Statistical Mechanics
+Journal-ref: Phys.Rev. D66 (2002) 106008
+\\
+  Monte Carlo simulations of a system whose action has an imaginary part are
+considered to be extremely difficult. We propose a new approach to this
+`complex-action problem', which utilizes a factorization property of
+distribution functions. The basic idea is quite general, and it removes the
+so-called overlap problem completely. Here we apply the method to a
+nonperturbative study of superstring theory using its matrix formulation. In
+this particular example, the distribution function turns out to be positive
+definite, which allows us to reduce the problem even further. Our numerical
+results suggest an intuitive explanation for the dynamical generation of 4d
+space-time.
+\\

@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9608110
+From: Robert Marnelius <tferm@fy.chalmers.se>
+Date: Fri, 16 Aug 1996 09:48:13 +0200   (11kb)
+
+Title: Time evolution in general gauge theories defined on inner product spaces
+Author: Robert Marnelius
+Comments: 12 pages,latexfile
+Report-no: ITP-G\"oteborg 96-12
+Journal-ref: Nucl.Phys. B494 (1997) 346-364
+\\
+  As previously shown BRST singlets |s> in a BRST quantization of general gauge
+theories on inner product spaces may be represented in the form |s>=e^{[Q,
+\psi]} |\phi> where |\phi> is either a trivially BRST invariant state which
+only depends on the matter variables, or a solution of a Dirac quantization.
+\psi is a corresponding fermionic gauge fixing operator. In this paper it is
+shown that the time evolution is determined by the singlet states of the
+corresponding reparametrization invariant theory. The general case when the
+constraints and Hamiltonians may have explicit time dependence is treated.
+\\

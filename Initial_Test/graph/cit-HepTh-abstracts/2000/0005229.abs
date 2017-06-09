@@ -1,0 +1,32 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0005229
+From: denis dalmazi <dalmazi@tonic.physics.sunysb.edu>
+Date: Thu, 25 May 2000 19:20:45 GMT   (32kb)
+
+Title: The Replica Limit of Unitary Matrix Integrals
+Authors: D.Dalmazi and J.J.M Verbaarschot (Stony Brook)
+Comments: 28 pages, 2 figures, Latex
+Report-no: SUNY-NTG/00-12
+Subj-class: High Energy Physics - Theory; Disordered Systems and Neural
+  Networks
+Journal-ref: Nucl.Phys. B592 (2001) 419-444
+\\
+  We investigate the replica trick for the microscopic spectral density,
+$\rho_s(x)$, of the Euclidean QCD Dirac operator. Our starting point is the
+low-energy limit of the QCD partition function for $n$ fermionic flavors (or
+replicas) in the sector of topological charge $\nu$. In the domain of the
+smallest eigenvalues, this partition function is simply given by a U(n) unitary
+matrix integral. We show that the asymptotic behavior of $\rho_s(x)$ for $x \to
+\infty$ is obtained from the $n\to 0$ limit of this integral. The smooth
+contributions to this series are obtained from an expansion about the replica
+symmetric saddle-point, whereas the oscillatory terms follow from an expansion
+about a saddle-point that breaks the replica symmetry. For $\nu =0$ we recover
+the small-$x$ logarithmic singularity of the resolvent by means of the replica
+trick. For half integer $\nu$, when the saddle point expansion of the U(n)
+integral terminates, the replica trick reproduces the exact analytical result.
+In all other cases only an asymptotic series that does not uniquely determine
+the microscopic spectral density is obtained. We argue that bosonic replicas
+fail to reproduce the microscopic spectral density. In all cases, the exact
+answer is obtained naturally by means of the supersymmetric method.
+\\

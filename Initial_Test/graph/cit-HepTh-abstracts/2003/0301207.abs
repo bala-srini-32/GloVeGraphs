@@ -1,0 +1,17 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0301207
+From: Monemzadeh <monemzadeh@sepahan.iut.ac.ir>
+Date: Sun, 26 Jan 2003 08:02:11 GMT   (10kb)
+
+Title: Finite Order BFFT Method
+Authors: M. Monemzadeh, A. Shirzad
+Comments: 14 pages, no figure
+\\
+  We have proposed a method in the context of BFFT approach that leads to
+truncation of the infinite series regarded to constraints in the extended phase
+space, as well as other physical quantities (such as Hamiltonian). This has
+been done for cases where the matrix of Poisson brackets among the constraints
+is symplectic or constant. The method is applied to Proca model, single self
+dual chiral bosons and chiral Schwinger models as examples.
+\\

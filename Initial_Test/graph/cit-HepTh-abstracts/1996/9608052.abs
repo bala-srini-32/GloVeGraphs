@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9608052
+From: Kazuo Fujikawa <fujikawa@danjuro.phys.s.u-tokyo.ac.jp>
+Date: Fri, 9 Aug 1996 16:39:37 +0900   (8kb)
+
+Title: Exact path integral of the hydrogen atom and the Jacobi's principle of
+  least action
+Author: Kazuo Fujikawa (Dept. of Physics, Univ. of Tokyo)
+Comments: 10 pages. Talk presented at Inauguration Conference of Asia Pacific
+  Center for Theoretical Physics, Seoul, Korea, June 4-10,1996 (To be published
+  in the Proceedings(World Scientific, Singapore))
+Report-no: UT-756, 1996
+\\
+  The general treatment of a separable Hamiltonian of Liouville-type is
+well-known in operator formalism. A path integral counterpart is formulated if
+one starts with the Jacobi's principle of least action, and a path integral
+evaluation of the Green's function for the hydrogen atom by Duru and Kleinert
+is recognized as a special case. The Jacobi's principle of least action for
+given energy is reparametrization invariant, and the separation of variables in
+operator formalism corresponds to a choice of gauge in path integral. The
+Green's function is shown to be gauge independent,if the operator ordering is
+properly taken into account. These properties are illustrated by evaluating an
+exact path integral of the Green's function for the hydrogen atom in parabolic
+coordinates.
+\\

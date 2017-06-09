@@ -1,0 +1,32 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0010106
+From: Horatiu Stefan Nastase <nastase@ias.edu>
+Date: Thu, 12 Oct 2000 22:30:29 GMT   (17kb)
+Date (revised v2): Tue, 17 Oct 2000 17:32:16 GMT   (17kb)
+Date (revised v3): Thu, 19 Oct 2000 19:52:23 GMT   (17kb)
+Date (revised v4): Wed, 25 Oct 2000 17:06:41 GMT   (17kb)
+
+Title: A new AdS/CFT correspondence
+Authors: Horatiu Nastase and Warren Siegel
+Comments: 20 pages, no figures, latex, factor of N(c) added to actions 6.4 and
+  7.11 and duality relation 6.7, closed string coupling corrected, one
+  reference added (last one in [7])
+Journal-ref: JHEP 0010 (2000) 040
+\\
+  We consider a geometric zero-radius limit for strings on $AdS_5\times S^5$,
+where the anti-de Sitter hyperboloid becomes the projective lightcone. In this
+limit the fifth dimension becomes nondynamical, yielding a different
+"holographic" interpretation than the usual "bulk to boundary" one. When
+quantized on the random lattice, the fifth coordinate acts as a new kind of
+Schwinger parameter, producing Feynman rules with normal propagators at the
+tree level: For example, in the bosonic case ordinary massless $\phi^4$ theory
+is obtained. In the superstring case we obtain new, manifestly ${\cal N}=4$
+supersymmetric rules for ${\cal N}=4$ super Yang-Mills. These gluons are also
+different from those of the usual AdS/CFT correspondence: They are the
+"partons" that make up the usual "hadrons" of the open and closed strings in
+the familiar QCD string picture. Thus, their coupling $g_{YM}$ and rank $N$ of
+the "color" gauge group are different from those of the "flavor" gauge group of
+the open string. As a result we obtain different perturbation expansions in
+radius, coupling, and 1/N.
+\\

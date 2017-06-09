@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0010188
+From: Haijun. Wang <whj@theory.jlu.edu.cn>
+Date: Mon, 23 Oct 2000 01:13:57 GMT   (26kb)
+Date (revised v2): Thu, 2 Nov 2000 05:12:00 GMT   (17kb)
+Date (revised v3): Fri, 10 Nov 2000 10:25:35 GMT   (29kb)
+Date (revised v4): Fri, 1 Dec 2000 12:06:34 GMT   (28kb)
+Date (revised v5): Mon, 8 Jan 2001 15:11:59 GMT   (8kb)
+Date (revised v6): Thu, 25 Apr 2002 06:54:49 GMT   (10kb)
+Date (revised v7): Sat, 28 Dec 2002 05:18:13 GMT   (10kb)
+
+Title: Quantization of The Electroweak Theory in The Hamiltonian Path-Integral
+  Formalism
+Authors: Jun-Chen Su
+Comments: 9 pages, no figures
+\\
+  The quantization of the SU(2)$\times $U(1) gauge-symmetric electroweak theory
+is performed in the Hamiltonian path-integral formalism. In this quantization,
+we start from the Lagrangian given in the unitary gauge in which the unphysical
+Goldstone fields are absent, but the unphysical longitudinal components of the
+gauge fields still exist. In order to eliminate the longitudinal components, it
+is necessary to introduce the Lorentz gauge conditions as constraints. These
+constraints may be incorporated into the Lagrangian by the Lagrange
+undetermined multiplier method. In this way, it is found that every component
+of a four-dimensional vector potential has a conjugate counterpart. Thus, a
+Lorentz-covariant quantization in the Hamiltonian path-integral formalism can
+be well accomplished and leads to a result which is the same as given by the
+Faddeev-Popov approach of quantization.
+\\

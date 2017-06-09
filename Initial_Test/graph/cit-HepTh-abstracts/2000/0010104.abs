@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0010104
+From: Radu Roiban <roiban@insti.physics.sunysb.edu>
+Date: Thu, 12 Oct 2000 21:04:50 GMT   (17kb)
+Date (revised v2): Thu, 2 Nov 2000 21:43:31 GMT   (17kb)
+
+Title: Superstrings on AdS_5 x S^5 supertwistor space
+Authors: Radu Roiban, Warren Siegel
+Comments: 22 pages, latex; v2: format changed to JHEP, equations 6.10 and 6.11
+  added, typos in eq: 3.9, 4.10, 6.14, 6.15, 6.19 corrected
+Journal-ref: JHEP 0011 (2000) 024
+\\
+  We derive the Green-Schwarz action on AdS_5 x S^5 using an alternate version
+of the coset superspace construction. By Wick rotations and Lie algebra
+identifications we bring the coset to GL(4|4)/(Sp(4) x GL(1))^2, which allows
+us to represent the conformal transformations on unconstrained matrices. The
+derivation is more streamlined even for the bosonic sector, and conformal
+symmetry is manifest at every step. Kappa-symmetry gauge fixing is more
+transparent.
+\\

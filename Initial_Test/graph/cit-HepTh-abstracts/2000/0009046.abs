@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0009046
+From: Giovanni Modanese <giovanni.modanese@unibz.it>
+Date: Thu, 7 Sep 2000 10:02:38 GMT   (34kb)
+Date (revised v2): Sat, 3 Aug 2002 09:17:19 GMT   (9kb)
+Date (revised v3): Sat, 28 Dec 2002 10:25:36 GMT   (11kb)
+Date (revised v4): Wed, 8 Jan 2003 21:42:01 GMT   (11kb)
+
+Title: Inertial Mass and Vacuum Fluctuations in Quantum Field Theory
+Authors: Giovanni Modanese (Univ. of Bolzano and CIPA, Palo Alto)
+Comments: LaTeX, 5 pages, 1 figure. v4: final version accepted for publication
+  in Found. Phys. Lett
+\\
+  Motivated by recent works on the origin of inertial mass, we revisit the
+relationship between the mass of charged particles and zero-point
+electromagnetic fields. To this end we first introduce a simple model
+comprising a scalar field coupled to stochastic or thermal electromagnetic
+fields. Then we check if it is possible to start from a zero bare mass in the
+renormalization process and express the finite physical mass in terms of a
+cut-off. In scalar QED this is indeed possible, except for the problem that all
+conceivable cut-offs correspond to very large masses. For spin-1/2 particles
+(QED with fermions) the relation between bare mass and renormalized mass is
+compatible with the observed electron mass and with a finite cut-off, but only
+if the bare mass is not zero; for any value of the cut-off the radiative
+correction is very small.
+\\

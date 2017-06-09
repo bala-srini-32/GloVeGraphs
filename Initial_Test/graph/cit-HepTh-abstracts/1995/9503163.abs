@@ -1,0 +1,35 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9503163
+From: Stephen Shenker <shenker@physics.rutgers.edu>
+Date: Thu, 23 Mar 1995 19:37:47 -0500   (69kb)
+Date (revised): Fri, 24 Mar 1995 13:59:03 -0500
+Date (revised): Sun, 26 Mar 1995 20:25:10 -0500
+Date (revised): Sat, 22 Apr 1995 13:30:44 -0400
+
+Title: Dynamics of $SU(N)$ Supersymmetric Gauge Theory
+Author: Michael R. Douglas and Stephen H. Shenker (Rutgers University)
+Comments: 28 pages, harvmac, 4 eps figures in separate uuencoded file. We have
+  extended this paper considerably, adding new results, discussion and figures.
+  In particular, we give exact formulas for masses and couplings along a
+  scaling trajectory appropriate to the large $N$ limit. These formulas display
+  a novel effect due to light electric $W$ bosons down to energy scales $\sim
+  e^{-N}$, deep in the weak coupling magnetic regime
+Report-no: RU-95-12
+Journal-ref: Nucl.Phys. B447 (1995) 271-296
+\\
+  We study the physics of the Seiberg-Witten and
+Argyres-Faraggi-Klemm-Lerche-Theisen-Yankielowicz solutions of $D=4$, $\CN=2$
+and $\CN=1$ $SU(N)$ supersymmetric gauge theory. The $\CN=1$ theory is
+confining and its effective Lagrangian is a spontaneously broken $U(1)^{N-1}$
+abelian gauge theory. We identify some features of its physics which see this
+internal structure, including a spectrum of different string tensions. We
+discuss the limit $N\rightarrow\infty$, identify a scaling regime in which
+instanton and monopole effects survive, and give exact results for the
+crossover from weak to strong coupling along a scaling trajectory. We find a
+large hierarchy of mass scales in the scaling regime, including very light $W$
+bosons, and the absence of weak coupling. The light $W$'s leave a novel imprint
+on the effective dual magnetic theory. The effective Lagrangian appears to be
+inadequate to understand the conventional large $N$ limit of the confining
+$\CN=1$ theory.
+\\

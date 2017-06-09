@@ -1,0 +1,34 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9509075
+From: Ivan Avramidi <avramidi@rz.uni-greifswald.de>
+Date: Thu, 14 Sep 1995 08:46:47 +0200   (16kb)
+
+Title: Covariant approximation schemes for calculation of the heat kernel in
+  quantum field theory
+Author: Ivan G. Avramidi (University of Greifswald)
+Comments: 19 pages, Plain TeX, 51 KB, no figures
+Report-no: University of Greifswald (September, 1995)
+Journal-ref: in: Quantum Gravity, Proc. 6th Moscow Seminar, (Singapore: World
+  Scientific, 1997) pp. 61-78
+\\
+  This paper is an overview on our recent results in the calculation of the
+heat kernel in quantum field theory and quantum gravity. We introduce a
+deformation of the background fields (including the metric of a curved
+spacetime manifold) and study various asymptotic expansions of the heat kernel
+diagonal associated with this deformation. Especial attention is payed to the
+low-energy approximation corresponding to the strong slowly varying background
+fields. We develop a new covariant purely algebraic approach for calculating
+the heat kernel diagonal in low-energy approximation by taking into account a
+finite number of low-order covariant derivatives of the background fields, and
+neglecting all covariant derivatives of higher orders. Then there exist a set
+of covariant differential operators that together with the background fields
+and their low-order derivatives generate a finite dimensional Lie algebra. In
+the zeroth order of the low-energy perturbation theory, determined by
+covariantly constant background, we use this algebraic structure to present the
+heat operator in the form of an average over the corresponding Lie group. This
+simplifies considerably the calculations and allows to obtain closed explicitly
+covariant formulas for the heat kernel diagonal. These formulas serve as the
+generating functions for the whole sequence of the Hadamard-Minakshisundaram-
+De Witt-Seeley coefficients in the low-energy approximation.
+\\

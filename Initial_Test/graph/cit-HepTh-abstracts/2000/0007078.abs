@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0007078
+From: Gautam Mandal <gautam.mandal@cern.ch>
+Date: Mon, 10 Jul 2000 15:27:11 GMT   (18kb)
+Date (revised v2): Thu, 13 Jul 2000 15:24:49 GMT   (18kb)
+Date (revised v3): Wed, 1 Nov 2000 20:30:30 GMT   (20kb)
+
+Title: Nielsen-Olesen Vortices in Noncommutative Abelian Higgs Model
+Authors: Dileep P. Jatkar, Gautam Mandal, Spenta R. Wadia
+Comments: 24 pages, (v2) clarifying comments added regarding topological index
+  using coherent states; n-vortex solution added; version to appear in JHEP
+Report-no: CERN-TH/2000-193, MRI-P-000701, TIFR/TH/00-36
+Journal-ref: JHEP 0009 (2000) 018
+\\
+  We construct Nielsen-Olesen vortex solution in the noncommutative abelian
+Higgs model. We derive the quantized topological flux of the vortex solution.
+We find that the flux is integral by explicit computation in the large $\theta$
+limit as well as in the small $\theta$ limit. In the context of a tachyon
+vortex on the brane-antibrane system we demonstrate that it is this topological
+charge that gives rise to the RR charge of the resulting BPS D-brane. We also
+consider the left-right-symmetric gauge theory which does not have a
+commutative limit and construct an exact vortex solution in it.
+\\

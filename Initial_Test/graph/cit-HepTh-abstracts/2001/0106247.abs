@@ -1,0 +1,32 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0106247
+From: Dietmar Klemm <Dietmar.Klemm@mi.infn.it>
+Date: Tue, 26 Jun 2001 19:09:12 GMT   (14kb)
+Date (revised v2): Wed, 11 Jul 2001 11:06:13 GMT   (17kb)
+Date (revised v3): Sat, 17 Nov 2001 18:59:58 GMT   (18kb)
+Date (revised v4): Tue, 22 Jan 2002 07:55:31 GMT   (19kb)
+
+Title: Some Aspects of the de Sitter/CFT Correspondence
+Authors: Dietmar Klemm
+Comments: 20 pages, LaTeX, 1 figure. v4: Note added, final version to appear in
+  Nucl. Phys. B
+Report-no: IFUM-690-FT
+Journal-ref: Nucl.Phys. B625 (2002) 295-311
+\\
+  We discuss several aspects of the proposed correspondence between quantum
+gravity on de Sitter spaces and Euclidean conformal field theories. The central
+charge appearing in the asymptotic symmetry algebra of three-dimensional de
+Sitter space is derived both from the conformal anomaly and the transformation
+law of the CFT stress tensor when going from dS_3 in planar coordinates to dS_3
+with cosmological horizon. The two-point correlator for CFT operators coupling
+to bulk scalars is obtained in static coordinates, corresponding to a CFT on a
+cylinder. Correlation functions are also computed for CFTs on two-dimensional
+hyperbolic space. We furthermore determine the energy momentum tensor and the
+Casimir energy of the conformal field theory dual to the Schwarzschild-de
+Sitter solution in five dimensions. Requiring the pressure to be positive
+yields an upper bound for the black hole mass, given by the mass of the Nariai
+solution. Beyond that bound, which is similar to the one found by Strominger
+requiring the conformal weights of CFT operators to be real, one encounters
+naked singularities.
+\\

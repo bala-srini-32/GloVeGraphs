@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9612100
+From: Artemio Gonzalez Lopez <artemio@ciruelo.fis.ucm.es>
+Date: Tue, 10 Dec 1996 12:21:48 +0100   (37kb)
+
+Title: The Multidimensional Darboux Transformation
+Authors: Artemio Gonz\'alez-L\'opez (Dept. F\'\i sica Te\'orica II, U.
+  Complutense, Madrid) and Niky Kamran (The Fields Institute, Toronto)
+Comments: plain TeX, 29 pages. Auxiliary file Darboux.ref and macros file
+  ao.tex
+Report-no: UCM-FTII 12/96
+Subj-class: High Energy Physics - Theory; Mathematical Physics; Differential
+  Geometry; Exactly Solvable and Integrable Systems
+Journal-ref: J.Geom.Phys. 26 (1998) 202-226
+\\
+  A generalization of the classical one-dimensional Darboux transformation to
+arbitrary n-dimensional oriented Riemannian manifolds is constructed using an
+intrinsic formulation based on the properties of twisted Hodge Laplacians. The
+classical two-dimensional Moutard transformation is also generalized to
+non-compact oriented Riemannian manifolds of dimension n greater than one. New
+examples of quasi-exactly solvable multidimensional matrix Schr\"odinger
+operators on curved manifolds are obtained by applying the above results.
+\\

@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9810095
+From: Kenji Hamada <hamada@theory.kek.jp>
+Date: Wed, 14 Oct 1998 07:07:50 GMT   (18kb)
+Date (revised v2): Mon, 19 Oct 1998 06:09:57 GMT   (18kb)
+Date (revised v3): Mon, 26 Oct 1998 05:11:26 GMT   (18kb)
+Date (revised v4): Thu, 6 May 1999 04:34:49 GMT   (19kb)
+
+Title: Background-metric Independent Formulation of 4D Quantum Gravity
+Authors: Ken-ji Hamada and Fumihiko Sugino
+Comments: 27 pages, references added, some sentences added and corrected
+  especially in sect.3 and 6; version to appear in Nucl. Phys. B
+Journal-ref: Nucl.Phys. B553 (1999) 283-304
+\\
+  Using the background-metric independence for the traceless mode as well as
+the conformal mode, 4D quantum gravity is described as a quantum field theory
+defined on a non-dynamical background-metric. The measure then induces an
+action with 4 derivatives. So we think that 4-th order gravity is essential and
+the Einstein-Hilbert term should be treated like a mass term. We introduce the
+dimensionless self-coupling constant t for the traceless mode. In this paper we
+study a model where the measure can be evaluated in the limit $t \to 0$
+exactly, using the background-metric independence for the conformal mode. The
+t-dependence of the measure is determined perturbatively using the
+background-metric independence for the traceless mode.
+\\

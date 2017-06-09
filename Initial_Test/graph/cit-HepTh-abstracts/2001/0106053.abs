@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0106053
+From: Gernot Akemann <Gernot.Akemann@mpi-hd.mpg.de>
+Date: Wed, 6 Jun 2001 17:35:34 GMT   (56kb)
+Date (revised v2): Wed, 27 Jun 2001 14:10:19 GMT   (56kb)
+
+Title: Microscopic correlations of non-Hermitian Dirac operators in
+  three-dimensional QCD
+Authors: G. Akemann
+Comments: LaTeX, 16 pages, 6 figures, minor corrections
+Journal-ref: Phys.Rev. D64 (2001) 114021
+\\
+  In the presence of a non-vanishing chemical potential the eigenvalues of the
+Dirac operator become complex. We calculate spectral correlation functions of
+complex eigenvalues using a random matrix model approach. Our results apply to
+non-Hermitian Dirac operators in three-dimensional QCD with broken flavor
+symmetry and in four-dimensional QCD in the bulk of the spectrum. The
+derivation follows earlier results of Fyodorov, Khoruzhenko and Sommers for
+complex spectra exploiting the existence of orthogonal polynomials in the
+complex plane. Explicit analytic expressions are given for all microscopic
+k-point correlation functions in the presence of an arbitrary even number of
+massive quarks, both in the limit of strong and weak non-Hermiticity. In the
+latter case the parameter governing the non-Hermiticity of the Dirac matrices
+is identified with the influence of the chemical potential.
+\\

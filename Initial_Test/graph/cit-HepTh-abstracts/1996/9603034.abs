@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9603034
+From: John Terning <terning@alvin.lbl.gov>
+Date: Wed, 6 Mar 1996 15:10:08 -0500 (GMT-0500)   (26kb)
+Date (revised): Tue, 1 Oct 1996 16:00:50 -0800 (GMT-0800)
+
+Title: A Sequence of Duals for Sp(2N) Supersymmetric Gauge Theories with
+  Adjoint Matter
+Authors: Markus A. Luty, Martin Schmaltz, John Terning
+Comments: version (with additional references) to appear in Phys. Rev. D, 20
+  pages, LaTeX, one embedded eps figure
+Report-no: UMD-PP-96-71, BUHEP-96-6
+Journal-ref: Phys.Rev. D54 (1996) 7815-7824
+\\
+  We consider supersymmetric Sp(2N) gauge theories with F matter fields in the
+defining representation, one matter field in the adjoint representation, and no
+superpotential. We construct a sequence of dual descriptions of this theory
+using the dualities of Seiberg combined with the ``deconfinement'' method
+introduced by Berkooz. Our duals hint at a new non-perturbative phenomenon that
+seems to be taking place at asymptotically low energies in these theories: for
+small F some of the degrees of freedom form massless, non-interacting bound
+states while the theory remains in an interacting non-Abelian Coulomb phase.
+This phenomenon is the result of strong coupling gauge dynamics in the original
+description, but has a simple classical origin in the dual descriptions. The
+methods used for constructing these duals can be generalized to any model
+involving arbitrary 2-index tensor representations of Sp(2N), SO(N), or SU(N)
+groups.
+\\

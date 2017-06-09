@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0212157
+From: Brigitte Hiller <brigitte@teor.fis.uc.pt>
+Date: Fri, 13 Dec 2002 15:44:35 GMT   (7kb)
+
+Title: Generalized Heat Kernel Coefficients for a New Asymptotic Expansion
+Authors: Alexander A. Osipov and Brigitte Hiller (Centro de Fisica Teorica da
+  Universidade de Coimbra, Portugal)
+Comments: 7 pages, talk presented at II Int. Workshop on Hadron Physics,
+  Coimbra, Portugal, September 2002, to appear in the AIP Conference
+  Proceedings
+\\
+  The method which allows for asymptotic expansion of the one-loop effective
+action W=ln det A is formulated. The positively defined elliptic operator A= U
++ M^2 depends on the external classical fields taking values in the Lie algebra
+of the internal symmetry group G. Unlike the standard method of Schwinger -
+DeWitt, the more general case with the nondegenerate mass matrix
+M=diag(m1,m2,...) is considered. The first coefficients of the new asymptotic
+series are calculated and their relationship with the Seeley-DeWitt
+coefficients is clarified.
+\\

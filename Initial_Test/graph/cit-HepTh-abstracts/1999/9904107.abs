@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9904107
+From: Aalok Misra fc phy <aalok@iitk.ac.in>
+Date: Thu, 15 Apr 1999 07:46:42 GMT   (7kb)
+Date (revised v2): Wed, 21 Apr 1999 13:27:17 GMT   (7kb)
+Date (revised v3): Tue, 17 Aug 1999 05:40:17 GMT   (8kb)
+
+Title: A Derivation of the Correct Treatment of 1/(eta.k)^p Singularities in
+  Axial Gauges
+Authors: Satish. D. Joglekar, A. Misra (Department of Physics, Indian Institute
+  of Technology, Kanpur, UP, India)
+Comments: 12 pages, LaTex, references added, a new result added at the end,
+  (this revised version) to appear in MPLA
+Journal-ref: Mod.Phys.Lett. A14 (1999) 2083-2092; Erratum-ibid. A15 (2000) 1347
+\\
+  We use the earlier results on the correlations of axial gauge Green's
+functions and the Lorentz gauge Green's functions obtained via finite
+field-dependent BRS transformations to study the question of the correct
+treatment of 1/(eta\cdot k)^p- type singularities in the axial gauge boson
+propagator. We show how the known treatment of the 1/(k^2)^n-type singularity
+in the Lorentz-type gauges can be used to write down the axial propagator via
+field transformation. We examine the singularity structure of the latter and
+find that the axial propagator so constructed has $no$ spurious poles, but a
+complex structure near $\eta\cdot k=0$.
+\\

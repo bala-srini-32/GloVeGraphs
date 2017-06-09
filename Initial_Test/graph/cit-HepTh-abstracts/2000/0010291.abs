@@ -1,0 +1,36 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0010291
+From: kurt.lechner@pd.infn.it
+Date: Tue, 31 Oct 2000 17:36:27 GMT   (31kb)
+
+Title: Spin-statistics transmutation in relativistic quantum field theories of
+  dyons
+Authors: K. Lechner and P.A. Marchetti
+Comments: 32 pages, LaTeX, no figures
+Report-no: DFPD/00/TH/33, October 2000
+Journal-ref: JHEP 0012 (2000) 028
+\\
+  We analyse spin and statistics of quantum dyon fields, i.e. fields carrying
+both electric and magnetic charge, in 3+1 space-time dimensions. It has been
+shown long time ago that, at the quantum mechanical level, a composite dyon
+made out of a magnetic pole of charge g and a particle of electric charge e
+possesses half-integral spin and fermionic statistics, if the constituents are
+bosons and the Dirac quantization condition $eg=2\pi n$ holds, with n odd. This
+phenomenon is called spin-statistics transmutation. We show that the same
+phenomenon occurs at the quantum field theory level for an elementary dyon.
+This analysis requires the construction of gauge invariant charged dyon fields.
+Dirac's proposal for such fields, relying on a Coulomb-like photon cloud, leads
+to quantum correlators exhibiting an unphysical dependence on the Dirac-string.
+Recently Froehlich and Marchetti proposed a recipe for charged dyon fields,
+based on a sum over Mandelstam-strings, which overcomes this problem. Using
+this recipe we derive explicit expressions for the quantum field theory
+correlators and we provide a proof of the occurrence of spin-statistics
+transmutation. The proof reduces to a computation of the self-linking numbers
+of dyon worldlines and Mandelstam strings, projected on a fixed time
+three-space. Dyon composites are also analysed. The transmutation discussed in
+this paper bares some analogy with the appearance of anomalous spin and
+statistics for particles or vortices in Chern-Simons theories in 2+1
+dimensions. However, peculiar features appear in 3+1 dimensions e.g. in the
+spin addition rule.
+\\

@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0302207
+From: Dmitrij Fursaev <fursaev@thsun1.jinr.ru>
+Date: Wed, 26 Feb 2003 10:51:55 GMT   (22kb)
+
+Title: CFT and Black Hole Entropy in Induced Gravity
+Authors: V. Frolov, D. Fursaev, A. Zelnikov
+Comments: JHEP style, 22 pages
+Report-no: Alberta-Thy-05-03
+\\
+  We present a derivation of the entropy of black holes in induced gravity
+models based on conformal properties of induced gravity constituents near the
+horizon. The four-dimensional (4D) theory is first reduced to a tower of
+two-dimensional (2D) gravities such that each 2D theory is induced by fields
+with certain momentum $p$ along the horizon. We demonstrate that in the
+vicinity of the horizon constituents of the 2D induced gravities are described
+by conformal field theories (CFT) with specific central charges depending on
+spin and non-minimal couplings and with specific correlation lengths depending
+on the masses of fields and on the momentum $p$. This enables one to use CFT
+methods to count partial entropies $s(p)$ in each 2D sector. The sum of partial
+entropies correctly reproduces the Bekenstein-Hawking entropy of the 4D induced
+gravity theory. Our results indicate that earlier attempts of the derivation of
+the entropy of black holes based on a near-horizon CFT may have a microscopic
+realization.
+\\

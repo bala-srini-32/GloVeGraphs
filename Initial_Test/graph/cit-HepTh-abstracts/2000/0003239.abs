@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0003239
+From: Etesi Gabor <etesi@yukawa.kyoto-u.ac.jp>
+Date: Mon, 27 Mar 2000 06:49:30 GMT   (11kb)
+Date (revised v2): Mon, 26 Feb 2001 19:03:30 GMT   (11kb)
+
+Title: Geometric Interpretation of Schwarzschild Instantons
+Authors: Gabor Etesi, Tamas Hausel
+Comments: Latex, 11 pages, no figures, final, published version
+Subj-class: High Energy Physics - Theory; Differential Geometry; Mathematical
+  Physics
+Journal-ref: J.Geom.Phys. 37 (2001) 126-136
+\\
+  In this note we address the problem of finding Abelian instantons of finite
+energy on the Euclidean Schwarzschild manifold. This amounts to construct
+self-dual L^2 harmonic 2-forms on the space. Gibbons found a non-topological
+L^2 harmonic form in the Taub-NUT metric, leading to Abelian instantons with
+continuous energy. We imitate his construction in the case of the Euclidean
+Schwarzschild manifold and find a non-topological self-dual L^2 harmonic 2-form
+on it. We show how this gives rise to Abelian instantons and identify them with
+SU(2)-instantons of Pontryagin number 2n^2 found by Charap and Duff in 1977.
+Using results of Dodziuk and Hitchin we also calculate the full L^2 harmonic
+space for the Euclidean Schwarzschild manifold.
+\\

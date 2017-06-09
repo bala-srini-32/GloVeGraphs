@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9708165
+From: Frank Zimmerschied <zimmers@gluon.physik.uni-kl.de>
+Date: Fri, 29 Aug 1997 15:27:11 +0200 (CETDST)   (39kb)
+Date (revised): Mon, 1 Sep 1997 13:23:00 +0200 (CETDST)
+
+Title: Skyrme Sphalerons of an O(3)-sigma Model and the Calculation of
+  Transition Rates at Finite Temperature
+Authors: F. Zimmerschied, D. H. Tchrakian, H. J. W. Mueller-Kirsten
+Comments: 46 pages, 3 figures, LaTex; acknowledgements added
+Report-no: KL-TH 97/3
+Journal-ref: Fortsch.Phys. 46 (1998) 147-187
+\\
+  The reduced O(3)-sigma model with an O(3)->O(2) symmetry breaking potential
+is considered with an additional Skyrmionic term, i.e. a totally antisymmetric
+quartic term in the field derivatives. This Skyrme term does not affect the
+classical static equations of motionwhich, however, allow an unstable sphaleron
+solution. Quantum fluctuations around the static classical solution are
+considered for the determination of the rate of thermally induced transitions
+between topologically distinct vacua mediated by the sphaleron. The main
+technical effect of the Skyrme term is to produce an extra measure factor in
+one of the fluctuation path integrals which is therefore evaluated using a
+measure-modified Fourier-Matsubara decomposition (this being one of the few
+cases permitting this explicit calculation). The resulting transition rate is
+valid in a temperature region different from that of the original Skyrme-less
+model, and the crossover from transitions dominated by thermal fluctuations to
+those dominated by tunneling at the lower limit of this range depends on the
+strength of the Skyrme coupling.
+\\

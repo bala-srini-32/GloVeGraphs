@@ -1,0 +1,19 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0207153
+From: Stefano Arnone <sa@hep.phys.soton.ac.uk>
+Date: Tue, 16 Jul 2002 17:08:50 GMT   (23kb)
+
+Title: A manifestly gauge invariant exact renormalization group
+Authors: Stefano Arnone, Antonio Gatti and Tim R. Morris
+Comments: 8 pages, 2 figures, talk presented at the fifth international
+  Conference "RG 2002", Strba, Slovakia
+Report-no: SHEP 02-11
+\\
+  A manifestly gauge invariant exact renormalization group for pure SU(N)
+Yang-Mills theory is proposed, allowing gauge invariant calculations, without
+any gauge fixing or ghosts. The necessary gauge invariant regularisation which
+implements the effective cutoff, is naturally incorporated by embedding the
+theory into a spontaneously broken SU(N|N) super-gauge theory. This guarantees
+finiteness to all orders in perturbation theory.
+\\

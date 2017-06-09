@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9610025
+From: Oliver Schnetz <schnetz@theorie3.physik.uni-erlangen.de>
+Date: Fri, 4 Oct 1996 08:44:21 MDT   (67kb)
+
+Title: Natural renormalization
+Authors: Oliver Schnetz
+Comments: 23 pages, LaTeX, AMSsymbols, epsf style, 3 PostScript figures
+Report-no: FAU-TP3-96/1
+Journal-ref: J.Math.Phys. 38 (1997) 738-758
+\\
+  A careful analysis of differential renormalization shows that a distinguished
+choice of renormalization constants allows for a mathematically more
+fundamental interpretation of the scheme. With this set of a priori fixed
+integration constants differential renormalization is most closely related to
+the theory of generalized functions. The special properties of this scheme are
+illustrated by application to the toy example of a free massive bosonic theory.
+Then we apply the scheme to the phi^4-theory. The two-point function is
+calculated up to five loops. The renormalization group is analyzed, the
+beta-function and the anomalous dimension are calculated up to fourth and fifth
+order, respectively.
+\\

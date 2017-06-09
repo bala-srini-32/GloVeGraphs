@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9505048
+From: COSMAI@AXPBA1.BA.INFN.IT
+Date: Tue, 9 May 1995 13:52:58 +0200 (WET-DST)   (27kb)
+
+Title: Lattice effective potential of massless $(\lambda\Phi^4)_4$:
+  `triviality' and spontaneous symmetry breaking
+Authors: P.Cea, M.Consoli, L.Cosmai, and R.Fiore
+Comments: 25 pages, uuencoded compressed (using GNU's gzip) tar file containing
+  1 LaTeX2e file + 1 encapsulated Postscript figure + elsart.cls + elsart.sty +
+  elsart12.sty. A full Postscript version of this paper is available at
+  http://www.ba.infn.it/disk$gruppo_4/cosmai/www/papers/204-95.PS
+Report-no: BARI-TH 204/95, CS-TH 10/95
+\\
+  We present a precise lattice computation of the slope of the effective
+potential for massless $(\lambda\Phi^4)_4$ theory in the region of bare
+parameters indicated by the Brahm's analysis of lattice data. Our results
+confirm the existence on the lattice of a remarkable phase of
+$(\lambda\Phi^4)_4$ where Spontaneous Symmetry Breaking is generated through
+``dimensional transmutation''. The resulting effective potential shows no
+evidence for residual self-interaction effects of the shifted `Higgs' field
+$h(x)=\Phi(x)-\langle\Phi\rangle$, as predicted by ``triviality'', and cannot
+be reproduced in perturbation theory. Accordingly the mass of the Higgs
+particle, by itself, does not represent a measure of any observable
+interaction.
+\\

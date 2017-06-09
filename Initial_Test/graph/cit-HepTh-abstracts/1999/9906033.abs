@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9906033
+From: Dimitar Mladenov <mladim@thsun1.jinr.ru>
+Date: Fri, 4 Jun 1999 12:06:48 GMT   (12kb)
+Date (revised v2): Sat, 5 Jun 1999 17:03:51 GMT   (12kb)
+Date (revised v3): Mon, 20 Mar 2000 03:56:42 GMT   (14kb)
+
+Title: Euler-Calogero-Moser system from SU(2) Yang-Mills theory
+Authors: A.M. Khvedelidze and D.M. Mladenov
+Comments: Revtex, 14 pages, no figures. Abstract changed, strata analysis have
+  been included, typos corrected, references added
+Journal-ref: Phys.Rev. D62 (2000) 125016
+\\
+  The relation between SU(2) Yang-Mills mechanics, originated from the
+4-dimensional SU(2) Yang-Mills theory under the supposition of spatial
+homogeneity of the gauge fields, and the Euler-Calogero-Moser model is
+discussed in the framework of Hamiltonian reduction. Two kinds of reductions of
+the degrees of freedom are considered: due to the gauge invariance and due to
+the discrete symmetry. In the former case, it is shown that after elimination
+of the gauge degrees of freedom from the SU(2) Yang-Mills mechanics the
+resulting unconstrained system represents the ID_3 Euler-Calogero-Moser model
+with an external fourth-order potential. Whereas in the latter, the IA_6
+Euler-Calogero-Moser model embedded in an external potential is derived whose
+projection onto the invariant submanifold through the discrete symmetry
+coincides again with the SU(2) Yang-Mills mechanics. Based on this connection,
+the equations of motion of the SU(2) Yang-Mills mechanics in the limit of the
+zero coupling constant are presented in the Lax form.
+\\

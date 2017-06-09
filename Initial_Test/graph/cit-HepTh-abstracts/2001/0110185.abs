@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0110185
+From: Maslowski Tomasz <tomasz.maslowski@fuw.edu.pl>
+Date: Fri, 19 Oct 2001 16:53:59 GMT   (32kb)
+
+Title: Renormalized Poincar\'e algebra for effective particles in quantum field
+  theory
+Authors: Stanis{\l}aw D. G{\l}azek and Tomasz Mas{\l}owski
+Comments: 17 pages, 5 figures
+Journal-ref: Phys.Rev. D65 (2002) 065011
+\\
+  Using an expansion in powers of an infinitesimally small coupling constant
+$g$, all generators of the Poincar\'e group in local scalar quantum field
+theory with interaction term $g \phi^3$ are expressed in terms of annihilation
+and creation operators $a_\lambda$ and $a^\dagger_\lambda$ that result from a
+boost-invariant renormalization group procedure for effective particles. The
+group parameter $\lambda$ is equal to the momentum-space width of form factors
+that appear in vertices of the effective-particle Hamiltonians, $H_\lambda$. It
+is verified for terms order 1, $g$, and $g^2$, that the calculated generators
+satisfy required commutation relations for arbitrary values of $\lambda$.
+One-particle eigenstates of $H_\lambda$ are shown to properly transform under
+all Poincar\'e transformations. The transformations are obtained by
+exponentiating the calculated algebra. From a phenomenological point of view,
+this study is a prerequisite to construction of observables such as spin and
+angular momentum of hadrons in quantum chromodynamics.
+\\

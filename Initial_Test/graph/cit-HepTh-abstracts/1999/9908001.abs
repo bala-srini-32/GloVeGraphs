@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9908001
+From: Bo Sundborg <bo@physto.se>
+Date: Sat, 31 Jul 1999 01:36:56 GMT   (14kb)
+Date (revised v2): Thu, 2 Sep 1999 15:00:55 GMT   (15kb)
+Date (revised v3): Mon, 28 Feb 2000 14:29:46 GMT   (16kb)
+
+Title: The Hagedorn Transition, Deconfinement and N=4 SYM Theory
+Authors: Bo Sundborg
+Comments: 15 pages, LaTeX; References and typos in equations corrected, e.g. z
+  -> zeta in some intermediate expressions. Discussion of some points slightly
+  expanded for clarity
+Report-no: USITP-99-06
+Journal-ref: Nucl.Phys. B573 (2000) 349-363
+\\
+  N=4 Super Yang-Mills theory supplies us with a non-Abelian 4D gauge theory
+with a meaningful perturbation expansion, both in the UV and in the IR. We
+calculate the free energy on a 3-sphere and observe a deconfinement transition
+for large N at zero coupling. The same thermodynamic behaviour is found for a
+wide class of toy models, possibly also including the case of non-zero
+coupling. Below the transition we also find Hagedorn behaviour, which is
+identified with fluctuations signalling the approach to the deconfined phase.
+The Hagedorn and the deconfinement temperatures are identical. Application of
+the AdS/CFT correspondence gives a connection between string Hagedorn behaviour
+and black holes.
+\\

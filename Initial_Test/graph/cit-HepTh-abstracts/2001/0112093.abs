@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0112093
+From: Edi Halyo <vhalyo@Stanford.EDU>
+Date: Tue, 11 Dec 2001 19:30:11 GMT   (10kb)
+Date (revised v2): Wed, 12 Dec 2001 22:50:27 GMT   (10kb)
+Date (revised v3): Thu, 20 Dec 2001 18:54:53 GMT   (11kb)
+
+Title: On the Cardy-Verlinde Formula and the de Sitter/CFT Correspondence
+Author: Edi Halyo
+Comments: 16 pages in phyzzx.tex, the discussion in section 4 clarified, minor
+  corrections, two references added; v3: the relation between time evolution
+  and RG flow made explicit, Comments and references added
+Journal-ref: JHEP 0203 (2002) 009
+\\
+  We derive the Cardy--Verlinde entropy formula for the field theory that lives
+on the boundary of an asymptotically de Sitter space with a black hole. The
+boundary theory which is not conformal has a monotonic $C$--function defined by
+the Casimir energy. The instability of the space due to Hawking radiation from
+the black hole corresponds to an RG flow from the IR to the UV during which $C$
+increases. The endpoint of black hole evaporation is de Sitter space which is
+described by a conformal theory at the UV fixed point of the RG flow.
+\\

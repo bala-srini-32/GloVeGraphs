@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9906127
+From: finn larsen <flarsen@theory.uchicago.edu>
+Date: Thu, 17 Jun 1999 00:00:17 GMT   (20kb)
+Date (revised v2): Wed, 1 Sep 1999 16:23:00 GMT   (20kb)
+
+Title: The Gravitational Action in Asymptotically AdS and Flat Spacetimes
+Authors: Per Kraus, Finn Larsen and Ruud Siebelink
+Comments: 25 pages; v2: one paragraph added, refs updated
+Journal-ref: Nucl.Phys. B563 (1999) 259-278
+\\
+  The divergences of the gravitational action are analyzed for spacetimes that
+are asymptotically anti-de Sitter and asymptotically flat. The gravitational
+action is rendered finite using a local counterterm prescription, and the
+relation of this method to the traditional reference spacetime is discussed.
+For AdS, an iterative procedure is devised that determines the counterterms
+efficiently. For asymptotically flat space, we use a different method to derive
+counterterms which are sufficient to remove divergences in most cases.
+\\

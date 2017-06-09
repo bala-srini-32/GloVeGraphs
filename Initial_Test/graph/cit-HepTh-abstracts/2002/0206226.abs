@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0206226
+From: Graziano Vernizzi <vernizzi@thphys.ox.ac.uk>
+Date: Tue, 25 Jun 2002 16:53:50 GMT   (33kb)
+
+Title: Rotational Symmetry Breaking in Multi-Matrix Models
+Authors: J.F. Wheater and G. Vernizzi
+Comments: LaTeX, 18 pages, 2 figures
+Report-no: OUTP-02-29P
+Journal-ref: Phys.Rev. D66 (2002) 085024; Erratum-ibid. D67 (2003) 029904
+\\
+  We consider a class of multi-matrix models with an action which is O(D)
+invariant, where D is the number of NxN Hermitian matrices X_\mu, \mu=1,...,D.
+The action is a function of all the elementary symmetric functions of the
+matrix $T_{\mu\nu}=Tr(X_\mu X_\nu)/N$. We address the issue whether the O(D)
+symmetry is spontaneously broken when the size N of the matrices goes to
+infinity. The phase diagram in the space of the parameters of the model reveals
+the existence of a critical boundary where the O(D) symmetry is maximally
+broken.
+\\

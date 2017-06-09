@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9707201
+From: Patrizia Vitale <Patrizia.Vitale@na.infn.it>
+Date: Thu, 24 Jul 1997 15:25:12 +0200 (MET DST)   (14kb)
+Date (revised): Tue, 28 Apr 1998 15:33:27 GMT
+
+Title: New Tetrads for General Relativity
+Authors: G. Bimonte, R. Musto, A. Stern and P. Vitale
+Comments: Latex file, 14 pages, no figures. Major changes in text. Contribution
+  to the proceedings of the conference "Quantum Groups, Deformations and
+  Contractions" Istanbul 1997, to be published in Turkish Journal of Physics.
+  Title changed in journal to "The Quantum Poincare' Group as Hidden Symmetry
+  of General Relativity"
+Report-no: UAHEP 9712, DSF-34/97
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+\\
+  Using the tools of q--differential calculus and quantum Lie algebras
+associated to quantum groups, we find a one--parameter family of q-gauge
+theories associated to the quantum group $ISO_q(3,1)$. Although the gauge
+fields, that is the spin--connection and the vierbeins are non--commuting
+objects depending on a deformation parameter, $q$, it is possible to construct
+out of them a metric theory which is insensitive to the deformation. The
+Christoffel symbols and the Riemann tensor are ordinary commuting objects.
+Hence it is argued that torsionless Einstein's General Relativity is the common
+invariant sector of a one--parameter family of deformed gauge theories.
+\\

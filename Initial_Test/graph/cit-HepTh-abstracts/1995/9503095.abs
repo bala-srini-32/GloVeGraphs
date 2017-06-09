@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9503095
+From: Christopher Ford <cford@stp.dias.ie>
+Date: Tue, 14 Mar 1995 15:06:44 +0000 (GMT)   (38kb)
+Date (revised): Wed, 15 Mar 1995 14:45:12 +0000 (GMT)
+Date (revised): Mon, 20 Mar 1995 11:38:47 +0000 (GMT)
+
+Title: Partition Function of a Quadratic Functional and Semiclassical
+  Approximation for Witten's 3-Manifold Invariant
+Authors: David H. Adams and Siddhartha Sen
+Comments: Some typo's are corrected. One of these which may have caused
+  confusion is in the chain of maps at the top of page 22 (or bottom of page 21
+  in the first version), where --Gamma1--T1--Gamma--T1*--Gamma1-- should have
+  been --Gamma1--T1--Gamma--T--Gamma--T1*--Gamma1--. (latex, 56p.)
+Report-no: TCD-95-03
+\\
+  An extension of the method and results of A. Schwarz for evaluating the
+partition function of a quadratic functional is presented. This enables the
+partition functions to be evaluated for a wide class of quadratic functionals
+of interest in topological quantum field theory, for which no other method has
+previously been available. In particular it enables the partition functions
+appearing in the semiclassical approximation for the Witten-invariant to be
+evaluated in the most general case. The resulting k-dependence is precisely
+that conjectured by D. Freed and R. Gompf.
+\\

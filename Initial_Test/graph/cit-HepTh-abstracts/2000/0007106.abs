@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0007106
+From: ohta@het.phys.sci.osaka-u.ac.jp
+Date: Fri, 14 Jul 2000 07:31:29 GMT   (13kb)
+Date (revised v2): Tue, 18 Jul 2000 08:33:40 GMT   (13kb)
+Date (revised v3): Thu, 12 Oct 2000 04:33:14 GMT   (13kb)
+
+Title: (F1, D1, D3) Bound State, Its Scaling Limits and SL(2,Z) Duality
+Authors: Rong-Gen Cai and Nobuyoshi Ohta
+Comments: 20 pages, Latex, minor corrections, final version to appear in Prog.
+  Theor. Phys
+Report-no: OU-HET 355
+Journal-ref: Prog.Theor.Phys. 104 (2000) 1073-1087
+\\
+  We discuss the properties of the bound state (F1, D1, D3) in IIB supergravity
+in three different scaling limits and the $SL(2,{\bf Z})$ transformation of the
+resulting theories. In the simple decoupling limit with finite electric and
+magnetic components of NS $B$ field, the worldvolume theory is the ${\cal N}$=4
+super Yang-Mills (SYM) and the supergravity dual is still the $AdS_5 \times
+S^5$. In the large magnetic field limit with finite electric field, the theory
+is the noncommutative super Yang-Mills (NCSYM), and the supergravity dual is
+the same as that without the electric background. We show how to take the
+decoupling limit of the closed string for the critical electric background and
+finite magnetic field, and that the resulting theory is the noncommutative open
+string (NCOS) with both space-time and space-space noncommutativities. It is
+shown that under the $SL(2, {\bf Z})$ transformation, the SYM becomes itself
+with a different coupling constant, the NCSYM is mapped to a NCOS, and the NCOS
+in general transforms into another NCOS and reduces to a NCSYM in a special
+case.
+\\

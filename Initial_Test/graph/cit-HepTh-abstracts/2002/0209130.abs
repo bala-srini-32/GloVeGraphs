@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0209130
+From: Tim Morris <trmorris@hep.phys.soton.ac.uk>
+Date: Mon, 16 Sep 2002 16:10:14 GMT   (39kb)
+
+Title: Towards a manifestly gauge invariant and universal calculus for
+  Yang-Mills theory
+Authors: Stefano Arnone, Antonio Gatti, Tim R. Morris
+Comments: LaTeX, 14 pages, 12 figs, merged from talks hep-th/0207154 and
+  hep-th/0207153, to be published in Acta Physica Slavonica
+Report-no: SHEP 02-21
+\\
+  A manifestly gauge invariant exact renormalization group for pure SU(N)
+Yang-Mills theory is proposed, along with the necessary gauge invariant
+regularisation which implements the effective cutoff. The latter is naturally
+incorporated by embedding the theory into a spontaneously broken SU(N|N)
+super-gauge theory, which guarantees finiteness to all orders in perturbation
+theory. The effective action, from which one extracts the physics, can be
+computed whilst manifestly preserving gauge invariance at each and every step.
+As an example, we give an elegant computation of the one-loop SU(N) Yang-Mills
+beta function, for the first time at finite N without any gauge fixing or
+ghosts. It is also completely independent of the details put in by hand, e.g.
+the choice of covariantisation and the cutoff profile, and, therefore, guides
+us to a procedure for streamlined calculations.
+\\

@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0002121
+From: Eva Silverstein <evas@slac.stanford.edu>
+Date: Tue, 15 Feb 2000 23:27:21 GMT   (12kb)
+Date (revised v2): Wed, 16 Feb 2000 20:26:38 GMT   (12kb)
+Date (revised v3): Thu, 17 Feb 2000 04:54:51 GMT   (12kb)
+
+Title: Bounds on curved domain walls in 5d gravity
+Authors: Shamit Kachru, Michael Schulz, and Eva Silverstein
+Comments: 9 pages, harvmac big. Version 2: Significant error in quantitative
+  bounds corrected; bounds are not numerically smaller than Standard Model
+  physics without further assumptions about the VEV of the dilaton. However,
+  qualitative bound on curvature scale by bulk Kaluza-Klein scale unchanged
+  Version 3: Minor changes
+Report-no: SLAC-PUB-8381, SU-ITP-00/06
+Journal-ref: Phys.Rev. D62 (2000) 085003
+\\
+  We discuss maximally symmetric curved deformations of the flat domain wall
+solutions of five-dimensional dilaton gravity that appeared in a recent
+approach to the cosmological constant problem. By analyzing the bulk field
+configurations and the boundary conditions at a four-dimensional maximally
+symmetric curved domain wall, we obtain constraints on such solutions. For a
+special dilaton coupling to the brane tension that appeared in recent works, we
+find no curved deformations, confirming and extending slightly a result of
+Arkani-Hamed et al which was argued using a $Z_2$-symmetry of the solution. For
+more general dilaton-dependent brane tension, we find that the curvature is
+bounded by the Kaluza-Klein scale in the fifth dimension.
+\\

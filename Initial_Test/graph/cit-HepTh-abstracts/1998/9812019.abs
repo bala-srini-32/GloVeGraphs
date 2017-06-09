@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9812019
+From: Hiroshi Suzuki <hsuzuki@mito.ipc.ibaraki.ac.jp>
+Date: Wed, 2 Dec 1998 07:49:32 GMT   (5kb)
+Date (revised v2): Mon, 11 Jan 1999 05:38:41 GMT   (6kb)
+Date (revised v3): Thu, 10 Jun 1999 07:27:19 GMT   (6kb)
+
+Title: Simple Evaluation of the Chiral Jacobian with the Overlap Dirac Operator
+Author: Hiroshi Suzuki (Ibaraki University)
+Comments: 11 pages, uses PHYZZX, evaluation of lattice integrals is revised.
+  The final version to appear in Prog. Theor. Phys
+Report-no: IU-MSTP/31
+Journal-ref: Prog.Theor.Phys. 102 (1999) 141-147
+\\
+  The chiral Jacobian, which is defined with Neuberger's overlap Dirac operator
+of the lattice fermion, is explicitly evaluated in the continuum limit without
+expanding it in the gauge coupling constant. Our calculational scheme is simple
+and straightforward. We determine a coefficient of the chiral anomaly for
+general values of the mass parameter and the Wilson parameter of the overlap
+Dirac operator.
+\\

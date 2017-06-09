@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9902067
+From: Csaba Csaki <csaki@thwk5.lbl.gov>
+Date: Wed, 10 Feb 1999 00:51:13 GMT   (41kb)
+
+Title: Supergravity Models for 3+1 Dimensional QCD
+Authors: Csaba Csaki (Berkeley), Jorge Russo (Univ. of Buenos Aires),
+  Konstadinos Sfetsos (CERN), John Terning (Berkeley)
+Comments: 27 pages, LaTeX, 11 figures included
+Report-no: UCB-PTH-99/04, LBNL-42813, CERN-TH/99-18
+Journal-ref: Phys.Rev. D60 (1999) 044001
+\\
+  The most general black M5-brane solution of eleven-dimensional supergravity
+(with a flat R^4 spacetime in the brane and a regular horizon) is characterized
+by charge, mass and two angular momenta. We use this metric to construct
+general dual models of large-N QCD (at strong coupling) that depend on two free
+parameters. The mass spectrum of scalar particles is determined analytically
+(in the WKB approximation) and numerically in the whole two-dimensional
+parameter space. We compare the mass spectrum with analogous results from
+lattice calculations, and find that the supergravity predictions are close to
+the lattice results everywhere on the two dimensional parameter space except
+along a special line. We also examine the mass spectrum of the supergravity
+Kaluza-Klein (KK) modes and find that the KK modes along the compact D-brane
+coordinate decouple from the spectrum for large angular momenta. There are
+however KK modes charged under a U(1)xU(1) global symmetry which do not
+decouple anywhere on the parameter space. General formulas for the string
+tension and action are also given.
+\\

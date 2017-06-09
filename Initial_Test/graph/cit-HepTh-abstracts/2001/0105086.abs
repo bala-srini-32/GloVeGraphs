@@ -1,0 +1,17 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0105086
+From: Ulf Gran <gran@fy.chalmers.se>
+Date: Thu, 10 May 2001 20:20:46 GMT   (34kb)
+Date (revised v2): Sun, 29 Jul 2001 18:37:54 GMT   (34kb)
+
+Title: GAMMA: A Mathematica package for performing gamma-matrix algebra and
+  Fierz transformations in arbitrary dimensions
+Authors: Ulf Gran
+Comments: 12 pages, LaTeX, v2: some clarifications added, updated package
+  available
+\\
+  We have developed a Mathematica package capable of performing gamma-matrix
+algebra in arbitrary (integer) dimensions. As an application we can compute
+Fierz transformations.
+\\

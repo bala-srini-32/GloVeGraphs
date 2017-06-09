@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0110278
+From: Horacio E. Camblong <camblong@euclid.math.usfca.edu>
+Date: Tue, 30 Oct 2001 12:45:05 GMT   (10kb)
+Date (revised v2): Mon, 10 Jun 2002 02:17:13 GMT   (14kb)
+
+Title: Regularized Green's Function for the Inverse Square Potential
+Authors: Horacio E. Camblong, Carlos R. Ordonez
+Comments: 10 pages. The final section was expanded
+Subj-class: High Energy Physics - Theory; Mathematical Physics
+Journal-ref: Mod.Phys.Lett. A17 (2002) 817
+\\
+  A Green's function approach is presented for the D-dimensional inverse square
+potential in quantum mechanics. This approach is implemented by the
+introduction of hyperspherical coordinates and the use of a real-space
+regulator in the regularized version of the model. The application of
+Sturm-Liouville theory yields a closed expression for the radial energy Green's
+function. Finally, the equivalence with a recent path-integral treatment of the
+same problem is explicitly shown.
+\\

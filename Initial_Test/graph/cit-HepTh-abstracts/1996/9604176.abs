@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9604176
+From: "Alexei Semikhatov" <asemikha@td.lpi.ac.ru>
+Date: Sun, 28 Apr 1996 22:21:07 +0400 (MSD)   (38kb)
+Date (revised): Wed, 29 May 1996 23:15:59 +0400 (MSD)
+Date (revised): Sat, 29 Aug 1998 14:38:14 GMT
+
+Title: All Singular Vectors of the N=2 Superconformal Algebra via the Algebraic
+  Continuation Approach
+Authors: A M Semikhatov and I Yu Tipunin (Lebedev Physics Institute)
+Comments: LaTeX 2.09, 33pp
+\\
+  We give general expressions for singular vectors of the N=2 superconformal
+algebra in the form of {\it monomials} in the continued operators by which the
+universal enveloping algebra of N=2 is extended. We then show how the algebraic
+relations satisfied by the continued operators can be used to transform the
+monomials into the standard Verma-module expressions. Our construction is based
+on continuing the extremal diagrams of N=2 Verma modules to the states
+satisfying the twisted \hw{} conditions with complex twists. It allows us to
+establish recursion relations between singular vectors of different series and
+at different levels. Thus, the N=2 singular vectors can be generated from a
+smaller set of the so-called topological singular vectors, which are
+distinguished by being in a 1:1 correspondence with singular vectors in affine
+sl(2) Verma modules. The method of `continued products' of fermions is a
+counterpart of the method of complex powers used in the constructions of
+singular vectors for affine Lie algebras.
+\\

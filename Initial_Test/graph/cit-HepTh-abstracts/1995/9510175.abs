@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9510175
+From: zuber@amoco.saclay.cea.fr (Jean-Bernard Zuber)
+Date: Tue, 24 Oct 1995 10:36:12 +0100   (45kb)
+
+Title: From CFT's to Graphs
+Author: V.B. Petkova and J.-B. Zuber
+Comments: 44 pages, 6 postscript figures, the whole uuencoded. TEX file, macros
+  used : harvmac.tex , epsf.tex. Optionally, AMS fonts in amssym.def and
+  amssym.tex
+Report-no: ASI-TPA/14/95, SPhT 95/118
+Journal-ref: Nucl.Phys. B463 (1996) 161-193
+\\
+  In this paper, we pursue the discussion of the connections between rational
+conformal field theories (CFT) and graphs. We generalize our recent work on the
+relations of operator product algebra (OPA) structure constants of $sl(2)\,$
+theories with the Pasquier algebra attached to the graph. We show that in a
+variety of CFT built on $sl(n)\,$ -- typically conformal embeddings and
+orbifolds, similar considerations enable one to write a linear system satisfied
+by the matrix elements of the Pasquier algebra in terms of conformal data --
+quantum dimensions and fusion coefficients. In some cases, this provides a
+sufficient information for the determination of all the eigenvectors of an
+adjacency matrix, and hence of a graph.
+\\

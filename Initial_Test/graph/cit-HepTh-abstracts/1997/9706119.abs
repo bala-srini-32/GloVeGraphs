@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9706119
+From: Bernard Knaepen <bknaepen@ulb.ac.be>
+Date: Mon, 16 Jun 1997 06:21:51 MDT   (10kb)
+Date (revised): Mon, 8 Sep 1997 16:35:03 +0100
+Date (revised): Tue, 23 Jun 1998 09:41:17 GMT
+
+Title: All consistent interactions for exterior form gauge fields
+Authors: Marc Henneaux, Bernard Knaepen
+Comments: Typos and a minor mistake corrected (below equation (16))
+Report-no: ULB-TH-97/12
+Journal-ref: Phys.Rev. D56 (1997) 6076-6080
+\\
+  We give the complete list of all first-order consistent interaction vertices
+for a set of exterior form gauge fields of form degree >1, described in the
+free limit by the standard Maxwell-like action. A special attention is paid to
+the interactions that deform the gauge transformations. These are shown to be
+necessarily of the Noether form "conserved antisymmetric tensor" times "p-form
+potential" and exist only in particular spacetime dimensions. Conditions for
+consistency to all orders in the coupling constant are given. For illustrative
+purposes, the analysis is carried out explicitly for a system of forms with two
+different degrees p and q (1<p<q<n).
+\\

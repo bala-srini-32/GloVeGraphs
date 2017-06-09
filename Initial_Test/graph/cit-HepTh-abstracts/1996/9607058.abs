@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9607058
+From: Boris Pioline <pioline@orphee.polytechnique.fr>
+Date: Mon, 8 Jul 1996 10:05:36 +0200 (MET DST)   (26kb)
+
+Title: Higgs branch, HyperKahler quotient and duality in SUSY N=2 Yang-Mills
+  theories
+Authors: I.Antoniadis and B.Pioline
+Comments: 32 pages, latex2e, no figures, uses amsfonts package
+Report-no: CPTH-S459.0796
+Journal-ref: Int.J.Mod.Phys. A12 (1997) 4907-4932
+\\
+  Low--energy limits of N=2 supersymmetric field theories in the Higgs branch
+are described in terms of a non--linear 4--dimensional sigma--model on a \hk
+target space, classically obtained as a \hk quotient of the original flat
+hypermultiplet space by the gauge group. We review in a pedagogical way this
+construction, and illustrate it in various examples, with special attention
+given to the singularities emerging in the low--energy theory. In particular,
+we thoroughly study the Higgs branch singularity of Seiberg--Witten $SU(2)$
+theory with $N_f$ flavors, interpreted by Witten as a small instanton
+singularity in the moduli space of one instanton on $\RR^4$. By explicitly
+evaluating the metric, we show that this Higgs branch coincides with the Higgs
+branch of a $U(1)$ N=2 SUSY theory with the number of flavors predicted by the
+singularity structure of Seiberg--Witten's theory in the Coulomb phase. We find
+another example of Higgs phase duality, namely between the Higgs phases of
+$U(N_c)\; N_f$ flavors and $U(N_f-N_c)\; N_f$ flavors theories, by using a
+geometric interpretation due to Biquard et al. This duality may be relevant for
+understanding Seiberg's conjectured duality $N_c \leftrightarrow N_f-N_c$ in
+N=1 SUSY $SU(N_c)$ gauge theories.
+\\

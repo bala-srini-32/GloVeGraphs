@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9502082
+From: yang@hepth.hanyang.ac.kr (Hyunseok Yang)
+Date: Tue, 14 Feb 1995 16:05:34 GMT   (10kb)
+Date (revised): Sat, 21 Oct 1995 14:28:45 KST
+
+Title: BRST Cohomology and Its Application to QED
+Authors: Hyun Seok Yang and Bum-Hoon Lee
+Comments: 17 pages, RevTex, Revised version published in J. Korean Phys. Soc.,
+  Vol. 28, No. 2, April 1995, pp. 138-144
+Report-no: HYUPT-94/13, SNUTP 94-129
+Journal-ref: J.Korean Phys.Soc. 28 (1995) 138-144
+\\
+  We construct the BRST cohomology under a positive definite inner product and
+obtain the Hodge decomposition theorem at a non-degenerate state vector space
+$V$. The harmonic states isomorphic with a BRST cohomology class correspond to
+the physical Hilbert space with positive norm as long as the completeness of
+$Q_{BRST}$ is satisfied. We explicitly define ``co-BRST'' operator and analyze
+the quartet mechanism in QED.
+\\

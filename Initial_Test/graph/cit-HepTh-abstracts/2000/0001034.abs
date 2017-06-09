@@ -1,0 +1,32 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0001034
+From: Michael John Pfenning <mitchel@neptune.physics.uoguelph.ca>
+Date: Fri, 7 Jan 2000 22:17:24 GMT   (56kb)
+Date (revised v2): Mon, 10 Jan 2000 00:11:12 GMT   (56kb)
+Date (revised v3): Thu, 20 Jan 2000 17:10:07 GMT   (56kb)
+
+Title: Vacuum Polarization and Energy Conditions at a Planar Frequency
+  Dependent Dielectric to Vacuum Interface
+Authors: Michael John Pfenning
+Comments: 16 pages, 4 figures, Revtex style Minor typographic corrections to
+  equations and text
+Journal-ref: Phys.Rev. D62 (2000) 045018
+\\
+  The form of the vacuum stress-tensor for the quantized scalar field at a
+dielectric to vacuum interface is studied. The dielectric is modeled to have an
+index of refraction that varies with frequency. We find that the stress-tensor
+components, derived from the mode function expansion of the Wightman function,
+are naturally regularized by the reflection and transmission coefficients of
+the mode at the boundary. Additionally, the divergence of the vacuum energy
+associated with a perfectly reflecting mirror is found to disappear for the
+dielectric mirror at the expense of introducing a new energy density near the
+surface which has the opposite sign. Thus the weak energy condition is always
+violated in some region of the spacetime. For the dielectric mirror, the mean
+vacuum energy density per unit plate area in a constant time hypersurface is
+always found to be positive (or zero) and the averaged weak energy condition is
+proven to hold for all observers with non-zero velocity along the normal
+direction to the boundary. Both results are found to be generic features of the
+vacuum stress-tensor and not necessarily dependent of the frequency dependence
+of the dielectric.
+\\

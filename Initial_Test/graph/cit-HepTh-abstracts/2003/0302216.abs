@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0302216
+From: Marty Stock <mstock@mit.edu>
+Date: Thu, 27 Feb 2003 17:21:39 GMT   (11kb)
+
+Title: Quantum Mechanics on Manifolds Embedded in Euclidean Space
+Authors: P.C. Schuster and R.L. Jaffe
+Comments: 12 pages, LaTeX
+Report-no: MIT-CTP-3344
+\\
+  Quantum particles confined to surfaces in higher dimensional spaces are acted
+upon by forces that exist only as a result of the surface geometry and the
+quantum mechanical nature of the system. The dynamics are particularly rich
+when confinement is implemented by forces that act normal to the surface. We
+review this confining potential formalism applied to the confinement of a
+particle to an arbitrary manifold embedded in a higher dimensional Euclidean
+space. We devote special attention to the geometrically induced gauge potential
+that appears in the effective Hamiltonian for motion on the surface. We
+emphasize that the gauge potential is only present when the space of states
+describing the degrees of freedom normal to the surface is degenerate. We also
+distinguish between the effects of the intrinsic and extrinsic geometry on the
+effective Hamiltonian and provide simple expressions for the induced scalar
+potential. We discuss examples including the case of a 3-dimensional manifold
+embedded in a 5-dimensional Euclidean space.
+\\

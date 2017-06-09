@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9605232
+From: "John H. Brodie" <jhbrodie@phoenix.Princeton.EDU>
+Date: Mon, 3 Jun 1996 00:00:37 -0400   (13kb)
+
+Title: Duality in Supersymmetric SU($N_c$) Gauge Theory with Two Adjoint Chiral
+  Superfields
+Author: John Brodie
+Comments: 21 pages, harvmac, tables
+Report-no: PU-1626
+Journal-ref: Nucl.Phys. B478 (1996) 123-140
+\\
+  We discuss $SU(N_c)$ gauge theory coupled to two adjoint chiral superfields
+$X$ and $Y$, and a number of fundamental chiral superfields $Q^i$. We add a
+superpotential that has the form of Arnold's $D$ series $W = \Tr X^{k+1} + \Tr
+XY^2$. We present a dual description in terms of an $SU(3kN_f - N_c)$ gauge
+theory, and we show that the duality passes many tests. At the end of the
+paper, we show how a deformation of this superpotential flows to another
+duality having a product gauge group $SU(N_c)\times SU(N_c')$, with an adjoint
+field charged under $SU(N_c)$, an adjoint field charged under $SU(N_c')$,
+fields in the $(N_c,N_c')$ and $(\overline N_c,\overline N_c')$ representation,
+and a number of fundamentals. The dual description is an $SU(2kN_f' + kN_f -
+N_c')\times SU(2kN_f + kN_f' - N_c)$ gauge theory.
+\\

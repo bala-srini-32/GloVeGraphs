@@ -1,0 +1,37 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9812194
+From: Vladimir Dobrev <vladimir.dobrev@tu-clausthal.de>
+Date: Mon, 21 Dec 1998 21:33:00 GMT   (23kb)
+Date (revised v2): Fri, 30 Apr 1999 15:52:26 GMT   (23kb)
+
+Title: Intertwining Operator Realization of the AdS/CFT Correspondence
+Author: V.K. Dobrev
+Comments: 25 pages, TEX file using harvmac.tex; v2: misprints corrected; to
+  appear in Nuclear Physics B
+Journal-ref: Nucl.Phys. B553 (1999) 559-582
+\\
+  We give a group-theoretic interpretation of the AdS/CFT correspondence as
+relation of representation equivalence between representations of the conformal
+group describing the bulk AdS fields $\phi$ and the coupled boundary fields
+$\phi_0$ and ${\cal O}$. We use two kinds of equivalences. The first kind is
+equivalence between bulk fields and boundary fields and is established here.
+The second kind is the equivalence between coupled boundary fields. Operators
+realizing the first kind of equivalence for special cases were given by Witten
+and others - here they are constructed in a more general setting from the
+requirement that they are intertwining operators. The intertwining operators
+realizing the second kind of equivalence are provided by the standard conformal
+two-point functions. Using both equivalences we find that the bulk field has in
+fact two boundary fields, namely, the coupled boundary fields. Thus, from the
+viewpoint of the bulk-boundary correspondence the coupled fields are on an
+equal footing. Our setting is more general since our bulk fields are described
+by representations of the Euclidean conformal group $G=SO(d+1,1)$, induced from
+representations $\tau$ of the maximal compact subgroup $SO(d+1)$ of $G$. From
+these large reducible representations we can single out representations which
+are equivalent to conformal boundary representations labelled by the conformal
+weight and by arbitrary representations $\mu$ of the Euclidean Lorentz group
+$M=SO(d)$, such that $\mu$ is contained in the restriction of $\tau$ to $M$.
+Thus, our boundary-to-bulk operators can be compared with those in the
+literature only when for a fixed $\mu$ we consider a 'minimal' representation
+$\tau=\tau(\mu)$ containing $\mu$.
+\\

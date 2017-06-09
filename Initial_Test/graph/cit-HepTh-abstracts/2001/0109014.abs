@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0109014
+From: Axel Pelster <pelster@physik.fu-berlin.de>
+Date: Mon, 3 Sep 2001 16:19:39 GMT   (386kb)
+
+Title: Functional Closure of Schwinger-Dyson Equations in Quantum
+  Electrodynamics, Part 1: Generation of Connected and One-Particle Irreducible
+  Feynman Diagrams
+Authors: Axel Pelster, Hagen Kleinert, and Michael Bachmann
+Comments: Author Information under
+  http://www.physik.fu-berlin.de/~kleinert/institution.html Latest update of
+  paper also at http://www.physik.fu-berlin.de/~kleinert/327
+Journal-ref: Annals Phys. 297 (2002) 363-395
+\\
+  Using functional derivatives with respect to free propagators and
+interactions we derive a closed set of Schwinger-Dyson equations in quantum
+electrodynamics. Its conversion to graphical recursion relations allows us to
+systematically generate all connected and one-particle irreducible Feynman
+diagrams for the $n$-point functions and the vacuum energy together with their
+correct weights.
+\\

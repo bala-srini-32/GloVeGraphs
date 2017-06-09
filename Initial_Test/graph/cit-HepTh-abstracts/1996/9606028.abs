@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9606028
+From: asrz@pt.tu-clausthal.de
+Date: Thu, 6 Jun 96 11:58:45 MESZ   (20kb)
+
+Title: Conditional symmetry and spectrum of the one-dimensional Schr\"odinger
+  equation
+Authors: R.Z.Zhdanov
+Comments: LaTeX-file, 31 pages, to appear in J.Math.Phys., v.37, N7, 1996
+Report-no: Preprint ASI-TPA/23/95 TU Clausthal
+Journal-ref: J.Math.Phys. 37 (1996) 3198-3217
+\\
+  We develop an algebraic approach to studying the spectral properties of the
+stationary Schr\"odinger equation in one dimension based on its high order
+conditional symmetries. This approach makes it possible to obtain in explicit
+form representations of the Schr\"odinger operator by $n\times n$ matrices for
+any $n\in {\bf N}$ and, thus, to reduce a spectral problem to a purely
+algebraic one of finding eigenvalues of constant $n\times n$ matrices. The
+connection to so called quasi exactly solvable models is discussed. It is
+established, in particular, that the case, when conditional symmetries reduce
+to high order Lie symmetries, corresponds to exactly solvable Schr\"odinger
+equations. A symmetry classification of Sch\"odinger equation admitting
+non-trivial high order Lie symmetries is carried out, which yields a hierarchy
+of exactly solvable Schr\"odinger equations. Exact solutions of these are
+constructed in explicit form. Possible applications of the technique developed
+to multi-dimensional linear and one-dimensional nonlinear Schr\"odinger
+equations is briefly discussed.
+\\

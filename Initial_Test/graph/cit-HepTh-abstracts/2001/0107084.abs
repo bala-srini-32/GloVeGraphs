@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0107084
+From: Emery Sokatchev <sokatche@lapp.in2p3.fr>
+Date: Tue, 10 Jul 2001 19:52:15 GMT   (22kb)
+Date (revised v2): Mon, 10 Sep 2001 16:42:04 GMT   (22kb)
+
+Title: (2,0) Superconformal OPEs in D=6, Selection Rules and
+  Non-renormalization Theorems
+Authors: B. Eden, S. Ferrara and E. Sokatchev
+Comments: some details corrected
+Journal-ref: JHEP 0111 (2001) 020
+\\
+  We analyse the OPE of any two 1/2 BPS operators of (2,0) SCFT$_6$ by
+constructing all possible three-point functions that they can form with
+another, in general long operator. Such three-point functions are uniquely
+determined by superconformal symmetry. Selection rules are derived, which allow
+us to infer ``non-renormalization theorems'' for an abstract superconformal
+field theory. The latter is supposedly related to the strong-coupling dynamics
+of $N_c$ coincident M5 branes, dual, in the large-$N_c$ limit, to the bulk
+M-theory compactified on AdS$_7 \times$S$_4$. An interpretation of extremal and
+next-to-extremal correlators in terms of exchange of operators with protected
+conformal dimension is given.
+\\

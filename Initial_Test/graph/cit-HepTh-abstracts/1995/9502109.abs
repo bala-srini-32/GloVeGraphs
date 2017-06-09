@@ -1,0 +1,39 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9502109
+From: Emil Mottola 505-667-7646 <emil@tachyon.lanl.gov>
+Date: Thu, 16 Feb 95 18:05:30 -0700   (47kb)
+
+Title: Functional Integration Over Geometries
+Author: Emil Mottola
+Comments: 68 pages, Latex document using Revtex Macro package, Contribution to
+  the special issue of the Journal of Mathematical Physics on Functional
+  Integration, to be published July, 1995.
+Report-no: LA-UR-95-80
+Journal-ref: J.Math.Phys. 36 (1995) 2470-2511
+\\
+The geometric construction of the functional integral over coset spaces
+${\cal M}/{\cal G}$ is reviewed. The inner product on the cotangent space of
+infinitesimal deformations of $\cal M$ defines an invariant distance and volume
+form, or functional integration measure on the full configuration space. Then,
+by a simple change of coordinates parameterizing the gauge fiber $\cal G$, the
+functional measure on the coset space ${\cal M}/{\cal G}$ is deduced. This
+change of integration variables leads to a Jacobian which is entirely
+equivalent to the Faddeev-Popov determinant of the more traditional gauge fixed
+approach in non-abelian gauge theory. If the general construction is applied to
+the case where $\cal G$ is the group of coordinate reparametrizations of
+spacetime, the continuum functional integral over geometries, {\it i.e.}
+metrics modulo coordinate reparameterizations may be defined. The invariant
+functional integration measure is used to derive the trace anomaly and
+effective action for the conformal part of the metric in two and four
+dimensional spacetime. In two dimensions this approach generates the
+Polyakov-Liouville action of closed bosonic non-critical string theory. In four
+dimensions the corresponding effective action leads to novel conclusions on the
+importance of quantum effects in gravity in the far infrared, and in
+particular, a dramatic modification of the classical Einstein theory at
+cosmological distance scales, signaled first by the quantum instability of
+classical de Sitter spacetime. Finite volume scaling relations for the
+functional integral of quantum gravity in two and four dimensions are derived,
+and comparison with the discretized dynamical triangulation approach to the
+integration over geometries are discussed.
+\\

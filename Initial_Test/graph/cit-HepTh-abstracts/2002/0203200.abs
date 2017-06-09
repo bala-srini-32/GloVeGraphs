@@ -1,0 +1,32 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0203200
+From: Marco Picariello <marco@pcpicariello.mi.infn.it>
+Date: Thu, 21 Mar 2002 12:11:08 GMT   (27kb)
+Date (revised v2): Sat, 4 May 2002 13:39:38 GMT   (27kb)
+
+Title: An Approach to the Equivalence Theorem by the Slavnov-Taylor Identities
+Authors: Ruggero Ferrari, Marco Picariello, Andrea Quadri
+Comments: 26 pages
+Report-no: IFUM 654/FT
+Journal-ref: JHEP 0204 (2002) 033
+\\
+  We discuss the Equivalence Theorem (ET) in the BRST formalism. The existence
+of a local inverse of the field transformation (at least as a formal power
+expansion) suggests a formulation of the ET, which allows a nilpotent BRST
+symmetry. This strategy cannot be implemented at the quantum level if the
+inverse is non-local. In this case we propose an alternative formulation of the
+ET, where, by using Faddeev-Popov fields, this difficulty is circumvented. We
+study the quantum deformation of the associated ST identity, which turns out to
+be anomaly free, and show that a selected set of Green functions, which in some
+cases can be identified with the physical observables of the model, does not
+depend on the choice of the transformation of the fields. In general the
+transformation of the fields yields a non-renormalizable theory. When the
+equivalence is established between a renormalizable and a non-renormalizable
+theory, the ET provides a way to give a meaning to the last one by using the
+resulting ST identity. In this case the Quantum Action Principle cannot be of
+any help in the discussion of the ET. We assume and discuss the validity of a
+Quasi Classical Action Principle, which turns out to be sufficient for the
+present work. As an example we study the renormalizability and unitarity of
+massive QED in Proca's gauge by starting from a linear Lorentz-covariant gauge.
+\\

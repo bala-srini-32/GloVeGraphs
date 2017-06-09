@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9903017
+From: "Gary Mccartor" <mccartor@loaner.physics.smu.edu>
+Date: Mon, 1 Mar 1999 19:54:39 GMT   (15kb)
+
+Title: Light-Cone Quantization of the Schwinger Model
+Authors: Yuji Nakawaki and Gary McCartor
+Comments: 19 pages, two ps figures, uses ptptex.sty and psfig
+Report-no: SMUHEP/99-03
+Journal-ref: Prog.Theor.Phys. 103 (2000) 161-181
+\\
+  We consider constructing a canonical quantum theory of the light-cone gauge
+($A_-$=0) Schwinger model in the light-cone representation. Quantization
+conditions are obtained by requiring that translational generators $P_+$ and
+$P_-$ give rise to Heisenberg equations which, in a physical subspace, are
+consistant with the field equations. A consistent operator solution with
+residual gauge degrees of freedom is obtained by solving initial value problems
+on the light-cones. The construction allows a parton picture although we have a
+physical vacuum with nontrivial degeneracies in the theory.
+\\

@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0301064
+From: denis Bernard <dbernard@spht.saclay.cea.fr>
+Date: Fri, 10 Jan 2003 17:12:01 GMT   (11kb)
+Date (revised v2): Thu, 13 Mar 2003 11:06:16 GMT   (11kb)
+
+Title: SLE martingales and the Virasoro algebra
+Authors: Michel Bauer and Denis Bernard
+Comments: 13 pages, to appear in Phys. Lett. B
+Subj-class: High Energy Physics - Theory; Mathematical Physics; Probability
+  Theory
+\\
+  We present an explicit relation between representations of the Virasoro
+algebra and polynomial martingales in stochastic Loewner evolutions (SLE). We
+show that the Virasoro algebra is the spectrum generating algebra of SLE
+martingales. This is based on a new representation of the Virasoro algebra,
+inspired by the Borel-Weil construction, acting on functions depending on
+coordinates parametrizing conformal maps.
+\\

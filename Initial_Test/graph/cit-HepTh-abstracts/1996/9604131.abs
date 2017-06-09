@@ -1,0 +1,33 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9604131
+From: schnittg@nxth04.cern.ch
+Date: Mon, 22 Apr 96 17:08:05 +0100   (39kb)
+
+Title: Hidden $U_q(sl(2))\otimes U_q(sl(2))$ Quantum Group Symmetry in Two
+  Dimensional Gravity
+Authors: E. Cremmer, J.-L. Gervais, J. Schnittger
+Comments: 37 pages, LaTeX, no figures
+Report-no: LPTENS-96/20, CERN-TH/96-94
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+Journal-ref: Commun.Math.Phys. 183 (1997) 609-643
+\\
+  In a previous paper, we proposed a construction of $U_q(sl(2))$ quantum group
+symmetry generators for 2d gravity, where we took the chiral vertex operators
+of the theory to be the quantum group covariant ones established in earlier
+works. The basic idea was that the covariant fields in the spin $1/2$
+representation themselves can be viewed as generators, as they act, by
+braiding, on the other fields exactly in the required way. Here we transform
+this construction to the more conventional description of 2d gravity in terms
+of Bloch wave/Coulomb gas vertex operators, thereby establishing for the first
+time its quantum group symmetry properties. A $U_q(sl(2))\otimes U_q(sl(2))$
+symmetry of a novel type emerges: The two Cartan-generator eigenvalues are
+specified by the choice of matrix element (bra/ket Verma-modules); the two
+Casimir eigenvalues are equal and specified by the Virasoro weight of the
+vertex operator considered; the co-product is defined with a matching condition
+dictated by the Hilbert space structure of the operator product. This hidden
+symmetry possesses a novel Hopf like structure compatible with these
+conditions.
+ At roots of unity it gives the right truncation. Its (non linear) connection
+with the $U_q(sl(2))$ previously discussed is disentangled.
+\\

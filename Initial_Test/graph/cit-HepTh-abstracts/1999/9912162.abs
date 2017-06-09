@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9912162
+From: Tonnis ter Veldhuis <veldhuis@hep.umn.edu>
+Date: Fri, 17 Dec 1999 23:54:19 GMT   (97kb)
+
+Title: Calculating the tension of domain wall junctions and vortices in
+  generalized Wess-Zumino models
+Authors: M. Shifman and T. ter Veldhuis
+Comments: 22 pages, 6 figures, latex
+Report-no: TPI-MINN-99/58-T, UMN-TH-1830/99
+Journal-ref: Phys.Rev. D62 (2000) 065004
+\\
+  We study BPS saturated objects with axial geometry (wall junctions, vortices)
+in generalized Wess-Zumino models. It is observed that the tension of such
+objects is negative in general (although ``exceptional'' models are possible).
+We show how an ambiguity in the definition of central charges does not affect
+physical quantities, and we comment on the stability of the junctions and
+vortices. We illustrate these issues in two classes of models with Z_N
+symmetry. On the basis of analytical large N calculations and numerical
+calculations at finite N, we argue that the domain wall junctions in these
+models are indeed BPS saturated, and we calculate the junction tensions
+explicitly.
+\\

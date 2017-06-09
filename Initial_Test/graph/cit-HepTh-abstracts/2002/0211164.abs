@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0211164
+From: "carmelo@elbereth.fis.ucm.es" <carmelo@elbereth.fis.ucm.es>
+Date: Mon, 18 Nov 2002 16:48:40 GMT   (31kb)
+Date (revised v2): Tue, 19 Nov 2002 13:02:54 GMT   (31kb)
+
+Title: The Gauge Anomaly and the Seiberg-Witten Map
+Authors: C.P. Martin (Universidad Complutense de Madrid)
+Comments: 26 pages, 1 figure. A reference has been added
+Report-no: UCM-FT/00-67-2002
+Journal-ref: Nucl.Phys. B652 (2003) 72-92
+\\
+  The consistent form of the gauge anomaly is worked out at first order in
+$\theta$ for the noncommutative three-point function of the ordinary gauge
+field of certain noncommutative chiral gauge theories defined by means of the
+Seiberg-Witten map. We obtain that for any compact simple Lie group the anomaly
+cancellation condition of this three-point function reads $\traza \T^a \T^b
+\T^c = 0$, if one restricts the type of noncommutative counterterms that can be
+added to the classical action to restore the gauge symmetry to those which are
+renormalizable by power-counting. On the other hand, if the power-counting
+remormalizability paradigm is relinquished and one admits noncommutative
+counterterms (of the gauge fields, its derivatives and $\theta$) which are not
+power-counting renormalizable, then, the anomaly cancellation condition for the
+noncommutative three-point function of the ordinary gauge field becomes the
+ordinary one: $\traza \T^a \{\T^b,\T^c\} = 0$.
+\\

@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0001177
+From: Marika Taylor-Robinson <M.M.Taylor-Robinson@damtp.cam.ac.uk>
+Date: Wed, 26 Jan 2000 18:09:47 GMT   (22kb)
+Date (revised v2): Tue, 29 Feb 2000 11:28:49 GMT   (22kb)
+
+Title: Holography for degenerate boundaries
+Author: Marika Taylor-Robinson (DAMTP, University of Cambridge)
+Comments: 24 pages, ReVTeX, typos corrected
+\\
+  We discuss the AdS/CFT correspondence for negative curvature Einstein
+manifolds whose conformal boundary is degenerate in the sense that it is of
+codimension greater than one. In such manifolds, hypersurfaces of constant
+radius do not blow up uniformly as one increases the radius; examples include
+products of hyperbolic spaces and the Bergman metric. We find that there is a
+well-defined correspondence between the IR regulated bulk theory and conformal
+field theory defined in a background whose degenerate geometry is regulated by
+the same parameter. We are hence able to make sense of supergravity in
+backgrounds such as $AdS_{3} \times H^{2}$.
+\\

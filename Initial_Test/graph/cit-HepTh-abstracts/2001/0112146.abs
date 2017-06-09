@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0112146
+From: "Dima" <malyshev@gate.itep.ru>
+Date: Mon, 17 Dec 2001 17:55:15 GMT   (20kb)
+Date (revised v2): Fri, 21 Dec 2001 16:07:51 GMT   (20kb)
+Date (revised v3): Wed, 24 Apr 2002 18:23:45 GMT   (21kb)
+
+Title: Hopf algebra of ribbon graphs and renormalization
+Authors: Dmitry Malyshev
+Comments: 34 pages, 9 figures, Latex; improved style
+Journal-ref: JHEP 0205 (2002) 013
+\\
+  Connes and Kreimer have discovered a Hopf algebra structure behind
+renormalization of Feynman integrals. We generalize the Hopf algebra to the
+case of ribbon graphs, i.e. to the case of theories with matrix fields. The
+Hopf algebra is naturally defined in terms of surfaces corresponding to ribbon
+graphs. As an example, we discuss renormalization of $\Phi^4$ theory and the
+1/N expansion.
+\\

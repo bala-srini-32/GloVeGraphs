@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9608190
+From: Jens Ole Madsen <madsen@lapphp0.in2p3.fr>
+Date: Thu, 29 Aug 1996 06:40:46 MDT   (22kb)
+Date (revised): Thu, 14 Nov 1996 06:15:09 MST
+
+Title: Integrability vs. Supersymmetry
+Authors: J. M. Evans (DAMTP, Cambridge), J. O. Madsen (ENSLAPP, Annecy)
+Comments: plain TeX file, 11 pages output, macros included; minor errors
+  corrected, extra references added
+Report-no: CERN-TH/96-224, DAMTP/96-76, ENSLAPP-A-612/96
+Journal-ref: Phys.Lett. B389 (1996) 665-672
+\\
+  We investigate (1,0)-superconformal Toda theories based on simple Lie
+algebras and find that the classical integrability properties of the underlying
+bosonic theories do not survive. For several models based on algebras of low
+rank, we show explicitly that none of the conserved W-algebra generators can be
+generalized to the supersymmetric case. Using these results we deduce that at
+least one W-algebra generator fails to generalize in any model based on a
+classical Lie algebra. This argument involves a method for relating the bosonic
+Toda theories and their conserved currents within each classical series. We
+also scrutinize claims that the (1,0)-superconformal models actually admit
+(1,1) supersymmetry and find that they do not. Our results are consistent with
+the belief that all integrable Toda models with fermions arise from Lie
+superalgebras.
+\\

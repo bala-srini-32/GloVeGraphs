@@ -1,0 +1,17 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0210226
+From: Pepijn P.I. van der Laan <vdlaan@math.uu.nl>
+Date: Wed, 23 Oct 2002 14:06:10 GMT   (4kb)
+
+Title: The renormalisation bialgebra and operads
+Authors: Pepijn van der Laan and Ieke Moerdijk
+Comments: 2 pages
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+\\
+  In a recent preprint, Brouder and Schmitt give a careful construction of a
+`renormalisation' Hopf algebra out of an arbitrary bialgebra. In this note, we
+point out that this is a special case of the construction of the cooperad of a
+bialgebra (Berger-Moerdijk) combined with the construction of a bialgebra from
+a cooperad (Frabetti-Van der Laan).
+\\

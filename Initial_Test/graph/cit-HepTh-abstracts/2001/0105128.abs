@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0105128
+From: Levon Pogosian <l.pogosian@ic.ac.uk>
+Date: Mon, 14 May 2001 14:34:52 GMT   (63kb)
+Date (revised v2): Fri, 12 Oct 2001 15:07:06 GMT   (49kb)
+
+Title: Space of kink solutions in SU(N)\times Z_2
+Authors: Levon Pogosian and Tanmay Vachaspati
+Comments: 11 pages, 3 figures. Several minor changes made. Matches the version
+  accepted to PRD
+Journal-ref: Phys.Rev. D64 (2001) 105023
+\\
+  We find $(N+1)/2$ distinct classes (``generations'') of kink solutions in an
+$SU(N)\times Z_2$ field theory. The classes are labeled by an integer $q$. The
+members of one class of kinks will be globally stable while those of the other
+classes may be locally stable or unstable. The kink solutions in the $q^{th}$
+class have a continuous degeneracy given by the manifold $\Sigma_q=H/K_q$,
+where $H$ is the unbroken symmetry group and $K_q$ is the group under which the
+kink solution remains invariant. The space $\Sigma_q$ is found to contain
+incontractable two spheres for some values of $q$, indicating the possible
+existence of certain incontractable spherical structures in three dimensions.
+We explicitly construct the three classes of kinks in an SU(5) model with
+quartic potential and discuss the extension of these ideas to magnetic monopole
+solutions in the model.
+\\

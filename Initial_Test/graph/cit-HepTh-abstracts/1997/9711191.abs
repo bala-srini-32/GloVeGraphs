@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9711191
+From: Olivier Piguet <piguet@cce.ufes.br>
+Date: Wed, 26 Nov 1997 17:51:06 GMT   (23kb)
+Date (revised v2): Tue, 2 Dec 1997 15:24:10 GMT   (23kb)
+Date (revised v3): Thu, 22 Jan 1998 17:49:50 GMT   (24kb)
+
+Title: On the Non-Renormalization Properties of Gauge Theories with
+  Chern-Simons Terms
+Authors: Oswaldo M. Del Cima, Daniel H.T. Franco, Jose A. Helayel-Neto and
+  Olivier Piguet
+Comments: 24 pages, Latex. Small changes in the introduction, concerning the
+  citations; two references added, one updated. Some misprints corrected
+Report-no: CBPF-NF-052/97 -- UFES--DF--OP97/2
+Journal-ref: JHEP 9802 (1998) 002
+\\
+  Considering three-dimensional Chern-Simons theory, either coupled to matter
+or with a Yang-Mills term, we show the validity of a trace identity, playing
+the role of a local form of the Callan-Symanzik equation, in all orders of
+perturbation theory. From this we deduce the vanishing of the $\beta$-function
+associated to the Chern-Simons coupling constant and the full finiteness in the
+case of the Yang-Mills Chern-Simons theory. The main ingredient in the proof of
+the latter property is the noninvariance of the Chern-Simons form under the
+gauge transformations. Our results hold for the three-dimensional Chern-Simons
+model in a general Riemannian manifold.
+\\

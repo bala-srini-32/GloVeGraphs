@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0007245
+From: Richard Shurtleff <shurtleffr@wit.edu>
+Date: Mon, 31 Jul 2000 12:48:58 GMT   (6kb)
+
+Title: Rotations and e, $\nu$ Propagators, Part II
+Authors: Richard Shurtleff
+Comments: 8 pages, no figures, LaTex
+\\
+  We continue to derive spacetime quantities and spin 1/2 propagators from
+rotations. Rotation-invariant projection operators are found for each element
+of a four element basis, i.e. a basis for four component quantities with
+specific transformation rules under rotations. With these four projection
+operators, we make two spacetime invariant projection operators, i.e. once
+space, time, energy, and momentum are identified. The spacetime invariant
+operators are propagators for free neutrinos. Except for the substitute basis,
+the process is the same as the one that gave electron propagators in Part I.
+  PACS number(s): 11.30.-j, 11.30.Cp, and 03.65.Fd
+\\

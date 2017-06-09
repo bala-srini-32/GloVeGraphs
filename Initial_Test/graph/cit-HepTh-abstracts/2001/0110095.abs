@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0110095
+From: "Miyuki Nishikawa" <nisikawa@www-hep.phys.s.u-tokyo.ac.jp>
+Date: Wed, 10 Oct 2001 08:18:00 GMT   (9kb)
+Date (revised v2): Thu, 11 Oct 2001 08:00:22 GMT   (9kb)
+Date (revised v3): Thu, 14 Feb 2002 19:05:59 GMT   (12kb)
+
+Title: Renormalization and Essential Singularity
+Authors: Miyuki Nishikawa
+Comments: 12 pages, no figures, PTPTeX with amsfonts. 2 pages added for details
+Subj-class: High Energy Physics - Theory; Mathematical Physics
+\\
+  In usual dimensional counting, momentum has dimension one. But a function
+f(x), when differentiated n times, does not always behave like one with its
+power smaller by n. This inevitable uncertainty may be essential in general
+theory of renormalization, including quantum gravity. As an example, we
+classify possible singularities of a potential for the Schr\"{o}dinger
+equation, assuming that the potential V has at least one $C^2$ class eigen
+function. The result crucially depends on the analytic property of the eigen
+function near its 0 point.
+\\

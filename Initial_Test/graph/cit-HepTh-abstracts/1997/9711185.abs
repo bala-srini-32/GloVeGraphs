@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9711185
+From: Paul A. Pearce <pap@mundoe.maths.mu.oz.au>
+Date: Wed, 26 Nov 1997 01:32:13 GMT   (13kb)
+
+Title: Scaling Limit of RSOS Models and TBA Equations
+Authors: Paul A. Pearce and Bernard Nienhuis
+Comments: 20 pages, no figures, LaTeX2e
+Report-no: University of Melbourne preprint
+Journal-ref: Nucl.Phys. B519 (1998) 579-596
+\\
+  We study the scaling limits of the L-state Restricted Solid-on-Solid (RSOS)
+lattice models and their fusion hierarchies in the off-critical regimes.
+Starting with the elliptic functional equations of Klumper and Pearce, we
+derive the Thermodynamic Bethe Ansatz (TBA) equations of Zamolodchikov.
+Although this systematic approach, in principle, allows TBA equations to be
+derived for all the excited states we restrict our attention here to the
+largest eigenvalue or groundstate in Regimes III and IV. In Regime III the TBA
+equations are massive while in Regime IV there is massless scattering
+describing the renormalization group flow between distinct A_1^{(1)} coset
+conformal field theories. Regimes I and II, pertaining to Z_{L-1} parafermions,
+will be treated in a subsequent paper.
+\\

@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9810243
+From: "Michael P. Mattis" <mattis@skyrmion.lanl.gov>
+Date: Fri, 30 Oct 1998 00:46:50 GMT   (14kb)
+Date (revised v2): Tue, 10 Nov 1998 22:53:38 GMT   (14kb)
+Date (revised v3): Wed, 11 Nov 1998 04:46:12 GMT   (14kb)
+
+Title: Multi-Instantons and Maldacena's Conjecture
+Authors: N. Dorey, T.J. Hollowood, V.V. Khoze, M.P.Mattis, and S. Vandoren
+Comments: 12 pp. In this version we use the recently-calculated normalization
+  for the 10D partition function of N=1 SYM. Consequently, we can now claim
+  perfect agreement between N=4 large-N SQCD, and type IIB SUGRA on AdS_5 x S^5
+Journal-ref: JHEP 9906 (1999) 023
+\\
+  We examine certain n-point functions G_n in {\cal N}=4 supersymmetric SU(N)
+gauge theory at the conformal point. In the large-N limit, we are able to sum
+all leading-order multi-instanton contributions exactly. We find compelling
+evidence for Maldacena's conjecture: (1) The large-N k-instanton collective
+coordinate space has the geometry of AdS_5 x S^5. (2) In exact agreement with
+type IIB superstring calculations, at the k-instanton level, $G_n = \sqrt{N}
+g^8 k^{n-7/2} e^{-8\pi^2 k/g^2}\sum_{d|k} d^{-2} \times F_n(x_1,...,x_n)$,
+where F_n is identical to a convolution of n bulk-to-boundary SUGRA
+propagators.
+\\

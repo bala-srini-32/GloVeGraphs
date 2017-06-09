@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9610114
+From: Robert Coquereaux <robert.coquereaux@cptsu5.univ-mrs.fr>
+Date: Wed, 16 Oct 1996 06:39:10 MDT   (25kb)
+
+Title: On the finite dimensional quantum group M_3 + (M_{2|1}(Lambda^2))_0
+Authors: Robert Coquereaux (1 and 2) ((1) Instituto Balseiro, Centro Atomico de
+  Bariloche, Argentina, (2) CPT, CNRS, Marseille, France)
+Comments: 16 pages, LaTeX, 2 eps figures
+Report-no: CPT-96/P.3388
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+Journal-ref: Lett.Math.Phys. 42 (1997) 309-328
+\\
+  We describe a few properties of the non semi-simple associative algebra H =
+M_3 + (M_{2|1}(Lambda2))_0, where Lambda2 is the Grassmann algebra with two
+generators. We show that H is not only a finite dimensional algebra but also a
+(non co-commutative) Hopf algebra, hence a finite dimensional quantum group. By
+selecting a system of explicit generators, we show how it is related with the
+quantum enveloping algebra of SLq(2) when the parameter q is a cubic root of
+unity. We describe its indecomposable projective representations as well as the
+irreducible ones. We also comment about the relation between this object and
+the theory of modular representations of the group SL(2,F3), i.e. the binary
+tetrahedral group. Finally, we briefly discuss its relation with the Lorentz
+group and, as already suggested by A.Connes, make a few comments about the
+possible use of this algebra in a modification of the Standard Model of
+particle physics (the unitary group of the semi-simple algebra associated with
+H is U(3) x U(2) x U(1)).
+\\

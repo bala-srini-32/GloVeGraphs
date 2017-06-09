@@ -1,0 +1,35 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9904017
+From: Steven Gubser <ssgubser@born.harvard.edu>
+Date: Sat, 3 Apr 1999 00:44:58 GMT   (89kb)
+Date (revised v2): Mon, 19 Apr 1999 22:22:35 GMT   (96kb)
+Date (revised v3): Fri, 7 May 1999 15:01:38 GMT   (92kb)
+
+Title: Renormalization Group Flows from Holography--Supersymmetry and a
+  c-Theorem
+Authors: D.Z. Freedman, S.S. Gubser, K. Pilch, and N.P. Warner
+Comments: 56 pages, three figures, harvmac. v2: improved referencing, corrected
+  discussion of energy conditions. v3: one more reference fixed
+Report-no: CERN-TH/99-86, HUTP-99/A015, USC-99/1, MIT-CTP-2846
+Journal-ref: Adv.Theor.Math.Phys. 3 (1999) 363-417
+\\
+  We obtain first order equations that determine a supersymmetric kink solution
+in five-dimensional N=8 gauged supergravity. The kink interpolates between an
+exterior anti-de Sitter region with maximal supersymmetry and an interior
+anti-de Sitter region with one quarter of the maximal supersymmetry. One eighth
+of supersymmetry is preserved by the kink as a whole. We interpret it as
+describing the renormalization group flow in N=4 super-Yang-Mills theory broken
+to an N=1 theory by the addition of a mass term for one of the three adjoint
+chiral superfields. A detailed correspondence is obtained between fields of
+bulk supergravity in the interior anti-de Sitter region and composite operators
+of the infrared field theory. We also point out that the truncation used to
+find the reduced symmetry critical point can be extended to obtain a new N=4
+gauged supergravity theory holographically dual to a sector of N=2 gauge
+theories based on quiver diagrams.
+  We consider more general kink geometries and construct a c-function that is
+positive and monotonic if a weak energy condition holds in the bulk gravity
+theory. For even-dimensional boundaries, the c-function coincides with the
+trace anomaly coefficients of the holographically related field theory in
+limits where conformal invariance is recovered.
+\\

@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9810071
+From: Seth A Major <smajor@galileo.thp.univie.ac.at>
+Date: Sun, 11 Oct 1998 08:57:43 GMT   (74kb)
+Date (revised v2): Fri, 5 Mar 1999 11:50:35 GMT   (74kb)
+
+Title: Embedded graph invariants in Chern-Simons theory
+Authors: Seth A. Major
+Comments: 20 pages; RevTex; with approx 50 ps figures; References added,
+  introduction rewritten, version to be published in Nuc. Phys. B
+Report-no: UWThPh - 1998 - 54
+Journal-ref: Nucl.Phys. B550 (1999) 531-560
+\\
+  Chern-Simons gauge theory, since its inception as a topological quantum field
+theory, has proved to be a rich source of understanding for knot invariants. In
+this work the theory is used to explore the definition of the expectation value
+of a network of Wilson lines - an embedded graph invariant. Using a slight
+generalization of the variational method, lowest-order results for invariants
+for arbitrary valence graphs are derived; gauge invariant operators are
+introduced; and some higher order results are found. The method used here
+provides a Vassiliev-type definition of graph invariants which depend on both
+the embedding of the graph and the group structure of the gauge theory. It is
+found that one need not frame individual vertices. Though, without a global
+projection of the graph, there is an ambiguity in the relation of the
+decomposition of distinct vertices. It is suggested that framing may be seen as
+arising from this ambiguity - as a way of relating frames at distinct vertices.
+\\

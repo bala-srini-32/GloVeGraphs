@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9804063
+From: Robert Andrew Weston <r.a.weston@ma.hw.ac.uk>
+Date: Wed, 8 Apr 1998 10:09:21 GMT   (18kb)
+Date (revised v2): Fri, 10 Apr 1998 09:53:19 GMT   (18kb)
+Date (revised v3): Tue, 16 Jun 1998 13:54:53 GMT   (18kb)
+
+Title: Mixing of Ground States in Vertex Models
+Authors: Jin Hong, Seok-Jin Kang, Tetsuji Miwa and Robert Weston
+Comments: 12 pages, LaTeX, typos corrected
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+Journal-ref: J.Phys. A31 (1998) L515-L525
+\\
+  We consider the analogue of the 6-vertex model constructed from alternating
+spin n/2 and spin m/2 lines, where $1\leq n<m$. We identify the transfer matrix
+and the space on which it acts in terms of the representation theory of
+$U_q(sl_2)$. We diagonalise the transfer matrix and compute the S-matrix. We
+give a trace formula for local correlation functions. When n=1, the 1-point
+function of a spin m/2 local variable for the alternating lattice with a
+particular ground state is given as a linear combination of the 1-point
+functions of the pure spin m/2 model with different ground states. The mixing
+ratios are calculated exactly and are expressed in terms of irreducible
+characters of $U_q(sl_2)$ and the deformed Virasoro algebra.
+\\

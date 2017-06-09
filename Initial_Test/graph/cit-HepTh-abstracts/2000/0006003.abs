@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0006003
+From: Nathan Jacob Berkovits <nberkovi@ift.unesp.br>
+Date: Thu, 1 Jun 2000 12:36:51 GMT   (10kb)
+Date (revised v2): Tue, 1 Aug 2000 19:13:08 GMT   (10kb)
+
+Title: Cohomology in the Pure Spinor Formalism for the Superstring
+Authors: Nathan Berkovits (IFT/UNESP, Sao Paulo)
+Comments: Added 2 references
+Report-no: IFT-P.052/2000
+Journal-ref: JHEP 0009 (2000) 046
+\\
+  A manifestly super-Poincar\'e covariant formalism for the superstring has
+recently been constructed using a pure spinor variable. Unlike the covariant
+Green-Schwarz formalism, this new formalism is easily quantized with a BRST
+operator and tree-level scattering amplitudes have been evaluated in a
+manifestly covariant manner.
+  In this paper, the cohomology of the BRST operator in the pure spinor
+formalism is shown to give the usual light-cone Green-Schwarz spectrum.
+Although the BRST operator does not directly involve the Virasoro constraint,
+this constraint emerges after expressing the pure spinor variable in terms of
+SO(8) variables.
+\\

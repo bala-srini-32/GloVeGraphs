@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9604117
+From: Dimitri Boulatov <boulatov@falstaff.sissa.it>
+Date: Fri, 19 Apr 1996 18:40:02 +0200   (62kb)
+
+Title: Quantum Deformation of Lattice Gauge Theory
+Authors: D.V.Boulatov
+Comments: 31 pp.; uses epic.sty and eepic.sty
+Report-no: SISSA 57/96/EP
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+Journal-ref: Commun.Math.Phys. 186 (1997) 295-322
+\\
+  A quantum deformation of 3-dimensional lattice gauge theory is defined by
+applying the Reshetikhin-Turaev functor to a Heegaard diagram associated to a
+given cell complex. In the root-of-unity case, the construction is carried out
+with a modular Hopf algebra. In the topological (weak-coupling) limit, the
+gauge theory partition function gives a 3-fold invariant, coinciding in the
+simplicial case with the Turaev-Viro one. We discuss bounded manifolds as well
+as links in manifolds. By a dimensional reduction, we obtain a q-deformed gauge
+theory on Riemann surfaces and find a connection with the algebraic
+Alekseev-Grosse-Schomerus approach.
+\\

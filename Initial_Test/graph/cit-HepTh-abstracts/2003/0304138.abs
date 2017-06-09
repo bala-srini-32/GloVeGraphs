@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0304138
+From: Masaki Shigemori <shige@physics.ucla.edu>
+Date: Tue, 15 Apr 2003 18:21:26 GMT   (21kb)
+Date (revised v2): Wed, 16 Apr 2003 22:09:08 GMT   (22kb)
+Date (revised v3): Thu, 1 May 2003 00:53:58 GMT   (22kb)
+
+Title: Loop equations, matrix models, and N=1 supersymmetric gauge theories
+Authors: Per Kraus, Anton V. Ryzhov, and Masaki Shigemori
+Comments: 27 pages, amstex, no figures. v2: references added. v3: minor
+  corrections
+Report-no: UCLA/03/TEP/13
+\\
+  We derive the Konishi anomaly equations for N=1 supersymmetric gauge theories
+based on the classical gauge groups with matter in two-index tensor and
+fundamental representations, thus extending the existing results for U(N). A
+general formula is obtained which expresses solutions to the Konishi anomaly
+equation in terms of solutions to the loop equations of the corresponding
+matrix model. This provides an alternative to the diagrammatic proof that the
+perturbative part of the glueball superpotential $W_{\rm eff}$ for these matter
+representations can be computed from matrix model integrals, and further shows
+that the two approaches always give the same result. The anomaly approach is
+found to be computationally more efficient in the cases we studied. Also, we
+show in the anomaly approach how theories with a traceless two-index tensor can
+be solved using an associated theory with a traceful tensor and appropriately
+chosen coupling constants.
+\\

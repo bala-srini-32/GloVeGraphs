@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9903055
+From: Mark Wellmann <wellmann@physik.unizh.ch>
+Date: Fri, 5 Mar 1999 16:25:16 GMT   (11kb)
+Date (revised v2): Wed, 10 Nov 1999 09:28:01 GMT   (23kb)
+Date (revised v3): Tue, 16 Nov 1999 16:48:17 GMT   (23kb)
+
+Title: Spin-2 gauge theories and perturbative gauge invariance
+Authors: G.Scharf, M.Wellmann
+Comments: 24 pages, amslatex, introduction enlarged, section 3 and 4 modified,
+  section 5 new, appendices added, references updated, some typos corrected
+Report-no: ZU-TH 12/99
+\\
+  In the framework of causal perturbation theory we analyze the gauge structure
+of a massless self-interacting quantum tensor field. We look at this theory
+from a pure field theoretical point of view without assuming any geometrical
+aspect from general relativity. To first order in the perturbation expansion of
+the $S$-matrix we derive necessary and sufficient conditions for such a theory
+to be gauge invariant, by which we mean that the gauge variation of the
+self-coupling with respect to the gauge charge operator $Q$ is a divergence in
+the sense of vector analysis. The most general trilinear self-coupling of the
+graviton field turns out to be the one derived from the Einstein-Hilbert action
+plus divergences and coboundaries.
+\\

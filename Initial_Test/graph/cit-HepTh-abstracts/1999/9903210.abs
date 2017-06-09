@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9903210
+From: Pascal Bain <bain@corto.lpt.ens.fr>
+Date: Wed, 24 Mar 1999 19:31:53 GMT   (31kb)
+Date (revised v2): Tue, 13 Apr 1999 16:36:44 GMT   (32kb)
+
+Title: Curvature terms in D-brane actions and their M-theory origin
+Authors: C.P. Bachas, P. Bain and M.B. Green
+Comments: tex file, 31 pages, uses harvmac. Some rewriting of section 2,
+  conclusions and appendix B, in particular in what concerns the discussion of
+  seven-branes in the conclusions and the structure of $\alpha'^2$ terms in
+  appendix B. Other minor corrections plus added references
+Report-no: LPTENS-99-07; DAMTP-1999-14
+Journal-ref: JHEP 9905 (1999) 011
+\\
+  We derive the complete $(curvature)^2$ terms of effective D-brane actions,
+for arbitrary ambient geometries and world-volume embeddings, at lowest order
+(disk-level) in the string-loop expansion. These terms reproduce the
+$o(\alpha'^2)$ corrections to string scattering amplitudes, and are consistent
+with duality conjectures. In the particular case of the D3-brane with trivial
+normal bundle, considerations of $SL(2,\IZ)$ invariance lead to a complete sum
+of D-instanton corrections for both the parity-conserving and the
+parity-violating parts of the effective action. These corrections are required
+for the cancellation of the modular anomalies of massless modes, and are
+consistent with the absence of chiral anomalies in the intersection domain of
+pairs of D-branes. We also show that the parity-conserving part of the
+non-perturbative R^2 action follows from a one-loop quantum calculation in the
+six-dimensional world-volume of the M5-brane compactified on a two-torus.
+\\

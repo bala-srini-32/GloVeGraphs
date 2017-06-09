@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9802014
+From: "Daniel C. Cabra" <cabra@venus.fisica.unlp.edu.ar>
+Date: Tue, 3 Feb 1998 19:11:19 GMT   (9kb)
+
+Title: Non-Abelian Bosonization and Haldane's Conjecture
+Authors: D.C. Cabra, P. Pujol, C. von Reichenbach
+Comments: 9 pages REVTeX, no figures
+Report-no: La Plata-Th 98/03, SISSA 15/98/EP
+Journal-ref: Phys.Rev. B58 (1998) 65-68
+\\
+  We study the long wavelength limit of a spin S Heisenberg antiferromagnetic
+chain. The fermionic Lagrangian obtained corresponds to a perturbed level 2S
+SU(2) Wess-Zumino-Witten model. This effective theory is then mapped into a
+compact U(1) boson interacting with Z_{2S} parafermions. The analysis of this
+effective theory allows us to show that when S is an integer there is a mass
+gap to all excitations, whereas this gap vanishes in the half-odd-integer spin
+case. This gives a field theory treatment of the so-called Haldane's conjecture
+for arbitrary values of the spin S.
+\\

@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0205245
+From: Rikard von Unge <unge@physics.muni.cz>
+Date: Thu, 23 May 2002 16:22:37 GMT   (12kb)
+Date (revised v2): Fri, 7 Jun 2002 09:41:24 GMT   (12kb)
+
+Title: Poisson-Lie T-plurality
+Authors: Rikard von Unge
+Comments: LaTeX, 16+1 pages, v2: Clarifying comments added
+Journal-ref: JHEP 0207 (2002) 014
+\\
+  We extend the path-integral formalism for Poisson-Lie T-duality to include
+the case of Drinfeld doubles which can be decomposed into bi-algebras in more
+than one way. We give the correct shift of the dilaton, correcting a mistake in
+the litterature. We then use the fact that the six dimensional Drinfeld doubles
+have been classified to write down all possible conformal Poisson-Lie T-duals
+of three dimensional space times and we explicitly work out two duals to the
+constant dilaton and zero anti-symmetric tensor Bianchi type V space time and
+show that they satisfy the string equations of motion. This space-time was
+previously thought to have no duals because of the tracefulness of the
+structure constants.
+\\

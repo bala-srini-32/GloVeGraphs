@@ -1,0 +1,36 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9603100
+From: Donam Youm <youm@sns.ias.edu>
+Date: Fri, 15 Mar 1996 01:44:18 -0500   (13kb)
+Date (revised): Sun, 17 Mar 1996 21:56:37 -0500
+Date (revised): Mon, 18 Mar 1996 19:24:34 -0500
+Date (revised): Thu, 4 Jul 1996 09:51:54 -0400
+
+Title: General Rotating Five Dimensional Black Holes of Toroidally Compactified
+  Heterotic String
+Authors: Mirjam Cvetic and Donam Youm
+Comments: 14 pages, Uses RevTex, Revised version with minor corrections to
+  appear in Nucl. Phys. B
+Report-no: IASSNS-HEP-96/24,PUPT-1602
+Journal-ref: Nucl.Phys. B476 (1996) 118-132
+\\
+  We present the most general rotating black hole solution of five-dimensional
+N=4 superstring vacua that conforms to the ``no hair theorem''. It is chosen to
+be parameterized in terms of massless fields of the toroidally compactified
+heterotic string. The solutions are obtained by performing a subset of O(8,24)
+transformations, i.e., symmetry transformations of the effective
+three-dimensional action for stationary solutions, on the five-dimensional
+(neutral) rotating solution parameterized by the mass m and two rotational
+parameters $l_1$ and $l_2$. The explicit form of the generating solution is
+determined by three $SO(1,1)\subset O(8,24)$ boosts, which specify two electric
+charges $Q_1^{(1)}, Q_{2}^{(2)}$ of the Kaluza-Klein and two-form U(1) gauge
+fields associated with the same compactified direction, and the charge Q
+(electric charge of the vector field, whose field strength is dual to the field
+strength of the five-dimensional two-form field). The general solution,
+parameterized by 27 charges, two rotational parameters and the ADM mass
+compatible with the Bogomol'nyi bound, is obtained by imposing $[SO(5)\times
+SO(21)]/[SO(4)\times SO(20)]\subset O(5,21)$ transformations, which do not
+affect the five-dimensional space-time. We also analyze the deviations from the
+BPS-saturated limit.
+\\

@@ -1,0 +1,19 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9601140
+From: MARTINA@crnvma.cern.ch
+Date: Thu, 25 Jan 96 15:44:08 WET   (5kb)
+
+Title: Asymptotic properties of the solutions of a differential equation
+  appearing in QCD
+Authors: K. Chadan, Andr\'e Martin, J. Stubbe
+Comments: 6 pages, latex
+Report-no: CERN-TH/96-01
+Journal-ref: Nucl.Phys. B478 (1996) 598-604
+\\
+  We establish the asymptotic behaviour of the ratio $h^\prime(0)/h(0)$ for
+$\lambda\rightarrow\infty$, where $h(r)$ is a solution, vanishing at infinity,
+of the differential equation $h^{\prime\prime}(r) = i\lambda \omega (r) h(r)$
+on the domain $0 \leq r <\infty$ and $\omega (r) = (1-\sqrt{r}
+K_1(\sqrt{r}))/r$. Some results are valid for more general $\omega$'s.
+\\

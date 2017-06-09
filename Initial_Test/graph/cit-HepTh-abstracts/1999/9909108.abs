@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9909108
+From: Eric R. Sharpe <ersharpe@cgtp.duke.edu>
+Date: Wed, 15 Sep 1999 18:49:03 GMT   (38kb)
+Date (revised v2): Fri, 21 Jan 2000 22:00:02 GMT   (38kb)
+Date (revised v3): Sat, 19 Aug 2000 13:52:47 GMT   (41kb)
+
+Title: Discrete Torsion and Gerbes I
+Authors: Eric R. Sharpe
+Comments: 40 pages, must LaTeX 3x; v2: typos fixed and other minor upgrades;
+  v3: more minor upgrades
+Report-no: DUKE-CGTP-99-06
+Subj-class: High Energy Physics - Theory; Differential Geometry
+\\
+  In this technical note we give a purely geometric understanding of discrete
+torsion, as an analogue of orbifold Wilson lines for two-form tensor field
+potentials. In order to introduce discrete torsion in this context, we describe
+gerbes and the description of certain type II supergravity tensor field
+potentials as connections on gerbes. Discrete torsion then naturally appears in
+describing the action of the orbifold group on (1-)gerbes, just as orbifold
+Wilson lines appear in describing the action of the orbifold group on the gauge
+bundle. Our results are not restricted to trivial gerbes -- in other words, our
+description of discrete torsion applies equally well to compactifications with
+nontrivial H-field strengths. We also describe a speciric program for
+rigorously deriving analogues of discrete torsion for many of the other type II
+tensor field potentials, and we are able to make specific conjectures for the
+results.
+\\

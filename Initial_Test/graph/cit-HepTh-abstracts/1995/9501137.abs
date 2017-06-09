@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9501137
+From: strickla@phy.duke.edu (Mike Strickland)
+Date: Mon, 30 Jan 95 15:45:51 -0500   (108kb)
+
+Title: Renormalization Group Approach to Field Theory at Finite Temperature
+Authors: Sen-Ben Liao, Michael Strickland
+Comments: 29 pages, can include figures in the body of the text using epsf.sty
+Report-no: DUKE-TH-94-81
+Journal-ref: Phys.Rev. D52 (1995) 3653-3671
+\\
+  Scalar field theory at finite temperature is investigated via an improved
+renormalization group prescription which provides an effective resummation over
+all possible non-overlapping higher loop graphs. Explicit analyses for the
+lambda phi^4 theory are performed in d=4 Euclidean space for both low and high
+temperature limits. We generate a set of coupled equations for the mass
+parameter and the coupling constant from the renormalization group flow
+equation. Dimensional reduction and symmetry restoration are also explored with
+our improved approach.
+\\

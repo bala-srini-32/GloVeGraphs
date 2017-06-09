@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0112110
+From: "Dmitri Galtsov" <galtsov@grg.phys.msu.su>
+Date: Wed, 12 Dec 2001 19:07:11 GMT   (7kb)
+
+Title: Radiation reaction in various dimensions
+Authors: D. V. Gal'tsov
+Comments: Latex, 8 pages
+Report-no: DTP-MSU/01-22
+Journal-ref: Phys.Rev. D66 (2002) 025016
+\\
+  We discuss the radiation reaction problem for an electric charge moving in
+flat space-time of arbitrary dimensions. It is shown that four is the unique
+dimension where a local differential equation exists accounting for the
+radiation reaction and admitting a consistent mass-renormalization (the
+Dirac-Lorentz equation). In odd dimensions the Huygens principle does not hold;
+as a result, the radiation reaction force depends on the whole past history of
+a charge (radiative tail). We show that the divergence in the tail integral can
+be removed by the mass renormalization only in the 2+1 theory. In even
+dimensions higher than four, divergences can not be removed by a
+renormalization.
+\\

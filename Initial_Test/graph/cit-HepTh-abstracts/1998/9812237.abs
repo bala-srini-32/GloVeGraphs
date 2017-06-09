@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9812237
+From: Ofer Aharony <oferah@physics.rutgers.edu>
+Date: Mon, 28 Dec 1998 19:08:45 GMT   (17kb)
+Date (revised v2): Thu, 7 Jan 1999 14:43:28 GMT   (31kb)
+
+Title: Note on the Quantum Mechanics of M Theory
+Authors: Ofer Aharony and Tom Banks
+Comments: JHEP latex, 16 pages; minor changes in the description of generic
+  little string theory states
+Report-no: RU-98-52
+Journal-ref: JHEP 9903 (1999) 016
+\\
+  We observe that the existence of black holes limits the extent to which M
+Theory (or indeed any quantum theory of gravity) can be described by
+conventional quantum mechanics. Although there is no contradiction with the
+fundamental properties of quantum mechanics, one can prove that expectation
+values of Heisenberg operators at fixed times cannot exist in an ordinary
+asymptotic Lorentz frame. Only operators whose matrix elements between the
+vacuum and energy eigenstates with energy greater than the Planck scale are
+artificially cut off, can have conventional Green's functions. This implies a
+Planck scale cutoff on the possible localization of measurements in time. A
+similar behavior arises also in ``little string theories''. We argue that
+conventional quantum mechanics in light cone time is compatible with the
+properties of black holes if there are more than four non-compact flat
+dimensions, and also with the properties of ``little string theories''. We
+contrast these observations with what is known about M Theory in asymptotically
+Anti-de Sitter spacetimes.
+\\

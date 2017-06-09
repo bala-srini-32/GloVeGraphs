@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9708140
+From: phdamg@hetws5.nbi.dk
+Date: Wed, 27 Aug 97 10:59:04 +0200   (27kb)
+Date (revised): Fri, 14 Nov 1997 14:24:27 GMT
+Date (revised): Mon, 9 Feb 1998 14:59:09 GMT
+
+Title: Superfield Quantization
+Authors: I.A. Batalin, K. Bering, P.H. Damgaard
+Comments: 28 pages, LaTeX. Minor corrections
+Journal-ref: Nucl.Phys. B515 (1998) 455-487
+\\
+  We present a superfield formulation of the quantization program for theories
+with first class constraints. An exact operator formulation is given, and we
+show how to set up a phase-space path integral entirely in terms of
+superfields. BRST transformations and canonical transformations enter on equal
+footing, and they allow us to establish a superspace analog of the BFV theorem.
+We also present a formal derivation of the Lagrangian superfield analogue of
+the field-antifield formalism, by an integration over half of the phase-space
+variables.
+\\

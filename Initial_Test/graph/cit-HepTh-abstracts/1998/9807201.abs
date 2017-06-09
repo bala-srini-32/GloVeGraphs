@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9807201
+From: yasuhiro fujii <fujii@cezanne.phys.s.u-tokyo.ac.jp>
+Date: Tue, 28 Jul 1998 07:18:33 GMT   (15kb)
+Date (revised v2): Mon, 24 Aug 1998 04:56:51 GMT   (15kb)
+Date (revised v3): Wed, 9 Sep 1998 05:58:16 GMT   (15kb)
+
+Title: Spontaneous Magnetization in the Finite XXZ Spin Chain with Boundaries
+Authors: Yasuhiro Fujii and Miki Wadati
+Comments: 19pages, LaTeX2e file, minor corrections
+Subj-class: High Energy Physics - Theory; Quantum Algebra; Exactly Solvable and
+  Integrable Systems
+\\
+  The finite XXZ spin chain with boundaries is studied. We derive the transfer
+matrix from the q-difference equation discovered by Cherednik and construct its
+eigenstates by the vertex operator approach. We point out that the eigenstates
+with no magnetic fields have a symmetry called the turning symmetry. Making use
+of this symmetry we calculate the spontaneous magnetization in the
+thermodynamic limit, which is roughly twice as large as that in the
+half-infinite XXZ spin chain.
+\\

@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9710249
+From: Korkut Bardakci <bardakci@thsrv.lbl.gov>
+Date: Sat, 1 Nov 1997 00:04:44 GMT   (28kb)
+Date (revised v2): Fri, 7 Nov 1997 17:59:48 GMT   (28kb)
+
+Title: String Field Equations From Generalized Sigma Model II
+Author: Korkut Bardakci
+Comments: 39 pages (latex, no other macros needed). Two references missing in
+  the earlier version have been added; there are no other changes
+Report-no: LBL-40936, UCB-PTH-97/53
+Journal-ref: Nucl.Phys. B524 (1998) 545-575
+\\
+  We improve and extend a method introduced in an earlier paper for deriving
+string field equations. The idea is to impose conformal invariance on a
+generalized sigma model, using a background field method that ensures
+covariance under very general non-local coordinate transformations. The method
+is used to derive the free string equations, as well as the interacting
+equations for the graviton-dilaton system. The full interacting string
+equations derived by this method should be manifestly background independent.
+\\

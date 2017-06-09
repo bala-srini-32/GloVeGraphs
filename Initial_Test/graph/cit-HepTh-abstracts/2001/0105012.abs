@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0105012
+From: ARAKI Takeo <araki@th.phys.titech.ac.jp>
+Date: Wed, 2 May 2001 11:38:41 GMT   (56kb)
+Date (revised v2): Thu, 14 Jun 2001 04:19:34 GMT   (57kb)
+
+Title: Scattering of Noncommutative (n,1) Solitons
+Authors: Takeo Araki, Katsushi Ito (Tokyo Institute of Technology)
+Comments: 16 pages, 3 figures, LaTeX; a footnote added
+Journal-ref: Phys.Lett. B516 (2001) 123-133
+\\
+  We study scattering of noncommutative solitons in 2+1 dimensional scalar
+field theory. In particular, we investigate a system of two solitons with level
+n and n' (the (n,n')-system) in the large noncommutativity limit. We show that
+the scattering of a general (n,n')-system occurs at right angles in the case of
+zero impact parameter. We also derive an exact Kahler potential and the metric
+of the moduli space of the (n,1)-system. We examine numerically the (n,1)
+scattering and find that the closest distance for a fixed scattering angle is
+well approximated by a function a+b*sqrt{n} where a and b are some numerical
+constants.
+\\

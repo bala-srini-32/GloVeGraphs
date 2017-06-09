@@ -1,0 +1,18 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0211219
+From: Tomislav Prokopec <t.prokopec@thphys.uni-heidelberg.de>
+Date: Fri, 22 Nov 2002 19:43:37 GMT   (14kb)
+
+Title: Particle number in kinetic theory
+Authors: Bjorn Garbrecht, Tomislav Prokopec and Michael G. Schmidt
+Comments: 4 pages, 1 figure, macros: revtex, epsfig
+Report-no: HD-THEP-02-39
+\\
+  We provide a derivation for the particle number densities on phase space for
+scalar and fermionic fields in terms of Wigner functions. Our expressions
+satisfy the desired properties: for bosons the particle number is positive, for
+fermions it lies in the interval between zero and one, and both are consistent
+with thermal field theory. As applications we consider the Bunch-Davies vacuum
+and fermionic preheating after inflation.
+\\

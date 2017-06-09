@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9505189
+From: Ken <ken@Catch22.COM>
+Date: 21 May 95 12:40:49 EDT   (6kb)
+Date (revised): Thu, 16 Nov 1995 17:34:39 -0800
+
+Title: Unique Closed-Form Quantization Via Generalized Path Integrals or by
+  Natural Extension of the Standard Canonical Recipe
+Author: S. K. Kauffmann
+Comments: 6 pages, LaTeX, Revised to refer to the earlier Kerner-Sutcliffe
+  Hamiltonian quantization formula and to the Born-Jordan operator ordering
+  rule. Also now gives the generalizations to multiple degrees of freedom and
+  continuum fields
+\\
+  The Feynman-Garrod path integral representation for time evolution is
+extended to arbitrary one-parameter continuous canonical transformations. One
+thereupon obtains a generalized Kerner-Sutcliffe formula for the unique quantum
+representation of the transformation generator, which can be an arbitrary
+classical dynamical variable. This closed-form quantization procedure is shown
+to be equivalent to a natural extension of the standard canonical quantization
+recipe -- an extension that resolves the operator-ordering ambiguity in favor
+of the Born-Jordan rule.
+\\

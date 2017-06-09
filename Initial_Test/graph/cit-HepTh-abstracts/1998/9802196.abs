@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9802196
+From: Federica Vian <vian@pr.infn.it>
+Date: Fri, 27 Feb 1998 10:49:16 GMT   (28kb)
+
+Title: Wilson Renormalization Group for Supersymmetric Gauge Theories and Gauge
+  Anomalies
+Authors: M. Bonini and F. Vian (Universita` degli Studi di Parma and I.N.F.N.,
+  Gruppo collegato di Parma)
+Comments: 22 pages, 1 Postscript figure, uses amssymb
+Report-no: UPRF-98-03
+Journal-ref: Nucl.Phys. B532 (1998) 473-497
+\\
+  We extend the Wilson renormalization group (RG) to supersymmetric theories.
+As this regularization scheme preserves supersymmetry, we exploit the
+superspace technique. To set up the formalism we first derive the RG flow for
+the massless Wess-Zumino model and deduce its perturbative expansion. We then
+consider N=1 supersymmetric Yang-Mills and show that the local gauge symmetry
+-broken by the regularization- can be recovered by a suitable choice of the RG
+flow boundary conditions. We restrict our analysis to the first loop, the
+generalization to higher loops presenting no difficulty due to the iterative
+nature of the procedure. Furthermore, adding matter fields, we reproduce the
+one-loop supersymmetric chiral anomaly to the second order in the vector field.
+\\

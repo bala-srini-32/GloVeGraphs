@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0206025
+From: Gianluca Grignani <gianluca.grignani@pg.infn.it>
+Date: Tue, 4 Jun 2002 10:50:43 GMT   (11kb)
+Date (revised v2): Wed, 31 Jul 2002 08:45:05 GMT   (11kb)
+
+Title: O(D) invariant tachyon condensates in the 1/D expansion
+Authors: G. Grignani, M. Laidlaw, M. Orselli, G.W. Semenoff
+Comments: 14 pages, some references added
+Report-no: UPRF-2002-05
+Journal-ref: Phys.Lett. B543 (2002) 127-134
+\\
+  We consider the problem of condensation of open string tachyon fields which
+have an O(D) symmetric profile. This problem is described by a boundary
+conformal field theory with D scalar fields on a disc perturbed by relevant
+boundary operators with O(D) symmetry. The model is exactly solvable in the
+large D limit and we analyze its 1/D expansion. We find that this expansion is
+only consistent for tachyon fields which are polynomials. In that case, we show
+that the theory is renormalized by normal ordering the interaction. The
+beta-function for the tachyon field is the linear wave operator. We derive an
+expression for the tachyon potential and compare with other known expressions.
+In particular, our technique gives the exact potential for the quadratic
+tachyon profile. It can be used to correct the action which has been derived in
+that case iteratively in derivatives of the tachyon field.
+\\

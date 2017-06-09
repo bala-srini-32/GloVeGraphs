@@ -1,0 +1,19 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9712234
+From: Chie Ohzeki <ohzeki@grad.ap.kagu.sut.ac.jp>
+Date: Fri, 26 Dec 1997 09:29:51 GMT   (5kb)
+
+Title: $(p+2)$-form gauge fields for $p$-brane through an action-at-a-distance
+Authors: T. Miyazaki, C. Ohzeki and M. Yamanobe
+Comments: 6 pages
+Journal-ref: Nuovo Cim. B114 (1999) 589-593
+\\
+  In the conventional $p$-brane theory, a gauge ($p+1$)-form field
+$\phi^{(p+1)}$ mediates the interaction between $p$-branes, which is gauge
+invariant in the sense $\phi^{(p+1)}\to \phi^{(p+1)}+d\Lambda^{(p)}$ with
+$\Lambda^{(p)}$, an arbitrary $p$-form and $d$, a boundary operator. We, on the
+contrary, propose to introduce a new gauge field $\phi^{(p+2)}$ mediating the
+interaction, and we have a new type of gauge transformation: $\phi^{(p+2)}\to
+\phi^{(p+2)} +\delta\Lambda^{(p+3)}$, with $\delta$, a coboundary operator.
+\\

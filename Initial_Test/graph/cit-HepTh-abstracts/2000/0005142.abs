@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0005142
+From: Maxim Zabzine <zabzin@physto.se>
+Date: Tue, 16 May 2000 13:19:49 GMT   (13kb)
+Date (revised v2): Thu, 25 May 2000 12:10:18 GMT   (14kb)
+Date (revised v3): Wed, 25 Oct 2000 16:05:54 GMT   (14kb)
+
+Title: Hamiltonian systems with boundaries
+Authors: Maxim Zabzine (Stockholm U)
+Comments: 19 pages, latex, version to appear in JHEP
+Report-no: USITP-00-04
+Journal-ref: JHEP 0010 (2000) 042
+\\
+  Lately, to provide a solid ground for quantization of the open string theory
+with a constant B-field, it has been proposed to treat the boundary conditions
+as hamiltonian constraints.
+  It seems that this proposal is quite general and should be applicable to a
+wide range of models defined on manifolds with boundaries. The goal of the
+present paper is to show how the boundary conditions can arise as constraints
+in a purely algebraic fashion within the Hamiltonian approach without any
+reference to the Lagrangian formulation of the theory. The construction of the
+boundary Dirac brackets is also given and some subtleties are pointed out.
+  We consider four examples of field theories with boundaries: the topological
+sigma model, the open string theory with and without a constant $B$-field and
+electrodynamics with topological term.
+  A curious result for electrodynamics on a manifold with boundaries is
+presented.
+\\

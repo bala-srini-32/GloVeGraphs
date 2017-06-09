@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0302109
+From: Hirosi Ooguri <ooguri@theory.caltech.edu>
+Date: Fri, 14 Feb 2003 20:30:22 GMT   (32kb)
+Date (revised v2): Thu, 27 Feb 2003 22:51:38 GMT   (32kb)
+
+Title: The C-Deformation of Gluino and Non-planar Diagrams
+Authors: Hirosi Ooguri and Cumrun Vafa
+Comments: 32 pages, 4 figures; References added. The definition of the
+  C-deformation clarified
+Report-no: CALT-68-2428, HUTP-03/A014
+\\
+  We consider a deformation of N=1 supersymmetric gauge theories in four
+dimensions, which we call the C-deformation, where the gluino field satisfies a
+Clifford-like algebra dictated by a self-dual two-form, instead of the standard
+Grassmannian algebra. The superpotential of the deformed gauge theory is
+computed by the full partition function of an associated matrix model (or more
+generally a bosonic gauge theory), including non-planar diagrams. In this
+identification, the strength of the two-form controls the genus expansion of
+the matrix model partition function. For the case of pure N=1 Yang-Mills this
+deformation leads to the identification of the all genus partition function of
+c=1 non-critical bosonic string at self-dual radius as the glueball
+superpotential. Though the C-deformation violates Lorentz invariance, the
+deformed F-terms are Lorentz invariant and the Lorentz violation is screened in
+the IR.
+\\

@@ -1,0 +1,32 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9602166
+From: bgato <iffgato@roca.csic.es>
+Date: Wed, 28 Feb 1996 21:11:13 UTC+0100   (24kb)
+Date (revised): Wed, 24 Apr 1996 18:58:47 UTC+0100
+
+Title: Interpretation of the Determinant Formulae for the Chiral
+  Representations of the N=2 Superconformal Algebra
+Authors: Beatriz Gato-Rivera and Jose Ignacio Rosado
+Comments: This is a major revision. Our results are complementary, not
+  contradictory, to the standard interpretation of the N=2 determinant
+  formulae, because the latter do not apply directly to chiral modules. We have
+  also added one chapter analyzing the Periodic algebra
+Report-no: IMAFF-96/38, NIKHEF-96-007
+\\
+  We show that the N=2 determinant formulae of the Aperiodic NS algebra and the
+Periodic R algebra can be applied directly to incomplete Verma modules built on
+chiral primary states and on Ramond ground states, respectively, provided one
+modifies the interpretation of the zeroes in an appropriate way. That is, the
+zeroes of the determinat formulae account for the highest weight singular
+states built on chiral primaries and on Ramond ground states, but the
+identification of the levels and relative U(1) charges of the singular states
+is different than for complete Verma modules. In particular, half of the zeroes
+of the quadratic vanishing surfaces $f^A_{r,s}=0$ and $f^P_{r,s}=0$ correspond
+to uncharged singular states, and the other half correspond to charged singular
+states. We derive the spectrum of singular states built on chiral primaries,
+including the singular states of the Twisted Topological algebra, and the
+spectrum of singular states built on the Ramond ground states. We also uncover
+the existence of non-highest weight singular states which are not secondary of
+any highest weight singular state.
+\\

@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9512095
+From: Dasmahapatra S <S.Dasmahapatra@city.ac.uk>
+Date: Wed, 13 Dec 1995 17:17:26 +0000 (GMT)   (33kb)
+Date (revised): Thu, 14 Dec 1995 16:25:38 +0000 (GMT)
+
+Title: On the combinatorics of row and corner transfer matrices of the
+  $A_{n-1}^{(1)}$ restricted face models
+Author: Srinandan Dasmahapatra
+Comments: 36 pages, in LaTeX, uses epic.sty, eepic.sty macros (hopefully this
+  time the complete paper will go through!)
+Report-no: CMPS/95-114
+Journal-ref: Int.J.Mod.Phys. A12 (1997) 3551-3586
+\\
+  We establish a weight-preserving bijection between the index sets of the
+spectral data of row-to-row and corner transfer matrices for
+$U_q\widehat{sl(n)}$ restricted interaction round a face (IRF) models. The
+evaluation of momenta by adding Takahashi integers in the spin chain language
+is shown to directly correspond to the computation of the energy of a path on
+the weight lattice in the two-dimensional model. As a consequence we derive
+fermionic forms of polynomial analogues of branching functions for the cosets
+${(A^{(1)}_{n-1})_{\ell -1}\otimes (A^{(1)}_{n-1})_{1}} \over
+(A^{(1)}_{n-1})_{\ell}$, and establish a bosonic-fermionic polynomial identity.
+\\

@@ -1,0 +1,17 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9709144
+From: Alexandre Grezzi de Miranda Schmidt <schmidt@ift.unesp.br>
+Date: Fri, 19 Sep 1997 07:15:17 MDT   (29kb)
+
+Title: Two-loop self-energy diagrams worked out with NDIM
+Authors: Alfredo T. Suzuki and Alexandre G.M. Schmidt
+Comments: LaTeX, 10 pages, 2 figures, styles included
+Journal-ref: Eur.Phys.J. C5 (1998) 175-179
+\\
+  In this work we calculate two two-loop massless Feynman integrals pertaining
+to self-energy diagrams using NDIM (Negative Dimensional Integration Method).
+We show that the answer we get is 36-fold degenerate. We then consider special
+cases of exponents for propagators and the outcoming results compared with
+known ones obtained via traditional methods.
+\\

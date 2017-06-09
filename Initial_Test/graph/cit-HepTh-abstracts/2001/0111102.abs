@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0111102
+From: Fumihiko Sugino <sugino@spht.saclay.cea.fr>
+Date: Mon, 12 Nov 2001 10:04:03 GMT   (11kb)
+Date (revised v2): Thu, 11 Apr 2002 07:27:12 GMT   (32kb)
+Date (revised v3): Tue, 28 May 2002 15:19:51 GMT   (32kb)
+Date (revised v4): Thu, 8 Aug 2002 11:00:16 GMT   (33kb)
+
+Title: Dynamical Generation of Four-Dimensional Space-Time in the IIB Matrix
+  Model
+Authors: Jun Nishimura (NBI & Nagoya U.), Fumihiko Sugino (SPhT, Saclay)
+Comments: 10 pages, no figure, LaTeX; corrected errors about ansatz
+Journal-ref: JHEP 0205 (2002) 001
+\\
+  We study the spontaneous breakdown of SO(10) symmetry in the IIB matrix
+model, a conjectured nonperturbative definition of type IIB superstring theory
+in ten dimensions. Our analysis is based on a Gaussian expansion technique,
+which was originally proposed by Kabat-Lifschytz and applied successfully to
+the strong coupling dynamics of the Matrix Theory. We propose a prescription
+for including higher order corrections, which yields a rapid convergence in a
+simple example. This prescription is then applied to the IIB matrix model up to
+the third order. We find that the `self-consistency equations' allow various
+symmetry breaking solutions. Among them, the solution preserving SO(4) symmetry
+is found to have the smallest free energy. The value of the free energy comes
+closer to the analytic formula obtained by Krauth-Nicolai-Staudacher as we
+increase the order. The extent of the space-time in the 4 directions is larger
+than the remaining 6 directions, and the ratio increases with the order. These
+results provide the first analytical evidence that four-dimensional space-time
+is generated dynamically in the IIB matrix model.
+\\

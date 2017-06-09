@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9705144
+From: "Reinhold W. Gebert" <gebert@IAS.EDU>
+Date: Tue, 20 May 1997 09:57:25 -0400 (EDT)   (22kb)
+Date (revised): Mon, 8 Sep 1997 09:42:22 -0400 (EDT)
+
+Title: On the Imaginary Simple Roots of the Borcherds Algebra $g_{II_{9,1}}$
+Authors: Oliver Baerwald (King's College, London), Reinhold W. Gebert (IAS,
+  Princeton), Hermann Nicolai (AEI, Potsdam)
+Comments: 14 pages, LaTeX2e, packages amsmath, amsfonts, amssymb, amsthm,
+  xspace, pstricks, longtable; substantially extended, appendix with new
+  $E_{10}$ root multiplicities added
+Report-no: IASSNS-HEP-97-53, AEI-037
+Journal-ref: Nucl.Phys. B510 (1998) 721-738
+\\
+  In a recent paper (hep-th/9703084) it was conjectured that the imaginary
+simple roots of the Borcherds algebra $g_{II_{9,1}}$ at level 1 are its only
+ones. We here propose an independent test of this conjecture, establishing its
+validity for all roots of norm $\geq -8$. However, the conjecture fails for
+roots of norm -10 and beyond, as we show by computing the simple multiplicities
+down to norm -24, which turn out to be remakably small in comparison with the
+corresponding $E_{10}$ multiplicities. Our derivation is based on a modified
+denominator formula combining the denominator formulas for $E_{10}$ and
+$g_{II_{9,1}}$, and provides an efficient method for determining the imaginary
+simple roots. In addition, we compute the $E_{10}$ multiplicities of all roots
+up to height 231, including levels up to $\ell =6$ and norms -42.
+\\

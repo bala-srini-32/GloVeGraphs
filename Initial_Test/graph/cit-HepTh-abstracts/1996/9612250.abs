@@ -1,0 +1,35 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9612250
+From: Naoki Tanimura <naoki@higgs.phys.kyushu-u.ac.jp>
+Date: Tue, 31 Dec 1996 04:52:07 +0900   (175kb)
+
+Title: Gauge Independence in terms of the Functional Integral
+Authors: T. Kashiwa and N. Tanimura (Kyushu Univ. Fukuoka, Japan)
+Comments: 15 pages, 5 figure files, LaTeX
+Report-no: KYUSHU-HET-36
+Journal-ref: Phys.Rev. D56 (1997) 2281-2290
+\\
+  Among various approaches in proving gauge independence, models containing an
+explicit gauge dependence are convenient. The well-known example is the gauge
+parameter in the covariant gauge fixing which is of course most suitable for
+the perturbation theory but a negative metric prevents us from imaging a
+dynamical picture. Noncovariant gauge such as the Coulomb gauge is on the
+contrary used for many physical situations. Therefore it is desirable to
+include both cases. More than ten years ago, Steinmann introduced a function
+(distribution) which can play this role in his attempt on discussing quantum
+electrodynamics (QED) in terms of the gauge invariant fields solely. The method
+is, however, broken down in the covariant case: the invariant operators are
+ill-defined because of 1/p^2 singularity in the Minkowski space. In this paper,
+we apply his function to the path integral: utilizing the arbitrariness of the
+function we first restrict it to be able to have a well- defined operator, and
+then a Hamiltonian with which we can build up the (Euclidean) path integral
+formula. Although the formula is far from covariant, a full covariant
+expression is recovered by reviving the components which have been discarded
+under the construction of the Hamiltonian. There is no pathological defects
+contrary to the operator formalism. With the aid of the path integral formula,
+the gauge independence of the free energy as well as the S-matrix is proved.
+Moreover the reason is clarified why it is so simple and straightforward to
+argue gauge transformations in the path integral. Discussions on the quark
+confinement is also presented.
+\\

@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0002038
+From: Masashi Tomoyose <tomoyose@hep.s.kanazawa-u.ac.jp>
+Date: Sat, 5 Feb 2000 07:24:43 GMT   (68kb)
+Date (revised v2): Sat, 19 Feb 2000 11:48:08 GMT   (71kb)
+
+Title: Non-ladder Extended Renormalization Group Analysis of the Dynamical
+  Chiral Symmetry Breaking
+Authors: Ken-Ichi Aoki, Kaoru Takagi, Haruhiko Terao and Masashi Tomoyose
+Comments: 18 pages, 30 eps file, 15 figures, LaTeX, slightly revised,
+  references corrected, To be published in Prog. Theo. Phys
+Journal-ref: Prog.Theor.Phys. 103 (2000) 815-832
+\\
+  The order parameters of dynamical chiral symmetry breaking in QCD, the
+dynamical mass of quarks and the chiral condensates, are evaluated by
+numerically solving the Non-Perturbative Renormalization Group (NPRG)
+equations. We employ an approximation scheme beyond ``the ladder'', that is,
+beyond the (improved) ladder Schwinger-Dyson equations. The chiral condensates
+are enhanced compared with the ladder ones, which is phenomenologically
+favorable. The gauge dependence of the order parameters is fairly reduced in
+this scheme.
+\\

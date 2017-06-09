@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9906205
+From: Mikhail Mintchev <mintchev@sun1.df.unipi.it>
+Date: Sat, 26 Jun 1999 09:11:32 GMT   (39kb)
+
+Title: Bosonization at Finite Temperature and Anyon Condensation
+Authors: A. Liguori, M. Mintchev, L. Pilo
+Comments: LaTex file, 3 figures, 33 pages
+Report-no: IFUP-TH 25/99
+Subj-class: High Energy Physics - Theory; Mathematical Physics
+Journal-ref: Nucl.Phys. B569 (2000) 577-605
+\\
+  An operator formalism for bosonization at finite temperature and density is
+developed. We treat the general case of anyon statistics. The exact $n$-point
+correlation functions, satisfying the Kubo-Martin-Schwinger condition, are
+explicitly constructed. The invariance under both vector and chiral
+transformations allows to introduce two chemical potentials. Investigating the
+exact momentum distribution, we discover anyon condensation in certain range of
+the statistical parameter. Another interesting feature is the occurrence of a
+non-vanishing persistent current. As an application of the general formalism,
+we solve the massless Thirring model at finite temperature, deriving the charge
+density and the persistent current.
+\\

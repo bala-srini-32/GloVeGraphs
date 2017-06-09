@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9501135
+From: Ivan Kostov <kostov@amoco.saclay.cea.fr>
+Date: Mon, 30 Jan 95 18:43:40 +0100   (13kb)
+
+Title: LOOP SPACE HAMILTONIAN FOR $c \le 1$ OPEN STRINGS
+Authors: Ivan K. Kostov
+Comments: 15 pages, plain tex, harvmac, no figures
+Report-no: SPhT/95-001
+Journal-ref: Phys.Lett. B349 (1995) 284-293
+\\
+We construct a string field Hamiltonian describing the dynamics of open and
+closed strings with effective target-space dimension $c\le 1 $. In order to do
+so, we first derive the Dyson-Schwinger equations for the underlying large $N$
+vector+matrix model and formulate them as a set of constraints satisfying
+decoupled Virasoro and U(1) current algebras. The Hamiltonian consists of a
+bulk and a boundary term having different scaling dimensions. The time
+parameters corresponding to the two terms are interpreted from the the point of
+view of the fractal geometry of the world surface.
+\\

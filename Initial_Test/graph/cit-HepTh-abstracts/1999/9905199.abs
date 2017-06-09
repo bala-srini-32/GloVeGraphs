@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9905199
+From: ALIMOHMD@netware2.ipm.ac.ir
+Date: Thu, 27 May 1999 06:39:27 GMT   (11kb)
+Date (revised v2): Sat, 11 Sep 1999 08:21:06 GMT   (11kb)
+
+Title: Generalized simplicial chiral models
+Author: Masoud Alimohammadi
+Comments: 14 pages, LaTex, some minor English corrections, will be published in
+  Nuc. Phys. B
+Journal-ref: Nucl.Phys. B565 (2000) 467
+\\
+  Using the auxiliary field representation of the simplicial chiral models on a
+(d-1)-dimensional simplex, the simplicial chiral models are generalized through
+replacing the term Tr$(AA^{\d})$ in the Lagrangian of these models by an
+arbitrary class function of $AA^{\d}$; $V(AA^{\d})$. This is the same method
+used in defining the generalized two-dimensional Yang-Mills theories (gYM_2)
+from ordinary YM_2. We call these models, the ``generalized simplicial chiral
+models''. Using the results of the one-link integral over a U(N) matrix, the
+large-N saddle-point equations for eigenvalue density function $\ro (z)$ in the
+weak ($\b >\b_c$) and strong ($\b <\b_c$) regions are computed. In d=2, where
+the model is in some sense related to the gYM_2 theory, the saddle-point
+equations are solved for $\ro (z)$ in the two regions, and the explicit value
+of critical point $\b_c$ is calculated for $V(B)$=Tr$B^n$ $(B=AA^{\d})$. For
+$V(B$)=Tr$B^2$,Tr$B^3$, and Tr$B^4$, the critical behaviour of the model at d=2
+is studied, and by calculating the internal energy, it is shown that these
+models have a third order phase transition.
+\\

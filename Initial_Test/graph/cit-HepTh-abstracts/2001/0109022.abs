@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0109022
+From: Kumar S. Gupta <gupta@theory.saha.ernet.in>
+Date: Tue, 4 Sep 2001 11:41:30 GMT   (10kb)
+Date (revised v2): Fri, 7 Sep 2001 08:06:25 GMT   (10kb)
+
+Title: Bound States in One-Dimensional Quantum N-Body Systems with Inverse
+  Square Interaction
+Authors: B. Basu-Mallick, Kumar S. Gupta
+Comments: 10 pages, Latex file, Minor typos corrected, Added one reference
+Report-no: SINP-TNP/01-18
+Subj-class: High Energy Physics - Theory; Mathematical Physics; Exactly
+  Solvable and Integrable Systems
+Journal-ref: Phys.Lett. A292 (2001) 36-42
+\\
+  We investigate the existence of bound states in a one-dimensional quantum
+system of $N$ identical particles interacting with each other through an
+inverse square potential. This system is equivalent to the Calogero model
+without the confining term. The effective Hamiltonian of this system in the
+radial direction admits a one-parameter family of self-adjoint extensions and
+the negative energy bound states occur when most general boundary conditions
+are considered. We find that these bound states exist only when $N=3,4$ and for
+certain values of the system parameters. The effective Hamiltonian for the
+system is related to the Virasoro algebra and the bound state wavefunctions
+exhibit a scaling behaviour in the limit of small inter-particle separation.
+\\

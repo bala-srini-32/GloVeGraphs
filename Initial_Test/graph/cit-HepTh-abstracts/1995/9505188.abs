@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9505188
+From: haagense@cinelli.physics.mcgill.ca (Peter Haagensen)
+Date: Wed, 31 May 1995 16:26:54 -0400   (10kb)
+
+Title: New Gauge Invariant Variables for Yang-Mills Theory
+Author: Peter E. Haagensen (McGill University)
+Comments: 9pp., LaTeX
+Report-no: McGill/95-30
+\\
+  A new set of gauge invariant variables is defined to describe the physical
+Hilbert space of $d = 3 + 1$ $SU(2)$ Yang-Mills theory in the fixed-time
+canonical formalism. A natural geometric interpretation arises due to the
+$GL(3)$ covariance found to hold for the basic equations and commutators of the
+theory in the canonical formalism. We emphasize, however, that we are not
+interested in and do not consider the coupling of the theory to gravity. We
+concentrate here on a technical difficulty of this approach, the calculation of
+the electric field energy. This in turn hinges on the well-definedness of the
+transformation of variables, an issue which is settled through degenerate
+perturbation theory arguments.
+\\

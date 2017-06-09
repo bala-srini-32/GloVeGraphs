@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0003007
+From: Chong-Sun Chu <chong-sun.chu@iph.unine.ch>
+Date: Wed, 1 Mar 2000 16:02:35 GMT   (12kb)
+Date (revised v2): Wed, 8 Mar 2000 20:51:33 GMT   (12kb)
+Date (revised v3): Thu, 20 Apr 2000 22:17:54 GMT   (12kb)
+
+Title: Induced Chern-Simons and WZW action in Noncommutative Spacetime
+Authors: Chong-Sun Chu
+Comments: LaTex, 13 pages, no figures; v2: refs added, add results for U(N)
+  majorana spinors v3: clarification on p.5 and 6 concerning discussions of
+  WZW. version to appear in NPB
+Journal-ref: Nucl.Phys. B580 (2000) 352-362
+\\
+  We consider noncommutative gauge theory with Dirac or Majorana fermions in
+odd dimensional spacetime and compute the induced noncommutative Chern-Simons
+action generated at 1-loop. We observe that the Chern-Simons term induced by a
+Dirac fermion has a smooth limit when $\th ---> 0$, but there is a finite jump
+for the Chern-Simons term induced by a Majorana spinor. The induced
+Chern-Simons action from a Majorana spinor is nonvanishing even in the $\th
+---> 0$ limit, a discontinuity that shares a similar characteristic as the
+UV/IR singularity discovered originally by Minwalla, Raamsdonk and Seiberg.
+Properties of the noncommutative WZW action are also discussed.
+\\

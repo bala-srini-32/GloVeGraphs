@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0209040
+From: Ruben Mkrtchyan <mrl@r.am>
+Date: Wed, 4 Sep 2002 21:54:19 GMT   (5kb)
+Date (revised v2): Sun, 20 Oct 2002 19:51:37 GMT   (6kb)
+
+Title: Little Groups and Statistics of Branes
+Authors: R.L.Mkrtchyan
+Comments: Latex, 8 pages. Reference added, eqs. (6), (9) added, text improved
+\\
+  The little groups (i.e. the subgroups of Lorentz group, leaving invariant
+given configurations of tensorial charges) of unitary irreps of
+superstring/M-theory superalgebras are considered. It is noted, that in the
+case of $(n-1)/n$ (maximal supersymmetric) BPS configuration in any dimensions
+the non-zero supercharge is neutral w.r.t. the algebra of little group, which
+means that all members of supermultiplet are in the same representation of that
+algebra and hence of (generalized with tensorial charges) Poincare algebra.
+This situation is similar to two-dimensional case and shows that usual
+spin-statistics connection statement is insufficient in the presence of branes,
+because different little groups can appear. We discuss the rules for definition
+of statistics for representations of generalized Poincare, and note that a
+geometric quantization method seems to be most relevant for that purpose.
+\\

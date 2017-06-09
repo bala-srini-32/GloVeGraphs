@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0108045
+From: Raimar Wulkenhaar <raimar@doppler.thp.univie.ac.at>
+Date: Tue, 7 Aug 2001 18:25:42 GMT   (23kb)
+Date (revised v2): Thu, 25 Oct 2001 15:11:23 GMT   (21kb)
+
+Title: Noncommutative Lorentz Symmetry and the Origin of the Seiberg-Witten Map
+Authors: A.A. Bichl, J.M. Grimstrup, H. Grosse, E. Kraus, L. Popp, M. Schweda,
+  R. Wulkenhaar
+Comments: 20 pages, LaTeX. v2: Streamlined proofs and extended discussion of
+  Lorentz transformations
+Report-no: TUW 01-019, UWThPh-2001-32
+Journal-ref: Eur.Phys.J. C24 (2002) 165-176
+\\
+  We show that the noncommutative Yang-Mills field forms an irreducible
+representation of the (undeformed) Lie algebra of rigid translations, rotations
+and dilatations. The noncommutative Yang-Mills action is invariant under
+combined conformal transformations of the Yang-Mills field and of the
+noncommutativity parameter \theta. The Seiberg-Witten differential equation
+results from a covariant splitting of the combined conformal transformations
+and can be computed as the missing piece to complete a covariant conformal
+transformation to an invariance of the action.
+\\

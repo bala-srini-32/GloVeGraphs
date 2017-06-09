@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9704008
+From: Walter T. Giele <giele@fnal.gov>
+Date: Tue, 1 Apr 1997 14:55:43 MST   (16kb)
+
+Title: On the Construction of Scattering Amplitudes for Spinning Massless
+  Particles
+Authors: F.A. Berends and W.T. Giele
+Comments: 19 pages, Latex
+Report-no: Fermilab-Pub-97/056-T, CERN-TH/97-33
+Journal-ref: Nucl.Phys. B507 (1997) 157-174
+\\
+  In this paper the general form of scattering amplitudes for massless
+particles with equal spins s ($s s \to s s$) or unequal spins ($s_a s_b \to s_a
+s_b$) are derived. The imposed conditions are that the amplitudes should have
+the lowest possible dimension, have propagators of dimension $m^{-2}$, and obey
+gauge invariance. It is shown that the number of momenta required for
+amplitudes involving particles with s > 2 is higher than the number implied by
+3-vertices for higher spin particles derived in the literature. Therefore, the
+dimension of the coupling constants following from the latter 3-vertices has a
+smaller power of an inverse mass than our results imply. Consequently, the
+3-vertices in the literature cannot be the first interaction terms of a
+gauge-invariant theory. When no spins s > 2 are present in the process the
+known QCD, QED or (super) gravity amplitudes are obtained from the above
+general amplitudes.
+\\

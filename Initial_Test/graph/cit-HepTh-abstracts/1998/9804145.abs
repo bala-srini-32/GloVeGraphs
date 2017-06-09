@@ -1,0 +1,36 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9804145
+From: Sachindeo Vaidya <sachin@suhep.phy.syr.edu>
+Date: Tue, 21 Apr 1998 22:51:32 GMT   (21kb)
+Date (revised v2): Fri, 24 Jul 1998 14:13:47 GMT   (21kb)
+
+Title: Current Oscillations, Interacting Hall Discs and Boundary CFTs
+Authors: A. P. Balachandran, G. Bimonte, T. R. Govindarajan, K. S. Gupta, V.
+  John and S. Vaidya
+Comments: 32 pages, LateX. Uses amstex, amssymb. Typos corrected. To appear in
+  Int. J. Mod. Phys. A
+Report-no: SU-4240-675, DSF-9/98, IMSc 98/03/10, SINP-TNP/98-01, IC/98/37
+Subj-class: High Energy Physics - Theory; Mesoscopic Systems and Quantum Hall
+  Effect
+Journal-ref: Int.J.Mod.Phys. A14 (1999) 1061-1086
+\\
+  In this paper, we discuss the behavior of conformal field theories
+interacting at a single point. The edge states of the quantum Hall effect (QHE)
+system give rise to a particular representation of a chiral Kac-Moody current
+algebra. We show that in the case of QHE systems interacting at one point we
+obtain a ``twisted'' representation of the current algebra. The condition for
+stationarity of currents is the same as the classical Kirchoff's law applied to
+the currents at the interaction point. We find that in the case of two discs
+touching at one point, since the currents are chiral, they are not stationary
+and one obtains current oscillations between the two discs. We determine the
+frequency of these oscillations in terms of an effective parameter
+characterizing the interaction. The chiral conformal field theories can be
+represented in terms of bosonic Lagrangians with a boundary interaction. We
+discuss how these one point interactions can be represented as boundary
+conditions on fields, and how the requirement of chirality leads to
+restrictions on the interactions described by these Lagrangians. By gauging
+these models we find that the theory is naturally coupled to a Chern-Simons
+gauge theory in 2+1 dimensions, and this coupling is completely determined by
+the requirement of anomaly cancellation.
+\\

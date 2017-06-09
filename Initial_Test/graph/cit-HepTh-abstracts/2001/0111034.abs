@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0111034
+From: Sanefumi Moriyama <moriyama@gauge.scphys.kyoto-u.ac.jp>
+Date: Mon, 5 Nov 2001 08:26:02 GMT   (15kb)
+Date (revised v2): Wed, 14 Nov 2001 09:00:56 GMT   (15kb)
+Date (revised v3): Thu, 22 Nov 2001 07:04:38 GMT   (15kb)
+
+Title: Observables as Twist Anomaly in Vacuum String Field Theory
+Authors: Hiroyuki Hata and Sanefumi Moriyama (Kyoto Univ)
+Comments: 20 pages, no figures, LaTeX2e, v2: eqs. (4.11) and (4.15) corrected,
+  v3: a footnote added and typos corrected
+Report-no: KUNS-1743
+Journal-ref: JHEP 0201 (2002) 042
+\\
+  We reveal a novel mathematical structure in physical observables, the mass of
+tachyon fluctuation mode and the energy density, associated with a classical
+solution of vacuum string field theory constructed previously [hep-th/0108150].
+We find that they are expressed in terms of quantities which apparently vanish
+identically due to twist even-odd degeneracy of eigenvalues of a Neumann
+coefficient matrix defining the three-string interactions. However, they can
+give non-vanishing values because of the breakdown of the degeneracy at the
+edge of the eigenvalue distribution. We also present a general prescription of
+correctly simplifying the expressions of these observables. Numerical
+calculation of the energy density following our prescription indicates that the
+present classical solution represents the configuration of two D25-branes.
+\\

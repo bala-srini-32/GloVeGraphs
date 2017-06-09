@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0002158
+From: Jun Nishimura <nisimura@hetws9.nbi.dk>
+Date: Fri, 18 Feb 2000 17:35:09 GMT   (15kb)
+Date (revised v2): Wed, 1 Mar 2000 11:09:42 GMT   (14kb)
+
+Title: Nonperturbative Dynamics of Noncommutative Gauge Theory
+Authors: J. Ambjorn, Y.M. Makeenko, J. Nishimura and R.J. Szabo (NBI)
+Comments: 12 pages, latex, no figures, typos corrected, references added
+Report-no: NBI-HE-00-08, ITEP-TH-10/00
+Journal-ref: Phys.Lett. B480 (2000) 399-408
+\\
+  We present a nonperturbative lattice formulation of noncommutative Yang-Mills
+theories in arbitrary even dimension. We show that lattice regularization of a
+noncommutative field theory requires finite lattice volume which automatically
+provides both an ultraviolet and an infrared cutoff. We demonstrate explicitly
+Morita equivalence of commutative U(p) gauge theory with (p*n_f) flavours of
+fundamental matter fields on a lattice of size L with twisted boundary
+conditions and noncommutative U(1) gauge theory with n_f species of matter on a
+lattice of size (p*L) with single-valued fields. We discuss the relation with
+twisted large N reduced models and construct observables in noncommutative
+gauge theory with matter.
+\\

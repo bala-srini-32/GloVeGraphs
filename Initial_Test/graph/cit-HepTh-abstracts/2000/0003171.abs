@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0003171
+From: Boris Kors <koers@physik.hu-berlin.de>
+Date: Mon, 20 Mar 2000 14:19:22 GMT   (47kb)
+
+Title: Two-loop Feynman Diagrams in Yang-Mills Theory from Bosonic String
+  Amplitudes
+Authors: Boris Kors (Humboldt U., Berlin) and Michael G. Schmidt (Heidelberg
+  U.)
+Comments: 44 pages, 24 figures, LaTeX, axodraw
+Report-no: HD-THEP-00-17, HU-EP-00/20
+\\
+  We present intermediate results of an ongoing investigation which attempts a
+generalization of the well known one-loop Bern Kosower rules of Yang-Mills
+theory to higher loop orders. We set up a general procedure to extract the
+field theoretical limit of bosonic open string diagrams, based on the sewing
+construction of higher loop world sheets. It is tested with one- and two-loop
+scalar field theory, as well as one-loop and two-loop vacuum Yang-Mills
+diagrams, reproducing earlier results. It is then applied to two-loop two-point
+Yang-Mills diagrams in order to extract universal renormalization coefficients
+that can be compared to field theory. While developing numerous technical tools
+to compute the relevant contributions, we hit upon important conceptual
+questions: Do string diagrams reproduce Yang-Mills Feynman diagrams in a
+certain preferred gauge? Do they employ a certain preferred renormalization
+scheme? Are four gluon vertices related to three gluon vertices? Unfortunately,
+our investigations remained inconclusive up to now.
+\\

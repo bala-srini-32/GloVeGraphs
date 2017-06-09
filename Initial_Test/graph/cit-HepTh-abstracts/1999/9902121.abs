@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9902121
+From: Per Kraus <pkraus@theory.uchicago.edu>
+Date: Wed, 17 Feb 1999 00:48:44 GMT   (16kb)
+Date (revised v2): Wed, 24 Mar 1999 01:14:39 GMT   (17kb)
+Date (revised v3): Mon, 12 Apr 1999 17:14:18 GMT   (17kb)
+Date (revised v4): Mon, 19 Apr 1999 20:07:14 GMT   (17kb)
+Date (revised v5): Tue, 28 Dec 1999 23:45:33 GMT   (17kb)
+
+Title: A Stress Tensor for Anti-de Sitter Gravity
+Authors: Vijay Balasubramanian and Per Kraus
+Comments: 19 pages. added footnote, reference
+Report-no: HUTP-99/A002, EFI-99-6, NSFITP-98-132
+Journal-ref: Commun.Math.Phys. 208 (1999) 413-428
+\\
+  We propose a procedure for computing the boundary stress tensor associated
+with a gravitating system in asymptotically anti-de Sitter space. Our
+definition is free of ambiguities encountered by previous attempts, and
+correctly reproduces the masses and angular momenta of various spacetimes. Via
+the AdS/CFT correspondence, our classical result is interpretable as the
+expectation value of the stress tensor in a quantum conformal field theory. We
+demonstrate that the conformal anomalies in two and four dimensions are
+recovered. The two dimensional stress tensor transforms with a Schwarzian
+derivative and the expected central charge. We also find a nonzero ground state
+energy for global AdS_5, and show that it exactly matches the Casimir energy of
+the dual N=4 super Yang-Mills theory on S^3 x R.
+\\

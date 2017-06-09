@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0110224
+From: Tomoi Koide <tkoide@yukawa.kyoto-u.ac.jp>
+Date: Wed, 24 Oct 2001 19:14:27 GMT   (12kb)
+Date (revised v2): Tue, 12 Feb 2002 14:15:23 GMT   (12kb)
+
+Title: Derivation of Transport Equations using the Time-Dependent Projection
+  Operator Method
+Authors: Tomoi Koide
+Comments: 17 pages, Prog. Theor. Phys. in Press
+Subj-class: High Energy Physics - Theory; Statistical Mechanics
+Journal-ref: Prog.Theor.Phys. 107 (2002) 525-541
+\\
+  We develop a formalism to carry out coarse-grainings in quantum field
+theoretical systems by using a time-dependent projection operator in the
+Heisenberg picture. A systematic perturbative expansion with respect to the
+interaction part of the Hamiltonian is given, and a Langevin-type equation
+without a time-convolution integral term is obtained. This method is applied to
+a quantum field theoretical model, and coupled transport equations are derived.
+\\

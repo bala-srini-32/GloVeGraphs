@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9509124
+From: kostov@amoco.saclay.cea.fr (Ivan Kostov)
+Date: Fri, 22 Sep 1995 18:53:50 +0200   (24kb)
+Date (revised): Tue, 26 Sep 1995 16:26:07 +0100
+Date (revised): Mon, 2 Oct 1995 14:31:45 +0100
+Date (revised): Tue, 3 Oct 1995 18:27:39 +0100
+
+Title: Solvable statistical models on a random lattice
+Author: Ivan K. Kostov
+Comments: Talk presented at the Conference on recent developments in
+  statistical mechanics and quantum field theory (10 - 12 April 1995), Trieste,
+  Italy; 16 pages, latex, no figures, espcrc2.tex; Eq. (39) corrected
+Report-no: SPhT/95-001
+Journal-ref: Nucl.Phys.Proc.Suppl. 45A (1996) 13-28
+\\
+  We give a sequence of equivalent formulations of the $ADE$ and $\hat A\hat
+D\hat E$ height models defined on a random triangulated surface: random
+surfaces immersed in Dynkin diagrams, chains of coupled random matrices,
+Coulomb gases, and multicomponent Bose and Fermi systems representing soliton
+$\tau$-functions. We also formulate a set of loop-space Feynman rules allowing
+to calculate easily the partition function on a random surface with arbitrary
+topology. The formalism allows to describe the critical phenomena on a random
+surface in a unified fashion and gives a new meaning to the $ADE$
+classification.
+\\

@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9803061
+From: Chris Pope <pope@absinthe.physics.tamu.edu>
+Date: Fri, 6 Mar 1998 23:31:35 GMT   (29kb)
+Date (revised v2): Mon, 9 Mar 1998 23:30:33 GMT   (29kb)
+Date (revised v3): Wed, 6 May 1998 15:43:04 GMT   (32kb)
+
+Title: AdS_5 x S^5 Untwisted
+Authors: M.J. Duff, H. Lu and C.N. Pope
+Comments: 37 pages, Latex, references added and discussion expanded
+Report-no: CTP TAMU-09/98, LPTENS-98/03
+Journal-ref: Nucl.Phys. B532 (1998) 181-209
+\\
+  Noting that T-duality untwists S^5 to CP^2 x S^1, we construct the duality
+chain: n=4 super Yang-Mills --> Type IIB superstring on AdS_5 x S^5 --> Type
+IIA superstring on AdS_5 x CP^2 x S^1 --> M-theory on AdS_5 x CP^2 x T^2. This
+provides another example of supersymmetry without supersymmetry: on AdS_5 x
+CP^2 x S^1, Type IIA supergravity has SU(3) x U(1) x U(1) x U(1) and N=0
+supersymmetry but Type IIA string theory has SO(6) and N=8. The missing
+superpartners are provided by stringy winding modes. We also discuss IIB
+compactifications to AdS_5 with N=4, N=2 and N=0.
+\\

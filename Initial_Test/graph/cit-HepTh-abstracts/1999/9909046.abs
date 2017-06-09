@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9909046
+From: John Gracey <jag@sune.amtp.liv.ac.uk>
+Date: Wed, 8 Sep 1999 14:57:04 GMT   (42kb)
+
+Title: Three loop renormalization of the SU(N_c) non-abelian Thirring model
+Authors: J.F. Bennett and J.A. Gracey
+Comments: 40 latex pages, 14 postscript figures
+Report-no: LTH-456
+Journal-ref: Nucl.Phys. B563 (1999) 390-436
+\\
+  We renormalize to three loops a version of the Thirring model where the
+fermion fields not only lie in the fundamental representation of a non-abelian
+colour group SU(N_c) but also depend on the number of flavours, N_f. The model
+is not multiplicatively renormalizable in dimensional regularization due to the
+generation of evanescent operators which emerge at each loop order. Their
+effect in the construction of the true wave function, mass and coupling
+constant renormalization constants is handled by considering the projection
+technique to a new order. Having constructed the MSbar renormalization group
+functions we consider other massless independent renormalization schemes to
+ensure that the renormalization is consistent with the equivalence of the
+non-abelian Thirring model with other models with a four-fermi interaction. One
+feature to emerge from the computation is the establishment of the fact that
+the SU(N_f) Gross Neveu model is not multiplicatively renormalizable in
+dimensional regularization. An evanescent operator arises first at three loops
+and we determine its associated renormalization constant explicitly.
+\\

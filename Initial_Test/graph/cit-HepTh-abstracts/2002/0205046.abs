@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0205046
+From: Eugenio Ramos B de Mello <emello@fisica.ufpb.br>
+Date: Mon, 6 May 2002 15:54:47 GMT   (188kb)
+
+Title: Gravitating Magnetic Monopole in the Global Monopole Spacetime
+Authors: J. Spinelly, U. de Freitas and E. R. Bezerra de Mello
+Comments: 26 pages, 6 figures, LaTex format
+Journal-ref: Phys.Rev. D66 (2002) 024018
+\\
+  In this paper we study the regular self-gravitating 't Hooft-Polyakov
+magnetic monopole in a global monopole spacetime. We show that for the large
+distance, the structure of the manifold corresponds to the
+Reissner-Nordstr\"{o}m spacetime with a solid angle deficit factor. Although we
+analyze static and spherically symmetric solutions, it is not possible to solve
+analytically the system of coupled differential equations and only numerical
+evaluations can provide detailed information about the behavior of this system
+at the neighborhood of the defect's core. So, for this reason we solve
+numerically the set of differential equations for the metric tensor and for the
+matter fields for different values of the Higgs field vacuum expectation value,
+$\eta$, and the self-coupling constant, $\lambda$.
+\\

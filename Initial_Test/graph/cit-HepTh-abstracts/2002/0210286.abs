@@ -1,0 +1,19 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0210286
+From: Kimball A. Milton <milton@phyast.nhn.ou.edu>
+Date: Tue, 29 Oct 2002 23:49:46 GMT   (8kb)
+
+Title: Entropy Bounds in Spherical Space
+Authors: Iver Brevik, Kimball A. Milton, and Sergei D. Odintsov
+Comments: 9 pages, no figures, requires sc3conf.sty
+Report-no: OKHEP-02-09
+\\
+  Exact calculations are given for the Casimir energy for various fields in
+$R\times S^3$ geometry. The Green's function method naturally gives a result in
+a form convenient in the high-temperature limit, while the statistical
+mechanical approach gives a form appropriate for low temperatures. The
+equivalence of these two representations is demonstrated. Some discrepancies
+with previous work are noted. In no case, even for ${\cal N}=4$ SUSY, is the
+ratio of entropy to energy found to be bounded.
+\\

@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0005008
+From: Hiroaki Kanno <kanno@math.sci.hiroshima-u.ac.jp>
+Date: Mon, 1 May 2000 07:05:19 GMT   (12kb)
+Date (revised v2): Mon, 19 Jun 2000 04:05:07 GMT   (12kb)
+
+Title: Five-Dimensional Gauge Theories and Local Mirror Symmetry
+Authors: Tohru Eguchi and Hiroaki Kanno
+Comments: 18 pages, Latex, minor changes, a version to appear in Nucl.Phys.B
+Report-no: UT-882
+Journal-ref: Nucl.Phys. B586 (2000) 331-345
+\\
+  We study the dynamics of 5-dimensional gauge theory on $M_4\times S^1$ by
+compactifying type II/M theory on degenerate Calabi-Yau manifolds. We use the
+local mirror symmetry and shall show that the prepotential of the 5-dimensional
+SU(2) gauge theory without matter is given exactly by that of the type II
+string theory compactified on the local ${\bf F}_2$, i.e. Hirzebruch surface
+${\bf F}_2$ lying inside a non-compact Calabi-Yau manifold. It is shown that
+our result reproduces the Seiberg-Witten theory at the 4-dimensional limit
+$R\to 0$ ($R$ denotes the radius of $S^1$) and also the result of the
+uncompactified 5-dimensional theory at $R\to \infty$. We also discuss SU(2)
+gauge theory with $1\le N_f\le 4$ matter in vector representations and show
+that they are described by the geometry of the local ${\bf F}_2$ blown up at
+$N_f$ points.
+\\

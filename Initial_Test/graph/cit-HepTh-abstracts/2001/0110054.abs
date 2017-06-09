@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0110054
+From: Frank Saueressig <saueressig@zino.physik.uni-mainz.de>
+Date: Fri, 5 Oct 2001 13:25:36 GMT   (627kb)
+
+Title: Renormalization Group Flow of Quantum Gravity in the Einstein-Hilbert
+  Truncation
+Author: M. Reuter and F. Saueressig
+Comments: 58 pages, latex, 24 figures
+Report-no: MZ-TH/01-27
+Journal-ref: Phys.Rev. D65 (2002) 065016
+\\
+  The exact renormalization group equation for pure quantum gravity is used to
+derive the non-perturbative $\Fbeta$-functions for the dimensionless Newton
+constant and cosmological constant on the theory space spanned by the
+Einstein-Hilbert truncation. The resulting coupled differential equations are
+evaluated for a sharp cutoff function. The features of these flow equations are
+compared to those found when using a smooth cutoff. The system of equations
+with sharp cutoff is then solved numerically, deriving the complete
+renormalization group flow of the Einstein-Hilbert truncation in $d=4$. The
+resulting renormalization group trajectories are classified and their physical
+relevance is discussed. The non-trivial fixed point which, if present in the
+exact theory, might render Quantum Einstein Gravity nonperturbatively
+renormalizable is investigated for various spacetime dimensionalities.
+\\

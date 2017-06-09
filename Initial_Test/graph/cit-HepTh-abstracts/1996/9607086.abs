@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9607086
+From: Raimar Wulkenhaar <Raimar.Wulkenhaar@itp.uni-leipzig.de>
+Date: Thu, 11 Jul 96 14:37:47 -0000   (26kb)
+Date (revised): Mon, 10 Feb 97 20:18:28 +0100
+
+Title: A Tour through Non-Associative Geometry
+Authors: Raimar Wulkenhaar
+Comments: 23 pages, LaTeX2e + AMS macros; revised version: This version is
+  consistent with a revision of the application to a GUT in hep-th/9607237
+\\
+  We develop a mathematical concept towards gauge field theories based upon a
+Hilbert space endowed with a representation of a skew-adjoint Lie algebra and
+an action of a generalized Dirac operator. This concept shares common features
+with the non-commutative geometry a la Connes/Lott, differs from that, however,
+by the implementation of skew-adjoint Lie algebras instead of unital
+associative *-algebras. We present the physical motivation for our approach and
+sketch its mathematical strategy. Moreover, we comment on the application of
+our method to the standard model and the flipped SU(5) x U(1)-grand unification
+model.
+\\

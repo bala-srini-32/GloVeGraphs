@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9606085
+From: MEKHFI MUSTAPHA <mekhm@ictp.trieste.it>
+Date: Fri, 14 Jun 1996 16:12:54 +0200 (MET DST)   (7kb)
+
+Title: Twisted Homotopy: A Group Theoretic Approach
+Author: M.Mekhfi
+Comments: 7 pages,Latex,no figures
+\\
+  After summarising the physical approach leading to twisted homotopy and
+after developing the cohomological approach further with respect to our
+previous work we propose a third alternative approach to twisted homotopy
+based on group theoretic considerations. In this approach the fundamental
+group $\Pi (m) $ isomorphic to Z which describes homotopic loops on the
+punctured plane$ R^2/(0) $ is enhanced in a special way to the continuous
+SO(2) group . This is performed by letting the parameter of the group $ m
+\rightarrow \lambda $ while keeping its generator unchanged .It is shown that
+such non-trivial procedure has the effect of introducing well defined
+self-interactions among loops which are at the basis of twisted homotopy where
+the angle $ \lambda $ plays the role of the self coupling constant.
+ KEYWORDS: Homotopy, Group Theory, Quantum Mechanics
+ MSC:55Q35;  PACS:02.20.Fh ; 03.65.Fd
+\\

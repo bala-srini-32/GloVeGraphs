@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0205238
+From: Vladimir Bazhanov <vvb105@rsphy1.anu.edu.au>
+Date: Thu, 23 May 2002 07:20:00 GMT   (30kb)
+
+Title: Excited State TBA for the $\phi_{2,1}$ perturbed $M_{3,5}$ model
+Authors: R. M. Ellem, V. V. Bazhanov (ANU)
+Comments: LaTeX, 32 pages, 6 figures
+Journal-ref: Nucl.Phys. B647 (2002) 404-432
+\\
+  We examine some excited state energies in the non-unitary integrable quantum
+field theory obtained from the perturbation of the minimal conformal field
+theory model $M_{3,5}$ by its operator $\phi_{2,1}$. Using the correspondence
+of this IQFT to the scaling limit of the dilute $A_2$ lattice model (in a
+particular regime) we derive the functional equations for the QFT commuting
+transfer matrices. These functional equations can be transformed to a closed
+set of TBA-like integral equations which determine the excited state energies
+in the finite-size system. In particular, we explicitly construct these
+equations for the ground state and two lowest excited states. Numerical results
+for the associated energy gaps are compared with those obtained by the
+truncated conformal space approach (TCSA).
+\\

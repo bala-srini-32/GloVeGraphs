@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9803238
+From: Shoichi Ichinose <shoichi.ichinose@cern.ch>
+Date: Sat, 28 Mar 1998 07:51:14 GMT   (175kb)
+Date (revised v2): Thu, 3 Dec 1998 05:56:57 GMT   (172kb)
+
+Title: Weak Field Expansion of Gravity: Graphs, Matrices and Topology
+Authors: Shoichi Ichinose and Noriaki Ikeda
+Comments: 41pages, 26 figures, Latex, epsf.sty
+Report-no: US-98-03
+Journal-ref: Int.J.Mod.Phys. A14 (1999) 2705-2744
+\\
+  We present some approaches to the perturbative analysis of the classical and
+quantum gravity. First we introduce a graphical representation for a global
+SO(n) tensor $(\pl)^d h_\ab$, which generally appears in the weak field
+expansion around the flat space: $g_\mn=\del_\mn+h_\mn$. Making use of this
+representation, we explain 1) Generating function of graphs (Feynman diagram
+approach), 2) Adjacency matrix (Matrix approach), 3) Graphical classification
+in terms of "topology indices" (Topology approach), 4) The Young tableau
+(Symmetric group approach). We systematically construct the global SO(n)
+invariants. How to show the independence and completeness of those invariants
+is the main theme. We explain it taking simple examples of $\pl\pl h-, {and}
+(\pl\pl h)^2-$ invariants in the text. The results are applied to the analysis
+of the independence of general invariants and (the leading order of) the Weyl
+anomalies of scalar-gravity theories in "diverse" dimensions (2,4,6,8,10
+dimensions).
+\\

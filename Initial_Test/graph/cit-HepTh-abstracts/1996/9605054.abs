@@ -1,0 +1,17 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9605054
+From: "Michael K. Murray" <mmurray@spam.maths.adelaide.edu.au>
+Date: Thu, 9 May 1996 14:13:21 +0930   (10kb)
+
+Title: A note on the (1, 1,..., 1) monopole metric
+Authors: Michael K. Murray
+Comments: 12 pages, latex, no figures, uses amsmath, amsthm, amsfonts
+Journal-ref: J.Geom.Phys. 23 (1997) 31-41
+\\
+  Recently K. Lee, E.J. Weinberg and P. Yi in CU-TP-739, hep-th/9602167,
+calculated the asymptotic metric on the moduli space of (1, 1, ..., 1) BPS
+monopoles and conjectured that it was globally exact. I lend support to this
+conjecture by showing that the metric on the corresponding space of Nahm data
+is the same as the metric they calculate.
+\\

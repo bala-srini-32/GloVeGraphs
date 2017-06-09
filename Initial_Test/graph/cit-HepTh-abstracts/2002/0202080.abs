@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0202080
+From: Artemio Gonzalez-Lopez <artemio@ciruelo.fis.ucm.es>
+Date: Wed, 13 Feb 2002 16:48:04 GMT   (40kb)
+Date (revised v2): Wed, 19 Jun 2002 10:06:18 GMT   (41kb)
+Date (revised v3): Wed, 6 Nov 2002 13:52:36 GMT   (41kb)
+
+Title: On the Sutherland Spin Model of B_N Type and its Associated Spin Chain
+Authors: F. Finkel, D. Gomez-Ullate, A. Gonzalez-Lopez, M.A. Rodriguez, and R.
+  Zhdanov
+Comments: 17 pages, typeset with revtex4 and amsmath. Minor changes only. To
+  appear in Commun. Math. Phys
+Subj-class: High Energy Physics - Theory; Mathematical Physics; Exactly
+  Solvable and Integrable Systems
+Journal-ref: Commun.Math.Phys. 233 (2003) 191-209
+\\
+  The B_N hyperbolic Sutherland spin model is expressed in terms of a suitable
+set of commuting Dunkl operators. This fact is exploited to derive a complete
+family of commuting integrals of motion of the model, thus establishing its
+integrability. The Dunkl operators are shown to possess a common flag of
+invariant finite-dimensional linear spaces of smooth scalar functions. This
+implies that the Hamiltonian of the model preserves a corresponding flag of
+smooth spin functions. The discrete spectrum of the restriction of the
+Hamiltonian to this spin flag is explicitly computed by triangularization. The
+integrability of the hyperbolic Sutherland spin chain of B_N type associated
+with the dynamical model is proved using Polychronakos's "freezing trick".
+\\

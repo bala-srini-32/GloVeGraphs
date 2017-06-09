@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9903241
+From: Massimo Porrati <Massimo.Porrati@cern.ch>
+Date: Mon, 29 Mar 1999 16:52:16 GMT   (8kb)
+Date (revised v2): Tue, 13 Apr 1999 14:32:37 GMT   (11kb)
+
+Title: AdS Superalgebras with Brane Charges
+Authors: S. Ferrara and M. Porrati
+Comments: Section on AdS_7 superalgebras and a description of AdS_4
+  superalgebras added, minor mistakes corrected, several references added; 13
+  pages, latex2e
+Report-no: CERN-TH/99-89 NYU-TH/99/03/01
+Journal-ref: Phys.Lett. B458 (1999) 43-52
+\\
+  We consider the inclusion of brane charges in AdS_5 superalgebras that
+contain the maximal central extension of the super-Poincar\'e algebra on the
+boundary of AdS_5. For theories with N supersymmetries on the boundary, the
+maximal extension is OSp(1/8N,R), which contains the group $Sp(8N,R)\supset
+U(2N,2N) \supset SU(2,2)\times U(N)$ as extension of the conformal group. An
+``intermediate'' extension to U(2N,2N/1) is also discussed, as well as the
+inclusion of brane charges in AdS_7 and AdS_4 superalgebras. BPS conditions in
+the presence of brane charges are studied in some details.
+\\

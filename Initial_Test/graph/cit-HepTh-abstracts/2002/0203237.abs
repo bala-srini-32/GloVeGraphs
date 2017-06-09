@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0203237
+From: Peter Mayr <peter.mayr@cern.ch>
+Date: Tue, 26 Mar 2002 09:49:15 GMT   (26kb)
+Date (revised v2): Wed, 17 Apr 2002 15:49:52 GMT   (27kb)
+
+Title: Summing up Open String Instantons and N=1 String Amplitudes
+Authors: P. Mayr
+Comments: 29 pages harvmac(b); v2: references added
+Report-no: CERN-TH/2002-062
+\\
+  We compute the instanton expansions of the holomorphic couplings in the
+effective action of certain $\cx N=1$ supersymmetric four-dimensional open
+string vacua. These include the superpotential $W(\phi)$, the gauge kinetic
+function $f(\phi)$ and a series of other holomorphic couplings which are known
+to be related to amplitudes of topological open strings at higher world-sheet
+topologies. The results are in full agreement with the interpretation of the
+holomorphic couplings as counting functions of BPS domain walls. Similar
+techniques are used to compute genus one partition function for the closed
+topological string on Calabi--Yau 4-fold which gives rise to a theory with the
+same number of supercharges in two dimensions.
+\\

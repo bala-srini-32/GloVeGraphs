@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0110232
+From: Ralph Blumenhagen <blumenha@physik.hu-berlin.de>
+Date: Thu, 25 Oct 2001 14:01:37 GMT   (27kb)
+Date (revised v2): Tue, 6 Nov 2001 15:35:22 GMT   (28kb)
+
+Title: Superconformal Field Theories for Compact G_2 Manifolds
+Authors: Ralph Blumenhagen and Volker Braun
+Comments: 35 pages, TeX, harvmac, references added, typos corrected, extended
+  discussion in section 7
+Report-no: HU-EP-01/47
+Journal-ref: JHEP 0112 (2001) 006
+\\
+  We present the construction of exactly solvable superconformal field theories
+describing Type II string models compactified on compact G_2 manifolds. These
+models are defined by anti-holomorphic quotients of the form (CY*S^1)/Z_2,
+where we realize the Calabi-Yau as a Gepner model. In the superconformal field
+theory the Z_2 acts as charge conjugation implying that the representation
+theory of a W(2,4,6,8,10) algebra plays an important role in the construction
+of these models. Intriguingly, in all three examples we study, including the
+quintic, the massless spectrum in the Z_2 twisted sector of the superconformal
+field theory differs from what one expects from the supergravity computation.
+This discrepancy is explained by the presence of a discrete NS-NS background
+two-form flux in the Gepner model.
+\\

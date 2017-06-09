@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9710101
+From: nestr@thsun1.jinr.dubna.su (Vladimir Nesterenko)
+Date: Mon, 13 Oct 1997 13:32:22 GMT   (11kb)
+Date (revised v2): Mon, 27 Apr 1998 14:07:17 GMT   (10kb)
+
+Title: Direct mode summation for the Casimir energy of a solid ball
+Authors: I. H. Brevik, V. V. Nesterenko, and I. G. Pirozhenko
+Comments: REVTeX, 7 pages, no figures and tables, treatment of a dilute
+  dielectric ball is revised, new references are added
+Report-no: JINR E2-97-307
+Journal-ref: J.Phys. A31 (1998) 8661-8668
+\\
+  The Casimir energy of a solid ball placed in an infinite medium is calculated
+by a direct frequency summation using the contour integration. It is assumed
+that the permittivity and permeability of the ball and medium satisfy the
+condition $\epsilon_1 \mu_1=\epsilon_2\mu_2$. Upon deriving the general
+expression for the Casimir energy, a dilute compact ball is considered
+$(\epsilon_1 -\epsilon_2)^2/(\epsilon_1+\epsilon_2)^2\ll 1$. In this case the
+calculations are carried out which are of the first order in $\xi ^2$ and take
+account of the five terms in the Debye expansion of the Bessel functions
+involved. The implication of the obtained results to the attempts of explaining
+the sonoluminescence via the Casimir effect is shortly discussed.
+\\

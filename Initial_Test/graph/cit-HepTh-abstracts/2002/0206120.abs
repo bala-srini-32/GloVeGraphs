@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0206120
+From: Stephen Adler <adler@ias.edu>
+Date: Thu, 13 Jun 2002 22:10:12 GMT   (100kb)
+
+Title: Statistical Dynamics of Global Unitary Invariant Matrix Models as
+  Pre-Quantum Mechanics
+Author: Stephen L. Adler
+Comments: Draft of a book; 175 pages in TeX. Comments welcome; revisions as
+  needed will be made around 10/1/02
+Subj-class: High Energy Physics - Theory; Mathematical Physics
+\\
+  We consider the classical dynamics of bosonic and fermionic matrix variables
+in complex Hilbert space, defined by a trace action, assuming cyclic invariance
+under the trace and the presence of a global unitary invariance. With plausible
+and explicitly stated assumptions, including the existence of a large hierarchy
+of scale between the underlying dynamics and observed physics, we show that (1)
+the equilibrium statistical mechanics of this matrix dynamics, in the canonical
+ensemble, gives rise to an emergent quantum mechanics for many degrees of
+freedom, including the standard canonical commutation/anticommutation relations
+and the usual unitary Heisenberg and Schr\"odinger picture time evolutions of
+operators and states, and (2) the fluctuation or Brownian motion corrections to
+this thermodyamics lead to an energy-driven stochastic modification of the
+Schr\"odinger equation, which is known to imply state vector reduction with
+Born rule probabilities. Thus, quantum mechanics and its probabilistic
+interpretation both arise as emergent phenomena in the underlying trace
+dynamics.
+\\

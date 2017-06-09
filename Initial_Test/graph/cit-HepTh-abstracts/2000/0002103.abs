@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0002103
+From: Matthias Klein <matthias.klein@uam.es>
+Date: Mon, 14 Feb 2000 19:04:54 GMT   (37kb)
+Date (revised v2): Thu, 25 May 2000 16:50:25 GMT   (38kb)
+
+Title: Orientifolds with discrete torsion
+Authors: Mathias Klein, Raul Rabadan
+Comments: Latex, 48 pages, v2: several misprints and sign errors corrected,
+  clarifications and references added
+Report-no: FTUAM-00/06, IFT-UAM/CSIC-00-08
+Journal-ref: JHEP 0007 (2000) 040
+\\
+  We show how discrete torsion can be implemented in D=4, N=1 type IIB
+orientifolds. Some consistency conditions are found from the closed string and
+open string spectrum and from tadpole cancellation. Only real values of the
+discrete torsion parameter are allowed, i.e. epsilon=+-1. Orientifold models
+are related to real projective representations. In a similar way as complex
+projective representations are classified by H^2(Gamma,C^*)=H^2(Gamma,U(1)),
+real projective representations are characterized by
+H^2(Gamma,R^*)=H^2(Gamma,Z_2). Four different types of orientifold
+constructions are possible. We classify these models and give the spectrum and
+the tadpole cancellation conditions explicitly.
+\\

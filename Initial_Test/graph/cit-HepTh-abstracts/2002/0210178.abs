@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0210178
+From: Arjan Keurentjes <arjan@tena4.vub.ac.be>
+Date: Fri, 18 Oct 2002 13:43:48 GMT   (47kb)
+Date (revised v2): Tue, 12 Nov 2002 16:33:09 GMT   (49kb)
+Date (revised v3): Thu, 16 Jan 2003 15:23:48 GMT   (49kb)
+
+Title: The group theory of oxidation
+Authors: Arjan Keurentjes
+Comments: 50 pages, LaTeX, 3 figures, 5 tables; v2. typo's fixed, references
+  added, clarified derivation of sigma model equation of motion in appendix D;
+  v3. small corrections, more references
+Report-no: VUB/TENA/02/06, PAR-LPTHE-02-38, LPTENS-02/40
+\\
+  Dimensional reduction of (super-)gravity theories to 3 dimensions results in
+sigma models on coset spaces G/H, such as the E_8/SO(16) coset in the bosonic
+sector of 3 dimensional maximal supergravity. The reverse process, oxidation,
+is the reconstruction of a higher dimensional gravity theory from a coset sigma
+model. Using the group G as starting point, the higher dimensional models
+follow essentially from decomposition into subgroups. All equations of motion
+and Bianchi identities can be directly reconstructed from the group lattice,
+Kaluza-Klein modifications and Chern-Simons terms are encoded in the group
+structure. Manipulations of extended Dynkin diagrams encode matter content, and
+(string) dualities. The reflection symmetry of the ``magic triangle'' for E_n
+gravities, and approximate reflection symmetry of the older ``magic triangle''
+of supergravities in 4 dimensions, are easily understood in this framework.
+\\

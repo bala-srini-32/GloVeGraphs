@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9605040
+From: Steffen Meissner <meissner@qft2.physik.hu-berlin.de>
+Date: Tue, 7 May 96 11:39:20 METDST   (26kb)
+
+Title: Ground state and low excitations of an integrable chain with alternating
+  spins
+Authors: St. Meissner and B.-D. Doerfel (HU Berlin)
+Comments: 16 pages, LaTeX, uses ioplppt.sty and PicTeX macros
+Report-no: SFB 288 preprint no. 179
+Journal-ref: J.Phys. A29 (1996) 1949-1960
+\\
+  An anisotropic integrable spin chain, consisting of spins $s=1$ and
+$s=\frac{1}{2}$, is investigated \cite{devega}. It is characterized by two real
+parameters $\bar{c}$ and $\tilde{c}$, the coupling constants of the spin
+interactions. For the case $\bar{c}<0$ and $\tilde{c}<0$ the ground state
+configuration is obtained by means of thermodynamic Bethe ansatz. Furthermore
+the low excitations are calculated. It turns out, that apart from free magnon
+states being the holes in the ground state rapidity distribution, there exist
+bound states given by special string solutions of Bethe ansatz equations (BAE)
+in analogy to \cite{babelon}. The dispersion law of these excitations is
+calculated numerically.
+\\

@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9508115
+From: Frederic Lesage <lesage@physics1.usc.edu>
+Date: Wed, 23 Aug 1995 15:32:49 -0700   (13kb)
+
+Title: Single particle Green's function in the Calogero-Sutherland model for
+  rational couplings $\beta=p/q$
+Authors: D. Serban, F. Lesage, V. Pasquier
+Comments: 9 pages, RevTeX, epsf.tex, 4 figures, files uuencoded
+Report-no: USC-95-023
+Journal-ref: Nucl. Phys. B466 (1996) 499
+\\
+  We derive an exact expression for the single particle Green function in the
+Calogero-Sutherland model for all rational values of the coupling $\beta$. The
+calculation is based on Jack polynomial techniques and the results are given in
+the thermodynamical limit. Two type of intermediate states contribute. The
+firts one consists of a particle propagating out of the Fermi sea and the
+second one consists of a particle propagating in one direction, q particles in
+the opposite direction and p holes.
+\\

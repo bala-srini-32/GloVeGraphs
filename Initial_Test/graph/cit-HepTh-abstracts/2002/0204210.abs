@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0204210
+From: Renate Loll <R.Loll@phys.uu.nl>
+Date: Wed, 24 Apr 2002 16:11:36 GMT   (69kb)
+Date (revised v2): Tue, 3 Sep 2002 10:22:33 GMT   (65kb)
+
+Title: A Hexagon Model for 3D Lorentzian Quantum Cosmology
+Authors: B. Dittrich (AEI, Golm), R. Loll (U. Utrecht)
+Comments: 34 pages, 20 figures, some clarifying remarks added, final version to
+  appear in Phys Rev D
+Report-no: SPIN-2002/11
+Journal-ref: Phys.Rev. D66 (2002) 084016
+\\
+  We formulate a dynamically triangulated model of three-dimensional Lorentzian
+quantum gravity whose spatial sections are flat two-tori. It is shown that the
+combinatorics involved in evaluating the one-step propagator (the transfer
+matrix) is that of a set of vicious walkers on a two-dimensional lattice with
+periodic boundary conditions and that the entropy of the model scales
+exponentially with the volume. We also give explicit expressions for the
+Teichm\"uller parameters of the spatial slices in terms of the discrete
+parameters of the 3d triangulations, and reexpress the discretized action in
+terms of them. The relative simplicity and explicitness of this model make it
+ideally suited for an analytic study of the conformal-factor cancellation
+observed previously in Lorentzian dynamical triangulations and of its relation
+to alternative, reduced phase space quantizations of 3d gravity.
+\\

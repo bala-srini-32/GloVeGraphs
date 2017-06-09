@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0107015
+From: Andreas Fring <fring@physik.fu-berlin.de>
+Date: Tue, 3 Jul 2001 13:20:29 GMT   (28kb)
+Date (revised v2): Mon, 9 Jul 2001 16:38:14 GMT   (31kb)
+
+Title: Form factors from free fermionic Fock fields, the Federbush model
+Authors: Olalla Castro-Alvaredo and Andreas Fring
+Comments: 30 pages Latex, one section added
+Journal-ref: Nucl.Phys. B618 (2001) 437-464
+\\
+  By representing the field content as well as the particle creation operators
+in terms of fermionic Fock operators, we compute the corresponding matrix
+elements of the Federbush model. Only when these matrix elements satisfy the
+form factor consistency equations involving anyonic factors of local
+commutativity, the corresponding operators are local. We carry out the
+ultraviolet limit, analyze the momentum space cluster properties and
+demonstrate how the Federbush model can be obtained from the
+$SU(3)_3$-homogeneous sine-Gordon model. We propose a new Lagrangian which on
+one hand constitutes a generalization of the Federbush model in a Lie algebraic
+fashion and on the other a certain limit of the homogeneous sine-Gordon models.
+\\

@@ -1,0 +1,32 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0203020
+From: Johanna Erdmenger <jke@physik.hu-berlin.de>
+Date: Sun, 3 Mar 2002 14:52:41 GMT   (42kb)
+Date (revised v2): Mon, 25 Mar 2002 16:18:24 GMT   (43kb)
+
+Title: Four-Dimensional Superconformal Theories with Interacting Boundaries or
+  Defects
+Authors: Johanna Erdmenger, Zachary Guralnik and Ingo Kirsch (HU Berlin)
+Comments: 30 pages, 4 figures, AMSLaTeX, revised comments on Chern-Simons term,
+  references added
+Report-no: HU-EP-02/07
+Journal-ref: Phys.Rev. D66 (2002) 025020
+\\
+  We study four-dimensional superconformal field theories coupled to
+three-dimensional superconformal boundary or defect degrees of freedom.
+Starting with bulk N=2, d=4 theories, we construct abelian models preserving
+N=2, d=3 supersymmetry and the conformal symmetries under which the
+boundary/defect is invariant. We write the action, including the bulk terms, in
+N=2, d=3 superspace. Moreover we derive Callan-Symanzik equations for these
+models using their superconformal transformation properties and show that the
+beta functions vanish to all orders in perturbation theory, such that the
+models remain superconformal upon quantization. Furthermore we study a model
+with N=4 SU(N) Yang-Mills theory in the bulk coupled to a N=4, d=3
+hypermultiplet on a defect. This model was constructed by DeWolfe, Freedman and
+Ooguri, and conjectured to be conformal based on its relation to an AdS
+configuration studied by Karch and Randall. We write this model in N=2, d=3
+superspace, which has the distinct advantage that non-renormalization theorems
+become transparent. Using N=4, d=3 supersymmetry, we argue that the model is
+conformal.
+\\

@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0010258
+From: Richard Madden <madden@ihes.fr>
+Date: Fri, 27 Oct 2000 12:17:07 GMT   (124kb)
+Date (revised v2): Wed, 13 Dec 2000 15:11:37 GMT   (124kb)
+
+Title: Numerical Black Hole Interiors and String Cosmology Initial Conditions
+Authors: Richard Madden
+Comments: 35 pages, 11 figures. Updated references
+Report-no: IHES/P/00/71
+Journal-ref: JHEP 0101 (2001) 023
+\\
+  Recent work has proposed the principle of `asymptotic past triviality' to
+characterize the initial state in the pre-big bang scenario of string
+cosmology, that it is a generic perturbative solution of the low-energy
+effective action. Among the more generic sets of solutions which is simple
+enough to investigate thoroughly, yet complex enough to exhibit interesting
+behavior, is the gravity-dilaton system in spherical symmetry. Since, in the
+Einstein frame, this system reduces to a massless minimally coupled scalar,
+which has been target of a large body of previous investigation, we will draw
+on this and interpret it in the cosmological context. Since this scenario
+necessarily involves the transition from weak field initial data into the
+strong field regime, gravitational collapse, we have made numerical
+computations to answer some of the questions raised on the road to the proposal
+that `the pre-big bang is as generic as gravitational collapse'.
+\\

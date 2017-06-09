@@ -1,0 +1,33 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0204226
+From: Sergey Frolov <frolov@pacific.mps.ohio-state.edu>
+Date: Thu, 25 Apr 2002 19:45:06 GMT   (34kb)
+Date (revised v2): Fri, 26 Apr 2002 00:57:39 GMT   (34kb)
+Date (revised v3): Tue, 7 May 2002 00:16:22 GMT   (34kb)
+Date (revised v4): Wed, 5 Jun 2002 23:42:59 GMT   (34kb)
+
+Title: Semiclassical quantization of rotating superstring in AdS_5 x S^5
+Authors: S. Frolov and A.A. Tseytlin
+Comments: harvmac, 35p. v2,3: minor corrections; v4: added remarks about
+  higher-loop corrections in section 4 and an argument suggesting the absence
+  of higher than log S corrections to the energy to all orders in string
+  tension in section 6.1, to appear in JHEP
+Journal-ref: JHEP 0206 (2002) 007
+\\
+  Motivated by recent proposals in hep-th/0202021 and hep-th/0204051 we develop
+semiclassical quantization of superstring in $AdS_5 x S^5$. We start with a
+classical solution describing string rotating in $AdS_5$ and boosted along
+large circle of $S^5$. The energy of the classical solution $E$ is a function
+of the spin $S$ and the momentum $J$ (R-charge) which interpolates between the
+limiting cases S=0 and J=0 considered previously. We derive the corresponding
+quadratic fluctuation action for bosonic and fermionic fields from the GS
+string action and compute the string 1-loop (large $\lambda= {R^4\over \a'^2}$)
+correction to the classical energy spectrum in the $(S,J)$ sector. We find that
+the 1-loop correction to the ground-state energy does not cancel for non-zero
+$S$. For large $S$ it scales as $\ln S$, i.e. as the classical term, with no
+higher powers of $\ln S$ appearing. This supports the conjecture made in
+hep-th/0204051 that the classical $E-S = a \ln S$ scaling can be interpolated
+to weak coupling to reproduce the corresponding operator anomalous dimension
+behaviour in gauge theory.
+\\

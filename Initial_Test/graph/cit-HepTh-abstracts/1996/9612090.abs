@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9612090
+From: Luigi Pilo <pilo@theory.sns.it>
+Date: Mon, 9 Dec 1996 11:39:42 +0100 (MET)   (26kb)
+
+Title: Three-manifold invariants and their relation with the fundamental group
+Authors: E. Guadagnini, L. Pilo
+Comments: 22 pages, Latex document, two eps figures
+Report-no: IFUP-TH 69/96
+Journal-ref: Commun.Math.Phys. 192 (1998) 47-65
+\\
+  We consider the 3-manifold invariant I(M) which is defined by means of the
+Chern-Simons quantum field theory and which coincides with the
+Reshetikhin-Turaev invariant. We present some arguments and numerical results
+supporting the conjecture that, for nonvanishing I(M), the absolute value 
+| I(M) | only depends on the fundamental group \pi_1 (M) of the manifold M.
+For lens spaces, the conjecture is proved when the gauge group is SU(2). In
+the case in which the gauge group is SU(3), we present numerical computations
+confirming the conjecture.
+\\

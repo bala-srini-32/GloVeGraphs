@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0103168
+From: Zachary Guralnik <zack@ctphoneydew.mit.edu>
+Date: Tue, 20 Mar 2001 22:30:10 GMT   (41kb)
+Date (revised v2): Thu, 29 Mar 2001 16:13:45 GMT   (41kb)
+Date (revised v3): Wed, 16 May 2001 15:33:33 GMT   (42kb)
+
+Title: Aspects of Gauge Theory on Commutative and Noncommutative Tori
+Authors: Zachary Guralnik and Jan Troost
+Comments: 27 pages, 3 figures, latex, references added, minor corrections
+Report-no: CTP-MIT-3103
+Journal-ref: JHEP 0105 (2001) 022
+\\
+  We study aspects of gauge theory on tori which are a consequences of Morita
+equivalence. In particular we study the behavior of gauge theory on
+noncommutative tori for arbitrarily close rational values of Theta. For such
+values of Theta, there are Morita equivalent descriptions in terms of
+Yang-Mills theories on commutative tori with very different magnetic fluxes and
+rank. In order for the correlators of open Wilson lines to depend smoothly on
+Theta, the correlators of closed Wilson lines in the commutative Yang-Mills
+theory must satisfy strong constraints. If exactly satisfied, these constraints
+give relations between small and large N gauge theories. We verify that these
+constraints are obeyed at leading order in the 1/N expansion of pure 2-d QCD
+and of strongly coupled N=4 super Yang-Mills theory.
+\\

@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0002148
+From: Gernot Akemann <Gernot.Akemann@mpi-hd.mpg.de>
+Date: Thu, 17 Feb 2000 17:34:29 GMT   (16kb)
+Date (revised v2): Wed, 7 Jun 2000 10:06:13 GMT   (17kb)
+
+Title: Macroscopic and Microscopic (Non-)Universality of Compact Support Random
+  Matrix Theory
+Authors: G. Akemann and G. Vernizzi
+Comments: LaTeX, 24 pages; Intro extended, 3 Refs added and typos corrected, to
+  appear in NPB
+Report-no: NBI-HE-00-10
+Journal-ref: Nucl.Phys. B583 (2000) 739-757
+\\
+  A random matrix model with a sigma-model like constraint, the restricted
+trace ensemble (RTE), is solved in the large-n limit. In the macroscopic limit
+the smooth connected two-point resolvent G(z,w) is found to be non-universal,
+extending previous results from monomial to arbitrary polynomial potentials.
+Using loop equation techniques we give a closed though non-universal expression
+for G(z,w), which extends recursively to all higher k-point resolvents. These
+findings are in contrast to the usual unconstrained one-matrix model. However,
+in the microscopic large-n limit, which probes only correlations at distance of
+the mean level spacing, we are able to show that the constraint does not modify
+the universal sine-law. In the case of monomial potentials $V(M)=M^{2p}$, we
+provide a relation valid for finite-n between the k-point correlation function
+of the RTE and the unconstrained model. In the microscopic large-n limit they
+coincide which proves the microscopic universality of RTEs.
+\\

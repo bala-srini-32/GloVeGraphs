@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0103169
+From: Oleg Lunin <lunin@pacific.mps.ohio-state.edu>
+Date: Tue, 20 Mar 2001 22:54:17 GMT   (32kb)
+Date (revised v2): Thu, 29 Mar 2001 19:06:51 GMT   (32kb)
+
+Title: Three-point functions for M^N/S^N orbifolds with N=4 supersymmetry
+Authors: Oleg Lunin, Samir D. Mathur
+Comments: 39 pages, Latex, typos corrected
+Report-no: OHSTPY-HEP-T-01-005
+Journal-ref: Commun.Math.Phys. 227 (2002) 385-419
+\\
+  The D1-D5 system is believed to have an `orbifold point' in its moduli space
+where its low energy theory is a N=4 supersymmetric sigma model with target
+space M^N/S^N, where M is T^4 or K3. We study correlation functions of chiral
+operators in CFTs arising from such a theory. We construct a basic class of
+chiral operators from twist fields of the symmetric group and the generators of
+the superconformal algebra. We find explicitly the 3-point functions for these
+chiral fields at large N; these expressions are `universal' in that they are
+independent of the choice of M. We observe that the result is a significantly
+simpler expression than the corresponding expression for the bosonic theory
+based on the same orbifold target space.
+\\

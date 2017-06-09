@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9510138
+From: mans henningson <mans@genesis5.physics.yale.edu>
+Date: Wed, 18 Oct 95 17:57:07 -0400   (9kb)
+
+Title: Discontinuous BPS spectra in $N = 2$ gauge theory
+Author: M. Henningson
+Comments: 10 pages, uses harvmac
+Report-no: YCTP-P14-95
+Journal-ref: Nucl.Phys. B461 (1996) 101-108
+\\
+  We consider the spectrum of BPS saturated states in $N = 2$ gauge theories in
+four dimensions. This spectrum may be discontinuous across real codimension one
+submanifolds of marginal stability in the moduli space of vacua. An example,
+which can be treated with semiclassical methods in the weak coupling limit, is
+the decay of quark-soliton bound states. For a quark and a soliton of
+electric-magnetic charge vectors $Q$ and $Q^\prime$ respectively, we find that
+as the manifold of marginal stability is crossed, the number of soliton states
+changes by a factor of $2^{Q \cdot Q^\prime}$, where the dot denotes the
+symplectic product.
+\\

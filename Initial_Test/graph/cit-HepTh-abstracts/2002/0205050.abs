@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0205050
+From: Jerome P. Gauntlett <j.p.gauntlett@qmw.ac.uk>
+Date: Tue, 7 May 2002 15:25:40 GMT   (24kb)
+Date (revised v2): Mon, 10 Jun 2002 19:20:11 GMT   (25kb)
+
+Title: G-Structures and Wrapped NS5-Branes
+Authors: Jerome P. Gauntlett, Dario Martelli, Stathis Pakis and Daniel Waldram
+Comments: 29 pages. v2: typos fixed, references added, and Discussion expanded
+Report-no: QMUL-PH-02-09
+Subj-class: High Energy Physics - Theory; Differential Geometry
+\\
+  We analyse the geometrical structure of supersymmetric solutions of type II
+supergravity of the form R^{1,9-n} x M_n with non-trivial NS flux and dilaton.
+Solutions of this type arise naturally as the near-horizon limits of wrapped NS
+fivebrane geometries. We concentrate on the case d=7, preserving two or four
+supersymmetries, corresponding to branes wrapped on associative or SLAG
+three-cycles. Given the existence of Killing spinors, we show that M_7 admits a
+G_2-structure or an SU(3)-structure, respectively, of specific type. We also
+prove the converse result. We use the existence of these geometric structures
+as a new technique to derive some known and new explicit solutions, as well as
+a simple theorem implying that we have vanishing NS three-form and constant
+dilaton whenever M_7 is compact with no boundary. The analysis extends simply
+to other type II examples and also to type I supergravity.
+\\

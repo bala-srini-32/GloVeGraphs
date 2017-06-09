@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9502005
+From: Henning Wissowski <henning@physik.rwth-aachen.de>
+Date: Wed, 01 Feb 1995 08:33:51 +0100 (MET)   (81kb)
+Date (revised): Thu, 02 Feb 1995 12:38:03 +0100 (MET)
+Date (revised): Fri, 03 Feb 1995 11:00:43 +0100 (MET)
+
+Title: Constructing solutions of Hamilton-Jacobi equations for 2 D fields with
+  one component by means of Baecklund transformations
+Authors: Wulf Boettger, Henning Wissowski, Hans A. Kastrup
+Comments: LaTeX, 44 pages, 3 figures, submitted to: Journal of Mathematical
+  Physics; replaced due to mailer problems
+Report-no: PITHA 63/94
+Subj-class: High Energy Physics - Theory; Functional Analysis
+Journal-ref: J.Math.Phys. 44 (2003) 263-301
+\\
+The Hamilton-Jacobi formalism generalized to 2-dimensional field theories
+according to Lepage's canonical framework is applied to several relativistic
+real scalar fields, e.g. massless and massive Klein-Gordon, Sinh and
+Sine-Gordon, Liouville and $\phi^4$ theories. The relations between the
+Euler-Lagrange and the Hamilton-Jacobi equations are discussed in DeDonder and
+Weyl's and the corresponding wave fronts are calculated in Carath\'eodory's
+formulation. Unlike mechanics we have to impose certain integrability
+conditions on the velocity fields to guarantee the transversality relations and
+especially the dynamical equivalence between Hamilton-Jacobi wave fronts and
+families of extremals embedded therein. B\"acklund Transformations play a
+crucial role in solving the resulting system of coupled nonlinear PDEs.
+\\

@@ -1,0 +1,19 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9704103
+From: Jani Lukkarinen <jlukkari@rock.helsinki.fi>
+Date: Mon, 14 Apr 1997 05:13:33 MDT   (57kb)
+
+Title: Lattice Simulations of the Quantum Microcanonical Ensemble
+Authors: Jani Lukkarinen
+Comments: 11 pages Revtex, 1 figure. uses amsfonts.sty and amstex.sty
+Report-no: HIP-1997-15/TH
+\\
+  We propose a method for the numerical computation of microcanonical
+expectation values--i.e. averages over energy eigenstates with the same
+eigenvalue-without any prior knowledge about the spectrum of the Hamiltonian.
+This is accomplished by first defining a new Gaussian ensemble to approximate
+the microcanonical one. We then develop a ``lattice theory'' for this Gaussian
+ensemble and propose a Monte Carlo integration of the expectation values of the
+lattice theory.
+\\

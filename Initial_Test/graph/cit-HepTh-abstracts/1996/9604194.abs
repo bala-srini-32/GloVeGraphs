@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9604194
+From: esposito@axpna1.cern.ch
+Date: Tue, 30 Apr 1996 18:31:08 +0200   (5kb)
+Date (revised): Thu, 25 Jul 1996 20:04:22 +0200 (MET DST)
+
+Title: Axial Gauge in Quantum Supergravity
+Authors: Giampiero Esposito and Alexander Yu. Kamenshchik
+Comments: 6 pages, Plain-Tex. Equations (2.8), (2.9) and (2.10) have been
+  corrected, and the presentation has been improved
+Report-no: DSF preprint 96/19
+\\
+  This paper studies the role of the axial gauge in the semiclassical analysis
+of simple supergravity about the Euclidean four-ball, when non-local boundary
+conditions of the spectral type are imposed on gravitino perturbations at the
+bounding three-sphere. Metric perturbations are instead subject to boundary
+conditions completely invariant under infinitesimal diffeomorphisms. It is
+shown that the axial gauge leads to a non-trivial cancellation of ghost-modes
+contributions to the one-loop divergence. The analysis, which is based on
+zeta-function regularization, provides a full $\zeta(0)$ value which coincides
+with the one obtained from transverse-traceless perturbations for gravitons and
+gravitinos. The resulting one-loop divergence does not vanish. This property
+seems to imply that simple supergravity is not even one-loop finite in the
+presence of boundaries.
+\\

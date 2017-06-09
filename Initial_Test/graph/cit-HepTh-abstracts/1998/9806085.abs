@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9806085
+From: Itzhak Bars <bars@physics1.usc.edu>
+Date: Thu, 11 Jun 1998 09:08:46 GMT   (28kb)
+Date (revised v2): Wed, 17 Jun 1998 00:54:42 GMT   (28kb)
+
+Title: Gauge symmetry in phase space with spin, a basis for conformal symmetry
+  and duality among many interactions
+Authors: Itzhak Bars and Cemsinan Deliduman
+Comments: Latex, 42 pages, improvements in AdS section
+Report-no: USC-98/HEP-B3
+Journal-ref: Phys.Rev. D58 (1998) 106004
+\\
+  We show that a simple OSp(1/2) worldline gauge theory in 0-brane phase space
+(X,P), with spin degrees of freedom, formulated for a d+2 dimensional spacetime
+with two times X^0,, X^0', unifies many physical systems which ordinarily are
+described by a 1-time formulation. Different systems of 1-time physics emerge
+by choosing gauges that embed ordinary time in d+2 dimensions in different
+ways. The embeddings have different topology and geometry for the choice of
+time among the d+2 dimensions. Thus, 2-time physics unifies an infinite number
+of 1-time physical interacting systems, and establishes a kind of duality among
+them. One manifestation of the two times is that all of these physical systems
+have the same quantum Hilbert space in the form of a unique representation of
+SO(d,2) with the same Casimir eigenvalues. By changing the number n of spinning
+degrees of freedom the gauge group changes to OSp(n/2). Then the eigenvalue of
+the Casimirs of SO(d,2) depend on n and then the content of the 1-time physical
+systems that are unified in the same representation depend on n. The models we
+study raise new questions about the nature of spacetime.
+\\

@@ -1,0 +1,36 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0005065
+From: Yuji Sugawara <sugawara@hep-th.phys.s.u-tokyo.ac.jp>
+Date: Mon, 8 May 2000 11:06:46 GMT   (29kb)
+Date (revised v2): Thu, 11 May 2000 06:39:36 GMT   (29kb)
+Date (revised v3): Mon, 21 Aug 2000 00:51:43 GMT   (34kb)
+
+Title: String Theory on AdS_3 as Discrete Light-Cone Liouville Theory
+Author: Yasuaki Hikida, Kazuo Hosomichi and Yuji Sugawara
+Comments: 41 pages, no figure, the version to appear in Nucl. Phys. B. Section
+  3 and 4 are improved, and a discussion about the multiple long string system
+  is added
+Report-no: UT-887
+Journal-ref: Nucl.Phys. B589 (2000) 134-166
+\\
+  We investigate (super) string theory on $AdS_3$ background based on an
+approach of free field realization. We demonstrate that this string theory can
+be reformulated as a string theory defined on a linear dilaton background along
+the transverse direction (``Liouville mode'') and compactified onto $S^1$ along
+a {\em light-like} direction.
+  Under this reformulation we analyze the physical spectrum as that of a free
+field system, and discuss the consequences when we turn on the Liouville
+potential. The discrete light-cone momentum in our framework is naturally
+interpreted as the ``winding number'' of the long string configuration and is
+identified with the spectral flow parameter that is introduced in the recent
+work by Maldacena and Ooguri \cite{MO}.
+  Moreover we show that there exist infinite number of the on-shell chiral
+primary states possessing the different light-cone momenta and the spectral
+flow consistently acts on the space of chiral primaries. We observe that they
+are also chiral primaries in the sense of space-time (or the conformal theory
+of long string) and the spectrum of space-time $U(1)_R$ charge is consistent
+with the expectation from the $AdS_3/CFT_2$-duality. We also clarify the
+correspondence between our framework and the symmetric orbifold theory of
+multiple long string system \cite{HS2}.
+\\

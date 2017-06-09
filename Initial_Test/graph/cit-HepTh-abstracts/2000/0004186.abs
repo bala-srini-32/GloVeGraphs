@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0004186
+From: Stefan Vandoren <vandoren@insti.physics.sunysb.edu>
+Date: Wed, 26 Apr 2000 15:39:36 GMT   (57kb)
+Date (revised v2): Wed, 24 May 2000 23:14:06 GMT   (57kb)
+
+Title: Yang-Mills- and D-instantons
+Authors: A.V. Belitsky, S. Vandoren and P. van Nieuwenhuizen
+Comments: 62 pages, typos corrected, table of contents and references added
+Journal-ref: Class.Quant.Grav. 17 (2000) 3521-3570
+\\
+  In these lectures, which are written at an elementary and pedagogical level,
+we discuss general aspects of (single) instantons in SU(N_c) Yang-Mills theory,
+and then specialize to the case of N = 4 supersymmetry and the large N_c limit.
+We show how to determine the measure of collective coordinates and compute
+instanton corrections to certain correlation functions. We then relate this to
+D-instantons in type IIB supergravity. By taking the D-instantons to live in an
+$AdS_5\times S^5$ background, we perform explicit checks of the AdS/CFT
+correspondence.
+\\

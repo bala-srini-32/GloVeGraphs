@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0010109
+From: Simionato Michele <micheles@lpthe.jussieu.fr>
+Date: Fri, 13 Oct 2000 13:57:30 GMT   (14kb)
+
+Title: Exact Renormalization Group in Algebraic Noncovariant Gauges
+Authors: Michele Simionato
+Comments: 6 pages, latex2e, Proceeding of the Second Conference on the Exact RG
+Journal-ref: Int.J.Mod.Phys. A16 (2001) 2125-2130
+\\
+  I study a class of Wilsonian formulations of non-Abelian gauge theories in
+algebraic noncovariant gauges where the Wilsonian infrared cutoff $\Lambda$ is
+inserted as a mass term for the propagating fields. In this way the
+Ward-Takahashi identities are preserved to all scales. Nevertheless the
+BRS-invariance in broken and the theory is gauge-dependent and unphysical at
+$\Lambda\neq0$. Then I discuss the infrared limit $\Lambda\to0$. I show that
+the singularities of the axial gauge choice are avoided in planar gauge and in
+light-cone gauge. Finally the rectangular Wilson loop of size $2L\times 2T$ is
+evaluated at lowest order in perturbation theory and a noncommutativity between
+the limits $\Lambda\to0$ and $T\to\infty$ is pointed out.
+\\

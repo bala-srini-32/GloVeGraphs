@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0204007
+From: Cyril Malyshev <malyshev@euclid.pdmi.ras.ru>
+Date: Mon, 1 Apr 2002 13:27:53 GMT   (16kb)
+
+Title: XX Heisenberg Spin Chain and an Example of Path Integral with
+  "Automorphic" Boundary Conditions
+Authors: Cyril Malyshev
+Comments: 17 pages, LaTeX
+Report-no: PDMI Preprint 07/2002
+Subj-class: High Energy Physics - Theory; Mathematical Physics; Statistical
+  Mechanics; Exactly Solvable and Integrable Systems
+\\
+  New representation for the generating function of correlators of third
+components of spins in the XX Heisenberg spin chain is considered in the form
+given by the fermionic Gaussian path integrals. A part of the discrete
+anti-commuting integration variables is subjected to ``automorphic'' boundary
+conditions in respect of imaginary time. The situation when only a part of the
+integration variables is subjected to the unusual boundary conditions
+generalizes more conventional ones when ``automorphic'' boundary conditions
+appear for all sites in the lattice spin models. The results of the functional
+integration are expressed as determinants of the matrix operators. The
+generating function, as well as the partition function of the model, are
+calculated by means of zeta-regularization. Certain correlation functions at
+nonzero temperature are obtained explicitly.
+\\

@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9904119
+From: Alex Lewis <alex@thphys.may.ie>
+Date: Fri, 16 Apr 1999 09:15:07 GMT   (8kb)
+
+Title: Renormalization group flow and parallel transport with non-metric
+  compatible connections
+Authors: Brian P. Dolan and Alex Lewis
+Comments: 7 pages, Latex
+Report-no: DIAS-STP-00-03
+Journal-ref: Phys.Lett. B460 (1999) 302-306
+\\
+  A family of connections on the space of couplings for a renormalizable field
+theory is defined. The connections are obtained from a Levi-Civita connection,
+for a metric which is a generalisation of the Zamolodchikov metric in two
+dimensions, by adding a family of tensors which are solutions of the
+renormalization group equation for the operator product expansion
+co-efficients. The connections are torsion free, but not metric compatible in
+general. The renormalization group flows of N=2 supersymmetric Yang-Mills
+theory in four dimensions and the O(N)-model in three dimensions, in the large
+$N$ limit, are analysed in terms of parallel transport under these connections.
+\\

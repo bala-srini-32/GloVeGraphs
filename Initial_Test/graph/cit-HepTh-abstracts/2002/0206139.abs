@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0206139
+From: Jouko Mickelsson <jouko@theophys.kth.se>
+Date: Mon, 17 Jun 2002 12:51:33 GMT   (15kb)
+Date (revised v2): Wed, 16 Oct 2002 10:24:32 GMT   (15kb)
+Date (revised v3): Fri, 6 Dec 2002 12:11:35 GMT   (15kb)
+
+Title: Gerbes, (twisted) K-theory, and the supersymmetric WZW model
+Authors: Jouko Mickelsson
+Comments: some typos corrected, a short comment in the end and two references
+  added
+Report-no: ESI preprint 1221
+Subj-class: High Energy Physics - Theory; Differential Geometry
+\\
+  The aim of this talk is to explain how symmetry breaking in a quantum field
+theory problem leads to a study of projective bundles, Dixmier-Douady classes,
+and associated gerbes. A gerbe manifests itself in different equivalent ways.
+Besides the cohomological description as a DD class, it can be defined in terms
+of a family of local line bundles or as a prolongation problem for an
+(infinite-dimensional) principal bundle, with the fiber consisting of (a
+subgroup of) projective unitaries in a Hilbert space. The prolongation aspect
+is directly related to the appearance of central extensions of (broken)
+symmetry groups. We also discuss the construction of twisted K-theory classes
+by families of supercharges for the supersymmetric Wess-Zumino-Witten model.
+\\

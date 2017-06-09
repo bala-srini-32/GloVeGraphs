@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0202087
+From: Barton Zwiebach <zwiebach@mail.lns.mit.edu>
+Date: Thu, 14 Feb 2002 15:03:25 GMT   (26kb)
+Date (revised v2): Sun, 14 Apr 2002 16:48:28 GMT   (26kb)
+
+Title: Open String Star as a Continuous Moyal Product
+Authors: Michael R. Douglas, Hong Liu, Gregory Moore, and Barton Zwiebach
+Comments: 30 pages, LaTeX. One reference added
+Report-no: CTP-MIT-3240, RUNHETC-2002-03
+Journal-ref: JHEP 0204 (2002) 022
+\\
+  We establish that the open string star product in the zero momentum sector
+can be described as a continuous tensor product of mutually commuting two
+dimensional Moyal star products. Let the continuous variable $\kappa \in
+[~0,\infty)$ parametrize the eigenvalues of the Neumann matrices; then the
+noncommutativity parameter is given by $\theta(\kappa) =2\tanh(\pi\kappa/4)$.
+For each $\kappa$, the Moyal coordinates are a linear combination of even
+position modes, and the Fourier transform of a linear combination of odd
+position modes. The commuting coordinate at $\kappa=0$ is identified as the
+momentum carried by half the string. We discuss the relation to Bars' work, and
+attempt to write the string field action as a noncommutative field theory.
+\\

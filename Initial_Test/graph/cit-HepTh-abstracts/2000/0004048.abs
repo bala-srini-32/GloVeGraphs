@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0004048
+From: nicola maggiore <nicola.maggiore@ge.infn.it>
+Date: Fri, 7 Apr 2000 12:59:35 GMT   (19kb)
+Date (revised v2): Wed, 12 Apr 2000 14:30:49 GMT   (19kb)
+Date (revised v3): Fri, 14 Apr 2000 07:12:24 GMT   (19kb)
+
+Title: Perturbative Beta Function of N=2 Super Yang-Mills Theories
+Authors: A.Blasi, V.E.R.Lemes, N.Maggiore, S.P.Sorella, A.Tanzini, O.S.Ventura,
+  L.C.Q.Vilar
+Comments: 20 pages, Latex2e, name of institutions corrected
+Report-no: GEF-TH-3/2000
+Journal-ref: JHEP 0005 (2000) 039
+\\
+  An algebraic proof of the nonrenormalization theorem for the perturbative
+beta function of the coupling constant of N=2 Super Yang-Mills theory is
+provided. The proof relies on a fundamental relationship between the N=2
+Yang-Mills action and the local gauge invariant polynomial Tr phi^2, phi(x)
+being the scalar field of the N=2 vector gauge multiplet. The
+nonrenormalization theorem for the beta function follows from the vanishing of
+the anomalous dimension of Tr phi^2.
+\\

@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9612029
+From: paunov@cbpfsu1.cat.cbpf.br (Roman Paunov)
+Date: Tue, 3 Dec 1996 02:50:23 -0200   (23kb)
+Date (revised): Wed, 4 Dec 1996 00:43:30 -0200
+Date (revised): Wed, 18 Dec 1996 03:33:55 -0200
+
+Title: $A_n^{(1)}$ Toda solitons and the dressing symmetry
+Authors: H. Belich and R. Paunov
+Comments: 26 pages, Latex file, amssym.def needed, no figures; one new
+  reference added
+Report-no: CBPF.NF.059/96
+Journal-ref: J.Math.Phys. 38 (1997) 4108-4127
+\\
+  We present an elementary derivation of the soliton-like solutions in the
+$A_n^{(1)}$ Toda models which is alternative to the previously used Hirota
+method. The solutions of the underlying linear problem corresponding to the
+N-solitons are calculated. This enables us to obtain explicit expression for
+the element which by dressing group action, produces a generic soliton
+solution. In the particular example of monosolitons we suggest a relation to
+the vertex operator formalism, previously used by Olive, Turok and Underwood.
+Our results can also be considered as generalization of the approach to the
+sine-Gordon solitons, proposed by Babelon and Bernard.
+\\

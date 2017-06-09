@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9807191
+From: Pietro Antonio Grassi <pgrassi@mppmu.mpg.de>
+Date: Mon, 27 Jul 1998 14:07:39 GMT   (22kb)
+
+Title: Constructive algebraic renormalization of the abelian Higgs-Kibble model
+Authors: R.Ferrari (Milan Univ.) and P.A.Grassi (Munich, Max Planck Inst.)
+Comments: Jul, 1998, 31 pages
+Report-no: IFUM 624/FT, MPI/PhT 98-38
+Journal-ref: Phys.Rev. D60 (1999) 065010
+\\
+  We propose an algorithm, based on Algebraic Renormalization, that allows the
+restoration of Slavnov-Taylor invariance at every order of perturbation
+expansion for an anomaly-free BRS invariant gauge theory. The counterterms are
+explicitly constructed in terms of a set of one-particle-irreducible Feynman
+amplitudes evaluated at zero momentum (and derivatives of them). The approach
+is here discussed in the case of the abelian Higgs-Kibble model, where the zero
+momentum limit can be safely performed. The normalization conditions are
+imposed by means of the Slavnov-Taylor invariants and are chosen in order to
+simplify the calculation of the counterterms. In particular within this model
+all counterterms involving BRS external sources (anti-fields) can be put to
+zero with the exception of the fermion sector.
+\\

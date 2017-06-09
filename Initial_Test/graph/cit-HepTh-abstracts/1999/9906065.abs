@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9906065
+From: "Robert Delbourgo" <delbourg@oberon.phys.utas.edu.au>
+Date: Wed, 9 Jun 1999 01:32:12 GMT   (19kb)
+
+Title: Matrix Representation of Octonions and Generalizations
+Authors: J Daboul and R Delbourgo
+Comments: 18 printed pages
+Report-no: UTAS-PHYS-98-25
+Journal-ref: J.Math.Phys. 40 (1999) 4134-4150
+\\
+  We define a special matrix multiplication among a special subset of $2N\x 2N$
+matrices, and study the resulting (non-associative) algebras and their
+subalgebras. We derive the conditions under which these algebras become
+alternative non-associative and when they become associative. In particular,
+these algebras yield special matrix representations of octonions and complex
+numbers; they naturally lead to the Cayley-Dickson doubling process. Our matrix
+representation of octonions also yields elegant insights into Dirac's equation
+for a free particle. A few other results and remarks arise as byproducts.
+\\

@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0207105
+From: Ashok Sen <sen@gravity.psu.edu>
+Date: Thu, 11 Jul 2002 15:16:32 GMT   (40kb)
+Date (revised v2): Fri, 19 Jul 2002 17:40:32 GMT   (38kb)
+Date (revised v3): Sat, 20 Jul 2002 13:16:55 GMT   (38kb)
+Date (revised v4): Tue, 22 Oct 2002 14:40:07 GMT   (38kb)
+
+Title: Time Evolution in Open String Theory
+Authors: Ashoke Sen
+Comments: LaTeX file, 35 pages, 2 figures, discussion on multiple rolling
+  tachyons expanded to include the general case, references added; v4: typos
+  corrected
+Report-no: MRI-P-020703
+Journal-ref: JHEP 0210 (2002) 003
+\\
+  We discuss a general iterative procedure for constructing time dependent
+solutions in open string theory describing rolling of a generic tachyon field
+away from its maximum. These solutions are characterized by two parameters
+labelling the initial position and velocity of the tachyon field, but one of
+these parameters can be removed by using time translation symmetry. The Wick
+rotated version of the resulting one parameter family of inequivalent solutions
+describes a one parameter family of boundary conformal field theories, each
+member of which is related to the boundary conformal field theory describing
+the original D-brane system by a nearly marginal deformation. We apply this
+technique to construct a time dependent solution on a D-brane in bosonic string
+theory which can be interpreted as the creation of a lower dimensional brane
+during the decay of an unstable D-brane.
+\\

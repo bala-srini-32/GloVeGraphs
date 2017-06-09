@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9904096
+From: Hiroshi Suzuki <hsuzuki@mito.ipc.ibaraki.ac.jp>
+Date: Wed, 14 Apr 1999 08:34:05 GMT   (10kb)
+Date (revised v2): Fri, 30 Apr 1999 04:26:58 GMT   (11kb)
+Date (revised v3): Sat, 1 May 1999 06:23:49 GMT   (11kb)
+
+Title: Remark on the Consistent Gauge Anomaly in Supersymmetric Theories
+Authors: Yoshihisa Ohshima, Kiyoshi Okuyama, Hiroshi Suzuki and Hirofumi Yasuta
+  (Ibaraki University)
+Comments: uses PHYZZX, 17 pages, the result of SUSY anomaly in the Wess-Zumino
+  gauge added
+Report-no: IU-MSTP/33
+Journal-ref: Phys.Lett. B457 (1999) 291-298
+\\
+  We present a direct field theoretical calculation of the consistent gauge
+anomaly in the superfield formalism, on the basis of a definition of the
+effective action through the covariant gauge current. The scheme is
+conceptually and technically simple and the gauge covariance in intermediate
+steps reduces calculational labors considerably. The resultant superfield
+anomaly, being proportional to the anomaly $d^{abc}=\tr T^a\{T^b,T^c\}$, is
+minimal without supplementing any counterterms. Our anomaly coincides with the
+anomaly obtained by Marinkovi\'c as the solution of the Wess-Zumino consistency
+condition.
+\\

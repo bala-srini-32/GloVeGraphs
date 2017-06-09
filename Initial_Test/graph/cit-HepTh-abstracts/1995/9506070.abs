@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9506070
+From: Albert Schwarz <asschwarz@ucdavis.edu>
+Date: Fri, 9 Jun 1995 17:08:32 -0700 (PDT)   (6kb)
+
+Title: Sigma-models having supermanifolds as target spaces
+Author: Albert Schwarz
+Comments: 6 pages,latex
+Report-no: UCD-95-06
+Journal-ref: Lett.Math.Phys. 38 (1996) 91
+\\
+  We study a topological sigma-model ($A$-model) in the case when the target
+space is an ($m_0|m_1$)-dimensional supermanifold. We prove under certain
+conditions that such a model is equivalent to an $A$-model having an
+($m_0-m_1$)-dimensional manifold as a target space. We use this result to prove
+that in the case when the target space of $A$-model is a complete intersection
+in a toric manifold, this $A$-model is equivalent to an $A$-model having a
+toric supermanifold as a target space.
+\\

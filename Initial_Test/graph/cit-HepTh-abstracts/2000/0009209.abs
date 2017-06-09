@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0009209
+From: David Berenstein <berenste@pobox.hep.uiuc.edu>
+Date: Tue, 26 Sep 2000 22:12:05 GMT   (13kb)
+Date (revised v2): Fri, 24 Nov 2000 21:13:03 GMT   (13kb)
+
+Title: Non-Commutative Calabi-Yau Manifolds
+Authors: David Berenstein, Robert G. Leigh
+Comments: 11 pages, latex. Minor corrections and some clarifications added
+Report-no: ILL-(TH)-00-08
+Subj-class: High Energy Physics - Theory; Algebraic Geometry
+Journal-ref: Phys.Lett. B499 (2001) 207-214
+\\
+  We discuss aspects of the algebraic geometry of compact non-commutative
+Calabi-Yau manifolds. In this setting, it is appropriate to consider local
+holomorphic algebras which can be glued together into a compact Calabi-Yau
+algebra. We consider two examples: a toroidal orbifold T^6/Z_2 x Z_2, and an
+orbifold of the quintic in CP_4, each with discrete torsion. The
+non-commutative geometry tools are enough to describe various properties of the
+orbifolds. First, one describes correctly the fractionation of branes at
+singularities. Secondly, for the first example we show that one can recover
+explicitly a large slice of the moduli space of complex structures which deform
+the orbifold. For this example we also show that we get the correct counting of
+complex structure deformations at the orbifold point by using traces of
+non-commutative differential forms (cyclic homology).
+\\

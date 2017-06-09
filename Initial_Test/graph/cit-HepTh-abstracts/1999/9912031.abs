@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9912031
+From: Boris Tsirelson <tsirel@math.tau.ac.il>
+Date: Sat, 4 Dec 1999 08:30:08 GMT   (53kb)
+
+Title: A non-Fock fermion toy model
+Authors: Boris Tsirelson
+Comments: 15 pages, 2 figures, LaTeX2e
+Report-no: TAU RP-SOR-99-09
+Subj-class: High Energy Physics - Theory; Probability Theory
+\\
+  Recent progress in mathematical theory of random processes provides us with
+non-Fock product systems (continuous tensor products of Hilbert spaces) used
+here for constructing a toy model for fermions. Some state vectors describe
+infinitely many particles in a finite region; the particles accumulate to a
+point. Electric charge can be assigned to the particles, the total charge being
+zero. Time dynamics is not considered yet, only kinematics (a single time
+instant).
+\\

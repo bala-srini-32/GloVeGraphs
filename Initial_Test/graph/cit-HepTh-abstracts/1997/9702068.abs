@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9702068
+From: Charles Thorn <thorn@phys.ufl.edu>
+Date: Sat, 08 Feb 97 15:08:55 -0500   (22kb)
+
+Title: The Size of a Polymer of String-Bits: A Numerical Investigation
+Authors: O. Bergman (Brandeis, Harvard) and C.B. Thorn (University of Florida)
+Comments: 14 pages, LaTeX, 9 postscript figures
+Journal-ref: Nucl.Phys. B502 (1997) 309-324
+\\
+  In string-bit models, string is described as a polymer of point-like
+constituents. We attempt to use string-bit ideas to investigate how the size of
+string is affected by string interactions in a non-perturbative context.
+Lacking adequate methods to deal with the full complications of bit
+rearrangement interactions, we study instead a simplified analog model with
+only ``direct'' potential interactions among the bits. We use the variational
+principle in an approximate calculation of the mean-square size of a polymer as
+a function of the number of constituents/bits for various interaction strengths
+g in three specific models.
+\\

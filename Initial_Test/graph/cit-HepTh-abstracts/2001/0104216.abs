@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0104216
+From: Peter Jarvis <jarvis@oberon.phys.utas.edu.au>
+Date: Wed, 25 Apr 2001 01:38:13 GMT   (16kb)
+
+Title: Algebraic solution for the vector potential in the Dirac equation
+Authors: H S Booth, G Legg and P D Jarvis
+Comments: 14 pages, LaTeX
+Report-no: University of Tasmania UTAS-PHYS-01-02
+Subj-class: High Energy Physics - Theory; Mathematical Physics
+Journal-ref: J.Phys. A34 (2001) 5667-5678
+\\
+  The Dirac equation for an electron in an external electromagnetic field can
+be regarded as a singular set of linear equations for the vector potential.
+Radford's method of algebraically solving for the vector potential is reviewed,
+with attention to the additional constraints arising from non-maximality of the
+rank. The extension of the method to general spacetimes is illustrated by
+examples in diverse dimensions with both $c$- and $a$-number wavefunctions.
+\\

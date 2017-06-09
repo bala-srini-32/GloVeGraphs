@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0207069
+From: Cathy Knudsen <cathy@phys.ufl.edu>
+Date: Mon, 8 Jul 2002 18:04:21 GMT   (32kb)
+Date (revised v2): Thu, 15 Aug 2002 17:46:34 GMT   (32kb)
+Date (revised v3): Thu, 2 Jan 2003 15:33:26 GMT   (32kb)
+Date (revised v4): Thu, 20 Feb 2003 20:30:33 GMT   (32kb)
+
+Title: One Loop Vacuum Polarization without Infinities
+Authors: A.A. Broyles
+Comments: Plain Tex, 10 pages, 2 figures, Corrected typos
+Report-no: UFIFT-HEP-02-22
+\\
+  A technique for avoiding infinite integrals in the calculation of the
+one-loop diagram contribution to the vacuum polarization component of an atomic
+energy level is presented. This makes renormalization unnecessary. Infinite
+integrals do not occur because, as it is shown, no delta functions are required
+for the Green's functions. Thus there are none to overlap. This procedure is
+shown to produce the same formula as the one obtained by dimensional
+renormalization.
+\\

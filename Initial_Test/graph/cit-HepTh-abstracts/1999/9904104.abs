@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9904104
+From: Rob Leigh <rgleigh@uiuc.edu>
+Date: Wed, 14 Apr 1999 23:14:16 GMT   (181kb)
+Date (revised v2): Fri, 16 Apr 1999 17:03:19 GMT   (181kb)
+
+Title: Superstring Perturbation Theory and Ramond-Ramond Backgrounds
+Authors: David Berenstein and Robert G. Leigh
+Comments: 17 pages, LaTeX, 4 figures, uses epsf, latexsym, hyperref packages
+  Section on realization of supersymmetry algebra has been expanded
+Report-no: ILL-(TH)-99-02
+Journal-ref: Phys.Rev. D60 (1999) 106002
+\\
+  We consider perturbative Type II superstring theory in the covariant NSR
+formalism in the presence of NSNS and RR backgrounds. A concrete example that
+we have in mind is the geometry of D3-branes which in the near-horizon region
+is AdS_5 x S_5, although our methods may be applied to other backgrounds as
+well. We show how conformal invariance of the string path integral is
+maintained order by order in the number of holes. This procedure makes uses of
+the Fischler-Susskind mechanism to build up the background geometry. A simple
+formal expression is given for a \sigma-model Lagrangian. This suggests a
+perturbative expansion in 1/g^2N and 1/N. As applications, we consider at
+leading order the mixing of RR and NSNS states, and the realization of the
+spacetime supersymmetry algebra.
+\\

@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9607013
+From: Marco Billo <billo@alf.nbi.dk>
+Date: Tue, 2 Jul 1996 13:46:54 +0200 (MET DST)   (25kb)
+Date (revised): Sat, 19 Oct 1996 11:21:29 +0200 (MET DST)
+
+Title: A solvable twisted one-plaquette model
+Author: M. Billo', A. D'Adda
+Comments: Minor corrections; final version to appear on IJMPA. 22 pages, Latex,
+  2 (small) figures included with epsf
+Report-no: DFTT 30/96, NORDITA 96/37P
+Journal-ref: Int.J.Mod.Phys. A12 (1997) 2741-2762
+\\
+  We solve a hot twisted Eguchi-Kawai model with only timelike plaquettes in
+the deconfined phase, by computing the quadratic quantum fluctuations around
+the classical vacuum. The solution of the model has some novel features: the
+eigenvalues of the time-like link variable are separated in L bunches, if L is
+the number of links of the original lattice in the time direction, and each
+bunch obeys a Wigner semicircular distribution of eigenvalues. This solution
+becomes unstable at a critical value of the coupling constant, where it is
+argued that a condensation of classical solutions takes place. This can be
+inferred by comparison with the heat-kernel model in the hamiltonian limit, and
+the related Douglas-Kazakov phase transition in QCD2. As a byproduct of our
+solution, we can reproduce the dependence of the coupling constant from the
+parameter describing the asymmetry of the lattice, in agreement with previous
+results by Karsch.
+\\

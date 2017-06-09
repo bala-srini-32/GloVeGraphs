@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9911170
+From: Jan Plefka <plefka@aei-potsdam.mpg.de>
+Date: Mon, 22 Nov 1999 16:04:14 GMT   (45kb)
+Date (revised v2): Tue, 23 Nov 1999 14:05:18 GMT   (45kb)
+
+Title: Yang-Mills Integrals
+Authors: Werner Krauth, Jan Plefka and Matthias Staudacher
+Comments: 10 pages, 8 figures, uses iopart.cls; acknowledgements added
+Report-no: AEI-1999-38
+Journal-ref: Class.Quant.Grav. 17 (2000) 1171-1179
+\\
+  SU(N) Yang-Mills integrals form a new class of matrix models which, in their
+maximally supersymmetric version, are relevant to recent non-perturbative
+definitions of 10-dimensional IIB superstring theory and 11-dimensional
+M-theory. We demonstrate how Monte Carlo methods may be used to establish
+important properties of these models. In particular we consider the partition
+functions as well as the matrix eigenvalue distributions. For the latter we
+derive a number of new exact results for SU(2). We also report preliminary
+computations of Wilson loops.
+  (Based on talk presented by M. Staudacher at Strings '99, Potsdam, July 19-24
+1999)
+\\

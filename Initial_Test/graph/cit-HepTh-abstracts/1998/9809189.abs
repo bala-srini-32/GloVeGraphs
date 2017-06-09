@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9809189
+From: Paolo Maraner <paolo@ctpa03.mit.edu>
+Date: Mon, 28 Sep 1998 20:56:17 GMT   (10kb)
+
+Title: Effective Dynamics on a Line
+Authors: P. Maraner
+Comments: 8 pages, LaTex
+Report-no: MIT-CTP-2783
+\\
+  The effective classical/quantum dynamics of a particle constrained on a
+closed line embedded in a higher dimensional configuration space is analyzed.
+By considering explicit examples it is shown how different reduction mechanisms
+produce unequivalent dynamical behaviors. The relation with a formal treatment
+of the constraint is discussed. While classically it is always possible to
+strictly enforce the constraint by setting to zero the energy stored in the
+motion normal to the constraint surface, the quantum description is far more
+sensitive to the reduction mechanism. Not only quantum dynamics is plagued by
+the usual ambiguities inherent to the quantization procedure, but also in some
+cases the constraint's equations do not contain all the necessary information
+to reconstruct the effective motion.
+\\

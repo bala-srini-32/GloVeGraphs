@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9501087
+From: Denis Bernard <dbernard@amoco.saclay.cea.fr>
+Date: Thu, 19 Jan 95 14:11:14 +0100   (12kb)
+Date (revised): Mon, 30 Jan 95 18:18:06 +0100
+
+Title: On The Random Vector Potential Model In Two Dimensions.
+Author: Denis Bernard.
+Comments: 11 pages, latex, no figures. Few equations and remarks added.
+Report-no: SPhT-95-006
+Journal-ref: Nucl.Phys. B441 (1995) 471-482
+\\
+The random vector potential model describes massless fermions coupled to a
+quenched random gauge field. We study its abelian and non-abelian versions. The
+abelian version can be completely solved using bosonization. We analyse the
+non-abelian model using its supersymmetric formulation and show, by a
+perturbative renormalisation group computation, that it is asymptotically free
+at large distances. We also show that all the quenched chiral current
+correlation functions can be computed exactly, without using the replica trick
+or the supersymmetric formulation, but using an exact expression for the
+effective action for any sample of the random gauge field. These chiral
+correlation functions are purely algebraic.
+\\

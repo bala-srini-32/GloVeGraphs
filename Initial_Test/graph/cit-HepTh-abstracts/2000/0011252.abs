@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0011252
+From: Sergio Zerbini <zerbini@zeta.tn.infn.it>
+Date: Tue, 28 Nov 2000 16:26:36 GMT   (8kb)
+Date (revised v2): Thu, 30 Nov 2000 14:52:18 GMT   (8kb)
+
+Title: One-loop effective potential for scalar and vector fields on higher
+  dimensional noncommutative flat manifolds
+Authors: A.A Bytsenko, A.E. Goncalves and S. Zerbini
+Comments: 9 pages, Latex AMS style, typos corrected, numerical coefficients
+  corrected, references added
+Journal-ref: Mod.Phys.Lett. A16 (2001) 1479-1486
+\\
+  The effective potentials for massless scalar and vector quantum field
+theories on D dimensional manifolds with p compact noncommutative extra
+dimensions are evaluated by means of dimensional regularization implemented by
+zeta function techniques. It is found that the zeta function associated with
+the one-loop operator may not be regular at the origin. Thus, the related
+heat-kernel trace has a logarithmic term in the short t asymptotics expansion.
+Consequences of this fact are briefly discussed.
+\\

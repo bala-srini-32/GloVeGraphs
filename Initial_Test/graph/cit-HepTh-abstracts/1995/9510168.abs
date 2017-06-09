@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9510168
+From: anne@insti.physics.sunysb.edu (Anne Schilling)
+Date: Mon, 23 Oct 1995 15:12:04 -0400 (EDT)   (17kb)
+Date (revised): Sun, 25 Feb 1996 17:50:13 -0500 (EST)
+Date (revised): Wed, 27 Mar 1996 10:49:48 -0500 (EST)
+
+Title: Multinomials and Polynomial Bosonic Forms for the Branching Functions of
+  the $\widehat{su}(2)_{M}\times \widehat{su}(2)_{N}/\widehat{su}(2)_{M+N}$
+  Conformal Coset Models
+Author: Anne Schilling (SUNY Stony Brook)
+Comments: 23 pages, no figures, latex; revised version to appear in Nucl. Phys.
+  B, misprints eliminated, references updated
+Report-no: ITP-SB-95-44
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+Journal-ref: Nucl.Phys. B467 (1996) 247-271
+\\
+  We give explicit expressions for the q-multinomial generalizations of the
+q-binomials and Andrews' and Baxter's q-trinomials. We show that the
+configuration sums for the generalized RSOS models in regime III studied by
+Date et al. can be expressed in terms of these multinomials. This generalizes
+the work of ABF and AB where configuration sums of statistical mechanical
+models have been expressed in terms of binomial and trinomial coefficients.
+These RSOS configuration sums yield the branching functions for the
+$\widehat{su}(2)_{M}\times \widehat{su}(2)_{N}/\widehat{su}(2)_{M+N}$ coset
+models. The representation in terms of multinomials gives Rocha-Caridi like
+formulas whereas the representation of Date et al. gives a double sum
+representation for the branching functions.
+\\

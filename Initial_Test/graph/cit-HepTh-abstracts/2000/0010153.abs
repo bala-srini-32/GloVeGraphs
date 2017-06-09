@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0010153
+From: Freydoon Mansouri <mansouri@physics.uc.edu>
+Date: Wed, 18 Oct 2000 16:33:17 GMT   (11kb)
+Date (revised v2): Tue, 24 Oct 2000 20:08:59 GMT   (11kb)
+Date (revised v3): Sat, 13 Jan 2001 19:57:15 GMT   (12kb)
+Date (revised v4): Mon, 19 Mar 2001 21:18:05 GMT   (12kb)
+Date (revised v5): Fri, 20 Jul 2001 21:20:43 GMT   (13kb)
+
+Title: Twisted Kac-Moody Algebras And The Entropy Of AdS$_3$ Black Hole
+Authors: S. Fernando and F. Mansouri
+Comments: 14 pages, some of the paragraphs in section 4 have been rewritten to
+  improve the presentation. The results remain unchanged
+Journal-ref: Phys.Lett. B505 (2001) 206-214
+\\
+  We show that an $SL(2,R)_L \times SL(2,R)_R$ Chern-Simons theory coupled to a
+source on a manifold with the topology of a disk correctly describes the
+entropy of the AdS$_3$ black hole. The resulting boundary WZNW theory leads to
+two copies of a twisted Kac-Moody algebra, for which the respective Virasoro
+algebras have the same central charge $c$ as the corresponding untwisted
+theory. But the eigenvalues of the respective $L_0$ operators are shifted. We
+show that the asymptotic density of states for this theory is, up to
+logarithmic corrections, the same as that obtained by Strominger using the
+asymptotic symmetry of Brown and Henneaux.
+\\

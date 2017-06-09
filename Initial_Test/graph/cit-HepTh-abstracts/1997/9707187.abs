@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9707187
+From: Alexandre Grezzi de Miranda Schmidt <schmidt@ift.unesp.br>
+Date: Tue, 22 Jul 1997 12:39:09 MDT   (15kb)
+
+Title: Negative Dimensional Integration for Massive Four Point Functions--I:
+  The Standard Solutions
+Authors: Alfredo T. Suzuki and Alexandre G. M. Schmidt
+Comments: 12 pages, uses elsart.cls, axodraw.ps and axodraw1.sty
+\\
+  Feynman diagrams are the best tool we have to study perturbative quantum
+field theory. For this very reason the development of any new technique which
+allows us to compute Feynman integrals is welcome. By the middle of the 80's,
+Halliday and Ricotta suggested the possibility of using negative dimensional
+integrals to tackle the problem. The aim of this work is to revisit the
+technique as such and check up on its possibilities. For this purpose, we take
+a box diagram integral contributing to the photon-photon scattering amplitude
+in quantum electrodynamics using the negative dimensional integration method.
+The reason for this choice of ours is twofold: Firstly, it is a well-studied
+integral with well-known results, and secondly because it bears in its
+integrand the complexities associated with four massive propagators of the
+intermediate states.
+\\

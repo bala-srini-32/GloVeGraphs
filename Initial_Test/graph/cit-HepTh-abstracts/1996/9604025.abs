@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9604025
+From: Friedeman <brandt@tholos.ecm.ub.es>
+Date: Thu, 4 Apr 96 15:08:31 CET   (33kb)
+Date (revised): Wed, 3 Sep 1997 14:05:39 +0200
+
+Title: Local BRST cohomology and covariance
+Author: Friedemann Brandt
+Comments: 33 pages, latex 2.09, no figures, introduction extended + minor
+  modifications; final version, to appear in Commun. Math. Phys
+Report-no: KUL-TF-96/8
+Subj-class: High Energy Physics - Theory; Algebraic Geometry
+Journal-ref: Commun.Math.Phys. 190 (1997) 459-489
+\\
+  The paper provides a framework for a systematic analysis of the local BRST
+cohomology in a large class of gauge theories. The approach is based on the
+cohomology of s+d in the jet space of fields and antifields, s and d being the
+BRST operator and exterior derivative respectively. It relates the BRST
+cohomology to an underlying gauge covariant algebra and reduces its computation
+to a compactly formulated problem involving only suitably defined generalized
+connections and tensor fields. The latter are shown to provide the building
+blocks of physically relevant quantities such as gauge invariant actions,
+Noether currents and gauge anomalies, as well as of the equations of motion.
+\\

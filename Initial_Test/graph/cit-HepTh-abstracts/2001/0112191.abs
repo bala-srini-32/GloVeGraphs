@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0112191
+From: Laurent Hoffmann <lhoffman@physik.uni-kl.de>
+Date: Thu, 20 Dec 2001 12:31:15 GMT   (27kb)
+Date (revised v2): Fri, 21 Dec 2001 10:37:37 GMT   (26kb)
+Date (revised v3): Tue, 5 Mar 2002 15:02:46 GMT   (28kb)
+Date (revised v4): Fri, 19 Apr 2002 09:11:23 GMT   (28kb)
+
+Title: Multi-trace quasi-primary fields of $\mathcal{N}=4$ $SYM_4$ from AdS
+  n-point functions
+Authors: L. Hoffmann, L. Mesref, A. Meziane, W. R\"uhl
+Comments: 32 pages, 16 figures, 1 table, comments added in section 2,
+  corrections in eqns (4.17), (5.5)-(5.8)
+Journal-ref: Nucl.Phys. B641 (2002) 188-222
+\\
+  We develop a recursive algorithm for the investigation of infinite sequences
+of quasi-primary fields obtained from chiral primary operators (CPOs)
+$O^I_k(x)$ and eventually their derivatives by applying operator product
+expansions and singling out SO(6) representations. We show that normal products
+of $O_2$ operators can be expressed in terms of projection operators on
+representations of SO(20) and discuss intertwining operators for SO(6)
+representations. Furthermore we derive $\mathcal{O}(\frac{1}{N^2})$ corrections
+to AdS/CFT 4-point functions by graphical combinatorics and finally extract
+anomalous dimensions by applying the method of conformal partial wave analysis.
+We find infinite sequences of quasi-primary fields with vanishing anomalous
+dimensions and interpret them as 1/2-BPS or 1/4-BPS fields.
+\\

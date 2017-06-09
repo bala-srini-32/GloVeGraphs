@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0206202
+From: Sean A. Hartnoll <s.a.hartnoll@damtp.cam.ac.uk>
+Date: Fri, 21 Jun 2002 17:41:43 GMT   (28kb)
+Date (revised v2): Tue, 23 Jul 2002 16:06:14 GMT   (29kb)
+
+Title: Gravitational instability in higher dimensions
+Authors: Gary Gibbons, Sean A. Hartnoll
+Comments: 1+43 pages. LaTeX. Slight rewording, typos fixed and stability of
+  T^11 corrected
+Journal-ref: Phys.Rev. D66 (2002) 064024
+\\
+  We explore a classical instability of spacetimes of dimension $D>4$. Firstly,
+we consider static solutions: generalised black holes and brane world metrics.
+The dangerous mode is a tensor mode on an Einstein base manifold of dimension
+$D-2$. A criterion for instability is found for the generalised Schwarzschild,
+AdS-Schwarzschild and topological black hole spacetimes in terms of the
+Lichnerowicz spectrum on the base manifold. Secondly, we consider perturbations
+in time-dependent solutions: Generalised dS and AdS. Thirdly we show that,
+subject to the usual limitations of a linear analysis, any Ricci flat spacetime
+may be stabilised by embedding into a higher dimensional spacetime with
+cosmological constant. We apply our results to pure AdS black strings. Finally,
+we study the stability of higher dimensional ``bubbles of nothing''.
+\\

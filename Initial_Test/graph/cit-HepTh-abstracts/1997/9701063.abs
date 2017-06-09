@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9701063
+From: tanaka@tuhep.phys.tohoku.ac.jp
+Date: Tue, 14 Jan 97 21:43:51 +0900   (58kb)
+Date (revised): Wed, 22 Jan 97 13:34:23 +0900
+
+Title: SUSY and Flat Direction in de Sitter Space
+Author: M. Tanaka
+Comments: 32 pages, Latex, 14 figures. Reference added, minor changes in
+  Discussion are made
+Report-no: TU/97/516
+\\
+  We have found that supersymmetry (SUSY) in curved space is broken softly. It
+is also found that Pauli-Villars regularization preserves the remaining
+symmetry, softly broken SUSY. Using it we computed the one-loop effective
+potential along a (classical) flat direction in a Wess-Zumino model in de
+Sitter space. The analysis is relevant to the Affleck-Dine mechanism for
+baryogenesis. The effective potential is unbounded from below:
+$V_{eff}(\phi)\to -3g^2H^2\phi ^2 ln \phi ^2 /16\pi ^2$, where $\phi$ is the
+scalar field along the flat direction, g is a typical coupling constant, and H
+is the Hubble parameter. This is identical with the effective potential which
+is obtained by using proper-time cutoff regularization. Since proper-time
+cutoff regularization is exact even at the large curvature region, the
+effective potential possesses softly broken SUSY and reliability in the large
+curvature region.
+\\

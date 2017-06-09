@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0304077
+From: boos <boos@mpim-bonn.mpg.de>
+Date: Tue, 8 Apr 2003 20:32:10 GMT   (12kb)
+
+Title: New formulae for solutions of quantum Knizhnik-Zamolodchikov equations
+  on level -4
+Authors: Hermann Boos, Vladimir Korepin, Feodor Smirnov
+Comments: 15 pages
+Subj-class: High Energy Physics - Theory; Mathematical Physics; Quantum Algebra
+\\
+  We present a new form of solution to the quantum Knizhnik-Zamolodchikov
+equation [qKZ] on level -4 in a special case corresponding to the Heisenberg
+XXX spin chain. Our form is equivalent to the integral representation obtained
+by Jimbo and Miwa in 1996 \cite{JM}. An advantage of our form is that it is
+reduced to the product of single integrals. This fact is deeply related to a
+cohomological nature of our formulae. Our approach is also based on the
+deformation of hyper-elliptic integrals and their main property -- deformed
+Riemann bilinear relation. Jimbo and Miwa also suggested a nice conjecture
+which relates solution of the qKZ on level -4 to any correlation function of
+the XXX model. This conjecture together with our form of solution to the qKZ
+makes it possible to prove a conjecture that any correlation function of the
+XXX model can be expressed in terms of the Riemann $\zeta$-function at odd
+arguments and rational coefficients suggested in \cite{bk1,bk2}. This issue
+will be discussed in our next publication.
+\\
