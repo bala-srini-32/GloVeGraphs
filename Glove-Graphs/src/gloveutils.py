@@ -6,11 +6,28 @@ import msgpack
 from collections import defaultdict
 
 class NodeCooccur():
-	def __init__(self, nx_G, p, q):
+	def __init__(self, nx_G, p, q, weighted):
 		self.G = nx_G
 		self.p = p
 		self.q = q
-		self.preprocess_transition_probs()
+		self.weighted = weighted
+		self.node_map,self.rev_map = self.gen_node_map()
+		#self.preprocess_transition_probs()
+
+	def get_node_map(self):
+		return self.node_map
+
+	def gen_node_map(self):
+		G = self.G
+		nodes = sorted(list(G.nodes()))
+		node_map = {}
+		rev_map = {}
+		ctr = 0
+		for n in nodes:
+			node_map[ctr] = n
+			rev_map[n] = ctr
+			ctr += 1
+		return node_map,rev_map
 
 	def simulate_walk(self, walk_length, start_node) :
 		G = self.G
@@ -37,7 +54,7 @@ class NodeCooccur():
 
 	def build_cooccurence(self, num_walks, walk_length):
 		G = self.G
-		walks = []
+		'''walks = []
 		cooccur = []
 		occurDict = defaultdict(int)
 		nodes = list(G.nodes())
@@ -59,7 +76,24 @@ class NodeCooccur():
 	
 		# with open('../glove.py-master/lesmis-cooccur', 'wb') as obj_f:
 		# 	msgpack.dump(cooccur,obj_f)
-		return cooccur
+		return cooccur'''
+		res = nx.shortest_path(G)
+		dist_cooccur = []
+		for src in res:
+		    for dest in res[src]:
+		        if src != dest:
+		        	m_src = self.rev_map[src]
+		        	m_dest = self.rev_map[dest]
+		        	#print 'accessing src : ',src,' dest : ',dest
+		        	if self.weighted:
+		        		path = res[src][dest]
+		        		l = 0
+		        		for i in range(len(path) -1):
+		        			l += G[path[i]][path[i+1]]['weight']
+		        		dist_cooccur.append((m_src, m_dest, 1.0/l))
+		        	else:
+		        		dist_cooccur.append((m_src, m_dest, 1.0/(res[src][dest])))
+		return dist_cooccur
 
 	def get_alias_edge(self, src, dst):
 		G = self.G
