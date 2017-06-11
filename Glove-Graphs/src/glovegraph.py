@@ -16,7 +16,7 @@ from scipy import sparse
 
 class NodeEmbedding():
 
-	def __init__(self, xmax,size,alpha,learning_rate,dimensions,output_path,iterations):
+	def __init__(self, xmax,size,alpha,learning_rate,dimensions,output_path,iterations,n2vformat,node_map):
 		self.x_max = xmax
 		self.size = size
 		self.alpha = alpha
@@ -24,6 +24,8 @@ class NodeEmbedding():
 		self.dimensions = dimensions
 		self.output_path = output_path
 		self.iterations = iterations
+		self.n2vformat = n2vformat
+		self.node_map = node_map
 
 	def run_iter(self,data):
 	    """
@@ -184,12 +186,21 @@ class NodeEmbedding():
 		    cost = self.run_iter(data)
 		    print "\t\tDone - cost : ",cost
 		    if i%10 == 0:
-		    	save_model(W,self.output_path)
+		    	emb = W
+		    	if self.n2vformat:
+					emb = buildNodeDict(emb,self.node_map)
+		    	save_model(emb,self.output_path)
 
-		save_model(W,self.output_path)
 		return W
 
 
+
+def buildNodeDict(W,node_map):
+	d = {}
+	l = len(node_map)
+	for i in range(l):
+		d[node_map[i]] = (W[i] + W[i+l])/2.0
+	return d
 
 def save_model(W, path):
     with open(path, 'wb') as vector_f:
