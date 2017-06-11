@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0103144
+From: Michael Lashkevich <lashkevi@landau.ac.ru>
+Date: Sun, 18 Mar 2001 23:19:30 GMT   (31kb)
+Date (revised v2): Fri, 6 Jul 2001 07:46:37 GMT   (32kb)
+Date (revised v3): Thu, 6 Dec 2001 23:18:58 GMT   (32kb)
+
+Title: Free field construction for the eight-vertex model: representation for
+  form factors
+Authors: Michael Lashkevich (Landau Institute)
+Comments: 26 pages, plain TeX, uses PiCTeX macros. Minor misprints corrected
+Subj-class: High Energy Physics - Theory; Quantum Algebra; Exactly Solvable and
+  Integrable Systems; Mathematical Physics
+Journal-ref: Nucl.Phys. B621 (2002) 587-621
+\\
+  The free field realization of the eight-vertex model is extended to form
+factors. It is achieved by constructing off-diagonal with respect to the ground
+state sectors matrix elements of the $\Lambda$ operator which establishes a
+relation between corner transfer matrices of the eight-vertex model and of the
+SOS model. As an example, the two-particle form factor of the $\sigma^z$
+operator is evaluated explicitly.
+\\

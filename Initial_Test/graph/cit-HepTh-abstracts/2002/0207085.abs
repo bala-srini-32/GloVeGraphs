@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0207085
+From: A.I.Nikishov <nikishov@lpi.ru>
+Date: Wed, 10 Jul 2002 07:23:12 GMT   (14kb)
+Date (revised v2): Thu, 9 Jan 2003 12:03:12 GMT   (14kb)
+
+Title: On vacuum-vacuum amplitude and Bogoliubov coefficients
+Authors: A.I.Nikishov
+Comments: 20pages, no figures, some typos corrected, minor improvements
+Report-no: FIAN 06-12
+\\
+  Even if the electromagnetic field does not create pairs, virtual pairs lead
+to the appearance of a phase in vacuum-vacuum amplitude. This makes it
+necessary to distinguish the in- and out-solutions even when it is commonly
+assumed that there is only one complete set of solutions as, for example, in
+the case of a constant magnetic field. Then in- and out-solutions differ only
+by a phase factor which is in essence the Bogoliubov coefficient. The
+propagator in terms of in- and out-states takes the same form as the one for
+pair creating fields. The transition amplitude for an electron to go from an
+initial in-state to out-state is equal to unity (in diagonal representation).
+This is in agreement with Pauli principal: if in the field there is an electron
+with given (conserved) set of quantum numbers, virtual pair cannot appear in
+this state. So even the phase of transition amplitude remains unaffected by the
+field. We show how one may redefine the phases of Bogoliubov coefficients in
+order to express the vacuum-vacuum amplitude through them.
+\\

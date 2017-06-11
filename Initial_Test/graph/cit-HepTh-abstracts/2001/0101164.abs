@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0101164
+From: Kazuya Koyama <kazuya@brahma.phys.h.kyoto-u.ac.jp>
+Date: Thu, 25 Jan 2001 10:06:12 GMT   (16kb)
+Date (revised v2): Mon, 28 May 2001 07:11:57 GMT   (16kb)
+
+Title: Strongly Coupled CFT in FRW Universe from AdS/CFT Correspondence
+Authors: Kazuya Koyama and Jiro Soda
+Comments: 23 pages, no figure, version to appear in JHEP
+Journal-ref: JHEP 0105 (2001) 027
+\\
+  We develop a formalism to calculate the effective action of the strongly
+coupled conformal field theory (CFT) in curved spacetime. The effective action
+of the CFT is obtained from AdS/CFT correspondence. The anti de-Sitter (AdS)
+spacetime has various slicing which give various curved spacetime on its
+boundary. We show the de Sitter spacetime and the Friedmann-Robertson-Walker
+(FRW) universe can be embedded in the AdS spacetime and derive the scalar
+two-point function of the conformal fields in those spacetime. In curved
+spacetime, the two-point function depends on the vacuum state of the CFT. A
+method to specify the vacuum state in AdS/CFT calculations is shown. Because
+the classical action in AdS spacetime diverges near the boundary, we need the
+counter terms to regulate the result. The simple derivation of the counter
+terms using the Hamilton-Jacobi equation is also presented in the appendix.
+\\

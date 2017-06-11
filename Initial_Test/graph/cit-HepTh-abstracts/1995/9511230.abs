@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9511230
+From: Philip Candelas <candelas@dillo.ph.utexas.edu>
+Date: Thu, 30 Nov 95 23:49:28 GMT-0600   (21kb)
+Date (revised): Wed, 20 Dec 95 13:15:53 GMT-0600
+
+Title: On the Connectedness of the Moduli Space of Calabi--Yau Manifolds
+Authors: A.C. Avram, P. Candelas, D. Jancic, M. Mandelberg
+Comments: 22 pages plain TeX, Tables and references added
+Report-no: UTTG-20-95
+Subj-class: High Energy Physics - Theory; Algebraic Geometry
+Journal-ref: Nucl.Phys. B465 (1996) 458-472
+\\
+  We show that the moduli space of all Calabi-Yau manifolds that can be
+realized as hypersurfaces described by a transverse polynomial in a four
+dimensional weighted projective space, is connected. This is achieved by
+exploiting techniques of toric geometry and the construction of Batyrev that
+relate Calabi-Yau manifolds to reflexive polyhedra. Taken together with the
+previously known fact that the moduli space of all CICY's is connected, and is
+moreover connected to the moduli space of the present class of Calabi-Yau
+manifolds (since the quintic threefold P_4[5] is both CICY and a hypersurface
+in a weighted P_4, this strongly suggests that the moduli space of all simply
+connected Calabi-Yau manifolds is connected. It is of interest that singular
+Calabi-Yau manifolds corresponding to the points in which the moduli spaces
+meet are often, for the present class, more singular than the conifolds that
+connect the moduli spaces of CICY's.
+\\

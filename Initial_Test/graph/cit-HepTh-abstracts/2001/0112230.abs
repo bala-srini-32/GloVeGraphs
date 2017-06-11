@@ -1,0 +1,36 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0112230
+From: John M. Cornwall <cornwall@physics.ucla.edu>
+Date: Mon, 24 Dec 2001 19:01:24 GMT   (27kb)
+
+Title: On topological charge carried by nexuses and center vortices
+Authors: John M. Cornwall
+Comments: Revtex4; 3 .eps figures; 18 pages
+Report-no: UCLA/01/TEP/35
+Journal-ref: Phys.Rev. D65 (2002) 085045
+\\
+  In this paper we further explore the question of topological charge in the
+center vortex-nexus picture of gauge theories. Generally, this charge is
+locally fractionalized in units of 1/N for gauge group SU(N), but globally
+quantized in integral units. We show explicitly that in d=4 global topological
+charge is a linkage number of the closed two-surface of a center vortex with a
+nexus world line, and relate this linkage to the Hopf fibration, with homotopy
+$\Pi_3(S^3)\simeq Z$; this homotopy insures integrality of the global
+topological charge. We show that a standard nexus form used earlier, when
+linked to a center vortex, gives rise naturally to a homotopy $\Pi_2(S^2)\simeq
+Z$, a homotopy usually associated with 't Hooft-Polyakov monopoles and similar
+objects which exist by virtue of the presence of an adjoint scalar field which
+gives rise to spontaneous symmetry breaking. We show that certain integrals
+related to monopole or topological charge in gauge theories with adjoint
+scalars also appear in the center vortex-nexus picture, but with a different
+physical interpretation. We find a new type of nexus which can carry
+topological charge by linking to vortices or carry d=3 Chern-Simons number
+without center vortices present; the Chern-Simons number is connected with
+twisting and writhing of field lines, as the author had suggested earlier. In
+general, no topological charge in d=4 arises from these specific static
+configurations, since the charge is the difference of two (equal) Chern-Simons
+number, but it can arise through dynamic reconnection processes. We complete
+earlier vortex-nexus work to show explicitly how to express globally-integral
+topological charge as composed of essentially independent units of charge 1/N.
+\\

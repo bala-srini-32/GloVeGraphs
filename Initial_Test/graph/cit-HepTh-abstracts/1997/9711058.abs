@@ -1,0 +1,32 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9711058
+From: Kanehisa Takasaki <takasaki@yukawa.kyoto-u.ac.jp>
+Date: Mon, 10 Nov 1997 14:33:46 GMT   (11kb)
+Date (revised v2): Tue, 11 Nov 1997 01:25:53 GMT   (11kb)
+Date (revised v3): Thu, 13 Nov 1997 13:27:15 GMT   (11kb)
+Date (revised v4): Fri, 14 Nov 1997 01:08:26 GMT   (11kb)
+Date (revised v5): Fri, 5 Dec 1997 05:39:03 GMT   (11kb)
+
+Title: Gaudin Model, KZ Equation, and Isomonodromic Problem on Torus
+Authors: Kanehisa Takasaki (Kyoto University)
+Comments: 15 pages, latex, no figures; Etingof's paper on the elliptic KZ
+  equation is added; the setting for twisted de Rham cohomologies is corrected;
+  some other minor changes have been made
+Report-no: KUCP-0111
+Subj-class: High Energy Physics - Theory; Quantum Algebra; Exactly Solvable and
+  Integrable Systems
+Journal-ref: Lett.Math.Phys. 44 (1998) 143-156
+\\
+  This paper presents a construction of isospectral problems on the torus. The
+construction starts from an SU(n) version of the XYZ Gaudin model recently
+studied by Kuroki and Takebe in the context of a twisted WZW model. In the
+classical limit, the quantum Hamiltonians of the generalized Gaudin model turn
+into classical Hamiltonians with a natural $r$-matrix structure. These
+Hamiltonians are used to build a non-autonomous multi-time Hamiltonian system,
+which is eventually shown to be an isomonodromic problem on the torus. This
+isomonodromic problem can also be reproduced from an elliptic analogue of the
+KZ equation for the twisted WZW model. Finally, a geometric interpretation of
+this isomonodromic problem is discussed in the language of a moduli space of
+meromorphic connections.
+\\

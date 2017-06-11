@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9602006
+From: Dave Robertson <dgr@pacific.mps.ohio-state.edu>
+Date: Thu, 1 Feb 1996 19:46:46 -0500 (EST)   (9kb)
+
+Title: Theta Vacua in the Light-Cone Schwinger Model
+Authors: Alex C. Kalloniatis (Heidelberg) and David G. Robertson (OSU)
+Comments: RevTeX, 5 pages
+Report-no: OSU-NT-95-07
+Journal-ref: Phys.Lett. B381 (1996) 209-215
+\\
+  We discuss the bosonized Schwinger model in light-cone quantization, using
+discretization as an infrared regulator. We consider both the light-cone
+Coulomb gauge, in which all gauge freedom can be removed and a physical Hilbert
+space employed, and the light-cone Weyl (temporal) gauge, in which the Hilbert
+space is unphysical and a Gauss law operator is used to select a physical
+subspace. We describe the different ways in which the theta vacuum is
+manifested depending on this choice of gauge, and compute the theta-dependence
+of the chiral condensate in each case.
+\\

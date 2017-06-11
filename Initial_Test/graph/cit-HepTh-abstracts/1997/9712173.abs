@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9712173
+From: Sebastian Jaimungal <jaimung@physics.ubc.ca>
+Date: Thu, 18 Dec 1997 01:10:55 GMT   (151kb)
+Date (revised v2): Thu, 26 Feb 1998 07:23:35 GMT   (151kb)
+
+Title: Topology and Duality in Abelian Lattice Theories
+Authors: C. R. Gattringer, S. Jaimungal and G. W. Semenoff
+Comments: 11 pages, LateX, 1 epsf figure; minor typos corrected and references
+  updated
+Journal-ref: Phys.Lett. B425 (1998) 282-290
+\\
+  We show how to obtain the dual of any lattice model with inhomogeneous local
+interactions based on an arbitrary Abelian group in any dimension and on
+lattices with arbitrary topology. It is shown that in general the dual theory
+contains disorder loops on the generators of the cohomology group of a
+particular dimension. An explicit construction for altering the statistical sum
+to obtain a self-dual theory, when these obstructions exist, is also given. We
+discuss some applications of these results, particularly the existence of
+non-trivial self-dual 2-dimensional Z_N theories on the torus. In addition we
+explicitly construct the n-point functions of plaquette variables for the U(1)
+gauge theory on the 2-dimensional g-tori.
+\\

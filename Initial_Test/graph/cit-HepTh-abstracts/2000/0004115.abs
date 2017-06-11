@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0004115
+From: Karl Landsteiner <landstei@mail.cern.ch>
+Date: Sat, 15 Apr 2000 19:17:36 GMT   (15kb)
+Date (revised v2): Tue, 15 Aug 2000 09:56:27 GMT   (15kb)
+
+Title: Non-Relativistic Non-Commutative Field Theory and UV/IR Mixing
+Authors: Joaquim Gomis, Karl Landsteiner, Esperanza Lopez
+Comments: LaTex2e, 12 pages, 2 figures; v2: refs corrected and updated, minor
+  changes
+Report-no: UB-ECM-PF-05/00, CERN-TH-00-117
+Journal-ref: Phys.Rev. D62 (2000) 105006
+\\
+  We study a non-commutative non-relativistic scalar field theory in 2+1
+dimensions. The theory shows the UV/IR mixing typical of QFT on non-commutative
+spaces. The one-loop correction to the two-point function turns out to be given
+by a delta-function in momentum space. The one-loop correction to the
+four-point function is of logarithmic type. We also evaluate the thermodynamic
+potential at two-loop order. To avoid an IR-singularity we have to introduce a
+chemical potential. The suppression of the non-planar contribution with respect
+to the planar one turns out to depend crucially on the value of the chemical
+potential.
+\\

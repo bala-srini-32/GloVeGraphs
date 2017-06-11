@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0205198
+From: roy@theory.saha.ernet.in
+Date: Mon, 20 May 2002 12:56:27 GMT   (10kb)
+Date (revised v2): Wed, 29 May 2002 11:58:41 GMT   (10kb)
+
+Title: On supergravity solutions of space-like Dp-branes
+Author: Shibaji Roy
+Comments: 14 pages, LaTeX, v2: minor corrections and a reference added
+Journal-ref: JHEP 0208 (2002) 025
+\\
+  Recently the time dependent solutions of type II supergravities in $d = 10$,
+with the metric having the symmetry $ISO(p+1) \times SO(8-p, 1)$ have been
+given by two groups (Chen-Gal'tsov-Gutperle (CGG), [hep-th/0204071] and
+Kruczenski-Myers-Peet (KMP), [hep-th/0204144]). The supergravity solutions
+correspond to space-like D$p$-branes in type II string theory. While the CGG
+solution is a four parameter solution, the KMP solution is a three parameter
+solution and so in general they are different. This difference can be
+attributed to the fact that unlike the CGG solution, KMP uses a specific
+boundary condition for the metric and the dilaton field. It is shown that when
+we impose the boundary conditions used in the KMP solution to the CGG solution
+then both become three parameter solutions and they map to each other under a
+coordinate transformation along with a Hodge duality of the field strength. We
+also give the relations between the parameters characterizing the two
+solutions.
+\\

@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9507155
+From: NEVEU@theor2.lbl.gov
+Date: Thu, 27 Jul 1995 18:19:14 -0700 (PDT)   (46kb)
+Date (revised): Fri, 28 Jul 1995 14:28:50 -0700 (PDT)
+
+Title: Convergent sequences of perturbative approximations for the anharmonic
+  oscillator I. Harmonic approach
+Author: B. Bellet, P. Garcia (U. Montpellier II-CNRS)and A. Neveu (Lawrence
+  Berkeley Laboratory)
+Comments: 29 pages, 12 Postscript figures available through anonymous ftp at 
+  ftp://algol.lpm.univ-montp2.fr ; replaces earlier version which
+  could not be postscripted presumably due to lack of figures.uu file
+Report-no: LBL-37559 UCB-PTH-95/27
+Journal-ref: Int.J.Mod.Phys. A11 (1996) 5587-5606
+\\
+  We present numerical evidence that a simple variational improvement of the
+ordinary perturbation theory of the quantum anharmonic oscillator can give a
+convergent sequence of approximations even in the extreme strong coupling
+limit, the purely anharmonic case. Some of the new techniques of this paper can
+be extended to renormalizable field theories.
+\\

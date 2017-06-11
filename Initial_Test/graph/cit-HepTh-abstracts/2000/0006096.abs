@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0006096
+From: Kazunori WAKATSUKI <waka@ccthmail.kek.jp>
+Date: Wed, 14 Jun 2000 06:41:05 GMT   (9kb)
+Date (revised v2): Wed, 4 Apr 2001 03:38:20 GMT   (11kb)
+
+Title: Symmetrization of the Berezin Star Product and Multiple Star Product
+  Method
+Authors: Kazunori Wakatsuki
+Comments: 14 pages, 1 figures
+\\
+  We construct a multiple star product method and by using this method, show
+that integral forms of some star products can be written in terms of the
+path-integral. This method can be applied to some examples. Especially, the
+associativity of the skew-symmetrized Berezin star product proposed in
+\cite{SW}, is recovered in large $N$ limit of the multiple star product. We
+also derive the path integral form of the Kontsevich star product from the
+multiple Moyal star product. This paper includes some reviews about star
+products.
+\\

@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0011169
+From: Bayram Tekin <tekin@thphys.ox.ac.uk>
+Date: Sat, 18 Nov 2000 15:22:25 GMT   (29kb)
+Date (revised v2): Fri, 12 Jan 2001 12:34:19 GMT   (31kb)
+Date (revised v3): Tue, 13 Feb 2001 16:54:37 GMT   (31kb)
+
+Title: Calorons in Weyl Gauge
+Authors: Gerald V. Dunne, Bayram Tekin
+Comments: 10 pages, 10 figures, a sign typo in equation 27 is corrected
+Report-no: OUTP 0051 P
+Journal-ref: Phys.Rev. D63 (2001) 085004
+\\
+  We demonstrate by explicit construction that while the untwisted
+Harrington-Shepard caloron $A_\mu$ is manifestly periodic in Euclidean time,
+with period $\beta=\frac{1}{T}$, when transformed to the Weyl ($A_0=0$) gauge,
+the caloron gauge field $A_i$ is periodic only up to a large gauge
+transformation, with winding number equal to the caloron's topological charge.
+This helps clarify the tunneling interpretation of these solutions, and their
+relation to Chern-Simons numbers and winding numbers.
+\\

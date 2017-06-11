@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0208216
+From: Daniel Litim <daniel.litim@cern.ch>
+Date: Thu, 29 Aug 2002 15:59:42 GMT   (13kb)
+Date (revised v2): Tue, 17 Sep 2002 13:53:03 GMT   (13kb)
+
+Title: Wilsonian flows and background fields
+Authors: Daniel F. Litim and Jan M. Pawlowski
+Comments: 12 pages, v2: references added. to appear in PLB
+Report-no: CERN-TH-2002-213, FAU-TP3-02-24
+Journal-ref: Phys.Lett. B546 (2002) 279-286
+\\
+  We study exact renormalisation group flows for background field dependent
+regularisations. It is shown that proper-time flows are approximations to exact
+background field flows for a specific class of regulators. We clarify the role
+of the implicit scale dependence introduced by the background field. Its impact
+on the flow is evaluated numerically for scalar theories at criticality for
+different approximations and regularisations. Implications for gauge theories
+are discussed.
+\\

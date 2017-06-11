@@ -1,0 +1,36 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9911246
+From: Zarembo <zarembo@black-hole.physics.ubc.ca>
+Date: Tue, 30 Nov 1999 05:06:21 GMT   (15kb)
+Date (revised v2): Wed, 1 Dec 1999 03:49:20 GMT   (16kb)
+Date (revised v3): Tue, 7 Dec 1999 01:19:49 GMT   (17kb)
+Date (revised v4): Wed, 29 Dec 1999 23:45:15 GMT   (17kb)
+
+Title: Magnetic Interactions of D-branes and Wess-Zumino Terms in Super
+  Yang-Mills Effective Actions
+Authors: A. A. Tseytlin, K. Zarembo
+Comments: 14 pages, 1 figure; a clarification and two important references
+  added; v4: comments on higher-derivative terms and on anomaly inflow on
+  D8-branes are added
+Report-no: ITEP-TH-69/99, OHSTPY-HEP-T-99-028
+Journal-ref: Phys.Lett. B474 (2000) 95-102
+\\
+  There is a close relation between classical supergravity and quantum SYM
+descriptions of interactions between separated branes. In the case of D3
+branes, the equivalence of leading-order potentials is due to
+non-renormalization of the F^4 term in N=4 SYM theory. Here we point out the
+existence of another special non-renormalized term in quantum SYM effective
+action. This term reproduces the interaction potential between electric charge
+of a D3-brane probe and magnetic charge of a D3-brane source, represented by
+the Chern-Simons part of the D-brane action. This unique Wess-Zumino term
+depends on all six scalar fields and originates from a phase of the euclidean
+fermion determinant in SYM theory. It is manifestly scale invariant (i.e. is
+the same for large and small separations between branes) and can not receive
+higher loop corrections in gauge theory. Maximally supersymmetric SYM theories
+in D=p+1>4 contain mixed WZ terms which depend on both scalar and gauge field
+backgrounds, and which reproduce the corresponding CS terms in the supergravity
+interaction potentials between separated Dp-branes for p>3. Purely scalar WZ
+terms appear in other cases, e.g., in N=2 gauge theories in various dimensions
+describing magnetic interactions between Dp and D(6-p) branes.
+\\

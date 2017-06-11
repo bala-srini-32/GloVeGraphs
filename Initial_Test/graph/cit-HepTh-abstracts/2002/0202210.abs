@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0202210
+From: Michael Gutperle <gutperle@democritus.harvard.edu>
+Date: Thu, 28 Feb 2002 20:27:39 GMT   (18kb)
+Date (revised v2): Mon, 11 Mar 2002 01:07:14 GMT   (18kb)
+Date (revised v3): Thu, 4 Jul 2002 16:02:24 GMT   (18kb)
+Date (revised v4): Thu, 11 Jul 2002 17:20:40 GMT   (18kb)
+
+Title: Spacelike Branes
+Authors: Michael Gutperle and Andrew Strominger
+Comments: 23 pages, harvmac(b), no figures, v2 references added and minor
+  changes, v4: more references added
+Report-no: HUTP-02/A001
+Journal-ref: JHEP 0204 (2002) 018
+\\
+  Scalar field theories with appropriate potentials in Minkowski space can have
+time-dependent classical solutions containing topological defects which
+correspond to S-branes - i.e. branes all of whose tangential dimensions are
+spacelike. It is argued that such S-branes arise in string theory as
+time-dependent solutions of the worldvolume tachyon field of an unstable
+D-brane or D-brane-anti-D-brane pair. Using the known coupling of the spacetime
+RR fields to the worldvolume tachyon it is shown that these S-branes carry a
+charge, defined as the integral of a RR field strength over a sphere
+(containing a time as well as spatial dimensions) surrounding the S-brane. This
+same charge is carried by SD-branes, i.e. Dirichlet branes arising from open
+string worldsheet conformal field theories with a Dirichlet boundary condition
+on the timelike dimension. The corresponding SD-brane boundary state is
+constructed. Supergravity solutions carrying the same charges are also found
+for a few cases.
+\\

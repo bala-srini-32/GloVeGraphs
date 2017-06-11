@@ -1,0 +1,32 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9805179
+From: "Alexei Semikhatov" <asemikha@td.lpi.ac.ru>
+Date: Tue, 26 May 1998 23:53:48 GMT   (37kb)
+Date (revised v2): Mon, 1 Jun 1998 20:29:48 GMT   (39kb)
+Date (revised v3): Sat, 29 Aug 1998 14:09:18 GMT   (40kb)
+
+Title: Resolutions and Characters of Irreducible Representations of the N=2
+  Superconformal Algebra
+Authors: B L Feigin, A M Semikhatov, V A Sirota, and I Yu Tipunin
+Comments: LaTeX2e: amsart, 34pp. An overall sign error corrected in (4.33) and
+  several consequent formulas, and the presentation streamlined in Sec.4.2.3.
+  References added. To appear in Nucl. Phys. B
+Subj-class: High Energy Physics - Theory; Representation Theory; Mathematical
+  Physics
+Journal-ref: Nucl.Phys. B536 (1998) 617-656
+\\
+  We evaluate characters of irreducible representations of the N=2
+supersymmetric extension of the Virasoro algebra. We do so by deriving the
+BGG-resolution of the admissible N=2 representations and also a new
+3,5,7...-resolution in terms of twisted massive Verma modules. We analyse how
+the characters behave under the automorphisms of the algebra, whose most
+significant part is the spectral flow transformations. The possibility to
+express the characters in terms of theta functions is determined by their
+behaviour under the spectral flow. We also derive the identity expressing every
+$\hat{sl}(2)$ character as a linear combination of spectral-flow transformed
+N=2 characters; this identity involves a finite number of N=2 characters in the
+case of unitary representations. Conversely, we find an integral representation
+for the admissible N=2 characters as contour integrals of admissible
+$\hat{sl}(2)$ characters.
+\\

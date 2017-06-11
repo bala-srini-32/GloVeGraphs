@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9608127
+From: Akikazu Hashimoto <aki@puhep1.Princeton.EDU>
+Date: Mon, 19 Aug 1996 21:35:31 -0400   (17kb)
+
+Title: Dynamics of Dirichlet-Neumann Open Strings on D-branes
+Authors: Akikazu Hashimoto
+Comments: LaTeX, 17 pages, 1 eps figure. Uses psfig.sty
+Report-no: PUPT-1642
+Journal-ref: Nucl.Phys. B496 (1997) 243-258
+\\
+  Method for computing scattering amplitudes of open strings with Dirichlet
+boundary on one end and Neumann boundary condition on the other is described.
+Vertex operator for these states are constructed using twist fields which have
+been studied previously in the context of Ashkin-Teller model and strings on
+orbifolds. Using these vertex operators, we compute the three- and four-point
+scattering amplitudes for (5,9) strings on 5-branes and 9-branes. In the low
+energy limit, these amplitudes are found to be in exact agreement with the
+field theory amplitudes for supersymmetric Yang-Mills coupled to
+hypermultiplets in 6-dimensions. We also consider the 1-brane 5-brane system
+and compute the amplitude for a pair of (1,5) strings to collide and to escape
+the brane as a closed string. (1,5) strings are found to be remarkably
+selective in their coupling to massless closed strings in NS-NS sector; they
+only couple to the dilaton.
+\\

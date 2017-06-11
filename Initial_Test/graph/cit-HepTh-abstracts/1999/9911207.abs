@@ -1,0 +1,32 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9911207
+From: Gudrun Heinrich <gheinric@grimsel.mathstat.uoguelph.ca>
+Date: Thu, 25 Nov 1999 17:22:46 GMT   (212kb)
+
+Title: Two-Loop Quark Self-Energy in a New Formalism (II): Renormalization of
+  the Quark Propagator in the Light-Cone Gauge
+Authors: George Leibbrandt, Jimmy D. Williams
+Comments: 36 pages Latex, 5 eps figures, to appear in Nucl.Phys.B
+Report-no: CERN-TH/99-201
+Journal-ref: Nucl.Phys. B566 (2000) 373-401
+\\
+  The complete two-loop correction to the quark propagator, consisting of the
+spider, rainbow, gluon bubble and quark bubble diagrams, is evaluated in the
+noncovariant light-cone gauge (lcg). (The overlapping self-energy diagram had
+already been computed.) The chief technical tools include the powerful matrix
+integration technique, the n^*-prescription for the spurious poles of 1/qn, and
+the detailed analysis of the boundary singularities in five- and
+six-dimensional parameter space. It is shown that the total divergent
+contribution to the two-loop correction Sigma_2 contains both covariant and
+noncovariant components, and is a local function of the external momentum p,
+even off the mass-shell, as all nonlocal divergent terms cancel exactly.
+Consequently, both the quark mass and field renormalizations are local. The
+structure of Sigma_2 implies a quark mass counterterm of the form $\delta m
+(lcg) = m\tilde\alpha_s C_F(3+\tilde\alpha_sW) + {\rm O} (\tilde\alpha_s^3)$,
+$\tilde\alpha_s = g^2\Gamma(\eps)(4\pi)^{\eps -2}$, with W depending only on
+the dimensional regulator epsilon, and on the numbers of colors and flavors. It
+turns out that \delta m(lcg) is identical to the mass counterterm in the
+general linear covariant gauge. Our results are in agreement with the
+Bassetto-Dalbosco-Soldati renormalization scheme.
+\\

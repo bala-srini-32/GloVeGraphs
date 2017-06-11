@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0006036
+From: Pietro Antonio Grassi <pag5@scires.nyu.edu>
+Date: Mon, 5 Jun 2000 22:05:58 GMT   (43kb)
+Date (revised v2): Thu, 16 Nov 2000 20:51:16 GMT   (45kb)
+
+Title: Gauge and Topological Symmetries in the Bulk Quantization of Gauge
+  Theories
+Authors: L.Baulieu (Paris U. IV-VII & Chicago U.), P.A.Grassi, D.Zwanziger (New
+  York U.)
+Comments: June 2000. 37pp. Improved discussion of the definition of observables
+  and derivation of the action
+Report-no: LPTHE-00-20, NYU-TH-30-5-00
+Journal-ref: Nucl.Phys. B597 (2001) 583-614
+\\
+  A gauge theory with 4 physical dimensions can be consistently expressed as a
+renormalizable topological quantum field theory in 5 dimensions. We extend the
+symmetries in the 5-dimensional framework to include not only a topological
+BRST operator S that encodes the invisibility of the "bulk" (the fifth
+dimension), but also a gauge BRST operator W that encodes gauge-invariance and
+selects observables. These symmetries provide a rich structure of Ward
+identities which assure the renormalizability of the theory, including
+non-renormalization theorems. The 5-dimensional approach considerably
+simplifies conceptual questions such as for instance the Gribov phenomenon and
+fermion doubling. A confinement scenario in the 5-dimensional framework is
+sketched. We detail the five-dimensional mechanism of anomalies, and we exhibit
+a natural lattice discretization that is free of fermion doubling.
+\\

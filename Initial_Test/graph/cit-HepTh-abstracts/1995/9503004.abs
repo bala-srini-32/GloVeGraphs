@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9503004
+From: FEDELE@napoli.infn.it
+Date: Wed, 1 Mar 1995 12:50:14 +0200 (CET)   (15kb)
+
+Title: Coherent States for Particle Beams in the Thermal Wave Model
+Authors: S. De Nicola, R. Fedele, V.I. Man'ko, and G. Miele
+Comments: 21 pages, Latex
+Report-no: Napoli University DSF-T-40/94 (1994)
+Journal-ref: Phys. Scripta 52 (1995) 191
+\\
+In this paper, by using an analogy among {\it quantum mechanics}, {\it
+electromagnetic beam optics in optical fibers}, and {\it charge particle beam
+dynamics}, we introduce the concept of {\it coherent states} for charged
+particle beams in the framework of the {\it Thermal Wave Model} (TWM). We give
+a physical meaning of the Gaussian-like coherent structures of charged particle
+distribution that are both naturally and artificially produced in an
+accelerating machine in terms of the concept of coherent states widely used in
+quantum mechanics and in quantum optics. According to TWM, this can be done by
+using a Schr\"{o}dinger-like equation for a complex function, the so-called
+{\it beam wave function} (BWF), whose squared modulus is proportional to the
+transverse beam density profile, where Planck's constant and the time are
+replaced by the transverse beam emittance and by the propagation coordinate,
+respectively. The evolution of the particle beam, whose initial BWF is assumed
+to be the simplest coherent state (ground-like state) associated with the beam,
+in an infinite 1-D quadrupole-like device with small sextupole and octupole
+aberrations, is analytically and numerically investigated.
+\\

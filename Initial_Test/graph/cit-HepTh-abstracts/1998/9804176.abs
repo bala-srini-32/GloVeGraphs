@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9804176
+From: Wolfgang Lerche <lerche@nxth04.cern.ch>
+Date: Mon, 27 Apr 1998 21:34:45 GMT   (115kb)
+Date (revised v2): Wed, 3 Jun 1998 16:57:38 GMT   (117kb)
+Date (revised v3): Thu, 26 Nov 1998 13:32:11 GMT   (117kb)
+Date (revised v4): Mon, 5 Apr 1999 13:36:38 GMT   (114kb)
+
+Title: Prepotential, Mirror Map and F-Theory on K3
+Authors: W. Lerche and S. Stieberger
+Comments: 36 pages, 2 figures (published version)
+Report-no: CERN-TH/98-131, NSF-ITP-98-053
+Journal-ref: Adv.Theor.Math.Phys. 2 (1998) 1105-1140; Erratum-ibid. 3 (1999)
+  1199-2000
+\\
+  We compute certain one-loop corrections to F^4 couplings of the heterotic
+string compactified on T^2, and show that they can be characterized by
+holomorphic prepotentials. We then discuss how some of these couplings can be
+obtained in F-theory, or more precisely from 7-brane geometry in type IIB
+language. We in particular study theories with E_8 x E_8 and SO(8)^4 gauge
+symmetry, on certain one-dimensional sub-spaces of the moduli space that
+correspond to constant IIB coupling. For these theories, the relevant geometry
+can be mapped to Riemann surfaces. Physically, the computations amount to
+non-trivial tests of the basic F-theory -- heterotic duality in eight
+dimensions. Mathematically, they mean to associate holomorphic 5-point
+couplings of the form (del_t)^5 G = sum[ g_l l^5 q^l/(1-q^l) ] to K3 surfaces.
+This can be seen as a novel manifestation of the mirror map, acting here
+between open and closed string sectors.
+\\

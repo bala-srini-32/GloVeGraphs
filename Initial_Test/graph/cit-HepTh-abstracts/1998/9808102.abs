@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9808102
+From: pavel@darss.mpg.uni-rostock.de
+Date: Mon, 17 Aug 1998 18:14:29 GMT   (22kb)
+Date (revised v2): Tue, 15 Dec 1998 19:02:43 GMT   (23kb)
+Date (revised v3): Thu, 11 Feb 1999 21:22:43 GMT   (23kb)
+
+Title: Unconstrained Hamiltonian Formulation of SU(2) Gluodynamics
+Authors: A.M. Khvedelidze and H.-P. Pavel
+Comments: 20 pages REVTEX, no figures; final version to appear in Phys. Rev. D;
+  minor changes, notations simplified
+Journal-ref: Phys.Rev. D59 (1999) 105017
+\\
+  SU(2) Yang-Mills field theory is considered in the framework of the
+generalized Hamiltonian approach and the equivalent unconstrained system is
+obtained using the method of Hamiltonian reduction. A canonical transformation
+to a set of adapted coordinates is performed in terms of which the
+Abelianization of the Gauss law constraints reduces to an algebraic operation
+and the pure gauge degrees of freedom drop out from the Hamiltonian after
+projection onto the constraint shell. For the remaining gauge invariant fields
+two representations are introduced where the three fields which transform as
+scalars under spatial rotations are separated from the three rotational fields.
+An effective low energy nonlinear sigma model type Lagrangian is derived which
+out of the six physical fields involves only one of the three scalar fields and
+two rotational fields summarized in a unit vector. Its possible relation to the
+effective Lagrangian proposed recently by Faddeev and Niemi is discussed.
+Finally the unconstrained analog of the well-known nonnormalizable groundstate
+wave functional which solves the Schr\"odinger equation with zero energy is
+given and analysed in the strong coupling limit.
+\\

@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9805215
+From: Gerhard Weigt <weigt@ifh.de>
+Date: Fri, 29 May 1998 15:29:24 GMT   (14kb)
+
+Title: The Complete Solution of the Classical SL(2,R)/U(1) Gauged WZNW Field
+  Theory
+Authors: Uwe Mueller, Gerhard Weigt
+Comments: 20 pages, no figures, LaTeX, uses amsfonts
+Report-no: DESY 98-062, MZ-TH/98-21
+Journal-ref: Commun.Math.Phys. 205 (1999) 421-436
+\\
+  We prove that any gauged WZNW model has a Lax pair representation, and give
+explicitly the general solution of the classical equations of motion of the
+SL(2,R)/U(1) theory. We calculate the symplectic structure of this solution by
+solving a differential equation of the Gelfand-Dikii type with initial state
+conditions at infinity, and transform the canonical physical fields non-locally
+onto canonical free fields. The results will, finally, be collected in a local
+B\"acklund transformation. These calculations prepare the theory for an exact
+canonical quantization.
+\\

@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0304127
+From: Adi Armoni <Adi.Armoni@cern.ch>
+Date: Tue, 15 Apr 2003 12:55:45 GMT   (40kb)
+
+Title: On k-String Tensions and Domain Walls in N=1 Gluodynamics
+Authors: A. Armoni, M. Shifman
+Comments: 21 pages, Latex. 5 figures
+Report-no: TPI-MINN-03/10,UMN-TH-2135/03,CERN-TH/2003-087
+\\
+  We discuss the k dependence of the k-string tension sigma_k in SU(N)
+supersymmetric gluodynamics. As well known, at large N the k-string consists,
+to leading order, of k noninteracting fundamental strings, so that sigma_k=k
+sigma_1. We argue, both from field-theory and string-theory side, that
+subleading corrections to this formula run in powers of 1/N^2 rather than 1/N,
+thus excluding the Casimir scaling. We suggest a heuristic model allowing one
+to relate the k-string tension in four-dimensional gluodynamics with the
+tension of the BPS domain walls (k-walls). In this model the domain walls are
+made of a net of strings connected to each other by baryon vertices. The
+relation emerging in this way leads to the sine formula sigma_ k ~ Lambda^2 N
+sin pi k/N. We discuss possible corrections to the sine law, and present
+arguments that they are suppressed by 1/k factors. We explain why the sine law
+does not hold in two dimensions. Finally, we discuss the applicability of the
+sine formula for non-supersymmetric orientifold field theories.
+\\

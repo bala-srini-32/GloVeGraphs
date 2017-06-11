@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9506169
+From: Georg Maximilian Gandenberger <G.M.Gandenberger@damtp.cam.ac.uk>
+Date: Mon, 26 Jun 95 19:01:26 BST   (31kb)
+Date (revised): Fri, 6 Oct 95 11:46:38 BST
+
+Title: Exact S-matrices for d_{n+1}^{(2)} affine Toda solitons and their bound
+  states
+Authors: G.M. Gandenberger and N.J. MacKay
+Comments: Some minor changes and misprints corrected. Version to appear in
+  Nuclear Physics B, 40 pages, LATEX
+Report-no: DAMTP-95-33
+Journal-ref: Nucl.Phys. B457 (1995) 240-272
+\\
+  We conjecture an exact S-matrix for the scattering of solitons in
+$d_{n+1}^{(2)}$ affine Toda field theory in terms of the R-matrix of the
+quantum group $U_q(c_n^{(1)})$. From this we construct the scattering
+amplitudes for all scalar bound states (breathers) of the theory. This S-matrix
+conjecture is justified by detailed examination of its pole structure. We show
+that a breather-particle identification holds by comparing the S-matrix
+elements for the lowest breathers with the S-matrix for the quantum particles
+in real affine Toda field theory, and discuss the implications for various
+forms of duality.
+\\

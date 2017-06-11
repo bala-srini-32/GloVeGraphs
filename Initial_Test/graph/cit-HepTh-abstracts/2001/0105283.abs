@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0105283
+From: Yuji Satoh <ysatoh@het.ph.tsukuba.ac.jp>
+Date: Tue, 29 May 2001 07:41:40 GMT   (33kb)
+Date (revised v2): Wed, 25 Jul 2001 10:13:27 GMT   (34kb)
+Date (revised v3): Wed, 27 Mar 2002 11:38:47 GMT   (32kb)
+Date (revised v4): Thu, 28 Mar 2002 11:05:47 GMT   (13kb)
+Date (revised v5): Mon, 8 Apr 2002 11:02:18 GMT   (14kb)
+Date (revised v6): Fri, 3 May 2002 12:34:52 GMT   (14kb)
+
+Title: Operator product expansion in SL(2) conformal field theory
+Authors: Kazuo Hosomichi and Yuji Satoh
+Comments: 10 pages, latex, discussion on primaries added, shortened version to
+  appear in MPL A
+Report-no: YITP-01-47, UTHEP-442
+Journal-ref: Mod.Phys.Lett. A17 (2002) 683-693
+\\
+  In the conformal field theories having affine SL(2) symmetry, we study the
+operator product expansion (OPE) involving primary fields in highest weight
+representations. For this purpose, we analyze properties of primary fields with
+definite SL(2) weights, and calculate their two- and three-point functions.
+Using these correlators, we show that the correct OPE is obtained when one of
+the primary fields belongs to the degenerate highest weight representation. We
+briefly comment on the OPE in the SL(2,R) WZNW model.
+\\

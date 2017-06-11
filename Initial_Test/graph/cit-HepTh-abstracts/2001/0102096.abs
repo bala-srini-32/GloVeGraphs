@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0102096
+From: Sergio Ricardo Gobira <sgobira@cascavel.fisica.ufmg.br>
+Date: Thu, 15 Feb 2001 23:45:11 GMT   (105kb)
+Date (revised v2): Tue, 10 Jul 2001 00:57:43 GMT   (127kb)
+Date (revised v3): Mon, 21 Jan 2002 14:06:33 GMT   (17kb)
+Date (revised v4): Tue, 22 Jan 2002 00:47:15 GMT   (127kb)
+
+Title: Perturbative n-Loop Renormalization by an Implicit Regularization
+  Technique
+Authors: S. R. Gobira, M. C. Nemes
+Comments: 12 figures eps, 39 pages, changed to " document class: article"
+\\
+  We construct a regularization independent procedure for implementing
+perturbative renormalization. An algebraic identity at the level of the
+internal lines of the diagrams is used which allows for the identification of
+counterterms in a purely algebraic way. Order by order in a perturbative
+expansion we obtain automatically in the process, finite contributions, local
+and nonlocal divergences. The notorious complications introduced by overlapping
+divergences never enter and since no subtractions are performed (as in BPHZ)
+all the counterterms are readily displayed. We illustrate with $\phi_{6}^{3}$
+theory to show that our framework renders a considerable algebraic
+simplification as well as explicitates the connection between renormalization
+and counterterms in the Lagrangian.
+\\

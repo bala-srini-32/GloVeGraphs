@@ -1,0 +1,32 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0012154
+From: Emilio Elizalde <elizalde@ieec.fcr.es>
+Date: Mon, 18 Dec 2000 13:50:14 GMT   (14kb)
+Date (revised v2): Wed, 20 Dec 2000 12:42:17 GMT   (14kb)
+Date (revised v3): Tue, 15 May 2001 18:10:37 GMT   (14kb)
+
+Title: Explicit Zeta Functions for Bosonic and Fermionic Fields on a
+  Noncommutative Toroidal Spacetime
+Authors: E. Elizalde
+Comments: 15 pages, no figures, LaTeX file
+Report-no: IEEC/CSM-00-121
+Subj-class: High Energy Physics - Theory; Mathematical Physics; Spectral Theory
+Journal-ref: J.Phys. A34 (2001) 3025-3036
+\\
+  Explicit formulas for the zeta functions $\zeta_\alpha (s)$ corresponding to
+bosonic ($\alpha =2$) and to fermionic ($\alpha =3$) quantum fields living on a
+noncommutative, partially toroidal spacetime are derived. Formulas for the most
+general case of the zeta function associated to a quadratic+linear+constant
+form (in {\bf Z}) are obtained. They provide the analytical continuation of the
+zeta functions in question to the whole complex $s-$plane, in terms of series
+of Bessel functions (of fast, exponential convergence), thus being extended
+Chowla-Selberg formulas. As well known, this is the most convenient expression
+that can be found for the analytical continuation of a zeta function, in
+particular, the residua of the poles and their finite parts are explicitly
+given there. An important novelty is the fact that simple poles show up at
+$s=0$, as well as in other places (simple or double, depending on the number of
+compactified, noncompactified, and noncommutative dimensions of the spacetime),
+where they had never appeared before. This poses a challenge to the
+zeta-function regularization procedure.
+\\

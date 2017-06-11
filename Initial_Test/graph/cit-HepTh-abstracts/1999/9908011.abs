@@ -1,0 +1,18 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9908011
+From: Adam D. Helfer <adam@godel.math.missouri.edu>
+Date: Mon, 2 Aug 1999 16:54:40 GMT   (34kb)
+Date (revised v2): Fri, 22 Dec 2000 18:40:22 GMT   (31kb)
+
+Title: The Hamiltonians of Linear Quantum Fields: I. Existence Theory
+Authors: Adam D. Helfer
+Comments: 29 pages, Latex2e with AMS packages
+\\
+  For linear scalar field theories, I characterize those classical Hamiltonian
+vector fields which have self-adjoint operators as their quantum counterparts.
+As an application, it is shown that for a scalar field in curved space-time (in
+a Hadamard representation), a self-adjoint Hamiltonian for evolution along the
+unit timelike normal to a Cauchy surface exists only if the second fundamental
+form of the surface vanishes identically.
+\\

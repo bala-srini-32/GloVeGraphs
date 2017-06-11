@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9907176
+From: Kurt Haller <khaller@uconnvm.uconn.edu>
+Date: Thu, 22 Jul 1999 16:15:19 GMT   (41kb)
+Date (revised v2): Tue, 19 Oct 1999 19:34:57 GMT   (41kb)
+
+Title: Topology of the gauge-invariant gauge field in two-color QCD
+Authors: Kurt Haller, Lusheng Chen, and Y.S. Choi
+Comments: 26 pages including 6 encapsulated postscript figures. Numerical
+  errors have been corrected
+Journal-ref: Phys.Rev. D60 (1999) 125010
+\\
+  We investigate solutions to a nonlinear integral equation which has a central
+role in implementing the non-Abelian Gauss's Law and in constructing
+gauge-invariant quark and gluon fields. Here we concern ourselves with
+solutions to this same equation that are not operator-valued, but are functions
+of spatial variables and carry spatial and SU(2) indices. We obtain an
+expression for the gauge-invariant gauge field in two-color QCD, define an
+index that we will refer to as the ``winding number'' that characterizes it,
+and show that this winding number is invariant to a small gauge transformation
+of the gauge field on which our construction of the gauge-invariant gauge field
+is based. We discuss the role of this gauge field in determining the winding
+number of the gauge-invariant gauge field. We also show that when the winding
+number of the gauge field is an integer $\ell{\neq}0$, the gauge-invariant
+gauge field manifests winding numbers that are not integers, and are
+half-integers only when $\ell=0$.
+\\

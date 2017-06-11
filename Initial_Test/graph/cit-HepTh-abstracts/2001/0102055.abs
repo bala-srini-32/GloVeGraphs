@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0102055
+From: Max Chaves <mchaves@cariari.ucr.ac.cr>
+Date: Fri, 9 Feb 2001 15:30:04 GMT   (31kb)
+Date (revised v2): Sat, 18 Jan 2003 01:19:32 GMT   (31kb)
+
+Title: An introduction to generalized Yang-Mills theories
+Authors: M. Chaves
+Comments: 37 p., AMSLaTeX, Lectures, Summer School in Theoretical Physics,
+  Zacatecas, August 2000. A few typos have been corrected
+\\
+  In generalized Yang-Mills theories scalar fields can be gauged just as vector
+fields in a usual Yang-Mills theory, albeit it is done in the spinorial
+representation. The presentation of these theories is aesthetic in the
+following sense: A physical theory using Yang-Mills theories requires several
+terms and irreducible representations, but with generalized Yang-Mills
+theories, only two terms and two irreducible representations are required.
+These theories are constructed based upon the maximal subgroups of the gauge
+Lie group. The two terms of the lagrangian are the kinetic energy of fermions
+and of bosons. A brief review of Yang-Mills theories and covariant derivatives
+is given, then generalized Yang-Mills theories are defined through a
+generalization of the covariant derivative. Two examples are given, one
+pertaining the Glashow-Weinberg-Salam model and another SU(5) grand
+unification. The first is based upon a $U(3)\supset U(1)\times U(1)\times
+SU(2)$ generalized Yang-Mills theory, and the second upon a $SU(6)\supset
+U(1)\times SU(5)$ theory. The possibility of expressing generalized Yang-Mills
+theories using a five-dimensional formalism is also studied. The situation is
+unclear in this case. At the end a list of comments and criticisms is given.
+\\

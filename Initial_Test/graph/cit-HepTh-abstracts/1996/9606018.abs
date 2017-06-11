@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9606018
+From: Oleg Tarasov <tarasov@ifh.de>
+Date: Wed, 5 Jun 1996 00:04:47 +0200 (MET)   (28kb)
+
+Title: Connection between Feynman integrals having different values of the
+  space-time dimension
+Authors: O.V. Tarasov (DESY-Zeuthen)
+Comments: 21 pages, LaTeX, uses axodraw.sty
+Report-no: DESY 96-068, JINR E2-96-62
+Journal-ref: Phys.Rev. D54 (1996) 6479-6490
+\\
+  A systematic algorithm for obtaining recurrence relations for dimensionally
+regularized Feynman integrals w.r.t. the space-time dimension $d$ is proposed.
+The relation between $d$ and $d-2$ dimensional integrals is given in terms of a
+differential operator for which an explicit formula can be obtained for each
+Feynman diagram. We show how the method works for one-, two- and three-loop
+integrals. The new recurrence relations w.r.t. $d$ are complementary to the
+recurrence relations which derive from the method of integration by parts. We
+find that the problem of the irreducible numerators in Feynman integrals can be
+naturally solved in the framework of the proposed generalized recurrence
+relations.
+\\

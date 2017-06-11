@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9810143
+From: Fiorenzo Bastianelli <bastiane@c220.unimo.it>
+Date: Mon, 19 Oct 1998 17:37:13 GMT   (10kb)
+
+Title: Mode Regularization of the Configuration Space Path Integral for a
+  Particle in Curved Space
+Authors: Fiorenzo Bastianelli
+Comments: 4 pages, LaTeX2e, to appear in the proceedings of ``Path Integrals
+  from peV to TeV'' (Florence, Italy, August 25-29, 1998)
+\\
+  The proper definition and evaluation of the configuration space path integral
+for the motion of a particle in curved space is a notoriously tricky problem.
+We discuss a consistent definition which makes use of an expansion in Fourier
+sine series of the particle paths. Salient features of the regularization are
+the Lee-Yang ghosts fields and a specific effective potential to be added to
+the classical action. The Lee-Yang ghost fields are introduced to exponentiate
+the non-trivial path integral measure and make the perturbative loop expansion
+finite order by order, whereas the effective potential is necessary to maintain
+the general coordinate invariance of the model. We also discuss a three loop
+computation which tests the mode regularization scheme and reproduces
+consistently De Witt's perturbative solution of the heat kernel.
+\\

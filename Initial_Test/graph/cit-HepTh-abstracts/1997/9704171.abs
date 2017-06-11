@@ -1,0 +1,37 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9704171
+From: Sho Tsujimaru <sho@mickey.mpi-hd.mpg.de>
+Date: Thu, 24 Apr 1997 18:25:27 +0200   (39kb)
+Date (revised): Thu, 1 May 1997 13:45:25 +0200
+Date (revised): Sun, 12 Oct 1997 15:58:31 GMT
+Date (revised): Wed, 17 Dec 1997 20:39:26 GMT
+Date (revised): Sun, 15 Feb 1998 19:33:38 GMT
+
+Title: Zero Mode and Symmetry Breaking on the Light Front
+Authors: S. Tsujimaru (MPI Heidelberg), K. Yamawaki (Nagoya)
+Comments: 60 pages, the final section has been expanded. A few minor
+  corrections; version to be published in Phys. Rev. D
+Journal-ref: Phys.Rev. D57 (1998) 4942-4964
+\\
+  We study the zero mode and the spontaneous symmetry breaking on the light
+front (LF). We use the discretized light-cone quantization (DLCQ) of
+Maskawa-Yamawaki to treat the zero mode in a clean separation from all other
+modes. It is then shown that the Nambu-Goldstone (NG) phase can be realized on
+the trivial LF vacuum only when an explicit symmetry-breaking mass of the NG
+boson $m_{\pi}$ is introduced. The NG-boson zero mode integrated over the LF
+must exhibit singular behavior $ \sim 1/m_{\pi}^2$ in the symmetric limit
+$m_{\pi}\to 0$, which implies that current conservation is violated at zero
+mode, or equivalently the LF charge is not conserved even in the symmetric
+limit. We demonstrate this peculiarity in a concrete model, the linear sigma
+model, where the role of zero-mode constraint is clarified. We further compare
+our result with the continuum theory. It is shown that in the continuum theory
+it is difficult to remove the zero mode which is not a single mode with measure
+zero but the accumulating point causing uncontrollable infrared singularity. A
+possible way out within the continuum theory is also suggested based on the
+``$\nu$ theory''. We finally discuss another problem of the zero mode in the
+continuum theory, i.e., no-go theorem of Nakanishi-Yamawaki on the
+non-existence of LF quantum field theory within the framework of Wightman
+axioms, which remains to be a challenge for DLCQ, ``$\nu$ theory'' or any other
+framework of LF theory.
+\\

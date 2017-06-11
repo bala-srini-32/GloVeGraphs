@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9707027
+From: Changhyun Ahn <chahn@ctp.snu.ac.kr>
+Date: Wed, 2 Jul 1997 18:04:04 +0900 (KST)   (23kb)
+Date (revised): Tue, 21 Jul 1998 04:32:55 GMT
+
+Title: Branes, Geometry and N=1 Duality with Product Gauge Groups of SO and Sp
+Authors: Changhyun Ahn, Kyungho Oh and Radu Tatar
+Comments: 26 pages, latex, 6 figures, 4 tables, 1 appendix, v2: changed the
+  sign of A^5 in page 4, corrected geometric configuration of Calabi-Yau 3-fold
+  in the text, added O6 plane charge in page 7, and inserted the appendix
+Report-no: APCTP-97-13, SNUTP-97-093, UM-TG-196
+Journal-ref: J.Geom.Phys. 31 (1999) 301-322
+\\
+  We study N=1 dualities in four dimensional supersymmetric gauge theories as
+the worldvolume theory of D4 branes with one compact direction in type IIA
+string theory. We generalize the previous work for SO(N_{c1}) x Sp(N_{c2}) with
+the superpotential W=Tr X^4 to the case of W= Tr X^4(k+1) in terms of brane
+configuration. We conjecture that the new dualities for the product gauge
+groups of SO(N_{c1}) x Sp(N_{c2}) x SO(N_{c3}), SO(N_{c1}) x Sp(N_{c2}) x
+SO(N_{c3}) x Sp(N_{c4}) and higher multiple product gauge groups can be
+obtained by reversing the ordering of NS5 branes and D6 branes while preserving
+the linking numbers. We also describe the above dualities in terms of wrapping
+D6 branes around 3 cycles of Calabi-Yau threefolds in type IIA string theory.
+The theory with adjoint matter can be regarded as taking multiple copies of NS5
+brane in the configuration of brane or geometric approaches.
+\\

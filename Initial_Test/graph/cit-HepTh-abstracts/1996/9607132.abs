@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9607132
+From: Thomas Schmitt <schmitt@math.tu-berlin.de>
+Date: Tue, 16 Jul 1996 15:24:50 +0200   (59kb)
+
+Title: Supergeometry and Quantum Field Theory, or: What is a Classical
+  Configuration?
+Authors: Thomas Schmitt
+Comments: 46 pages, LateX2E+AMSLaTeX
+Report-no: Preprint No. 419/1995 der TU Berlin
+Subj-class: High Energy Physics - Theory; Differential Geometry
+Journal-ref: Rev.Math.Phys. 9 (1997) 993-1052
+\\
+  We discuss of the conceptual difficulties connected with the
+anticommutativity of classical fermion fields, and we argue that the "space" of
+all classical configurations of a model with such fields should be described as
+an infinite-dimensional supermanifold M.
+   We discuss the two main approaches to supermanifolds, and we examine the
+reasons why many physicists tend to prefer the Rogers approach although the
+Berezin-Kostant-Leites approach is the more fundamental one. We develop the
+infinite-dimensional variant of the latter, and we show that the functionals on
+classical configurations considered in a previous paper are nothing but
+superfunctions on M. We present a programme for future mathematical work, which
+applies to any classical field model with fermion fields. This programme is
+(partially) implemented in successor papers.
+\\

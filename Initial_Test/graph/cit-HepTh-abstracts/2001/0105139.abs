@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0105139
+From: Mohammad Garousi <garousi@theory.ipm.ac.ir>
+Date: Tue, 15 May 2001 04:53:43 GMT   (18kb)
+Date (revised v2): Mon, 28 May 2001 12:31:32 GMT   (18kb)
+Date (revised v3): Sat, 7 Jul 2001 09:13:37 GMT   (19kb)
+
+Title: Dirac-Born-Infeld action, Seiberg-Witten map, and Wilson Lines
+Author: Mohammad R. Garousi
+Comments: 24 pages, Latex, revised some parts in such a way that not to be
+  concluded that the proposed non-commutative action is identical to the DBI
+  action in the SW limit, references added
+Report-no: IPM/P-2001/009
+Journal-ref: Nucl.Phys. B611 (2001) 467-487
+\\
+  We write the recently conjectured action for transformation of the ordinary
+Born-Infeld action under the Seiberg-Witten map with one open Wilson contour in
+a manifestly non-commutative gauge invariant form. This action contains the
+non-constant closed string fields, higher order derivatives of the
+non-commutative gauge fields through the $*_N$-product, and a Wilson operator.
+We extend this non-commutative $D_9$-brane action to the action for $D_p$-brane
+by transforming it under T-duality. Using this non-commutative $D_p$-brane
+action we then evaluate the linear couplings of the graviton and dilaton to the
+brane for arbitrary non-commutative parameters. By taking the Seiberg-Witten
+limit we show that they reduce exactly to the known results of the
+energy-momentum tensor of the non-commutative super Yang-Mills theory. We take
+this as an evidence that the non-commutative action in the Seiberg-Witten limit
+includes properly all derivative correction terms.
+\\

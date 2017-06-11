@@ -1,0 +1,18 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9512190
+From: Guillermo Palma <gpalma@lauca.usach.cl>
+Date: Fri, 22 Dec 1995 16:36:38 -0300   (13kb)
+
+Title: Numerical Computation of the Effective Potential and Renormalization
+Authors: G.Palma and L.Vergara
+Comments: 8 pages, LATEX, 2 postscript figures available. e-mail :
+  gpalma@lauca.usach.cl , submitted to Mod. Phys. Letter A
+Journal-ref: Mod.Phys.Lett. A11 (1996) 281-288; Erratum-ibid. A11 (1996) 1199
+\\
+  We present a novel way to compute the one-loop ring-improved effective
+potential numerically, which avoids the spurious appearence of complex
+expressions and at the same time is free from the renormalization ambiguities
+of the self-consistent approaches, based on the direct application of
+Schwinger-Dyson type equations to the masses.
+\\

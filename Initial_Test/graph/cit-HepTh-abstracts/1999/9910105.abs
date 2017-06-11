@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9910105
+From: Makoto Natsuume <makoto.natsuume@kek.jp>
+Date: Thu, 14 Oct 1999 04:32:02 GMT   (16kb)
+Date (revised v2): Thu, 6 Jan 2000 05:04:16 GMT   (16kb)
+
+Title: Three-Dimensional Gravity with Conformal Scalar and Asymptotic Virasoro
+  Algebra
+Authors: Makoto Natsuume (1), Takashi Okamura (2) and Masamichi Sato (3) ((1)
+  KEK, (2) Ochanomizu University, (3) Tokyo Institute of Technology)
+Comments: Comments: 26 pages, LaTeX; v2: minor corrections
+Report-no: KEK-TH-652, OCHA-PP-144, TIT/HEP-432
+Journal-ref: Phys.Rev. D61 (2000) 104005
+\\
+  Strominger has derived the Bekenstein-Hawking entropy of the BTZ black hole
+using asymptotic Virasoro algebra. We apply Strominger's method to a black hole
+solution found by Martinez and Zanelli (MZ). This is a solution of
+three-dimensional gravity with a conformal scalar field. The solution is not
+$AdS_3$, but it is asymptotically $AdS_3$; therefore, it has the asymptotic
+Virasoro algebra. We compute the central charge for the theory and compares
+Cardy's formula with the Bekenstein-Hawking entropy. It turns out that the
+functional form does agree, but the overall numerical coefficient does not.
+This is because this approach gives the "maximum possible entropy" for the
+numerical coefficient.
+\\

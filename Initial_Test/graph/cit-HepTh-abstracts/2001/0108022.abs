@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0108022
+From: Jorge Gamboa <jgamboa@lauca.usach.cl>
+Date: Sat, 4 Aug 2001 16:01:39 GMT   (8kb)
+Date (revised v2): Mon, 20 Aug 2001 18:27:35 GMT   (8kb)
+Date (revised v3): Wed, 22 Aug 2001 16:16:58 GMT   (8kb)
+
+Title: Nonrelativistic Fermions in Magnetic Fields: a Quantum Field Theory
+  Approach
+Authors: O. Espinosa, J. Gamboa, S. Lepe and F. Mendez
+Comments: typos corrected
+Journal-ref: Phys.Lett. B520 (2001) 421-426
+\\
+  The statistical mechanics of nonrelativistic fermions in a constant magnetic
+field is considered from the quantum field theory point of view. The fermionic
+determinant is computed using a general procedure that contains all possible
+regularizations. The nonrelativistic grand-potential can be expressed in terms
+polylogarithm functions, whereas the partition function in 2+1 dimensions and
+vanishing chemical potential can be compactly written in terms of the Dedekind
+eta function. The strong and weak magnetic fields limits are easily studied in
+the latter case by using the duality properties of the Dedekind function.
+\\

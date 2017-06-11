@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9603012
+From: "walter troost" <Walter.Troost@fys.kuleuven.ac.be>
+Date: Mon, 4 Mar 96 15:55:32 CET   (67kb)
+Date (revised): Fri, 14 Jun 96 10:37:40 CET
+
+Title: The BPHZ renormalised BV master equation and Two-loop Anomalies in
+  Chiral Gravities
+Authors: Frank De Jonghe, Jordi Paris and Walter Troost
+Comments: 44 pages, LaTex. 4 figures, epsf. Discussion in section 4 extended,
+  assorted small modifications, 3 references added. As it will be published in
+  NPB
+Report-no: KUL-TF-96/4; NIKHEF-96-009
+Journal-ref: Nucl.Phys. B476 (1996) 559-610
+\\
+  Anomalies and BRST invariance are governed, in the context of Lagrangian
+Batalin-Vilkovisky quantization, by the master equation, whose classical limit
+is $(S, S)=0$. Using Zimmerman's normal products and the BPHZ renormalisation
+method, we obtain a corresponding local quantum operator equation, which is
+valid to all orders in perturbation theory. The formulation implies a
+calculational method for anomalies to all orders that is useful also outside
+the BV context and that remains completely within regularised perturbation
+theory. It makes no difference in principle whether the anomaly appears at one
+loop or at higher loops. The method is illustrated by computing the one- and
+two-loop anomalies in chiral $W_3$ gravity.
+\\

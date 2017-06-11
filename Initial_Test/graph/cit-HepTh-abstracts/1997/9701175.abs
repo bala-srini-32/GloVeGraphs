@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9701175
+From: Theory Group Associate <skarke@zerbina.ph.utexas.edu>
+Date: Wed, 29 Jan 1997 17:51:40 -0600 (CST)   (28kb)
+
+Title: Calabi-Yau 4-folds and toric fibrations
+Authors: M. Kreuzer and H. Skarke
+Comments: 20 pages, LaTeX2e
+Report-no: TUW-96/23, UTTG-03-97
+Subj-class: High Energy Physics - Theory; Algebraic Geometry
+Journal-ref: J.Geom.Phys. 26 (1998) 272-290
+\\
+  We present a general scheme for identifying fibrations in the framework of
+toric geometry and provide a large list of weights for Calabi--Yau 4-folds. We
+find 914,164 weights with degree $d\le150$ whose maximal Newton polyhedra are
+reflexive and 525,572 weights with degree $d\le4000$ that give rise to weighted
+projective spaces such that the polynomial defining a hypersurface of trivial
+canonical class is transversal. We compute all Hodge numbers, using Batyrev's
+formulas (derived by toric methods) for the first and Vafa's fomulas (obtained
+by counting of Ramond ground states in N=2 LG models) for the latter class,
+checking their consistency for the 109,308 weights in the overlap. Fibrations
+of k-folds, including the elliptic case, manifest themselves in the N lattice
+in the following simple way: The polyhedron corresponding to the fiber is a
+subpolyhedron of that corresponding to the k-fold, whereas the fan determining
+the base is a linear projection of the fan corresponding to the k-fold.
+\\

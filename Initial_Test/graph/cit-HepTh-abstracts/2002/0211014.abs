@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0211014
+From: Ellwanger <Ulrich.Ellwanger@th.u-psud.fr>
+Date: Mon, 4 Nov 2002 11:39:09 GMT   (19kb)
+Date (revised v2): Tue, 11 Feb 2003 09:27:34 GMT   (20kb)
+
+Title: Confinement and Mass Gap in Abelian Gauge
+Authors: U. Ellwanger, N. Wschebor
+Comments: Explanations added, to appear in Eur. Phys. J. C
+Report-no: LPT Orsay 02-72
+\\
+  First, we present a simple confining abelian pure gauge theory. Classically,
+its kinetic term is not positive definite, and it contains a simple UV
+regularized F^4 interaction. This provoques the formation of a condensate ~ F^2
+such that, at the saddle point of the effective potential, the wave function
+normalization constant of the abelian gauge fields vanishes exactly. Then we
+study SU(2) pure Yang-Mills theory in an abelian gauge and introduce an
+additional auxiliary field for a BRST invariant condensate of dimension 2,
+which renders the charged sector massive. Under simple assumptions its
+effective low energy theory reduces to the confining abelian model discussed
+before, and the vev of rho is seen to scale correctly with the renormalization
+point. Under these assumptions, the confinement condition Z_eff = 0 also holds
+for the massive charged sector, which suppresses the couplings of the charged
+fields to the abelian gauge bosons in the infrared regime.
+\\

@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9909190
+From: Anton Galajinsky <galajin@itp.uni-hannover.de>
+Date: Mon, 27 Sep 1999 20:22:53 GMT   (6kb)
+Date (revised v2): Mon, 6 Mar 2000 16:36:50 GMT   (6kb)
+
+Title: Consistent Batalin--Fradkin quantization of Infinitely Reducible First
+  Class Constraints
+Authors: Stefano Bellucci and Anton Galajinsky (INFN, Frascati)
+Comments: 5 pages, LaTex. Minor corrections including the title. The version to
+  appear in Phys. Rev. D
+Journal-ref: Phys.Rev. D62 (2000) 027501
+\\
+  We reconsider the problem of BRST quantization of a mechanics with infinitely
+reducible first class constraints. Following an earlier recipe [Phys. Lett. B
+381, 105, (1996)], the original phase space is extended by purely auxiliary
+variables, the constraint set in the enlarged space being first stage of
+reducibility. The BRST charge involving only a finite number of ghost variables
+is explicitly constructed.
+\\

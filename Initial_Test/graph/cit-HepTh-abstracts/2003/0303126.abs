@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0303126
+From: Jesper Jacobsen <jacobsen@ipno.in2p3.fr>
+Date: Fri, 14 Mar 2003 07:08:02 GMT   (33kb)
+Date (revised v2): Wed, 7 May 2003 14:08:24 GMT   (33kb)
+
+Title: Parafermionic theory with the symmetry Z_N, for N odd
+Authors: Vladimir S Dotsenko, Jesper Lykke Jacobsen, Raoul Santachiara
+Comments: 34 pages, 1 figure. v2: note added in proof
+Proxy: ccsd ccsd-00000238
+\\
+  We construct a parafermionic conformal theory with the symmetry Z_N, for N
+odd, based on the second solution of Fateev-Zamolodchikov for the corresponding
+parafermionic chiral algebra. Primary operators are classified according to
+their transformation properties under the dihedral group D_N, as singlet,
+doublet 1,2,...,(N-1)/2, and disorder operators. In an assumed Coulomb gas
+scenario, the corresponding vertex operators are accommodated by the weight
+lattice of the Lie algebra B_(N-1)/2. The unitary theories are representations
+of the coset SO_n(N) x SO_2(N) / SO_{n+2}(N), with n=1,2,... . Physically, they
+realise the series of multicritical points in statistical theories having a D_N
+symmetry.
+\\

@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9802185
+From: Gregory Moore <moore@castalia.physics.yale.edu>
+Date: Thu, 26 Feb 1998 03:01:45 GMT   (49kb)
+Date (revised v2): Sun, 3 May 1998 18:10:37 GMT   (50kb)
+
+Title: The Donaldson-Witten function for gauge groups of rank larger than one
+Authors: Marcos Marino and Gregory Moore
+Comments: 58 pages, harvmac b-mode. Important corrections in sections 9.3 and
+  11.3
+Report-no: YCTP-P3-98
+Journal-ref: Commun.Math.Phys. 199 (1998) 25-69
+\\
+  We study correlation functions in topologically twisted $\CN=2, d=4$
+supersymmetric Yang-Mills theory for gauge groups of rank larger than one on
+compact four-manifolds $X$. We find that the topological invariance of the
+generator of correlation functions of BRST invariant observables is not spoiled
+by noncompactness of field space. We show how to express the correlators on
+simply connected manifolds of $b_{2,+}(X)>0$ in terms of Seiberg-Witten
+invariants and the classical cohomology ring of $X$. For manifolds $X$ of
+simple type and gauge group SU(N) we give explicit expressions of the
+correlators as a sum over $\CN=1$ vacua. We describe two applications of our
+expressions, one to superconformal field theory and one to large $N$ expansions
+of SU(N) $\CN=2, d=4$ supersymmetric Yang-Mills theory.
+\\

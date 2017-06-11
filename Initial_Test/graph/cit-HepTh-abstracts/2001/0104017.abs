@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0104017
+From: Martin Rocek <rocek@insti.physics.sunysb.edu>
+Date: Mon, 2 Apr 2001 21:30:49 GMT   (21kb)
+Date (revised v2): Tue, 10 Apr 2001 21:53:29 GMT   (19kb)
+Date (revised v3): Thu, 26 Apr 2001 16:51:17 GMT   (19kb)
+Date (revised v4): Wed, 13 Jun 2001 15:11:57 GMT   (19kb)
+
+Title: Noncommutative Solitons: Moduli Spaces, Quantization, Finite Theta
+  Effects and Stability
+Authors: L. Hadasz, U. Lindstrom, M. Rocek and R. von Unge
+Comments: Second revision: Discussions of translation zero-modes in section 4
+  and scales in section 5 improved; web addresses of movies changed. First
+  revision: Section 6 is rewritten (thanks to M. Headrick for pointing out a
+  mistake in the original version); some references and acknowledgements added.
+  21 pages, JHEP style, Hypertex, 1 figure, 3 MPEG's at:
+  http://www.physto.se/~unge/traj1.mpg http://www.physto.se/~unge/traj2.mpg
+  http://www.physto.se/~unge/traj3.mpg
+Report-no: YITP-SB-01-13
+Journal-ref: JHEP 0106 (2001) 040
+\\
+  We find the N-soliton solution at infinite theta, as well as the metric on
+the moduli space corresponding to spatial displacements of the solitons. We use
+a perturbative expansion to incorporate the leading 1/theta corrections, and
+find an effective short range attraction between solitons. We study the
+stability of various solutions. We discuss the finite theta corrections to
+scattering, and find metastable orbits. Upon quantization of the two-soliton
+moduli space, for any finite theta, we find an s-wave bound state.
+\\

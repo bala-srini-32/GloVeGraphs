@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9505040
+From: "Poul H. Damgaard, NBI" <PHDAMG@nbivax.nbi.dk>
+Date: Mon, 08 May 1995 13:42:51 +0200   (15kb)
+
+Title: BRST Gauge Fixing and Regularization
+Authors: P.H. Damgaard, F. De Jonghe and R. Sollacher
+Comments: LaTeX, 12 pages
+Report-no: UUITP-8/95, NIKHEF-H 95-017
+Journal-ref: Nucl. Phys. B454 (1995) 701
+\\
+  In the presence of consistent regulators, the standard procedure of BRST
+gauge fixing (or moving from one gauge to another) can require non-trivial
+modifications. These modifications occur at the quantum level, and gauges exist
+which are only well-defined when quantum mechanical modifications are correctly
+taken into account. We illustrate how this phenomenon manifests itself in the
+solvable case of two-dimensional bosonization in the path-integral formalism.
+As a by-product, we show how to derive smooth bosonization in
+Batalin-Vilkovisky Lagrangian BRST quantization.
+\\

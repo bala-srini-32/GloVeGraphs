@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9609036
+From: Joachim Maeder <maeder@gluon.physik.uni-kl.de>
+Date: Tue, 3 Sep 1996 16:29:13 +0200 (MET DST)   (19kb)
+
+Title: Perturbative approach to the critical behaviour of two-matrix models in
+  the limit N -> infinity
+Authors: S. Balaska, J. Maeder, W. Ruehl
+Comments: 23 pages, LateX
+Journal-ref: Nucl.Phys. B486 (1997) 673-695
+\\
+  We construct representations of the Heisenberg algebra by pushing the
+perturbation expansion to high orders. If the multiplication operators
+$B_{1,2}$ tend to differential operators of order $l_{2,1}$, respectively, the
+singularity is characterized by $(l _{1},l_{2})$. Let $l_{1} \geq l_{2}$. Then
+the two cases A : ``$l_{2}$ does not divide $l_{1}$'' and B : ``$l_{2}$ divides
+$l_{1}$'' need a different treatment. The universality classes are labelled
+$[p,q]$ where $[p,q]$=[$l_{1}$,$l_{2}$] in case A and
+$[p,q]$=[$l_{1}+1$,$l_{2}$] in case B.
+\\

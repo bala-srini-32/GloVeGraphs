@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9710077
+From: Sharon Jensen <sharon@SLAC.Stanford.EDU>
+Date: Wed, 8 Oct 1997 20:10:35 GMT   (10kb)
+Date (revised v2): Tue, 30 Jun 1998 23:01:31 GMT   (16kb)
+Date (revised v3): Mon, 21 Jun 1999 23:39:54 GMT   (17kb)
+
+Title: Solution of a Relativistic Three-Body Problem
+Author: H. Pierre Noyes and E. D. Jones
+Comments: The second revision of this paper is minor, pointing out that the
+  theory presented here is not Hamiltonian quantum mechanics but has instead
+  the dispersion-theoretic foundation discussed extensively in HPN, Phys. Rev.
+  C26, 1858-1877 (1982)
+Report-no: SLAC-PUB-7609(rev2)
+Journal-ref: Few Body Syst. 27 (1999) 123-139
+\\
+  Starting from a relativistic s-wave scattering length model for the two
+particle input we construct an unambiguous, unitary solution of the
+relativistic three body problem given only the masses $m_a,m_b,m_c$ and the
+masses of the two body bound states $\mu_{bc},\mu_{ca},\mu_{ab}$.
+\\

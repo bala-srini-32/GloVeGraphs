@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9905201
+From: Juergen Baacke <baacke@zx2.hrz.uni-dortmund.de>
+Date: Thu, 27 May 1999 09:13:32 GMT   (13kb)
+Date (revised v2): Wed, 2 Jun 1999 15:38:13 GMT   (14kb)
+Date (revised v3): Thu, 29 Jul 1999 07:50:45 GMT   (14kb)
+
+Title: Gauge invariance of the one-loop effective action of the Higgs field in
+  the SU(2) Higgs model
+Authors: J. Baacke and K. Heitmann
+Comments: 20 pages, uses latexsym, preprint number and some typos corrected,
+  some comments added in section 6; some further misprints corrected
+Report-no: DO-TH-99/08
+Journal-ref: Phys.Rev. D60 (1999) 105037
+\\
+  The one-loop effective action of the abelian and nonabelian Higgs models has
+been studied in various gauges, in the context of instanton and sphaleron
+transition, bubble nucleation and most recently in nonequilibrium dynamics.
+Gauge invariance is expected on account of Nielsen' s theorem, if the classical
+background field is an extremum of the classical action, i.e., a solution of
+the classical equation of motion. We substantiate this general statement for
+the one-loop effective action, as computed using mode functions. We show that
+in the gauge-Higgs sector there are two types of modes that satisfy the same
+equation of motion as the Faddeev-Popov modes. We apply the general analysis to
+the computation of the fluctuation determinant for bubble nucleation in the
+SU(2) Higgs model in the 't Hooft gauge with general gauge parameter $\xi$. We
+show that due to the cancellation of the modes mentioned above the fluctuation
+determinant is independent of $\xi$.
+\\

@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9901079
+From: Leonard Susskind <susskind@sewerrat.stanford.edu>
+Date: Tue, 19 Jan 1999 22:14:21 GMT   (16kb)
+
+Title: Holography in the Flat Space Limit
+Authors: Leonard Susskind
+\\
+  Matrix theory and the AdS/CFT correspondence provide nonperturbative
+holographic formulations of string theory. In both cases the finite N theories
+can be thought of as infrared regulated versions of flat space string theory in
+which removing the cutoff is equivalent to letting N go to infinity.
+  In this paper we consider the nature of this limit. In both cases the
+holographic mapping becomes completely nonlocal. In matrix theory this
+corresponds to the growth of D0-brane bound states with N. For the AdS/CFT
+correspondence there is a similar delocalization of the holographic image of a
+system as N increases. In this case the limiting theory seems to require a
+number of degrees of freedom comparable to large N matrix quantum mechanics.
+\\

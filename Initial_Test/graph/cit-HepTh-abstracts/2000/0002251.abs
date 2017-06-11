@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0002251
+From: Dean Lee <dlee@het2.physics.umass.edu>
+Date: Tue, 29 Feb 2000 13:32:10 GMT   (12kb)
+Date (revised v2): Thu, 6 Apr 2000 22:51:44 GMT   (12kb)
+Date (revised v3): Fri, 2 Jun 2000 20:06:14 GMT   (13kb)
+Date (revised v4): Tue, 24 Oct 2000 18:40:01 GMT   (157kb)
+
+Title: The diagonalization of quantum field Hamiltonians
+Author: Dean Lee (UMass Amherst), Nathan Salwen (Harvard), Daniel Lee (Bell
+  Labs)
+Comments: 12 pages, 8 figures, new material added
+Journal-ref: Phys.Lett. B503 (2001) 223-235
+\\
+  We introduce a new diagonalization method called quasi-sparse eigenvector
+diagonalization which finds the most important basis vectors of the low energy
+eigenstates of a quantum Hamiltonian. It can operate using any basis, either
+orthogonal or non-orthogonal, and any sparse Hamiltonian, either Hermitian,
+non-Hermitian, finite-dimensional, or infinite-dimensional. The method is part
+of a new computational approach which combines both diagonalization and Monte
+Carlo techniques.
+\\

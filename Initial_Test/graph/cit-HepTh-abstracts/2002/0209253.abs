@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0209253
+From: Raimar Wulkenhaar <raimar.wulkenhaar@mis.mpg.de>
+Date: Mon, 30 Sep 2002 14:37:20 GMT   (16kb)
+Date (revised v2): Tue, 22 Oct 2002 14:48:56 GMT   (17kb)
+Date (revised v3): Tue, 18 Mar 2003 10:14:41 GMT   (16kb)
+
+Title: Space/time noncommutative field theories and causality
+Authors: H. Bozkaya, P. Fischer, H. Grosse, M. Pitschmann, V. Putz, M. Schweda,
+  R. Wulkenhaar
+Comments: 16 pages, LaTeX, uses feynmf macros, one reference added; ooops,
+  version 2 was an older one!
+Report-no: TUW-02-18
+\\
+  As argued previously, amplitudes of quantum field theories on noncommutative
+space and time cannot be computed using naive path integral Feynman rules. One
+of the proposals is to use the Gell-Mann--Low formula with time-ordering
+applied before performing the integrations. We point out that the previously
+given prescription should rather be regarded as an interaction point
+time-ordering. Causality is explicitly violated inside the region of
+interaction. It is nevertheless a consistent procedure, which seems to be
+related to the interaction picture of quantum mechanics. In this framework we
+compute the one-loop self-energy for a space/time noncommutative \phi^4 theory.
+Although in all intermediate steps only three-momenta play a role, the final
+result is manifestly Lorentz covariant and agrees with the naive calculation.
+Deriving the Feynman rules for general graphs, we show, however, that such a
+picture holds for tadpole lines only.
+\\

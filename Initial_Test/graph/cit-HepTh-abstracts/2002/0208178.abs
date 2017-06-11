@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0208178
+From: Niklas Beisert <nbeisert@aei.mpg.de>
+Date: Mon, 26 Aug 2002 19:34:12 GMT   (137kb)
+Date (revised v2): Tue, 17 Dec 2002 10:34:40 GMT   (138kb)
+
+Title: BMN Correlators and Operator Mixing in N=4 Super Yang-Mills Theory
+Authors: N. Beisert, C. Kristjansen, J. Plefka, G.W. Semenoff, M. Staudacher
+Comments: 44 pages, 10 figures; v2: minor changes, to appear in Nucl. Phys. B
+Report-no: AEI 2002-061
+Journal-ref: Nucl.Phys. B650 (2003) 125-161
+\\
+  Correlation functions in perturbative N=4 supersymmetric Yang-Mills theory
+are examined in the Berenstein-Maldacena-Nastase (BMN) limit. We demonstrate
+that non-extremal four-point functions of chiral primary fields are ill-defined
+in that limit. This lends support to the assertion that only gauge theoretic
+two-point functions should be compared to pp-wave strings. We further refine
+the analysis of the recently discovered non-planar corrections to the planar
+BMN limit. In particular, a full resolution to the genus one operator mixing
+problem is presented, leading to modifications in the map between BMN operators
+and string states. We give a perturbative construction of the correct operators
+and we identify their anomalous dimensions. We also distinguish symmetric,
+antisymmetric and singlet operators and find, interestingly, the same torus
+anomalous dimension for all three. Finally, it is discussed how operator mixing
+effects modify three point functions at the classical level and, at one loop,
+allow us to recover conformal invariance.
+\\

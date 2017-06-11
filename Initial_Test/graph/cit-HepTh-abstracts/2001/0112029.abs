@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0112029
+From: Calin Iuliu Lazaroiu <calin@insti.physics.sunysb.edu>
+Date: Tue, 4 Dec 2001 19:26:06 GMT   (65kb)
+
+Title: Gauge-fixing, semiclassical approximation and potentials for graded
+  Chern-Simons theories
+Authors: C. I. Lazaroiu, R. Roiban
+Comments: 46 pages, 4 figures
+Report-no: YITP-SB 01-63
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+Journal-ref: JHEP 0203 (2002) 022
+\\
+  We perform the Batalin-Vilkovisky analysis of gauge-fixing for graded
+Chern-Simons theories. Upon constructing an appropriate gauge-fixing fermion,
+we implement a Landau-type constraint, finding a simple form of the gauge-fixed
+action. This allows us to extract the associated Feynman rules taking into
+account the role of ghosts and antighosts. Our gauge-fixing procedure allows
+for zero-modes, hence is not limited to the acyclic case. We also discuss the
+semiclassical approximation and the effective potential for massless modes,
+thereby justifying some of our previous constructions in the Batalin-Vilkovisky
+approach.
+\\

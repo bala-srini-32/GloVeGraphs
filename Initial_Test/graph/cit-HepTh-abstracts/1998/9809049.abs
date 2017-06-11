@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9809049
+From: Dmitrij Fursaev <fursaev@thsun1.jinr.ru>
+Date: Tue, 8 Sep 1998 13:20:06 GMT   (16kb)
+
+Title: Energy, Hamiltonian, Noether Charge, and Black Holes
+Authors: D.V. Fursaev
+Comments: 20 pages, latex, no figures
+Journal-ref: Phys.Rev. D59 (1999) 064020
+\\
+  It is shown that in general the energy ${\cal E}$ and the Hamiltonian ${\cal
+H}$ of matter fields on the black hole exterior play different roles. ${\cal
+H}$ is a generator of the time evolution along the Killing time while ${\cal
+E}$ enters the first law of black hole thermodynamics. For non-minimally
+coupled fields the difference ${\cal H}-{\cal E}$ is not zero and is a Noether
+charge $Q$ analogous to that introduced by Wald to define the black hole
+entropy. If fields vanish at the spatial boundary, $Q$ is reduced to an
+integral over the horizon. The analysis is carried out and an explicit
+expression for $Q$ is found for general diffeomorphism invariant theories. As
+an extension of the results by Wald et al, the first law of black hole
+thermodynamics is derived for arbitrary weak matter fields.
+\\

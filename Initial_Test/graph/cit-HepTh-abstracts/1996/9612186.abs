@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9612186
+From: Juan Carlos Perez Bueno <pbueno@lie.ific.uv.es>
+Date: Wed, 18 Dec 1996 11:10:08 MET   (19kb)
+Date (revised): Sat, 05 Apr 1997 18:22:53 METDST
+
+Title: The Z_2-graded Schouten-Nijenhuis bracket and generalized super-Poisson
+  structures
+Authors: J. A. de Azcarraga, J. M. Izquierdo, A. M. Perelomov and J. C. Perez
+  Bueno
+Comments: Latex/RevTeX file. 25 pages. Minor corrections and references added.
+  To appear in J. Math. Phys
+Report-no: DAMTP/96-99, FTUV/96-75, IFIC/96-84
+Subj-class: High Energy Physics - Theory; Differential Geometry; Quantum
+  Algebra
+Journal-ref: J.Math.Phys. 38 (1997) 3735-3749
+\\
+  The super or Z_2-graded Schouten-Nijenhuis bracket is introduced. Using it,
+new generalized super-Poisson structures are found which are given in terms of
+certain graded-skew-symmetric contravariant tensors \Lambda of even order. The
+corresponding super `Jacobi identities' are expressed by stating that these
+tensors have zero super Schouten-Nijenhuis bracket with themselves
+[\Lambda,\Lambda]=0. As a particular case, we provide the linear generalized
+super-Poisson structures which can be constructed on the dual spaces of simple
+superalgebras with a non-degenerate Killing metric. The su(3,1) superalgebra is
+given as a generic example.
+\\

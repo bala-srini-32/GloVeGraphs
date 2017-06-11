@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0203273
+From: Bayram Tekin <tekin@vey.het.brandeis.edu>
+Date: Thu, 28 Mar 2002 20:56:18 GMT   (8kb)
+Date (revised v2): Wed, 3 Apr 2002 21:13:47 GMT   (8kb)
+
+Title: Massive, Topologically Massive, Models
+Authors: S. Deser, Bayram Tekin
+Comments: 7 pages, typos corrected, reference added
+Report-no: BRX-TH-499
+Journal-ref: Class.Quant.Grav. 19 (2002) L97-L100
+\\
+  In three dimensions, there are two distinct mass-generating mechanisms for
+gauge fields: adding the usual Proca/Pauli-Fierz, or the more esoteric
+Chern-Simons (CS), terms. Here we analyze the three-term models where both
+types are present, and their various limits. Surprisingly, in the tensor case,
+these seemingly innocuous systems are physically unacceptable. If the sign of
+the Einstein term is ``wrong'' as is in fact required in the CS case, then the
+excitation masses are always complex; with the usual sign, there is a (known)
+region of the two mass parameters where reality is restored, but instead we
+show that a ghost problem arises, while, for the ``pure mass'' two-term system
+without an Einstein action, complex masses are unavoidable. This contrasts with
+the smooth behavior of the corresponding vector models. Separately, we show
+that the ``partial masslessness'' exhibited by (plain) massive spin-2 models in
+de Sitter backgrounds is formally shared by the three-term system: it also
+enjoys a reduced local gauge invariance when this mass parameter is tuned to
+the cosmological constant.
+\\

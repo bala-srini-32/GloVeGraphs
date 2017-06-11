@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9512174
+From: PENATI@mi.infn.it
+Date: Thu, 21 Dec 1995 13:07:06 +0200 (MET)   (21kb)
+
+Title: Classical Versus Quantum Symmetries for Toda Theories with a Nontrivial
+  Boundary Perturbation
+Authors: S. Penati, A. Refolli and D. Zanon
+Comments: 26 pages, latex, no figures
+Report-no: IFUM-522-FT
+Journal-ref: Nucl.Phys. B470 (1996) 396-418
+\\
+  In this paper we present a detailed study of the quantum conservation laws
+for Toda field theories defined on the half plane in the presence of a boundary
+perturbation. We show that total derivative terms added to the currents, while
+irrelevant at the classical level, become important at the quantum level and in
+general modify significantly the quantum boundary conservation. We consider the
+first nontrivial higher--spin currents for the simply laced $a^{(1)}_n $ Toda
+theories: we find that the spin--three current leads to a quantum conserved
+charge only if the boundary potential is appropriately redefined through a
+finite renormalization. Contrary to the expectation we demonstrate instead that
+at spin four the classical symmetry does not survive quantization and we
+suspect that this feature will persist at higher--spin levels. Finally we
+examine the first nontrivial conservations at spin four for the $d^{(2)}_3$ and
+$c^{(1)}_2$ nonsimply laced Toda theories. In these cases the addition of total
+derivative terms to the bulk currents is necessary but sufficient to ensure the
+existence of corresponding quantum exact conserved charges.
+\\

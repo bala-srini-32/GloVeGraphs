@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9502070
+From: Kei-ichi Kondo <kondo@cuphd.nd.chiba-u.ac.jp>
+Date: Mon, 13 Feb 95 17:06:56 JST   (15kb)
+Date (revised): Fri, 17 Feb 95 15:12:43 JST
+Date (revised): Sun, 27 Aug 95 11:42:10 JST
+
+Title: Thirring Model as a Gauge Theory
+Authors: Kei-Ichi Kondo (Chiba University)
+Comments: 18 pages, LaTeX (revised final version, to be published in Nucl.
+  Phys. B)
+Report-no: CHIBA-EP-87-REV
+Journal-ref: Nucl.Phys. B450 (1995) 251-266
+\\
+  We give another reformulation of the Thirring model (with four-fermion
+interaction of the current-current type) as a gauge theory and identify it with
+a gauge-fixed version of the corresponding gauge theory according to the
+Batalin-Fradkin formalism. Based on this formalism, we study the chiral
+symmetry breaking of the $D$-dimensional Thirring model ($2<D<4$) with $N$
+flavors of 4-component fermions. By constructing the gauge covariant effective
+potential for the chiral order parameter, up to the leading order of $1/N$
+expansion, we show the existence of the second order chiral phase transition
+and obtain explicitly the critical number of flavors $N_c$ (resp. critical
+four-fermion coupling $G_c$) as a function of the four-fermion coupling $G$
+(resp. $N$), below (resp. above) which the chiral symmetry is spontaneously
+broken.
+\\

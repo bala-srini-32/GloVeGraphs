@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9509098
+From: Stam Nicolis <nicolis@celfi.phys.univ-tours.fr>
+Date: Mon, 18 Sep 1995 16:17:49 +0100   (12kb)
+Date (revised): Sun, 10 Nov 1996 20:48:12 GMT
+
+Title: Holomorphic Quantization on the Torus and Finite Quantum Mechanics
+Authors: G. G. Athanasiu, E. G. Floratos and S. Nicolis
+Comments: 12 pages LaTeX (needs amssymb.sty). Version as will appear in J.
+  Phys. A
+Report-no: LPTENS 95/43; LMPM 95/12
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+Journal-ref: J.Phys. A29 (1996) 6737
+\\
+  We construct explicitly the quantization of classical linear maps of $SL(2,
+R)$ on toroidal phase space, of arbitrary modulus, using the holomorphic
+(chiral) version of the metaplectic representation. We show that Finite Quantum
+Mechanics (FQM) on tori of arbitrary integer discretization, is a consistent
+restriction of the holomorphic quantization of $SL(2, Z)$ to the subgroup
+$SL(2, Z)/\Gamma_l$, $\Gamma_l$ being the principal congruent subgroup mod l,
+on a finite dimensional Hilbert space. The generators of the ``rotation group''
+mod l, $O_{l}(2)\subset SL(2,l)$, for arbitrary values of l are determined as
+well as their quantum mechanical eigenvalues and eigenstates.
+\\

@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9601043
+From: Shinsuke Nishigaki <shinsuke@alf.nbi.dk>
+Date: Wed, 10 Jan 1996 20:39:33 +0100 (MET)   (21kb)
+Date (revised): Thu, 7 Mar 1996 13:27:09 +0100 (MET)
+
+Title: Wilsonian Approximated Renormalization Group for Matrix and Vector
+  Models in 2<d<4
+Author: S. Nishigaki (Niels Bohr Inst.)
+Comments: 11 pages, 2 PostScript figures, LaTeX + epsf.tex. Remarks on
+  subleading exponents supplemented. To be published in Phys.Lett.B
+Report-no: NBI-HE-96-01
+Journal-ref: Phys.Lett. B376 (1996) 73-81
+\\
+  Wilson's approximation scheme of RG recursion formula dropping momentum
+dependence of the propagators is applied to large-$N$ vector and matrix models
+in dimensions $2<d<4$ by making use of their exact solutions in zero dimension.
+In spite of apparent dependence of critical exponents upon the dilatational
+parameter $\rho$ involved by the approximation, the exact exponents are
+reproduced for vector models in the limit $\rho\rightarrow 0$. Application to
+matrix models is then reexamined after the same fashion. It predicts critical
+exponents $\nu=2/d$ and $\eta=2-d/2$ for the $\tr \Phi^4$ matrix model.
+\\

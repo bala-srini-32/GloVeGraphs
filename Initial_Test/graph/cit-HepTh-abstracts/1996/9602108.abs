@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9602108
+From: George Papadopoulos <G.Papadopoulos@damtp.cam.ac.uk>
+Date: Tue, 20 Feb 96 15:18:36 GMT   (10kb)
+
+Title: Twistor spaces for HKT manifolds
+Authors: P.S. Howe and G. Papadopoulos
+Comments: 15 pages, Phyzzx
+Report-no: R/96/4, CERN-TH/96-46
+Journal-ref: Phys.Lett. B379 (1996) 80-86
+\\
+  We construct the twistor space associated with an HKT manifold, that is, a
+hyper-K\"ahler manifold with torsion, a type of geometry that arises as the
+target space geometry in two-dimensional sigma models with (4,0) supersymmetry.
+We show that this twistor space has a natural complex structure and is a
+holomorphic fibre bundle over the complex projective line with fibre the
+associated HKT manifold. We also show how the metric and torsion of the HKT
+manifold can be determined from data on the twistor space by a reconstruction
+theorem. We give a geometric description of the sigma model (4,0) superfields
+as holomorphic maps (suitably understood) from a twistorial extension of (4,0)
+superspace (harmonic superspace) into the twistor space of the sigma model
+target manifold and write an action for the sigma model in terms of these (4,0)
+superfields.
+\\

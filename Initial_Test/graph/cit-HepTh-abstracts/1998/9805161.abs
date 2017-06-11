@@ -1,0 +1,18 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9805161
+From: horvathy@celfi.phys.univ-tours.fr (Peter Horvathy)
+Date: Mon, 25 May 1998 11:46:09 GMT   (9kb)
+
+Title: Vortex solutions of the Liouville equation
+Authors: P. A. Horv\'athy and J.-C. Y\'era
+Comments: 11 pages, Plain Tex, no figures
+Journal-ref: Lett.Math.Phys. 46 (1998) 111-120
+\\
+  The most general vortex solution of the Liouville equation (which arises in
+non-relativistic Chern-Simons theory) is associated with rational functions,
+$f(z)=P(z)/Q(z)$ where $P(z)$ and $Q(z)$ are both polynomials, $\deg P<\deg
+Q\equiv N$. This allows us to prove that the solution depends on $4N$
+parameters without the use of an index theorem, as well as the flux
+quantization~: $\Phi=-4N\pi(sign \kappa)$.
+\\

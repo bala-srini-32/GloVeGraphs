@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9910262
+From: Satoshi Iso <iso@ccthmail.kek.jp>
+Date: Mon, 1 Nov 1999 09:19:57 GMT   (19kb)
+
+Title: Scaling Behaviors of Branched Polymers
+Authors: Hajime Aoki, Satoshi Iso, Hikaru Kawai and Yoshihisa Kitazawa
+Comments: 17 pages, 3 figures
+Journal-ref: Phys.Rev. E62 (2000) 6260-6269
+\\
+  We study the thermodynamic behavior of branched polymers. We first study
+random walks in order to clarify the thermodynamic relation between the
+canonical ensemble and the grand canonical ensemble. We then show that
+correlation functions for branched polymers are given by those for $\phi^3$
+theory with a single mass insertion, not those for the $\phi^3$ theory
+themselves. In particular, the two-point function behaves as $1/p^4$, not as
+$1/p^2$, in the scaling region. This behavior is consistent with the fact that
+the Hausdorff dimension of the branched polymer is four.
+\\

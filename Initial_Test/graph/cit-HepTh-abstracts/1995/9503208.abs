@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9503208
+From: drm@math.duke.edu (David R. Morrison)
+Date: Wed, 29 Mar 95 12:52:48 EST   (31kb)
+
+Title: Stable Singularities in String Theory
+Authors: Paul S. Aspinwall and David R. Morrison (with an appendix by Mark
+  Gross)
+Comments: 25 pages and 3 figures, LaTeX with epsf
+Report-no: CLNS-95/1325, DUKE-TH-95-89
+Subj-class: High Energy Physics - Theory; Algebraic Geometry
+Journal-ref: Commun.Math.Phys. 178 (1996) 115-134
+\\
+  We study a topological obstruction of a very stringy nature concerned with
+deforming the target space of an $N=2$ non-linear \sm. This target space has a
+singularity which may be smoothed away according to the conventional rules of
+geometry but when one studies the associated conformal field theory one sees
+that such a deformation is not possible without a discontinuous change in some
+of the correlation functions. This obstruction appears to come from torsion in
+the homology of the target space (which is seen by deforming the theory by an
+irrelevant operator). We discuss the link between this phenomenon and orbifolds
+with discrete torsion as studied by Vafa and Witten.
+\\

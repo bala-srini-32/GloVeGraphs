@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0112097
+From: Andreas Fring <fring@physik.fu-berlin.de>
+Date: Tue, 11 Dec 2001 21:07:47 GMT   (17kb)
+
+Title: Mutually local fields from form factors
+Authors: O.A. Castro-Alvaredo and A. Fring
+Comments: 16 pages Latex
+Journal-ref: Int.J.Mod.Phys. B16 (2002) 1915-1924
+\\
+  We compare two different methods of computing form factors. One is the well
+established procedure of solving the form factor consistency equations and the
+other is to represent the field content as well as the particle creation
+operators in terms of fermionic Fock operators. We compute the corresponding
+matrix elements for the complex free fermion and the Federbush model. The
+matrix elements only satisfy the form factor consistency equations involving
+anyonic factors of local commutativity when the corresponding operators are
+local. We carry out the ultraviolet limit, analyze the momentum space cluster
+properties and demonstrate how the Federbush model can be obtained from the
+$SU(3)_3$-homogeneous sine-Gordon model. We propose a new class of Lagrangians
+which constitute a generalization of the Federbush model in a Lie algebraic
+fashion. For these models we evaluate the associated scattering matrices from
+first principles, which can alternatively also be obtained in a certain limit
+of the homogeneous sine-Gordon models.
+\\

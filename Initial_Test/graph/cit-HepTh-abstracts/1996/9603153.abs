@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9603153
+From: pmcgraw@theory.caltech.edu (Patrick McGraw)
+Date: Sat, 23 Mar 96 14:54:31 PST   (75kb)
+
+Title: Dynamical Simulation of Non-Abelian Cosmic Strings
+Author: Patrick McGraw
+Comments: 53 pages, 28 figures, uses epsf, phyzzx macros included
+Report-no: CALT-68-2044
+\\
+  We describe a method for simulating the dynamics of an $S_3$ cosmic string
+network. We use a lattice Monte Carlo to generate initial conditions for the
+network, which subsequently is allowed to relax continuously according to a
+simplified model of string dynamics. The dynamics incorporates some novel
+features which, to our knowledge, have not been studied in previous numerical
+simulations: The existence of two types of string which may have different
+tensions, and the possibility that two non-commuting strings may intersect.
+Simulation of the non-commuting fluxes presents a computational challenge as it
+requires a rather complex gauge-fixing procedure. The flux definitions change
+as strings change their positions and orientations relative to each other and
+must be carefully updated as the network evolves. The method is described here
+in some detail, with results to be presented elsewhere.
+\\

@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9510183
+From: Thoru Eguchi <eguchi@danjuro.phys.s.u-tokyo.ac.jp>
+Date: Wed, 25 Oct 1995 17:08:39 +0900   (7kb)
+Date (revised): Fri, 27 Oct 1995 20:56:24 +0900
+
+Title: Prepotentials of $N=2$ Supersymmetric Gauge Theories and Soliton
+  Equations
+Authors: Tohru Eguchi and Sung-Kil Yang
+Comments: 10 pages, latex, no figures, a reference added
+Report-no: UT-728
+Journal-ref: Mod.Phys.Lett. A11 (1996) 131-138
+\\
+  Using recently proposed soliton equations we derive a basic identity for the
+scaling violation of $N=2$ supersymmetric gauge theories $\sum_i a_i\partial
+F/\partial a_i-2F=8 \pi i b_1 u$. Here $F$ is the prepotential, $a_i$'s are the
+expectation values of the scalar fields in the vector multiplet, $u=1/2\, {\rm
+Tr}\, \langle\phi^2\rangle$ and $b_1$ is the coefficient of the one-loop
+$\beta$-function. This equation holds in the Coulomb branch of all $N=2$
+supersymmetric gauge theories coupled with massless matter.
+\\

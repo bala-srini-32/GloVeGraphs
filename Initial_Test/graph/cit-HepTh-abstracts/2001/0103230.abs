@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0103230
+From: Emery Sokatchev <sokatche@lapp.in2p3.fr>
+Date: Tue, 27 Mar 2001 20:47:58 GMT   (24kb)
+Date (revised v2): Wed, 18 Jul 2001 16:36:16 GMT   (25kb)
+
+Title: Exceptional non-renormalization properties and OPE analysis of chiral
+  four-point functions in N=4 SYM_4
+Authors: G. Arutyunov, B. Eden, A. C. Petkou, E. Sokatchev
+Comments: minor errors corrected, references added
+Report-no: AEI-2001-35, LAPTH-841/01, IFUM-FT-683
+Journal-ref: Nucl.Phys. B620 (2002) 380-404
+\\
+  We show that certain classes of apparently unprotected operators in N=4 SYM_4
+do not receive quantum corrections as a consequence of a partial
+non-renormalization theorem for the 4-point function of chiral primary
+operators. We develop techniques yielding the asymptotic expansion of the
+4-point function of CPOs up to order O(\lambda^2) and we perform a detailed OPE
+analysis. Our results reveal the existence of new non-renormalized operators of
+approximate dimension 6.
+\\

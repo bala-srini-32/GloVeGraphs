@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9905171
+From: "Adolfo Maia Jr." <maia@ime.unicamp.br>
+Date: Mon, 24 May 1999 13:34:16 GMT   (21kb)
+Date (revised v2): Fri, 17 Sep 1999 17:52:42 GMT   (22kb)
+
+Title: Energy Levels of Classical Interacting Fields in a Finite Domain in 1+1
+  Dimension
+Authors: J. A. Espichan Carrillo and A. Maia Jr
+Comments: 20 pages, LaTex, 4 ps-figs; revised version; few small parts changed
+Journal-ref: J.Phys. A33 (2000) 2081-2096
+\\
+  We study the behavior of bound energy levels for the case of two classical
+interacting fields $\phi$ and $\chi$ in a finite domain (box) in (1 + 1)
+dimension on which we impose Dirichlet boundary conditions (DBC). The total
+Lagrangian contain a $\frac{\lambda}{4}\phi^4$ self-interaction and an
+interaction term given by $g \phi^2 \chi^2$. We calculate the energy
+eigenfunctions and its correspondent eigenvalues and study their dependence on
+the size of the box (L) as well on the free parameters of the Lagrangian: mass
+ratio $\beta = \frac{M^{2}_{\chi}}{M^{2}_{\phi}}$, and interaction coupling
+constants $\lambda$ and $g$. We show that for some configurations of the above
+parameters, there exists critical sizes of the box for which instability points
+of the field $\chi$ appear.
+\\

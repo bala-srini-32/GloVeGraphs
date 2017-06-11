@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9601146
+From: pms4 <P.M.Sutcliffe@ukc.ac.uk>
+Date: Fri, 26 Jan 1996 17:42:41 GMT   (78kb)
+
+Title: Tetrahedral and Cubic Monopoles
+Authors: Conor Houghton and Paul Sutcliffe
+Comments: uuencoded latex, 22 pages, 3 figures To appear in Communications in
+  Mathematical Physics
+Report-no: DAMTP 95-13
+Journal-ref: Commun.Math.Phys. 180 (1996) 343-362
+\\
+  Using a numerical implementation of the ADHMN construction, we compute the
+fields and energy densities of a charge three monopole with tetrahedral
+symmetry and a charge four monopole with octahedral symmetry. We then construct
+a one parameter family of spectral curves and Nahm data which represent charge
+four monopoles with tetrahedral symmetry, which includes the monopole with
+octahedral symmetry as a special case. In the moduli space approximation, this
+family describes a novel kind of four monopole scattering and we use our
+numerical scheme to construct the energy density at various times during the
+motion.
+\\

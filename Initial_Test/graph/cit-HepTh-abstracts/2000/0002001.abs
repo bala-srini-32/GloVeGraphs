@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0002001
+From: Hideaki Aoyama <aoyama@phys.h.kyoto-u.ac.jp>
+Date: Tue, 1 Feb 2000 00:00:10 GMT   (13kb)
+Date (revised v2): Wed, 9 Feb 2000 02:18:49 GMT   (13kb)
+Date (revised v3): Thu, 14 Sep 2000 06:03:50 GMT   (13kb)
+Date (revised v4): Sun, 24 Sep 2000 12:53:12 GMT   (14kb)
+
+Title: Space-Time Quantization and Nonlocal Field Theory -Relativistic Second
+  Quantization of Matrix Model
+Authors: Sho Tanaka
+Comments: 22 pages, no figures (plain TeX with PHYZZX macro), Eq.(4.3)
+  corrected, Eq. (5.6) corrected, minor changes of expression in section 5, a
+  footnote on Eq.(5.6) and one reference added
+\\
+  We propose relativistic second quantization of matrix model of D particles in
+a general framework of nonlocal field theory based on Snyder-Yang's quantized
+space-time. Second-quantized nonlocal field is in general noncommutative with
+quantized space-time, but conjectured to become commutative with light cone
+time $X^+$. This conjecture enables us to find second-quantized Hamiltonian of
+D particle system and Heisenberg's equation of motion of second-quantized {\bf
+D} field in close contact with Hamiltonian given in matrix model. We propose
+Hamilton's principle of Lorentz-invariant action of {\bf D} field and
+investigate what conditions or approximations are needed to reproduce the above
+Heisenberg's equation given in light cone time. Both noncommutativities
+appearing in position coordinates of D particles in matrix model and in
+quantized space-time will be eventually unified through second quantization of
+matrix model.
+\\

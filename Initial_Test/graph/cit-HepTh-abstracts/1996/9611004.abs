@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9611004
+From: David Broadhurst <D.Broadhurst@open.ac.uk>
+Date: Sun, 3 Nov 1996 00:21:46 +0000   (14kb)
+
+Title: Evaluations of k-fold Euler/Zagier sums: a compendium of results for
+  arbitrary k
+Authors: J. M. Borwein, D. M. Bradley and D. J. Broadhurst
+Comments: 19 pages, LaTeX
+Journal-ref: Electronic J. Combinatorics, Vol. 4, No. 2 (1997) (Wilf
+  Fetschrift) #R5 
+\\
+  Euler sums (also called Zagier sums) occur within the context of knot theory
+and quantum field theory. There are various conjectures related to these sums
+whose incompletion is a sign that both the mathematics and physics communities
+do not yet completely understand the field. Here, we assemble results for
+Euler/Zagier sums (also known as multidimensional zeta/harmonic sums) of
+arbitrary depth, including sign alternations. Many of our results were obtained
+empirically and are apparently new. By carefully compiling and examining a huge
+data base of high precision numerical evaluations, we can claim with some
+confidence that certain classes of results are exhaustive. While many proofs
+are lacking, we have sketched derivations of all results that have so far been
+proved.
+\\

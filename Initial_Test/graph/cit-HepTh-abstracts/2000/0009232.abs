@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0009232
+From: Alexandre Grezzi de Miranda Schmidt <schmidt@ift.unesp.br>
+Date: Thu, 28 Sep 2000 16:29:11 GMT   (7kb)
+Date (revised v2): Wed, 11 Oct 2000 19:02:50 GMT   (8kb)
+
+Title: Light-cone gauge integrals: Prescriptionlessness at two loops
+Authors: Alfredo T. Suzuki, Alexandre G. M. Schmidt
+Comments: 6 pages, revtex. Version 2: paragraph added below eq.(3). To be
+  published in Physics Letters B
+Journal-ref: Phys.Lett. B494 (2000) 332-338
+\\
+  The only calculations performed beyond one-loop level in the light-cone gauge
+make use of the Mandelstam-Leibbrandt (ML) prescription in order to circumvent
+the notorious gauge dependent poles. Recently we have shown that in the context
+of negative dimensional integration method (NDIM) such prescription can be
+altogether abandoned, at least in one-loop order calculations. We extend our
+approach, now studying two-loop integrals pertaining to two-point functions.
+While previous works on the subject present only divergent parts for the
+integrals, we show that our prescriptionless method gives the same results for
+them, besides finite parts for arbitrary exponents of propagators.
+\\

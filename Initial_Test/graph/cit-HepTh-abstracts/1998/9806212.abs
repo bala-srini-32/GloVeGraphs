@@ -1,0 +1,19 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9806212
+From: Christoph Adam <adam@maths.tcd.ie>
+Date: Thu, 25 Jun 1998 18:28:33 GMT   (17kb)
+
+Title: Renormal-order improvement of the Schwinger mass
+Author: Christoph Adam
+Comments: Latex file, 13 pages, 3 figures, needed macro: psbox.tex
+Journal-ref: Int.J.Mod.Phys. A14 (1999) 4943-4952
+\\
+  The massive Schwinger model may be analysed by a perturbation expansion in
+the fermion mass. However, the results of this mass perturbation theory are
+sensible only for sufficiently small fermion mass. By performing a
+renormal-ordering, we arrive at a chiral perturbation expansion where the
+expansion parameter remains small even for large fermion mass. We use this
+renormal-ordered chiral perturbation theory for a computation of the Schwinger
+mass and compare our results with lattice computations.
+\\

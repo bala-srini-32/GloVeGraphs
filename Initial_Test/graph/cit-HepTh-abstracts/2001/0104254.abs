@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0104254
+From: Harald Skarke <skarke@maths.ox.ac.uk>
+Date: Sun, 29 Apr 2001 15:40:46 GMT   (44kb)
+Date (revised v2): Thu, 28 Jun 2001 11:53:12 GMT   (44kb)
+
+Title: D-Branes on Noncompact Calabi-Yau Manifolds: K-Theory and Monodromy
+Authors: Xenia de la Ossa, Bogdan Florea and Harald Skarke
+Comments: 40 pp, substantial revisions
+Subj-class: High Energy Physics - Theory; Algebraic Geometry
+Journal-ref: Nucl.Phys. B644 (2002) 170-200
+\\
+  We study D-branes on smooth noncompact toric Calabi-Yau manifolds that are
+resolutions of abelian orbifold singularities. Such a space has a distinguished
+basis {S_i} for the compactly supported K-theory. Using local mirror symmetry
+we demonstrate that the S_i have simple transformation properties under
+monodromy; in particular, they are the objects that generate monodromy around
+the principal component of the discriminant locus. One of our examples, the
+toric resolution of C^3/(Z_2 x Z_2), is a three parameter model for which we
+are able to give an explicit solution of the GKZ system.
+\\

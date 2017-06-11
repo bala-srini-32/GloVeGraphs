@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9709063
+From: Marco Serone <serone@gandalf.sissa.it>
+Date: Mon, 8 Sep 1997 12:55:08 MDT   (12kb)
+Date (revised): Mon, 10 Nov 1997 10:40:30 GMT
+
+Title: A note on supersymmetric D-brane dynamics
+Authors: J.F. Morales, C.A. Scrucca and M. Serone
+Comments: LaTex file, 12 pages, no figures, some corrections in last section
+  and references added; version to appear in Physics Letters B
+Report-no: SISSA-109/97/EP
+Journal-ref: Phys.Lett. B417 (1998) 233-239
+\\
+  We study the spin dependence of D-brane dynamics in the Green-Schwarz
+formalism of boundary states. In particular we show how to interpret insertion
+of supercharges on the boundary state as sources of non-universal spin effects
+in D-brane potentials. In this way we find for a generic (D)p-brane, potentials
+going like $v^{4-n}/r^{7-p+n}$ corresponding to interactions between the
+different components of the D-brane supermultiplet. From the eleven dimensional
+point of view, these potentials arise from the exchange of field strengths
+corresponding to the graviton and the three form, coupled non-minimally to the
+branes. We show how an annulus computation truncated to its massless
+contribution is enough to reproduce these next-to-leading effects, meaning in
+particular that the one-loop (M)atrix theory effective action should encode all
+the spin dependence of low-energy supergravity interactions.
+\\

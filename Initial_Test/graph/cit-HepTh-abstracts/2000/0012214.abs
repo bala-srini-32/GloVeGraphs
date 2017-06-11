@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0012214
+From: Dietmar Klemm <Dietmar.Klemm@mi.infn.it>
+Date: Thu, 21 Dec 2000 17:12:21 GMT   (11kb)
+
+Title: Dualities in D=5, N=2 Supergravity, Black Hole Entropy, and AdS Central
+  Charges
+Authors: Dietmar Klemm
+Comments: LaTeX, 9 pages, needs buckow.sty, contribution to the proceedings of
+  the RTN-workshop "The Quantum Structure of Spacetime and the Geometric Nature
+  of Fundamental Interactions", Berlin, October 2000
+Report-no: IFUM-672-FT
+Journal-ref: Fortsch.Phys. 49 (2001) 581-589
+\\
+  The issue of microstate counting for general black holes in D=5, N=2
+supergravity coupled to vector multiplets is discussed from various viewpoints.
+The statistical entropy is computed for the near-extremal case by using the
+central charge appearing in the asymptotic symmetry algebra of AdS_2.
+Furthermore, we show that the considered supergravity theory enjoys a duality
+invariance which connects electrically charged black holes and magnetically
+charged black strings. The near-horizon geometry of the latter turns out to be
+AdS_3 x S^2, which allows a microscopic calculation of their entropy using the
+Brown-Henneaux central charges in Cardy's formula. In both approaches we find
+perfect agreement between statistical and thermodynamical entropy.
+\\

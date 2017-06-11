@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9601095
+From: Piet.Claus@fys.kuleuven.ac.be
+Date: Thu, 18 Jan 96 17:28:53 CET   (14kb)
+
+Title: Higher Covariant Derivative Pauli-Villars Regularization for Gauge
+  Theories in the Batalin-Vilkovisky Formalism
+Author: P. Claus
+Comments: 16 pages, LaTeX, uses axodraw.sty
+Report-no: KUL-TF-96/1
+\\
+  The combined method of Higher Covariant Derivatives and Pauli-Villars
+regularization to regularize pure Yang-Mills theories is formulated in the
+framework of Batalin and Vilkovisky. However, BRS invariance is broken by this
+method and suitable counterterms should be added to restore it. The one loop
+counterterm is presented. Contrary to the scheme of Slavnov, this method is
+regularizing and leads to consistent renormalization group functions, which are
+the same as those found by other regularization schemes.
+\\

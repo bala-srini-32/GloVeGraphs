@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9612117
+From: Tim Morris <trmorris@hep.ph.soton.ac.uk>
+Date: Wed, 11 Dec 96 18:21:18 GMT   (30kb)
+Date (revised): Thu, 12 Dec 96 16:05:44 GMT
+Date (revised): Mon, 7 Apr 97 12:58:32 BST
+
+Title: Three dimensional massive scalar field theory and the derivative
+  expansion of the renormalization group
+Author: Tim R. Morris
+Comments: 33 pages, 1 eps figure, 7 tables; TeX + harvmac; version to appear in
+  Nucl. Phys. B
+Report-no: SHEP 96-36
+Journal-ref: Nucl.Phys. B495 (1997) 477-504
+\\
+  We show that non-perturbative fixed points of the exact renormalization
+group, their perturbations and corresponding massive field theories can all be
+determined directly in the continuum -- without using bare actions or any
+tuning procedure. As an example, we estimate the universal couplings of the
+non-perturbative three-dimensional one-component massive scalar field theory in
+the Ising model universality class, by using a derivative expansion (and no
+other approximation). These are compared to the recent results from other
+methods. At order derivative-squared approximation, the four-point coupling at
+zero momentum is better determined by other methods, but factoring this out
+appropriately, all our other results are in very close agreement with the most
+powerful of these methods. In addition we provide for the first time, estimates
+of the n-point couplings at zero momentum, with n=12,14, and the order
+momentum-squared parts with n=2 ... 10.
+\\

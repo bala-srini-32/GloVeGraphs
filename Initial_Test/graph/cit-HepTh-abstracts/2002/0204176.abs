@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0204176
+From: "zhou bang rong" <zhoubr@sun.ihep.ac.cn>
+Date: Mon, 22 Apr 2002 04:08:13 GMT   (8kb)
+
+Title: Real-time thermal field theory analyses of 2D Gross-Neveu model
+Authors: Zhou Bang-Rong (Graduate School at Beijing, USTC, Academia Sinica and
+  CCAST, Beijing)
+Comments: 8 pages, Latex, no figures
+Journal-ref: Commun.Theor.Phys. 33 (2000) 451-456
+\\
+  Discrete symmetry breaking and possible restoration at finite temperature $T$
+are analysed in 2D Gross-Neveu model by the real-time thermal field theory in
+the fermion bubble approximation. The dynamical fermion mass $m$ is proven to
+be scale-independent and this fact indicates the equivalence between the
+fermion bubble diagram approximation and the mean field approximation used in
+the auxialiary scalar field approach. Reproducing of the non-zero critical
+temperature $T_c=0.567 m(0)$, ($m(0)$ is the dynamical fermion mass at T=0),
+shows the equivalence between the real-time and the imaginary-time thermal
+field theory in this problem. However, in the real-time formalism, more results
+including absence of scalar bound state, the equation of criticality curve of
+chemical potential-temperature and the $\ln(T_c/T)$ behavior of $m^2$ at
+$T\stackrel{<}{\sim} T_c$ can be easily obtained. The last one indicates the
+second-order phase transition feature of the symmetry restoration.
+\\

@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0210012
+From: A. Melikyan <arsen@pas.rochester.edu>
+Date: Tue, 1 Oct 2002 23:05:43 GMT   (42kb)
+
+Title: Monodromy, Duality and Integrability of Two Dimensional String Effective
+  Action
+Authors: Ashok Das, J. Maharana, A. Melikyan
+Comments: 20 pages, to appear in the proceedings of the Workshop on Integrable
+  Field Theories, Solitons and Duality, Sao Paulo, July 1-6, 2002
+\\
+  In this talk, we show how the monodromy matrix, ${\hat{\cal M}}$, can be
+constructed for the two dimensional tree level string effective action. The
+pole structure of ${\hat{\cal M}}$ is derived using its factorizability
+property. It is shown that the monodromy matrix transforms non-trivially under
+the non-compact T-duality group, which leaves the effective action invariant
+and this can be used to construct the monodromy matrix for more complicated
+backgrounds starting from simpler ones. We construct, explicitly, ${\hat{\cal
+M}}$ for the exactly solvable Nappi-Witten model, both when B=0 and $B\neq 0$,
+where these ideas can be directly checked.
+\\

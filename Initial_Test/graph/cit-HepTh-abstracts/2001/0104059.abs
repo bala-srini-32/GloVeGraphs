@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0104059
+From: Ken-Ichi Tezuka <tezuka@physics.s.chiba-u.ac.jp>
+Date: Fri, 6 Apr 2001 06:55:50 GMT   (39kb)
+Date (revised v2): Sun, 8 Apr 2001 02:46:21 GMT   (40kb)
+Date (revised v3): Sun, 29 Jul 2001 05:48:40 GMT   (40kb)
+
+Title: Relations between Non-Commutative and Commutative Spacetime
+Authors: Ken-Ichi Tezuka (Chiba Univ.)
+Comments: The review article is a part of the master thesis submitted to Chiba
+  University, 58 pages, some comments and references are added
+Report-no: CHIBA-EP-126
+\\
+  Spacetime non-commutativity appears in string theory. In this paper, the
+non-commutativity in string theory is reviewed. At first we review that a
+Dp-brane is equivalent to a configuration of infinitely many D($p-2$)-branes.
+If we consider the worldvolume as that of the Dp-brane, coordinates of the
+Dp-brane is commutative. On the other hand if we deal with the worldvolume as
+that of the D($p-2$)-branes, since coordinates of many D-branes are promoted to
+matrices the worldvolume theory is non-commutative one. Next we see that using
+a point splitting reguralization gives a non-commutative D-brane, and a
+non-commutative gauge field can be rewritten in terms of an ordinary gauge
+field. The transformation is called the Seiberg-Witten map. And we introduce
+second class constraints as boundary conditions of an open string. Since
+Neumann and Dirichlet boundary conditions are mixed in the constraints when the
+open string is coupled to a NS B field, the end points of the open string is
+non-commutative.
+\\

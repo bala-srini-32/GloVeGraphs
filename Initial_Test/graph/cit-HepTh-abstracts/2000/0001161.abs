@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0001161
+From: "Naoki Sasakura" <sasakura@gauge.scphys.kyoto-u.ac.jp>
+Date: Tue, 25 Jan 2000 10:03:16 GMT   (11kb)
+Date (revised v2): Thu, 27 Jan 2000 08:40:06 GMT   (11kb)
+Date (revised v3): Fri, 28 Jan 2000 03:34:10 GMT   (11kb)
+
+Title: Space-time uncertainty relation and Lorentz invariance
+Authors: Naoki Sasakura (Kyoto Univ.)
+Comments: 13 pages, LaTeX. References added, minor corrections, a statement
+  deleted in summary
+Report-no: KUNS-1630
+Journal-ref: JHEP 0005 (2000) 015
+\\
+  We discuss a Lorentz covariant space-time uncertainty relation, which agrees
+with that of Karolyhazy-Ng-van Dam when an observational time period delta t is
+larger than the Planck time lp. At delta t < lp, this uncertainty relation
+takes roughly the form delta t delta x > lp^2, which can be derived from the
+condition prohibiting the multi-production of probes to a geometry. We show
+that there exists a minimal area rather than a minimal length in the
+four-dimensional case. We study also a three-dimensional free field theory on a
+non-commutative space-time realizing the uncertainty relation. We derive the
+algebra among the coordinate and momentum operators and define a
+positive-definite norm of the representation space. In four-dimensional
+space-time, the Jacobi identity should be violated in the algebraic
+representation of the uncertainty relation.
+\\

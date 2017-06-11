@@ -1,0 +1,36 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9811251
+From: Matteo Bertolini <teobert@sissa.it>
+Date: Mon, 30 Nov 1998 18:49:14 GMT   (27kb)
+Date (revised v2): Mon, 14 Dec 1998 17:44:04 GMT   (27kb)
+Date (revised v3): Sat, 20 Feb 1999 18:05:38 GMT   (27kb)
+Date (revised v4): Mon, 28 Jun 1999 13:21:17 GMT   (27kb)
+
+Title: N=8 BPS black holes preserving 1/8 supersymmetry
+Authors: M. Bertolini, P. Fre`, M. Trigiante
+Comments: 29+1 pages, 1 Latex file; a misprint in the entropy formula,
+  eq.(5.14), corrected
+Report-no: SISSA REF 130/98/EP, SWAT/211
+Journal-ref: Class.Quant.Grav. 16 (1999) 1519-1543
+\\
+  In the context of N=8 supergravity we consider BPS black-holes that preserve
+1/8 supersymmetry. It was shown in a previous paper that, modulo U-duality
+transformations of E_{7(7)} the most general solution of this type can be
+reduced to a black-hole of the STU model. In this paper we analize this
+solution in detail, considering in particular its embedding in one of the
+possible Special K\"ahler manifold compatible with the consistent truncations
+to N=2 supergravity, this manifold being the moduli space of the T^6/Z^3
+orbifold, that is: SU(3,3)/SU(3)*U(3). This construction requires a crucial use
+of the Solvable Lie Algebra formalism. Once the group-theoretical analisys is
+done, starting from a static, spherically symmetric ans\"atz, we find an exact
+solution for all the scalars (both dilaton and axion-like) and for gauge
+fields, together with their already known charge-dependent fixed values, which
+yield a U-duality invariant entropy. We give also a complete translation
+dictionary between the Solvable Lie Algebra and the Special K\"ahler formalisms
+in order to let comparison with other papers on similar issues being more
+immediate. Although the explicit solution is given in a simplified case where
+the equations turn out to be more manageable, it encodes all the features of
+the more general one, namely it has non-vanishing entropy and the scalar fields
+have a non-trivial radial dependence.
+\\

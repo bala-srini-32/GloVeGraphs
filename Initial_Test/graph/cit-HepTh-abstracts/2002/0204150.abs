@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0204150
+From: T.Padmanabhan <nabhan@iucaa.ernet.in>
+Date: Thu, 18 Apr 2002 07:41:24 GMT   (7kb)
+
+Title: Accelerated expansion of the universe driven by tachyonic matter
+Authors: T.Padmanabhan
+Comments: 4 pages; uses revtex4
+Report-no: IUCAA PREPRINT- 16/2002
+Journal-ref: Phys.Rev. D66 (2002) 021301
+\\
+  It is an accepted practice in cosmology to invoke a scalar field with
+potential $V(\phi)$ when observed evolution of the universe cannot be
+reconciled with theoretical prejudices. Since one function-degree-of-freedom in
+the expansion factor $a(t)$ can be traded off for the function $V(\phi)$, it is
+{\it always} possible to find a scalar field potential which will reproduce a
+given evolution. I provide a recipe for determining $V(\phi)$ from $a(t)$ in
+two cases:(i) Normal scalar field with Lagrangian ${\cal L} =
+(1/2)\partial_a\phi \partial^a\phi - V(\phi)$ used in quintessence/dark energy
+models. (ii) A tachyonic field with Lagrangian ${\cal L} = -V(\phi) [ 1-
+\partial_a\phi \partial^a\phi]^{1/2} $, motivated by recent string theoretic
+results. In the latter case, it is possible to have accelerated expansion of
+the universe during the late phase in certain cases. This suggests a string
+theory based interpretation of the current phase of the universe with tachyonic
+condensate acting as effective cosmological constant.
+\\

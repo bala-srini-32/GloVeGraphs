@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9605013
+From: kristjan@alf.nbi.dk
+Date: Thu, 02 May 96 18:54:01 +0200   (12kb)
+Date (revised): Thu, 09 May 96 17:03:23 +0200
+
+Title: Hermitian Matrix Model with Plaquette Interaction
+Authors: L. Chekhov (Steklov Mathematical Institute) and C. Kristjansen
+  (NORDITA)
+Comments: 15 pages, no figures, two references added
+Report-no: NORDITA-96/28P, SMI-Th-96/13
+Journal-ref: Nucl.Phys. B479 (1996) 683-696
+\\
+  We study a hermitian $(n+1)$-matrix model with plaquette interaction,
+$\sum_{i=1}^n MA_iMA_i$. By means of a conformal transformation we rewrite the
+model as an $O(n)$ model on a random lattice with a non polynomial potential.
+This allows us to solve the model exactly. We investigate the critical
+properties of the plaquette model and find that for $n\in]-2,2]$ the model
+belongs to the same universality class as the $O(n)$ model on a random lattice.
+\\

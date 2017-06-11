@@ -1,0 +1,36 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0205089
+From: Lubos Motl <motl@feynman.harvard.edu>
+Date: Fri, 10 May 2002 18:51:03 GMT   (205kb)
+Date (revised v2): Wed, 22 May 2002 18:13:39 GMT   (207kb)
+Date (revised v3): Wed, 12 Jun 2002 18:26:03 GMT   (231kb)
+
+Title: PP-wave string interactions from perturbative Yang-Mills theory
+Authors: Neil R. Constable, Daniel Z. Freedman, Matthew Headrick, Shiraz
+  Minwalla, Lubos Motl, Alexander Postnikov, Witold Skiba
+Comments: JHEP3 LaTeX, 32 pages of main text, plus appendices (64 pages in
+  total), 19 EPS figures; v2: presentation improved, reference added; v3:
+  restructuring of the text, missing figure included, typos corrected, results
+  unchanged
+Report-no: MIT-CTP-3271, HUTP-02/A013, HEP-UK-0014
+Journal-ref: JHEP 0207 (2002) 017
+\\
+  Recently, Berenstein et al. have proposed a duality between a sector of N=4
+super-Yang-Mills theory with large R-charge J, and string theory in a pp-wave
+background. In the limit considered, the effective 't Hooft coupling has been
+argued to be lambda'=g_{YM}^2 N/J^2=1/(mu p^+ alpha')^2. We study Yang-Mills
+theory at small lambda' (large mu) with a view to reproducing string
+interactions. We demonstrate that the effective genus counting parameter of the
+Yang-Mills theory is g_2^2=J^4/N^2=(4 pi g_s)^2 (mu p^+ alpha')^4, the
+effective two-dimensional Newton constant for strings propagating on the
+pp-wave background. We identify g_2 sqrt{lambda'} as the effective coupling
+between a wide class of excited string states on the pp-wave background. We
+compute the anomalous dimensions of BMN operators at first order in g_2^2 and
+lambda' and interpret our result as the genus one mass renormalization of the
+corresponding string state. We postulate a relation between the three-string
+vertex function and the gauge theory three-point function and compare our
+proposal to string field theory. We utilize this proposal, together with
+quantum mechanical perturbation theory, to recompute the genus one energy shift
+of string states, and find precise agreement with our earlier computation.
+\\

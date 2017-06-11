@@ -1,0 +1,32 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0210184
+From: Matthew Schwarz <matthew@fock.harvard.edu>
+Date: Mon, 21 Oct 2002 18:11:08 GMT   (61kb)
+Date (revised v2): Mon, 18 Nov 2002 21:26:45 GMT   (62kb)
+
+Title: Effective Field Theory for Massive Gravitons and Gravity in Theory Space
+Authors: Nima Arkani-Hamed, Howard Georgi and Matthew D. Schwartz
+Comments: 22 pages, 7 diagrams; references and some clarifying comments added,
+  typos corrected
+Report-no: HUTP-02/A051
+\\
+  We introduce a technique for restoring general coordinate invariance into
+theories where it is explicitly broken. This is the analog for gravity of the
+Callan-Coleman-Wess-Zumino formalism for gauge theories. We use this to
+elucidate the properties of interacting massless and massive gravitons. For a
+single graviton with a Planck scale Mpl and a mass mg, we find that there is a
+sensible effective field theory which is valid up to a high-energy cutoff
+Lambda parametrically above mg. Our methods allow for a transparent
+understanding of the many peculiarities associated with massive gravitons,
+among them the need for the Fierz-Pauli form of the Lagrangian, the presence or
+absence of the van Dam-Veltman-Zakharov discontinuity in general backgrounds,
+and the onset of non-linear effects and the breakdown of the effective theory
+at large distances from heavy sources. The natural sizes of all non-linear
+corrections beyond the Fierz-Pauli term are easily determined. The cutoff
+scales as Lambda ~ (mg^4 Mpl)^(1/5) for the Fierz-Pauli theory, but can be
+raised to Lambda ~ (mg^2 Mpl)^(1/3) in certain non-linear extensions. Having
+established that these models make sense as effective theories, there are a
+number of new avenues for exploration, including model building with gravity in
+theory space and constructing gravitational dimensions.
+\\

@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9912111
+From: Max Niedermaier <nie@prospero.phyast.pitt.edu>
+Date: Tue, 14 Dec 1999 00:11:25 GMT   (72kb)
+
+Title: An Algebraic Bootstrap for Dimensionally Reduced Quantum Gravity
+Authors: M. Niedermaier and H. Samtleben
+Comments: 62 pages, Latex, 2 Figures
+Report-no: LPTENS-99/56
+Journal-ref: Nucl.Phys. B579 (2000) 437-491
+\\
+  Cylindrical gravitational waves of Einstein gravity are described by an
+integrable system (Ernst system) whose quantization is a long standing problem.
+We propose to bootstrap the quantum theory along the following lines: The
+quantum theory is described in terms of matrix elements e.g. of the metric
+operator between spectral-transformed multi-vielbein configurations. These
+matrix elements are computed exactly as solutions of a recursive system of
+functional equations, which in turn is derived from an underlying quadratic
+algebra. The Poisson algebra emerging in its classical limit links the
+spectral-transformed vielbein and the non-local conserved charges and can be
+derived from first principles within the Ernst system. Among the noteworthy
+features of the quantum theory are: (i) The issue of (non-)renormalizability is
+sidestepped and (ii) there is an apparently unavoidable ``spontaneous''
+breakdown of the SL(2,R) symmetry that is a remnant of the 4D diffeomorphism
+invariance in the compactified dimensions.
+\\

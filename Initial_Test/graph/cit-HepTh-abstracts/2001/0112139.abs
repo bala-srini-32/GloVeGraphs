@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0112139
+From: Valentin V Khoze <valya.khoze@durham.ac.uk>
+Date: Mon, 17 Dec 2001 12:11:47 GMT   (11kb)
+Date (revised v2): Mon, 4 Feb 2002 16:23:58 GMT   (11kb)
+Date (revised v3): Wed, 24 Apr 2002 10:54:41 GMT   (11kb)
+
+Title: Noncommutativity and Model Building
+Authors: Chong-Sun Chu, Valentin V. Khoze and Gabriele Travaglini
+Comments: 8 pages, v2: equation (26) corrected, a comment and references added;
+  v3: add comments about anomaly cancellation; stressing main technical
+  achievement is the construction of matters in arbitrary representations of
+  noncommutative U(N)
+Journal-ref: Phys.Lett. B543 (2002) 318-322
+\\
+  We propose a way to introduce matter fields transforming in arbitrary
+representations of the gauge group in noncommutative U(N) gauge theories. We
+then argue that in the presence of supersymmetry, an ordinary commutative SU(N)
+gauge theory with a general matter content can always be embedded into a
+noncommutative U(N) theory at energies above the noncommutativity mass scale
+M_{NC} ~ \theta^{-1/2}. At energies below M_{NC}, the U(1) degrees of freedom
+decouple due to the IR/UV mixing, and the noncommutative theory reduces to its
+commutative counterpart. Supersymmetry can be spontaneously broken by a
+Fayet-Iliopoulos D-term introduced in the noncommutative U(N) theory. U(1)
+degrees of freedom become arbitrarily weakly coupled in the infrared and
+naturally play the role of the hidden sector for supersymmetry breaking. To
+illustrate these ideas we construct a noncommutative U(5) GUT model with
+Fayet-Iliopoulos supersymmetry breaking, which reduces to a realistic
+commutative theory in the infrared.
+\\

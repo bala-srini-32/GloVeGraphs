@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9809005
+From: Hans-Christian Pauli <pauli@mpi-hd.mpg.de>
+Date: Tue, 1 Sep 1998 16:47:21 GMT   (220kb)
+
+Title: On confinement in a light-cone Hamiltonian for QCD
+Authors: Hans-Christian Pauli (Max-Planck-Institut f\"ur Kernphysik, Postfach
+  10 39 80, D-69029 Heidelberg.)
+Comments: 15 pages, LaTeX2e, macro svjour included in uu-file 5 figures,
+  ps-files included in uu-file
+Report-no: Heidelberg preprint MPIH-V21-1998
+Journal-ref: Eur.Phys.J. C7 (1999) 289-303
+\\
+  The canonical front form Hamiltonian for non-Abelian SU(N) gauge theory in
+3+1 dimensions and in the light-cone gauge is mapped non-perturbatively on an
+effective Hamiltonian which acts only in the Fock space of a quark and an
+antiquark. Emphasis is put on the many-body aspects of gauge field theory, and
+it is shown explicitly how the higher Fock-space amplitudes can be retrieved
+self-consistently from solutions in the $q\bar q$-space. The approach is based
+on the novel method of iterated resolvents and on discretized light-cone
+quantization driven to the continuum limit. It is free of the usual
+perturbative Tamm-Dancoff truncations in particle number and coupling constant
+and respects all symmetries of the Lagrangian including covariance and gauge
+invariance. Approximations are done to the non-truncated formalism. Together
+with vertex as opposed to Fock-space regularization, the method allows to apply
+the renormalization programme non-perturbatively to a Hamiltonian. The
+conventional QCD scale is found arising from regulating the transversal
+momenta. It conspires with additional mass scales to produce possibly
+confinement.
+\\

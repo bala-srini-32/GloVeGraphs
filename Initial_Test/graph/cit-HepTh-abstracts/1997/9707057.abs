@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9707057
+From: Marek Wieckowski <Marek.Wieckowski@fuw.edu.pl>
+Date: Fri, 4 Jul 1997 17:02:36 +0200 (MET DST)   (7kb)
+
+Title: 4th order similarity renormalization of a model hamiltonian
+Author: Tomasz Maslowski and Marek Wieckowski (Institute of Theoretical
+  Physics, Warsaw University)
+Comments: plain latex, 9 pages
+Report-no: IFT/9/97
+Journal-ref: Phys.Rev. D57 (1998) 4976-4980
+\\
+  We study the similarity renormalization scheme for hamiltonians to the fourth
+order in perturbation theory using a model hamiltonian for fermions coupled to
+bosons. We demonstrate that the free finite parts of counterterms can be chosen
+in such a way that the T-matrix is covariant up to the fourth order and the
+eigenvalue equation for the physical fermion reduces to the Dirac equation.
+Through this choice, the systematic renormalization scheme reproduces the model
+solution originally proposed by G{\l}azek and Perry.
+\\

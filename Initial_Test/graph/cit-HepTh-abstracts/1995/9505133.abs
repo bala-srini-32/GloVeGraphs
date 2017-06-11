@@ -1,0 +1,33 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9505133
+From: "Dr. Khare" <khare@smiley.physics.mcmaster.ca>
+Date: Mon, 22 May 1995 09:09:09 -0400 (EDT)   (13kb)
+
+Title: Negaton and Positon Solutions of the KDV Equation
+Authors: C.Rasinariu,U.Sukhatme and Avinash Khare
+Comments: 20 pages plus 12 figures(available from authors on request),Latex
+  file
+Report-no: UICHEP-TH/95-2
+Subj-class: High Energy Physics - Theory; Exactly Solvable and Integrable
+  Systems
+Journal-ref: J.Phys. A29 (1996) 1803-1823
+\\
+  We give a systematic classification and a detailed discussion of the
+structure, motion and scattering of the recently discovered negaton and positon
+solutions of the Korteweg-de Vries equation. There are two distinct types of
+negaton solutions which we label $[S^{n}]$ and $[C^{n}]$, where $(n+1)$ is the
+order of the Wronskian used in the derivation. For negatons, the number of
+singularities and zeros is finite and they show very interesting time
+dependence. The general motion is in the positive $x$ direction, except for
+certain negatons which exhibit one oscillation around the origin. In contrast,
+there is just one type of positon solution, which we label $[\tilde C^n]$. For
+positons, one gets a finite number of singularities for $n$ odd, but an
+infinite number for even values of $n$. The general motion of positons is in
+the negative $x$ direction with periodic oscillations. Negatons and positons
+retain their identities in a scattering process and their phase shifts are
+discussed. We obtain a simple explanation of all phase shifts by generalizing
+the notions of ``mass" and ``center of mass" to singular solutions. Finally, it
+is shown that negaton and positon solutions of the KdV equation can be used to
+obtain corresponding new solutions of the modified KdV equation.
+\\

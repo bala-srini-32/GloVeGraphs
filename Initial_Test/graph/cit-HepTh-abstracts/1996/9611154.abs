@@ -1,0 +1,17 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9611154
+From: slavnov <slavnov@class.mi.ras.ru>
+Date: Wed, 20 Nov 1996 17:25:55 +0100 (MET)   (6kb)
+
+Title: Bosonized Formulation of Lattice QCD
+Author: A.A. Slavnov
+Comments: 6 pages, latex, no figures Talk, presented at XYIII International
+  Seminar "Relativistic nuclear physics and Quantum Chromodynamics", Dubna,
+  September 1996
+\\
+  Problems in lattice gauge models with fermions are discussed. A new bosonic
+Hermitean effective action for lattice QCD with dynamical quarks is presented.
+In distinction of the previous version, it does not include constraints and is
+better suited for Monte-Carlo simulations.
+\\

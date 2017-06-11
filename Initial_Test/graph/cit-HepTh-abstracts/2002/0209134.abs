@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0209134
+From: Laurent Freidel <lfreidel@perimeterinstitute.ca>
+Date: Tue, 17 Sep 2002 19:58:40 GMT   (31kb)
+Date (revised v2): Fri, 20 Sep 2002 14:51:42 GMT   (32kb)
+Date (revised v3): Fri, 4 Oct 2002 22:51:21 GMT   (33kb)
+Date (revised v4): Tue, 17 Dec 2002 18:14:06 GMT   (35kb)
+
+Title: Asymptotics of 6j and 10j symbols
+Authors: Laurent Freidel (PI), David Louapre (ENS-Lyon)
+Comments: 25 pages, 1 figure, factors corrected, presentation improved
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+\\
+  It is well known that the building blocks for state sum models of quantum
+gravity are given by 6j and 10j symbols. In this work we study the asymptotics
+of these symbols by using their expressions as group integrals. We carefully
+describe the measure involved in terms of invariant variables and develop new
+technics in order to study their asymptotics. Using these technics we compute
+the asymptotics of the various Euclidean and Lorentzian 6j-symbols. Finally we
+compute the asymptotic expansion of the 10j symbol which is shown to be
+non-oscillating in agreement with a recent result of Baez et al. We discuss the
+physical origin of this behavior and a way to modify the Barrett-Crane model in
+order to cure this disease.
+\\

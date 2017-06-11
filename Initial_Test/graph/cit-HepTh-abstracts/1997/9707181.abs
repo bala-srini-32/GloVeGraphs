@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9707181
+From: Jack Gegenberg <lenin@math.unb.ca>
+Date: Mon, 21 Jul 1997 13:31:39 -0300 (ADT)   (10kb)
+Date (revised): Wed, 13 Aug 1997 14:56:08 -0300 (ADT)
+Date (revised): Fri, 19 Sep 1997 09:24:57 -0300 (ADT)
+
+Title: Solitons and Black Holes
+Authors: J. Gegenberg and G. Kunstatter
+Comments: Substantial revisions in sections 4-5, Latex file, 13 pages.
+  Typographical errors corrected; accepted for publication in Phys. Lett. B
+Subj-class: High Energy Physics - Theory; Exactly Solvable and Integrable
+  Systems
+Journal-ref: Phys.Lett. B413 (1997) 274-280
+\\
+  We explore the relationship between black holes in Jackiw-Teitelboim(JT)
+dilaton gravity and solitons in sine-Gordon field theory. Our analysis expands
+on the well known connection between solutions of the sine-Gordon equation and
+constant curvature metrics. In particular, we show that solutions to the
+dilaton field equations for a given metric in JT theory also solve the
+sine-Gordon equation linearized about the corresponding soliton. Since the
+dilaton generates Killing vectors of the constant curvature metric, it is
+interesting that it has an analoguous interpretation in terms of symmetries of
+the soliton solution. We also show that from the B${\ddot a}$cklund
+transformations relating different soliton solutions, it is possible to
+construct a flat SL(2,R) connection which forms the basis for the gauge theory
+formulation of JT dilaton gravity.
+\\

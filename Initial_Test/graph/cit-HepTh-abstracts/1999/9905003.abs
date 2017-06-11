@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9905003
+From: braga@if.ufrj.br
+Date: Mon, 3 May 1999 18:03:43 GMT   (5kb)
+Date (revised v2): Wed, 16 Feb 2000 12:41:43 GMT   (6kb)
+
+Title: Extended BRST invariance in topological Yang Mills theory revisited
+Authors: Nelson R. F. Braga and Cresus F. L. Godinho
+Comments: Interaction terms heve been included in all the calculations. Two
+  references added. Version to be published in Phys. Rev. D. 7 pages, Latex, no
+  figures
+Journal-ref: Phys.Rev. D61 (2000) 125019
+\\
+  Extended BRST invariance (BRST plus anti-BRST invariances) provides in
+principle a natural way of introducing the complete gauge fixing structure
+associated to a gauge field theory in the minimum representation of the
+algebra. However, as it happens in topological Yang Mills theory, not all gauge
+fixings can be obtained from a symmetrical extended BRST algebra, where
+antighosts belong to the same representation of the Lorentz group of the
+corresponding ghosts. We show here that, at non interacting level, a simple
+field redefinition makes it possible to start with an extended BRST algebra
+with symmetric ghost antighost spectrum and arrive at the gauge fixing action
+of topological Yang Mills theory.
+\\

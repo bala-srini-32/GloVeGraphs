@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9611059
+From: lue@marie.mit.edu (Arthur Lue)
+Date: Fri, 8 Nov 1996 10:20:59 -0500   (23kb)
+Date (revised): Thu, 26 Dec 1996 12:59:33 -0500
+
+Title: Quantum effects on winding configurations in SU(2)-Higgs theory
+Authors: Arthur Lue (MIT)
+Comments: 12 pages, 2 eps figures, RevTeX, psfig.sty included. Substantial
+  content changes. Analysis improved to include higher-loop effects
+Report-no: MIT-CTP-2585
+Journal-ref: Phys.Rev. D55 (1997) 6725-6729
+\\
+  We examine the quantum corrections to the static energy for Higgs winding
+configurations in order to ascertain whether such corrections may stabilize
+solitons in the standard model. We evaluate the effective action for winding
+configurations in Weinberg-Salam theory without U(1)-gauge fields or fermions.
+For a configuration whose size, $a \ll m^{-1}$ where $m = \max{m_W,m_H}$, m_W
+is the W-mass, and m_H is the Higgs mass, the static energy goes like
+$g^{-2}m_W^2a [1+b_0g^2\ln(1/ma)]^{c_0/b_0}$ in the semiclassical limit. Here g
+is the SU(2)-gauge coupling constant and b_0, c_0 are positive numbers
+determined by renormalization-group techniques. We discuss the limitations of
+this result for extremely small configurations and conclude that quantum
+fluctuations do not stabilize winding configurations where we have confidence
+in SU(2)-Higgs as a renormalizable field theory.
+\\

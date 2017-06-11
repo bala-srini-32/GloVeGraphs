@@ -1,0 +1,18 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9510102
+From: sf005@kdsa1.kj.yamagata-u.ac.jp (Ryusuke Endo)
+Date: Mon, 16 Oct 1995 20:16:19 +0900   (9kb)
+
+Title: BRST Symmetric Gaugeon Formalism for Yang-Mills Fields
+Authors: M. Koseki, M. Sato and R. Endo
+Comments: 14 pages, LaTeX
+Report-no: YAMAGATA-HEP-95-12
+\\
+  Yokoyama's gaugeon formalism is knwon to admit $q$-number gauge
+transformation. We introduce BRST symmetries into the formalism for the
+Yang-Mills gauge field. Owing to the BRST symmetry, Yokoyama's physical
+subsidiary conditions are replaced by a single condition of the Kugo-Ojima
+type. Our physical subsidiary condition is invariant under the $q$-number gauge
+transformation. Thus, our physical subspace is gauge invariant.
+\\

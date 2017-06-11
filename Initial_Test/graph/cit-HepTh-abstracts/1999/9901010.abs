@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9901010
+From: John Klauder <klauder@phys.ufl.edu>
+Date: Mon, 4 Jan 1999 18:30:14 GMT   (15kb)
+
+Title: Universal Procedure for Enforcing Quantum Constraints
+Author: John R. Klauder
+Comments: latex, 21 pages, no figures
+Subj-class: High Energy Physics - Theory; Mathematical Physics
+Journal-ref: Nucl.Phys. B547 (1999) 397-412
+\\
+  An abstract formulation of quantum dynamics in the presence of a general set
+of quantum constraints is developed. Our constructive procedure is such that
+the relevant projection operator onto the physical Hilbert space is obtained
+with a single, common integration procedure over the original Lagrange
+multiplier variables that is completely independent of the general nature of
+the constraints. In the associated lattice-limit formulation it is demonstrated
+that expansion of the constraint operator contribution to second order in the
+lattice spacing is necessary while, as usual, only a first-order expansion is
+needed for the dynamical operator contribution. Among various possibilities,
+coherent state path integrals are used to illustrate a completely functional
+representation of the abstract quantization procedure.
+\\

@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0205185
+From: Mark van Raamsdonk <mav@itp.stanford.edu>
+Date: Sun, 19 May 2002 01:45:56 GMT   (46kb)
+Date (revised v2): Thu, 30 May 2002 06:57:06 GMT   (46kb)
+Date (revised v3): Wed, 12 Jun 2002 16:46:10 GMT   (47kb)
+Date (revised v4): Wed, 10 Jul 2002 19:35:55 GMT   (47kb)
+
+Title: Matrix Perturbation Theory For M-theory On a PP-Wave
+Authors: Keshav Dasgupta, Mohammad M. Sheikh-Jabbari, Mark Van Raamsdonk
+Comments: Latex file, 40+16 pages, 2 eps figures; v2: refs added; v3:
+  correction to energy shift calculation; v4: small corrections
+Report-no: SU-ITP-02/14
+Journal-ref: JHEP 0205 (2002) 056
+\\
+  In this paper, we study the matrix model proposed by Berenstein, Maldacena,
+and Nastase to describe M-theory on the maximally supersymmetric pp-wave. We
+show that the model may be derived directly as a discretized theory of
+supermembranes in the pp-wave background, or alternatively, from the dynamics
+of D0-branes in type IIA string theory. We consider expanding the model about
+each of its classical supersymmetric vacua and note that for large values of
+the mass parameter \mu, interaction terms are suppressed by powers of 1/mu, so
+that the model may be studied in perturbation theory. We compute the exact
+spectrum about each of the vacua in the large \mu limit and find the complete
+(infinite) set of BPS states, which includes states preserving 2, 4, 6, 8, or
+16 supercharges. Through explicit perturbative calculations, we then determine
+the effective coupling that controls the perturbation expansion for large \mu
+and estimate the range of parameters and energies for which perturbation theory
+is valid.
+\\

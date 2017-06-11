@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9502041
+From: Chong Ming Yung <Ming.Yung@maths.anu.edu.au>
+Date: Tue, 7 Feb 95 16:02:54 EST   (21kb)
+
+Title: Exact solution for the spin-$s$ XXZ quantum chain with non-diagonal
+  twists
+Authors: C. M. Yung and M. T. Batchelor
+Comments: 25 pages, LaTeX
+Report-no: Australian National University MRR 014-95
+Journal-ref: Nucl.Phys. B446 (1995) 461-484
+\\
+We study integrable vertex models and quantum spin chains with toroidal
+boundary conditions. An interesting class of such boundaries is associated with
+non-diagonal twist matrices. For such models there are no trivial reference
+states upon which a Bethe ansatz calculation can be constructed, in contrast to
+the well-known case of periodic boundary conditions. In this paper we show how
+the transfer matrix eigenvalue expression for the spin-$s$ XXZ chain twisted by
+the charge-conjugation matrix can in fact be obtained. The technique used is
+the generalization to spin-$s$ of the functional relation method based on
+``pair-propagation through a vertex''. The Bethe ansatz-type equations obtained
+reduce, in the case of lattice size $N=1$, to those recently found for the
+Hofstadter problem of Bloch electrons on a square lattice in a magnetic field.
+\\

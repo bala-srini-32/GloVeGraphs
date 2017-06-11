@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9610029
+From: arefeva@arevol.mian.su (Arefeva Irina)
+Date: Sun, 6 Oct 96 13:58:05 +0400 (MSD)   (14kb)
+
+Title: Planar Approximation as Two-Field Boltzmann Theory
+Authors: I.Ya. Aref'eva
+Comments: A talk given at Quarks 96, 9 pages, latex (4 figures use bezier.sty
+  and emlines2.sty)
+Report-no: SMI/TH-18-96
+\\
+  A modified interaction representation for the master field describing
+connected $SU(N)$-invariant Wightman's functions in the large $N$ limit of
+matrix fields is constructed. This construction is based on the representation
+of the master field in terms of Boltzmannian field theory found before. In the
+modified interaction representation we deal with two scalar Boltzmann fields
+({\it up} and {\it down} fields). For up and down fields only half-planar
+diagrams contribute and this could help to write down a recursive set of
+non-linear integral-differential equations summing up planar diagrams.
+\\

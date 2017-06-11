@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0304021
+From: "hoshino" <hoshino@ippan.kushiro-ct.ac.jp>
+Date: Wed, 2 Apr 2003 21:44:09 GMT   (8kb)
+Date (revised v2): Sat, 12 Apr 2003 23:43:36 GMT   (9kb)
+Date (revised v3): Wed, 16 Apr 2003 00:52:07 GMT   (10kb)
+Date (revised v4): Thu, 8 May 2003 01:59:43 GMT   (10kb)
+
+Title: Low-Energy Theorem Approach to One-Particle Singularity in QED{2+1}
+Authors: Y. Hoshino
+Comments: 17 pages, REVTeX4,abstract modified,section 2 and 3, add apendix
+\\
+  We evaluate the spectral function of scalar and spinor propagator in three
+dimensional quantum electrodynamics with the use of Ward-Identity for
+soft-photon emission vertex. Exponentation of one-photon matrix element yields
+a fll propagator in position space.It has a simple form as free propagator
+multiplied by quantum correction.But this is not a integrable function so that
+analysis in momentum space is not easy.Term by term integral converges and they
+have a logarithmic singuralities associated with renormalized mass in
+perturbation theory.Renormalization constant vanishes for weak coupling,which
+suggests confinement of charged particle.There exists a critical coupling
+constant below which bare mass vanishes and the vacuum expectationvalue of pair
+condensation is finite.
+\\

@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0301062
+From: andrianov alexander <geminis@ea8096.spb.edu>
+Date: Fri, 10 Jan 2003 14:32:20 GMT   (24kb)
+Date (revised v2): Sat, 11 Jan 2003 10:48:14 GMT   (25kb)
+Date (revised v3): Mon, 3 Feb 2003 12:04:33 GMT   (25kb)
+Date (revised v4): Tue, 18 Mar 2003 17:00:58 GMT   (25kb)
+
+Title: Nonlinear supersymmetry in Quantum Mechanics: algebraic properties and
+  differential representation
+Authors: A. A. Andrianov (1,2), A. V. Sokolov (2)((1)INFN, Sezione di Bologna,
+  Italy; (2) St.Petersburg State University)
+Comments: 28 pages, Latex, minor improvements and removed misprints
+Subj-class: High Energy Physics - Theory; Mathematical Physics
+\\
+  We study the Nonlinear (Polynomial, N-fold,...) Supersymmetry algebra in
+one-dimensional QM. Its structure is determined by the type of conjugation
+operation (Hermitian conjugation or transposition) and described with the help
+of the Super-Hamiltonian projection on the zero-mode subspace of a supercharge.
+We show that the SUSY algebra with transposition symmetry is always polynomial
+in the Hamiltonian if supercharges represent differential operators of finite
+order. The appearance of the extended SUSY with several (complex or real)
+supercharges is analyzed in details and it is established that no more than two
+independent supercharges may generate a Nonlinear superalgebra which can be
+appropriately specified as {\cal N} = 2 SUSY. In this case we find a
+non-trivial hidden symmetry operator and rephrase it as a non-linear function
+of the Super-Hamiltonian on the physical state space. The full {\cal N} = 2
+Non-linear SUSY algebra includes "central charges" both polynomial and
+non-polynomial (due to a symmetry operator) in the Super-Hamiltonian.
+\\

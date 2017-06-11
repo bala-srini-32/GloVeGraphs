@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0011018
+From: Mees de Roo <M.de.Roo@phys.rug.nl>
+Date: Fri, 3 Nov 2000 08:36:55 GMT   (21kb)
+
+Title: Non-abelian Born-Infeld and kappa-symmetry
+Authors: E. A. Bergshoeff, M. de Roo and A. Sevrin
+Comments: 26 pages, Latex
+Report-no: UG/00-16, VUB/TENA/00/08
+Journal-ref: J.Math.Phys. 42 (2001) 2872-2888
+\\
+  We define an iterative procedure to obtain a non-abelian generalization of
+the Born-Infeld action. This construction is made possible by the use of the
+severe restrictions imposed by kappa-symmetry. In this paper we will present
+all bosonic terms in the action up to terms quartic in the Yang-Mills field
+strength and all fermion bilinear terms up to terms cubic in the field
+strength. Already at this order the fermionic terms do not satisfy the
+symmetric trace-prescription.
+\\

@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9502061
+From: flato@u-bourgogne.fr (Moshe Flato)
+Date: Fri, 10 Feb 1995 20:04:58 +22299115 (NFT)   (214kb)
+
+Title: Asymptotic completeness, global existence and the infrared problem for
+  the Maxwell-Dirac equations.
+Authors: Moshe Flato, Jacques C.H. Simon and Erik Taflin.
+Comments: plain TeX with amssym and a few macros, 308 pages
+\\
+In this monograph we prove that the nonlinear Lie algebra representation given
+by the manifestly covariant Maxwell-Dirac (M-D) equations is integrable to a
+global nonlinear representation $U$ of the Poincar\'e group ${\cal P}_0$ on a
+differentiable manifold ${\cal U}_\infty$ of small initial conditions for the
+M-D equations. This solves, in particular, the Cauchy problem for the M-D
+equations, namely existence of global solutions for initial data in ${\cal
+U}_\infty$ at $t=0$. The existence of modified wave operators $\Omega_+$ and
+$\Omega_-$ and asymptotic completeness is proved. The asymptotic
+representations $U^{(\varepsilon)}_g = \Omega^{-1}_\varepsilon \circ U_g \circ
+\Omega_\varepsilon$, $\varepsilon = \pm$, $g \in {\cal P}_0$, turn out to be
+nonlinear. A cohomological interpretation of the results in the spirit of
+nonlinear representation theory and its connection to the infrared tail of the
+electron is given.
+\\

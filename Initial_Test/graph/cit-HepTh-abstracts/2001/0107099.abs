@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0107099
+From: Brian Dolan <bdolan@thphys.may.ie>
+Date: Thu, 12 Jul 2001 02:24:21 GMT   (21kb)
+Date (revised v2): Thu, 1 Nov 2001 11:45:27 GMT   (21kb)
+
+Title: Fuzzy Complex Projective Spaces and their Star-products
+Authors: A.P. Balachandran, Brian P. Dolan, J. Lee, X. Martin and Denjoe
+  O'Connor
+Comments: 20 pages, typeset in plain TeX
+Report-no: SU-4252-740, DIAS-STP-01-11
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+Journal-ref: J.Geom.Phys. 43 (2002) 184-204
+\\
+  We derive an explicit expression for an associative *-product on fuzzy
+complex projective spaces. This generalises previous results for the fuzzy
+2-sphere and gives a discrete non-commutative algebra of functions on fuzzy
+complex projective spaces, represented by matrix multiplication. The matrices
+are restricted to ones whose dimension is that of the totally symmetric
+representations of SU(N). In the limit of infinite dimensional matrices we
+recover the commutative algebra of functions on ordinary projective space.
+Derivatives on the fuzzy projective space are also expressed as matrix
+commutators.
+\\

@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9803173
+From: Michael Strickland <mstrickl@pacific.mps.ohio-state.edu>
+Date: Fri, 20 Mar 1998 18:04:38 GMT   (167kb)
+
+Title: Scheme Independence of Blocking Transformation in Finite-Temperature
+  Renormalization Group
+Authors: Michael Strickland, Sen-Ben Liao
+Comments: 30 pages, 9 eps figures
+Report-no: CCU-TH-98-01
+Journal-ref: Nucl.Phys. B532 (1998) 753-782
+\\
+  The finite-temperature renormalization group is formulated via the
+Wilson-Kadanoff blocking transformation. Momentum modes and the Matsubara
+frequencies are coupled by constraints from a smearing function which plays the
+role of an infrared cutoff regulator. Using the scalar lambda phi^4 theory as
+an example, we consider four general types of smearing functions and show that,
+to zeroth-order in the derivative expansion, they yield qualitatively the same
+temperature dependence of the running constants and the same critical exponents
+within numerical accuracy.
+\\

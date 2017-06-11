@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9601105
+From: Thomas Thiemann <thiemann@abel.math.harvard.edu>
+Date: Fri, 19 Jan 1996 18:20:52 -0500 (EST)   (16kb)
+
+Title: The inverse loop transform
+Authors: Thomas Thiemann (Harvard University)
+Comments: 15 pages, Latex
+Report-no: CGPG-95/7-2, HUTMP-95/B-346
+Journal-ref: J.Math.Phys. 39 (1998) 1236-1248
+\\
+  The loop transform in quantum gauge field theory can be recognized as the
+Fourier transform (or characteristic functional) of a measure on the space of
+generalized connections modulo gauge transformations. Since this space is a
+compact Hausdorff space, conversely, we know from the Riesz-Markov theorem that
+every positive linear functional on the space of continuous functions thereon
+qualifies as the loop transform of a regular Borel measure on the moduli
+space. In the present article we show how one can compute the finite joint
+distributions of a given characteristic functional, that is, we derive the
+inverse loop transform.
+\\

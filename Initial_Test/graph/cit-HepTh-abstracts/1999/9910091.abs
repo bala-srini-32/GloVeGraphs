@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9910091
+From: Itzhak Bars <bars@physics1.usc.edu>
+Date: Tue, 12 Oct 1999 03:19:35 GMT   (15kb)
+Date (revised v2): Tue, 26 Oct 1999 00:27:08 GMT   (16kb)
+Date (revised v3): Wed, 5 Jan 2000 22:41:48 GMT   (16kb)
+
+Title: Non-Commutative Geometry on a Discrete Periodic Lattice and Gauge Theory
+Authors: I. Bars and D. Minic
+Comments: latex, 20 pages, new paragraph added at end of section 2.1
+Report-no: USC-99/HEP-B5, CITUSC/99-002
+Journal-ref: Phys.Rev. D62 (2000) 105018
+\\
+  We discuss the quantum mechanics of a particle in a magnetic field when its
+position x^{\mu} is restricted to a periodic lattice, while its momentum
+p^{\mu} is restricted to a periodic dual lattice. Through these considerations
+we define non-commutative geometry on the lattice. This leads to a deformation
+of the algebra of functions on the lattice, such that their product involves a
+``diamond'' product, which becomes the star product in the continuum limit. We
+apply these results to construct non-commutative U(1) and U(M) gauge theories,
+and show that they are equivalent to a pure U(NM) matrix theory, where N^{2} is
+the number of lattice points.
+\\

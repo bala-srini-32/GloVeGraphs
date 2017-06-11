@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9506121
+From: smassar@ulb.ac.be (Massar Serge)
+Date: Mon, 19 Jun 1995 17:30:21 +0200 (DST)   (29kb)
+
+Title: Hawking Radiation Without Transplanckian Frequencies
+Authors: R. Brout, S. Massar, R. Parentani, Ph. Spindel
+Comments: 27 pages, latex, includs 5 postscript figures, encoded using uufiles
+Report-no: ULB-TH 95/06, UMH-MG 95/02, LPTENS 95/18
+Journal-ref: Phys.Rev. D52 (1995) 4559-4568
+\\
+  In a recent work, Unruh showed that Hawking radiation is unaffected by a
+truncation of free field theory at the Planck scale. His analysis was performed
+numerically and based on a hydrodynamical model. In this work, by analytical
+methods, the mathematical and physical origin of Unruh's result is revealed. An
+alternative truncation scheme which may be more appropriate for black hole
+physics is proposed and analyzed. In both schemes the thermal Hawking radiation
+remains unaffected even though transplanckian energies no longer appear. The
+universality of this result is explained by working in momentum space. In that
+representation, in the presence of a horizon, the d'Alembertian equation
+becomes a singular first order equation. In addition, the boundary conditions
+corresponding to vacuum before the black hole formed are that the in--modes
+contain positive momenta only. Both properties remain valid when the spectrum
+is truncated and they suffice to obtain Hawking radiation.
+\\

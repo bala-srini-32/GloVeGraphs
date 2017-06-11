@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9709067
+From: Ramon Munoz Tapia <rmt@goliat.ugr.es>
+Date: Tue, 9 Sep 1997 05:41:52 MDT   (12kb)
+Date (revised): Thu, 29 Jan 1998 16:43:32 GMT
+
+Title: Constraining differential renormalization in abelian gauge theories
+Authors: F. del Aguila, A. Culatti, R. Munoz-Tapia and M. Perez-Victoria
+Comments: 13 pages, LaTeX. Some equations corrected and a reference added.
+  Complete ps paper also available at http://www-ftae.ugr.es/papiros.html or
+  ftp://ftae3.ugr.es/pub/rmt/ugft73.ps
+Report-no: UG-FT-73/97 and KA-TP-10-1997
+Journal-ref: Phys.Lett. B419 (1998) 263-271
+\\
+  We present a procedure of differential renormalization at the one loop level
+which avoids introducing unnecessary renormalization constants and
+automatically preserves abelian gauge invariance. The amplitudes are expressed
+in terms of a basis of singular functions. The local terms appearing in the
+renormalization of these functions are determined by requiring consistency with
+the propagator equation. Previous results in abelian theories, with and without
+supersymmetry, are discussed in this context.
+\\

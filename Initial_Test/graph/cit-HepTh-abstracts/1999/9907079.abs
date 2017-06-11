@@ -1,0 +1,34 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9907079
+From: Pablo Minces <pablo@fma.if.usp.br>
+Date: Sun, 11 Jul 1999 23:24:36 GMT   (12kb)
+Date (revised v2): Wed, 21 Jul 1999 19:21:01 GMT   (12kb)
+Date (revised v3): Fri, 6 Aug 1999 22:33:01 GMT   (13kb)
+Date (revised v4): Wed, 2 Feb 2000 17:54:51 GMT   (13kb)
+
+Title: Scalar Field Theory in the AdS/CFT Correspondence Revisited
+Authors: Pablo Minces, Victor O. Rivelles
+Comments: 22 pages, LaTeX, minor errors corrected, Conclusions and one
+  reference added, final version to be published in Nucl. Phys. B
+Journal-ref: Nucl.Phys. B572 (2000) 651-669
+\\
+  We consider the role of boundary conditions in the $AdS_{d+1}/CFT_{d}$
+correspondence for the scalar field theory. Also a careful analysis of some
+limiting cases is presented. We study three possible types of boundary
+conditions, Dirichlet, Neumann and mixed. We compute the two-point functions of
+the conformal operators on the boundary for each type of boundary condition. We
+show how particular choices of the mass require different treatments. In the
+Dirichlet case we find that there is no double zero in the two-point function
+of the operator with conformal dimension $\frac{d}{2}$. The Neumann case leads
+to new normalizations for the boundary two-point functions. In the massless
+case we show that the conformal dimension of the boundary conformal operator is
+precisely the unitarity bound for scalar operators. We find a one-parameter
+family of boundary conditions in the mixed case. There are again new
+normalizations for the boundary two-point functions. For a particular choice of
+the mixed boundary condition and with the mass squared in the range
+$-d^2/4<m^2<-d^2/4+1$ the boundary operator has conformal dimension comprised
+in the interval $[\frac{d-2}{2}, \frac{d}{2}]$. For mass squared $m^2>-d^2/4+1$
+the same choice of mixed boundary condition leads to a boundary operator whose
+conformal dimension is the unitarity bound.
+\\

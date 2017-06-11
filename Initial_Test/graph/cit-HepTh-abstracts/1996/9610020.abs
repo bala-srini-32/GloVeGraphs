@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9610020
+From: Atsushi_Okazaki <zaki1scp@mbox.nc.kyushu-u.ac.jp>
+Date: Thu, 3 Oct 1996 21:07:16 +0900   (43kb)
+
+Title: Perturbative Tamm-Dancoff Renormalization
+Authors: Koji Harada, Atsushi Okazaki
+Comments: 20 pages, RevTeX, 10 figures
+Report-no: KYUSHU-HET 35
+Journal-ref: Phys.Rev. D55 (1997) 6198-6208
+\\
+  A new two-step renormalization procedure is proposed. In the first step, the
+effects of high-energy states are considered in the conventional (Feynman)
+perturbation theory. In the second step, the coupling to many-body states is
+eliminated by a similarity transformation. The resultant effective Hamiltonian
+contains only interactions which do not change particle number. It is subject
+to numerical diagonalization. We apply the general procedure to a simple
+example for the purpose of illustration.
+\\

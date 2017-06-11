@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9508111
+From: Stam Nicolis <nicolis@celfi.phys.univ-tours.fr>
+Date: Wed, 23 Aug 1995 00:01:18 +0100   (25kb)
+Date (revised): Thu, 24 Aug 1995 19:28:45 +0100
+Date (revised): Mon, 23 Feb 1998 21:46:13 GMT
+
+Title: An SU(2) Analog of the Azbel--Hofstadter Hamiltonian
+Authors: E. G. Floratos (NRCPS Demokritos) and S. Nicolis (CNRS-LMPT Tours U.)
+Comments: 19 pages, LaTeX, 4 PostScript figures. Relation between Cartan and
+  Cartesian deformation of SU(2) and numerical results added. Final version as
+  will appear in J. Phys. A: Math. Gen
+Subj-class: High Energy Physics - Theory; Exactly Solvable and Integrable
+  Systems
+Journal-ref: J.Phys. A31 (1998) 3961-3975
+\\
+  Motivated by recent findings due to Wiegmann and Zabrodin, Faddeev and
+Kashaev concerning the appearence of the quantum U_q(sl(2)) symmetry in the
+problem of a Bloch electron on a two-dimensional magnetic lattice, we introduce
+a modification of the tight binding Azbel--Hofstadter Hamiltonian that is a
+specific spin-S Euler top and can be considered as its ``classical'' analog.
+The eigenvalue problem for the proposed model, in the coherent state
+representation, is described by the S-gap Lam\'e equation and, thus, is
+completely solvable. We observe a striking similarity between the shapes of the
+spectra of the two models for various values of the spin S.
+\\

@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9603105
+From: antonov@lpthe.jussieu.fr (Sacha ANTONOV)
+Date: Fri, 15 Mar 1996 16:53:04 +0100   (11kb)
+Date (revised): Thu, 4 Apr 1996 20:30:53 +0200
+
+Title: Quantum Group Representations and Baxter Equation
+Authors: Alexander Antonov and Boris Feigin
+Comments: 14 pages, Latex file, corrected references and acknowledgments
+Report-no: LPTHE-96-11
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+Journal-ref: Phys.Lett. B392 (1997) 115-122
+\\
+  In this paper we propose algebraic universal procedure for deriving "fusion
+rules" and Baxter equation for any integrable model with $U_q(\widehat{sl}_2)$
+symmetry of Quantum Inverse Scattering Method. Universal Baxter Q- operator is
+got from the certain infinite dimensional representation called q-oscillator
+one of the Universal R- matrix for $U_q(\widehat{sl}_2)$ affine algebra (first
+proposed by V. Bazhanov, S.Lukyanov and A.Zamolodchikov for quantum KdV case).
+We also examine the algebraic properties of Q-operator.
+\\

@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9606190
+From: Chris Hull <C.M.Hull@qmw.ac.uk>
+Date: Fri, 28 Jun 96 19:20:59 +0100   (7kb)
+Date (revised): Thu, 11 Jul 96 15:12:57 +0100
+Date (revised): Wed, 28 Aug 96 16:00:57 +0100
+
+Title: The Geometry of $N=2$ Strings with Torsion
+Authors: C.M. Hull
+Comments: 10 pages, phyzzx, no figures. The discussion of conformal invariance
+  is improved, and the class of geometries considered is generalised to include
+  general dilaton backgrounds, in which the dilaton is the Killing potential
+  for a holomorphic isometry
+Report-no: QMW-96-13
+Journal-ref: Phys.Lett. B387 (1996) 497-501
+\\
+  $N=2$ string theories are formulated in space-times with 2 space and 2 time
+dimensions. If the world-sheet matter system consists of 2 chiral superfields,
+the space-time is Kahler and the dynamics are those of anti-self-dual gravity.
+If instead one chiral superfield and one twisted chiral superfield are used,
+the space-time is a hermitian manifold with torsion and a dilaton. The string
+spectrum consists of a scalar, which is a potential $K$ determining the metric,
+torsion and dilaton. The dynamics imply that the curvature with torsion is
+anti-self-dual, and an action is found for the potential $K$. It is argued that
+any $N=2$ sigma-model with twisted chiral multiplets in any dimension can be
+deformed to a conformally invariant theory if the lowest order contribution to
+the conformal anomaly vanishes. If there are isometries, more general
+geometries are possible in which the dilaton is the Killing potential for a
+holomorphic Killing vector.
+\\

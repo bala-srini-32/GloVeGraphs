@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0001111
+From: Seiji Terashima <seiji@hep-th.phys.s.u-tokyo.ac.jp>
+Date: Tue, 18 Jan 2000 20:55:34 GMT   (12kb)
+Date (revised v2): Sun, 30 Jan 2000 17:19:38 GMT   (12kb)
+Date (revised v3): Wed, 29 Mar 2000 09:43:20 GMT   (13kb)
+
+Title: On the Equivalence between Noncommutative and Ordinary Gauge Theories
+Authors: Seiji Terashima
+Comments: 18 pages, LaTeX, no figures. minor corrections, references added,
+  note added is changed, version to appear in JHEP
+Report-no: UT-871
+Journal-ref: JHEP 0002 (2000) 029
+\\
+  Recently Seiberg and Witten have proposed that noncommutative gauge theories
+realized as effective theories on D-brane are equivalent to some ordinary gauge
+theories. This proposal has been proved, however, only for the
+Dirac-Born-Infeld action in the approximation of neglecting all derivative
+terms. In this paper we explicitly construct general forms of the 2n-derivative
+terms which satisfy this equivalence under their assumption in the
+approximation of neglecting (2 n+2)-derivative terms. We also prove that the
+D-brane action computed in the superstring theory is consistent with the
+equivalence neglecting the fourth and higher order derivative terms.
+\\

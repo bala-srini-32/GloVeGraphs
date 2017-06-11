@@ -1,0 +1,32 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0205270
+From: Arutyunov <agleb@aei-potsdam.mpg.de>
+Date: Mon, 27 May 2002 09:20:45 GMT   (32kb)
+Date (revised v2): Mon, 10 Jun 2002 19:49:15 GMT   (36kb)
+Date (revised v3): Mon, 29 Jul 2002 17:44:09 GMT   (38kb)
+
+Title: Conformal fields in the pp-wave limit
+Authors: G. Arutyunov and E. Sokatchev
+Comments: LaTex, 32 pages, 1 figure, discussion of correlation functions
+  extended; some corrections made; references added
+Report-no: AEI-2001-040, CERN-TH-2002-115, LAPTH-915-02
+Journal-ref: JHEP 0208 (2002) 014
+\\
+  The pp-wave (Penrose limit) in conformal field theory can be viewed as a
+special contraction of the unitary representations of the conformal group. We
+study the kinematics of conformal fields in this limit in a geometric approach
+where the effect of the contraction can be visualized as an expansion of
+space-time. We discuss the two common models of space-time as carrier spaces
+for conformal fields: One is the usual Minkowski space and the other is the
+coset of the conformal group over its maximal compact subgroup. We show that
+only the latter manifold and the corresponding conformal representation theory
+admit a non-singular contraction limit. We also address the issue of
+correlation functions of conformal fields in the pp-wave limit. We show that
+they have a well-defined contraction limit if their space-time dependence
+merges with the dependence on the coordinates of the R symmetry group. This is
+a manifestation of the fact that in the limit the space-time and R symmetries
+become indistinguishable. Our results might find applications in actual
+calculations of correlation functions of composite operators in N=4 super
+Yang-Mills theory.
+\\

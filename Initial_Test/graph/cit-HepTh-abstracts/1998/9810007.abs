@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9810007
+From: Jorge Ananias Neto <jorge@fisica.ufjf.br>
+Date: Thu, 1 Oct 1998 14:34:14 GMT   (6kb)
+Date (revised v2): Mon, 15 Mar 1999 14:22:36 GMT   (6kb)
+
+Title: A proposal for a generalized canonical osp(1,2) quantization of
+  dynamical systems with constraints
+Authors: Petr M. Lavrov, Jorge Ananias Neto and Wilson Oliveira
+Comments: Revised version. To appear in Mod.Phys.Lett.A
+Report-no: DF/UFJF-98-03
+\\
+  The aim of this paper is to consider a possibility of constructing for
+arbitrary dynamical systems with first-class constraints a generalized
+canonical quantization method based on the osp(1,2) supersymmetry principle.
+This proposal can be considered as a counterpart to the osp(1,2)-covariant
+Lagrangian quantization method introduced recently by Geyer, Lavrov and
+M\"ulsch. The gauge dependence of Green's functions is studied. It is shown
+that if the parameter m^2 of the osp(1,2) superalgebra is not equal to zero
+then the vacuum functional and S-matrix depend on the gauge. In the limit $m\to
+0$ the gauge independence of vacuum functional and S - matrix are restored. The
+Ward identities related to the osp(1,2) symmetry are derived.
+\\

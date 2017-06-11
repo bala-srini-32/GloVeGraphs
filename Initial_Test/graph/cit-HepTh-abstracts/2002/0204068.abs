@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0204068
+From: Gernot Akemann <akemann@spht.saclay.cea.fr>
+Date: Mon, 8 Apr 2002 09:40:58 GMT   (27kb)
+Date (revised v2): Mon, 29 Apr 2002 17:06:08 GMT   (27kb)
+
+Title: Microscopic correlation functions for the QCD Dirac operator with
+  chemical potential
+Authors: G. Akemann
+Comments: LaTeX, 4 pages, 2 figs., typos corrected and refs. added
+Journal-ref: Phys.Rev.Lett. 89 (2002) 072002
+\\
+  A chiral random matrix model with complex eigenvalues is solved as an
+effective model for QCD with non-vanishing chemical potential. We derive new
+matrix model correlation functions which predict the local fluctuations of
+complex Dirac operator eigenvalues at zero virtuality. The parameter which
+measures the non-Hermiticity of the Dirac matrix is identified with the
+chemical potential. In the phase with broken chiral symmetry all spectral
+correlations of the Dirac eigenvalues are calculated as functions of quark
+flavors and chemical potential. The derivation uses the orthogonality of the
+Laguerre polynomials in the complex plane. Explicit results are given for any
+finite matrix size N as well in the large-N limit for weak and strong
+non-Hermiticity.
+\\

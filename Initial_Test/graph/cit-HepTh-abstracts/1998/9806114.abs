@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9806114
+From: tferm@fy.chalmers.se (Robert Marnelius)
+Date: Mon, 15 Jun 1998 11:48:30 GMT   (8kb)
+Date (revised v2): Thu, 18 Jun 1998 11:12:26 GMT   (8kb)
+Date (revised v3): Wed, 8 Jul 1998 09:23:05 GMT   (8kb)
+Date (revised v4): Tue, 11 Aug 1998 08:18:55 GMT   (8kb)
+
+Title: Open groups of constraints - Integrating arbitrary involutions
+Authors: Igor Batalin,Robert Marnelius
+Comments: 9 pages,Latexfile,improved text
+Report-no: ITP-Goteborg 98-07
+Journal-ref: Phys.Lett. B441 (1998) 243-249
+\\
+  A new type of quantum master equation is presented which is expressed in
+terms of a recently introduced quantum antibracket. The equation involves only
+two operators: an extended nilpotent BFV-BRST charge and an extended ghost
+charge. It is proposed to determine the generalized quantum Maurer-Cartan
+equations for arbitrary open groups. These groups are the integration of
+constraints in arbitrary involutions. The only condition for this is that the
+constraint operators may be embedded in an odd nilpotent operator, the BFV-BRST
+charge. The proposal is verified at the quasigroup level. The integration
+formulas are also used to construct a generating operator for quantum
+antibrackets of operators in arbitrary involutions.
+\\

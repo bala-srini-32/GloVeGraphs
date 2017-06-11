@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0004202
+From: Vincent G.J. Rodgers <vincent@tnecniv.physics.uiowa.edu>
+Date: Fri, 28 Apr 2000 05:32:43 GMT   (35kb)
+
+Title: Irreducible Decomposition of Products of 10D Chiral Sigma Matrices
+Authors: S. James Gates, B. Radak, V.G.J. Rodgers
+Comments: 28 pages, Mathematica Program sigmavector10D.nb is included.
+  Submitted ot CPC
+Journal-ref: Comput.Phys.Commun. 136 (2001) 173-181
+\\
+  We review the enveloping algebra of the 10 dimensional chiral sigma matrices.
+To facilitate the computation of the product of several chiral sigma matrices
+we have developed a symbolic program. Using this program one can reduce the
+multiplication of the sigma matrices down to linear combinations of irreducilbe
+elements. We are able to quickly derive several identities that are not
+restricted to traces. A copy of the program written in the Mathematica language
+is provided for the community.
+\\

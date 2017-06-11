@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0001137
+From: Shinsuke Mochizuki Nishigaki <nishigak@th.phys.titech.ac.jp>
+Date: Fri, 21 Jan 2000 12:05:36 GMT   (10kb)
+Date (revised v2): Tue, 28 Mar 2000 09:22:31 GMT   (10kb)
+
+Title: Massive chiral random matrix ensembles at beta = 1 & 4 : Finite-volume
+  QCD partition functions
+Authors: T. Nagao, S. M. Nishigaki
+Comments: 6 pages, REVTeX 3.1, no figure; (v2) corrected signatures of c's
+Report-no: TIT-HEP-440
+Journal-ref: Phys.Rev. D62 (2000) 065006
+\\
+  In a deep-infrared (ergodic) regime, QCD coupled to massive pseudoreal and
+real quarks are described by chiral orthogonal and symplectic ensembles of
+random matrices. Using this correspondence, general expressions for the QCD
+partition functions are derived in terms of microscopically rescaled mass
+variables. In limited cases, correlation functions of Dirac eigenvalues and
+distributions of the smallest Dirac eigenvalue are given as ratios of these
+partition functions. When all masses are degenerate, our results reproduce the
+known expressions for the partition functions of zero-dimensional sigma models.
+\\

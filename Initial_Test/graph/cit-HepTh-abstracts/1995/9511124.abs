@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9511124
+From: Kazuo Fujikawa <fujikawa@danjuro.phys.s.u-tokyo.ac.jp>
+Date: Fri, 17 Nov 1995 16:50:07 +0900   (19kb)
+
+Title: Gribov Problem and BRST Symmetry
+Author: Kazuo Fujikawa (Univ. of Tokyo)
+Comments: 20 pages plus 1 figure. To be published in the Proceedings of
+  International Symposium on BRS Symmetry(Universal Academy Press, Tokyo)
+Report-no: UT-732, 1995
+\\
+  After a brief historical comment on the study of BRS(or BRST) symmetry , we
+discuss the quantization of gauge theories with Gribov copies. A path integral
+with BRST symmetry can be formulated by summing the Gribov-type copies in a
+very specific way if the functional correspondence between $\tau$ and the gauge
+parameter $\omega$ defined by $\tau (x) = f( A_{\mu}^{\omega}(x))$ is
+``globally single valued'', where $f( A_{\mu}^{\omega}(x)) = 0 $ specifies the
+gauge condition. As an example of the theory which satisfies this criterion, we
+comment on a soluble gauge model with Gribov-type copies recently analyzed by
+Friedberg, Lee, Pang and Ren. We also comment on a possible connection of the
+dynamical instability of BRST symmetry with the Gribov problem on the basis of
+an index notion.
+\\

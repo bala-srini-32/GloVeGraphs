@@ -1,0 +1,32 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9512052
+From: Ch. Floe Kristjansen <kristjan@alf.nbi.dk>
+Date: Fri, 8 Dec 1995 18:17:06 +0100   (32kb)
+Date (revised): Tue, 12 Dec 1995 18:26:09 +0100
+
+Title: More on the exact solution of the O(n) model on a random lattice and an
+  investigation of the case |n|>2
+Authors: B. Eynard (Saclay) and C. Kristjansen (NORDITA)
+Comments: 27 pages, LaTeX file (uses epsf) + 3 eps figures, formulas involving
+  the string susceptibility corrrected, no change in conclusions
+Report-no: NORDITA-95/70P, SPhT-95/133
+Journal-ref: Nucl.Phys. B466 (1996) 463-487
+\\
+  For $n\in [-2,2]$ the $O(n)$ model on a random lattice has critical points to
+which a scaling behaviour characteristic of 2D gravity interacting with
+conformal matter fields with $c\in [-\infty,1]$ can be associated. Previously
+we have written down an exact solution of this model valid at any point in the
+coupling constant space and for any $n$. The solution was parametrized in terms
+of an auxiliary function. Here we determine the auxiliary function explicitly
+as a combination of $\theta$-functions, thereby completing the solution of the
+model. Using our solution we investigate, for the simplest version of the
+model, hitherto unexplored regions of the parameter space. For example we
+determine in a closed form the eigenvalue density without any assumption of
+being close to or at a critical point. This gives a generalization of the
+Wigner semi-circle law to $n\neq 0$. We also study the model for $|n|>2$. Both
+for $n<-2$ and $n>2$ we find that the model is well defined in a certain region
+of the coupling constant space. For $n<-2$ we find no new critical points while
+for $n>2$ we find new critical points at which the string susceptibility
+exponent $\gamma_{str}$ takes the value $+\frac{1}{2}$.
+\\

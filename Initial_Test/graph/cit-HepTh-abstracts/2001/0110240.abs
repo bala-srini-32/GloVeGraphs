@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0110240
+From: Rubik Poghossian <poghos@avz109.th.physik.uni-bonn.de>
+Date: Fri, 26 Oct 2001 11:01:50 GMT   (18kb)
+
+Title: The coefficients of the Seiberg-Witten prepotential as intersection
+  numbers (?)
+Authors: R. Flume, R. Poghossian, H. Storch
+Comments: 21 pages, To be published in the collection ``From Integrable Models
+  to Gauge Theories'' (World Scientific, Singapore, 02) to honour Sergei
+  Matinyan at the occasion of his 70'th birthday
+Subj-class: High Energy Physics - Theory; Algebraic Geometry
+\\
+  The $n$-instanton contribution to the Seiberg-Witten prepotential of ${\bf
+N}=2$ supersymmetric $d=4$ Yang Mills theory is represented as the integral of
+the exponential of an equivariantly exact form. Integrating out an overall
+scale and a U(1) angle the integral is rewritten as $(4n-3)$ fold product of a
+closed two form. This two form is, formally, a representative of the Euler
+class of the Instanton moduli space viewed as a principal U(1) bundle, because
+its pullback under bundel projection is the exterior derivative of an angular
+one-form. We comment on a recent speculation of Matone concerning an analogy
+linking the instanton problem and classical Liouville theory of punctured
+Riemann spheres.
+\\

@@ -1,0 +1,39 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0207120
+From: Herbert Weigel <weigel@tphys.physik.uni-tuebingen.de>
+Date: Fri, 12 Jul 2002 16:43:50 GMT   (106kb)
+Date (revised v2): Sat, 13 Jul 2002 01:35:30 GMT   (103kb)
+
+Title: Calculating Vacuum Energies in Renormalizable Quantum Field Theories: A
+  New Approach to the Casimir Problem
+Authors: N. Graham, R. L. Jaffe, V. Khemani, M. Quandt, M. Scandurra, H. Weigel
+Comments: 36pages, Latex, 20 eps files. included via epsfig
+Report-no: UCLA/02/TEP/14, MIT-CTP-3278, UNITU-HEP-11/2002
+Journal-ref: Nucl.Phys. B645 (2002) 49-84
+\\
+  The Casimir problem is usually posed as the response of a fluctuating quantum
+field to externally imposed boundary conditions. In reality, however, no
+interaction is strong enough to enforce a boundary condition on all frequencies
+of a fluctuating field. We construct a more physical model of the situation by
+coupling the fluctuating field to a smooth background potential that implements
+the boundary condition in a certain limit. To study this problem, we develop
+general new methods to compute renormalized one--loop quantum energies and
+energy densities. We use analytic properties of scattering data to compute
+Green's functions in time--independent background fields at imaginary momenta.
+Our calculational method is particularly useful for numerical studies of
+singular limits because it avoids terms that oscillate or require cancellation
+of exponentially growing and decaying factors. To renormalize, we identify
+potentially divergent contributions to the Casimir energy with low orders in
+the Born series to the Green's function. We subtract these contributions and
+add back the corresponding Feynman diagrams, which we combine with counterterms
+fixed by imposing standard renormalization conditions on low--order Green's
+functions. The resulting Casimir energy and energy density are finite
+functionals for smooth background potentials. In general, however, the Casimir
+energy diverges in the boundary condition limit. This divergence is real and
+reflects the infinite energy needed to constrain a fluctuating field on all
+energy scales; renormalizable quantum field theories have no place for ad hoc
+surface counterterms. We apply our methods to simple examples to illustrate
+cases where these subtleties invalidate the conclusions of the boundary
+condition approach.
+\\

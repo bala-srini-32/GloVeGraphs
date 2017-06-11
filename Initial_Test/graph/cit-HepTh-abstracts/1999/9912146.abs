@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9912146
+From: Poul Henrik Damgaard <phdamg@nbi.dk>
+Date: Thu, 16 Dec 1999 16:46:07 GMT   (19kb)
+Date (revised v2): Wed, 22 Dec 1999 10:19:28 GMT   (19kb)
+Date (revised v3): Tue, 31 Oct 2000 15:27:57 GMT   (19kb)
+
+Title: Spectral Sum Rules of the Dirac operator and Partially Quenched Chiral
+  Condensates
+Authors: P.H. Damgaard and K. Splittorff
+Comments: LaTeX, 19 pages, misprints corrected
+Journal-ref: Nucl.Phys. B572 (2000) 478-498
+\\
+  Exploiting Virasoro constraints on the effective finite-volume partition
+function, we derive generalized Leutwyler-Smilga spectral sum rules of the
+Dirac operator to high order. By introducing $N_v$ fermion species of equal
+masses, we next use the Virasoro constraints to compute two (low-mass and
+large-mass) expansions of the partially quenched chiral condensate through the
+replica method of letting $N_v \to 0$. The low-mass expansion can only be
+pushed to a certain finite order due to de Wit-'t Hooft poles, but the
+large-mass expansion can be carried through to arbitrarily high order. Results
+agree exactly with earlier results obtained through both Random Matrix Theory
+and the supersymmetric method.
+\\

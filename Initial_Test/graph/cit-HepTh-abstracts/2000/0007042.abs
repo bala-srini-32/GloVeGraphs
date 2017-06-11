@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0007042
+From: "Shinsuke M. Nishigaki" <nishigak@th.phys.titech.ac.jp>
+Date: Wed, 5 Jul 2000 23:49:46 GMT   (4kb)
+Date (revised v2): Sun, 1 Oct 2000 20:17:44 GMT   (3kb)
+
+Title: Comment on Dirac spectral sum rules for QCD_3
+Authors: S. M. Nishigaki
+Comments: REVTeX 3.1, 2 pages, no figure. (v2) redundant part removed,
+  conclusion unchanged
+Report-no: TIT-HEP-452
+Journal-ref: Phys.Rev. D64 (2001) 018901
+\\
+  Recently Magnea hep-th/9907096 , hep-th/9912207 [Phys.Rev.D61, 056005 (2000);
+Phys.Rev.D62, 016005 (2000)] claimed to have computed the first sum rules for
+Dirac operators in 3D gauge theories from 0D non-linear sigma models. I point
+out that these computations are incorrect, and that they contradict with the
+exact results for the spectral densities unambiguously derived from random
+matrix theory by Nagao and myself.
+\\

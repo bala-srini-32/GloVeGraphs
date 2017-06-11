@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0010191
+From: Julian Lee <jul@hep1.c.u-tokyo.ac.jp>
+Date: Mon, 23 Oct 2000 02:20:25 GMT   (51kb)
+Date (revised v2): Mon, 30 Oct 2000 05:32:10 GMT   (51kb)
+Date (revised v3): Thu, 5 Apr 2001 04:19:25 GMT   (22kb)
+
+Title: Tunneling between the giant gravitons in AdS5 x S5
+Authors: Julian Lee
+Comments: revtex, 8 pages, 2 figures. The conclusion is changed to claim that
+  there is no instanton. Discussions on the supersymmetry of the classical
+  solution and the non-relativistic limit are removed and added, respectively.
+  The simulations can now be done at
+  http://hep1.c.u-tokyo.ac.jp/~jul/giant1/Applet1.html
+Report-no: UT-KOMABA 00-13
+Journal-ref: Phys.Rev. D64 (2001) 046012
+\\
+  I consider the giant gravitons in AdS5 x S5. By numerical simulation, I show
+a strong indication that there is no instanton solution describing the direct
+tunneling between the giant graviton in the S5 and its dual counterpart in the
+AdS5. I argue that it supports the supersymmetry breaking scenario suggested in
+hep-th/0008015
+\\

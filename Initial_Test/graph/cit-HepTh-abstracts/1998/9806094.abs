@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9806094
+From: Paul S. Aspinwall <psa@math.duke.edu>
+Date: Thu, 11 Jun 1998 21:38:56 GMT   (31kb)
+Date (revised v2): Fri, 12 Jun 1998 01:32:40 GMT   (31kb)
+Date (revised v3): Tue, 30 Mar 1999 16:00:33 GMT   (31kb)
+
+Title: The Heterotic String, the Tangent Bundle, and Derived Categories
+Authors: Paul S. Aspinwall and Ron Y. Donagi
+Comments: 34 pages, 3 figures (published version)
+Report-no: DUKE-CGTP-98-04
+Subj-class: High Energy Physics - Theory; Algebraic Geometry
+Journal-ref: Adv.Theor.Math.Phys. 2 (1998) 1041-1074
+\\
+  We consider the compactification of the E8xE8 heterotic string on a K3
+surface with "the spin connection embedded in the gauge group" and the dual
+picture in the type IIA string (or F-theory) on a Calabi-Yau threefold X. It
+turns out that the same X arises also as dual to a heterotic compactification
+on 24 point-like instantons. X is necessarily singular, and we see that this
+singularity allows the Ramond-Ramond moduli on X to split into distinct
+components, one containing the (dual of the heterotic) tangent bundle, while
+another component contains the point-like instantons. As a practical
+application we derive the result that a heterotic string compactified on the
+tangent bundle of a K3 with ADE singularities acquires nonperturbatively
+enhanced gauge symmetry in just the same fashion as a type IIA string on a
+singular K3 surface. On a more philosophical level we discuss how it appears to
+be natural to say that the heterotic string is compactified using an object in
+the derived category of coherent sheaves. This is necessary to properly extend
+the notion of T-duality to the heterotic string on a K3 surface.
+\\

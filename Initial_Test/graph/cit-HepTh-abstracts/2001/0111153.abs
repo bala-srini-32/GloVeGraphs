@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0111153
+From: Barton Zwiebach <zwiebach@mail.lns.mit.edu>
+Date: Fri, 16 Nov 2001 18:05:30 GMT   (14kb)
+
+Title: A Note on a Proposal for the Tachyon State in Vacuum String Field Theory
+Authors: Leonardo Rastelli, Ashoke Sen and Barton Zwiebach
+Comments: 16 pages, LaTeX
+Report-no: CTP-MIT-3210, CGPG-01/11-2,PUPT-2012
+Journal-ref: JHEP 0202 (2002) 034
+\\
+  We discuss the proposal of Hata and Kawano for the tachyon fluctuation around
+a solution of vacuum string field theory representing a D25 brane. We give a
+conformal field theory construction of their state -- a local insertion of a
+tachyon vertex operator on the sliver surface state, and explain why the
+on-shell momentum condition emerges correctly. We also show that a naive
+computation of the D25-brane tension using data for the three point coupling of
+this state gives an answer that is $(\pi^2/3)(16/27\ln 2)^3 \simeq 2.0558$
+times the expected answer. We demonstrate that this problem arises because the
+HK state does not satisfy the equations of motion in a strong sense required
+for the computation of D-brane tension from the on-shell 3-tachyon coupling.
+\\

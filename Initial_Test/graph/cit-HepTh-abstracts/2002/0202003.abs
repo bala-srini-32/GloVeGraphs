@@ -1,0 +1,35 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0202003
+From: "Stefano Kovacs, DAMTP, Tel. +44 1223 766870" <S.Kovacs@damtp.cam.ac.uk>
+Date: Fri, 1 Feb 2002 20:07:03 GMT   (119kb)
+Date (revised v2): Sun, 3 Feb 2002 20:20:06 GMT   (119kb)
+
+Title: Instanton corrections to circular Wilson loops in N=4 Supersymmetric
+  Yang-Mills
+Authors: Massimo Bianchi, Michael B. Green and Stefano Kovacs
+Comments: LaTeX, 48 pages, 1 figure
+Report-no: DAMTP-2001-59, ROM2F/2001/28
+Journal-ref: JHEP 0204 (2002) 040
+\\
+  It is argued that whereas supersymmetry requires the instanton contribution
+to the expectation value of a straight Wilson line in the N=4 supersymmetric
+SU(2) Yang-Mills theory to vanish, it is not required to vanish in the case of
+a circular Wilson loop. A non-vanishing value can arise from a subtle interplay
+between a divergent integral over bosonic moduli and a vanishing integral over
+fermionic moduli. The one-instanton contribution to such Wilson loops is
+explicitly evaluated in semi-classical approximation. The method utilizes the
+symmetries of the problem to perform the integration over the bosonic and
+fermionic collective coordinates of the instanton. The integral is singular for
+small instantons touching the loop and is regularized by introducing a cutoff
+at the boundary of the (euclidean) AdS_5 moduli space. In the case of a
+circular loop a nonzero finite result is obtained when the cutoff is removed
+and a perimeter divergence subtracted. This is contrasted with the case of the
+straight line where the result is zero after subtraction of an identical
+divergence per unit length. The linear divergence is an artifact of our non
+supersymmetric regulator that deserves further consideration. The
+generalization to gauge group SU(N) with arbitrary N is straightforward in the
+limit of small 't Hooft coupling. The extension to strong 't Hooft coupling is
+more challenging and only a qualitative discussion is given of the AdS/CFT
+correspondence
+\\

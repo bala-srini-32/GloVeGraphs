@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0002189
+From: Bo Sundborg <bo@physto.se>
+Date: Tue, 22 Feb 2000 22:42:05 GMT   (25kb)
+Date (revised v2): Mon, 22 May 2000 11:50:35 GMT   (25kb)
+
+Title: Free Large N Supersymmetric Yang-Mills Theory as a String Theory
+Authors: Parviz Haggi-Mani and Bo Sundborg
+Comments: LaTeX2e, 15 pages, 3 figures, uses youngtab.sty; v2: references on
+  tensionless strings added
+Report-no: USITP-00-01
+Journal-ref: JHEP 0004 (2000) 031
+\\
+  The strong version of Maldacena's AdS/CFT conjecture implies that the large N
+expansion of free N=4 super-YM theory describes an interacting string theory in
+the extreme limit of high spacetime curvature relative to the string length.
+String states may then be understood as composed of SYM string bits. We
+investigate part of the low-lying spectrum of the tensionless (zero-coupling)
+limit and find a large number of states that are not present in the infinite
+tension (strong-coupling) limit, notably several massless spin two particles.
+We observe that all conformal dimensions are N-independent in the free SYM
+theory, implying that masses in the corresponding string theory are unchanged
+by string interactions. Degenerate string states do however mix in the
+interacting string theory because of the complicated N-dependence of general
+CFT two-point functions. Finally we verify the CFT crossing symmetry, which
+corresponds to the dual properties of string scattering amplitudes. This means
+that the SYM operator correlation functions define AdS dual models analogous to
+the Minkowski dual models that gave rise to string theory.
+\\

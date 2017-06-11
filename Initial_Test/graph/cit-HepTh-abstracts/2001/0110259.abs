@@ -1,0 +1,36 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0110259
+From: Robert Oeckl <oeckl@cpt.univ-mrs.fr>
+Date: Mon, 29 Oct 2001 11:30:51 GMT   (90kb)
+Date (revised v2): Thu, 9 May 2002 13:43:42 GMT   (90kb)
+
+Title: Generalized Lattice Gauge Theory, Spin Foams and State Sum Invariants
+Authors: Robert Oeckl (CPT)
+Comments: 58 pages, LaTeX with AMS and XY-Pic macros; typos corrected and
+  references updated
+Report-no: CPT-2001/P.4258
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+\\
+  We construct a generalization of pure lattice gauge theory (LGT) where the
+role of the gauge group is played by a tensor category. The type of tensor
+category admissible (spherical, ribbon, symmetric) depends on the dimension of
+the underlying manifold (<=3, <=4, any). Ordinary LGT is recovered if the
+category is the (symmetric) category of representations of a compact Lie group.
+In the weak coupling limit we recover discretized BF-theory in terms of a
+coordinate free version of the spin foam formulation. We work on general
+cellular decompositions of the underlying manifold.
+  In particular, we are able to formulate LGT as well as spin foam models of
+BF-type with quantum gauge group (in dimension <=4) and with supersymmetric
+gauge group (in any dimension).
+  Technically, we express the partition function as a sum over diagrams
+denoting morphisms in the underlying category. On the LGT side this enables us
+to introduce a generalized notion of gauge fixing corresponding to a
+topological move between cellular decompositions of the underlying manifold. On
+the BF-theory side this allows a rather geometric understanding of the state
+sum invariants of Turaev/Viro, Barrett/Westbury and Crane/Yetter which we
+recover.
+  The construction is extended to include Wilson loop and spin network type
+observables as well as manifolds with boundaries. In the topological (weak
+coupling) case this leads to TQFTs with or without embedded spin networks.
+\\

@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9601033
+From: Tony Sudbery <as2@mailer.york.ac.uk>
+Date: Tue, 9 Jan 1996 12:36:32 +0000 (GMT)   (9kb)
+Date (revised): Thu, 29 Feb 1996 19:03:23 +0000 (GMT)
+
+Title: SU_q(n) Gauge Theory
+Author: Anthony Sudbery
+Comments: 10 pages, Latex. The abstract and introduction have been hyped up to
+  indicate more clearly what parts are refreshed by this quantum-group gauge
+  theory that other quantum-group gauge theories cannot reach. To be published
+  in Physics Letters B
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+Journal-ref: Phys.Lett. B375 (1996) 75-80
+\\
+  A field theory with local transformations belonging to the quantum group
+SU_q(n) is defined on a classical spacetime, with gauge potentials belonging to
+a quantum Lie algebra. Gauge transformations are defined for the potentials
+which lead to the appropriate quantum-group transformations for field strengths
+and covariant derivatives, defined for all elements of SU_q(n) by means of the
+adjoint action. This guarantees a non-trivial deformation. Gauge-invariant
+commutation relations are identified.
+\\

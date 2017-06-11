@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0103007
+From: Jean-Bernard Zuber <jean-bernard.zuber@cern.ch>
+Date: Thu, 1 Mar 2001 15:32:19 GMT   (60kb)
+
+Title: Conformal Boundary Conditions and what they teach us
+Authors: V.B. Petkova and J.-B. Zuber
+Comments: Expanded version of lectures given at the Summer School and
+  Conference Nonperturbative Quantum Field Theoretic Methods and their
+  Applications, August 2000, Budapest, Hungary. 35 pages
+\\
+  The question of boundary conditions in conformal field theories is discussed,
+in the light of recent progress. Two kinds of boundary conditions are examined,
+along open boundaries of the system, or along closed curves or ``seams''.
+Solving consistency conditions known as Cardy equation is shown to amount to
+the algebraic problem of finding integer valued representations of (one or two
+copies of) the fusion algebra. Graphs encode these boundary conditions in a
+natural way, but are also relevant in several aspects of physics ``in the
+bulk''. Quantum algebras attached to these graphs contain information on
+structure constants of the operator algebra, on the Boltzmann weights of the
+corresponding integrable lattice models etc. Thus the study of boundary
+conditions in Conformal Field Theory offers a new perspective on several old
+physical problems and offers an explicit realisation of recent mathematical
+concepts.
+\\

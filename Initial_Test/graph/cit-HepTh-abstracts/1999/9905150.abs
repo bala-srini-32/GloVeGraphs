@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9905150
+From: Matthias Doerrzapf <M.Doerrzapf@damtp.cam.ac.uk>
+Date: Thu, 20 May 1999 17:24:30 GMT   (50kb)
+
+Title: Highest weight representations of the N=1 Ramond algebra
+Authors: Matthias Doerrzapf
+Comments: Latex, 42 pages, 4 figures
+Report-no: DAMTP-99-28
+Subj-class: High Energy Physics - Theory; Mathematical Physics; Representation
+  Theory
+Journal-ref: Nucl.Phys. B595 (2001) 605-653
+\\
+  We analyse the highest weight representations of the N=1 Ramond algebra and
+show that their structure is richer than previously suggested in the
+literature. In particular, we show that certain Verma modules over the N=1
+Ramond algebra contain degenerate (2-dimensional) singular vector spaces and
+that in the supersymmetric case they can even contain subsingular vectors.
+After choosing a suitable ordering for the N=1 Ramond algebra generators we
+compute the ordering kernel, which turns out to be two-dimensional for complete
+Verma modules and one-dimensional for G-closed Verma modules. These
+two-dimensional ordering kernels allow us to derive multiplication rules for
+singular vector operators and lead to expressions for degenerate singular
+vectors. Using these multiplication rules we study descendant singular vectors
+and derive the Ramond embedding diagrams for the rational models. We give all
+explicit examples for singular vectors, degenerate singular vectors, and
+subsingular vectors until level 3. We conjecture the ordering kernel
+coefficients of all (primitive) singular vectors and therefore identify these
+vectors uniquely.
+\\

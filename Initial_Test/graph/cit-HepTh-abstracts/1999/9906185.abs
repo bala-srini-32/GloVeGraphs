@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9906185
+From: Bajnok Zoltan <bajnok@elte.hu>
+Date: Thu, 24 Jun 1999 13:23:18 GMT   (20kb)
+
+Title: A new approach to the correlation functions of W-algebras
+Author: Z. Bajnok
+Comments: 22 pages, LaTeX, Extended version of the talk presented at CFT and
+  Integrable models, Budapest, 1996
+Report-no: ITP-Budapest 524
+\\
+  We propose a new approach to the study of the correlation functions of
+W-algebras. The conformal blocks (chiral correlation functions), for fixed
+arguments, are defined to be those linear functionals on the product of the
+highest weight (h.w.) representation spaces which satisfy the Ward identities.
+First we investigate the dimension of the chiral correlation functions in the
+case when there is no singular vector in any of the representations. Then we
+pass to the analysis of the completely degenerate representations. A special
+subspace of the h.w. representation spaces, introduced by Nahm, plays an
+important role in the considerations. The structure of these subspaces shows a
+deep connection with the quantum and classical Toda models and relates certain
+completely degenerate representations of the \wg algebra to representations of
+$G$. This is confirmed by an analysis for the Virasoro, \wa2 and \wbc2 algebra.
+We also relate our work to Nahms, Feigen-Fuchs' and Watts' results.
+\\

@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0201142
+From: Andreas Fring <fring@physik.fu-berlin.de>
+Date: Fri, 18 Jan 2002 14:41:20 GMT   (61kb)
+Date (revised v2): Mon, 28 Jan 2002 12:41:04 GMT   (61kb)
+Date (revised v3): Sat, 1 Jun 2002 09:50:38 GMT   (61kb)
+
+Title: On the absence of simultaneous reflection and transmission in integrable
+  impurity systems
+Authors: O.A. Castro-Alvaredo, A. Fring and F. G\"ohmann
+Comments: 11 pages Latex, 3 figures, clarifying remarks added
+\\
+  We establish that the Yang-Baxter equations in the presence of an impurity
+can in general only admit solutions of simultaneous tranmission and reflection
+when the transmission and reflection amplitudes commute in the defect degrees
+of freedom with an additional exchange of the corresponding rapidities. In the
+absence of defect degrees of freedom we show in complete generality, that the
+only exceptions to this are theories which possess rapidity independent bulk
+scattering matrices. In particular bulk theories with diagonal scattering
+matrices, can only be the free Boson and Fermion, the Federbush model and their
+generalizations. These anyonic solutions do not admit the possibility of
+excited impurity states.
+\\

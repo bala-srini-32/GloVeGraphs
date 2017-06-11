@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0303052
+From: mccartor <mccartor@mail.physics.smu.edu>
+Date: Thu, 6 Mar 2003 19:37:39 GMT   (7kb)
+
+Title: Calculations in the Light-Cone Representation
+Author: Gary McCartor
+Comments: 7 pages and uses revtex
+Report-no: SMUHEP/03-01
+\\
+  For the problem of calculating bound states in quantum field theory, the
+light-cone representation offers advantages over the more common equal-time
+representation. It also has subtleties and disadvantages compared to the
+equal-time representation. If current efforts to use the light-cone
+representation to solve for the properties of hadrons in QCD are to succeed, at
+least two problems have to be solved: we must find the induced operators; we
+must develop an effective procedure of regularization and renormalization. In
+this paper I will try to explain what an induced operator is and say what we
+know about them and will report on recent attempts to develop an effective
+procedure of regularization and renormalization.
+\\

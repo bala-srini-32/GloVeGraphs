@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0303268
+From: Stephen G. Naculich <naculich@bowdoin.edu>
+Date: Mon, 31 Mar 2003 19:07:50 GMT   (29kb)
+
+Title: Cubic curves from matrix models and generalized Konishi anomalies
+Authors: S. G. Naculich, H. J. Schnitzer, and N. Wyllard
+Comments: 27 pages; 2 figures
+Report-no: BRX-TH-515, BOW-PH-128
+\\
+  We study the matrix model/gauge theory connection for three different N=1
+models: U(N) x U(N) with matter in bifundamental representations, U(N) with
+matter in the symmetric representation, and U(N) with matter in the
+antisymmetric representation. Using Ward identities, we explicitly show that
+the loop equations of the matrix models lead to cubic algebraic curves. We then
+establish the equivalence of the matrix model and gauge theory descriptions in
+two ways. First, we derive generalized Konishi anomaly equations in the gauge
+theories, showing that they are identical to the matrix-model equations.
+Second, we use a perturbative superspace analysis to establish the relation
+between the gauge theories and the matrix models. We find that the gauge
+coupling matrix for U(N) with matter in the symmetric or antisymmetric
+representations is_not_ given by the second derivative of the matrix-model free
+energy. However, the matrix-model prescription can be modified to give the
+gauge coupling matrix.
+\\

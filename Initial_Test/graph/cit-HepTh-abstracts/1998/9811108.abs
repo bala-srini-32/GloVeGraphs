@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9811108
+From: Jean-Loup Gervais <Jean-Loup.Gervais@lpt.ens.fr>
+Date: Thu, 12 Nov 1998 11:15:05 GMT   (15kb)
+
+Title: Progress in classically solving ten dimensional supersymmetric reduced
+  Yang-Mills theories
+Authors: Jean-Loup Gervais and Mikhail Saveliev
+Comments: 17 pages Latex non figures
+Report-no: LPTENS-98/41
+Subj-class: High Energy Physics - Theory; Mathematical Physics; Classical
+  Physics; Exactly Solvable and Integrable Systems
+Journal-ref: Nucl.Phys. B554 (1999) 183-197
+\\
+  It is shown that there exists an on-shell light cone gauge where half of the
+fermionic components of the super vector potential vanish, so that part of the
+superspace flatness conditions becomes linear. After reduction to $(1+1)$
+space-time dimensions, the general solution of this subset of equations is
+derived. The remaining non-linear equations are written in a form which is
+analogous to Yang equations, albeit with superderivatives involving sixteen
+fermionic coordinates. It is shown that this non-linear part may, nevertheless,
+be solved by methods similar to powerful technics previously developed for the
+(purely bosonic) self-dual Yang Mills equations in four dimensions.
+\\

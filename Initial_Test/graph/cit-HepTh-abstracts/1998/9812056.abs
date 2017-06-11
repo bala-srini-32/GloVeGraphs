@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9812056
+From: "S. Solodukhin" <S.Solodukhin@phys.uu.nl>
+Date: Mon, 7 Dec 1998 12:07:38 GMT   (12kb)
+Date (revised v2): Fri, 18 Dec 1998 14:58:43 GMT   (12kb)
+Date (revised v3): Wed, 24 Feb 1999 10:32:08 GMT   (12kb)
+Date (revised v4): Fri, 16 Apr 1999 08:20:40 GMT   (13kb)
+
+Title: Conformal description of horizon's states
+Authors: Sergey N. Solodukhin
+Comments: 13 pages, latex, no figures; the final version to appear in Phys.
+  Lett. B
+Report-no: SPIN-1998/10
+Journal-ref: Phys.Lett. B454 (1999) 213-222
+\\
+  The existence of black hole horizon is considered as a boundary condition to
+be imposed on the fluctuating metrics. The coordinate invariant form of the
+condition for class of spherically symmetric metrics is formulated. The
+diffeomorphisms preserving this condition act in (arbitrary small) vicinity of
+the horizon and form the group of conformal transformations of two-dimensional
+space ($r-t$ sector of the total space-time). The corresponding algebra
+recovered at the horizon is one copy of the Virasoro algebra. For general
+relativity in $d$ dimensions we find an effective two-dimensional theory
+governing the conformal dynamics at the horizon universally for any $d\geq 3$.
+The corresponding Virasoro algebra has central charge $c$ proportional to the
+Bekenstein-Hawking entropy. Identifying the zero-mode configuration we
+calculate $L_0$. The counting of states of this horizon's conformal field
+theory by means of Cardy's formula is in complete agreement with the
+Bekenstein-Hawking expression for the entropy of black hole in $d$ dimensions.
+\\

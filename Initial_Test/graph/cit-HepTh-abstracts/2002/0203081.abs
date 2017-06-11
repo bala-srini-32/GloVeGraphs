@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0203081
+From: Muneto Nitta <nitta@physics.purdue.edu>
+Date: Fri, 8 Mar 2002 20:02:15 GMT   (16kb)
+Date (revised v2): Mon, 18 Mar 2002 19:13:10 GMT   (16kb)
+Date (revised v3): Mon, 17 Jun 2002 22:19:35 GMT   (16kb)
+
+Title: Normal Coordinates in Kahler Manifolds and the Background Field Method
+Authors: Kiyoshi Higashijima, Etsuko Itou (Osaka Univ.) and Muneto Nitta
+  (Purdue Univ.)
+Comments: LaTeX2e, 24 pages, no figures, the version to appear in Prog. Theor.
+  Phys. 108
+Report-no: OU-HET 407, PURD-TH-02-02
+Subj-class: High Energy Physics - Theory; Mathematical Physics
+Journal-ref: Prog.Theor.Phys. 108 (2002) 185-202
+\\
+  Riemann normal coordinates (RNC) are unsuitable for \kahler manifolds since
+they are not holomorphic. Instead, \kahler normal coordinates (KNC) can be
+defined as holomorphic coordinates. We prove that KNC transform as a
+holomorphic tangent vector under holomorphic coordinate transformations, and
+therefore that they are natural extensions of RNC to the case of \kahler
+manifolds. The KNC expansion provides a manifestly covariant background field
+method preserving the complex structure in supersymmetric nonlinear sigma
+models.
+\\

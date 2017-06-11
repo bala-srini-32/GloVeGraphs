@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9907200
+From: Michael Bershadsky <bershad@goedel.harvard.edu>
+Date: Tue, 27 Jul 1999 18:00:39 GMT   (31kb)
+Date (revised v2): Fri, 6 Aug 1999 19:57:48 GMT   (32kb)
+
+Title: Superstring Theory on AdS_2 x S^2 as a Coset Supermanifold
+Authors: N. Berkovits, M. Bershadsky, T. Hauer, S. Zhukov and B. Zwiebach
+Comments: 34 pages, 4 figures, harvmac big mode ; typos corrected, clarified
+  the choice of the real forms
+Report-no: IFT-P-060/99, HUTP-99/A044, CTP-MIT-2878
+Journal-ref: Nucl.Phys. B567 (2000) 61-86
+\\
+  We quantize the superstring on the AdS_2 x S^2 background with Ramond-Ramond
+flux using a PSU(1,1|2)/U(1) x U(1) sigma model with a WZ term. One-loop
+conformal invariance of the model is guaranteed by a general mechanism which
+holds for coset spaces G/H where G is Ricci-flat and H is the invariant locus
+of a Z_4 automorphism of G. This mechanism gives conformal theories for the
+PSU(1,1|2) x PSU(2|2)/SU(2) x SU(2) and PSU(2,2|4)/SO(4,1) x SO(5) coset
+spaces, suggesting our results might be useful for quantizing the superstring
+on AdS_3 x S^3 and AdS_5 x S^5 backgrounds.
+\\

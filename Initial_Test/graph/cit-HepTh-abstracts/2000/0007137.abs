@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0007137
+From: el mostapha sahraoui <sahraoui@theorie.physik.uni-muenchen.de>
+Date: Mon, 17 Jul 2000 17:32:23 GMT   (18kb)
+
+Title: Explicit Derivation of Yang-Mills Self-Dual Solutions on non-Commutative
+  Harmonic Space
+Authors: A. Belhaj, M. Hssaini, E. L. Sahraoui, E. H. Saidi
+Comments: latex, 25 pages
+Report-no: LAB. UFR-HEP/0009
+Journal-ref: Class.Quant.Grav. 18 (2001) 2339-2358
+\\
+  We develop the noncommutative harmonic space (NHS) analysis to study the
+problem of solving the non-linear constraint eqs of noncommutative Yang-Mills
+self-duality in four-dimensions. We show that this space, denoted also as
+NHS($\eta,\theta$), has two SU(2) isovector deformations $\eta^{(ij)}$ and
+$\theta^{(ij)}$ parametrising respectively two noncommutative harmonic
+subspaces NHS($\eta,0$) and NHS($0,\theta$) used to study the self-dual and
+anti self-dual noncommutative Yang-Mills solutions. We formulate the Yang-Mills
+self-dual constraint eqs on NHS($\eta,0$) by extending the idea of harmonic
+analyticity to linearize them. Then we give a perturbative self-dual solution
+recovering the ordinary one. Finally we present the explicit computation of an
+exact self-dual solution.
+\\

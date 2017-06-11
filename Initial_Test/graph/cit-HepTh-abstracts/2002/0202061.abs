@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0202061
+From: glin@cc.NCTU.edu.tw
+Date: Sun, 10 Feb 2002 09:51:43 GMT   (27kb)
+
+Title: Strong-Field QED and the Inverse Mellin Transform
+Authors: Guey-Lin Lin (NCTU)
+Comments: 7 pages including 1 figure, revtex, talk presented in Fifth Workshop
+  on Quantum Field Theory under the Influence of External Conditions, Leipzig,
+  Germany, 10-14 Sep 2001
+Report-no: NCTU-HEP-0202
+\\
+  We introduce the technique of inverse Mellin transform in a problem of
+strong-field QED. We show that the {\it moments} of pair production width in a
+uniform background magnetic field are proportional to the derivatives of photon
+polarization function at the zero momentum. Hence, the pair-production width or
+the absorptive part of the photon polarization function is calculable from the
+latter by the inverse Mellin transform. Using the {\it Kramers-Kronig}
+relation, the dispersive part of photon polarization function can be computed
+as well. Therefore the analytic property of the photon polarization function in
+all energy range is obtained. We also discuss briefly the possible extensions
+of this technique to other problems.
+\\

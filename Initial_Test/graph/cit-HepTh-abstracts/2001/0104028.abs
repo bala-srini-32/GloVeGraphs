@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0104028
+From: Graziano Vernizzi <vernizzi@thphys.ox.ac.uk>
+Date: Tue, 3 Apr 2001 16:57:53 GMT   (25kb)
+
+Title: On the Microscopic Spectra of the Massive Dirac Operator for Chiral
+  Orthogonal and Chiral Symplectic Ensembles
+Authors: F. Abild-Pedersen and G. Vernizzi
+Comments: LaTeX, 33 pages
+Report-no: OUTP-01-21P
+\\
+  Using Random Matrix Theory we set out to compute the microscopic correlators
+of the Euclidean Dirac operator in four dimensions. In particular we consider:
+the chiral Orthogonal Ensemble (chOE), corresponding to a Yang-Mills theory
+with two colors and fermions in the fundamental representation, and the chiral
+Symplectic Ensemble (chSE), corresponding to any number of colors and fermions
+in the adjoint representation. In both cases we deal with an arbitrary number
+of massive fermions. We use a recent method proposed by H. Widom for deriving
+closed formulas for the scalar kernels from which all spectral correlation
+functions of the chGOE and chGSE can be determined. Moreover, we obtain
+complete analytic expressions of such correlators in the double microscopic
+limit, extending previously known results of four-dimensional QCD at beta=1 and
+beta=4 to the general case with N_f flavors, with arbitrary quark masses and
+arbitrary topological charge.
+\\

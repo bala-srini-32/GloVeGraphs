@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0006040
+From: Giampiero.Esposito@na.infn.it
+Date: Tue, 6 Jun 2000 09:29:50 GMT   (10kb)
+
+Title: Quantum Field Theory from First Principles
+Author: Giampiero Esposito
+Comments: 16 pages, plain Tex, paper submitted for the Proceedings of the
+  Conference "Geometrical Aspects of Quantum Fields", Physics Department of
+  Londrina University, April 17-20, 2000
+Report-no: DSF preprint 2000/19
+\\
+  When quantum fields are studied on manifolds with boundary, the corresponding
+one-loop quantum theory for bosonic gauge fields with linear covariant gauges
+needs the assignment of suitable boundary conditions for elliptic differential
+operators of Laplace type. There are however deep reasons to modify such a
+scheme and allow for pseudo-differential boundary-value problems. When the
+boundary operator is allowed to be pseudo-differential while remaining a
+projector, the conditions on its kernel leading to strong ellipticity of the
+boundary-value problem are studied in detail. This makes it possible to develop
+a theory of one-loop quantum gravity from first principles only, i.e. the
+physical principle of invariance under infinitesimal diffeomorphisms and the
+mathematical requirement of a strongly elliptic theory. It therefore seems that
+a non-local formulation of quantum field theory has some attractive features
+which deserve further investigation.
+\\

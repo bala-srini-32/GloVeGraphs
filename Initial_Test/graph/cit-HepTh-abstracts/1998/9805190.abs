@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9805190
+From: Harald Skarke <skarke@zerbina.ph.utexas.edu>
+Date: Wed, 27 May 1998 21:15:44 GMT   (22kb)
+
+Title: Classification of Reflexive Polyhedra in Three Dimensions
+Authors: M. Kreuzer and H. Skarke
+Comments: 19 pages, LaTeX2e
+Report-no: TUW-98-13, UTTG-07-98
+Subj-class: High Energy Physics - Theory; Algebraic Geometry
+Journal-ref: Adv.Theor.Math.Phys. 2 (1998) 847-864
+\\
+  We present the last missing details of our algorithm for the classification
+of reflexive polyhedra in arbitrary dimensions. We also present the results of
+an application of this algorithm to the case of three dimensional reflexive
+polyhedra. We get 4319 such polyhedra that give rise to K3 surfaces embedded in
+toric varieties. 16 of these contain all others as subpolyhedra. The 4319
+polyhedra form a single connected web if we define two polyhedra to be
+connected if one of them contains the other.
+\\

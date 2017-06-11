@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0105169
+From: H. W. Braden <hwb@maths.ed.ac.uk>
+Date: Thu, 17 May 2001 14:40:25 GMT   (8kb)
+Date (revised v2): Thu, 10 Jan 2002 10:35:56 GMT   (8kb)
+
+Title: QCD, Wick's Theorem for KdV $\tau$-functions and the String Equation
+Authors: H. W. Braden, A.Mironov and A.Morozov
+Comments: 7 pages LaTex. Corrections to grant numbers only for administering
+  bureaucrats
+Report-no: EMPG-01-07, FIAN/TD-09/01, ITEP/TH-23/01
+Journal-ref: Phys.Lett. B514 (2001) 293-298
+\\
+  Two consistency conditions for partition functions established by Akemann and
+Dam-gaard in their studies of the fermionic mass dependence of the QCD
+partition function at low energy ({\it a la} Leutwiller-Smilga-Verbaarschot)
+are interpreted in terms of integrable hierarchies. Their algebraic relation is
+shown to be a consequence of Wick's theorem for 2d fermionic correlators
+(Hirota identities) in the special case of the 2-reductions of the KP hierarchy
+(that is KdV/mKdV). The consistency condition involving derivatives is an
+incarnation of the string equation associated with the particular matrix model
+(the particular kind of the Kac-Schwarz operator).
+\\

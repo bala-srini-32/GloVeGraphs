@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9507170
+From: shifman@physics.spa.umn.edu
+Date: Sun, 30 Jul 1995 20:49:36 -0500   (26kb)
+Date (revised): Tue, 1 Aug 1995 14:01:07 -0500
+Date (revised): Wed, 9 Aug 1995 21:09:22 -0500
+Date (revised): Fri, 15 Sep 1995 19:18:51 -0500 (CDT)
+
+Title: Matching Conditions and Duality in N=1 SUSY Gauge Theories in the
+  Conformal Window
+Authors: Ian I. Kogan, Mikhail Shifman, and Arkady Vainshtein
+Comments: Latex, 25 pages, 1 figure. Second revision: we prove that the 't
+  Hooft consistency conditions for the external anomalies of the conserved R
+  current contain no corrections beyond one loop
+Report-no: TPI-MINN-95/18-T, UMN-TH-1350-95, OUTP-95-25P
+Journal-ref: Phys.Rev. D53 (1996) 4526-4537; Erratum-ibid. D59 (1999) 109903
+\\
+  We discuss duality in $N=1$ SUSY gauge theories in Seiberg's conformal
+window, $(3N_c/2)<N_f<3N_c$. The 't Hooft consistency conditions -- the basic
+tool for establishing the infrared duality -- are considered taking into
+account higher order $\alpha$ corrections. The conserved (anomaly free) $R$
+current is built to all orders in $\alpha$. Although this current contains all
+orders in $\alpha$ the 't Hooft consistency conditions for this current are
+shown to be one-loop. This observation thus justifies Seiberg's matching
+procedure. We also briefly discuss the inequivalence of the ``electric" and
+``magnetic" theories at short distances.
+\\

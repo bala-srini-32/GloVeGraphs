@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9703107
+From: itakura kazunori <itakura@hep1.c.u-tokyo.ac.jp>
+Date: Sat, 15 Mar 97 00:59:09 +0900   (17kb)
+
+Title: Spontaneous Symmetry Breaking in Discretized Light-Cone Quantization
+Author: K. Itakura and S. Maedan
+Comments: 25 pages, Latex, no figures, to be published in Progress of
+  Theoretical Physics
+Report-no: UT-Komaba 96-29
+Journal-ref: Prog.Theor.Phys. 97 (1997) 635-652
+\\
+  Spontaneous symmetry breaking of the light-front Gross-Neveu model is studied
+in the framework of the discretized light-cone quantization. Introducing a
+scalar auxiliary field and adding its kinetic term, we obtain a constraint on
+the longitudinal zero mode of the scalar field. This zero-mode constraint is
+solved by using the $1/N$ expansion. In the leading order, we find a nontrivial
+solution which gives the fermion nonzero mass and thus breaks the discrete
+symmetry of the model. It is essential for obtaining the nontrivial solution to
+treat adequately an infrared divergence which appears in the continuum limit.
+We also discuss the constituent picture of the model. The Fock vacuum is
+trivial and an eigenstate of the light-cone Hamiltonian. In the large $N$
+limit, the Hamiltonian consists of the kinetic term of the fermion with dressed
+mass and the interaction term of these fermions.
+\\

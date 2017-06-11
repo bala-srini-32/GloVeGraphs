@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9910023
+From: "S. Solodukhin" <S.Solodukhin@phys.uu.nl>
+Date: Mon, 4 Oct 1999 14:57:14 GMT   (19kb)
+Date (revised v2): Tue, 19 Oct 1999 12:32:58 GMT   (19kb)
+
+Title: Quantum effective action from the AdS/CFT correspondence
+Authors: Kostas Skenderis and Sergey N. Solodukhin
+Comments: 12 pages, latex, no figures; v2: minor improvements and two
+  references added
+Report-no: SPIN-1999/23
+Subj-class: High Energy Physics - Theory; Differential Geometry
+Journal-ref: Phys.Lett. B472 (2000) 316-322
+\\
+  We obtain an Einstein metric of constant negative curvature given an
+arbitrary boundary metric in three dimensions, and a conformally flat one given
+an arbitrary conformally flat boundary metric in other dimensions. In order to
+compute the on-shell value of the gravitational action for these solutions, we
+propose to integrate the radial coordinate from the boundary till a critical
+value where the bulk volume element vanishes. The result, which is a functional
+of the boundary metric, provides a sector of the quantum effective action
+common to all conformal field theories that have a gravitational description.
+We verify that the so-defined boundary effective action is conformally
+invariant in odd (boundary) dimensions and has the correct conformal anomaly in
+even (boundary) dimensions. In three dimensions and for arbitrary static
+boundary metric the bulk metric takes a rather simple form. We explicitly carry
+out the computation of the corresponding effective action and find that it
+equals the non-local Polyakov action.
+\\

@@ -1,0 +1,32 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0203266
+From: Kristian D. Kennaway <kennaway@usc.edu>
+Date: Thu, 28 Mar 2002 10:04:53 GMT   (51kb)
+Date (revised v2): Sun, 23 Jun 2002 07:24:08 GMT   (53kb)
+Date (revised v3): Thu, 12 Dec 2002 08:29:19 GMT   (53kb)
+
+Title: A Geometrical Construction of Rational Boundary States in Linear Sigma
+  Models
+Authors: Kristian D. Kennaway
+Comments: 45 pages, 8 Postscript figures, LaTeX2e. v2: the construction
+  reproduces a larger set of CFT boundary states; clarified discussion of
+  instanton contributions and moduli; other minor improvements; references
+  added . v3: version accepted for publication in Nuclear Physics B (minor
+  changes)
+Report-no: CITUSC/02-008, USC-02/02
+Journal-ref: Nucl.Phys. B647 (2002) 471-511
+\\
+  Starting from the geometrical construction of special Lagrangian submanifolds
+of a toric variety, we identify a certain subclass of A-type D-branes in the
+linear sigma model for a Calabi-Yau manifold and its mirror with the A- and
+B-type Recknagel-Schomerus boundary states of the Gepner model, by reproducing
+topological properties such as their labeling, intersection, and the
+relationships that exist in the homology lattice of the D-branes. In the
+non-linear sigma model phase these special Lagrangians reproduce an old
+construction of 3-cycles relevant for computing periods of the Calabi-Yau, and
+provide insight into other results in the literature on special Lagrangian
+submanifolds on compact Calabi-Yau manifolds. The geometrical construction of
+rational boundary states suggests several ways in which new Gepner model
+boundary states may be constructed.
+\\

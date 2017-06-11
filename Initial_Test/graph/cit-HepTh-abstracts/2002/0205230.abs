@@ -1,0 +1,34 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0205230
+From: Antoine Van Proeyen <antoine.vanproeyen@fys.kuleuven.ac.be>
+Date: Wed, 22 May 2002 16:24:35 GMT   (66kb)
+Date (revised v2): Tue, 18 Jun 2002 16:28:20 GMT   (66kb)
+Date (revised v3): Sun, 8 Dec 2002 19:56:32 GMT   (67kb)
+
+Title: Superconformal N=2, D=5 matter with and without actions
+Authors: Eric Bergshoeff, Sorin Cucu, Tim de Wit, Jos Gheerardyn, Rein
+  Halbersma, Stefan Vandoren and Antoine Van Proeyen
+Comments: 67 pages; v2: title of reference changed and small editing
+  corrections; v3: small typing errors corrected, version published in JHEP
+Report-no: UG-02-37, KUL-TF-02/04, SPIN-2002/14, ITP-UU-02/22
+Journal-ref: JHEP 0210 (2002) 045
+\\
+  We investigate N=2, D=5 supersymmetry and matter-coupled supergravity
+theories in a superconformal context. In a first stage we do not require the
+existence of a Lagrangian. Under this assumption, we already find at the level
+of rigid supersymmetry, i.e. before coupling to conformal supergravity, more
+general matter couplings than have been considered in the literature. For
+instance, we construct new vector-tensor multiplet couplings, theories with an
+odd number of tensor multiplets, and hypermultiplets whose scalar manifold
+geometry is not hyperkaehler.
+  Next, we construct rigid superconformal Lagrangians. This requires some extra
+ingredients that are not available for all dynamical systems. However, for the
+generalizations with tensor multiplets mentioned above, we find corresponding
+new actions and scalar potentials. Finally, we extend the supersymmetry to
+local superconformal symmetry, making use of the Weyl multiplet. Throughout the
+paper, we will indicate the various geometrical concepts that arise, and as an
+application we compute the non-vanishing components of the Ricci tensor of
+hypercomplex group manifolds. Our results can be used as a starting point to
+obtain more general matter-couplings to Poincare supergravity.
+\\

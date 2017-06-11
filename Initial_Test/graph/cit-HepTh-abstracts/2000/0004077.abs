@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0004077
+From: Dietmar Klemm <Dietmar.Klemm@mi.infn.it>
+Date: Tue, 11 Apr 2000 17:28:55 GMT   (20kb)
+Date (revised v2): Tue, 2 May 2000 10:15:09 GMT   (20kb)
+
+Title: Entropy of Black Holes in D=5, N=2 Supergravity and AdS Central Charges
+Authors: S. Cacciatori, D. Klemm, W. A. Sabra, and D. Zanon
+Comments: 25 pages, Latex, no figures, references added
+Report-no: IFUM 657/FT, CAMS/00-04
+Journal-ref: Nucl.Phys. B587 (2000) 277-298
+\\
+  We consider general black holes in D=5, N=2 supergravity coupled to vector
+multiplets, and discuss the issue of microstate counting from various
+viewpoints. The statistical entropy is computed for the near-extremal case
+using the central charge of the $AdS_2$ factor appearing in the near-horizon
+geometry. Furthermore, we explicitly construct the duality transformation
+connecting electrically charged black holes to magnetically charged black
+strings, under which the $AdS_2 \times S^3$ near horizon geometry becomes
+$AdS_3 \times S^2$. For $AdS_3$ the counting of microstates correctly
+reproduces the Bekenstein-Hawking entropy, thus resolving the discrepancy
+previously found for $AdS_2$.
+\\

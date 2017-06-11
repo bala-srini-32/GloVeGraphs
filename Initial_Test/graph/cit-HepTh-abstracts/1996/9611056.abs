@@ -1,0 +1,16 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9611056
+From: brandt@ecm.ub.es
+Date: Fri, 8 Nov 1996 12:49:43 +0100   (8kb)
+
+Title: Ward identities for rigid symmetries of higher order
+Authors: Friedemann Brandt, Marc Henneaux, Andr\'e Wilch
+Comments: 8 pages, LaTex2.09, no figures
+Report-no: UB-ECM-PF 96/18, ULB-TH-96/17
+\\
+  Higher order conservation laws, associated with conserved antisymmetric
+tensors $j^{\mu_1 ... \mu_k}$ fulfilling $\partial_{\mu_1} j^{\mu_1 ...
+\mu_k} \approx 0$, are shown to define rigid symmetries of the master equation.
+They thus lead to independent Ward identities which are explicitly derived.
+\\

@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9610011
+From: "Gennaro Miele - ph: +39-81-7253344" <MIELE@napoli.infn.it>
+Date: Wed, 2 Oct 1996 17:42:34 +0100 (CET)   (19kb)
+Date (revised): Tue, 22 Oct 1996 16:45:03 +0100 (CET)
+
+Title: Heat-kernel Coefficients and Spectra of the Vector Laplacians on
+  Spherical Domains with Conical Singularities
+Authors: Lara De Nardo, Dmitri V. Fursaev and Gennaro Miele
+Comments: plain LaTeX, 23 pp., revised version, a misprint in expressions (1.8)
+  and (4.38) of the second heat coefficient for the vector Laplacian is
+  corrected. No other changes
+Report-no: DSF-T-44/96
+Journal-ref: Class.Quant.Grav. 14 (1997) 1059-1078
+\\
+  The spherical domains $S^d_\beta$ with conical singularities are a convenient
+arena for studying the properties of tensor Laplacians on arbitrary manifolds
+with such a kind of singular points. In this paper the vector Laplacian on
+$S^d_\beta$ is considered and its spectrum is calculated exactly for any
+dimension $d$. This enables one to find the Schwinger-DeWitt coefficients of
+this operator by using the residues of the $\zeta$-function. In particular,
+the second coefficient, defining the conformal anomaly, is explicitly
+calculated on $S^d_\beta$ and its generalization to arbitrary manifolds is
+found. As an application of this result, the standard renormalization of the
+one-loop effective action of gauge fields is demonstrated to be sufficient to
+remove the ultraviolet divergences up to the first order in the conical deficit
+angle.
+\\

@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9512197
+From: H.Suzuki <hsuzuki@mito.ipc.ibaraki.ac.jp>
+Date: Mon, 25 Dec 95 18:36:58 JST   (21kb)
+
+Title: The Hydrogen Atom in Strong Electric Fields: Summation of the Weak Field
+  Series Expansion
+Authors: Ken-ichi Hiraizumi, Yoshihisa Ohshima and Hiroshi Suzuki (Ibaraki
+  University)
+Comments: 14 pages, 8 figures
+Report-no: IU-MSTP/5
+\\
+  The order dependent mapping method, its convergence has recently been proven
+for the energy eigenvalue of the anharmonic oscillator, is applied to re-sum
+the standard perturbation series for Stark effect of the hydrogen atom. We
+perform a numerical experiment up to the fiftieth order of the perturbation
+expansion. A simple mapping suggested by the analytic structure and the strong
+field behavior gives an excellent agreement with the exact value for an
+intermediate range of the electric field, $0.03\leq E\leq0.25$. The imaginary
+part of the energy (the decay width) as well as the real part of the energy is
+reproduced from the standard perturbation series.
+\\

@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0104151
+From: Li Yu Qi <qylee@itp.ac.cn>
+Date: Wed, 18 Apr 2001 10:24:09 GMT   (13kb)
+
+Title: On Symplectic, Multisymplectic Structures-Preserving in Simple Finite
+  Element Method
+Authors: Han-Ying Guo, Xiao-mei Ji, Yu-Qi Li and Ke Wu
+Comments: 15 pages, 3 figures
+\\
+  By the simple finite element method, we study the symplectic, multisymplectic
+structures and relevant preserving properties in some semi-linear elliptic
+boundary value problem in one-dimensional and two-dimensional spaces
+respectively. We find that with uniform mesh, the numerical schemes derived
+from finite element method can keep a preserved symplectic structure in
+one-dimensional case and a preserved multisymplectic structure in
+two-dimentional case respectively. These results are in fact the intrinsic
+reason that the numerical experiments indicate that such finite element schemes
+are accurate in practice.
+\\

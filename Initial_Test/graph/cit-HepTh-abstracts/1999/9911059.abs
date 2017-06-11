@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9911059
+From: Arno Bohm <bohm@physics.utexas.edu>
+Date: Tue, 9 Nov 1999 21:53:47 GMT   (13kb)
+
+Title: Semigroup Representations of the Poincare Group and Relativistic Gamow
+  Vectors
+Authors: A. Bohm, H. Kaldass, S. Wickramasekara and P. Kielanowski
+Comments: 8 pages, revtex
+Subj-class: High Energy Physics - Theory; Mathematical Physics
+Journal-ref: Phys.Lett. A264 (2000) 425-433
+\\
+  Gamow vectors are generalized eigenvectors (kets) of self-adjoint
+Hamiltonians with complex eigenvalues $(E_{R}\mp i\Gamma/2)$ describing
+quasistable states. In the relativistic domain this leads to Poincar\'e
+semigroup representations which are characterized by spin $j$ and by complex
+invariant mass square
+${\mathsf{s}}={\mathsf{s}}_{R}=(M_{R}-\frac{i}{2}\Gamma_{R})^{2}$. Relativistic
+Gamow kets have all the properties required to describe relativistic resonances
+and quasistable particles with resonance mass $M_{R}$ and lifetime
+$\hbar/\Gamma_{R}$.
+\\

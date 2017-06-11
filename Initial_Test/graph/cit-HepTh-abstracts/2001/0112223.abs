@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0112223
+From: Volovich Anastasia <nastya@gauss.harvard.edu>
+Date: Sat, 22 Dec 2001 17:21:27 GMT   (24kb)
+Date (revised v2): Thu, 14 Feb 2002 04:24:55 GMT   (24kb)
+
+Title: Vacuum States and the S-Matrix in dS/CFT
+Authors: Marcus Spradlin, Anastasia Volovich
+Comments: 25 pages, 1 figure (references and some clarifying footnotes added)
+Journal-ref: Phys.Rev. D65 (2002) 104037
+\\
+  We propose a definition of dS/CFT correlation functions by equating them to
+S-matrix elements for scattering particles from I^- to I^+. In planar
+coordinates, which cover half of de Sitter space, we consider instead the
+S-vector obtained by specifying a fixed state on the horizon. We construct the
+one-parameter family of de Sitter invariant vacuum states for a massive scalar
+field in these coordinates, and show that the vacuum obtained by analytic
+continuation from the sphere has no particles on the past horizon. We use this
+formalism to provide evidence that the one-parameter family of vacua
+corresponds to marginal deformations of the CFT by computing a three-point
+function.
+\\

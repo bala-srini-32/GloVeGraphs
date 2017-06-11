@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9503073
+From: Yoav Peleg <yoav@csd.uwm.edu>
+Date: Fri, 10 Mar 1995 16:00:49 -0600   (23kb)
+Date (revised): Fri, 31 Mar 1995 16:53:28 -0600
+
+Title: Self-Adjoint Wheeler-DeWitt Operators, the Problem of Time and the Wave
+  Function of the Universe
+Authors: Joshua Feinberg (Department of Physics, The University of Texas at
+  Austin) and Yoav Peleg (Department of Physics, University of Wisconsin at
+  Milwaukee). Section 2 revised (discussion of dust matter removed). Some
+  references added. No change of conclusions.
+Comments: 31 pages, LATEX
+Report-no: UTTG-5-95, WISC-MILW-95-TH-12
+Journal-ref: Phys.Rev. D52 (1995) 1988-2000
+\\
+  We discuss minisuperspace aspects a non empty Robertson-Walker universe
+containing scalar matter field. The requirement that the Wheeler-DeWitt (WDW)
+operator be self adjoint is a key ingredient in constructing the physical
+Hilbert space and has non-trivial cosmological implications since it is related
+with the problem of time in quantum cosmology. Namely, if time is parametrized
+by matter fields we find two types of domains for the self adjoint WDW
+operator: a non trivial domain is comprised of zero current (Hartle-Hawking
+type) wave functions and is parametrized by two new parameters, whereas the
+domain of a self adjoint WDW operator acting on tunneling (Vilenkin type) wave
+functions is a {\em single} ray. On the other hand, if time is parametrized by
+the scale factor both types of wave functions give rise to non trivial domains
+for the self adjoint WDW operators, and no new parameters appear in them.
+\\

@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9502122
+From: klimcik@surya20.cern.ch (Ctirad KLIMCIK)
+Date: Mon, 20 Feb 1995 18:35:40 --100   (13kb)
+Date (revised): Wed, 22 Feb 1995 15:16:44 --100
+Date (revised): Mon, 10 Jul 1995 18:27:24 --100
+
+Title: Dual Non-Abelian Duality and the Drinfeld Double
+Authors: C. Klimcik, P. Severa
+Comments: (misprint in the bialgebra condition corrected)
+Journal-ref: Phys.Lett. B351 (1995) 455-462
+\\
+  The standard notion of the non-Abelian duality in string theory is
+generalized to the class of $\si$-models admitting `non-commutative conserved
+charges'. Such $\si$-models can be associated with every Lie bialgebra $(\cg
+,\cgt)$ and they possess an isometry group iff the commutant
+  $[\cgt,\cgt]$ is not equal to $\cgt$. Within the enlarged class of the
+backgrounds the non-Abelian duality {\it is} a duality transformation in the
+proper sense of the word. It exchanges the roles of $\cg$ and $\cgt$ and it can
+be interpreted as a symplectomorphism of the phase spaces of the mutually dual
+theories. We give explicit formulas for the non-Abelian duality transformation
+for any $(\cg,\cgt)$. The non-Abelian analogue of the Abelian modular space
+$O(d,d;{\bf Z})$ consists of all maximally isotropic decompositions of the
+corresponding Drinfeld double.
+\\

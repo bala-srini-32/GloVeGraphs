@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0304241
+From: Esko Keski-Vakkuri <keskivak@pcu.helsinki.fi>
+Date: Mon, 28 Apr 2003 15:09:40 GMT   (46kb)
+
+Title: The Taming of Closed Time-like Curves
+Authors: Rahul Biswas, Esko Keski-Vakkuri, Robert G. Leigh, Sean Nowling and
+  Eric Sharpe
+Comments: 35 pages, LaTeX2e, uses amssymb, amsmath and epsf macros, 7 eps and 3
+  ps figures
+Report-no: HIP-2003-28/TH, CERN-TH/2003-097
+\\
+  We formulate QFT on a $R^{1,d}/Z_2$ orbifold, in a manner which is invariant
+under the $Z_2$ time and space reversal. This is a background with closed
+time-like curves. It is also relevant for the elliptic interpretation of de
+Sitter space. We calculate the one-loop vacuum expectation value of the stress
+tensor in the invariant QFT, and show that it does not diverge at the boundary
+of the region of closed time-like curves. Rather, the only divergence is at the
+initial time slice of the orbifold, analogous to a spacelike Big-Bang
+singularity. We then calculate the one-loop graviton tadpole in bosonic string
+theory, and show that the answer is the same as if the target space would be
+just the Minkowski space $R^{1,d}$, suggesting that the tadpole vanishes for
+the superstring. Finally, we argue that it is possible to define local
+S-matrices, even if the spacetime is globally time-nonorientable.
+\\

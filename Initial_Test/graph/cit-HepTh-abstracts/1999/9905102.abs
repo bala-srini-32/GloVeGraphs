@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9905102
+From: Buchholz <buchholz@theorie.physik.uni-goettingen.de>
+Date: Fri, 14 May 1999 12:18:26 GMT   (10kb)
+Date (revised v2): Fri, 24 Sep 1999 15:17:38 GMT   (10kb)
+Date (revised v3): Thu, 5 Oct 2000 12:30:12 GMT   (10kb)
+
+Title: Graded KMS Functionals and the Breakdown of Supersymmetry
+Authors: Detlev Buchholz, Roberto Longo
+Comments: 9 pages, Latex, note added about a generalization of Corollary 8
+Subj-class: High Energy Physics - Theory; Mathematical Physics
+Journal-ref: Adv.Theor.Math.Phys. 3 (1999) 615-626; Addendum-ibid. 6 (1999)
+  1909-1910
+\\
+  It is shown that the modulus of any graded or, more generally, twisted KMS
+functional of a C*-dynamical system is proportional to an ordinary KMS state
+and the twist is weakly inner in the corresponding GNS-representation. If the
+functional is invariant under the adjoint action of some asymptotically abelian
+family of automorphisms, then the twist is trivial. As a consequence, such
+functionals do not exist for supersymmetric C*-dynamical systems. This is in
+contrast with the situation in compact spaces where super KMS functionals occur
+as super-Gibbs functionals.
+\\

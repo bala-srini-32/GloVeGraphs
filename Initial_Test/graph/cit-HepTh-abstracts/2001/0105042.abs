@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0105042
+From: "Prof.S.D.Joglekar" <sdj@iitk.ac.in>
+Date: Fri, 4 May 2001 03:07:40 GMT   (19kb)
+Date (revised v2): Tue, 8 May 2001 07:36:20 GMT   (19kb)
+
+Title: Application of finite field-dependent BRS transformations to problems of
+  the Coulomb gauge
+Authors: S.D. Joglekar (I.I.T.Kanpur India) and B.P.Mandal (S.N.Bose centre
+  Calcutta India)
+Comments: LaTeX 20 pages,minor corrections in eq.(4.6)-(4.8)
+Report-no: IITK/PHY/2001/8
+Journal-ref: Int.J.Mod.Phys. A17 (2002) 1279-1300
+\\
+  We discuss the Coulomb propagator in the formalism developed recently in
+which we construct the Coulomb gauge path-integral by correlating it with the
+well-defined Lorentz gauge path-integrals through a finite field-dependent BRS
+transformation. We discover several features of the Coulomb gauge from it. We
+find that the singular Coulomb gauge HAS to be treated as the gauge parameter
+lambda --> 0 limit. We further find that the propagator so obtained has good
+high energy behavior (k_0^{-2}) for lambda and epsilon nonzero. We further find
+that the behavior of the propagator so obtained is sensitive to the order of
+limits k_0 -->infinity, lambda -->0 and epsilon --> 0; so that these have to be
+handled carefully in a higher loop calculation. We show that we can arrive at
+the result of Cheng and Tsai for the ambiguous two loop Feynman integrals
+without the need for an extra ad hoc regularization and within the path
+integral formulation.
+\\

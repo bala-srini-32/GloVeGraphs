@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9809109
+From: SILVA Sebastian <sebastian.silva@lpt.ens.fr>
+Date: Tue, 15 Sep 1998 14:43:44 GMT   (19kb)
+Date (revised v2): Thu, 1 Apr 1999 15:18:41 GMT   (24kb)
+
+Title: On Superpotentials and Charge Algebras of Gauge Theories
+Authors: S. Silva
+Comments: 32 pages, LaTex. The proposal is restricted to first order theories.
+  An appendix is added. Some references are added
+Report-no: LPTENS 98-36
+Journal-ref: Nucl.Phys. B558 (1999) 391-415
+\\
+  We propose a new "Hamiltonian inspired" covariant formula to define (without
+harmful ambiguities) the superpotential and the physical charges associated to
+a gauge symmetry. The criterion requires the variation of the Noether current
+not to contain any derivative terms in $\partial_{\mu}\delta \f$.
+  The examples of Yang-Mills (in its first order formulation) and 3-dimensional
+Chern-Simons theories are revisited and the corresponding charge algebras (with
+their central extensions in the Chern-Simons case) are computed in a
+straightforward way.
+  We then generalize the previous results to any (2n+1)-dimensional non-abelian
+Chern-Simons theory for a particular choice of boundary conditions. We compute
+explicitly the superpotential associated to the non-abelian gauge symmetry
+which is nothing but the Chern-Simons Lagrangian in (2n-1) dimensions. The
+corresponding charge algebra is also computed. However, no associated central
+charge is found for $n \geq 2$.
+  Finally, we treat the abelian p-form Chern-Simons theory in a similar way.
+\\

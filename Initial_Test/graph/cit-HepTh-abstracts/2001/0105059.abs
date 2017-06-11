@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0105059
+From: wati@itp.ucsb.edu (Washington Taylor)
+Date: Mon, 7 May 2001 19:18:19 GMT   (23kb)
+Date (revised v2): Mon, 4 Jun 2001 23:44:01 GMT   (24kb)
+
+Title: Split string field theory I
+Authors: David J. Gross (ITP) and Washington Taylor (ITP, MIT)
+Comments: 23 pages, Latex; v2: references added, typos fixed, footnote added
+Report-no: NSF-ITP-01-33, MIT-CTP-3130
+Journal-ref: JHEP 0108 (2001) 009
+\\
+  We describe projection operators in the matter sector of Witten's cubic
+string field theory using modes on the right and left halves of the string.
+These projection operators represent a step towards an analytic solution of the
+equations of motion of the full string field theory, and can be used to
+construct Dp-brane solutions of the string field theory when the BRST operator
+Q is taken to be pure ghost, as suggested in the recent conjecture by Rastelli,
+Sen and Zwiebach. We show that a family of solutions related to the sliver
+state are rank one projection operators on the appropriate space of half-string
+functionals, and we construct higher rank projection operators corresponding to
+configurations of multiple D-branes.
+\\

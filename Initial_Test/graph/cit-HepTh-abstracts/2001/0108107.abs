@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0108107
+From: Henrique Boschi-Filho <boschi@if.ufrj.br>
+Date: Tue, 14 Aug 2001 17:45:32 GMT   (9kb)
+Date (revised v2): Thu, 23 Aug 2001 19:12:41 GMT   (9kb)
+Date (revised v3): Mon, 18 Mar 2002 17:32:27 GMT   (10kb)
+Date (revised v4): Tue, 22 Oct 2002 19:09:14 GMT   (8kb)
+
+Title: Virial coefficients from 2+1 dimensional QED effective actions at finite
+  temperature and density
+Authors: P. F. Borges, H. Boschi-Filho, Marcelo Hott
+Comments: 10 Latex pages, no figures. Version to appear in MPLA
+Journal-ref: Mod.Phys.Lett. A17 (2002) 2079
+\\
+  From spinor and scalar 2+1 dimensional QED effective actions at finite
+temperature and density in a constant magnetic field background, we calculate
+the corresponding virial coefficients for particles in the lowest Landau level.
+These coefficients depend on a parameter theta related to the time-component of
+the gauge field, which plays an essential role for large gauge invariance. The
+variation of the parameter theta might lead to an interpolation between
+fermionic and bosonic virial coefficients, although these coefficients are
+singular for theta=pi/2.
+\\

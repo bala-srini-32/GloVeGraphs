@@ -1,0 +1,34 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0212116
+From: Arutyunov <agleb@aei-potsdam.mpg.de>
+Date: Tue, 10 Dec 2002 19:21:27 GMT   (46kb)
+Date (revised v2): Sun, 26 Jan 2003 20:01:03 GMT   (50kb)
+
+Title: Correlation Functions and Massive Kaluza-Klein Modes in the AdS/CFT
+  Correspondence
+Authors: G. Arutyunov, F.A. Dolan, H. Osborn, E. Sokatchev
+Comments: LaTex, 47 pages, 4 figures, the discussion of short representations
+  in the OPE extended
+Report-no: AEI-2002-096, DAMTP-02-148, LAPTH-953/02
+\\
+  We study four-point correlation functions of 1/2-BPS operators in N=4 SYM
+which are dual to massive KK modes in AdS_5 supergravity. On the field theory
+side, the procedure of inserting the SYM action yields partial
+non-renormalisation of the four-point amplitude for such operators. In
+particular, if the BPS operators have dimensions equal to three or four, the
+corresponding four-point amplitude is determined by one or two independent
+functions of the two conformal cross-ratios, respectively. This restriction on
+the amplitude does not merely follow from the superconformal Ward identities,
+it also encodes dynamical information related to the structure of the gauge
+theory Lagrangian. The dimension 3 BPS operator is the AdS/CFT dual of the
+first non-trivial massive Kaluza-Klein mode of the compactified type IIB
+supergravity, whose interactions go beyond the level of the five-dimensional
+gauged N=8 supergravity. We show that the corresponding effective Lagrangian
+has a surprisingly simple sigma-model-type form with at most two derivatives.
+We then compute the supergravity-induced four-point amplitude for the dimension
+3 operators. Remarkably, this amplitude splits into a "free" and an
+"interacting" parts in exact agreement with the structure predicted by the
+insertion procedure. The underlying OPE fulfills the requirements of
+superconformal symmetry and unitarity.
+\\

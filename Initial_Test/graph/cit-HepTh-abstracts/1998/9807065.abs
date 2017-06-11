@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9807065
+From: Rafael I. Nepomechie <nepomechie@physics.miami.edu>
+Date: Thu, 9 Jul 1998 13:59:26 GMT   (19kb)
+
+Title: Duality and quantum-algebra symmetry of the A_{N-1}^(1) open spin chain
+  with diagonal boundary fields
+Authors: Anastasia Doikou and Rafael I. Nepomechie
+Comments: 27 pages, LaTeX, 1 LaTeX figure
+Report-no: UMTG-207
+Subj-class: High Energy Physics - Theory; Exactly Solvable and Integrable
+  Systems
+Journal-ref: Nucl.Phys. B530 (1998) 641-664
+\\
+  We show that the transfer matrix of the A_{N-1}^(1) open spin chain with
+diagonal boundary fields has the symmetry U_q (SU(L)) x U_q (SU(N-L)) x U(1),
+as well as a ``duality'' symmetry which interchanges L and N - L. We exploit
+these symmetries to compute exact boundary S matrices in the regime with q
+real.
+\\

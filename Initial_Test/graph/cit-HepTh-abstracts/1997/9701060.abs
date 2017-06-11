@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9701060
+From: eli@ecm.ub.es (Emili Elizalde)
+Date: Tue, 14 Jan 1997 10:01:22 +0100   (20kb)
+Date (revised): Fri, 7 Nov 1997 14:27:58 GMT
+
+Title: Zeta-function regularization, the multiplicative anomaly and the
+  Wodzicki residue
+Authors: E. Elizalde, L. Vanzo and S. Zerbini
+Comments: LaTeX, 17 pages, 3 figures. Small corrections, two new formulas, and
+  an addition to the references. To appear in Commun. Math. Phys
+Report-no: UTF 394
+Journal-ref: Commun.Math.Phys. 194 (1998) 613-630
+\\
+  The multiplicative anomaly associated with the zeta-function regularized
+determinant is computed for the Laplace-type operators $L_1=-\lap+V_1$ and
+$L_2=-\lap+V_2$, with $V_1$, $V_2$ constant, in a D-dimensional compact smooth
+manifold $ M_D$, making use of several results due to Wodzicki and by direct
+calculations in some explicit examples. It is found that the multiplicative
+anomaly is vanishing for $D$ odd and for D=2. An application to the one-loop
+effective potential of the O(2) self-interacting scalar model is outlined.
+\\

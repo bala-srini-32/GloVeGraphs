@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0210153
+From: Jaume Gomis <gomis@theory.caltech.edu>
+Date: Wed, 16 Oct 2002 19:38:18 GMT   (13kb)
+Date (revised v2): Mon, 21 Oct 2002 21:53:52 GMT   (13kb)
+
+Title: SYM Description of SFT Hamiltonian in a PP-Wave Background
+Authors: Jaume Gomis, Sanefumi Moriyama and Jongwon Park (Caltech)
+Comments: 17 pages, Latex. References corrected, clarifications added
+\\
+  We compute string field theory Hamiltonian matrix elements and compare them
+with matrix elements of the dilatation operator in gauge theory. We get precise
+agreement between the string field theory and gauge theory computations once
+the correct cubic Hamiltonian matrix elements in string field theory and a
+particular basis of states in gauge theory are used. We proceed to compute the
+matrix elements of the dilatation operator to order g_2^2 in this same basis.
+This calculation makes a prediction for string field theory Hamiltonian matrix
+elements to order g_2^2, which have not yet been computed. However, our gauge
+theory results precisely match the results of the recent computation by Pearson
+et al. of the order g_2^2 Hamiltonian matrix elements of the string bit model.
+\\

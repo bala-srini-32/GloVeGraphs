@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9906216
+From: "Shin'ichi Nojiri" <snojiri@yukawa.kyoto-u.ac.jp>
+Date: Mon, 28 Jun 1999 14:57:20 GMT   (15kb)
+Date (revised v2): Thu, 9 Sep 1999 08:54:41 GMT   (16kb)
+
+Title: Running Gauge Coupling and Quark-Antiquark Potential in Non-SUSY Gauge
+  Theory at Finite Temperature from IIB SG/CFT correspondence
+Authors: Shin'ichi Nojiri and Sergei D. Odintsov
+Comments: LaTeX file, 27 pages, misprints are corrected
+Report-no: NDA-FP-66
+Journal-ref: Phys.Rev. D61 (2000) 024027
+\\
+  We discuss the non-constant dilaton deformed ${\rm AdS}_5\times{\rm S}_5$
+solutions of IIB supergravity where AdS sector is described by black hole. The
+investigation of running gauge coupling (exponent of dilaton) of non-SUSY gauge
+theory at finite temperature is presented for different regimes (high or low T,
+large radius expansion). Running gauge coupling shows power-like behavior on
+temperature with stable fixed point. The quark-antiquark potential at finite T
+is found and possibility of confinement is established. It is shown that
+non-constant dilaton affects the potential, sometimes reversing its behavior 
+if we compare it with the constant dilaton case (${\cal N}=4$ super Yang-Mills
+theory). Thermodynamics of obtained backgrounds is studied. In particular,
+next-to-leading term to free energy F is evaluated as $F=-{\tilde V_3 \over
+4\pi^2}({N^2 (\pi T)^4 \over 2} + {5c^2 \over 768 g_{YM}^6 N{\alpha'}^6 (\pi
+T)^4})$. Here $\tilde V_3$ is the volume of the space part in the boundary of
+AdS, c is the parameter coming from the non-constant dilaton and N is the
+number of the coincident D3-branes.
+\\

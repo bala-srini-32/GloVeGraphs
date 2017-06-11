@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0107196
+From: Ellwanger <ellwange@th.u-psud.fr>
+Date: Mon, 23 Jul 2001 15:07:31 GMT   (35kb)
+Date (revised v2): Wed, 14 Nov 2001 15:07:37 GMT   (35kb)
+
+Title: Confinement with Kalb - Ramond Fields
+Authors: U. Ellwanger, N. Wschebor
+Comments: corrected misprints and references
+Report-no: LPT Orsay 01-69
+Journal-ref: JHEP 0110 (2001) 023
+\\
+  We consider models with N U(1) gauge fields A_{\mu}^n, N Kalb-Ramond fields
+B_{\mu \nu}^n, an arbitrary bare action and a fixed UV cutoff \Lambda. Under
+mild assumptions these can be obtained as effective low energy theories of
+SU(N+1) Yang Mills theories in the maximal abelian gauge. For a large class of
+bare actions they can be solved in the large N limit and exhibit confinement.
+The confining phase is characterized by an approximate ``low energy'' vector
+gauge symmetry under which the Kalb-Ramond fields B_{\mu\nu}^n transform. The
+same symmetry allows for a duality transformation showing that magnetic
+monopoles have condensed. The models allow for various mechanisms of
+confinement, depending on which sources for A_{\mu}^n or B_{\mu \nu}^n are
+switched on, but the area law for the Wilson loop is obtained in any case.
+\\

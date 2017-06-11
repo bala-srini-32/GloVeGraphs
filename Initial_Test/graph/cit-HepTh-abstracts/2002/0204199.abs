@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0204199
+From: Dr Michael K. Murray <mmurray@maths.adelaide.edu.au>
+Date: Wed, 24 Apr 2002 00:41:48 GMT   (28kb)
+Date (revised v2): Tue, 16 Jul 2002 12:03:06 GMT   (29kb)
+
+Title: Holonomy on D-Branes
+Authors: Alan L. Carey (1), Stuart Johnson (2), and Michael K. Murray (2) ((1)
+  Australian National University, (2) The University of Adelaide)
+Comments: Added some references, corrected some typos andclarified some obscure
+  points. Details at the top of the file
+Subj-class: High Energy Physics - Theory; Differential Geometry
+\\
+  This paper shows how to construct anomaly free world sheet actions in string
+theory with $D$-branes. Our method is to use Deligne cohomology and bundle
+gerbe theory to define geometric objects which are naturally associated to
+$D$-branes and connections on them. The holonomy of these connections can be
+used to cancel global anomalies in the world sheet action.
+\\

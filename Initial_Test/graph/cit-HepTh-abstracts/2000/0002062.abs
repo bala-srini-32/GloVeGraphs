@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0002062
+From: Sergey Paston <sergey.paston@pobox.spbu.ru>
+Date: Tue, 8 Feb 2000 13:22:13 GMT   (148kb)
+Date (revised v2): Tue, 28 Mar 2000 22:17:39 GMT   (148kb)
+
+Title: Constructing the light-front QCD Hamiltonian
+Authors: S. A. Paston, V. A. Franke, E. V. Prokhvatilov
+Comments: LaTex 2.09, 24 pages, 2 figures
+Journal-ref: Theor.Math.Phys. 120 (1999) 1164-1181; Teor.Mat.Fiz. 120 (1999)
+  417-437
+\\
+  We propose the light-front Lagrangian and the corresponding Hamiltonian that
+produce a theory perturbatively equivalent to the conventional QCD in the
+Lorentz coordinates after the regularization is removed. The regularization
+used is nonstandard and breaks the gauge invariance. But after the
+regularization is removed, this invariance is restored by the introduction of a
+finite number of counterterms with coefficients dependent on the regularization
+parameters.
+\\

@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9902116
+From: Eric R. Sharpe <ersharpe@cgtp.duke.edu>
+Date: Tue, 16 Feb 1999 20:20:18 GMT   (20kb)
+
+Title: D-Branes, Derived Categories, and Grothendieck Groups
+Authors: Eric R. Sharpe
+Comments: LaTeX, 21 pages
+Report-no: DUKE-CGTP-99-03
+Journal-ref: Nucl.Phys. B561 (1999) 433-450
+\\
+  In this paper we describe how Grothendieck groups of coherent sheaves and
+locally free sheaves can be used to describe type II D-branes, in the case that
+all D-branes are wrapped on complex varieties and all connections are
+holomorphic. Our proposal is in the same spirit as recent discussions of
+K-theory and D-branes; within the restricted class mentioned, Grothendieck
+groups encode a choice of connection on each D-brane worldvolume, in addition
+to information about the smooth bundles. We also point out that derived
+categories can also be used to give insight into D-brane constructions, and
+analyze how a Z_2 subset of the T-duality group acting on D-branes on tori can
+be understood in terms of a Fourier-Mukai transformation.
+\\

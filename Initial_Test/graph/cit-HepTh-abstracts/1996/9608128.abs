@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9608128
+From: Hajime Oda <oda@gauge.scphys.kyoto-u.ac.jp>
+Date: Tue, 20 Aug 1996 15:13:06 +0900   (12kb)
+
+Title: Causality in Covariant String Field Theory
+Authors: Hiroyuki Hata and Hajime Oda
+Comments: 11 pages + 1 eps figure, LaTeX
+Report-no: KUNS-1404
+Journal-ref: Phys.Lett. B394 (1997) 307-314
+\\
+  Causality is studied in the covariant formulation of free string field theory
+(SFT). We find that, though the string field in the covariant formulation is a
+functional of the ghost coordinates as well as the space-time coordinate and
+the latter contains the time-like oscillators with negative norm, the condition
+for the commutator of two open string fields to vanish is simply given by
+$\int_0^\pi d\sigma\left(\Delta X^\mu(\sigma)\right)^2 >0$, which is the same
+condition as in the light-cone gauge SFT. For closed SFT, the corresponding
+condition is given in a form which is manifestly invariant under the rigid
+shifts of the $\sigma$ parameters of the two string fields.
+\\

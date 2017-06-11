@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9810125
+From: tferm@fy.chalmers.se (Robert Marnelius)
+Date: Fri, 16 Oct 1998 10:27:22 GMT   (22kb)
+Date (revised v2): Thu, 26 Aug 1999 09:05:07 GMT   (26kb)
+
+Title: Basics of BRST quantization on inner product spaces
+Authors: Robert Marnelius, Niclas Sandstrom
+Comments: 32 pages,Latexfile,improved presentation and several new remarks
+Report-no: ITP-Goteborg 98-16
+Journal-ref: Int.J.Mod.Phys. A15 (2000) 833-868
+\\
+  There is an elaborated abstract form of BRST quantization on inner product
+spaces within the operator formalism which leads to BRST invariant states of
+the form |ph>=e^{[Q,\psi]} |\phi> where \psi is a gauge fixing fermion, and
+where |\phi> is a BRST invariant state determined by simple hermitian
+conditions. These state representations are closely related to the path
+integral formulation. Here we analyse the basics of this approach in detail.
+The freedom in the choice of \psi and |\phi> as well as their properties under
+gauge transformations are explicitly determined for simple abelian models. In
+all considered cases SL(2,R) is shown both to be a natural extended gauge
+symmetry and to be useful to determine |ph>. The results are also applied to
+nonabelian models.
+\\

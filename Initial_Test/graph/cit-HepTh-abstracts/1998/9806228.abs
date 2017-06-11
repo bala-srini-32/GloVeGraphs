@@ -1,0 +1,19 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9806228
+From: Frank Wilczek <wilczek@IAS.EDU>
+Date: Mon, 29 Jun 1998 14:06:26 GMT   (4kb)
+
+Title: Projective Statistics and Spinors in Hilbert Space
+Author: Frank Wilczek
+Comments: LaTeX, 3 pages
+Report-no: IASSNS-HEP98-61
+\\
+  In quantum mechanics, symmetry groups can be realized by projective, as well
+as by ordinary unitary, representations. For the permutation symmetry relevant
+to quantum statistics of N indistinguishable particles, the simplest properly
+projective representation is highly non-trivial, of dimension $2^{(N-1)/2}$,
+and is most easily realized starting with spinor geometry. Quasiparticles in
+the Pfaffian quantum Hall state realize this representation. Projective
+statistics is a consistent theoretical possibility in any dimension.
+\\

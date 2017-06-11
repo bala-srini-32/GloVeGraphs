@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9704157
+From: Peter Haagensen <haagense@CTP.MIT.EDU>
+Date: Tue, 22 Apr 1997 19:52:06 -0400 (EDT)   (17kb)
+Date (revised): Tue, 22 Apr 1997 20:05:38 -0400 (EDT)
+Date (revised): Tue, 29 Apr 1997 18:30:20 -0400 (EDT)
+
+Title: T-Duality and Two-Loop Renormalization Flows
+Authors: Peter E. Haagensen and Kasper Olsen
+Comments: 18 pp., plain TeX + harvmac. Typos in Eqs. (4.3), (4.5) and (4.7)
+  corrected, and references added
+Report-no: MIT-CTP-2625
+Journal-ref: Nucl.Phys. B504 (1997) 326-342
+\\
+  Manifest T-duality covariance of the one-loop renormalization group flows is
+shown for a generic bosonic sigma model with an abelian isometry, by referring
+a set of previously derived consistency conditions to the tangent space of the
+target. For a restricted background, T-duality transformations are then studied
+at the next order, and the ensuing consistency conditions are found to be
+satisfied by the two-loop Weyl anomaly coefficients of the model. This
+represents an extremely non-trivial test of the covariance of renormalization
+group flows under T-duality, and a stronger condition than T-duality invariance
+of the string background effective action.
+\\

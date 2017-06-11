@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9910108
+From: Dipankar <dipankar@tnp.saha.ernet.in>
+Date: Thu, 14 Oct 1999 13:22:12 GMT   (39kb)
+Date (revised v2): Wed, 22 Mar 2000 06:56:30 GMT   (40kb)
+
+Title: A Numerical Experiment in DLCQ: Microcausality, Continuum Limit and all
+  that
+Authors: Dipankar Chakrabarti, Asmita Mukherjee, Rajen Kundu, A.Harindranath
+Comments: Minor changes in the text, accepted for publication in Phys. Letts. B
+Journal-ref: Phys.Lett. B480 (2000) 409-417
+\\
+  Issues related with microcausality violation and continuum limit in the
+context of (1+1) dimensional scalar field theory in discretized light-cone
+quantization (DLCQ) are addressed in parallel with discretized equal time
+quantization (DETQ) and the fact that Lorentz invariance and microcausality are
+restored if one can take the continuum limit properly is emphasized. In the
+free case, it is shown with numerical evidence that the continuum results can
+be reproduced from DLCQ results for the Pauli-Jordan function and the real part
+of Feynman propagator. The contributions coming from $k^+$ near zero region in
+these cases are found to be very small in contrast to the common belief that
+$k^+=0$ is an accumulation point. In the interacting case, aspects related to
+the continuum limit of DLCQ results in perturbation theory are discussed.
+\\

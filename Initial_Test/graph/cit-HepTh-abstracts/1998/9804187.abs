@@ -1,0 +1,18 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9804187
+From: S. C. Hahn <hahn@het.brown.edu>
+Date: Tue, 28 Apr 1998 21:03:45 GMT   (14kb)
+
+Title: Numerical Field Theory on the Continuum
+Authors: Stephen C. Hahn and G. S. Guralnik
+Comments: 13 pages, 8 figures, LaTeX 2e
+Report-no: HET-1120, TA-558
+Subj-class: High Energy Physics - Theory; Computational Physics
+\\
+  An approach to calculating approximate solutions to the continuum
+Schwinger-Dyson equations is outlined, with examples for \phi^4 in D=1. This
+approach is based on the source Galerkin methods developed by Garcia, Guralnik
+and Lawson. Numerical issues and opportunities for future calculations are also
+discussed briefly.
+\\

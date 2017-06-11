@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9809099
+From: Maria Asprouli <m.asprouli@ic.ac.uk>
+Date: Mon, 14 Sep 1998 19:10:33 GMT   (7kb)
+
+Title: A way to get a well-defined derivative expansion of real-time thermal
+  effective actions
+Authors: Maria Asprouli, Victor Galan-Gonzalez (Imperial College)
+Comments: 4 pages, 1 figure, REVTeX, to appear in Proceedings of the 5th
+  International Workshop on Thermal Field Theories and Their Applications,
+  Regensburg, Germany, August 10-14, 1998
+\\
+  We compute the quadratic part of the thermal effective action for real scalar
+fields which are initially in thermal equilibrium and vary slowly in time using
+a generalised real-time formalism proposed by Le Bellac and Mabilat
+\cite{belmab}. We derive both Real Time and Imaginary Time Formalisms and find
+that the result is analytic at the limits of zero external four-momenta when
+using our full time contour. We expand the fields in time up to the second
+derivative and discuss the initial time dependence of our result before and
+after the expansion in terms of equilibrium.
+\\

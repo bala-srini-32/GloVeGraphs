@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0006243
+From: Daniel Arnaudon <arnaudon@lapp.in2p3.fr>
+Date: Fri, 30 Jun 2000 13:30:43 GMT   (14kb)
+
+Title: Integrable Ladder t-J Model with Staggered Shift of the Spectral
+  Parameter
+Authors: J. Ambjorn, D. Arnaudon, A. Sedrakyan, T. Sedrakyan, P. Sorba
+Comments: Latex2e with amsfonts package; 16 pages
+Report-no: LAPTH-804/00
+Subj-class: High Energy Physics - Theory; Strongly Correlated Electrons;
+  Exactly Solvable and Integrable Systems
+Journal-ref: J.Phys. A34 (2001) 5887-5900
+\\
+  The generalization of the Yang-Baxter equations (YBE) in the presence of Z_2
+grading along both chain and time directions is presented and an integrable
+model of t-J type with staggered disposition along a chain of shifts of the
+spectral parameter is constructed. The Hamiltonian of the model is computed in
+fermionic formulation. It involves three neighbour site interactions and
+therefore can be considered as a zig-zag ladder model. The Algebraic Bethe
+Ansatz technique is applied and the eigenstates, along with eigenvalues of the
+transfer matrix of the model are found. In the thermodynamic limit, the lowest
+energy of the model is formed by the quarter filling of the states by fermions
+instead of usual half filling.
+\\

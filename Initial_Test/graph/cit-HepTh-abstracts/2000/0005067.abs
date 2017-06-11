@@ -1,0 +1,39 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0005067
+From: Angel Uranga <Angel.Uranga@cern.ch>
+Date: Mon, 8 May 2000 15:25:43 GMT   (91kb)
+Date (revised v2): Sat, 3 Jun 2000 18:15:14 GMT   (92kb)
+
+Title: D-Branes at Singularities : A Bottom-Up Approach to the String Embedding
+  of the Standard Model
+Authors: G. Aldazabal, L. E. Ibanez, F. Quevedo, A. M. Uranga
+Comments: Latex, 75 pages, 8 enclosed figures. Minor corrections, references
+  added
+Report-no: FTUAM-00/10, IFT-UAM/CSIC-00-18, DAMTP-2000-42, CAB-IB 2405300,
+  CERN-TH/2000-127
+Journal-ref: JHEP 0008 (2000) 002
+\\
+  We propose a bottom-up approach to the building of particle physics models
+from string theory. Our building blocks are Type II D-branes which we combine
+appropriately to reproduce desirable features of a particle theory model: 1)
+Chirality ; 2) Standard Model group ; 3) N=1 or N=0 supersymmetry ; 4) Three
+quark-lepton generations. We start such a program by studying configurations of
+D=10, Type IIB D3-branes located at singularities. We study in detail the case
+of Z_N, N=1,0 orbifold singularities leading to the SM group or some left-right
+symmetricextension. In general, tadpole cancellation conditions require the
+presence of additional branes, e.g. D7-branes. For the N=1 supersymmetric case
+the unique twist leading to three quark-lepton generations is Z_3, predicting
+$\sin^2\theta_W=3/14=0.21$. The models obtained are the simplest semirealistic
+string models ever built. In the non-supersymmetric case there is a
+three-generation model for each Z_N, N>4, but the Weinberg angle is in general
+too small. One can obtain a large class of D=4 compact models by considering
+the above structure embedded into a Calabi Yau compactification. We explicitly
+construct examples of such compact models using Z_3 toroidal orbifolds and
+orientifolds, and discuss their properties. In these examples, global
+cancellation of RR charge may be achieved by adding anti-branes stuck at the
+fixed points, leading to models with hidden sector gravity-induced
+supersymmetry breaking. More general frameworks, like F-theory
+compactifications, allow completely $\NN=1$ supersymmetric embeddings of our
+local structures, as we show in an explicit example.
+\\

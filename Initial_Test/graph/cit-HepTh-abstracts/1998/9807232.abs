@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9807232
+From: Fabrizio Nesti <nesti@sissa.it>
+Date: Thu, 30 Jul 1998 17:40:43 GMT   (63kb)
+Date (revised v2): Fri, 18 Sep 1998 12:50:28 GMT   (63kb)
+
+Title: String Interactions from Matrix String Theory
+Authors: G. Bonelli, L. Bonora, F. Nesti
+Comments: 15 pages, 2 eps figures, JHEP Latex class, misprints corrected
+Journal-ref: Nucl.Phys. B538 (1999) 100-116
+\\
+  The Matrix String Theory, i.e. the two dimensional U(N) SYM with N=(8,8)
+supersymmetry, has classical BPS solutions that interpolate between an initial
+and a final string configuration via a bordered Riemann surface. The Matrix
+String Theory amplitudes around such a classical BPS background, in the strong
+Yang--Mills coupling, are therefore candidates to be interpreted in a stringy
+way as the transition amplitude between given initial and final string
+configurations. In this paper we calculate these amplitudes and show that the
+leading contribution is proportional to the factor g_s^{-\chi}, where \chi is
+the Euler characteristic of the interpolating Riemann surface and g_s is the
+string coupling. This is the factor one expects from perturbative string
+interaction theory.
+\\

@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9910003
+From: Yukinori Yasui <yasui@sci.osaka-cu.ac.jp>
+Date: Fri, 1 Oct 1999 07:07:24 GMT   (16kb)
+Date (revised v2): Fri, 3 Dec 1999 10:08:50 GMT   (17kb)
+
+Title: Octonionic Yang-Mills Instanton on Quaternionic Line Bundle of Spin(7)
+  Holonomy
+Authors: H.Kanno and Y.Yasui
+Comments: A reference added; 22 pages,a final version to appear J.Geom.Phys
+Journal-ref: J.Geom.Phys. 34 (2000) 302-320
+\\
+  The total space of the spinor bundle on the four dimensional sphere S^4 is a
+quaternionic line bundle that admits a metric of Spin(7) holonomy. We consider
+octonionic Yang-Mills instanton on this eight dimensional gravitational
+instanton. This is a higher dimensional generalization of (anti-)self-dual
+instanton on the Eguchi-Hanson space.
+  We propose an ansatz for Spin(7) Yang-Mills field and derive a system of
+non-linear ordinary differential equations. The solutions are classified
+according to the asymptotic behavior at infinity. We give a complete solution,
+when the gauge group is reduced to a product of SU(2) subalgebras in Spin(7).
+The existence of more general Spin(7) valued solutions can be seen by making an
+asymptotic expansion.
+\\

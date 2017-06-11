@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0304095
+From: Gernot Akemann <akemann@spht.saclay.cea.fr>
+Date: Thu, 10 Apr 2003 10:53:30 GMT   (20kb)
+
+Title: Universal random matrix correlations of ratios of characteristic
+  polynomials at the spectral edges
+Authors: G. Akemann and Y.V. Fyodorov
+Comments: 18 pages
+Report-no: SPhT T03/036
+Subj-class: High Energy Physics - Theory; Mathematical Physics
+\\
+  It has been shown recently [10] that Cauchy transforms of orthogonal
+polynomials appear naturally in general correlation functions containing ratios
+of characteristic polynomials of random NxN Hermitian matrices. Our main goal
+is to investigate the issue of universality of large N asymptotics for those
+Cauchy transforms for a wide class of weight functions. Our analysis covers
+three different scaling regimes: the "hard edge", the "bulk" and the "soft
+edge" of the spectrum, thus extending the earlier results known for the bulk.
+The principal tool is to show that for finite matrix size N the auxiliary "wave
+functions" associated with the Cauchy transforms obey the same second order
+differential equation as those associated with the orthogonal polynomials
+themselves.
+\\

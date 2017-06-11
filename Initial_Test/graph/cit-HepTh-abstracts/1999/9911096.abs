@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9911096
+From: "Igor R. Klebanov" <klebanov@feynman.princeton.edu>
+Date: Fri, 12 Nov 1999 18:00:01 GMT   (15kb)
+Date (revised v2): Sat, 13 Nov 1999 21:31:49 GMT   (15kb)
+Date (revised v3): Fri, 19 Nov 1999 01:53:38 GMT   (16kb)
+
+Title: Gravity Duals of Fractional Branes and Logarithmic RG Flow
+Authors: Igor R. Klebanov and Nikita A. Nekrasov
+Comments: 15 pages, harvmac; v2: typos corrected; v3: minor corrections,
+  references added
+Report-no: PUPT-1897, ITEP-TH-61/99
+Journal-ref: Nucl.Phys. B574 (2000) 263-274
+\\
+  We study fractional branes in ${\CN}=2$ orbifold and ${\CN}=1$ conifold
+theories. Placing a large number $N$ of regular D3-branes at the singularity
+produces the dual ${\bf AdS}_5\times X^5$ geometry, and we describe the
+fractional branes as small perturbations to this background. For the orbifolds,
+$X^5={\bf S}^5/\Gamma$ and fractional D3-branes excite complex scalars from the
+twisted sector which are localized on the fixed circle of $X^5$. The resulting
+solutions are given by holomorphic functions and the field-theoretic
+beta-function is simply reproduced. For $N$ regular and $M$ fractional
+D3-branes at the conifold singularity we find a non-conformal ${\cal N}=1$
+supersymmetric $SU(N+M)\times SU(N)$ gauge theory. The dual Type $\II$B
+background is ${\bf AdS}_5\times {\bf T}^{1,1}$ with NS-NS and R-R 2-form
+fields turned on. This dual description reproduces the logarithmic flow of
+couplings found in the field theory.
+\\

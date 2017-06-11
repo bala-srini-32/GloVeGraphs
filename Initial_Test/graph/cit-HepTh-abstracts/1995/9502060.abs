@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9502060
+From: westonr@ERE.UMontreal.CA (Weston Robert)
+Date: Thu, 9 Feb 95 22:10:50 -0500   (47kb)
+
+Title: Difference Equations in Spin Chains with a Boundary
+Author: Michio Jimbo, Rinat Kedem, Hitoshi Konno, Tetsuji Miwa and Robert
+  Weston
+Comments: 28 pages, LaTeX with amssymbols.sty, 7 uuencoded postscript figures
+Report-no: RIMS-1005, CRM-2246
+Journal-ref: Nucl.Phys. B448 (1995) 429-456
+\\
+Correlation functions and form factors in vertex models or spin chains are
+known to satisfy certain difference equations called the quantum
+Knizhnik-Zamolodchikov equations. We find similar difference equations for the
+case of semi-infinite spin chain systems with integrable boundary conditions.
+We derive these equations using the properties of the vertex operators and the
+boundary vacuum state, or alternatively through corner transfer matrix
+arguments for the 8-vertex model with a boundary. The spontaneous boundary
+magnetization is found by solving such difference equations. The boundary
+$S$-matrix is also proposed and compared, in the sine-Gordon limit, with
+Ghoshal--Zamolodchikov's result. The axioms satisfied by the form factors in
+the boundary theory are formulated.
+\\

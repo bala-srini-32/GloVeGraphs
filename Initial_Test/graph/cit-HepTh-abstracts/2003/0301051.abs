@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0301051
+From: Joseph Ambrose G. Pagaran <ambrose@zuma.ps.admu.edu.ph>
+Date: Thu, 9 Jan 2003 07:55:04 GMT   (6kb)
+
+Title: Maxwell $F^N$ Characteristic Equation Algorithm Applied to Abelian
+  Born-Infeld Action in Dp-branes
+Authors: Joseph Ambrose G. Pagaran
+Comments: 3 pages IEEE-format article using LaTeX
+Journal-ref: Proc. 19th SPP Phil. Phys. Congress, October 2001, p427-429
+\\
+  An algorithm is devised to generate characteristic identities between Maxwell
+fieldstrength invariants (traced over Lorentz indices and disregarding
+ordering) that suffer linear dependence in certain dimensionalities as they
+have been originally obtained using a Maple routine. These relations between
+invariants are then applied to simplify the Abelian Born-Infeld (ABI) effective
+action in arbitrary degree of fieldstrength invariants. I have explicitly
+displayed the simplified ABI action in 4, 6, 8, 10, and 12 space-time
+dimensions relevant in Dp-branes.
+\\

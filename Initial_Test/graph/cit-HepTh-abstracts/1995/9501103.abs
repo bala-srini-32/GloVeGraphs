@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9501103
+From: Ulrich Quaade <ujq@dou.dk>
+Date: 23 Jan 95 15:42 +0100   (11kb)
+
+Title: The relativistic top: An application of the BFV quantization procedure
+  for systems with degenerate constraints
+Authors: N. K. Nielsen, U. J. Quaade
+Comments: 12 pages of Latex file
+Journal-ref: Phys.Rev. D52 (1995) 1204-1211; Erratum-ibid. D53 (1996) 1009
+\\
+The physical phase space of the relativistic top, as defined by Hanson and
+Regge, is expressed in terms of canonical coordinates of the Poincar\'e group
+manifold. The system is described in the Hamiltonian formalism by the mass
+shell condition and constraints that reduce the number of spin degrees of
+freedom. The constraints are second class and are modified into a set of first
+class constraints by adding combinations of gauge fixing functions. The
+Batalin-Fradkin-Vilkovisky (BFV) method is then applied to quantize the system
+in the path integral formalism in Hamiltonian form. It is finally shown that
+different gauge choices produce different equivalent forms of the constraints.
+\\

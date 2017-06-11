@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0003009
+From: Shinsuke Mochizuki Nishigaki <nishigak@th.phys.titech.ac.jp>
+Date: Wed, 1 Mar 2000 20:20:37 GMT   (130kb)
+Date (revised v2): Tue, 28 Mar 2000 09:27:23 GMT   (130kb)
+
+Title: Massive chiral random matrix ensembles at beta = 1 & 4 : QCD Dirac
+  operator spectra
+Authors: T. Nagao, S. M. Nishigaki
+Comments: 12 pages, REVTeX 3.1, 2 figures; (v2) corrections on signatures in
+  eqs.(48), (53), (C7), and on referential notes
+Report-no: TIT-HEP-442
+Journal-ref: Phys.Rev. D62 (2000) 065007
+\\
+  The zero momentum sectors in effective theories of QCD coupled to pseudoreal
+(two colors) and real (adjoint) quarks have alternative descriptions in terms
+of chiral orthogonal and symplectic ensembles of random matrices. Using this
+correspondence, we compute correlation functions of Dirac operator eigenvalues
+within a sector with an arbitrary topological charge in a presence of finite
+quark masses of the order of the smallest Dirac eigenvalue. These novel
+correlation functions, expressed in terms of Pfaffians, interpolate between
+known results for the chiral and quenched limits as quark masses vary.
+\\

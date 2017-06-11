@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0211084
+From: Elisabeth Kraus <kraus@th.physik.uni-bonn.de>
+Date: Mon, 11 Nov 2002 10:17:45 GMT   (16kb)
+
+Title: Anomalies in quantum field theory: Properties and characterization
+Authors: Elisabeth Kraus
+Comments: Talk presented at the Hesselberg workshop 2002 "Renormalization and
+  regularization"
+Report-no: BN-TH-05-2002
+\\
+  We consider the Adler-Bardeen anomaly of the U(1) axial current in abelian
+and non-abelian gauge theories and present its algebraic characterization as
+well as an explicit evaluation proving regularization scheme independence of
+the anomaly. By extending the gauge coupling to an external space-time
+dependent field we get a unique definition for the quantum corrections of the
+topological term. It also implies a simple proof of the non-renormalization
+theorem of the Adler-Bardeen anomaly. We consider local gauge couplings in
+supersymmetric theories and find that there the renormalization of the gauge
+coupling is determined by the topological term in all loop orders except for
+one loop. It is shown that in one-loop order the quantum corrections to the
+topological term induce an anomalous breaking of supersymmetry, which is
+characterized by similar properties as the Adler-Bardeen anomaly.
+\\

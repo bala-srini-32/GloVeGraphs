@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0003059
+From: peschanski <pesch@spht.saclay.cea.fr>
+Date: Wed, 8 Mar 2000 14:28:24 GMT   (25kb)
+Date (revised v2): Thu, 6 Apr 2000 13:22:10 GMT   (25kb)
+Date (revised v3): Mon, 26 Jun 2000 14:26:28 GMT   (28kb)
+
+Title: Minimal surfaces and Reggeization in the AdS/CFT correspondence
+Authors: R.A. Janik and R. Peschanski
+Comments: 22 pages, 2 eps figures, expanded discussion, conclusions unchanged,
+  version to be published in Nuclear Physics B
+Report-no: Saclay preprint, T00/033
+Journal-ref: Nucl.Phys. B586 (2000) 163-182
+\\
+  We address the problem of computing scattering amplitudes related to the
+correlation function of two Wilson lines and/or loops elongated along
+light-cone directions in strongly coupled gauge theories. Using the AdS/CFT
+correspondence in the classical approximation, the amplitudes are shown to be
+related to minimal surfaces generalizing the {\em helicoid} in various $AdS_5$
+backgrounds. Infra-red divergences appearing for Wilson lines can be factorized
+out or can be cured by considering the IR finite case of correlation functions
+of two Wilson loops. In non-conformal cases related to confining theories,
+reggeized amplitudes with linear trajectories and unit intercept are obtained
+and shown to come from the approximately flat metrics near the horizon, which
+sets the scale for the Regge slope. In the conformal case the absence of
+confinement leads to a different solution. A transition between both regimes
+appears, in a confining theory, when varying impact parameter.
+\\

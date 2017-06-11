@@ -1,0 +1,37 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9602157
+From: cornwall@physics.ucla.edu (Cornwall)
+Date: Tue, 27 Feb 1996 11:22:04 -0800   (93kb)
+
+Title: On The Phase Transition in D=3 Yang-Mills Chern-Simons Gauge Theory
+Author: John M. Cornwall
+Comments: 36 pages, latex, two .eps and three .ps figures in a gzipped
+  uuencoded file
+Report-no: UCLA/96/TEP/7
+Journal-ref: Phys.Rev. D54 (1996) 1814-1825
+\\
+  $SU(N)$ Yang-Mills theory in three dimensions, with a Chern-Simons term of
+level $k$ (an integer) added, has two dimensionful coupling constants, $g^2 k$
+and $g^2 N$; its possible phases depend on the size of $k$ relative to $N$. For
+$k \gg N$, this theory approaches topological Chern-Simons theory with no
+Yang-Mills term, and expectation values of multiple Wilson loops yield Jones
+polynomials, as Witten has shown; it can be treated semiclassically. For $k=0$,
+the theory is badly infrared singular in perturbation theory, a
+non-perturbative mass and subsequent quantum solitons are generated, and Wilson
+loops show an area law. We argue that there is a phase transition between these
+two behaviors at a critical value of $k$, called $k_c$, with $k_c/N \approx 2
+\pm .7$. Three lines of evidence are given: First, a gauge-invariant one-loop
+calculation shows that the perturbative theory has tachyonic problems if $k
+\leq 29N/12$.The theory becomes sensible only if there is an additional dynamic
+source of gauge-boson mass, just as in the $k=0$ case. Second, we study in a
+rough approximation the free energy and show that for $k \leq k_c$ there is a
+non-trivial vacuum condensate driven by soliton entropy and driving a
+gauge-boson dynamical mass $M$, while both the condensate and $M$ vanish for $k
+\geq k_c$. Third, we study possible quantum solitons stemming from an effective
+action having both a Chern-Simons mass $m$ and a (gauge-invariant) dynamical
+mass $M$. We show that if $M \gsim 0.5 m$, there are finite-action quantum
+sphalerons, while none survive in the classical limit $M=0$, as shown earlier
+by D'Hoker and Vinet. There are also quantum topological vortices smoothly
+vanishing as $M \rightarrow 0$.
+\\

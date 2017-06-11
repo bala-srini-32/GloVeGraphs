@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9706053
+From: Hans-Christian Pauli <pauli@mpi-hd.mpg.de>
+Date: Mon, 9 Jun 1997 12:13:27 +0200 (MET DST)   (139kb)
+
+Title: On Deriving the Effective Interaction from the QCD-Lagrangian
+Author: H.C. Pauli (MPI Kernphysik, Heidelberg, Germany)
+Comments: Latex, 8 pages, 2 figures
+\\
+  The canonical front form Hamiltonian for non-Abelian SU(N) gauge theory in
+3+1 dimensions is mapped non-perturbatively on an effective Hamiltonian which
+acts only in the Fock space of a quark and an antiquark. The approach is based
+on the novel method of iterated resolvents and on discretized light-cone
+quantization, driven to the continuum limit. It is free of the usual
+Tamm-Dancoff truncations of the Fock space, rather the perturbative series are
+consistently resumed to all orders in the coupling constant. Emphasis is put on
+dealing with the many-body aspects of gauge field theory. Important is that the
+higher Fock-space amplitudes can be retrieved self-consistently from these
+solutions. (Proceedings Les Houches 1997)
+\\

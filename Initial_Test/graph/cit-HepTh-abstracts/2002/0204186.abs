@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0204186
+From: David Tong <dtong@lns.mit.edu>
+Date: Tue, 23 Apr 2002 17:40:12 GMT   (26kb)
+Date (revised v2): Tue, 11 Jun 2002 18:17:05 GMT   (26kb)
+
+Title: NS5-Branes, T-Duality and Worldsheet Instantons
+Authors: David Tong
+Comments: 26 pages. Fourier modes of multi-vortex fermion zero mode corrected.
+  Reference added
+Journal-ref: JHEP 0207 (2002) 013
+\\
+  The equivalence of NS5-branes and ALF spaces under T-duality is well known.
+However, a naive application of T-duality transforms the ALF space into a
+smeared NS5-brane, de-localized on the dual, transverse, circle. In this paper
+we re-examine this duality, starting from a two-dimensional N=(4,4) gauged
+linear sigma model describing Taub-NUT space. After dualizing the circle fiber,
+we find that the smeared NS5-brane target space metric receives corrections
+from multi-worldsheet instantons. These instantons are identified as
+Nielsen-Olesen vortices. We show that their effect is to break the isometry of
+the target space, localizing the NS5-brane at a point. The contribution from
+the k-instanton sector is shown to be proportional to the weighted integral of
+the Euler form over the k-vortex moduli space. The duality also predicts the,
+previously unknown, asymptotic exponential decay coefficient of the BPS vortex
+solution.
+\\

@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9907159
+From: David Nolland <d.j.nolland@durham.ac.uk>
+Date: Mon, 19 Jul 1999 16:50:08 GMT   (16kb)
+
+Title: The Schrodinger Representation for Fermions and a Local Expansion of the
+  Schwinger Model
+Authors: David Nolland, Paul Mansfield
+Comments: LaTeX, 19 pages
+Journal-ref: Int.J.Mod.Phys. A15 (2000) 429-447
+\\
+  We discuss the functional representation of fermions, and obtain exact
+expressions for wave-functionals of the Schwinger model. Known features of the
+model such as bosonization and the vacuum angle arise naturally. Contrary to
+expectations, the vacuum wave-functional does not simplify at large distances,
+but it may be reconstructed as a large time limit of the corresponding
+Schrodinger functional, which has an expansion in local terms. The functional
+Schrodinger equation reduces to a set of algebraic equations for the
+coefficients of these terms. These ideas generalize to a numerical approach to
+QCD in higher dimensions.
+\\

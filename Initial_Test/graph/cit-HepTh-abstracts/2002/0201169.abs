@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0201169
+From: "R. Steinke" <rsteinke@u.washington.edu>
+Date: Mon, 21 Jan 2002 21:27:43 GMT   (52kb)
+Date (revised v2): Wed, 27 Mar 2002 20:32:27 GMT   (52kb)
+
+Title: Semiclassical Quantization of Effective String Theory and Regge
+  Trajectories
+Authors: M. Baker and R. Steinke
+Comments: 65 pages, revtex, 3 figures, added 2 references
+Report-no: UW/PT 02-01
+Journal-ref: Phys.Rev. D65 (2002) 094042
+\\
+  We begin with an effective string theory for long distance QCD, and evaluate
+the semiclassical expansion of this theory about a classical rotating string
+solution, taking into account the the dynamics of the boundary of the string.
+We show that, after renormalization, the zero point energy of the string
+fluctuations remains finite when the masses of the quarks on the ends of the
+string approach zero. The theory is then conformally invariant in any spacetime
+dimension D. For D=26 the energy spectrum of the rotating string formally
+coincides with that of the open string in classical Bosonic string theory.
+However, its physical origin is different. It is a semiclassical spectrum of an
+effective string theory valid only for large values of the angular momentum.
+For D=4, the first semiclassical correction adds the constant 1/12 to the
+classical Regge formula.
+\\

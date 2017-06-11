@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0207209
+From: Satoshi Yamada <yamada@eken.phys.nagoya-u.ac.jp>
+Date: Tue, 23 Jul 2002 13:17:42 GMT   (21kb)
+
+Title: On the strong coupling region in quantum matrix string theory
+Authors: Shozo Uehara and Satoshi Yamada
+Comments: 23 pages, 3 eps figures
+Report-no: DPNU-02-24
+Journal-ref: JHEP 0209 (2002) 019
+\\
+  We study the behavior of matrix string theory in the strong coupling region,
+where matrix strings reduce to discrete light-cone type IIA superstrings except
+at the usual string-interaction points. In the large N limit, this reduction
+corresponds to the double-dimensional reduction from wrapped supermembranes on
+R^{10} x S^1 to type IIA superstrings on R^{10} in the light-cone gauge. Such
+reductions were shown classically, while they are not obvious quantum
+mechanically. Recently, Sekino and Yoneya analyzed the double-dimensional
+reduction of the wrapped supermembrane quantum mechanically to one-loop order
+in the strong coupling expansion. We analyze the problem in matrix string
+theory by using the same expansion. At the one-loop level, the quantum
+corrections cancel out as was presented by them. However, at the two-loop level
+we find that the quantum corrections cancel out only for the leading terms in
+the large N.
+\\

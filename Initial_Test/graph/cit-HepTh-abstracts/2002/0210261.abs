@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0210261
+From: Shozo UEHARA <uehara@eken.phys.nagoya-u.ac.jp>
+Date: Mon, 28 Oct 2002 09:40:24 GMT   (10kb)
+
+Title: On the quantum matrix string
+Authors: Shozo Uehara and Satoshi Yamada
+Comments: Talk given at the 3rd International Sakharov Conference on Physics,
+  Moscow, June 2002
+Report-no: DPNU-02-34
+\\
+  We study the behavior of matrix string theory in the strong coupling region,
+where it is expected to reduce to discrete light-cone type IIA superstring. In
+the large $N$ limit, the reduction corresponds to the double-dimensional
+reduction from wrapped supermembranes on $R^{10}\times S^1$ to type IIA
+superstrings on $R^{10}$ in the light-cone gauge, which is shown classically,
+however it is not obvious quantum mechanically. We analyze the problem in
+matrix string theory by using the strong coupling ($1/g$) expansion. We find
+that the quantum corrections do not cancel out at $\mathcal{O}(1/g^2)$.
+Detailed calculations can be seen in Ref.\cite{UY}.
+\\

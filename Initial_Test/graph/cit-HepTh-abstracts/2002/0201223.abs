@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0201223
+From: Leonardo Castellani <castellani@to.infn.it>
+Date: Mon, 28 Jan 2002 15:48:41 GMT   (32kb)
+Date (revised v2): Fri, 17 Jan 2003 17:27:15 GMT   (32kb)
+
+Title: Discretized Yang-Mills and Born-Infeld actions on finite group
+  geometries
+Authors: P. Aschieri, L. Castellani and A.P. Isaev
+Comments: 31 pages, LaTeX. Improved definition of pairing between tensor
+  products of left-invariant one-forms
+Report-no: DFTT-33/01, LMU-TPW-01-15
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+\\
+  Discretized nonabelian gauge theories living on finite group spaces G are
+defined by means of a geometric action \int Tr F \wedge *F. This technique is
+extended to obtain discrete versions of the Born-Infeld action. The
+discretizations are in 1-1 correspondence with differential calculi on finite
+groups.
+  A consistency condition for duality invariance of the discretized field
+equations is derived for discretized U(1) actions S[F] living on a
+4-dimensional abelian G. Discretized electromagnetism satisfies this condition
+and therefore admits duality rotations.
+  Yang-Mills and Born-Infeld theories are also considered on product spaces M^D
+x G, and we find the corresponding field theories on M^D after Kaluza-Klein
+reduction on the G discrete internal spaces. We examine in some detail the case
+G=Z_N, and discuss the limit N -> \infty.
+  A self-contained review on the noncommutative differential geometry of finite
+groups is included.
+\\

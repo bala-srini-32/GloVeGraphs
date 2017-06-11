@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9910256
+From: Shinji Hirano <hirano@itp.ucsb.edu>
+Date: Sun, 31 Oct 1999 07:04:48 GMT   (12kb)
+Date (revised v2): Thu, 11 Nov 1999 01:10:24 GMT   (12kb)
+Date (revised v3): Mon, 6 Mar 2000 03:52:49 GMT   (12kb)
+
+Title: Exact Renormalization Group and Loop Equation
+Authors: Shinji Hirano
+Comments: 13 pages, Latex, References added. An error in eq. (6) fixed and a
+  few corrrections accordingly. Results unchanged
+Report-no: NSF-ITP-99-128
+Journal-ref: Phys.Rev. D61 (2000) 125011
+\\
+  We propose a gauge invariant formulation of the exact renormalization group
+equation for nonsupersymmetric pure U(N) Yang-Mills theory, based on the
+construction by Tim Morris. In fact we show that our renormalization group
+equation amounts to a regularized version of the loop equation, thereby
+providing a direct relation between the exact renormalization group and the
+Schwinger-Dyson equations. We also discuss a possible implication of our
+formulation to the holographic correspondence of the bulk gravity and the
+boundary gauge theory.
+\\

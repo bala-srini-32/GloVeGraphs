@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9512110
+From: Yong Wan Kim <ywkim@physics.sogang.ac.kr>
+Date: Fri, 15 Dec 95 18:46:18 KST   (11kb)
+Date (revised): Fri, 29 Dec 95 12:47:22 KST
+
+Title: BFV-BRST Quantization of the Proca Model based on the Batalin-Tyutin
+  formalism
+Authors: Sean J. Yoon, Yong-Wan Kim, and Young-Jai Park
+Comments: 17 pages, latex, no figures, References add
+Report-no: SOGANG-HEP 204/95
+\\
+  We apply the Batalin-Tyutin Hamiltonian method to the Abelian Proca model in
+order to convert a second class constraint system into a first class one
+systematically by introducing the new fields. Then, according to the BFV
+formalism we obtain that the desired resulting Lagrangian preserving standard
+BRST symmetry naturally includes the well-known St\"ukelberg scalar related to
+the explicit gauge-breaking effect due to the presence of the mass term.
+Furthermore, we also discuss the nonlocal symmetry structure of this model in
+the context of the nonstandard BRST symmetry.
+\\

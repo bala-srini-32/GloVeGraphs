@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9612129
+From: kruczens@juno.cnea.edu.ar (Martin Kruczenski)
+Date: Wed, 11 Dec 1996 19:30:22 -0300 (GMT-0300)   (34kb)
+
+Title: Covariant Quantization of the Skyrmion
+Author: M. Kruczenski (CNEA Buenos Aires Argentina) and L. E. Oxman (UFRJ Rio
+  de Janeiro Brasil)
+Comments: 29 latex pages and 2 postscript files tar and compressed with script
+  uufiles. Uses epsf macros and espart.sty. One figure (fig. 2) not included.
+  Full version (i.e. with all figures) available at
+  http://www.tandar.cnea.edu.ar/preprints/FNT/96/003.tex To appear in
+  Nuc.Phys.B
+Report-no: TAN-FNT-96/003
+Journal-ref: Nucl.Phys. B488 (1997) 513-538
+\\
+  We obtain the internal degrees of freedom of the skyrmion (spin and isospin)
+within a manifestly Lorentz covariant quantization framework based on defining
+Green functions for skyrmions and then, the S-matrix via LSZ reduction. Our
+method follows Frohlich and Marchetti's definition of Euclidean soliton Green
+functions, supplemented with a careful treatment of the boundary conditions
+around the singularities. The covariant two-point function obtained propagates
+a tower of spin equal to isospin particles. Our treatment contains the usual
+method of collective coordinates, as a non-relativistic limit and, because of
+the new topology introduced, it leads, in a natural way, to the inequivalent
+(boson/fermion) quantizations of the SU(2) skyrmion.
+\\

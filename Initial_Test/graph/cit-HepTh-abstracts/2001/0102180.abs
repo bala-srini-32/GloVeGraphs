@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0102180
+From: "Sergei Kharchev" <kharchev@gate.itep.ru>
+Date: Mon, 26 Feb 2001 18:51:05 GMT   (37kb)
+Date (revised v2): Tue, 27 Feb 2001 08:06:35 GMT   (37kb)
+
+Title: Unitary representations of $U_{q}(\mathfrak{sl}(2,\RR))$, the modular
+  double, and the multiparticle q-deformed Toda chains
+Authors: S. Kharchev, D. Lebedev, M. Semenov-Tian-Shansky
+Comments: AmsLatex, 41 pages, 3 figures
+Report-no: ITEP-TH-8/01
+Subj-class: High Energy Physics - Theory; Quantum Algebra; Exactly Solvable and
+  Integrable Systems
+Journal-ref: Commun.Math.Phys. 225 (2002) 573-609
+\\
+  The paper deals with the analytic theory of the quantum q-deformed Toda
+chain; the technique used combines the methods of representation theory and the
+Quantum Inverse Scattering Method. The key phenomenon which is under scrutiny
+is the role of the modular duality concept (first discovered by L.Faddeev) in
+the representation theory of noncompact semisimple quantum groups. Explicit
+formulae for the Whittaker vectors are presented in terms of the double sine
+functions and the wave functions of the N-particle q-deformed open Toda chain
+are given as a multiple integral of the Mellin-Barnes type. For the periodic
+chain the two dual Baxter equations are derived.
+\\

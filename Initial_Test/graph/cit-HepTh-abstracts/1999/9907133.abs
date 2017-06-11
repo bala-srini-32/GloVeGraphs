@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9907133
+From: Wolfgang Lerche <lerche@nxth04.cern.ch>
+Date: Thu, 15 Jul 1999 19:15:05 GMT   (25kb)
+Date (revised v2): Mon, 2 Aug 1999 19:57:23 GMT   (26kb)
+Date (revised v3): Tue, 26 Oct 1999 16:14:41 GMT   (44kb)
+
+Title: 1/4 BPS States and Non-Perturbative Couplings in N=4 String Theories
+Authors: W. Lerche and S. Stieberger
+Comments: 32 p, harvmac, 1 fig. Revision: taking the fermionic contractions
+  into account, the K3 elliptic genus disappears
+Report-no: CERN-TH/99-210
+Journal-ref: Adv.Theor.Math.Phys. 3 (1999) 1539-1574
+\\
+  We compute certain 2K+4-point, one-loop couplings in the type IIA string
+compactified on K3 x T^2, which are related to a topological index on this
+manifold. Their special feature is that they are sensitive to only short and
+intermediate BPS multiplets. The couplings derive from underlying prepotentials
+G[K](T,U), which can be nicely summed up into a fundamental generating
+function. In the dual heterotic string on T^6, the amplitudes describe
+non-perturbative gravitational corrections to K-loop amplitudes due to bound
+states of fivebrane instantons with heterotic world-sheet instantons. We argue,
+as a consequence, that our results also give information about instanton
+configurations in six dimensional Sp(2k) gauge theories on T^6.
+\\

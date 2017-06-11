@@ -1,0 +1,19 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0212005
+From: "Slava" <sllys@gate.itep.ru>
+Date: Mon, 2 Dec 2002 19:22:56 GMT   (7kb)
+
+Title: Anticommutativity Equation in Topological Quantum Mechanics
+Authors: V. Lysov
+Comments: 6 pages, no figures, Latex
+Report-no: ITEP/TH-62/02
+\\
+  We consider topological quantum mechanics as an example of topological field
+theory and show that its special properties lead to numerous interesting
+relations for topological corellators in this theory. We prove that the
+generating function $\mathcal{F}$ for thus corellators satisfies the
+anticommutativity equation $(\mathcal{D}- \mathcal{F})^2=0$. We show that the
+commutativity equation $[dB,dB]=0$ could be considered as a special case of the
+anticommutativity equation.
+\\

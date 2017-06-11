@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0101233
+From: Nima Arkani-Hamed <arkani@bose.harvard.edu>
+Date: Wed, 31 Jan 2001 23:10:14 GMT   (17kb)
+Date (revised v2): Tue, 13 Mar 2001 15:18:31 GMT   (17kb)
+
+Title: Higher dimensional supersymmetry in 4D superspace
+Authors: Nima Arkani-Hamed, Thomas Gregoire and Jay Wacker
+Comments: Typos corrected. Added reference to early work by Marcus, Sagnotti
+  and Siegel and a term to the non-Abelian Lagrangian for D>5 formally needed
+  for gauge invariance. The results however remain unchanged
+Report-no: HUTP-01/A004, LBNL-47410, UCB-PTH-01/02
+Journal-ref: JHEP 0203 (2002) 055
+\\
+  We present an explicit formulation of supersymmetric Yang-Mills theories from
+$\D=$ 5 to 10 dimensions in the familiar $\N=1,\D=4$ superspace. This provides
+the rules for globally supersymmetric model building with extra dimensions and
+in particular allows us to simply write down $\N=1$ SUSY preserving
+interactions between bulk fields and fields localized on branes. We present a
+few applications of the formalism by way of illustration, including
+supersymmetric ``shining'' of bulk fields, orbifolds and localization of chiral
+fermions, anomaly inflow and super-Chern-Simons theories.
+\\

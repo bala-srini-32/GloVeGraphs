@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0005277
+From: "Ryu Sasaki" <ryu@yukawa.kyoto-u.ac.jp>
+Date: Tue, 30 May 2000 10:14:24 GMT   (33kb)
+
+Title: Quantum Calogero-Moser Models: Integrability for all Root Systems
+Authors: S.P. Khastgir, A.J. Pocklington and R. Sasaki
+Comments: 45 pages, LaTeX2e, no figures
+Report-no: YITP-00-24
+Subj-class: High Energy Physics - Theory; Mathematical Physics; Exactly
+  Solvable and Integrable Systems
+Journal-ref: J.Phys. A33 (2000) 9033-9064
+\\
+  The issues related to the integrability of quantum Calogero-Moser models
+based on any root systems are addressed. For the models with degenerate
+potentials, i.e. the rational with/without the harmonic confining force, the
+hyperbolic and the trigonometric, we demonstrate the following for all the root
+systems: (i) Construction of a complete set of quantum conserved quantities in
+terms of a total sum of the Lax matrix (L), i.e. (\sum_{\mu,\nu\in{\cal
+R}}(L^n)_{\mu\nu}), in which ({\cal R}) is a representation space of the
+Coxeter group. (ii) Proof of Liouville integrability. (iii) Triangularity of
+the quantum Hamiltonian and the entire discrete spectrum. Generalised Jack
+polynomials are defined for all root systems as unique eigenfunctions of the
+Hamiltonian. (iv) Equivalence of the Lax operator and the Dunkl operator. (v)
+Algebraic construction of all excited states in terms of creation operators.
+These are mainly generalisations of the results known for the models based on
+the (A) series, i.e. (su(N)) type, root systems.
+\\

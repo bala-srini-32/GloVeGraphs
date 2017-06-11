@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9711144
+From: Juergen Baacke <baacke@zx2.HRZ.Uni-Dortmund.DE>
+Date: Wed, 19 Nov 1997 18:22:37 GMT   (12kb)
+
+Title: On the choice of initial states in nonequilibrium dynamics
+Authors: Juergen Baacke, Katrin Heitmann, and Carsten Patzold (Dortmund
+  University)
+Comments: 15 pages, LaTeX
+Report-no: DO-TH-97/24
+Journal-ref: Phys.Rev. D57 (1998) 6398-6405
+\\
+  Imposing initial conditions to nonequilibrium systems at some time t_0 leads,
+in renormalized quantum field theory, to the appearance of singularities in the
+variable t-t_0 in relevant physical quantities, such as energy density and
+pressure. The origin of these `initial singularities' can be traced back to the
+choice of initial state. We construct here, by a Bogoliubov transformation,
+initial states such that these singularities are eliminated. While the
+construction is not unique it can be considered a minimal way of taking into
+account the nonequilibrium evolution of the system prior to t_0.
+\\

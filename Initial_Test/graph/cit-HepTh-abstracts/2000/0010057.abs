@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0010057
+From: Heinrich Saller <hns@mppmu.mpg.de>
+Date: Mon, 9 Oct 2000 12:06:58 GMT   (29kb)
+
+Title: Residual Representations of Spacetime
+Author: Heinrich Saller (MPI fuer Physik)
+Comments: 30 pages, latex, macros included
+Report-no: MPI-PTH/00-41
+Journal-ref: Int.J.Theor.Phys. 40 (2001) 1209-1248
+\\
+  Spacetime is modelled by binary relations - by the classes of the
+automorphisms $\GL(\C^2)$ of a complex 2-dimensional vector space with respect
+to the definite unitary subgroup $\U(2)$. In extension of Feynman propagators
+for particle quantum fields representing only the tangent spacetime structure,
+global spacetime representations are given, formulated as residues using
+energy-momentum distributions with the invariants as singularities. The
+associatated quantum fields are characterized by two invariant masses - for
+time and position - supplementing the one mass for the definite unitary
+particle sector with another mass for the indefinite unitary interaction sector
+without asymptotic particle interpretation.
+\\

@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0003282
+From: Jonathan Bagger <bagger@bohr.pha.jhu.edu>
+Date: Thu, 30 Mar 2000 16:15:05 GMT   (24kb)
+Date (revised v2): Fri, 12 May 2000 17:14:42 GMT   (24kb)
+Date (revised v3): Mon, 27 Nov 2000 15:42:09 GMT   (24kb)
+
+Title: Quantum Inconsistency of Einstein Supergravity
+Authors: Jonathan Bagger, Takeo Moroi and Erich Poppitz
+Comments: 16 pages, One figure, Latex. Published version
+Journal-ref: Nucl.Phys. B594 (2001) 354-368
+\\
+  We show that N=1, D=4 Einstein-frame supergravity is inconsistent at one loop
+because of an anomaly in local supersymmetry transformations. A Jacobian must
+be added to the Einstein-frame Lagrangian to cancel this anomaly. We show how
+the Jacobian arises from the super-Weyl field redefinition that takes the
+superspace Lagrangian to the Einstein frame. We present an explicit example
+which demonstrates that the Jacobian is necessary for one-loop scattering
+amplitudes to be frame independent.
+\\

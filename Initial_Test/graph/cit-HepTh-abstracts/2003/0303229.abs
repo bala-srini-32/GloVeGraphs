@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0303229
+From: Marcos Alvarez <m.alvarez@qmw.ac.uk>
+Date: Wed, 26 Mar 2003 16:56:11 GMT   (28kb)
+
+Title: Charges and fluxes in Maxwell theory on compact manifolds with boundary
+Authors: Marcos Alvarez, David I. Olive
+Comments: 28 pages, plain TeX
+Report-no: QMUL-PH-02-03, SWAT-TH/03-371
+\\
+  We investigate the charges and fluxes that can occur in higher-order Abelian
+gauge theories defined on compact space-time manifolds with boundary. The
+boundary is necessary to supply a destination to the electric lines of force
+emanating from brane sources, thus allowing non-zero net electric charges, but
+it also introduces new types of electric and magnetic flux. The resulting
+structure of currents, charges, and fluxes is studied and expressed in the
+language of relative homology and de Rham cohomology and the corresponding
+abelian groups. These can be organised in terms of a pair of exact sequences
+related by the Poincar\'e-Lefschetz isomorphism and by a weaker flip symmetry
+exchanging the ends of the sequences. It is shown how all this structure is
+brought into play by the imposition of the appropriately generalised Maxwell's
+equations. The requirement that these equations be integrable restricts the
+world-volume of a permitted brane (assumed closed) to be homologous to a cycle
+on the boundary of space-time. All electric charges and magnetic fluxes are
+quantised and satisfy the Dirac quantisation condition. But through some
+boundary cycles there may be unquantised electric fluxes associated with
+quantised magnetic fluxes and so dyonic in nature.
+\\

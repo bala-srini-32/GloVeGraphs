@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0202048
+From: Kimball A. Milton <milton@phyast.nhn.ou.edu>
+Date: Thu, 7 Feb 2002 22:29:52 GMT   (17kb)
+Date (revised v2): Tue, 26 Feb 2002 22:09:54 GMT   (17kb)
+Date (revised v3): Wed, 13 Mar 2002 18:04:05 GMT   (19kb)
+Date (revised v4): Tue, 4 Jun 2002 21:27:48 GMT   (20kb)
+
+Title: Entropy Bounds in $R\times S^3$ Geometries
+Authors: Iver Brevik, Kimball A. Milton, and Sergei D. Odintsov
+Comments: 22 pages, no figures, REVTeX4. Revised paper contains minor
+  corrections and clarifications
+Report-no: OKHEP-02-01
+Journal-ref: Annals Phys. 302 (2002) 120-141
+\\
+  Exact calculations are given for the Casimir energy for various fields in
+$R\times S^3$ geometry. The Green's function method naturally gives a result in
+a form convenient in the high-temperature limit, while the statistical
+mechanical approach gives a form convenient for low temperatures. The
+equivalence of these two representations is demonstrated. Some discrepancies
+with previous work are noted. In no case, even for ${\cal N}=4$ SUSY, is the
+ratio of entropy to energy found to be bounded. This deviation, however, occurs
+for low temperature, where the equilibrium approach may not be relevant. The
+same methods are used to calculate the energy and free energy for the TE modes
+in a half-Einstein universe bounded by a perfectly conducting 2-sphere.
+\\

@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0304080
+From: Andrew Neitzke <neitzke@fas.harvard.edu>
+Date: Wed, 9 Apr 2003 19:28:26 GMT   (398kb)
+
+Title: Greybody factors at large imaginary frequencies
+Authors: Andrew Neitzke
+Comments: 19 pages, 3 figures
+Report-no: HUTP-03/A027
+\\
+  Extending a computation which appeared recently in hep-th/0301173, we compute
+the transmission and reflection coefficients for massless uncharged scalars and
+gravitational waves scattered by d>=4 Schwarzschild or d=4 Reissner-Nordstrom
+black holes, in the limit of large imaginary frequencies. The transmission
+coefficient has an interpretation as the "greybody factor" which determines the
+spectrum of Hawking radiation. The result has an interesting structure and we
+speculate that it may admit a simple dual description; curiously, for
+Reissner-Nordstrom the result suggests that this dual description should
+involve both the inner and outer horizons. We also discuss some numerical
+evidence in favor of the formulas of hep-th/0301173.
+\\

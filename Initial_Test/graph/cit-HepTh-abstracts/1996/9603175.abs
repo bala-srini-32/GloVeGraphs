@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9603175
+From: dfursaev@phys.ualberta.ca (Dmitri Fursaev)
+Date: Tue, 26 Mar 96 12:21:17 -0700   (11kb)
+
+Title: Black Hole Entropy: Thermodynamics, Statistical-Mechanics and
+  Subtraction Procedure
+Authors: V.P. Frolov, D.V. Fursaev and A.I. Zelnikov
+Comments: 11 pages, latex file
+Report-no: Alberta Thy 09-96
+Journal-ref: Phys.Lett. B382 (1996) 220-226
+\\
+  The thermodynamical one-loop entropy $S^{TD}$ of a two-dimensional black hole
+in thermal equilibrium with the massless quantum gas is calculated. It is shown
+that $S^{TD}$ includes the Bekenstein-Hawking entropy, evaluated for the
+quantum corrected geometry, and the finite difference of statistical mechanical
+entropies $-Tr\hat{\rho}\ln\hat{\rho}$ for the gas on the black hole and
+Rindler spaces. This result demonstrates in an explicit form that the relation
+between thermodynamical and statistical-mechanical entropies of a black hole is
+non-trivial and requires special subtraction procedure.
+\\

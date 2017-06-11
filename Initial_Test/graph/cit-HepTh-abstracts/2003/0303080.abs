@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0303080
+From: Stefan Waldmann <stefan.waldmann@physik.uni-freiburg.de>
+Date: Mon, 10 Mar 2003 15:05:53 GMT   (22kb)
+
+Title: Deformation Quantization: Observable Algebras, States and Representation
+  Theory
+Authors: Stefan Waldmann
+Comments: LaTeX2e, 32 pages. Lecture notes for the Kopaonik summer school 2002
+Report-no: FR-THEP 2003/04
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+\\
+  In these lecture notes I give an introduction to deformation quantization.
+The quantization problem is discussed in some detail thereby motivating the
+notion of star products. Starting from a deformed observable algebra, i.e. the
+star product algebra, physical applications require to study representations of
+this algebra. I review the recent development of a representation theory
+including techniques like Rieffel induction and Morita equivalence.
+Applications beyond quantization theory are found in noncommutative field
+theories.
+\\

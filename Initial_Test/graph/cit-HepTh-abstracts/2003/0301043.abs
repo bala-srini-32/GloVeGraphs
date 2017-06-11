@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0301043
+From: Igor Tyutin <tyutin@lpi.ru>
+Date: Wed, 8 Jan 2003 13:13:23 GMT   (15kb)
+Date (revised v2): Mon, 13 Jan 2003 11:23:12 GMT   (15kb)
+
+Title: BRST-Invariant Constraint Algebra in Terms of Commutators and Quantum
+  Antibrackets
+Authors: Igor Batalin and Igor Tyutin
+Comments: 20 pages; some misprints are removed
+Report-no: FIAN 03/03
+\\
+  General structure of BRST-invariant constraint algebra is established, in its
+commutator and antibracket forms, by means of formulation of algebra-generating
+equations in yet more extended phase space. New ghost-type variables behave as
+fields and antifields with respect to quantum antibrackets. Explicit form of
+BRST-invariant gauge algebra is given in detail for rank-one theories with
+Weyl- and Wick- ordered ghost sector. A gauge-fixed unitarizing Hamiltonian is
+constructed, and the formalism is shown to be physically equivalent to the
+standard BRST-BFV approach.
+\\

@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0205272
+From: christos n. ktorides <cktorid@cc.uoa.gr>
+Date: Mon, 27 May 2002 08:27:10 GMT   (20kb)
+
+Title: Perturbative Computation of the Gluonic Effective Action via Polyaokov's
+  World-Line Path Integral
+Authors: S. D. Avramis, A.I. Karanikas and C. N. Ktorides
+Comments: 21 pages
+Report-no: UA/NPPS 1-02
+Journal-ref: Phys.Rev. D66 (2002) 045017
+\\
+  The Polyakov world-line path integral describing the propagation of gluon
+field quanta is constructed by employing the background gauge fixing method and
+is subsequently applied to analytically compute the divergent terms of the one
+(gluonic) loop effective action to fourth order in perturbation theory. The
+merits of the proposed approach is that, to a given order, it reduces to
+performing two integrations, one over a set of Grassmann and one over a set of
+Feynman-type parameters through which one manages to accomodate all Feynman
+diagrams entering the computation at once.
+\\

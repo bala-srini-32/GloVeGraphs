@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0003030
+From: Martin Schaden <ms68@neumann.acf.nyu.edu>
+Date: Fri, 3 Mar 2000 23:41:03 GMT   (18kb)
+
+Title: SU(2) Gauge Theory in Covariant (Maximal) Abelian Gauges
+Authors: Martin Schaden
+Comments: 13 pages, 2 figures included, talk presented at Vth Workshop on QCD,
+  Villefranche, 3-7th January 2000
+Report-no: NYU-TH/00/03/04
+\\
+  The local covariant continuum action of an SU(2) gauge theory in covariant
+Abelian gauges is investigated. It describes the critical limit of an Abelian
+Lattice Gauge Theory (LGT) with an equivariant BRST-symmetry. This Abelian LGT
+has previously been proven to be physically equivalent to the SU(2)-LGT.
+Renormalizability requires a quartic ghost interaction in these nonlinear
+gauges (also in maximal Abelian gauge). Arguments that a certain global SL(2,R)
+symmetry is dynamically broken by ghost-antighost condensation in a BCS-like
+mechanism are presented. The scenario can be viewed as a dynamical Higgs
+mechanism in the adjoint that gives massive off-diagonal gluons and a BRST
+quartet of Goldstone bosonsthat decouples from physical observables. The gap
+parameter is related to the expectation value of the trace anomaly and the
+consistency of this scenario with the Operator Product Expansion is discussed.
+\\

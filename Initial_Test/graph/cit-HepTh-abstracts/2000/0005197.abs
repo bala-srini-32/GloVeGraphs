@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0005197
+From: "Shin'ichi Nojiri" <snojiri@yukawa.kyoto-u.ac.jp>
+Date: Mon, 22 May 2000 05:35:53 GMT   (9kb)
+Date (revised v2): Mon, 28 Aug 2000 04:45:04 GMT   (10kb)
+
+Title: Holographic conformal anomaly with bulk scalars potential from d3 and d5
+  gauged supergravity
+Authors: Shin'ichi Nojiri, Sergei D. Odintsov, and Sachiko Ogushi
+Comments: LaTeX file, 13 pages. minor modifications
+Report-no: NDA-FP-75, OCHA-PP-159
+Journal-ref: Prog.Theor.Phys. 104 (2000) 867-876
+\\
+  d3 and d5 maximally SUSY gauged supergravity is considered in the
+parametrization (flow) of full scalar coset where the kinetic term for scalars
+takes the standard field theory form and the bulk potential is an arbitrary one
+subject to consistent parametrization. From such SG duals we calculate d2 and
+d4 holographic conformal anomaly which depends on bulk scalars potential.
+AdS/CFT correspondence suggests that such SG side conformal anomaly should be
+identified with (non-perturbative) QFT conformal anomaly (taking account of
+radiative corrections) for the theory living on the boundary of AdS space. In
+the limit of constant bulk potential and single scalar, d4 result reproduces
+the known exact conformal anomaly corresponding to maximally SUSY super
+Yang-Mills theory coupled to ${\cal N}=4$ conformal supergravity.
+\\

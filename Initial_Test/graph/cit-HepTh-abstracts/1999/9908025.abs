@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9908025
+From: Christoph Schweigert <schweige@itp.phys.ethz.ch>
+Date: Tue, 3 Aug 1999 20:42:19 GMT   (60kb)
+
+Title: Symmetry breaking boundaries II. More structures; examples
+Authors: J. Fuchs, C. Schweigert
+Comments: 51 pages, LaTeX2e
+Report-no: ETH-TH/99-04
+Journal-ref: Nucl.Phys. B568 (2000) 543-593
+\\
+  Various structural properties of the space of symmetry breaking boundary
+conditions that preserve an orbifold subalgebra are established. To each such
+boundary condition we associate its automorphism type. It is shown that
+correlation functions in the presence of such boundary conditions are
+expressible in terms of twisted boundary blocks which obey twisted Ward
+identities. The subset of boundary conditions that share the same automorphism
+type is controlled by a classifying algebra, whose structure constants are
+shown to be traces on spaces of chiral blocks. T-duality on boundary conditions
+is not a one-to-one map in general. These structures are illustrated in a
+number of examples. Several applications, including the construction of non-BPS
+boundary conditions in string theory, are exhibited.
+\\

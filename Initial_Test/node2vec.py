@@ -62,7 +62,7 @@ class Graph():
 			a = key.split('-')
 			cooccur.append((int(a[0])-1,int(a[1])-1,occurDict[key]))
 	
-		with open('../glove.py-master/Co_occurance_matrices/Fortunato-cooccur', 'wb') as obj_f:
+		with open('Co_occurance_matrices/Physics', 'wb') as obj_f:
 			msgpack.dump(cooccur,obj_f)
 		return walks
 

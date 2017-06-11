@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0109021
+From: Romuald A. Janik <janik@spht.saclay.cea.fr>
+Date: Tue, 4 Sep 2001 11:14:25 GMT   (12kb)
+Date (revised v2): Wed, 19 Sep 2001 12:08:06 GMT   (12kb)
+
+Title: Exceptional boundary states at c=1
+Authors: Romuald A. Janik
+Comments: 18 pages; v2 corrected assumptions (now weaker), results unchanged
+Subj-class: High Energy Physics - Theory; Statistical Mechanics
+Journal-ref: Nucl.Phys. B618 (2001) 675-688
+\\
+  We consider the CFT of a free boson compactified on a circle, such that the
+compactification radius $R$ is an irrational multiple of $R_{selfdual}$. Apart
+from the standard Dirichlet and Neumann boundary states, Friedan suggested [1]
+that an additional 1-parameter family of boundary states exists. These states
+break U(1) symmetry of the theory, but still preserve conformal invariance. In
+this paper we give an explicit construction of these states, show that they are
+uniquely determined by the Cardy-Lewellen sewing constraints, and we study the
+spectrum in the `open string channel', which is given here by a continous
+integral with a nonnegative measure on the space of conformal weights.
+\\

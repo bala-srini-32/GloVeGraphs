@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9509081
+From: Alex Bogojevic <BOGOJEVIC@castor.phy.bg.ac.yu>
+Date: Thu, 14 Sep 1995 17:47:31 GMT+0300   (10kb)
+
+Title: Path Integral Measure Via the Schwinger-Dyson Equations
+Authors: Aleksandar R. Bogojevi\'c and Dragan Popovi\'c
+Comments: 16 pages, PHYZZX, no figures
+Report-no: IP-HET-95-6
+\\
+  We present a way for calculating the Lagrangian path integral measure
+directly from the Hamiltonian Schwinger--Dyson equations. The method agrees
+with the usual way of deriving the measure, however it may be applied to all
+theories, even when the corresponding momentum integration is not Gaussian. Of
+particular interest is the connection that is made between the path integral
+measure and the measure in the corresponding 0-dimensional model. This allows
+us to uniquely define the path integral even for the case of Euclidean theories
+whose action is not bounded from below.
+\\

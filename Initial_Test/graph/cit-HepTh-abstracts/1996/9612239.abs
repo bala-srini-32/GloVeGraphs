@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9612239
+From: Hitoshi Sato <sato@funpth.phys.sci.osaka-u.ac.jp>
+Date: Fri, 27 Dec 96 13:05:11 +0900   (17kb)
+Date (revised): Mon, 30 Dec 96 14:54:00 +0900
+Date (revised): Thu, 15 May 97 16:49:45 +0900
+
+Title: Mirror Symmetry and the Web of Landau-Ginzburg String Vacua
+Authors: Hitoshi Sato
+Comments: Section 5 is largely extended, 23 pages, Latex 2.09, no figure
+Report-no: OU-HET 255
+Subj-class: High Energy Physics - Theory; Algebraic Geometry
+Journal-ref: Nucl.Phys. B505 (1997) 660-678
+\\
+  We present some mathematical aspects of Landau-Ginzburg string vacua in terms
+of toric geometry. The one-to-one correspondence between toric divisors and
+some of (-1,1) states in Landau-Ginzburg model is presented for superpotentials
+of typical types. The Landau-Ginzburg interpretation of non-toric divisors is
+also presented. Using this interpretation, we propose a method to solve the
+so-called "twisted sector problem" by orbifold construction. Moreover,this
+construction shows that the moduli spaces of the original Landau-Ginzburg
+string vacua and their orbifolds are connected. By considering the mirror map
+of Landau-Ginzburg models, we obtain the relation between Mori vectors and the
+twist operators of our orbifoldization. This consideration enables us to argue
+the embedding of the Seiberg-Witten curve in the defining equation of the
+Calabi-Yau manifoulds on which the type II string gets compactified. Related
+topics concerning the Calabi-Yau fourfolds and the extremal transition are
+discussed.
+\\

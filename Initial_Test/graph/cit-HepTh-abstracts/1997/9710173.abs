@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9710173
+From: Miles Blencowe <m.blencowe@ic.ac.uk>
+Date: Wed, 22 Oct 1997 16:24:40 GMT   (81kb)
+
+Title: Applying the linear delta expansion to `i phi^3'
+Authors: M. P. Blencowe, H. F. Jones, A. P. Korte
+Comments: 26 pages (revtex), 8 figures (eps). Submitted to Phys. Rev. D
+Report-no: Imperial/TP/97-98/8
+Subj-class: High Energy Physics - Theory; Statistical Mechanics
+Journal-ref: Phys.Rev. D57 (1998) 5092-5099
+\\
+  The linear $\delta$ expansion (LDE) is applied to the Hamiltonian $H=(p^2
++m^2 x^2)/2 + igx^3$, which arises in the study of Lee-Yang zeros in
+statistical mechanics. Despite being non-Hermitian, this Hamiltonian appears to
+possess a real, positive spectrum. In the LDE, as in perturbation theory, the
+eigenvalues are naturally real, so a proof of this property devolves on the
+convergence of the expansion. A proof of convergence of a modified version of
+the LDE is provided for the $ix^3$ potential in zero dimensions. The methods
+developed in zero dimensions are then extended to quantum mechanics, where we
+provide numerical evidence for convergence.
+\\

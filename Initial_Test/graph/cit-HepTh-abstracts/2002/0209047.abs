@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0209047
+From: Joseph A. Minahan <joseph.minahan@teorfys.uu.se>
+Date: Thu, 5 Sep 2002 19:46:52 GMT   (12kb)
+Date (revised v2): Thu, 5 Sep 2002 20:31:20 GMT   (12kb)
+Date (revised v3): Mon, 9 Sep 2002 15:46:19 GMT   (12kb)
+Date (revised v4): Sun, 15 Sep 2002 14:46:42 GMT   (12kb)
+
+Title: Circular Semiclassical String Solutions on AdS_5 x S_5
+Authors: Joseph A. Minahan (Uppsala)
+Comments: 15 pages, LaTeX;v3 minor error fixed;v4 reference added, sec 4
+  clarified and expanded slightly
+Report-no: UUITP-06/02
+Journal-ref: Nucl.Phys. B648 (2003) 203-214
+\\
+  We discuss two semiclassical string solutions on AdS_5\times S_5. In the
+first case, we consider a multiwrapped circular string pulsating in the radial
+direction of AdS_5, but fixed to a point on the S_5. We compute the energy of
+this motion as a function of a large quantum number $n$. We identify the string
+level with $mn$, where $m$ is the number of string wrappings.
+  Using the AdS/CFT correspondence, we argue that the bare dimension of the
+corresponding gauge invariant operator is $2n$ and that its anomalous dimension
+scales as \lambda^{1/4}\sqrt{mn}, for large $n$. Next we consider a
+multiwrapped circular string pulsating about two opposite poles of the $S_5$.
+We compute the energy of this motion as a function of a large quantum number,
+$n$ where again the string level is given as $mn$. We find that the dimension
+of the corresponding operator is 2n(1+f(m^2\lambda/(2n)^2)), where f(x) is
+computible as a series about x=0 and where it is analytic. We also compare this
+result to the BMN result for large J operators.
+\\

@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9807098
+From: Martin Stock <mstock@MIT.EDU>
+Date: Tue, 14 Jul 1998 18:40:21 GMT   (31kb)
+
+Title: Field Theory Tests for Correlators in the AdS/CFT Correspondence
+Author: Eric D'Hoker, Daniel Z. Freedman, and Witold Skiba
+Comments: 14 pages, 4 figures + 3 inline text illustrations, LaTeX2e; email to
+  dzf@math.mit.edu (D.Z. Freedman)
+Report-no: MIT-CTP-2756
+Journal-ref: Phys.Rev. D59 (1999) 045008
+\\
+  The order g^2 radiative corrections to all 2- and 3-point correlators of the
+composite primary operators Tr X^k are computed in {\cal N} = 4 supersymmetric
+Yang-Mills theory with gauge group SU(N). Corrections are found to vanish for
+all N. For k=2 this is a consequence of known superconformal nonrenormalization
+theorems, and for general k the result confirms an N-to-infinity, fixed large
+g^2N supergravity calculation and further conjectures in hep-th/9806074. A
+3-point correlator involving {\cal N} = 4 descendents of Tr X^2 is calculated,
+and its order g^2 contribution also vanishes, giving evidence for the absence
+of radiative corrections in correlators of descendent operators.
+\\

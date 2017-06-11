@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9812041
+From: Taichi Itoh <taichi@newton.skku.ac.kr>
+Date: Fri, 4 Dec 1998 13:52:48 GMT   (49kb)
+Date (revised v2): Tue, 15 Dec 1998 07:42:51 GMT   (49kb)
+Date (revised v3): Fri, 2 Apr 1999 17:44:56 GMT   (49kb)
+
+Title: Magnetization and dynamically induced finite densities in
+  three-dimensional Chern-Simons QED
+Authors: Taichi Itoh and Hiroshi Kato
+Comments: 47 pages, 5 figures, revtex; revised for publication in Nucl. Phys.
+  B, added some references in section 1 and corrected typos
+Report-no: DPNU-98-20
+Subj-class: High Energy Physics - Theory; Strongly Correlated Electrons;
+  Statistical Mechanics
+Journal-ref: Nucl.Phys. B551 (1999) 723-769
+\\
+  In (2+1)-dimensional QED with a Chern-Simons term, we show that spontaneous
+magnetization occurs in the context of finite density vacua, which are the
+lowest Landau levels fully or half occupied by fermions. Charge condensation is
+shown to appear so as to complement the fermion anti-fermion condensate, which
+breaks the flavor U(2N) symmetry and causes fermion mass generation. The
+solutions to the Schwinger-Dyson gap equation show that the fermion self-energy
+contributes to the induction of a finite fermion density and/or fermion mass.
+The magnetization can be supported by charge condensation for theories with the
+Chern-Simons coefficient $\kappa=N e^2/2 \pi$, and $\kappa=N e^2/4 \pi$, under
+the Gauss law constraint. For $\kappa=N e^2/4 \pi$, both the magnetic field and
+the fermion mass are simultaneously generated in the half-filled ground state,
+which breaks the U(2N) symmetry as well as the Lorentz symmetry.
+\\

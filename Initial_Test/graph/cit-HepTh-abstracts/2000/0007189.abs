@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0007189
+From: Noah Graham <graham@mitlns.mit.edu>
+Date: Mon, 24 Jul 2000 18:54:06 GMT   (20kb)
+Date (revised v2): Wed, 6 Dec 2000 18:51:08 GMT   (28kb)
+
+Title: Fractional and Integer Charges from Levinson's Theorem
+Authors: E. Farhi, N. Graham, R. L. Jaffe, and H. Weigel
+Comments: 16 pages, uses RevTex, 1 figure; v2: minor corrections
+Report-no: MIT-CTP-3004
+Journal-ref: Nucl.Phys. B595 (2001) 536-550
+\\
+  We compute fractional and integer fermion quantum numbers of static
+background field configurations using phase shifts and Levinson's theorem. By
+extending fermionic scattering theory to arbitrary dimensions, we implement
+dimensional regularization in a 1+1 dimensional gauge theory. We demonstrate
+that this regularization procedure automatically eliminates the anomaly in the
+vector current that a naive regulator would produce. We also apply these
+techniques to bag models in one and three dimensions.
+\\

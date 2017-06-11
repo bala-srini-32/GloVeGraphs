@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0204138
+From: Kazuki Ohmori <ohmori@hep-th.phys.s.u-tokyo.ac.jp>
+Date: Wed, 17 Apr 2002 11:08:39 GMT   (18kb)
+Date (revised v2): Thu, 1 Aug 2002 13:24:04 GMT   (18kb)
+
+Title: Comments on Solutions of Vacuum Superstring Field Theory
+Authors: Kazuki Ohmori
+Comments: 1+21 pages, no figures. v2:Some expressions in eqs.(4.11)-(5.4) have
+  been corrected, with our main conclusions unchanged
+Report-no: UT-02-18
+Journal-ref: JHEP 0204 (2002) 059
+\\
+  We study classical solutions of vacuum version of Berkovits' superstring
+field theory, focusing on the (super)ghost sector. We first argue that the
+supersliver state which is annihilated by eta_0, though it has the correct
+quantum numbers and solves the equation of motion, is actually
+non-perturbatively pure-gauge, and hence it fails to describe a D-brane. As a
+step toward the construction of non-trivial solutions, we calculate
+e^{-Phi}Qe^{Phi} for twisted superslivers. As a by-product, we find that the
+bc-twisted sliver solution in bosonic VSFT can, at least formally, also be
+written as a pure-gauge configuration.
+\\

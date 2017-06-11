@@ -1,0 +1,38 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9707133
+From: Hitoshi Murayama <murayama@mack.lbl.gov>
+Date: Mon, 14 Jul 1997 12:26:51 -0700   (37kb)
+
+Title: Holomorphy, Rescaling Anomalies and Exact beta Functions in
+  Supersymmetric Gauge Theories
+Authors: Nima Arkani-Hamed and Hitoshi Murayama (UC Berkeley, LBNL)
+Comments: 35 pages, LaTeX, no special macros
+Report-no: UCB-PTH-97/38, LBNL-40460
+Journal-ref: JHEP 0006 (2000) 030
+\\
+  There have been known "exact" beta functions for the gauge coupling in N=1
+supersymmetric gauge theories, the so-called NSVZ beta functions. Shifman and
+Vainshtein (SV) further related these beta functions to the exact 1-loop
+running of the "Wilsonian" gauge coupling. All these results, however, remain
+somewhat mysterious. We attempt to clarify these issues by presenting new
+perspectives on the NSVZ beta function. Our interpretation of the results is
+somewhat different than the one given by SV, having nothing to do with the
+distinction between "Wilsonian" and "1PI" effective actions. Throughout we work
+in the context of the Wilsonian Renormalization Group; namely, as the cutoff of
+the theory is changed from M to M', we determine the appropriate changes in the
+bare couplings needed to keep the low energy physics fixed. The entire analysis
+is therefore free of infrared subtleties. When the bare Lagrangian given at the
+cutoff is manifestly holomorphic in the gauge coupling, we show that the
+required change in the holomorphic gauge coupling is exhausted at 1-loop to all
+orders of perturbation theory, and even non-perturbatively in some cases. On
+the other hand, when the bare Lagrangian has canonically normalized kinetic
+terms, we find that the required change in the gauge coupling is given by the
+NSVZ beta function. The higher order contributions in the NSVZ beta function
+are due to anomalous Jacobians under the rescaling of the fields done in
+passing from holomorphic to canonical normalization. We also give prescriptions
+for regularizing certain N=1 theories with an ultraviolet cutoff M preserving
+manifest holomorphy, starting from finite N=4 and N=2 theories. It is then in
+principle possible to check the validity of the exact beta function by higher
+order calculations in these theories.
+\\

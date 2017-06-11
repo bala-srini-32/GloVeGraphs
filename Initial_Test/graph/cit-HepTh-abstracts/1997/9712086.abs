@@ -1,0 +1,34 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9712086
+From: "Michael B. Green" <M.B.Green@damtp.cam.ac.uk>
+Date: Mon, 8 Dec 1997 20:27:06 GMT   (45kb)
+Date (revised v2): Fri, 20 Feb 1998 14:14:34 GMT   (45kb)
+Date (revised v3): Sun, 22 Feb 1998 20:24:26 GMT   (45kb)
+Date (revised v4): Mon, 2 Mar 1998 18:56:42 GMT   (45kb)
+
+Title: (8,0) Quantum mechanics and symmetry enhancement in type I' superstrings
+Authors: Constantin P. Bachas, Michael B. Green and Adam Schwimmer
+Comments: 30 pages LaTeX, Five figures. Two references added as well as some
+  Comments in section4. v4: Missing backslashes added to four reference
+  citations!
+Report-no: CPTH/S570.1297; DAMTP/97-50; WIS/97-34
+Journal-ref: JHEP 9801 (1998) 006
+\\
+  The low-energy supersymmetric quantum mechanics describing D-particles in the
+background of D8-branes and orientifold planes is analyzed in detail, including
+a careful discussion of Gauss' law and normal ordering of operators. This
+elucidates the mechanism that binds D-particles to an orientifold plane, in
+accordance with the predictions of heterotic/type I duality. The ocurrence of
+enhanced symmetries associated with massless bound states of a D-particle with
+one orientifold plane is illustrated by the enhancement of $SO(14) \times U(1)$
+to $E_8$ and $SO(12)\times U(1)$ to $E_7$ at strong type I' coupling.
+Enhancement to higher-rank groups involves both orientifold planes. For
+example, the enhanced $E_8 \times E_8 \times SU(2)$ symmetry at the self-dual
+radius of the heterotic string is seen as the result of two D8-branes
+coinciding midway between the orientifold planes, while the enhanced $SU(18)$
+symmetry results from the coincidence of all sixteen D8-branes and $SO(34)$
+when they also coincide with an orientifold plane. As a separate by-product,
+the s-rule of brane-engineered gauge theories is derived by relating it through
+a chain of dualities to the Pauli exclusion principle.
+\\

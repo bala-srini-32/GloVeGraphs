@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9607072
+From: Gabriele Ferretti <ferretti@rhea.teorfys.uu.se>
+Date: Tue, 9 Jul 96 17:42:22 +0200   (23kb)
+
+Title: The Critical Exponents Of The Matrix Valued Gross-Neveu Model
+Authors: Gabriele Ferretti (Uppsala)
+Comments: 19 pages, LaTeX.2e + macro epsfig. Two eps figures, four LeTeX
+  pictures
+Report-no: UUITP-14/96
+Journal-ref: Nucl.Phys. B487 (1997) 739-755
+\\
+  We study the large N limit of the MATRIX valued Gross-Neveu model in 2<d<4
+dimensions. The method employed is a combination of the approximate recursion
+formula of Polyakov and Wilson with the solution to the zero dimensional large
+N counting problem of Makeenko and Zarembo. The model is found to have a phase
+transition at a finite value for the critical temperature and the critical
+exponents are approximated by nu = 1/(2(d-2)) and eta=d-2. We test the validity
+of the approximation by applying it to the usual vector models where it is
+found to yield exact results to leading order in 1/N.
+\\

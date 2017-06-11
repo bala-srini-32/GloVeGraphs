@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9502160
+From: eholzer@avzw01.physik.uni-bonn.de (Wolfgang Eholzer)
+Date: Tue, 28 Feb 95 16:08:19 +0100   (79kb)
+Date (revised): Mon, 8 May 95 09:00:27 +0200
+
+Title: Fusion Algebras and Characters of Rational Conformal Field Theories
+Author: Wolfgang Eholzer
+Comments: 87 pages, AMS TeX, one postscript figure, one exceptional case added
+  to Main theorem 2, some typos corrected
+Report-no: PhD thesis, BONN-IR-95-10
+\\
+  We introduce the notion of (nondegenerate) strongly-modular fusion algebras.
+Here strongly-modular means that the fusion algebra is induced via Verlinde's
+formula by a representation of the modular group whose kernel contains a
+congruence subgroup. Furthermore, nondegenerate means that the conformal
+dimensions of possibly underlying rational conformal field theories do not
+differ by integers. Our first main result is the classification of all
+strongly-modular fusion algebras of dimension two, three and four and the
+classification of all nondegenerate strongly-modular fusion algebras of
+dimension less than 24. Secondly, we show that the conformal characters of
+various rational models of W-algebras can be determined from the mere knowledge
+of the central charge and the set of conformal dimensions. We also describe how
+to actually construct conformal characters by using theta series associated to
+certain lattices. On our way we develop several tools for studying
+representations of the modular group on spaces of modular functions. These
+methods, applied here only to certain rational conformal field theories, are in
+general useful for the analysis rational models.
+\\

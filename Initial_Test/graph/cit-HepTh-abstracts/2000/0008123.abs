@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0008123
+From: Tim Morris <trmorris@hep.phys.soton.ac.uk>
+Date: Tue, 15 Aug 2000 14:10:00 GMT   (15kb)
+Date (revised v2): Fri, 3 Nov 2000 12:31:57 GMT   (15kb)
+
+Title: Exact Scheme Independence
+Author: Jose I. Latorre and Tim R. Morris
+Comments: TeX, harvmac; 15 pages; ref added + last 2 sentences improved.
+  version accepted for jhep
+Report-no: SHEP 00-09
+Journal-ref: JHEP 0011 (2000) 004
+\\
+  Scheme independence of exact renormalization group equations, including
+independence of the choice of cutoff function, is shown to follow from general
+field redefinitions, which remains an inherent redundancy in quantum field
+theories. Renormalization group equations and their solutions are amenable to a
+simple formulation which is manifestly covariant under such a symmetry group.
+Notably, the kernel of the exact equations which controls the integration of
+modes acts as a field connection along the flow.
+\\

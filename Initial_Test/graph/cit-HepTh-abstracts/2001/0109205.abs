@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0109205
+From: Ricardo Bentin <rbentin@ift.unesp.br>
+Date: Wed, 26 Sep 2001 19:06:15 GMT   (5kb)
+
+Title: Obtaining a light-like planar gauge
+Authors: Alfredo T. Suzuki and Ricardo Bent\'{\i}n
+Comments: 9 pages
+Journal-ref: Mod.Phys.Lett. A17 (2002) 205-208
+\\
+  In the usual and current understanding of planar gauge choices for Abelian
+and non Abelian gauge fields, the external defining vector $n_\mu$ can either
+be space-like ($n^2<0$) or time-like ($n^2>0$) but not light-like ($n^2=0$). In
+this work we propose a light-like planar gauge that consists in defining a
+modified gauge-fixing term, $\cal{L}_{GF}$, whose main characteristic is a
+two-degree violation of Lorentz covariance arising from the fact that
+four-dimensional space-time spanned entirely by null vectors as basis
+necessitates two light-like vectors, namely $n_\mu$ and its dual $m_\mu$, with
+$n^2=m^2=0, n\cdot m\neq 0$, say, e.g. normalized to $n\cdot m=2$.
+\\

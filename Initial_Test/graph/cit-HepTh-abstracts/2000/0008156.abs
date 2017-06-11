@@ -1,0 +1,19 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0008156
+From: David Adams <dadams@maths.adelaide.edu.au>
+Date: Sun, 20 Aug 2000 09:15:38 GMT   (6kb)
+
+Title: A remark on Schwarz's topological field theory
+Authors: David H. Adams and Emil M. Prodanov
+Comments: 9 pages, latex, to appear in Lett. Math. Phys
+Journal-ref: Lett.Math.Phys. 51 (2000) 249-255
+\\
+  The standard evaluation of the partition function $Z$ of Schwarz's
+topological field theory results in the Ray--Singer analytic torsion. Here we
+present an alternative evaluation which results in Z=1. Mathematically, this
+amounts to a novel perspective on analytic torsion: it can be formally written
+as a ratio of volumes of spaces of differential forms which is formally equal
+to 1 by Hodge duality. An analogous result for Reidemeister combinatorial
+torsion is also obtained.
+\\

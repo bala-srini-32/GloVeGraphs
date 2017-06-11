@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9606176
+From: Clifford Johnson <cvj@itp.ucsb.edu>
+Date: Wed, 26 Jun 1996 20:08:30 -0700   (24kb)
+
+Title: Multiple Realisations of N=1 Vacua in Six Dimensions
+Authors: Eric G. Gimon and Clifford V. Johnson
+Comments: Uses harvmac.tex and epsf.tex, 22 pages (harvmac `b'), 1 figure
+Report-no: NSF-ITP-96-55
+Journal-ref: Nucl.Phys. B479 (1996) 285-304
+\\
+  A while ago, examples of N=1 vacua in D=6 were constructed as orientifolds of
+Type IIB string theory compactified on the K3 surface. Among the interesting
+features of those models was the presence of D5-branes behaving like small
+instantons, and the appearance of extra tensor multiplets. These are both
+non-perturbative phenomena from the point of view of heterotic string theory.
+Although the orientifold models are a natural setting in which to study these
+non-perturbative Heterotic string phenomena, it is interesting and instructive
+to explore how such vacua are realised in Heterotic string theory, M-theory and
+F-theory, and consider the relations between them. In particular, we consider
+models of M-theory compactified on K3 x S^1/Z_2 with fivebranes present on the
+interval. There is a family of such models which yields the same spectra as a
+subfamily of the orientifold models. By further compactifying on T^2 to four
+dimensions we relate them to Heterotic string spectra. We then use
+Heterotic/Type IIA duality to deduce the existence of Calabi-Yau 3-folds which
+should yield the original six dimensional orientifold spectra if we use them to
+compactify F-theory. Finally, we show in detail how to take a limit of such an
+F-theory compactification which returns us to the Type IIB orientifold models.
+\\

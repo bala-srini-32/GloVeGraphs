@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9811085
+From: Fred Dilkes <fad@pineapple.apmaths.uwo.ca>
+Date: Mon, 9 Nov 1998 23:07:12 GMT   (5kb)
+
+Title: Vortex Solutions in the Chern-Simons Stuekelberg Model
+Author: D. G. C. McKeon
+Comments: 8 pages, plain LaTeX, no figures
+Journal-ref: Can.J.Phys. 76 (1998) 809-813
+\\
+  Vortex solutions to the classical field equations in a massive,
+renormalizable U(1) gauge model are considered in (2+1) dimensions. A vector
+field whose kinetic term consists of a Chern-Simons term plus a Stuekelberg
+mass term is coupled to a scalar field. If the classical scalar field is set
+equal to zero, then there are classical configurations of the vector field in
+which the magnetic flux is non-vanishing and finite. In contrast to the
+Nielsen-Olesen vortex, the magnetic field vanishes exponentially at large
+distances and diverges logarithmicly at short distances. This divergence,
+although not so severe as to cause the flux to diverge, results in the
+Hamiltonian becoming infinite. If the classical scalar field is no longer equal
+to zero, then the magnetic flux is not only finite, but quantized and the
+asymptotic behaviour of the field is altered so that the Hamiltonian no longer
+suffers from a divergence due to the field configuration at the origin.
+Furthermore, the asymptotic behaviour at infinity is dependent on the magnitude
+of the Stuekelberg mass term.
+\\

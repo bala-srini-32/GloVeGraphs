@@ -1,0 +1,33 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9505162
+From: Andy Strominger <andy@denali.physics.ucsb.edu>
+Date: Thu, 25 May 95 16:28:22 PDT   (13kb)
+Date (revised): Fri, 16 Jun 95 09:31:07 PDT
+
+Title: Second-Quantized Mirror Symmetry
+Author: S. Ferrara, J. A. Harvey, A. Strominger, C. Vafa
+Comments: In this slightly revised version, the type II dual of a branch of the
+  heterotic moduli space obtained by hypermultiplet condensation is tentatively
+  identified as a certain Calabi-Yau previously constructed by Klemm and
+  Schimmrigk
+Report-no: EFI-95-26
+Journal-ref: Phys.Lett. B361 (1995) 59-65
+\\
+  We propose and give strong evidence for a duality relating Type II theories
+on Calabi-Yau spaces and heterotic strings on $K3 \times T^2$, both of which
+have $N=2$ spacetime supersymmetry. Entries in the dictionary relating the dual
+theories are derived from an analysis of the soliton string worldsheet in the
+context of $N=2$ orbifolds of dual $N=4$ compactifications of Type II and
+heterotic strings. In particular we construct a pairing between Type II string
+theory on a self-mirror Calabi-Yau space $X$ with $h^{11}= h^{21}= 11$ and a
+$(4,0)$ background of heterotic string theory on $K3\times T^2$. Under the
+duality transformation the usual first-quantized mirror symmetry of $X$ becomes
+a second-quantized mirror symmetry which determines nonperturbative quantum
+effects. This enables us to compute the exact quantum moduli space. Mirror
+symmetry of $X$ implies that the low-energy $N=2$ gauge theory is finite, even
+at enhanced symmetry points. This prediction is verified by direct computation
+on the heterotic side. Other branches of the moduli space, and corresponding
+dual pairs which are not finite $N=2$ theories, are connected to this one via
+black hole condensation.
+\\

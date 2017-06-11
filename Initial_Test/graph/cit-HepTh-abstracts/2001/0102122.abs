@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0102122
+From: Calin Iuliu Lazaroiu <calin@insti.physics.sunysb.edu>
+Date: Mon, 19 Feb 2001 20:39:50 GMT   (40kb)
+Date (revised v2): Thu, 5 Jul 2001 22:48:06 GMT   (59kb)
+
+Title: Generalized complexes and string field theory
+Authors: C. I. Lazaroiu
+Comments: 31 pages, 4 figures; v2: small typos corrected, changed to JHEP style
+Report-no: YiTP-SB 00-84
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+Journal-ref: JHEP 0106 (2001) 052
+\\
+  I discuss the axiomatic framework of (tree-level) associative open string
+field theory in the presence of D-branes by considering the natural extension
+of the case of a single boundary sector. This leads to a formulation which is
+intimately connected with the mathematical theory of differential graded
+categories. I point out that a generic string field theory as formulated within
+this framework is not closed under formation of D-brane composites and as such
+does not allow for a unitary description of D-brane dynamics. This implies that
+the collection of boundary sectors of a generic string field theory with
+D-branes must be extended by inclusion of all possible D-brane composites. I
+give a precise formulation of a weak unitarity constraint and show that a
+minimal extension which is unitary in this sense can always be obtained by
+promoting the original D-brane category to an enlarged category constructed by
+using certain generalized complexes of D-branes. I give a detailed construction
+of this extension and prove its closure under formation of D-brane composites.
+These results amount to a completely general description of D-brane composite
+formation within the framework of associative string field theory.
+\\

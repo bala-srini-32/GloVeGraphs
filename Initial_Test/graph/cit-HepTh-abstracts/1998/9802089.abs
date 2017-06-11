@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9802089
+From: Vipul Periwal <vipul@viper.princeton.edu>
+Date: Thu, 12 Feb 1998 19:07:13 GMT   (6kb)
+
+Title: Consistency of Wilsonian effective actions
+Authors: Vipul Periwal
+Comments: 3 pages, RevTeX
+Report-no: PUPT-1766
+Journal-ref: Phys.Rev. D57 (1998) 6551-6553
+\\
+  Wilsonian effective actions are interpreted as free energies in ensembles
+with prescribed field expectation values and prescribed connected two-point
+functions. Since such free energies are directly obtained from
+two-particle-irreducible functionals, it follows that Wilsonian effective
+actions satisfy elementary perturbative consistency conditions, and
+non-perturbative convexity conditions. In particular, the exact determination
+of a Wilsonian action by other means (e.g. supersymmetry) allows one to extract
+restrictions on the particular cutoff scheme and field reparametrization that
+would lead to such a Wilsonian action from an underlying microscopic action.
+\\

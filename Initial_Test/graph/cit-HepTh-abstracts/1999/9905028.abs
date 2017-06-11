@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9905028
+From: <Massimo.Materassi@PG.infn.it>
+Date: Wed, 5 May 1999 13:50:22 GMT   (21kb)
+Date (revised v2): Fri, 7 May 1999 13:56:27 GMT   (21kb)
+
+Title: Polyakov's string classical mechanics
+Authors: Massimo Materassi (University of Perugia)
+Comments: 39 pages, no figures
+\\
+  This paper is almost an exercise in which the Hamiltonian scheme is developed
+for Polyakov's classical string, by following the usual framework suggested by
+Dirac and Bergman for the reduction of gauge theories to their essential
+physical degrees of freedom. The results collected here will be useful in some
+forthcoming papers, where strings will be studied in the unusual context of
+Wigner-covariant rest frame theory.
+  After a short introduction outlining the work, the Lagrangean scheme is
+presented in Section II, where the classical equivalence between Polyakov and
+Nambu-Goto string is rederived. In Section III the Hamiltonian framework is
+worked out, primary and secondary constraints are deduced. Then Lagrange
+multipliers are introduced; finally the Hamiltonian equations of motion are
+presented.
+  In Section IV gauge symmetries are treated, by constructing their canonical
+generators; then some gauge degrees of freedom are eliminated by Dirac-Bergmann
+fixing procedure. In this paper only the gauge-freedom coming from primary
+constraints is fixed, while secondary constraints will need a deeper analysis.
+At the end of
+  Section IV the classical version of Virasoro algebra is singled out as that
+of the secondary constraints, surviving to the first gauge fixing.
+\\

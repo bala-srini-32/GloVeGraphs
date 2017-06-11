@@ -1,0 +1,19 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0303051
+From: Makoto Natsuume <natsuume@physics.upenn.edu>
+Date: Thu, 6 Mar 2003 19:14:33 GMT   (25kb)
+
+Title: The no-ghost theorem in curved backgrounds with a timelike u(1): NSR
+  string
+Authors: Masako Asano (KEK) and Makoto Natsuume (Univ. of Pennsylvania/KEK)
+Comments: 25 pages, AMS-LaTeX
+Report-no: KEK-TH-872, UPR-1031-T
+\\
+  It is well-known that the standard no-ghost theorem is valid as long as the
+background has the light-cone directions. We prove the no-ghost theorem for the
+NSR string when only the timelike direction is flat. This is done by the BRST
+quantization, using the technique of Frenkel, Garland and Zuckerman and our
+previous results for the bosonic string. The theorem actually applies as long
+as the timelike direction is written as a u(1) SCFT.
+\\

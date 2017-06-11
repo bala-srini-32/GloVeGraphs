@@ -1,0 +1,33 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0109212
+From: Olalla Castro <olalla@physik.fu-berlin.de>
+Date: Thu, 27 Sep 2001 17:42:31 GMT   (573kb)
+
+Title: Bootstrap Methods in 1+1-Dimensional Quantum Field Theories: The
+  Homogeneous Sine-Gordon Models
+Authors: Olalla A. Castro-Alvaredo
+Comments: PhD thesis, Latex, 228 pages and 26 figures
+\\
+  The bootstrap program for 1+1-dimensional integrable Quantum Field Theories
+(QFT's) is developed to a large extent for the Homogeneous sine-Gordon (HSG)
+models. This program can be divided into various steps, which include the
+computation of the exact S-matrix, Form Factors of local operators and
+correlation functions, as well as the identification of the operator content of
+the QFT and the development of various consistency checks. Taking as an input
+the S-matrix proposal for the HSG-models, we confirm its consistency by
+carrying out both a Thermodynamic Bethe Ansatz (TBA) and a Form Factor
+analysis. In contrast to many other 1+1-dimensional integrable models studied
+in the literature, the HSG-models break parity, both at the level of the
+Lagrangian and S-matrix, and their spectrum includes unstable particles. These
+features have specific consequences in our analysis which are given a physical
+interpretation. By exploiting the Form Factor approach, we develop further the
+QFT advocated to the HSG-models. We evaluate correlation functions of various
+local operators of the model as well as Zamolodchikov's c-function and
+$\Delta$-sum rules. For the $SU(3)_2$-HSG model we show how the form factors of
+different local operators are interrelated by means of the momentum space
+cluster property. We find closed formulae for all $n$-particle form factors of
+a large class of operators of the $SU(N)_2$-HSG models. These formulae are
+expressed in terms of universal building blocks which allow both a determinant
+and an integral representation.
+\\

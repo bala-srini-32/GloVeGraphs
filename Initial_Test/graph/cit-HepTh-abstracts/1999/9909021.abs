@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9909021
+From: Bogdan Morariu <morariu@thsrv.lbl.gov>
+Date: Sun, 5 Sep 1999 20:56:55 GMT   (16kb)
+Date (revised v2): Mon, 4 Oct 1999 21:42:33 GMT   (18kb)
+Date (revised v3): Wed, 27 Oct 1999 23:37:36 GMT   (18kb)
+Date (revised v4): Fri, 24 Mar 2000 23:58:52 GMT   (19kb)
+
+Title: Nonlinear Self-Duality in Even Dimensions
+Authors: Paolo Aschieri, Daniel Brace, Bogdan Morariu, Bruno Zumino
+Comments: LaTeX file, 29 pages, expanded discussion in Section 2
+Report-no: LBNL-44204, UCB-PTH-99/37
+Journal-ref: Nucl.Phys. B574 (2000) 551-570
+\\
+  We show that the Born-Infeld theory with n complex abelian gauge fields
+written in an auxiliary field formulation has a U(n,n) duality group. We
+conjecture the form of the Lagrangian obtained by eliminating the auxiliary
+fields and then introduce a new reality structure leading to a Born-Infeld
+theory with n real fields and an Sp(2n,R) duality symmetry. The real and
+complex constructions are extended to arbitrary even dimensions. The maximal
+noncompact duality group is U(n,n) for complex fields. For real fields the
+duality group is Sp(2n,R) if half of the dimension of space-time is even and
+O(n,n) if it is odd. We also discuss duality under the maximal compact
+subgroup, which is the self-duality group of the theory obtained by fixing the
+expectation value of a scalar field. Supersymmetric versions of self-dual
+theories in four dimensions are also discussed.
+\\

@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9702137
+From: Wolfgang LUCHA <V2032DAC@helios.edvz.univie.ac.at>
+Date: Tue, 18 Feb 97 13:20:52 MEZ   (23kb)
+
+Title: Clifford Algebras in Finite Quantum Field Theories, I. Irreducible
+  Yukawa Finiteness Condition
+Authors: Wolfgang Lucha and Michael Moser
+Comments: 20 pages, LaTeX
+Report-no: HEPHY-PUB 653/96
+Journal-ref: Int.J.Mod.Phys. A13 (1998) 2047-2074
+\\
+  Finite quantum field theories may be constructed from the most general
+renormalizable quantum field theory by forbidding, order by order in the
+perturbative loop expansion, all ultraviolet-divergent renormalizations of the
+physical parameters of the theory. The relevant finiteness conditions resulting
+from this requirement relate all dimensionless couplings in the theory. At
+first sight, Yukawa couplings which are equivalent to the generators of some
+Clifford algebra with identity element represent a very promising type of
+solutions of the condition for one-loop finiteness of the Yukawa couplings.
+However, under few reasonable and simplifying assumptions about their
+particular structure, these Clifford-like Yukawa couplings prove to be in
+conflict with the requirements of one- and two-loop finiteness of the gauge
+coupling and of the absence of gauge anomalies, at least for all simple gauge
+groups up to and including rank 8.
+\\

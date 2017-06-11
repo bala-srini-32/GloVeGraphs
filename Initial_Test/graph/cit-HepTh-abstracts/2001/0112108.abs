@@ -1,0 +1,33 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0112108
+From: doc@spht.saclay.cea.fr (SPhT-SPEC/Documentation)
+Date: Wed, 12 Dec 2001 16:27:13 GMT   (38kb)
+Date (revised v2): Wed, 19 Dec 2001 16:43:42 GMT   (38kb)
+Date (revised v3): Thu, 10 Oct 2002 08:06:24 GMT   (40kb)
+
+Title: Complex Angular Momentum Diagonalization of the Bethe-Salpeter Structure
+  in General Quantum Field Theory
+Authors: J. Bros (CEA/Saclay, SPhT, France), G.A. Viano (Istituto Nazionale di
+  Fisica Nucleare, Sezione di Genova)
+Comments: latex BSRegge.tex, 1 file, 42 pages [SPhT-T01/119], submitted to Ann.
+  Henri Poincar\'e Title change. New presentation. See
+  http://www-spht.cea.fr/articles/T01/119
+Report-no: SPhT-T01/119
+Subj-class: High Energy Physics - Theory; Mathematical Physics
+\\
+  The Complex Angular Momentum (CAM) representation of (scalar) four-point
+functions has been previously established starting from the general principles
+of local relativistic Quantum Field Theory (QFT). Here, we carry out the
+diagonalization of the general $t$-channel Bethe--Salpeter (BS) structure of
+four point functions in the corresponding CAM variable $\lambda_{t},$ for all
+negative values of the squared-energy variable $t$. This diagonalization is
+closely related to the existence of BS-equations for the absorptive parts in
+the crossed channels, interpreted as convolution equations with spectral
+properties. The production of Regge poles equipped with factorized residues
+involving Euclidean three-point functions appears as conceptually built-in in
+the analytic axiomatic framework of QFT. The existence of leading Reggeon terms
+governing the asymptotic behaviour of the four-point function at fixed $t$ is
+strictly conditioned by the asymptotic behaviour of a global Bethe-Salpeter
+kernel of the theory.
+\\

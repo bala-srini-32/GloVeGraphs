@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0012228
+From: Vladimir Kazakov <vladimir.kazakov@lpt.ens.fr>
+Date: Fri, 22 Dec 2000 16:49:56 GMT   (67kb)
+
+Title: One-Dimensional String Theory with Vortices as Upside-Down Matrix
+  Oscillator
+Authors: Dmitri Boulatov and Vladimir Kazakov
+Comments: 51 pages, 7 figures, revised version of a 1991 paper
+Report-no: LPTENS 91/24, KUNS 1094 HE(TH) 91/14
+Journal-ref: Int.J.Mod.Phys. A8 (1993) 809-852
+\\
+  We study matrix quantum mechanics at a finite temperature equivalent to one
+dimensional compactified string theory with vortex (winding) excitations. It is
+explicitly demonstrated that the states transforming under non-trivial U(N)
+representations describe various configurations vortices and anti-vortices. For
+example, for the adjoint representation the Feynman graphs (representing
+discretized world-sheets) contain two faces with the boundaries wrapping around
+the compactified target space which is equivalent to a vortex-anti-vortex pair.
+A technique is developed to calculate partition functions in a given
+representation for the standard matrix oscillator. It enables us to obtain the
+partition function in the presence of a vortex-anti-vortex pair in the double
+scaling limit using an analytical continuation to the upside-down oscillator.
+The Berezinski-Kosterlitz-Thouless phase transition occurs in a similar way and
+at the same temperature as in the flat 2D space. A possible generalization of
+our technique to any dimension of the embedding space is discussed.
+\\

@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9502127
+From: fujiwara@mito.ipc.ibaraki.ac.jp
+Date: Wed, 22 Feb 95 14:02:09 JST   (27kb)
+
+Title: BFV-BRST Quantization of 2D Supergravity
+Author: T. Fujiwara, Y. Igarashi, R. Kuriki and T. Tabei,
+Comments: 39 pages, LaTeX, no figures
+Report-no: YITP-U-95-5
+Journal-ref: Phys.Rev. D53 (1996) 852-869
+\\
+Two-dimensional supergravity theory is quantized as an anomalous gauge theory.
+In the Batalin-Fradkin (BF) formalism, the anomaly-canceling super-Liouville
+fields are introduced to identify the original second-class constrained system
+with a gauge-fixed version of a first-class system. The BFV-BRST quantization
+applies to formulate the theory in the most general class of gauges. A local
+effective action constructed in the configuration space contains two
+super-Liouville actions; one is a noncovariant but local functional written
+only in terms of 2D supergravity fields, and the other contains the
+super-Liouville fields canceling the super-Weyl anomaly. Auxiliary fields for
+the Liouville and the gravity super-multiplets are introduced to make the BRST
+algebra close off-shell. Inclusion of them turns out to be essentially
+important especially in the super-lightcone gauge-fixing, where the
+super-curvature equations ($\dl^3_-g_{++} =\dl^2_-\chi_{++}=0$) are obtained as
+a result of BRST invariance of the theory. Our approach reveals the origin of
+the graded-SL(2,R) current algebra symmetry in a transparent manner.
+\\

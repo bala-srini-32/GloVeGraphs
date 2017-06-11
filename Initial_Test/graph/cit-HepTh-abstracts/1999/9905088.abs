@@ -1,0 +1,44 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9905088
+From: Teiji Kunihiro <kuni@math.ryukoku.ac.jp>
+Date: Thu, 13 May 1999 10:25:17 GMT   (43kb)
+Date (revised v2): Fri, 14 May 1999 04:30:44 GMT   (43kb)
+Date (revised v3): Wed, 29 Sep 1999 08:36:18 GMT   (46kb)
+
+Title: Renormalization-group Method for Reduction of Evolution Equations;
+  invariant manifolds and envelopes
+Author: S.-I. Ei, K. Fujii and T. Kunihiro
+Comments: 67 pages. No figures. v2: Additional discussions on the unstable
+  motion in the the double-well potential are given in the text and the
+  appendix added. Some references are also added. Introduction is somewhat
+  reshaped
+Subj-class: High Energy Physics - Theory; Mathematical Physics; Pattern
+  Formation and Solitons; Exactly Solvable and Integrable Systems
+Journal-ref: Annals Phys. 280 (2000) 236-298
+\\
+  The renormalization group (RG) method as a powerful tool for reduction of
+evolution equations is formulated in terms of the notion of invariant
+manifolds. We start with derivation of an exact RG equation which is analogous
+to the Wilsonian RG equations in statistical physics and quantum field theory.
+It is clarified that the perturbative RG method constructs invariant manifolds
+successively as the initial value of evolution equations, thereby the meaning
+to set $t_0=t$ is naturally understood where $t_0$ is the arbitrary initial
+time. We show that the integral constants in the unperturbative solution
+constitutes natural coordinates of the invariant manifold when the linear
+operator $A$ in the evolution equation has no Jordan cell; when $A$ has a
+Jordan cell, a slight modification is necessary because the dimension of the
+invariant manifold is increased by the perturbation. The RG equation determines
+the slow motion of the would-be integral constants in the unperturbative
+solution on the invariant manifold. We present the mechanical procedure to
+construct the perturbative solutions hence the initial values with which the RG
+equation gives meaningful results. The underlying structure of the reduction by
+the RG method as formulated in the present work turns out to completely fit to
+the universal one elucidated by Kuramoto some years ago. We indicate that the
+reduction procedure of evolution equations has a good correspondence with the
+renormalization procedure in quantum field theory; the counter part of the
+universal structure of reduction elucidated by Kuramoto may be the Polchinski's
+theorem for renormalizable field theories. We apply the method to interface
+dynamics such as kink-anti-kink and soliton-soliton interactions in the latter
+of which a linear operator having a Jordan-cell structure appears.
+\\

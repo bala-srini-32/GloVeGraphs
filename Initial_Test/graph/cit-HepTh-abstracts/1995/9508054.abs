@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9508054
+From: rzucchini@bo.infn.it
+Date: Sat, 12 Aug 1995 16:26:16 +0200   (38kb)
+
+Title: Drinfeld--Sokolov Gravity
+Authors: Roberto Zucchini
+Comments: 48 pages, Plain TeX, no figures, requires AMS font files AMSSYM.DEF
+  and AMSSYM.TEX
+Report-no: DFUB 95--17
+Journal-ref: Commun.Math.Phys. 181 (1996) 529-568
+\\
+  A lagrangian euclidean model of Drinfeld--Sokolov (DS) reduction leading to
+general $W$--algebras on a Riemann surface of any genus is presented. The
+background geometry is given by the DS principal bundle $K$ associated to a
+complex Lie group $G$ and an $SL(2,\Bbb C)$ subgroup $S$. The basic fields are
+a hermitian fiber metric $H$ of $K$ and a $(0,1)$ Koszul gauge field $A^*$ of
+$K$ valued in a certain negative graded subalgebra $\goth x$ of $\goth g$
+related to $\goth s$. The action governing the $H$ and $A^*$ dynamics is the
+effective action of a DS field theory in the geometric background specified by
+$H$ and $A^*$. Quantization of $H$ and $A^*$ implements on one hand the DS
+reduction and on the other defines a novel model of $2d$ gravity, DS gravity.
+The gauge fixing of the DS gauge symmetry yields an integration on a moduli
+space of DS gauge equivalence classes of $A^*$ configurations, the DS moduli
+space. The model has a residual gauge symmetry associated to the DS gauge
+transformations leaving a given field $A^*$ invariant. This is the DS
+counterpart of conformal symmetry. Conformal invariance and certain non
+perturbative features of the model are discussed in detail.
+\\

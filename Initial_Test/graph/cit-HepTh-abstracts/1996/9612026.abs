@@ -1,0 +1,17 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9612026
+From: philippe@math.unc.edu (Philippe DiFrancesco)
+Date: Mon, 2 Dec 1996 14:33:53 +0500   (63kb)
+
+Title: Meander Determinants
+Authors: P. Di Francesco
+Comments: TeX using harvmac.tex and epsf.tex, 64 pages (l-mode), 79 figures
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+\\
+  We prove a determinantal formula for quantities related to the problem of
+enumeration of (semi-) meanders, namely the topologically inequivalent planar
+configurations of non-self-intersecting loops crossing a given (half-) line
+through a given number of points. This is done by the explicit Gram-Schmidt
+orthogonalization of certain bases of subspaces of the Temperley-Lieb algebra.
+\\

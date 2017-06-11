@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9805011
+From: Chi-Sing LAM <lam@hep.physics.mcgill.ca>
+Date: Sun, 3 May 1998 17:21:10 GMT   (6kb)
+
+Title: Time-Ordered Products and Exponentials
+Author: C.S. Lam (McGill University)
+Comments: 7 pages with 2 postscript figures composed in Latex. Contribution to
+  the Second Jagna International Workshop on Mathematical Methods of Quantum
+  Physics, January 4-8, 1998, at Jagna, Bohol, Philippines, in honour of Prof.
+  Hiroshi Ezawa on the occasion of his 65th birthday
+\\
+  I discuss a formula decomposing the integral of time-ordered products of
+operators into sums of products of integrals of time-ordered commutators. The
+resulting factorization enables summation of an infinite series to be carried
+out to yield an explicit formula for the time-ordered exponentials. The
+Campbell-Baker-Hausdorff formula and the nonabelian eikonal formula obtained
+previously are both special cases of this result.
+\\

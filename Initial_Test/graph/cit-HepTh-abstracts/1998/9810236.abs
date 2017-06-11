@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9810236
+From: Brett van de Sande <bvds@theorie3.physik.uni-erlangen.de>
+Date: Thu, 29 Oct 1998 15:08:58 GMT   (12kb)
+Date (revised v2): Mon, 18 Jan 1999 19:14:05 GMT   (14kb)
+
+Title: Glueball calculations in large-N_c gauge theory
+Authors: S. Dalley (CERN), B. van de Sande (Uni. Erlangen)
+Comments: 4 pages, 2 figures, uses macro boxedeps.tex, minor corrections in
+  revised version
+Report-no: FAU-TP3-98/20 and CERN-TH/98-347
+Journal-ref: Phys.Rev.Lett. 82 (1999) 1088-1091
+\\
+  We use the light-front Hamiltonian of transverse lattice gauge theory to
+compute from first principles the glueball spectrum and light-front
+wavefunctions in the leading order of the 1/N_c colour expansion. We find
+0^{++}, 2^{++}, and 1^{+-} glueballs having masses consistent with N_c=3 data
+available from Euclidean lattice path integral methods. The wavefunctions
+exhibit a light-front constituent gluon structure.
+\\

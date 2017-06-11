@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0012115
+From: "Everton Murilo C. de Abreu" <everton@feg.unesp.br>
+Date: Wed, 13 Dec 2000 16:32:42 GMT   (13kb)
+
+Title: Non-Abelian BFFT embedding, Schr\"odinger quantization and the anomaly
+  of the O(N) nonlinear sigma model
+Authors: E. M. C. Abreu (UNESP/Guaratingueta), J. Ananias Neto, W. Oliveira and
+  G. Oliveira-Neto (U.F.J.F.)
+Comments: 16 pages, revtex, no figures
+\\
+  We embed the O(N) nonlinear sigma model in a non-Abelian gauge theory. As a
+first class system, it is quantized using two different approaches: the
+functional Schr\"odinger method and the non-local field-antifield procedure.
+Firstly, the quantization is performed with the functional Schr\"{o}dinger
+method, for N=2, obtaining the wave functionals for the ground and excited
+states. In the second place, using the BV formalism we compute the one-loop
+anomaly. This important result shows that the classical gauge symmetries,
+appearing due to the conversion via BFFT method, are broken at the quantum
+level.
+\\

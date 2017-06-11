@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9707153
+From: Patrizia Vitale <Patrizia.Vitale@na.infn.it>
+Date: Thu, 17 Jul 1997 15:56:15 +0200 (MET DST)   (21kb)
+
+Title: Hidden Quantum Group Structure in Einstein's General Relativity
+Authors: G. Bimonte, R. Musto, A. Stern and P. Vitale
+Comments: LaTex file, 21 pages, no figures
+Report-no: DSF-33/97, UAHEP 9711
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+Journal-ref: Nucl.Phys. B525 (1998) 483-503
+\\
+  A new formal scheme is presented in which Einstein's classical theory of
+General Relativity appears as the common, invariant sector of a one-parameter
+family of different theories. This is achieved by replacing the Poincare` group
+of the ordinary tetrad formalism with a q-deformed Poincare` group, the usual
+theory being recovered at q=1. Although written in terms of noncommuting
+vierbein and spin-connection fields, each theory has the same metric sector
+leading to the ordinary Einstein-Hilbert action and to the corresponding
+equations of motion. The Christoffel symbols and the components of the Riemann
+tensor are ordinary commuting numbers and have the usual form in terms of a
+metric tensor built as an appropriate bilinear in the vierbeins. Furthermore we
+exhibit a one-parameter family of Hamiltonian formalisms for general
+relativity, by showing that a canonical formalism a` la Ashtekar can be built
+for any value of q. The constraints are still polynomial, but the Poisson
+brackets are not skewsymmetric for q different from 1.
+\\

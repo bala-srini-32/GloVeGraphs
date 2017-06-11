@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0107071
+From: Alberto Santambrogio <alberto.santambrogio@mi.infn.it>
+Date: Mon, 9 Jul 2001 17:10:39 GMT   (29kb)
+Date (revised v2): Thu, 26 Jul 2001 17:37:33 GMT   (36kb)
+
+Title: Superspace approach to anomalous dimensions in {\cal N}=4 SYM
+Authors: Silvia Penati, Alberto Santambrogio
+Comments: 23 pages, 8 figures; v2: conclusions about O_20 are changed
+Report-no: Bicocca-FT-01-19, IFUM-691-FT
+Journal-ref: Nucl.Phys. B614 (2001) 367-387
+\\
+  In a {\cal N}=1 superspace setup and using dimensional regularization, we
+give a general and simple prescription to compute anomalous dimensions of
+composite operators in {\cal N}=4, SU(N) supersymmetric Yang-Mills theory,
+perturbatively in the coupling constant g. We show in general that anomalous
+dimensions are responsible for the appearance of higher order poles in the
+perturbative expansion of the two-point function and that their lowest
+contribution can be read directly from the coefficient of the 1/\epsilon^2
+pole. As a check of our procedure we rederive the anomalous dimension of the
+Konishi superfield at order g^2. We then apply this procedure to the case of
+the double trace, dimension 4, superfield in the 20 of SU(4) recently
+considered in the literature. We find that its anomalous dimension vanishes for
+all N in agreement with previous results.
+\\

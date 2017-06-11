@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9809208
+From: tferm@fy.chalmers.se (Robert Marnelius)
+Date: Wed, 30 Sep 1998 13:17:13 GMT   (14kb)
+Date (revised v2): Fri, 2 Oct 1998 14:25:19 GMT   (14kb)
+Date (revised v3): Tue, 13 Oct 1998 12:51:05 GMT   (14kb)
+Date (revised v4): Thu, 28 Jan 1999 11:47:55 GMT   (15kb)
+Date (revised v5): Fri, 29 Jan 1999 14:29:37 GMT   (15kb)
+Date (revised v6): Mon, 6 Sep 1999 11:35:28 GMT   (15kb)
+
+Title: Quantum Sp(2)-antibrackets and open groups
+Authors: Igor Batalin,Robert Marnelius
+Comments: 17 pages,Latexfile,corrected minor misprint in (78)
+Report-no: ITP-Goteborg 98-13
+\\
+  The recently presented quantum antibrackets are generalized to quantum
+Sp(2)-antibrackets. For the class of commuting operators there are true quantum
+versions of the classical Sp(2)-antibrackets. For arbitrary operators we have a
+generalized bracket structure involving higher Sp(2)-antibrackets. It is shown
+that these quantum antibrackets may be obtained from generating operators
+involving operators in arbitrary involutions. A recently presented quantum
+master equation for operators, which was proposed to encode generalized quantum
+Maurer-Cartan equations for arbitrary open groups, is generalized to the Sp(2)
+formalism. In these new quantum master equations the generalized Sp(2)-brackets
+appear naturally.
+\\

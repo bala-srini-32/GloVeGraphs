@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0108039
+From: Marco Moriconi <moriconi@ictp.trieste.it>
+Date: Tue, 7 Aug 2001 14:31:11 GMT   (19kb)
+Date (revised v2): Mon, 20 Aug 2001 15:33:34 GMT   (20kb)
+
+Title: Integrable Boundary Conditions and Reflection Matrices for the O(N)
+  Nonlinear Sigma Model
+Authors: M. Moriconi
+Comments: 21 pages, 2 figures. v2: References added, typos corrected, few
+  comments added
+Report-no: CLNS 01/1750
+Journal-ref: Nucl.Phys. B619 (2001) 396-414
+\\
+  We find new integrable boundary conditions, depending on a free parameter
+$g$, for the O(N) nonlinear $\sigma$ model, which are of nondiagonal type, that
+is, particles can change their ``flavor'' through scattering off the boundary.
+These boundary conditions are derived from a microscopic boundary lagrangian,
+which is used to establish their integrability, and exhibit integrable flows
+between diagonal boundary conditions investigated earlier. We solve the
+boundary Yang-Baxter equation, connect these solutions to the boundary
+conditions, and examine the corresponding integrable flows.
+\\

@@ -1,0 +1,32 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9905087
+From: Thomas WYNTER <thwynter@feynman.princeton.edu>
+Date: Wed, 12 May 1999 20:16:10 GMT   (38kb)
+Date (revised v2): Tue, 14 Dec 1999 16:42:30 GMT   (43kb)
+Date (revised v3): Wed, 15 Mar 2000 13:08:23 GMT   (46kb)
+
+Title: High energy scattering amplitudes in matrix string theory
+Authors: Thomas Wynter
+Comments: harvmac.tex, 55 pages, typos corrected, includes 2 figures. First
+  part of section 3 expanded to give a clearer discussion of the justification
+  for using a one loop calculation. Two paragraphs added to the end of section
+  8.1 discussing the non-Lorentz invariant factor $c$ equn 8.9. It is pointed
+  out that the same factor occurs in string theory where it combines with the
+  determinant to give a Lorentz Invaraint result. Other minor changes. Final
+  version to appear in Nucl. Phys B
+Report-no: PUPT-1861
+Journal-ref: Nucl.Phys. B580 (2000) 147-192
+\\
+  High energy fixed angle scattering is studied in matrix string theory. The
+saddle point world sheet configurations, which give the dominant contributions
+to the string theory amplitude, are taken as classical backgrounds in matrix
+string theory. A one loop fluctuation analysis about the classical background
+is performed. An exact treatment of the fermionic and bosonic zero modes is
+shown to lead to all of the expected structure of the scattering amplitude. The
+ten dimensional Lorentz invariant kinematical structure is obtained from the
+fermion zero modes, and the correct factor of the string coupling constant is
+obtained from the abelian gauge field zero modes. Up to a numerical factor we
+reproduce, from matrix string theory, the high energy limit of the tree level,
+four graviton scattering amplitude.
+\\

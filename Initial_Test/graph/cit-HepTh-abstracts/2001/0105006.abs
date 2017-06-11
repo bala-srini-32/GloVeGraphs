@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0105006
+From: Sanjaye Ramgoolam <ramgosk@het.brown.edu>
+Date: Tue, 1 May 2001 20:34:39 GMT   (27kb)
+Date (revised v2): Tue, 18 Dec 2001 18:55:23 GMT   (28kb)
+Date (revised v3): Sun, 11 Aug 2002 23:18:03 GMT   (28kb)
+
+Title: On spherical harmonics for fuzzy spheres in diverse dimensions
+Authors: Sanjaye Ramgoolam
+Comments: 33 pages (Harvmac big), 1 figure v2: added footnote clarifying radius
+  of fuzzy odd spheres, v3 : fixed minor typo in eq. 6.2
+Report-no: Brown-het-1260
+Journal-ref: Nucl.Phys. B610 (2001) 461-488
+\\
+  We construct spherical harmonics for fuzzy spheres of even and odd
+dimensions, generalizing the correspondence between finite matrix algebras and
+fuzzy two-spheres.
+  The finite matrix algebras associated with the various fuzzy spheres have a
+natural basis which falls in correspondence with tensor constructions of
+irreducible representations of orthogonal groups SO(n). This basis is useful in
+describing fluctuations around various D-brane constructions of fuzzy spherical
+objects. The higher fuzzy spheres are non-associative algebras that appear as
+projections of associative algebras related to Matrices. The non-associativity
+(as well as the non-commutativity) disappears in the leading large $N$ limit,
+ensuring the correct classical limit. Some simple aspects of the combinatorics
+of the fuzzy four-sphere can be accounted by a heuristic picture of giant
+fractional instantons.
+\\

@@ -1,0 +1,39 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9607053
+From: "Vladimir Plechko" <plechko@thsun1.jinr.dubna.su>
+Date: Sun, 07 Jul 1996 14:47:09   (11kb)
+Date (revised): Sat, 23 Aug 1997 21:33:43
+
+Title: Anticommuting Integrals and Fermionic Field Theories for Two-Dimensional
+  Ising Models
+Authors: V.N. Plechko (Bogoliubov Lab Dubna)
+Comments: LaTeX, 1+8 pages, no figures. A talk presented at the VII
+  International Conference on Symmetry Methods in Physics, ICSMP-95, Dubna,
+  July 10-16, 1995
+Journal-ref: Proceedings ICSMP-95 (JINR, Dubna, 1996) Vol. 2, 443-450
+\\
+  We review the applications of the integral over anticommuting Grassmann
+variables (nonquantum fermionic fields) to the analytic solutions and the
+field-theoretical formulations for the 2D Ising models. The 2D Ising model
+partition function $Q$ is presentable as the fermionic Gaussian integral. The
+use of the spin-polynomial interpretation of the 2D Ising problem is stressed,
+in particular. Starting with the spin-polynomial interpretation of the local
+Boltzmann weights, the Gaussian integral for $Q$ appears in the universal form
+for a variety of lattices, including the standard rectangular, triangular, and
+hexagonal lattices, and with the minimal number of fermionic variables (two per
+site). The analytic solutions for the correspondent 2D Ising models then follow
+by passing to the momentum space on a lattice. The symmetries and the question
+on the location of critical point have an interesting interpretation within
+this spin-polynomial formulation of the problem. From the exact lattice theory
+we then pass to the continuum-limit field-theoretical interpretation of the 2D
+Ising models. The continuum theory captures all relevant features of the
+original models near $T_c$. The continuum limit corresponds to the low-momentum
+sector of the exact theory responsible for the critical-point singularities and
+the large-distance behaviour of correlations. The resulting field theory is the
+massive two-component Majorana theory, with mass vanishing at $T_c$. By
+doubling of fermions in the Majorana representation, we obtain as well the 2D
+Dirac field theory of charged fermions for 2D Ising models. The differences
+between particular 2D Ising lattices are merely adsorbed, in the
+field-theoretical formulation, in the definition of the effective mass.
+\\

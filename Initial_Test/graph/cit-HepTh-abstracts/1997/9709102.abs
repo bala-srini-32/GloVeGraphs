@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9709102
+From: Stefan Mashkevich <mash@phys.ntnu.no>
+Date: Mon, 15 Sep 1997 18:20:55 +0200   (7kb)
+
+Title: Chern-Simons Field Theory and Generalizations of Anyons
+Author: Stefan Mashkevich (ITP, Kiev)
+Comments: 6 pages, LATEX. Contributed paper at the International Europhysics
+  Conference on High Energy Physics HEP-97 (Jerusalem, Israel, 19--26 August
+  1997)
+\\
+  It is well known that charges coupled to a pure Chern-Simons gauge field in
+(2+1) dimensions undergo an effective change of statistics, i.e., become
+anyons. We will consider several generalizations thereof, arising when the
+gauge field is more general. The first one is ``multispecies anyons''---charged
+particles of several species coupled to one, or possibly several, Chern-Simons
+fields. The second one is finite-size anyons, which are charged particles
+coupled to a gauge field described by the Chern-Simons term plus some other
+term. In fact, rigorously speaking, quasielectrons and quasiholes in the
+fractional quantum Hall effect are multispecies finite-size anyons. The third
+one is an analog of finite-size anyons which arises in a model with a mixed
+Chern-Simons term; notably, this model is P,T-invariant, which opens the way
+for practical applications even when there is no parity-breaking magnetic
+field.
+\\

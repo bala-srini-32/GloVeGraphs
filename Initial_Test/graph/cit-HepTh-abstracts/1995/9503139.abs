@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9503139
+From: "M.R. Niedermaier" <MAN%DMUMPIWH.BITNET@vm.gmd.de>
+Date: Tue, 21 Mar 95 15:45:52 GMT   (14kb)
+
+Title: On the Free Field Realization of Form Factors
+Author: M.R. Niedermaier
+Comments: 13 pages in Latex
+Report-no: MPI-PhT/94-73
+\\
+  A method to construct free field realizations for the form factors of
+diagonal factorized scattering theories is described. Form factors are
+constructed from linear functionals over an associative `form factor algebra',
+which in particular generate solutions of the deformed Knizhnik-Zamolodchikov
+equations with parameter $2\pi$. We show that there exists a unique deformation
+off the (`Rindler') value $2\pi$ that preserves the original $S$-matrix and
+which allows one to realize form factors as vector functionals over an algebra
+of generalized vertex operators.
+\\

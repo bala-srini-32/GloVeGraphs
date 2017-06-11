@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0209226
+From: Eva Silverstein <evas@slac.stanford.edu>
+Date: Thu, 26 Sep 2002 18:55:50 GMT   (46kb)
+Date (revised v2): Mon, 9 Dec 2002 21:14:28 GMT   (46kb)
+
+Title: Decapitating Tadpoles
+Authors: Allan Adams, John McGreevy, Eva Silverstein
+Comments: 31 pages, harvmac big; v2: we report a problem with BRST anomaly
+  explained by J. Polchinski; resolution left to work in progress. refs added
+Report-no: SU-ITP-02/36, SLAC-PUB-9504, PUTP-2048
+\\
+  We propose that perturbative quantum field theory and string theory can be
+consistently modified in the infrared to eliminate, in a radiatively stable
+manner, tadpole instabilities that arise after supersymmetry breaking. This is
+achieved by deforming the propagators of classically massless scalar fields and
+the graviton so as to cancel the contribution of their zero modes. In string
+theory, this modification of propagators is accomplished by perturbatively
+deforming the world-sheet action with bi-local operators similar to those that
+arise in double-trace deformations of AdS/CFT. This results in a perturbatively
+finite and unitary S-matrix (in the case of string theory, this claim depends
+on standard assumptions about unitarity in covariant string diagrammatics). The
+S-matrix is parameterized by arbitrary scalar VEVs, which exacerbates the
+vacuum degeneracy problem. However, for generic values of these parameters,
+quantum effects produce masses for the nonzero modes of the scalars, lifting
+the fluctuating components of the moduli. Warning: in the case of string
+theory, the simple prescription discussed in this paper fails to decouple BRST
+trivial modes from the physical S-matrix. A procedure aimed at correcting this
+is under investigation.
+\\

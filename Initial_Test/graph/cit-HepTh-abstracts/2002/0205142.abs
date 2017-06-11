@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0205142
+From: "Roman A. Konoplya" <konoplya@ff.dsu.dp.ua>
+Date: Tue, 14 May 2002 20:21:15 GMT   (15kb)
+Date (revised v2): Thu, 30 May 2002 16:28:44 GMT   (15kb)
+
+Title: On quasinormal modes of small Schwarzschild-Anti-de-Sitter black hole
+Author: R.A.Konoplya
+Comments: 6 pages, LaTeX, 5 figures
+Journal-ref: Phys.Rev. D66 (2002) 044009
+\\
+  We compute the quasinormal modes associated with decay of the massless scalar
+filed around a small Schwarzschild-Anti-de-Sitter black hole. The computations
+shows that when the horizon radius is much less than the anti-de-Sitter radius,
+the imaginary part of the frequency goes to zero as $r_+^{d-2}$ while the real
+part of $\omega$ decreases to its minimum and then goes to $d-1$. Thus the
+quasinormal modes approach the usual AdS modes in the limit $r_+ -> 0$. This
+agrees with suggestions of Horowitz et al (Phys.Rev. D62 024027 (2000)).
+\\

@@ -1,0 +1,40 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0012145
+From: konechny@thsrv.lbl.gov
+Date: Sat, 16 Dec 2000 01:06:19 GMT   (73kb)
+Date (revised v2): Wed, 10 Jan 2001 23:30:24 GMT   (74kb)
+Date (revised v3): Sun, 29 Jul 2001 07:58:23 GMT   (76kb)
+
+Title: Introduction to M(atrix) theory and noncommutative geometry
+Authors: A. Konechny, A. Schwarz
+Comments: v. 3: section 8.2 expanded, typos corrected, two references added.
+  The second part of this review is now available as a preprint hep-th/0107251.
+  Both parts will be published together supplemented by the English translation
+  of A. Connes' 1980 seminal paper "C*algebras and differential geometry",
+  Compt. Rend. Acad. Sci. (Ser.I Math.) A290 (1980) 599-604. This translation
+  is also available as hep-th/0101093
+Report-no: LBNL-47472, UCB-PTH-01/07
+Journal-ref: Phys.Rept. 360 (2002) 353-465
+\\
+  Noncommutative geometry is based on an idea that an associative algebra can
+be regarded as "an algebra of functions on a noncommutative space". The major
+contribution to noncommutative geometry was made by A. Connes, who, in
+particular, analyzed Yang-Mills theories on noncommutative spaces, using
+important notions that were introduced in his papers (connection, Chern
+character, etc). It was found recently that Yang-Mills theories on
+noncommutative spaces appear naturally in string/M-theory; the notions and
+results of noncommutative geometry were applied very successfully to the
+problems of physics.
+  In this paper we give a mostly self-contained review of some aspects of
+M(atrix) theory, of Connes' noncommutative geometry and of applications of
+noncommutative geometry to M(atrix) theory. The topics include introduction to
+BFSS and IKKT matrix models, compactifications on noncommutative tori, a review
+of basic notions of noncommutative geometry with a detailed discussion of
+noncommutative tori, Morita equivalence and $SO(d,d|{\mathbb Z})$-duality, an
+elementary discussion of instantons and noncommutative orbifolds. The review is
+primarily intended for physicists who would like to learn some basic techniques
+of noncommutative geometry and how they can be applied in string theory and to
+mathematicians who would like to learn about some new problems arising in
+theoretical physics.
+\\

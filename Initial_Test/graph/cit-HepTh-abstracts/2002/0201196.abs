@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0201196
+From: Tomomi Ishikawa <tomomi@theo.phys.sci.hiroshima-u.ac.jp>
+Date: Thu, 24 Jan 2002 20:58:35 GMT   (55kb)
+Date (revised v2): Fri, 1 Feb 2002 10:42:17 GMT   (43kb)
+Date (revised v3): Wed, 15 May 2002 10:19:47 GMT   (44kb)
+Date (revised v4): Sun, 2 Jun 2002 13:43:07 GMT   (44kb)
+
+Title: Instanton Number Calculus on Noncommutative R^4
+Authors: Tomomi Ishikawa, Shin-Ichiro Kuroki and Akifumi Sako
+Comments: 29 pages, 7 figures, some statements in Sec.4.3 corrected
+Report-no: HUPD-0117
+Subj-class: High Energy Physics - Theory; Mathematical Physics; Algebraic
+  Geometry
+Journal-ref: JHEP 0208 (2002) 028
+\\
+  In noncommutative spaces, it is unknown whether the Pontrjagin class gives
+integer, as well as, the relation between the instanton number and Pontrjagin
+class is not clear. Here we define ``Instanton number'' by the size of
+$B_{\alpha}$ in the ADHM construction. We show the analytical derivation of the
+noncommuatative U(1) instanton number as an integral of Pontrjagin class
+(instanton charge) with the Fock space representation. Our approach is for the
+arbitrary converge noncommutative U(1) instanton solution, and is based on the
+anti-self-dual (ASD) equation itself. We give the Stokes' theorem for the
+number operator representation. The Stokes' theorem on the noncommutative space
+shows that instanton charge is given by some boundary sum. Using the ASD
+conditions, we conclude that the instanton charge is equivalent to the
+instanton number.
+\\

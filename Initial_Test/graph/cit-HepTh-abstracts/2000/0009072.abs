@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0009072
+From: Youko Onjo <onjo@het.ph.tsukuba.ac.jp>
+Date: Mon, 11 Sep 2000 16:26:41 GMT   (37kb)
+Date (revised v2): Mon, 9 Oct 2000 22:11:04 GMT   (37kb)
+
+Title: Closed Sub-Monodromy Problems, Local Mirror Symmetry and Branes on
+  Orbifolds
+Authors: Kenji Mohri, Yoko Onjo and Sung-Kil Yang (Univ. of Tsukuba)
+Comments: 50 pages, 1 figure, v2
+Report-no: UTHEP-432
+Journal-ref: Rev.Math.Phys. 13 (2001) 675-715
+\\
+  We study D-branes wrapping an exceptional four-cycle P(1,a,b) in a blown-up
+C^3/Z_m non-compact Calabi-Yau threefold with (m;a,b)=(3;1,1), (4;1,2) and
+(6;2,3). In applying the method of local mirror symmetry we find that the
+Picard-Fuchs equations for the local mirror periods in the Z_{3,4,6} orbifolds
+take the same form as the ones in the local E_{6,7,8} del Pezzo models,
+respectively. It is observed, however, that the orbifold models and the del
+Pezzo models possess different physical properties because the background NS
+B-field is turned on in the case of Z_{3,4,6} orbifolds. This is shown by
+analyzing the periods and their monodromies in full detail with the help of
+Meijer G-functions. We use the results to discuss D-brane configurations on
+P(1,a,b) as well as on del Pezzo surfaces. We also discuss the number theoretic
+aspect of local mirror symmetry and observe that the exponent which governs the
+exponential growth of the Gromov-Witten invariants is determined by the special
+value of the Dirichlet L-function.
+\\

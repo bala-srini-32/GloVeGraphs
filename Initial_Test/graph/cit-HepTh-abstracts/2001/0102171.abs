@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0102171
+From: "Prof.S.D.Joglekar" <sdj@iitk.ac.in>
+Date: Sun, 25 Feb 2001 10:29:24 GMT   (24kb)
+Date (revised v2): Wed, 28 Feb 2001 12:07:24 GMT   (25kb)
+
+Title: Nonlocal Regularization and Spontaneously Broken Abelian Gauge Theories
+  for an Arbitrary Gauge Parameter
+Authors: A. Basu (Univ. of Chicago) and S. D. Joglekar (I.I.T.Kanpur INDIA)
+Comments: 25 pages Latex,1 postscript figure; minor clarification added in
+  introduction, minor revisions, a reference corrected
+Report-no: IITK/Phy/2001/26
+Journal-ref: Eur.Phys.J.direct C3 (2001) 4
+\\
+  We study the non-local regularization for the case of a spontaneously broken
+abelian gauge theory in the R_xi gauge with an arbitrary gauge parameter xi. We
+consider a simple abelian-Higgs model with chiral couplings as an example. We
+show that if we apply the nonlocal regularization procedure [to construct a
+nonlocal theory with finite mass parameter ] to the spontaneously broken R_xi
+gauge Lagrangian, using the quadratic forms as appearing in this Lagrangian, we
+find that a physical observable in this model, an analogue of the muon
+anomalous magnetic moment, evaluated to order O[g^{2}] does indeed show
+xi-dependence.We then apply the modified form of nonlocal regularization that
+was recently advanced and studied for the unbroken non-abelian gauge theories
+and discuss the resulting WT identities and xi-independence of the S-matrix
+elements.
+\\

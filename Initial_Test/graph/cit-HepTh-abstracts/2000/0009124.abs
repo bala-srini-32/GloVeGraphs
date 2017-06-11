@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0009124
+From: Dirk Prange <prange@x4u2.desy.de>
+Date: Fri, 15 Sep 2000 13:41:06 GMT   (72kb)
+
+Title: Energy Momentum Tensor and Operator Product Expansion in Local Causal
+  Perturbation Theory
+Authors: Dirk Prange
+Comments: 94 pages, doctoral thesis
+\\
+  We derive new examples for algebraic relations of interacting fields in local
+perturbative quantum field theory. The fundamental building blocks in this
+approach are time ordered products of free (composed) fields. We give explicit
+formulas for the construction of Poincare covariant ones, which were already
+known to exist through cohomological arguments.
+  For a large class of theories the canonical energy momentum tensor is shown
+to be conserved. Classical theories without dimensionful couplings admit an
+improved tensor that is additionally traceless. On the example of phi^4-theory
+we discuss the improved tensor in the quantum theory. Its trace receives an
+anomalous contribution due to its conservation.
+  Moreover we define an interacting bilocal normal product for scalar theories.
+This leads to an operator product expansion of two time ordered fields.
+\\

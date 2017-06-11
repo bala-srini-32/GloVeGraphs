@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9909216
+From: Gerard Watts <gmtw@mth.kcl.ac.uk>
+Date: Wed, 29 Sep 1999 22:00:21 GMT   (212kb)
+
+Title: g-function flow in perturbed boundary conformal field theories
+Authors: Patrick Dorey, Ingo Runkel, Roberto Tateo and Gerard Watts
+Comments: LaTeX2e, 36 pages, 19 figures
+Report-no: DTP-99-67, KCL-MTH-99-39, ITFA-99-26
+Journal-ref: Nucl.Phys. B578 (2000) 85-122
+\\
+  The g-function was introduced by Affleck and Ludwig as a measure of the
+ground state degeneracy of a conformal boundary condition. We consider this
+function for perturbations of the conformal Yang-Lee model by bulk and boundary
+fields using conformal perturbation theory, the truncated conformal space
+approach and the thermodynamic Bethe Ansatz (TBA). We find that the TBA
+equations derived by LeClair et al describe the massless boundary flows, up to
+an overall constant, but are incorrect when one considers a simultaneous bulk
+perturbation; however the TBA equations do correctly give the `non-universal'
+linear term in the massive case, and the ratio of g-functions for different
+boundary conditions is also correctly produced. This ratio is related to the
+Y-system of the Yang-Lee model and by comparing the perturbative expansions of
+the Y-system and of the g-functions we obtain the exact relation between the UV
+and IR parameters of the massless perturbed boundary model.
+\\

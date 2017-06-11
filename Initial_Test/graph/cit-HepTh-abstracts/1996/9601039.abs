@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9601039
+From: schaden@acf2.NYU.EDU (schaden)
+Date: Tue, 9 Jan 96 21:46:44 -0500   (36kb)
+Date (revised): Sun, 14 Jul 96 18:08:18 -0400
+
+Title: Gauge Group TQFT and Improved Perturbative Yang-Mills Theory
+Authors: Laurent Baulieu (LPTHE), Martin Schaden (New York University)
+Comments: 28 pages, uuencoded and compressed tar-file, LATEX+4 PS-figures, uses
+  psfig.sty. New appendix and some clarifying modifications, references added
+Report-no: NYU-TH-96/01/05
+Journal-ref: Int.J.Mod.Phys. A13 (1998) 985-1012
+\\
+  We reinterpret the Faddeev-Popov gauge-fixing procedure of Yang-Mills
+theories as the definition of a topological quantum field theory for gauge
+group elements depending on a background connection. This has the advantage of
+relating topological gauge-fixing ambiguities to the global breaking of a
+supersymmetry. The global zero modes of the Faddeev-Popov ghosts are handled in
+the context of an equivariant cohomology without breaking translational
+invariance. The gauge-fixing involves constant fields which play the role of
+moduli and modify the behavior of Green functions at subasymptotic scales. At
+the one loop level physical implications from these power corrections are gauge
+invariant.
+\\

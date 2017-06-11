@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0010052
+From: Giuseppe Policastro <gp27@scires.nyu.edu>
+Date: Sat, 7 Oct 2000 23:24:46 GMT   (20kb)
+Date (revised v2): Tue, 14 Nov 2000 23:15:15 GMT   (20kb)
+
+Title: Notes on the Quantization of the Complex Linear Superfield
+Authors: P. A. Grassi, G. Policastro and M. Porrati
+Comments: 22 pages. A reference added
+Report-no: NYU-TH/00/09/11, SNS-PH/00-15
+Journal-ref: Nucl.Phys. B597 (2001) 615-632
+\\
+  The quantization of the complex linear superfield requires an infinite tower
+of ghosts. Using the Batalin-Vilkovisky technique, Grisaru, Van Proeyen, and
+Zanon have been able to define a correct procedure to construct a gauge-fixed
+action. We generalize their technique by introducing the Lagrange multipliers
+into the non-minimal sector and we study the characteristic BRST cohomology. We
+show how the physical subspace is singled out. Finally, we quantize the model
+in the presence of a background and of a quantum gauge superfield.
+\\

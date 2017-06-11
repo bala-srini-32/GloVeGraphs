@@ -1,0 +1,17 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0109178
+From: Li Yu Qi <qylee@itp.ac.cn>
+Date: Sun, 23 Sep 2001 08:48:57 GMT   (10kb)
+
+Title: Total Variation and Variational Symplectic-Energy-Momentum integrators
+Authors: Jing-Bo Chen, Han-Ying Guo and Ke Wu
+Comments: 10 pages, 0 figure
+\\
+  A discrete total variation calculus with variable time steps is presented in
+this letter. Using this discrete variation calculus, we generalize Lee's
+discrete mechanics and derive variational symplectic-energy-momentum
+integrators by Kane, Marsden and Ortiz. The relationship among discrete total
+variation, Lee's discrete mechanics and Kane-Marsden-Ortiz's integrators is
+explored.
+\\

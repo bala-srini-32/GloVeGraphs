@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0105126
+From: Harold Steinacker <harold.steinacker@physik.uni-muenchen.de>
+Date: Mon, 14 May 2001 22:04:11 GMT   (33kb)
+
+Title: Quantum Field Theory on the q-deformed Fuzzy Sphere
+Authors: H. Steinacker
+Comments: 8 pages, lecture given at the XXXVII Karpacz Winter School "New
+  Developments in Fundamental Interactions Theories" (February 6-15, 2000,
+  Karpacz, Poland). To be published in Proceedings
+\\
+  We discuss the second quantization of scalar field theory on the q-deformed
+fuzzy sphere S^2_{q,N} for q \in \R, using a path-integral approach. We find
+quantum field theories which are manifestly covariant under U_q(su(2)), have a
+smooth limit q -> 1, and satisfy positivity and twisted bosonic symmetry
+properties. Using a Drinfeld twist, they are equivalent to ordinary but
+slightly "nonlocal" QFT's on the undeformed fuzzy sphere, which are covariant
+under SU(2).
+\\

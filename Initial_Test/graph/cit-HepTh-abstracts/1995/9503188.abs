@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9503188
+From: ski@phyast.nhn.uoknor.edu (R. Kantowski)
+Date: Mon, 27 Mar 1995 13:39:54 -0600   (13kb)
+Date (revised): Tue, 18 Jul 1995 12:22:31 -0500
+
+Title: Zeta-Functions for Non-Minimal Operators
+Authors: H. T. Cho and R. Kantowski
+Comments: 26 pages, additional references
+Report-no: OKHEP-95-02
+Journal-ref: Phys.Rev. D52 (1995) 4588-4599
+\\
+  We evaluate zeta-functions $\zeta(s)$ at $s=0$ for invariant non-minimal
+2nd-order vector and tensor operators defined on maximally symmetric even
+dimensional spaces. We decompose the operators into their irreducible parts and
+obtain their corresponding eigenvalues. Using these eigenvalues, we are able to
+explicitly calculate $\zeta(0)$ for the cases of Euclidean spaces and
+$N$-spheres. In the $N$-sphere case, we make use of the Euler-Maclaurin formula
+to develop asymptotic expansions for the required sums. The resulting
+$\zeta(0)$ values for dimensions 2 to 10 are given in the Appendix.
+\\

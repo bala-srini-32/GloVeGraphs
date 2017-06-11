@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0005246
+From: "Hong Lu" <honglu@nscp18.physics.upenn.edu>
+Date: Thu, 25 May 2000 20:00:22 GMT   (19kb)
+Date (revised v2): Mon, 12 Jun 2000 15:35:29 GMT   (19kb)
+
+Title: AdS in Warped Spacetimes
+Authors: M. Cvetic, H. Lu, C.N. Pope and J.F. Vazquez-Poritz
+Comments: Latex file, 26 pages, reference added
+Journal-ref: Phys.Rev. D62 (2000) 122003
+\\
+  We obtain a large class of AdS spacetimes warped with certain internal spaces
+in eleven-dimensional and type IIA/IIB supergravities. The warp factors depend
+only on the internal coordinates. These solutions arise as the near-horizon
+geometries of more general semi-localised multi-intersections of $p$-branes. We
+achieve this by noting that any sphere (or AdS spacetime) of dimension greater
+than 3 can be viewed as a foliation involving S^3 (or AdS_3). Then the S^3 (or
+AdS_3) can be replaced by a three-dimensional lens space (or a BTZ black hole),
+which arises naturally from the introduction of a NUT (or a pp-wave) to the
+M-branes or the D3-brane. We then obtain multi-intersections by performing a
+Kaluza-Klein reduction or Hopf T-duality transformation on the fibre coordinate
+of the lens space (or the BTZ black hole). These geometries provide further
+possible examples of the AdS/CFT correspondence and of consistent embeddings of
+lower-dimensional gauged supergravities in D=11 or D=10.
+\\

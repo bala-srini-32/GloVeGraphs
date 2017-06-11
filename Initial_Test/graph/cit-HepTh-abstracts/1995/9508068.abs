@@ -1,0 +1,32 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9508068
+From: tseytlin@surya11.cern.ch (Arkady Tseytlin)
+Date: Tue, 15 Aug 1995 18:36:45 --100   (31kb)
+Date (revised): Wed, 23 Aug 1995 18:41:50 --100
+Date (revised): Fri, 12 Jan 96 17:15:07 +0100
+
+Title: Magnetic flux tube models in superstring theory
+Authors: J.G. Russo and A.A. Tseytlin
+Comments: 28 pages, harvmac. Minor changes, final version to appear in NPB
+Report-no: CERN-TH/95-215, Imperial/TP/94-95/57
+Journal-ref: Nucl.Phys. B461 (1996) 131-154
+\\
+  Superstring models describing curved 4-dimensional magnetic flux tube
+backgrounds are exactly solvable in terms of free fields. We first consider the
+simplest model of this type (corresponding to `Kaluza-Klein' Melvin
+background). Its 2d action has a flat but topologically non-trivial
+10-dimensional target space (there is a mixing of angular coordinate of the
+2-plane with an internal compact coordinate). We demonstrate that this theory
+has broken supersymmetry but is perturbatively stable if the radius R of the
+internal coordinate is larger than R_0=\sqrt{2\a'}. In the Green-Schwarz
+formulation the supersymmetry breaking is a consequence of the presence of a
+flat but non-trivial connection in the fermionic terms in the action. For R <
+R_0 and the magnetic field strength parameter q > R/2\a' there appear
+instabilities corresponding to tachyonic winding states. The torus partition
+function Z(q,R) is finite for R > R_0 (and vanishes for qR=2n, n=integer). At
+the special points qR=2n (2n+1) the model is equivalent to the free superstring
+theory compactified on a circle with periodic (antiperiodic) boundary condition
+for space-time fermions. Analogous results are obtained for a more general
+class of static magnetic flux tube geometries including the a=1 Melvin model.
+\\

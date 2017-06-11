@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9812140
+From: Bernard Knaepen <bknaepen@ulb.ac.be>
+Date: Wed, 16 Dec 1998 16:39:58 GMT   (31kb)
+Date (revised v2): Wed, 8 Dec 1999 14:20:47 GMT   (32kb)
+
+Title: The Wess-Zumino Consistency Condition For p-Form Gauge Theories
+Authors: Marc Henneaux and Bernard Knaepen
+Comments: latex 2.09, 46 pages, no figures, requires multibox style, available
+  at ftp://ftp.tex.ac.uk/tex-archive/macros/latex209/contrib/misc/multibox.sty
+  -- misquotes in references corrected
+Report-no: ULB-TH-98/17, ESI 644 (1998)
+Journal-ref: Nucl.Phys. B548 (1999) 491-526
+\\
+  The general solution of the antifield-independent Wess-Zumino consistency
+condition is worked out for models involving exterior form gauge fields of
+arbitrary degree. We consider both the free theory and theories with
+Chapline-Manton couplings. Our approach relies on solving the full set of
+descent equations by starting from the last element down ("bottom").
+\\

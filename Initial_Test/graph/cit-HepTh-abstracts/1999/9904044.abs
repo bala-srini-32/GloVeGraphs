@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9904044
+From: Dirk Kreimer <kreimer@ihes.fr>
+Date: Wed, 7 Apr 1999 14:59:56 GMT   (29kb)
+Date (revised v2): Tue, 13 Apr 1999 13:08:09 GMT   (29kb)
+
+Title: Lessons from Quantum Field Theory - Hopf Algebras and Spacetime
+  Geometries
+Authors: A. Connes, D. Kreimer
+Comments: Survey paper, 12 pages, epsf for figures, dedicated to Mosh\'e Flato,
+  minor corrections, to appear in Lett.Math.Phys.48
+Report-no: IHES/M/99/22
+Subj-class: High Energy Physics - Theory; Quantum Algebra; Mathematical Physics
+Journal-ref: Lett.Math.Phys. 48 (1999) 85-96
+\\
+  We discuss the prominence of Hopf algebras in recent progress in Quantum
+Field Theory. In particular, we will consider the Hopf algebra of
+renormalization, whose antipode turned out to be the key to a conceptual
+understanding of the subtraction procedure. We shall then describe several
+occurences of this or closely related Hopf algebras in other mathematical
+domains, such as foliations, Runge Kutta methods, iterated integrals and
+multiple zeta values. We emphasize the unifying role which the Butcher group,
+discovered in the study of numerical integration of ordinary differential
+equations, plays in QFT.
+\\

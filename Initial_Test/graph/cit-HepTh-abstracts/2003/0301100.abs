@@ -1,0 +1,35 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0301100
+From: Gherardo Piacitelli <piacitel@mat.uniroma1.it>
+Date: Wed, 15 Jan 2003 15:45:21 GMT   (22kb)
+
+Title: Ultraviolet Finite Quantum Field Theory on Quantum Spacetime
+Authors: D. Bahns (1), S. Doplicher (2), K. Fredenhagen (1) and G. Piacitelli
+  (2) ((1) II. Institut f\"ur Theoretische Physik, Universit\"at Hamburg, (2)
+  Dipartimento di Matematica, Universit\`a di Roma "La Sapienza")
+Comments: LaTeX (using amsmath, amssymb), 22 pages, 1 figure. Dedicated to
+  Rudolf Haag on the occasion of his 80th birthday
+\\
+  We discuss a formulation of quantum field theory on quantum space time where
+the perturbation expansion of the S-matrix is term by term ultraviolet finite.
+  The characteristic feature of our approach is a quantum version of the Wick
+product at coinciding points: the differences of coordinates q_j - q_k are not
+set equal to zero, which would violate the commutation relation between their
+components. We show that the optimal degree of approximate coincidence can be
+defined by the evaluation of a conditional expectation which replaces each
+function of q_j - q_k by its expectation value in optimally localized states,
+while leaving the mean coordinates (q_1 + ... + q_n)/n invariant.
+  The resulting procedure is to a large extent unique, and is invariant under
+translations and rotations, but violates Lorentz invariance. Indeed, optimal
+localization refers to a specific Lorentz frame, where the electric and
+magnetic parts of the commutator of the coordinates have to coincide*).
+  Employing an adiabatic switching, we show that the S-matrix is term by term
+finite. The matrix elements of the transfer matrix are determined, at each
+order in the perturbative expansion, by kernels with Gaussian decay in the
+Planck scale. The adiabatic limit and the large scale limit of this theory will
+be studied elsewhere.
+  --
+  *) S. Doplicher, K. Fredenhagen, and J.E.Roberts, Commun. Math. Phys. 172,
+187 (1995)
+\\

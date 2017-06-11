@@ -1,0 +1,36 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0303108
+From: Mary Ann Rotondo <maryann@mail.het.brown.edu>
+Date: Wed, 12 Mar 2003 15:18:15 GMT   (15kb)
+
+Title: Towards a QED-Based Vacuum Energy
+Authors: H. M. Fried
+Comments: 16pp
+Report-no: Brown-HET-1348
+\\
+  A QED-based mechanism, breaking translational invariance of the vacuum at
+sufficiently small distance scales, is suggested as an explanation for the
+vacuum energy pressure that accelerates the universe. Very-small-scale virtual
+vacuum currents are assumed to generate small-scale electromagnetic fields
+corresponding to the appearance of a 4-potential $A_{\mu}^{ext} (x)$, which is
+itself equal to the vev of the operator $ A_{\mu}(x)$ in the presence of that
+$A_{\mu}^{ext}(x)$. The latter condition generates a bootstrap-like equation
+for $A_{\mu}^{ext}(x)$ which has an approximate, tachyonic-like solution
+corresponding to propagation outside the light cone, and damping inside; this
+solution is given in terms of a mass parameter M that turns out to be on the
+order of the Planck mass if only the simplest, electron vacuum-bubble is
+included; if the muon and tau bubbles are included, M decreases to $\sim 10^6 -
+10^7$ GeV. A multiplicative 4-vector $v_{\mu}$, whose magnitude is determined
+by a comparison with the average mass density needed to produce the observed
+acceleration is introduced, and characterizes the distance d over which the
+fields so produced may be expected to be coherent; the present analysis
+suggests that d can lie anywhere in the range from $10^{-5} cm$ (corresponding
+to a "spontaneous vacuum phase change") to $10^{-13}cm$ (representing a
+"polarization of the QED vacuum" by quark-antiquark pairs of the QCD vacuum).
+Near the light-cone, such electric fields become large, introducing the
+possibility of copious charged-particle pair production, whose
+back-reaction-fields tend to diminish the vacuum electric field. The
+possibility of an experimental test of the resulting plasma at large momentum
+transfers is discussed.
+\\

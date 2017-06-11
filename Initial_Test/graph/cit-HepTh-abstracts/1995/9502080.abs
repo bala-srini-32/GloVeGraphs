@@ -1,0 +1,33 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9502080
+From: hkl@guinness.ias.edu (Hoi-Kwong Lo)
+Date: Tue, 14 Feb 95 01:28:15 EST   (46kb)
+Date (revised): Thu, 28 Sep 1995 14:11:17 -0400
+
+Title: Aharonov-Bohm Order Parameters for Non-Abelian Gauge Theories
+Author: Hoi-Kwong Lo (Institute for Advanced Study)
+Comments: How quantum fluctuations destroy the coherence between various
+  strings are discussed explicitly. That linked Wilson loops are useful order
+  parameters for a Maxwell- Chern-Simons-Higgs theory is noted. The generality
+  of our results is emphasized. Problems with figures have also been fixed. 43
+  pages, 13 figures, Revtex, accepted for publication in PRD
+Report-no: IASSNS-HEP-95/8
+Journal-ref: Phys.Rev. D52 (1995) 7247-7264
+\\
+  The Aharonov-Bohm effect has been invoked to probe the phase structure of a
+gauge theory. Yet in the case of non-Abelian gauge theories, it proves
+difficult to formulate a general procedure that unambiguously specifies the
+realization of the gauge symmetry, e.g. the unbroken subgroup. In this paper,
+we propose a set of order parameters that will do the job. We articulate the
+fact that any useful Aharonov-Bohm experiment necessarily proceeds in two
+stages: calibration and measurement. World sheets of virtual cosmic string
+loops can wrap around test charges, thus changing their states relative to
+other charges in the universe. Consequently, repeated flux measurements with
+test charges will not necessarily agree. This was the main stumbling block to
+previous attempts to construct order parameters for non-Abelian gauge theories.
+In those works, the particles that one uses for calibration and subsequent
+measurement are stored in {\em separate} ``boxes''. By storing all test
+particles in the {\em same} ``box'', we show how quantum fluctuations can be
+overcome. The importance of gauge fixing is also emphasized.
+\\

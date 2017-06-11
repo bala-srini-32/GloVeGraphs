@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0105239
+From: Robert Coquereaux <robert.coquereaux@cpt.univ-mrs.fr>
+Date: Wed, 23 May 2001 15:52:43 GMT   (23kb)
+Date (revised v2): Mon, 4 Jun 2001 21:49:06 GMT   (25kb)
+
+Title: Classical and quantum polyhedra: A fusion graph algebra point of view
+Authors: Robert Coquereaux (CPT, CNRS, Marseille, France)
+Comments: 24 pages, LaTeX. Lectures given at Karpacz winter school (February
+  2001). Minor misprints corrected. One appendix added
+Report-no: CPT-2001/P.4208
+Subj-class: High Energy Physics - Theory; Mathematical Physics; Quantum Algebra
+Journal-ref: AIP Conf.Proc. 589 (2001) 181-203
+\\
+  Representation theory, for the classical binary polyhedral groups is encoded
+by the affine Dynkin diagrams E6^{(1)}, E7^{(1)} and E8^{(1)} (McKay
+correspondance). The quantum versions of these classical geometries are
+associated with representation theories described by the usual Dynkin diagrams
+E6, E7 and E8. The purpose of these notes is to compare several chosen aspects
+of the classical and quantum geometries by using the study of spaces of paths
+and spaces of essential paths (Ocneanu theory) on these diagrams. To keep the
+size of this contribution small enough, most of our discussion will be limited
+to the cases of diagrams E6 and E6^{(1)}, i.e. to the quantum and classical
+tetrahedra. We shall in particular interpret the A11 labelling of the vertices
+of E6 diagram as a quantum analogue of the usual decomposition of spaces of
+sections for vector bundles above homogeneous spaces. We also show how to
+recover Klein invariants of polyhedra by paths algebra techniques and discuss
+their quantum generalizations.
+\\

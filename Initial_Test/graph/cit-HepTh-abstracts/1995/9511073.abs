@@ -1,0 +1,32 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9511073
+From: Thomas Roos <roost@mail.lns.cornell.edu>
+Date: Fri, 10 Nov 1995 17:47:01 -0500   (39kb)
+Date (revised): Wed, 26 Jun 1996 20:06:43 -0400
+Date (revised): Sun, 03 Aug 1997 15:26:23 -0400
+
+Title: Wilson Renormalization Group Study of Inverse Symmetry Breaking
+Author: Thomas G. Roos
+Comments: 40 pages LaTeX, 13 Postscript figures. Uses epsf.sty, amssym.def,
+  amssym.tex. No changes. Replaced to correct a problem with the figures
+Report-no: CLNS 95/1373
+Journal-ref: Phys.Rev. D54 (1996) 2944
+\\
+  For a large class of field theories there exist portions of parameter space
+for which the loop expansion predicts increased symmetry breaking at high
+temperature. Even though this behavior would clearly have far reaching
+implications for cosmology such theories have not been fully investigated in
+the literature. This is at least partially due to the counter intuitive nature
+of the result, which has led to speculations that it is merely an artifact of
+perturbation theory. To address this issue we study the simplest model
+displaying high temperature symmetry breaking using a Wilson renormalization
+group approach. We find that although the critical temperature is not reliably
+estimated by the loop expansion the total volume of parameter space which leads
+to the inverse phase structure is not significantly different from the
+perturbative prediction. We also investigate the temperature dependence of the
+coupling constants and find that they run approximately according to their
+one-loop $\beta$-functions at high temperature. Thus, in particular, the
+quartic coupling of $phi^4$ theory is shown to increase with temperature, in
+contrast to the behavior obtained in some previous studies.
+\\

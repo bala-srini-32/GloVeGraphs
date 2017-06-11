@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0009107
+From: Kazuo Hosomichi <hosomiti@yukawa.kyoto-u.ac.jp>
+Date: Thu, 14 Sep 2000 07:11:01 GMT   (21kb)
+Date (revised v2): Wed, 18 Oct 2000 06:17:25 GMT   (21kb)
+Date (revised v3): Fri, 19 Jan 2001 10:33:44 GMT   (19kb)
+
+Title: Free Field Appoach to String Theory on AdS_3
+Authors: Kazuo Hosomichi (YITP), Kazumi Okuyama (KEK) and Yuji Satoh (Tsukuba)
+Comments: LaTeX, 16 pages, version to appear in Nucl.Phys.B
+Report-no: KEK-TH-711, UTHEP-433, YITP-00-51
+Journal-ref: Nucl.Phys. B598 (2001) 451-466
+\\
+  We discuss the correlation functions of the SL(2,C)/SU(2) WZW model, or the
+CFT on the Euclidean AdS_3. We argue that their calculation is reduced to that
+of a free theory by taking into account the renormalization and integrating out
+a certain zero-mode, which is an analog of the zero-mode integration in
+Liouville theory. Based on the resultant free field picture, we give a simple
+prescription for calculating the correlation functions. The known exact two-
+and three-point functions of generic primary fields are correctly obtained,
+including numerical factors. We also obtain some four-point functions of
+primaries by solving the Knizhnik-Zamolodchikov equation, and verify that our
+prescription indeed gives them.
+\\

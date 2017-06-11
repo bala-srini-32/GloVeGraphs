@@ -1,0 +1,32 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0006237
+From: Manoelito M de Souza <manoelit@cce.ufes.br>
+Date: Thu, 29 Jun 2000 20:32:17 GMT   (25kb)
+Date (revised v2): Wed, 22 Nov 2000 19:07:29 GMT   (25kb)
+Date (revised v3): Fri, 23 Mar 2001 22:39:27 GMT   (38kb)
+
+Title: Conformally symmetric massive discrete fields
+Authors: Manoelito M de Souza
+Comments: A new reference, a new figure and a new section are added to clarify
+  the meaning of conformal (and chiral) symmetry of massive discrete-fields
+Subj-class: High Energy Physics - Theory; Mathematical Physics
+\\
+  Conformal symmetry is taken as an attribute of theories of massless fields in
+manifolds with specific dimensionalities. This paper shows that this is not an
+absolute truth; it is a consequence of the mathematical representation used for
+the physical interactions. It introduces a new kind of representation where the
+propagation of massive (invariant mass) and massless interactions are unifiedly
+described by a single conformally symmetric Green's function. Sources and
+fields are treated at a same footing, symmetrically, as discrete fields - the
+fields in this new representation - fields defined with support on straight
+lines embedded in a (3+1)-Minkowski manifold. The discrete field turns out to
+be a point in phase space. It is finite everywhere. With a finite number of
+degrees of freedom it does not share the well known problems faced by the
+standard continuous formalism which can be retrieved from the discrete one by
+an integration over a hypersurface. The passage from discrete to continuous
+fields illuminates the physical meaning and origins of their properties and
+problems. The price for having massive discrete field with conformal symmetry
+is of hiding its mass and time-like velocity behind its non-constant
+proper-time.
+\\

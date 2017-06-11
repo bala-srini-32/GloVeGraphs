@@ -1,0 +1,33 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9912208
+From: tpantev@math.upenn.edu (Tony Pantev)
+Date: Tue, 21 Dec 1999 18:25:05 GMT   (58kb)
+Date (revised v2): Fri, 19 May 2000 15:57:36 GMT   (58kb)
+
+Title: Standard Models from Heterotic M-theory
+Authors: Ron Donagi (UPenn), Burt A. Ovrut (UPenn), Tony Pantev (UPenn), Daniel
+  Waldram (Princeton University and CERN)
+Comments: 46 pages, LaTeX2e, 3 figures, referencing and minor typos corrected
+Report-no: CERN-TH/99-047, UPR-853T
+Journal-ref: Adv.Theor.Math.Phys. 5 (2002) 93-137
+\\
+  We present a class of N=1 supersymmetric models of particle physics, derived
+directly from heterotic M-theory, that contain three families of chiral quarks
+and leptons coupled to the gauge group $SU(3)_C\times SU(2)_{L}\times
+U(1)_{Y}$. These models are a fundamental form of ``brane-world'' theories,
+with an observable and hidden sector each confined, after compactification on a
+Calabi-Yau threefold, to a BPS threebrane separated by a five-dimensional bulk
+space with size of the order of the intermediate scale. The requirement of
+three families, coupled to the fundamental conditions of anomaly freedom and
+supersymmetry, constrains these models to contain additional fivebranes wrapped
+around holomorphic curves in the Calabi-Yau threefold. These fivebranes
+``live'' in the bulk space and represent new, non-perturbative aspects of these
+particle physics vacua. We discuss, in detail, the relevant mathematical
+structure of a class of torus-fibered Calabi-Yau threefolds with non-trivial
+first homotopy groups and construct holomorphic vector bundles over such
+threefolds, which, by including Wilson lines, break the gauge symmetry to the
+standard model gauge group. Rules for constructing phenomenological particle
+physics models in this context are presented and we give a number of explicit
+examples.
+\\

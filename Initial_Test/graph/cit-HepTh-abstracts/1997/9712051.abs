@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9712051
+From: "Shinsuke M. Nishigaki" <shinsuke@itp.ucsb.edu>
+Date: Thu, 4 Dec 1997 23:43:57 GMT   (12kb)
+
+Title: Microscopic universality in random matrix models of QCD
+Author: Shinsuke M. Nishigaki
+Comments: 9 pages, LaTeX2e + plenum.sty. To appear in the Proceedings of the
+  NATO Workshop "New Developments in Quantum Field Theory", Zakopane, June 1997
+Report-no: NBI-HE-97-46
+Subj-class: High Energy Physics - Theory; Disordered Systems and Neural
+  Networks
+Journal-ref: "New Developments in Quantum Field Theory" (Plenum Press, New
+  York, 1998), 287-295
+\\
+  I shall present a proof of universality of the microscopic spectral
+correlations in Verbaarschot's random matrix models of QCD, to corroborate the
+beautiful agreement between the predictions from the gaussian model and the
+numerical data. Rather than following closely the original proof, I shall
+disguise it with the conventional approach of Q, P operators and with the
+method employed in an alternative proof by Kanzieper-Freilikher, in a hope that
+borrowing notions from quantum mechanics may add the proof some pedagogical
+flavor. I shall also discuss a problem associated with the multi-criticality.
+\\

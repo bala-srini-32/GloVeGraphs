@@ -1,0 +1,34 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9803263
+From: Andreas Brandhuber <andreasb@post.tau.ac.il>
+Date: Tue, 31 Mar 1998 20:31:18 GMT   (16kb)
+Date (revised v2): Tue, 16 Jun 1998 12:19:41 GMT   (16kb)
+Date (revised v3): Wed, 10 Mar 1999 13:53:03 GMT   (16kb)
+
+Title: Wilson Loops, Confinement, and Phase Transitions in Large N Gauge
+  Theories from Supergravity
+Authors: Andreas Brandhuber, Nissan Itzhaki, Jacob Sonnenschein, Shimon
+  Yankielowicz
+Comments: 19 pages, LaTeX2e, uses JHEP.cls; v2: subsection 3.3 on 't Hooft loop
+  added, references corrected, version to appear in JHEP; v3: numerical
+  coefficients in eqs. (3.12) and (3.20) corrected
+Report-no: TAUP-2483-98
+Journal-ref: JHEP 9806 (1998) 001
+\\
+  We use the recently proposed supergravity approach to large $N$ gauge
+theories to calculate ordinary and spatial Wilson loops of gauge theories in
+various dimensions. In this framework we observe an area law for spatial Wilson
+loops in four and five dimensional supersymmetric Yang-Mills at finite
+temperature. This can be interpreted as the area law of ordinary Wilson loops
+in three and four dimensional non-supersymmetric gauge theories at zero
+temperature which indicates confinement in these theories. Furthermore, we show
+that super Yang Mills theories with 16 supersymmetries at finite temperature do
+not admit phase transitions between the weakly coupled super Yang Mills and
+supergravity regimes. This result is derived by analyzing the entropy and
+specific heat of those systems as well as by computing ordinary Wilson loops at
+finite temperature. The calculation of the entropy was carried out in all
+different regimes and indicates that there is no first order phase transition
+in these systems. For the same theories at zero temperature we also compute the
+dependence of the quark anti-quark potential on the separating distance.
+\\

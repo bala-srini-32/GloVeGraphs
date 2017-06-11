@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9811151
+From: Rui Neves <rneves@ualg.pt>
+Date: Mon, 16 Nov 1998 16:26:16 GMT   (30kb)
+
+Title: Polchinski ERG equation and 2D scalar field theory
+Authors: Yuri Kubyshin, Rui Neves and Robertus Potting
+Comments: 9 pages, latex with 2 figures, uses sprocl.sty. To be published in
+  the Proceedings of the Workshop on the Exact Renormalization Group held in
+  Faro, Portugal, in September 10-12 1998, World Scientific
+Report-no: UALG/TP/98-8
+\\
+  We investigate a $Z_2$-symmetric scalar field theory in two dimensions using
+the Polchinski exact renormalization group equation expanded to second order in
+the derivative expansion. We find preliminary evidence that the Polchinski
+equation is able to describe the non-perturbative infinite set of fixed points
+in the theory space, corresponding to the minimal unitary series of 2D
+conformal field theories. We compute the anomalous scaling dimension $\eta$ and
+the correlation length critical exponent $\nu$ showing that an accurate fit to
+conformal field theory selects particular regulating functions.
+\\

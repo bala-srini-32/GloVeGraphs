@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0205051
+From: Andrei Starinets <starina@anitra.phys.washington.edu>
+Date: Tue, 7 May 2002 19:12:19 GMT   (26kb)
+Date (revised v2): Sun, 29 Sep 2002 03:01:32 GMT   (26kb)
+
+Title: Minkowski-space correlators in AdS/CFT correspondence: recipe and
+  applications
+Authors: D.T.Son and A.O.Starinets
+Comments: 28 pages, v.2: typos corrected, references added
+Report-no: INT-PUB 02-34
+Journal-ref: JHEP 0209 (2002) 042
+\\
+  We formulate a prescription for computing Minkowski-space correlators from
+AdS/CFT correspondence. This prescription is shown to give the correct retarded
+propagators at zero temperature in four dimensions, as well as at finite
+temperature in the two-dimensional conformal field theory dual to the BTZ black
+hole. Using the prescription, we calculate the Chern-Simons diffusion constant
+of the finite-temperature N=4 supersymmetric Yang-Mills theory in the strong
+coupling limit. We explain why the quasinormal frequencies of the
+asymptotically AdS background correspond to the poles of the retarded Green's
+function of the boundary conformal field theory.
+\\

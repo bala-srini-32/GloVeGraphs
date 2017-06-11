@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0204230
+From: Gherardo Piacitelli <piacitel@mat.uniroma1.it>
+Date: Fri, 26 Apr 2002 18:55:14 GMT   (14kb)
+Date (revised v2): Fri, 16 Aug 2002 07:11:13 GMT   (15kb)
+
+Title: Any compact group is a gauge group
+Authors: Sergio Doplicher and Gherardo Piacitelli
+Comments: 13 pages, LaTeX. To appear on Reviews in Mathematical Physics.
+  References added; minor changes in style
+Subj-class: High Energy Physics - Theory; Mathematical Physics; Operator
+  Algebras
+Journal-ref: Rev.Math.Phys. 14 (2002) 873-885
+\\
+  The assignment of local observables in the vacuum sector, fulfilling the
+standard axioms of local quantum theory, is known to determine uniquely a
+compact group G of gauge transformations of the first kind together with a
+central involutive element k of G, and a complete normal algebra of fields
+carrying the localizable charges, on which k defines the Bose/Fermi grading.
+ We show here that any such pair {G,k}, where G is compact metrizable, does
+actually appear. The corresponding model can be chosen to fulfill also the
+split property.
+ This is not a dynamical phenomenon: a given {G,k} arises as the gauge group of
+a model where the local algebras of observables are a suitable subnet of local
+algebras of a possibly infinite product of free field theories.
+\\

@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9911239
+From: klimcik@iml.univ-mrs.fr
+Date: Mon, 29 Nov 1999 23:10:16 GMT   (25kb)
+Date (revised v2): Mon, 13 Dec 1999 16:51:30 GMT   (25kb)
+
+Title: The formulae of Kontsevich and Verlinde from the perspective of the
+  Drinfeld double
+Author: C. Klimcik
+Comments: 36 pages, LaTeX, references added
+Report-no: IML 99-34
+Journal-ref: Commun.Math.Phys. 217 (2001) 203-228
+\\
+  A two dimensional gauge theory is canonically associated to every Drinfeld
+double. For particular doubles, the theory turns out to be e.g. the ordinary
+Yang-Mills theory, the G/G gauged WZNW model or the Poisson $\sigma$-model that
+underlies the Kontsevich quantization formula. We calculate the arbitrary genus
+partition function of the latter. The result is the $q$-deformation of the
+ordinary Yang-Mills partition function in the sense that the series over the
+weights is replaced by the same series over the $q$-weights. For $q$ equal to a
+root of unity the series acquires the affine Weyl symmetry and its truncation
+to the alcove coincides with the Verlinde formula.
+\\

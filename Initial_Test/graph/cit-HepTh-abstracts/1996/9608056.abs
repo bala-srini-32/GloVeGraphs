@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9608056
+From: eli@ecm.ub.es (Emili Elizalde)
+Date: Fri, 9 Aug 1996 14:41:45 +0200   (11kb)
+Date (revised): Mon, 12 Aug 1996 12:54:28 +0200
+
+Title: Complete determination of the singularity structure of zeta functions
+Authors: E. Elizalde
+Comments: LaTeX, 10 pages, a couple of typos corrected
+Report-no: DESY 96-155
+Subj-class: High Energy Physics - Theory; Functional Analysis
+Journal-ref: J.Phys. A30 (1997) 2735-2744
+\\
+  Series of extended Epstein type provide examples of non-trivial zeta
+functions with important physical applications. The regular part of their
+analytic continuation is seen to be a convergent or an asymptotic series. Their
+singularity structure is completely determined in terms of the Wodzicki residue
+in its generalized form, which is proven to yield the residua of all the poles
+of the zeta function, and not just that of the rightmost pole (obtainable from
+the Dixmier trace). The calculation is a very down-to-earth application of
+these powerful functional analytical methods in physics.
+\\

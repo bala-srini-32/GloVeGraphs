@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9910102
+From: Roberto Tateo <tateo@wins.uva.nl>
+Date: Wed, 13 Oct 1999 15:52:03 GMT   (57kb)
+Date (revised v2): Thu, 21 Oct 1999 10:14:45 GMT   (58kb)
+Date (revised v3): Mon, 7 Feb 2000 17:27:02 GMT   (59kb)
+
+Title: Differential equations and integrable models: the SU(3) case
+Authors: Patrick Dorey and Roberto Tateo
+Comments: 25 pages, Latex 2e, 3 figures, uses graphics, cite. v2: Typos
+  corrected, section 6 expanded and an error fixed,references added v3: Notes
+  and references added, to appear in Nucl. Phys. B
+Report-no: DTP-99/69, ITFA 99-27
+Subj-class: High Energy Physics - Theory; Exactly Solvable and Integrable
+  Systems
+Journal-ref: Nucl.Phys. B571 (2000) 583-606; Erratum-ibid. B603 (2001) 582
+\\
+  We exhibit a relationship between the massless $a_2^{(2)}$ integrable quantum
+field theory and a certain third-order ordinary differential equation, thereby
+extending a recent result connecting the massless sine-Gordon model to the
+Schr\"odinger equation. This forms part of a more general correspondence
+involving $A_2$-related Bethe ansatz systems and third-order differential
+equations. A non-linear integral equation for the generalised spectral problem
+is derived, and some numerical checks are performed. Duality properties are
+discussed, and a simple variant of the nonlinear equation is suggested as a
+candidate to describe the finite volume ground state energies of minimal
+conformal field theories perturbed by the operators $\phi_{12}$, $\phi_{21}$
+and $\phi_{15}$. This is checked against previous results obtained using the
+thermodynamic Bethe ansatz.
+\\

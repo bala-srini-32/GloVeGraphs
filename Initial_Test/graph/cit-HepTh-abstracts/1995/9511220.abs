@@ -1,0 +1,32 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9511220
+From: Hiroshi Itoyama <itoyama@funpth.phys.sci.osaka-u.ac.jp>
+Date: Thu, 30 Nov 95 20:48:01 +0900   (52kb)
+Date (revised): Thu, 28 Dec 95 13:43:35 +0900
+
+Title: Macroscopic $n$-Loop Amplitude for Minimal Models Coupled to
+  Two-Dimensional Gravity: Fusion Rules and Interactions
+Authors: M. Anazawa and H. Itoyama
+Comments: 30 pages, Latex, figures: figures have been introduced to represent
+  our results on the resolvents. A better formula for the resolvents has been
+  put and the section on residual interactions has been expanded to a large
+  extent
+Report-no: OU-HET-222
+Journal-ref: Nucl.Phys. B471 (1996) 334-360
+\\
+  We investigate the structure of the macroscopic $n$-loop amplitude obtained
+from the two-matrix model at the unitary minimal critical point $(m+1,m)$. We
+derive a general formula for the $n$-resolvent correlator at the continuum
+planar limit whose inverse Laplace transform provides the amplitude in terms of
+the boundary lengths $\ell_{i}$ and the renormalized cosmological constant $t$.
+The amplitude is found to contain a term consisting of $\left( \frac{\partial}
+{\partial t} \right)^{n-3}$ multiplied by the product of modified Bessel
+functions summed over their degrees which conform to the fusion rules and the
+crossing symmetry. This is found to be supplemented by an increasing number of
+other terms with $n$ which represent residual interactions of loops. We reveal
+the nature of these interactions by explicitly determining them as the
+convolution of modified Bessel functions and their derivatives for the case
+$n=4$ and the case $n=5$. We derive a set of recursion relations which relate
+the terms in the $n$-resolvents to those in the $(n-1)$-resolvents.
+\\

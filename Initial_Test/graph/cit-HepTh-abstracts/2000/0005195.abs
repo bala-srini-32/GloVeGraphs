@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0005195
+From: jfyang <jfyang@fudan.edu.cn>
+Date: Mon, 22 May 2000 03:09:31 GMT   (6kb)
+Date (revised v2): Tue, 30 May 2000 00:12:32 GMT   (6kb)
+Date (revised v3): Sun, 11 Jun 2000 12:13:05 GMT   (7kb)
+Date (revised v4): Fri, 28 Jul 2000 10:42:50 GMT   (7kb)
+Date (revised v5): Thu, 3 Aug 2000 06:13:25 GMT   (7kb)
+Date (revised v6): Mon, 25 Jun 2001 08:13:24 GMT   (10kb)
+
+Title: A differential equation approach for examining the subtraction schemes
+Author: Ji-Feng Yang (Fudan Univ., Shanghai, China)
+Comments: 5 pages, RevTex, revised version, more references added
+\\
+  We propose a natural differential equation with respect to mass(es) to
+analyze the scheme dependence problem. It is shown that the vertex functions
+subtracted at an arbitrary Euclidean momentum (MOM) do not satisfy such
+differential equations, as extra unphysical mass dependence is introduced which
+is shown to lead to the violation of the canonical form of the Slavnov-Taylor
+identities, a notorious fact with MOM schemes. By the way, the traditional
+advantage of MOM schemes in decoupling issue is shown to be lost in the context
+of Callan-Symanzik equations.
+\\

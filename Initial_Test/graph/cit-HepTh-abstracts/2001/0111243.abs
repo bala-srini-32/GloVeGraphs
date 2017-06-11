@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0111243
+From: Henrik Aratyn <aratyn@uic.edu>
+Date: Tue, 27 Nov 2001 15:12:32 GMT   (12kb)
+
+Title: Integrable Structure behind WDVV Equations
+Authors: Henrik Aratyn and Johan van de Leur
+Comments: 14 pgs, contribution to Needs 2001 conference proceedings
+Subj-class: High Energy Physics - Theory; Mathematical Physics; Exactly
+  Solvable and Integrable Systems
+Journal-ref: Theor.Math.Phys. 134 (2003) 14-26; Teor.Mat.Fiz. 134 (2003) 18-31
+\\
+  An integrable structure behind Witten--Dijkgraaf--Verlinde--Verlinde (WDVV)
+equations is identified with reduction of a Riemann-Hilbert problem for a
+homogeneous GL(N, C) loop group. Reduction requires the dressing matrices to be
+fixed points of a loop group automorphism of order two resulting in a
+sub-hierarchy of gl(N,C) hierarchy containing only odd symmetry flows. The
+model possesses Virasoro symmetry and imposing Virasoro constraints ensures
+homogeneity property of the Darboux-Egoroff structure. Dressing matrices of the
+reduced model provide solutions of the WDVV equations.
+\\

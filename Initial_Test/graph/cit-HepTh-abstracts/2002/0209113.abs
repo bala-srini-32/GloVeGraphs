@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0209113
+From: Tom Banks <banks@physics.rutgers.edu>
+Date: Fri, 13 Sep 2002 15:56:40 GMT   (9kb)
+Date (revised v2): Mon, 28 Oct 2002 21:46:15 GMT   (9kb)
+
+Title: de Sitter Vacua, Renormalization and Locality
+Authors: T.Banks, L.Mannelli (Santa Cruz Institute for Particle Physics, UC
+  Santa Cruz)
+Comments: JHEP Latex, 13 pages, v2. references added
+Report-no: SCIPP-02/24, RUNHETC-02-34
+\\
+  We analyze the renormalization properties of quantum field theories in de
+Sitter space and show that only two of the maximally invariant vacuum states of
+free fields lead to consistent perturbation expansions. One is the Euclidean
+vacuum, and the other can be viewed as an analytic continuation of Euclidean
+functional integrals on $RP^d$. The corresponding Lorentzian manifold is the
+future half of global de Sitter space with boundary conditions on fields at the
+origin of time. We argue that the perturbation series in this case has
+divergences at the origin, which render the future evolution of the system
+indeterminate without a better understanding of high energy physics.
+\\

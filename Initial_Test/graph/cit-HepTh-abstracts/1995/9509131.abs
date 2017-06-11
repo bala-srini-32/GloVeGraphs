@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9509131
+From: GRISARU@BINAH.CC.BRANDEIS.EDU
+Date: Sun, 24 Sep 1995 09:28:18 -0500 (EST)   (6kb)
+
+Title: A Gauge-Invariant Regularization of the Weyl Determinant Using Wavelets
+Author: Paul Federbush
+Comments: 11 pages, latex
+\\
+  In line with a previous paper, a gauge-invariant regularization is developed
+for the Weyl determinant of a Euclidean gauged chiral fermion. We restrict
+ourselves to gauge configurations with the $A$ field going to zero at infinity
+in Euclidean space; and thus restrict gauge transformations to those with $U$
+the identity at infinity. For each finite cutoff one gets a strictly
+gauge-invariant expression for the Weyl determinant. Full Euclidean invariance
+is only to be sought in the limit of removing the cutoff. We expect the limit
+to be Euclidean invariant, but this has not yet been proved. One need not
+enforce the no-anomaly condition on the representation of the gauge group! We
+leave to future research relating the present results to conventional physics
+wisdom.
+\\

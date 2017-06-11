@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0206080
+From: Per Kraus <pkraus@physics.ucla.edu>
+Date: Tue, 11 Jun 2002 01:53:33 GMT   (26kb)
+
+Title: Strings in Noncompact Spacetimes: Boundary Terms and Conserved Charges
+Authors: Per Kraus, Anton Ryzhov, and Masaki Shigemori
+Comments: 29 pages, Harvmac
+Report-no: UCLA-02-TEP-13
+Journal-ref: Phys.Rev. D66 (2002) 106001
+\\
+  We study some of the novel properties of conformal field theories with
+noncompact target spaces as applied to string theory. Standard CFT results get
+corrected by boundary terms in the target space in a way consistent with the
+expected spacetime physics. For instance, one-point functions of general
+operators on the sphere and boundary operators on the disk need not vanish; we
+show that they are instead equal to boundary terms in spacetime. By applying
+this result to vertex operators for spacetime gauge transformations with
+support at infinity, we derive formulas for conserved gauge charges in string
+theory. This approach provides a direct CFT definition of ADM energy-momentum
+in string theory.
+\\

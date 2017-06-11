@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9702181
+From: philippe@math.unc.edu (Philippe DiFrancesco)
+Date: Tue, 25 Feb 1997 14:27:26 +0500   (50kb)
+
+Title: SU(N) Meander Determinants
+Authors: P. Di Francesco
+Comments: TeX using harvmac.tex and epsf.tex, 60 pages (l-mode), 5 figures
+Report-no: UNC-CH-MATH-97/4
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+Journal-ref: J.Math.Phys. 38 (1997) 5905-5943
+\\
+  We propose a generalization of meanders, i.e., configurations of
+non-selfintersecting loops crossing a line through a given number of points, to
+SU(N). This uses the reformulation of meanders as pairs of reduced elements of
+the Temperley-Lieb algebra, a SU(2)-related quotient of the Hecke algebra, with
+a natural generalization to SU(N). We also derive explicit formulas for SU(N)
+meander determinants, defined as the Gram determinants of the corresponding
+bases of the Hecke algebra.
+\\

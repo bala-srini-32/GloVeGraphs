@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9504033
+From: Senarath P. de Alwis <dealwis@gopika.Colorado.EDU>
+Date: Thu, 6 Apr 95 15:52:54 -0600   (21kb)
+Date (revised): Fri, 7 Apr 95 10:15:10 -0600
+
+Title: Thermodynamics of Quantum Fields in Black Hole Backgrounds
+Authors: S.P. de Alwis and N. Ohta
+Comments: 26 pages, latex, no figures. References added, minor error corrected
+Report-no: COLO-HEP-357, OU-HET 209
+Journal-ref: Phys.Rev. D52 (1995) 3529-3542
+\\
+  We discuss the relation between the micro-canonical and the canonical
+ensemble for black holes, and highlight some problems associated with extreme
+black holes already at the classical level. Then we discuss the contribution of
+quantum fields and demonstrate that the partition functions for scalar and
+Dirac (Majorana) fields in static space-time backgrounds, can be expressed as
+functional integrals in the corresponding optical space, and point out that the
+difference between this and the functional integrals in the original metric is
+a Liouville-type action. The optical method gives both the correction to the
+black hole entropy and the bulk contribution to the entropy due to the
+radiation, while (if the Liouville term is ignored) the conical singularity
+method just gives the divergent contribution to the black hole entropy. A
+simple derivation of a general formula for the free energy in the
+high-temperature approximation is given and applied to various cases. We
+conclude with a discussion of the second law.
+\\

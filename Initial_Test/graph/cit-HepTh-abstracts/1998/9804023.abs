@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9804023
+From: Boris Pioline <boris.pioline@cern.ch>
+Date: Thu, 2 Apr 1998 18:32:49 GMT   (6kb)
+Date (revised v2): Thu, 30 Apr 1998 19:10:27 GMT   (7kb)
+
+Title: A note on non-perturbative R^4 couplings
+Authors: B. Pioline (CPHT, Ecole polytechnique)
+Comments: 6 pages, uses amsmath and amssymb; typo in eq.(2) corrected; final
+  version to be published in Phys. Lett. B
+Report-no: CPTH-S604.0498
+Journal-ref: Phys.Lett. B431 (1998) 73-76
+\\
+  Exact non-perturbative results have been conjectured for R^4 couplings in
+type II maximally supersymmetric string theory. Strong evidence has already
+been obtained, but contributions of cusp forms, invisible in perturbation
+theory, have remained an open possibility. In this note, we use the D=8 N=2
+superfield formalism of Berkovits to prove that supersymmetry requires the
+exact R^4 threshold to be an eigenmode of the Laplacian on the scalar manifold
+with a definite eigenvalue. Supersymmetry and U-duality invariance then
+identify the exact result with the order-3/2 Eisenstein series, and rule out
+cusp form contributions.
+\\

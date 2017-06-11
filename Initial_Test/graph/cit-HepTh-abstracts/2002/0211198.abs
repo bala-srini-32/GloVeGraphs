@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0211198
+From: Volovich Anastasia <nastya@gauss.harvard.edu>
+Date: Thu, 21 Nov 2002 17:11:15 GMT   (25kb)
+Date (revised v2): Sun, 22 Dec 2002 23:59:23 GMT   (26kb)
+
+Title: Explicit Formulas for Neumann Coefficients in the Plane-Wave Geometry
+Authors: Yang-Hui He, John H. Schwarz, Marcus Spradlin, Anastasia Volovich
+Comments: 28 pages, 2 figures, v2: reference added, new comments and appendix,
+  typos fixed in eqs. (86) and (89)
+Report-no: CALT-68-2413, NSF-KITP-02-162, PUPT-2058, UPR-1021-T
+\\
+  We obtain explicit formulas for the Neumann coefficients and associated
+quantities that appear in the three-string vertex for type IIB string theory in
+a plane-wave background, for any value of the mass parameter mu. The derivation
+involves constructing the inverse of a certain infinite-dimensional matrix, in
+terms of which the Neumann coefficients previously had been written only
+implicitly. We derive asymptotic expansions for large mu and find unexpectedly
+simple results, which are valid to all orders in 1/mu. Using BMN duality, these
+give predictions for certain gauge theory quantities to all orders in the
+modified 't Hooft coupling lambda'. A specific example is presented.
+\\

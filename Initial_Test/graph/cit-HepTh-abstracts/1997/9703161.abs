@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9703161
+From: Joachim Maeder <maeder@gluon.physik.uni-kl.de>
+Date: Mon, 24 Mar 1997 14:14:18 +0100 (CET)   (15kb)
+
+Title: The Continuous Series of Critical Points of the Two-Matrix Model at N ->
+  infinity in the Double Scaling Limit
+Authors: S. Balaska, J. Maeder and W. Ruehl
+Comments: 24 pages, LaTeX
+Report-no: KL-TH 97/4
+Journal-ref: Nucl.Phys. B520 (1998) 411-432
+\\
+  The critical points of the continuous series are characterized by two complex
+numbers l_1,l_2 (Re(l_1,l_2)< 0), and a natural number n (n>=3) which enters
+the string susceptibility constant through gamma = -2/(n-1). The critical
+potentials are analytic functions with a convergence radius depending on l_1 or
+l_2. We use the orthogonal polynomial method and solve the Schwinger-Dyson
+equations with a technique borrowed from conformal field theory.
+\\

@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0210155
+From: Michael Kroyter <mikroyt@post.tau.ac.il>
+Date: Wed, 16 Oct 2002 13:29:59 GMT   (15kb)
+
+Title: Virasoro operators in the continuous basis of string field theory
+Authors: Ehud Fuchs, Michael Kroyter, Alon Marcus
+Comments: 16 pages
+Report-no: TAUP-2714-02
+Journal-ref: JHEP 0211 (2002) 046
+\\
+  In this work we derive two important tools for working in the \kappa basis of
+string field theory. First we give an analytical expression for the finite part
+of the spectral density \rho_{fin}. This expression is relevant when both
+matter and ghost sectors are considered. Then we calculate the form of the
+matter part of the Virasoro generators L_n in the \kappa basis, which construct
+string field theory's derivation Q_{BRST}. We find that the Virasoro generators
+are given by one dimensional delta functions with complex arguments.
+\\

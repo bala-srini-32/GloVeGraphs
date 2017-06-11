@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0208039
+From: Wolfgang Lerche <lerche@nxth04.cern.ch>
+Date: Tue, 6 Aug 2002 19:53:26 GMT   (37kb)
+
+Title: N=1 Special Geometry, Mixed Hodge Variations and Toric Geometry
+Authors: W. Lerche, P. Mayr, N. Warner
+Comments: 40p, harvmac-b
+Report-no: CERN-TH/2002-175
+\\
+  We study the superpotential of a certain class of N=1 supersymmetric type II
+compactifications with fluxes and D-branes. We show that it has an important
+two-dimensional meaning in terms of a chiral ring of the topologically twisted
+theory on the world-sheet. In the open-closed string B-model, this chiral ring
+is isomorphic to a certain relative cohomology group V, which is the
+appropriate mathematical concept to deal with both the open and closed string
+sectors. The family of mixed Hodge structures on V then implies for the
+superpotential to have a certain geometric structure. This structure represents
+a holomorphic, N=1 supersymmetric generalization of the well-known N=2 special
+geometry. It defines an integrable connection on the topological family of
+open-closed B-models, and a set of special coordinates on the space \cal M of
+vev's in N=1 chiral multiplets. We show that it can be given a very concrete
+and simple realization for linear sigma models, which leads to a powerful and
+systematic method for computing the exact non-perturbative N=1 superpotentials
+for a broad class of toric D-brane geometries.
+\\

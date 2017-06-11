@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9609139
+From: "Sergio A. Pernice" <sergio@charm.pas.rochester.edu>
+Date: Tue, 17 Sep 1996 14:34:24 -0400   (81kb)
+
+Title: On the Divergence of Perturbation Theory. Steps Towards a Convergent
+  Series
+Authors: S. A. Pernice, G. Oleaga
+Comments: 42 pages, Latex, 4 figures
+Subj-class: High Energy Physics - Theory; Functional Analysis
+Journal-ref: Phys.Rev. D57 (1998) 1144-1158
+\\
+  The mechanism underlying the divergence of perturbation theory is exposed.
+This is done through a detailed study of the violation of the hypothesis of the
+Dominated Convergence Theorem of Lebesgue using familiar techniques of Quantum
+Field Theory. That theorem governs the validity (or lack of it) of the formal
+manipulations done to generate the perturbative series in the functional
+integral formalism. The aspects of the perturbative series that need to be
+modified to obtain a convergent series are presented. Useful tools for a
+practical implementation of these modifications are developed. Some resummation
+methods are analyzed in the light of the above mentioned mechanism.
+\\

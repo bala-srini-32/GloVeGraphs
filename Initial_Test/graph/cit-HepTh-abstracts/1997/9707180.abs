@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9707180
+From: Brett van de Sande <bvds@theorie3.physik.uni-erlangen.de>
+Date: Mon, 21 Jul 1997 17:29:13 +0200   (68kb)
+
+Title: Colour-Dielectric Gauge Theory on a Transverse Lattice
+Authors: B. van de Sande and S. Dalley
+Comments: Invited talk at New Nonperturbative Methods and Quantization of the
+  Light Cone, Les Houches, France, 24 Feb - 7 Mar 1997. 7 pages Latex, uses
+  Boxedeps.tex macro
+Report-no: FAU-TP3-97/5
+\\
+  We investigate consequences of the effective colour-dielectric formulation of
+lattice gauge theory using the light-cone Hamiltonian formalism with a
+transverse lattice (hep-ph/9704408). As a quantitative test of this approach,
+we have performed extensive analytic and numerical calculations for
+2+1-dimensional pure gauge theory in the large $N$ limit. We study the
+structure of coupling constant space for our effective potential by comparing
+with results available from conventional Euclidean lattice Monte Carlo
+simulations of this system. In particular, we calculate and measure the scaling
+behaviour of the entire low-lying glueball spectrum, glueball wavefunctions,
+string tension, asymptotic density of states, and deconfining temperature.
+\\

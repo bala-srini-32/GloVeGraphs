@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0005075
+From: Uwe Trittmann <trittman@pacific.mps.ohio-state.edu>
+Date: Tue, 9 May 2000 00:42:54 GMT   (313kb)
+Date (revised v2): Thu, 18 May 2000 19:52:05 GMT   (313kb)
+Date (revised v3): Thu, 26 Oct 2000 20:17:33 GMT   (354kb)
+Date (revised v4): Tue, 23 Jul 2002 16:24:06 GMT   (330kb)
+
+Title: On the Bosonic Spectrum of QCD(1+1) with SU(N) Currents
+Authors: U. Trittmann
+Comments: 17pp., 9 figures; left eigenfunctions replaced by right ones,
+  associated minor changes in text
+Journal-ref: Nucl.Phys. B587 (2000) 311-327
+\\
+  In this note we calculate the spectrum of two-dimensional QCD. We formulate
+the theory with SU(N_c) currents rather than with fermionic operators. We
+construct the Hamiltonian matrix in DLCQ formulation as a function of the
+harmonic resolution K and the numbers of flavors N_f and colors N_c. The
+resulting numerical eigenvalue spectrum is free from trivial multi-particle
+states which obscured previous results. The well-known 't Hooft and large N_f
+spectra are reproduced. In the case of adjoint fermions we present some new
+results.
+\\

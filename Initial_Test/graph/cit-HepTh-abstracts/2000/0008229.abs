@@ -1,0 +1,32 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0008229
+From: Esposito Giampiero <Giampiero.Esposito@na.infn.it>
+Date: Wed, 30 Aug 2000 09:24:48 GMT   (7kb)
+Date (revised v2): Thu, 4 Jan 2001 11:47:34 GMT   (11kb)
+Date (revised v3): Wed, 25 Apr 2001 16:59:28 GMT   (15kb)
+Date (revised v4): Tue, 25 Sep 2001 17:16:17 GMT   (15kb)
+Date (revised v5): Wed, 31 Oct 2001 18:36:17 GMT   (14kb)
+Date (revised v6): Wed, 5 Dec 2001 15:30:14 GMT   (16kb)
+Date (revised v7): Wed, 2 Jan 2002 18:06:08 GMT   (18kb)
+Date (revised v8): Tue, 11 Jun 2002 06:27:51 GMT   (19kb)
+
+Title: On the occurrence of mass in field theory
+Author: Giampiero Esposito
+Comments: 24 pages, plain Tex. The final version has been totally revised
+Report-no: DSF preprint 2000/27
+Journal-ref: Found.Phys. 32 (2002) 1459-1483
+\\
+  This paper proves that it is possible to build a Lagrangian for quantum
+electrodynamics which makes it explicit that the photon mass is eventually set
+to zero in the physical part on observational ground. Gauge independence is
+achieved upon considering the joint effect of gauge-averaging term and ghost
+fields. It remains possible to obtain a counterterm Lagrangian where the only
+non-gauge-invariant term is proportional to the squared divergence of the
+potential, while the photon propagator in momentum space falls off like the
+inverse square of k at large k, which indeed agrees with perturbative
+renormalizability. The resulting radiative corrections to the Coulomb potential
+in QED are also shown to be gauge-independent. The experience acquired with
+quantum electrodynamics is used to investigate properties and problems of the
+extension of such ideas to non-Abelian gauge theories.
+\\

@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9904116
+From: "M. Mattis" <mattis@skyrmion.lanl.gov>
+Date: Thu, 15 Apr 1999 22:33:13 GMT   (28kb)
+Date (revised v2): Wed, 21 Jul 1999 20:00:46 GMT   (29kb)
+
+Title: Breakdown of Cluster Decomposition in Instanton Calculations of the
+  Gluino Condensate
+Authors: T.J. Hollowood (Los Alamos, Swansea), V.V. Khoze (Durham), W. Lee (Los
+  Alamos), M.P. Mattis (Los Alamos)
+Comments: 31 pages, uses an avant-garde version of LaTeX; this version
+  incorporates improved numerics as well as an enhanced discussion of the
+  physics
+Journal-ref: Nucl.Phys. B570 (2000) 241-266
+\\
+  A longstanding puzzle concerns the calculation of the gluino condensate
+<{tr\lambda^2\over 16\pi^2}> = c\Lambda^3 in N=1 supersymmetric SU(N) gauge
+theory: so-called weak-coupling instanton (WCI) calculations give c=1, whereas
+strong-coupling instanton (SCI) calculations give, instead,
+c=2[(N-1)!(3N-1)]^{-1/N}. By examining correlators of this condensate in
+arbitrary multi-instanton sectors, we cast serious doubt on the SCI calculation
+of <{tr\lambda^2\over 16\pi^2}> by showing that an essential step --- namely
+cluster decomposition --- is invalid. We also show that the addition of a
+so-called Kovner-Shifman vacuum (in which <{tr\lambda^2\over 16\pi^2}> = 0)
+cannot straightforwardly resolve this mismatch.
+\\

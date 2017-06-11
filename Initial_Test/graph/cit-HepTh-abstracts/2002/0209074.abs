@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0209074
+From: pmathieu@phy.ulaval.ca
+Date: Mon, 9 Sep 2002 18:24:26 GMT   (28kb)
+Date (revised v2): Mon, 28 Oct 2002 15:56:35 GMT   (29kb)
+
+Title: Jack polynomials in superspace
+Authors: P. Desrosiers, L. Lapointe and P. Mathieu
+Comments: 28 pages. Corrected version of lemme 3
+Subj-class: High Energy Physics - Theory; Combinatorics; Quantum Algebra;
+  Exactly Solvable and Integrable Systems
+\\
+  This work initiates the study of {\it orthogonal} symmetric polynomials in
+superspace. Here we present two approaches leading to a family of orthogonal
+polynomials in superspace that generalize the Jack polynomials. The first
+approach relies on previous work by the authors in which eigenfunctions of the
+supersymmetric extension of the trigonometric Calogero-Moser-Sutherland
+Hamiltonian were constructed. Orthogonal eigenfunctions are now obtained by
+diagonalizing the first nontrivial element of a bosonic tower of commuting
+conserved charges not containing this Hamiltonian. Quite remarkably, the
+expansion coefficients of these orthogonal eigenfunctions in the supermonomial
+basis are stable with respect to the number of variables. The second and more
+direct approach amounts to symmetrize products of non-symmetric Jack
+polynomials with monomials in the fermionic variables. This time, the
+orthogonality is inherited from the orthogonality of the non-symmetric Jack
+polynomials, and the value of the norm is given explicitly.
+\\

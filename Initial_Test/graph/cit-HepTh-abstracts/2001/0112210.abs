@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0112210
+From: Paul Koerber <koerber@tena4.vub.ac.be>
+Date: Fri, 21 Dec 2001 13:30:51 GMT   (13kb)
+
+Title: Getting the D-brane effective action from BPS configurations
+Authors: Paul Koerber, Alexander Sevrin
+Comments: 6 pages, proceedings of the Corfu 2001 RTN meeting
+Journal-ref: Fortsch.Phys. 50 (2002) 923-929
+\\
+  We review a method to find the non-abelian open superstring effective action,
+thereby settling the issue of the ordering ambiguities. We start from solutions
+to Yang-Mills which, in D-brane context, define certain BPS configurations.
+Studying their deformations in the abelian case shows that the Born-Infeld
+action is the unique deformation which admits solutions of this type. By
+applying the method to the non-abelian case we calculated the full effective
+action through O(\alpha'^3). The presence of derivative terms turns out to be
+essential. Testing the result by comparing the spectrum in the presence of a
+constant magnetic background field with the string theory prediction, we obtain
+perfect agreement.
+\\

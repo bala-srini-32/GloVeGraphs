@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0207143
+From: Max NIEDERMAIER <max@phys.univ-tours.fr>
+Date: Mon, 15 Jul 2002 20:22:25 GMT   (64kb)
+Date (revised v2): Sun, 21 Jul 2002 16:09:04 GMT   (64kb)
+Date (revised v3): Thu, 16 Jan 2003 12:49:12 GMT   (69kb)
+
+Title: Renormalization and asymptotic safety in truncated quantum Einstein
+  gravity
+Authors: M. Niedermaier
+Comments: 67 pages, Latex; v3: improved discussion of stationary sector; agrees
+  with published version
+Journal-ref: JHEP 0212 (2002) 066
+\\
+  A perturbative quantum theory of the 2-Killing vector reduction of general
+relativity is constructed. Although non-renormalizable in the standard sense,
+we show that to all orders of the loop expansion strict cut-off independence
+can be achieved in a space of Lagrangians differing only by a field dependent
+conformal factor. In particular the Noether currents and the quantum
+constraints can be defined as finite composite operators. The form of the field
+dependence in the conformal factor changes with the renormalization scale and a
+closed formula is obtained for the beta functional governing its flow. The flow
+possesses a unique fixed point at which the trace anomaly is shown to vanish.
+The approach to the fixed point adheres to Weinberg's ``asymptotic safety''
+scenario, both in the gravitational wave/cosmological sector and in the
+stationary sector.
+\\

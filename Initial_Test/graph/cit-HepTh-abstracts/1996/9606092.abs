@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9606092
+From: Alexander Turbiner <turbiner@nuclecu.unam.mx>
+Date: Sat, 15 Jun 1996 11:36:49 -0500 (CDT)   (7kb)
+Date (revised): Fri, 9 Aug 1996 11:20:02 -0500 (CDT)
+
+Title: Quasi-Exactly-Solvable Many-Body Problems
+Authors: A. Minzoni, M. Rosenbaum, A. Turbiner (UNAM, Mexico)
+Comments: 11 pages, LaTeX; a slight revision of statements made, one reference
+  added, typos corrected; to appear in MPLA
+Subj-class: High Energy Physics - Theory; Functional Analysis
+Journal-ref: Mod.Phys.Lett. A11 (1996) 1977-1984
+\\
+  Explicit examples of quasi-exactly-solvable $N$-body problems on the line are
+presented. These are related to the hidden algebra $sl_N$, and they are of two
+types -- containing up to $N$ (infinitely-many eigenstates are known, but not
+all) and up to 6 body interactions only (a finite number of eigenstates is
+known). Both types degenerate to the Calogero model.
+\\

@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0005064
+From: Toyohiro Tsurumaru <tsuru@thaxp3.tanashi.kek.jp>
+Date: Mon, 8 May 2000 06:11:53 GMT   (19kb)
+Date (revised v2): Tue, 9 May 2000 05:21:58 GMT   (19kb)
+Date (revised v3): Tue, 23 May 2000 04:38:35 GMT   (20kb)
+
+Title: Instantons, Monopoles and the Flux Quantization in the Faddeev-Niemi
+  Decomposition
+Authors: Toyohiro Tsurumaru, Izumi Tsutsui, Akira Fujii
+Comments: Tex, 12 pages, 3 figures (eps), references added
+Report-no: KEK Preprint 2000-18
+Journal-ref: Nucl.Phys. B589 (2000) 659-668
+\\
+  We study how instantons arise in the low energy effective theory of the SU(2)
+Yang-Mills theory in the context of the non-linear sigma model recently propose
+by Faddeev and Niemi. We find a simple relation between the instanton number
+$\nu$ and the charge m of the monopole that appears in the effective theory. It
+is given by $\nu = m \Phi/(2\pi)$, where $\Phi$ is the quantized flux
+associated with a U(1) gauge field passing through the loop formed by the
+singularity of the monopole.
+\\

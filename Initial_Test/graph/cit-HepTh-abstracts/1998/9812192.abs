@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9812192
+From: Pierre Mathieu <pmathieu@phy.ulaval.ca>
+Date: Mon, 21 Dec 1998 20:22:22 GMT   (280kb)
+Date (revised v2): Mon, 22 Feb 1999 14:16:30 GMT   (280kb)
+
+Title: On Principal Admissible Representations and Conformal Field Theory
+Authors: P. Mathieu and M.A. Walton
+Comments: Harvmac (b mode : 32 p; l mode: 36 p), 5 figures, some minor
+  reformulations, references added and typos corrected
+Report-no: LAVAL-PHY-98-29
+Journal-ref: Nucl.Phys. B553 (1999) 533-558
+\\
+  The principal admissible representations of affine Kac-Moody algebras are
+studied, with a view to their use in conformal field theory. We discuss the
+generation of the set of principal admissible highest weights, concentrating
+mainly on $A_r^{(1)}$ at rational level $k$. A related algorithm is described
+that produces the Malikov-Feigen-Fuchs null vectors of these representations.
+With the principal admissible description of the highest weights, we are able
+to prove that field identifications (including maverick ones) lead to the
+canonical description of the primary fields of the nonunitary diagonal coset
+theories.
+\\

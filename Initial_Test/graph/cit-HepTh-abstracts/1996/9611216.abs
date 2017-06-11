@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9611216
+From: Kojima Takeo <kojima@kurims.kyoto-u.ac.jp>
+Date: Tue, 26 Nov 96 16:07:19 JST   (23kb)
+Date (revised): Thu, 27 Mar 97 05:37:41 JST
+
+Title: Determinant representation for dynamical correlation functions of the
+  Quantum nonlinear Schr\"odinger equation
+Authors: T. Kojima, V. Korepin and N. Slavnov
+Comments: LaTEX file, 35 pages, to appear in C.M.P. (1997)
+Subj-class: High Energy Physics - Theory; Quantum Algebra; Exactly Solvable and
+  Integrable Systems
+Journal-ref: Commun.Math.Phys. 188 (1997) 657-689
+\\
+  The foundation for the theory of correlation functions of exactly solvable
+models is determinant representation. Determinant representation permit to
+describe correlation functions by classical completely integrable
+differential equations [Barough, McCoy, Wu]. In this paper we show that
+determinant represents works not only for free fermionic models. We obtained
+determinant representation for the correlation function
+$<\psi(0,0)\psi^\dagger(x,t)>$ of the quantum nonlinear Schr\"odinger
+equation, out of free fermionic point. In the forthcoming publications we
+shall derive completely integrable equation and asymptotic for the quantum
+correlation function of this model of interacting fermions.
+\\

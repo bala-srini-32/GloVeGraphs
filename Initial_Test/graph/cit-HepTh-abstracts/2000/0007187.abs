@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0007187
+From: "Ludmil Hadjiivanov" <lhadji@inrne.bas.bg>
+Date: Mon, 24 Jul 2000 15:41:39 GMT   (17kb)
+Date (revised v2): Tue, 22 Aug 2000 07:17:28 GMT   (17kb)
+Date (revised v3): Fri, 20 Apr 2001 10:05:10 GMT   (18kb)
+
+Title: Regular basis and R-matrices for the su(n)_k Knizhnik-Zamolodchikov
+  equation
+Authors: L.K. Hadjiivanov, Ya.S. Stanev and I.T. Todorov
+Comments: 19 pages, LATEX, amsfonts, amssymb; v.3 with a few corrections
+Subj-class: High Energy Physics - Theory; Mathematical Physics; Quantum Algebra
+Journal-ref: Lett.Math.Phys. 54 (2000) 137-155
+\\
+  Dynamical R-matrix relations are derived for the group-valued chiral vertex
+operators in the SU(n) WZNW model from the KZ equation for a general four-point
+function including two step operators. They fit the exchange relations for the
+U_q(sl_n) covariant quantum matrix derived previously by solving the dynamical
+Yang-Baxter equation. As a byproduct, we extend the regular basis introduced
+earlier for SU(2) chiral fields to SU(n) step operators and display the
+corresponding triangular matrix representation of the braid group.
+\\

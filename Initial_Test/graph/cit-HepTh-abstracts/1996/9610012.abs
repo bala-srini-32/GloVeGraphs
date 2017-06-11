@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9610012
+From: Tim Morris <trmorris@hep.ph.soton.ac.uk>
+Date: Wed, 2 Oct 96 18:04:15 BST   (33kb)
+Date (revised): Thu, 3 Oct 96 10:08:44 BST
+
+Title: Properties of derivative expansion approximations to the renormalization
+  group
+Author: Tim R. Morris
+Comments: (Minor touch ups of the lingo.) Invited talk at RG96, Dubna, Russia;
+  14 pages including 2 eps figures; uses LaTeX, epsf and sprocl.sty
+Report-no: SHEP 96-25
+Journal-ref: Int.J.Mod.Phys. B12 (1998) 1343-1354
+\\
+  Approximation only by derivative (or more generally momentum) expansions,
+combined with reparametrization invariance, turns the continuous
+renormalization group for quantum field theory into a set of partial
+differential equations which at fixed points become non-linear eigenvalue
+equations for the anomalous scaling dimension $\eta$. We review how these
+equations provide a powerful and robust means of discovering and approximating
+non-perturbative continuum limits. Gauge fields are briefly discussed.
+Particular emphasis is placed on the r\^ole of reparametrization invariance,
+and the convergence of the derivative expansion is addressed.
+\\

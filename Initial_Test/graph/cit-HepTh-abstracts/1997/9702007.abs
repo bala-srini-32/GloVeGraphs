@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9702007
+From: Matt Visser <visser@kiwi.wustl.edu>
+Date: Fri, 31 Jan 97 17:14:07 -0600   (37kb)
+
+Title: Casimir effect in dielectrics: Bulk Energy Contribution
+Authors: C. E. Carlson (Coll. William-Mary), C. Molina-Paris (Los Alamos), J.
+  Perez-Mercader (LAEFF, Madrid), and Matt Visser (Washington University)
+Comments: 20 pages in double-column format; uses ReV_TeX 3.0; 8 encapsulated
+  postscript figures; uses epsf.sty
+Journal-ref: Phys.Rev. D56 (1997) 1262-1280
+\\
+  In a recent series of papers, Schwinger discussed a process that he called
+the Dynamical Casimir Effect. The key essence of this effect is the change in
+zero-point energy associated with any change in a dielectric medium. (In
+particular, if the change in the dielectric medium is taken to be the growth or
+collapse of a bubble, this effect may have relevance to sonoluminescence.) The
+kernel of Schwinger's result is that the change in Casimir energy is
+proportional to the change in volume of the dielectric, plus finite-volume
+corrections. Other papers have called into question this result, claiming that
+the volume term should actually be discarded, and that the dominant term
+remaining is proportional to the surface area of the dielectric. In this
+communication, which is an expansion of an earlier letter on the same topic, we
+present a careful and critical review of the relevant analyses. We find that
+the Casimir energy, defined as the change in zero-point energy due to a change
+in the medium, has at leading order a bulk volume dependence. This is in full
+agreement with Schwinger's result, once the correct physical question is asked.
+We have nothing new to say about sonoluminescence itself.
+\\

@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0004007
+From: aalok misra <aalok@iopb.res.in>
+Date: Mon, 3 Apr 2000 07:53:04 GMT   (7kb)
+
+Title: Field-Dependent BRS Tranformations and Correct Prescription for
+  1/(n.k)^p-Type Singularities in Axial Gauges
+Authors: A. Misra (Institute of Physics, Bhubaneswar, Orissa, India)
+Comments: 4 pages, LaTex, uses Moriond.sty; talk given at the XXXVth Rencontres
+  de Moriond session on QCD And High Energy Hadronic Interactions, Les Arcs
+  1800, France, Mar 18-25
+\\
+  The axial-gauge boson propagator contains 1/(n.k)^p-type singularities. These
+singularities have generally been treated by inventing prescriptions for them.
+We propose an alternative procedere for treating these singularities in the
+path-integral formalism using the known way of treating the 1/k^{2n}-type
+singularities in Lorentz-type gauges. For this purpose we use a finite
+field-dependent BRS transformation that inerpolates between the Lorentz and
+axial-type gauges. We arrive at the \epsilon-dependent tree propagator in
+axial-type gauges.
+\\

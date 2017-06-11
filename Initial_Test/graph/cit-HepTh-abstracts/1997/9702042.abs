@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9702042
+From: Bernard Knaepen <bknaepen@ulb.ac.be>
+Date: Wed, 5 Feb 1997 05:38:52 MST   (12kb)
+
+Title: BRST cohomology of the Chapline-Manton model
+Authors: Marc Henneaux, Bernard Knaepen and Christiane Schomblond
+Comments: Latex file, no figures, 15 pages
+Report-no: ULB-TH-97/02
+Journal-ref: Lett.Math.Phys. 42 (1997) 337-348
+\\
+  We completely compute the local BRST cohomology $H(s|d)$ of the combined
+Yang-Mills-2-form system coupled through the Yang-Mills Chern-Simons term
+("Chapline-Manton model"). We consider the case of a simple gauge group and
+explicitely include in the analysis the sources for the BRST variations of
+the fields ("antifields"). We show that there is an antifield independent
+representative in each cohomological class of $H(s|d)$ at ghost number 0 or
+1. Accordingly, any counterterm may be assumed to preserve the gauge
+symmetries. Similarly, there is no new candidate anomaly beside those already
+considered in the literature, even when one takes the antifields into
+account. We then characterize explicitly all the non-trivial solutions of the
+Wess-Zumino consistency conditions. In particular, we provide a cohomological
+interpretation of the Green-Schwarz anomaly cancellation mechanism.
+\\

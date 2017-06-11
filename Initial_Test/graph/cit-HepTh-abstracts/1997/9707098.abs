@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9707098
+From: Olav Tirkkonen <tirkkone@nordita.dk>
+Date: Thu, 10 Jul 1997 21:10:42 +0200   (19kb)
+Date (revised): Thu, 14 Jan 1999 15:29:01 GMT
+
+Title: Excited states in the twisted XXZ spin chain
+Authors: T. Nassar and O. Tirkkonen
+Comments: 16 pages, Latex; added discussion on quantum group invariance and
+  arbitrary magnon number
+Report-no: NORDITA-97/33 P
+Journal-ref: J.Phys. A31 (1998) 9983-9996
+\\
+  We compute the finite size spectrum for the spin 1/2 XXZ chain with twisted
+boundary conditions, for anisotropy in the regime $0< \gamma <\pi/2$, and
+arbitrary twist $\theta$. The string hypothesis is employed for treating
+complex excitations. The Bethe Ansatz equtions are solved within a coupled
+non-linear integral equation approach, with one equation for each type of
+string. The root-of-unity quantum group invariant periodic chain reduces to the
+XXZ_1/2 chain with a set of twist boundary conditions ($\pi/\gamma\in Z$,
+$\theta$ an integer multiple of $\gamma$). For this model, the restricted
+Hilbert space corresponds to an unitary conformal field theory, and we recover
+all primary states in the Kac table in terms of states with specific twist and
+strings.
+\\

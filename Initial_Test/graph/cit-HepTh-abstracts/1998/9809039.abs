@@ -1,0 +1,38 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9809039
+From: Boris Pioline <boris.pioline@cern.ch>
+Date: Mon, 7 Sep 1998 17:10:48 GMT   (112kb)
+Date (revised v2): Fri, 2 Oct 1998 16:10:54 GMT   (116kb)
+Date (revised v3): Thu, 28 Jan 1999 17:37:24 GMT   (114kb)
+Date (revised v4): Fri, 12 Mar 1999 19:25:58 GMT   (116kb)
+
+Title: U-duality and M-Theory
+Authors: N.A. Obers (CERN, Nordita) and B. Pioline (Ecole Polytechnique)
+Comments: 132 pages, 37 tables, Latex2e; v3: minor corrections, text
+  reformatted, update of refs, note added about boundaries of M-theory moduli
+  space, final version to appear in Phys. Rept
+Report-no: CERN-TH/98-282, CPHT-S639-0898
+Journal-ref: Phys.Rept. 318 (1999) 113-225
+\\
+  This work is intended as a pedagogical introduction to M-theory and to its
+maximally supersymmetric toroidal compactifications, in the frameworks of 11D
+supergravity, type II string theory and M(atrix) theory. U-duality is used as
+the main tool and guideline in uncovering the spectrum of BPS states. We review
+the 11D supergravity algebra and elementary 1/2-BPS solutions, discuss
+T-duality in the perturbative and non-perturbative sectors from an algebraic
+point of view, and apply the same tools to the analysis of U-duality at the
+level of the effective action and the BPS spectrum, with a particular emphasis
+on Weyl and Borel generators. We derive the U-duality multiplets of BPS
+particles and strings, U-duality invariant mass formulae for 1/2- and 1/4-BPS
+states for general toroidal compactifications on skew tori with gauge
+backgrounds, and U-duality multiplets of constraints for states to preserve a
+given fraction of supersymmetry. A number of mysterious states are encountered
+in D<=3, whose existence is implied by T-duality and 11D Lorentz invariance. We
+then move to the M(atrix) theory point of view, give an introduction to
+Discrete Light Cone Quantization (DLCQ) in general and DLCQ of M-theory in
+particular. We discuss the realization of U-duality as electric-magnetic
+dualities of the Matrix gauge theory, display the Matrix gauge theory BPS
+spectrum in detail, and discuss the conjectured extended U-duality group in
+this scheme.
+\\

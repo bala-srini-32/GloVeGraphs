@@ -1,0 +1,34 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9812089
+From: Igor Klebanov <klebanov@puhep1.princeton.edu>
+Date: Thu, 10 Dec 1998 19:47:21 GMT   (15kb)
+Date (revised v2): Fri, 11 Dec 1998 20:47:11 GMT   (15kb)
+Date (revised v3): Thu, 21 Jan 1999 20:42:51 GMT   (15kb)
+Date (revised v4): Wed, 3 Feb 1999 21:03:04 GMT   (16kb)
+
+Title: Asymptotic Freedom and Infrared Behavior in the Type 0 String Approach
+  to Gauge Theory
+Authors: Igor R. Klebanov and Arkady A. Tseytlin
+Comments: 15 pages, harvmac; v2: a reference added; v3: last section revised;
+  v4: numerical coefficients corrected
+Report-no: PUPT-1825, Imperial/TP/98-99/20
+Journal-ref: Nucl.Phys. B547 (1999) 143-156
+\\
+  In a recent paper we considered the type 0 string theories, obtained from the
+ten-dimensional closed NSR string by a GSO projection which excludes space-time
+fermions, and studied the low-energy dynamics of N coincident D-branes. This
+led us to conjecture that the four-dimensional SU(N) gauge theory coupled to 6
+adjoint massless scalars is dual to a background of type 0 theory carrying N
+units of R-R 5-form flux and involving a tachyon condensate. The tachyon
+background leads to a ``soft breaking'' of conformal invariance, and we derived
+the corresponding renormalization group equation. Minahan has subsequently
+found its asymptotic solution for weak coupling and showed that the coupling
+exhibits logarithmic flow, as expected from the asymptotic freedom of the dual
+gauge theory. We study this solution in more detail and identify the effect of
+the 2-loop beta function. We also demonstrate the existence of a fixed point at
+infinite coupling. Just like the fixed point at zero coupling, it is
+characterized by the AdS_5\times S^5 Einstein frame metric. We argue that there
+is a RG trajectory extending all the way from the zero coupling fixed point in
+the UV to the infinite coupling fixed point in the IR.
+\\

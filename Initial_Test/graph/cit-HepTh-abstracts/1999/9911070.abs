@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9911070
+From: Sukanta Bose <sukanta.bose@astro.cf.ac.uk>
+Date: Wed, 10 Nov 1999 20:32:33 GMT   (12kb)
+
+Title: Quasilocal energy for rotating charged black hole solutions in general
+  relativity and string theory
+Authors: Sukanta Bose (Cardiff Univ.) and Thant Zin Naing (Yangon Univ.)
+Comments: 15 pages
+Report-no: IUCAA-16/99
+Journal-ref: Phys.Rev. D60 (1999) 104027
+\\
+  We explore the (non)-universality of Martinez's conjecture, originally
+proposed for Kerr black holes, within and beyond general relativity. The
+conjecture states that the Brown-York quasilocal energy at the outer horizon of
+such a black hole reduces to twice its irreducible mass, or equivalently, to
+\sqrt{A} /(2\sqrt{pi}), where `A' is its area. We first consider the charged
+Kerr black hole. For such a spacetime, we calculate the quasilocal energy
+within a two-surface of constant Boyer-Lindquist radius embedded in a constant
+stationary-time slice. Keeping with Martinez's conjecture, at the outer horizon
+this energy equals the irreducible mass. The energy is positive and
+monotonically decreases to the ADM mass as the boundary-surface radius
+diverges. Next we perform an analogous calculation for the quasilocal energy
+for the Kerr-Sen spacetime, which corresponds to four-dimensional rotating
+charged black hole solutions in heterotic string theory. The behavior of this
+energy as a function of the boundary-surface radius is similar to the charged
+Kerr case. However, we show that in this case it does not approach the
+expression conjectured by Martinez at the horizon.
+\\

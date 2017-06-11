@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9512029
+From: k.thielemans@ic.ac.uk
+Date: Tue, 5 Dec 1995 21:54:41 GMT   (14kb)
+Date (revised): Tue, 12 Dec 1995 17:10:33 GMT
+
+Title: A Mathematica Package for Computing N=2 Superfield Operator Product
+  Expansions
+Authors: Sergey Krivonos, Kris Thielemans
+Comments: 15 pages, LaTeX. Minor corrections, particularly to Mathematica
+  output Out[6],Out[9] in section 4. Available through anonymous ftp from
+  ftp://euclid.tp.ph.ic.ac.uk/papers/ or on WWW at
+  http://euclid.tp.ph.ic.ac.uk/Papers/
+Report-no: Imperial/TP/95-96/13
+Journal-ref: Class.Quant.Grav. 13 (1996) 2899-2910
+\\
+  We describe a general purpose Mathematica package for computing Superfield
+Operator Product Expansions in meromorphic $N=2$ superconformal field theory.
+Given the SOPEs for a set of ``basic" superfields, SOPEs of arbitrarily
+complicated composites can be computed automatically. Normal ordered products
+are always reduced to a standard form. It is possible to check the Jacobi
+identities, and to compute Poisson brackets (``classical SOPEs''). We present
+two explicit examples: a construction of the ``small'' $N=4$ superconformal
+algebra in terms of $N=2$ superfields, and a realisation of the $N=2$
+superconformal algebra in terms of chiral and antichiral fermionic superfields.
+\\

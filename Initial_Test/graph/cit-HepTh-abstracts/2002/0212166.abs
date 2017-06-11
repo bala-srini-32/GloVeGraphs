@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0212166
+From: Sanjaye Ramgoolam <ramgosk@het.brown.edu>
+Date: Mon, 16 Dec 2002 19:38:54 GMT   (28kb)
+Date (revised v2): Fri, 27 Dec 2002 21:58:39 GMT   (29kb)
+
+Title: Strings on Plane Waves, Super-Yang Mills in Four Dimensions, Quantum
+  Groups at Roots of One
+Authors: Steve Corley, Sanjaye Ramgoolam
+Comments: 34 pages (Harvmac); v2 : minor correction + refs added
+Report-no: BROWN-HET-1336
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+\\
+  We show that the BMN operators in D=4 N=4 super Yang Mills theory proposed as
+duals of stringy oscillators in a plane wave background have a natural quantum
+group construction in terms of the quantum deformation of the SO(6) $R$
+symmetry. We describe in detail how a q-deformed U(2) subalgebra generates BMN
+operators, with $ q \sim e^{2 i \pi \over J}$. The standard quantum co-product
+as well as generalized traces which use $q$-cyclic operators acting on tensor
+products of Higgs fields are the ingredients in this construction. They
+generate the oscillators with the correct (undeformed) permutation symmetries
+of Fock space oscillators. The quantum group can be viewed as a spectrum
+generating algebra, and suggests that correlators of BMN operators should have
+a geometrical meaning in terms of spaces with quantum group symmetry.
+\\

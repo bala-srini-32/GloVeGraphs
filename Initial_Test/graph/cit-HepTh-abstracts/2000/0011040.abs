@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0011040
+From: H.Osborn@damtp.cam.ac.uk
+Date: Tue, 7 Nov 2000 12:47:48 GMT   (28kb)
+Date (revised v2): Thu, 21 Dec 2000 15:18:32 GMT   (28kb)
+Date (revised v3): Thu, 5 Apr 2001 16:52:45 GMT   (28kb)
+
+Title: Conformal Four Point Functions and the Operator Product Expansion
+Authors: F.A. Dolan, H. Osborn
+Comments: 38 pages, plain TeX file using harvmac; revised version minor changes
+  and an extra reference, revised version2, further corrections
+Report-no: DAMTP/00-125
+Journal-ref: Nucl.Phys. B599 (2001) 459-496
+\\
+  Various aspects of the four point function for scalar fields in conformally
+invariant theories are analysed. This depends on an arbitrary function of two
+conformal invariants u,v. A recurrence relation for the function corresponding
+to the contribution of an arbitrary spin field in the operator product
+expansion to the four point function is derived. This is solved explicitly in
+two and four dimensions in terms of ordinary hypergeometric functions of
+variables z,x which are simply related to u,v. The operator product expansion
+analysis is applied to the explicit expressions for the four point function
+found for free scalar, fermion and vector field theories in four dimensions.
+The results for four point functions obtained by using the AdS/CFT
+correspondence are also analysed in terms of functions related to those
+appearing in the operator product discussion.
+\\

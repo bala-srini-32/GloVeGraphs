@@ -1,0 +1,33 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0109065
+From: Anton Ryzhov <ryzhovav@physics.ucla.edu>
+Date: Fri, 7 Sep 2001 21:19:28 GMT   (99kb)
+Date (revised v2): Wed, 17 Oct 2001 22:54:27 GMT   (100kb)
+
+Title: Three-Point Functions of Quarter BPS Operators in N=4 SYM
+Authors: Eric D'Hoker, Anton V. Ryzhov
+Comments: 44 pages, Latex, eps figures, uses epsfig.sty; references added
+Report-no: UCLA/01/TEP/22
+Journal-ref: JHEP 0202 (2002) 047
+\\
+  In a recent paper hep-th/0109064, quarter-BPS chiral primaries were
+constructed in the fully interacting four dimensional N=4 Super-Yang-Mills
+theory with gauge group SU(N). These operators are annihilated by four
+supercharges, and at order g^2 have protected scaling dimension and
+normalization. Here, we compute three-point functions involving these
+quarter-BPS operators along with half-BPS operators. The combinatorics of the
+problem is rather involved, and we consider the following special cases: (1)
+correlators < half half BPS > of two half-BPS primaries with an arbitrary
+chiral primary; (2) certain classes of < half quarter quarter > and < quarter
+quarter quarter > three-point functions; (3) three-point functions involving
+the Delta < 8 operators found in hep-th/0109064; (4) < half quarter quarter>
+correlators with the special quarter-BPS operator made of single and double
+trace operators only. The analysis in cases (1)-(3) is valid for general N,
+while (4) is a large N approximation. Order g^2 corrections to all three-point
+functions considered in this paper are found to vanish.
+  In the AdS/CFT correspondence, quarter-BPS chiral primaries are dual to
+threshold bound states of elementary supergravity excitations. We present a
+supergravity discussion of two- and three-point correlators involving these
+bound states.
+\\

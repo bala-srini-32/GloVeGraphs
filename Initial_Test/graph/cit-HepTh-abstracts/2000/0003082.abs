@@ -1,0 +1,39 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0003082
+From: Hwang Dae-Sung <dshwang@kunja.sejong.ac.kr>
+Date: Fri, 10 Mar 2000 18:10:10 GMT   (17kb)
+Date (revised v2): Fri, 24 Mar 2000 17:02:49 GMT   (18kb)
+Date (revised v3): Wed, 18 Oct 2000 08:16:04 GMT   (40kb)
+
+Title: Light-Cone Representation of the Spin and Orbital Angular Momentum of
+  Relativistic Composite Systems
+Author: Stanley J. Brodsky, Dae Sung Hwang, Bo-Qiang Ma, and Ivan Schmidt
+Comments: Version to be published in Nuclear Physics B. Includes illustrations
+  of graviton-lepton form factors at one loop in QED
+Report-no: SLAC-PUB-8392, USM-TH-90
+Journal-ref: Nucl.Phys. B593 (2001) 311-335
+\\
+  The matrix elements of local operators such as the electromagnetic current,
+the energy momentum tensor, angular momentum, and the moments of structure
+functions have exact representations in terms of light-cone Fock state
+wavefunctions of bound states such as hadrons. We illustrate all of these
+properties by giving explicit light-cone wavefunctions for the two-particle
+Fock state of the electron in QED, thus connecting the Schwinger anomalous
+magnetic moment to the spin and orbital momentum carried by its Fock state
+constituents. We also compute the QED one-loop radiative corrections for the
+form factors for the graviton coupling to the electron and photon. Although the
+underlying model is derived from elementary QED perturbative couplings, it in
+fact can be used to simulate much more general bound state systems by applying
+spectral integration over the constituent masses while preserving all of the
+Lorentz properties, giving explicit realization of the spin sum rules and other
+local matrix elements. The role of orbital angular momentum in understanding
+the "spin crisis" problem for relativistic systems is clarified. We also prove
+that the anomalous gravitomagnetic moment B(0) vanishes for any composite
+system. This property is shown to follow directly from the Lorentz boost
+properties of the light-cone Fock representation and holds separately for each
+Fock state component. We show how the QED perturbative structure can be used to
+model bound state systems while preserving all Lorentz properties. We thus
+obtain a theoretical laboratory to test the consistency of formulae which have
+been proposed to probe the spin structure of hadrons.
+\\

@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0002218
+From: Gerard Watts <gmtw@mth.kcl.ac.uk>
+Date: Fri, 25 Feb 2000 15:51:01 GMT   (168kb)
+
+Title: On the boundary Ising model with disorder operators
+Authors: G.M.T. Watts (King's College London)
+Comments: 12 pages, Latex2e, 6 figures
+Report-no: KCL-MTH-00-06
+Journal-ref: Nucl.Phys. B596 (2001) 513-524
+\\
+  We extend the well-known method of calculating bulk correlation functions of
+the conformal Ising model via bosonisation to situations with boundaries.
+Oshikawa and Affleck have found the boundary states of two decoupled Ising
+models in terms of the orbifold of a single free boson compactified on a circle
+of radius r=1; we adapt their results to include disorder operators. Using
+these boundary states we calculate the expectation value of a single disorder
+field on a cylinder with free boundary conditions and show that in the
+appropriate limits we recover the standard and frustrated partition functions.
+We also show how to calculate Ising correlation functions on the upper half
+plane.
+\\

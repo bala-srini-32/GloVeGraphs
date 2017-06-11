@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9604081
+From: yamadah@cc.it-chiba.ac.jp
+Date: Tue, 16 Apr 1996 10:53:20 +0900   (9kb)
+Date (revised): Wed, 13 Nov 1996 10:56:05 +0900
+
+Title: Heaviside transform of the effective potential in the Gross-Neveu model
+Author: Hirofumi Yamada
+Comments: 13pages, Latex, many changes, new discussion added, final version to
+  appear in Mod. Phys. Lett. A
+Journal-ref: Mod.Phys.Lett. A11 (1996) 2793-2804
+\\
+  Unconventional way of handling the perturbative series is presented with the
+help of Heaviside transformation with respect to the mass. We apply Heaviside
+transform to the effective potential in the massive Gross-Neveu model and carry
+out perturbative approximation of the massless potential by dealing with the
+resulting Heaviside function. We find that accurate values of the dynamical
+mass can be obtained from the Heaviside function already at finite orders where
+just the several of diagrams are incorporated. We prove that our approximants
+converges to the exact massless potential in the infinite order. Small mass
+expansion of the effective potential can be also obtained in our approach.
+\\

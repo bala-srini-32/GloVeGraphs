@@ -1,0 +1,34 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0010293
+From: Anton Kapustin <kapustin@ias.edu>
+Date: Tue, 31 Oct 2000 17:47:58 GMT   (52kb)
+Date (revised v2): Wed, 14 Nov 2001 17:36:26 GMT   (54kb)
+
+Title: Vertex Algebras, Mirror Symmetry, And D-Branes: The Case Of Complex Tori
+Authors: Anton Kapustin, Dmitri Orlov
+Comments: 70 pages, AMS Latex. v2: a gap in the reasoning of Appendix B has
+  been filled, and a proof of the "Borcherds formulas" has been added
+Report-no: IASSNS-HEP-00/81
+Subj-class: High Energy Physics - Theory; Algebraic Geometry; Quantum Algebra
+Journal-ref: Commun.Math.Phys. 233 (2003) 79-136
+\\
+  A vertex algebra is an algebraic counterpart of a two-dimensional conformal
+field theory. We give a new definition of a vertex algebra which includes
+chiral algebras as a special case, but allows for fields which are neither
+meromorphic nor anti-meromorphic. To any complex torus equipped with a flat
+Kahler metric and a closed 2-form we associate an N=2 superconformal vertex
+algebra (N=2 SCVA) in the sense of our definition. We find a criterion for two
+different tori to produce isomorphic N=2 SCVA's. We show that for algebraic
+tori isomorphism of N=2 SCVA's implies the equivalence of the derived
+categories of coherent sheaves corresponding to the tori or their
+noncommutative generalizations (Azumaya algebras over tori). We also find a
+criterion for two different tori to produce N=2 SCVA's related by a mirror
+morphism. If the 2-form is of type (1,1), this condition is identical to the
+one proposed by Golyshev, Lunts, and Orlov, who used an entirely different
+approach inspired by the Homological Mirror Symmetry Conjecture of Kontsevich.
+Our results suggest that Kontsevich's conjecture must be modified: coherent
+sheaves must be replaced with modules over Azumaya algebras, and the Fukaya
+category must be ``twisted'' by a closed 2-form. We also describe the
+implications of our results for BPS D-branes on Calabi-Yau manifolds.
+\\

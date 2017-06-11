@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0205057
+From: Ellwanger <Ulrich.Ellwanger@th.u-psud.fr>
+Date: Tue, 7 May 2002 09:53:23 GMT   (17kb)
+Date (revised v2): Thu, 30 May 2002 06:38:27 GMT   (18kb)
+
+Title: Massive Yang-Mills Theory in Abelian Gauges
+Authors: U. Ellwanger, N. Wschebor
+Comments: added explanations, corrected signs
+Report-no: LPT Orsay 02-39
+\\
+  We prove the perturbative renormalisability of pure SU(2) Yang-Mills theory
+in the abelian gauge supplemented with mass terms. Whereas mass terms for the
+gauge fields charged under the diagonal U(1) allow to preserve the standard
+form of the Slavnov-Taylor identities (but with modified BRST variations), mass
+terms for the diagonal gauge fields require the study of modified
+Slavnov-Taylor identities. We comment on the renormalization group equations,
+which describe the variation of the effective action with the different masses.
+Finite renormalized masses for the charged gauge fields, in the limit of
+vanishing bare mass terms, are possible provided a certain combination of wave
+function renormalization constants vanishes sufficiently rapidly in the
+infrared limit.
+\\

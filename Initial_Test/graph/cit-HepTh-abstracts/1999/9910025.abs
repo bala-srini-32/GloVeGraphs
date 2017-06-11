@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9910025
+From: Iain Stewart <iain@schwinger.ucsd.edu>
+Date: Mon, 4 Oct 1999 01:24:53 GMT   (14kb)
+Date (revised v2): Tue, 19 Oct 1999 00:35:30 GMT   (14kb)
+Date (revised v3): Sat, 29 Jan 2000 02:22:31 GMT   (14kb)
+
+Title: Conformal Invariance for Non-Relativistic Field Theory
+Authors: Thomas Mehen, Iain W. Stewart, Mark B. Wise
+Comments: 12 pages, journal version, additional clarifying remarks added
+Report-no: CALT-68-2242, UCSD/PTH 99-14
+Journal-ref: Phys.Lett. B474 (2000) 145-152
+\\
+  Momentum space Ward identities are derived for the amputated n-point Green's
+functions in 3+1 dimensional non-relativistic conformal field theory. For n=4
+and 6 the implications for scattering amplitudes (i.e. on-shell amputated
+Green's functions) are considered. Any scale invariant 2-to-2 scattering
+amplitude is also conformally invariant. However, conformal invariance imposes
+constraints on off-shell Green's functions and the three particle scattering
+amplitude which are not automatically satisfied if they are scale invariant. As
+an explicit example of a conformally invariant theory we consider
+non-relativistic particles in the infinite scattering length limit.
+\\

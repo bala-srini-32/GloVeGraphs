@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9602130
+From: Matsuyama Toyoki <matsuyat@nara-edu.ac.jp>
+Date: Fri, 23 Feb 1996 11:06:05 +0900   (9kb)
+
+Title: The Ladder Approximation in QED_2
+Authors: C. D. Fosco, T. Matsuyama
+Comments: 13 pages
+Journal-ref: Phys. Lett. B329 (1994) 233
+\\
+  We study the Schwinger-Dyson equation for the fermion self-energy in massless
+and massive $QED_2$, in the ladder approximation. When the fermion is massless
+(and the photon massless or massive), we check the reliability of this
+approximation by comparing its solutions with the exact ones. They agree only
+when the photon is massless. For a massive fermion and massless photon, we show
+that there is no consistent solution at all, the infrared divergences
+introduced by the approximation forbidding even the trivial solution. When both
+fermion and photon are massive, we find a non-perturbative (extra) fermion mass
+generation (which survives in the limit when the bare mass of the fermion tends
+to zero). We argue that, in this case, the ladder approximation will provide
+reliable results if the bare masses of the fields are large compared with the
+(dimensionful) coupling constant.
+\\

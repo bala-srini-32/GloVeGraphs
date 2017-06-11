@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0004196
+From: Marcos Marino <marcosm@physics.rutgers.edu>
+Date: Thu, 27 Apr 2000 17:07:38 GMT   (27kb)
+Date (revised v2): Mon, 12 Jun 2000 17:48:49 GMT   (27kb)
+Date (revised v3): Fri, 30 Jun 2000 17:50:09 GMT   (27kb)
+
+Title: Polynomial invariants for torus knots and topological strings
+Authors: J.M.F. Labastida and M. Marino
+Comments: 34 pages, harvmac. Some equations in the appendix corrected, a small
+  change in the definition of the connected vev
+Report-no: US-FT-7/00, RUNHETC-2000-14
+Subj-class: High Energy Physics - Theory; Geometric Topology
+Journal-ref: Commun.Math.Phys. 217 (2001) 423-449
+\\
+  We make a precision test of a recently proposed conjecture relating
+Chern-Simons gauge theory to topological string theory on the resolution of the
+conifold. First, we develop a systematic procedure to extract string amplitudes
+from vacuum expectation values (vevs) of Wilson loops in Chern-Simons gauge
+theory, and then we evaluate these vevs in arbitrary irreducible
+representations of SU(N) for torus knots. We find complete agreement with the
+predictions derived from the target space interpretation of the string
+amplitudes. We also show that the structure of the free energy of topological
+open string theory gives further constraints on the Chern-Simons vevs. Our work
+provides strong evidence towards an interpretation of knot polynomial
+invariants as generating functions associated to enumerative problems.
+\\

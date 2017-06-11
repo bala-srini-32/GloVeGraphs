@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9602121
+From: Torma Tibor <kakukk@phast.umass.edu>
+Date: Wed, 21 Feb 1996 22:51:15 -0500   (23kb)
+
+Title: On the power counting of loop diagrams in general relativity
+Authors: J. F. Donoghue, T. Torma (University of Massachusetts)
+Comments: 29 pages, uses axodraw and epsfig.tex, one small .eps file is
+  included. The full PostScript version is also available as
+  http://het.phast.umass.edu/students/kakukk/powercount_hepth.ps
+Report-no: UMHEP-426
+Journal-ref: Phys.Rev. D54 (1996) 4963-4972
+\\
+  A class of loop diagrams in general relativity appears to have a behavior
+which would upset the utility of the energy expansion for quantum effects. We
+show through the study of specific diagrams that cancellations occur which
+restore the expected behaviour of the energy expansion. By considering the
+power counting in a physical gauge we show that the apparent bad behavior is a
+gauge artifact, and that the quantum loops enter with a well behaved energy
+expansion.
+\\

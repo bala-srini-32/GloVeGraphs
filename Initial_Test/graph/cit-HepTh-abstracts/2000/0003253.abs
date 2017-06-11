@@ -1,0 +1,35 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0003253
+From: A. W. Schreiber <aschreiber@physics.adelaide.edu.au>
+Date: Tue, 28 Mar 2000 05:13:46 GMT   (22kb)
+Date (revised v2): Wed, 5 Jul 2000 03:12:50 GMT   (29kb)
+
+Title: Non-Perturbative Mass Renormalization in Quenched QED from the Worldline
+  Variational Approach
+Authors: C. Alexandrou (University of Cyprus), R. Rosenfelder (Paul Scherrer
+  Institute, Switzerland) and A. W. Schreiber (University of Adelaide)
+Comments: 18 pages, 1 Figure, RevTeX; the manuscript has been substantially
+  revised and enlarged in order to make it selfcontained; accepted for
+  publication in Phys. Rev. D
+Report-no: ADP-00-14/T398, PSI-PR-00-05, UCY-PHY-00/01
+Journal-ref: Phys.Rev. D62 (2000) 085009
+\\
+  Following Feynman's successful treatment of the polaron problem we apply the
+same variational principle to quenched QED in the worldline formulation. New
+features arise from the description of fermions by Grassmann trajectories, the
+supersymmetry between bosonic and fermionic variables and the much more
+singular structure of a renormalizable gauge theory like QED in 3+1 dimensions.
+We take as trial action a general retarded quadratic action both for the
+bosonic and fermionic degrees of freedom and derive the variational equations
+for the corresponding retardation functions. We find a simple analytic,
+non-perturbative, solution for the anomalous mass dimension gamma_m(alpha) in
+the MS scheme. For small couplings we compare our result with recent four-loop
+perturbative calculations while at large couplings we find that gamma_m(alpha)
+becomes proportional to (alpha)^(1/2). The anomalous mass dimension shows no
+obvious sign of the chiral symmetry breaking observed in calculations based on
+the use of Dyson-Schwinger equations, however we find that a perturbative
+expansion of gamma_m(alpha) diverges for alpha > 0.7934. Finally, we
+investigate the behaviour of gamma_m(alpha) at large orders in perturbation
+theory.
+\\

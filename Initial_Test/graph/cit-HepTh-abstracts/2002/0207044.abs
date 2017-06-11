@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0207044
+From: Mario Salizzoni <sali@sissa.it>
+Date: Fri, 5 Jul 2002 12:10:04 GMT   (15kb)
+Date (revised v2): Thu, 11 Jul 2002 17:20:32 GMT   (15kb)
+Date (revised v3): Fri, 17 Jan 2003 17:53:37 GMT   (19kb)
+
+Title: Vacuum String Field Theory ancestors of the GMS solitons
+Authors: L.Bonora, D.Mamone, M.Salizzoni
+Comments: 1+16 pages; v2: typos corrected; v3: two appendices added, final
+  version
+Report-no: SISSA/50/02/EP
+Journal-ref: JHEP 0301 (2003) 013
+\\
+  We define a sequence of VSFT D-branes whose low energy limit leads exactly to
+a corresponding sequence of GMS solitons. The D-branes are defined by acting on
+a fixed VSFT lump with operators defined by means of Laguerre polynomials whose
+argument is quadratic in the string creation operators. The states obtained in
+this way form an algebra under the SFT star product, which is isomorphic to a
+corresponding algebra of GMS solitons under the Moyal product. In order to
+obtain a regularized field theory limit we embed the theory in a constant
+background B field.
+\\

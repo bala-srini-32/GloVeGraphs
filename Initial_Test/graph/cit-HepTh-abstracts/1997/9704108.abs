@@ -1,0 +1,36 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9704108
+From: Johanna Erdmenger <erd@tph203.physik.uni-leipzig.de>
+Date: Mon, 14 Apr 1997 14:45:01 +0200 (MESZ)   (26kb)
+Date (revised): Wed, 2 Jul 1997 10:33:16 +0200 (MESZ)
+
+Title: Conformally Covariant Differential Operators: Properties and
+  Applications
+Author: J. Erdmenger
+Comments: 31 pages, LaTex, no figures. Note and references added, to appear in
+  Classical and Quantum Gravity
+Report-no: DAMTP/96-108
+Journal-ref: Class.Quant.Grav. 14 (1997) 2061-2084
+\\
+  We discuss conformally covariant differential operators, which under local
+rescalings of the metric, \delta_\sigma g^{\mu\nu} = 2 \sigma g^{\mu\nu},
+transform according to \delta_\sigma \Delta = r \Delta \sigma + (s-r) \sigma
+\Delta for some r if \Delta is s-th order. It is shown that the flat space
+restrictions of their associated Green functions have forms which are strongly
+constrained by flat space conformal invariance. The same applies to the
+variation of the Green functions with respect to the metric. The general
+results are illustrated by finding the flat space Green function and also its
+first variation for previously found second order conformal differential
+operators acting on $k$-forms in general dimensions. Furthermore we construct a
+new second order conformally covariant operator acting on rank four tensors
+with the symmetries of the Weyl tensor whose Green function is similarly
+discussed. We also consider fourth order operators, in particular a fourth
+order operator acting on scalars in arbitrary dimension, which has a Green
+function with the expected properties.
+  The results obtained here for conformally covariant differential operators
+are generalisations of standard results for the two dimensional Laplacian on
+curved space and its associated Green function which is used in the Polyakov
+effective gravitational action. It is hoped that they may have similar
+applications in higher dimensions.
+\\

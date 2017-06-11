@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9612037
+From: "A.N.Kuznetsov" <kuznet@ms2.inr.ac.ru>
+Date: Tue, 3 Dec 1996 19:39:20 +0300 (MSK)   (114kb)
+
+Title: Techniques of Distributions in Perturbative Quantum Field Theory (I)
+  Euclidean asymptotic operation for products of singular functions
+Authors: A.N.Kuznetsov, F.V.Tkachov, V.V.Vlasov
+Comments: 87 pages, Latex-2.09
+Report-no: PSU-TH-108/92
+\\
+  We present a systematic description of the mathematical techniques for
+studying multiloop Feynman diagrams which constitutes a full-fledged and
+inherently more powerful alternative to the BPHZ theory. The new techniques
+emerged as a formalization of the reasoning behind a recent series of record
+multiloop calculations in perturbative quantum field theory. It is based on a
+systematic use of the ideas and notions of the distribution theory. We identify
+the problem of asymptotic expansion of products of singular functions in the
+sense of distributions as a key problem of the theory of asymptotic expansions
+of multiloop Feynman diagrams. Its complete solution for the case of Euclidean
+Feynman diagrams (the so-called Euclidean asymptotic operation for products of
+singular functions) is explicitly constructed and studied.
+\\

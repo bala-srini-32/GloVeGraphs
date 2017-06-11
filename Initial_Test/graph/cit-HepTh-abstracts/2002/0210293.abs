@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0210293
+From: Dmitri Antonov <antonov@df.unipi.it>
+Date: Wed, 30 Oct 2002 17:16:55 GMT   (9kb)
+
+Title: Finite-temperature properties of the supersymmetric generalization of 3D
+  compact QED
+Author: Dmitri Antonov (INFN, Pisa and Pisa University)
+Comments: 8 pages, LaTeX2e, no figures
+Report-no: IFUP-TH 2002/41
+\\
+  The finite-temperature properties of supersymmetric version of (2+1)D compact
+QED are explored. Integration over the dual photino yields an action of the
+dual photon in the form of a certain series. Only the first term of this series
+is of the potential form, while all the others are some unimportant corrections
+to the kinetic term. Disregarding these, we arrive at the action where besides
+the purely bosonic sector with monopoles of charge 2, monopoles of charge 1 and
+3 are also present yielding certain corrections to the Debye mass of the dual
+photon. The finite-temperature analysis of this action is performed, and the RG
+trajectories of all the fugacities are found in the vicinity of the
+Berezinsky-Kosterlitz-Thouless critical point. It is found that in this
+critical region, the fugacities of monopoles of charge n=1,2,3 are scaled as
+the correlation radius to the power $-2n^2$.
+\\

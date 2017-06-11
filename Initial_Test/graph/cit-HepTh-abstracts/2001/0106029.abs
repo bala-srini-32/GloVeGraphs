@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0106029
+From: Pfeiffer, Hendryk <h.pfeiffer@damtp.cam.ac.uk>
+Date: Mon, 4 Jun 2001 15:22:25 GMT   (85kb)
+Date (revised v2): Thu, 6 Sep 2001 09:59:01 GMT   (85kb)
+
+Title: Four-dimensional Lattice Gauge Theory with ribbon categories and the
+  Crane-Yetter state sum
+Authors: Hendryk Pfeiffer (Cambridge)
+Comments: 41 pages, LaTeX, postscript/PiCTeX figures; v2:typos corrected
+Report-no: DAMTP-2001-37
+Journal-ref: J.Math.Phys. 42 (2001) 5272-5305
+\\
+  Lattice Gauge Theory in 4-dimensional Euclidean space-time is generalized to
+ribbon categories which replace the category of representations of the gauge
+group. This provides a framework in which the gauge group becomes a quantum
+group while space-time is still given by the `classical' lattice. At the
+technical level, this construction generalizes the Spin Foam Model dual to
+Lattice Gauge Theory and defines the partition function for a given
+triangulation of a closed and oriented piecewise-linear 4-manifold. This
+definition encompasses both the standard formulation of d=4 pure Yang-Mills
+theory on a lattice and the Crane-Yetter invariant of 4-manifolds. The
+construction also implies that a certain class of Spin Foam Models formulated
+using ribbon categories are well-defined even if they do not correspond to a
+Topological Quantum Field Theory.
+\\

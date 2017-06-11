@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9703017
+From: Tobias Hurth <hurth@insti.physics.sunysb.edu>
+Date: Mon, 3 Mar 1997 04:53:09 -0500 (EST)   (9kb)
+
+Title: Polynomial Form of the Stueckelberg Model
+Authors: Norbert Dragon (Hannover U.), Tobias Hurth and Peter van Nieuwenhuizen
+  (SUNY at Stony Brook)
+Comments: 8 pages, latex, to appear in the Proceedings of the 30th
+  International Symposium Ahrenshoop on the Theory of Elementary Particles,
+  Nuclear Physics B, Proceedings Supplement
+Report-no: ITP-UH-4/97, ITP-SB-97-13
+Journal-ref: Nucl.Phys.Proc.Suppl. 56B (1997) 318-321
+\\
+  The Stueckelberg model for massive vector fields is cast into a BRS
+invariant, polynomial form. Its symmetry algebra simplifies to an abelian gauge
+symmetry which is sufficient to decouple the negative norm states. The
+propagators fall off like $1/k^2$ and the Lagrangean is polynomial but it is
+not powercounting renormalizable due to derivative couplings.
+\\

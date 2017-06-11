@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9912215
+From: Kodama Hiroaki <h-kodama@hep.s.kanazawa-u.ac.jp>
+Date: Wed, 22 Dec 1999 11:05:12 GMT   (86kb)
+Date (revised v2): Thu, 23 Dec 1999 02:33:33 GMT   (86kb)
+
+Title: Application of Non-Perturbative Renormalization Group to
+  Nambu-Jona-Lasinio/Gross-Neveu model at Finite Temperature and Chemical
+  Potential
+Authors: Hiroaki Kodama (Kanazawa U.), Jun-Ichi Sumi (Kyoto U., FIHS)
+Comments: 21 pages, 10 epsf figures, to be published in Progress of Theoretical
+  Physics
+Report-no: KANAZAWA-99-24, KUCP-0142, October, 1999
+Journal-ref: Prog.Theor.Phys. 103 (2000) 393
+\\
+  The chiral phase structure of the Nambu-Jona-Lasinio/Gross-Neveu model at
+finite temperature T and finite chemical potential \mu is investigated using
+(Wilsonian) Non-Perturbative Renormalization Group (NPRG). In the large N_c
+limit, the solutions of NPRG with various cutoff schemes are shown. For a
+sufficiently large ultra-violet cutoff, NPRG results coincide with those of
+Schwinger-Dyson equation and have little cutoff scheme dependence. Next, to
+improve the approximation, we incorporate the mesonic fluctuations. We
+introduce the auxiliary fields for mesons, and then derive NPRG equation for
+finite N_c. The chiral phase structure on (T,\mu) plane beyond the leading of
+1/N_c expansion is investigated in the sharp cutoff limit. N_c dependence of
+chiral phase diagram is obtained.
+\\

@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9508080
+From: Wai Ming Koo <wkoo@enterprise.snu.ac.kr>
+Date: Thu, 17 Aug 1995 15:59:17 +0900 (KST)   (22kb)
+Date (revised): Wed, 20 Mar 1996 16:44:11 +0900 (KST)
+
+Title: Boundary Yang-Baxter equation in the RSOS/SOS representation
+Authors: C. Ahn, W.M.Koo
+Comments: 30 pages, 5 figures, uses Latex with eepic.sty and epic.sty. Paper
+  substantially expanded; section on SOS model is revised and a new section on
+  the Bethe ansatz equation is added
+Report-no: SNUTP-95-080, EWHA-TH-006
+\\
+  We construct and solve the boundary Yang-Baxter equation in the RSOS/SOS
+representation. We find two classes of trigonometric solutions; diagonal and
+non-diagonal. As a lattice model, these two classes of solutions correspond to
+RSOS/SOS models with fixed and free boundary spins respectively. Applied to
+(1+1)-dimenional quantum field theory, these solutions give the boundary
+scattering amplitudes of the particles. For the diagonal solution, we propose
+an algebraic Bethe ansatz method to diagonalize the SOS-type transfer matrix
+with boundary and obtain the Bethe ansatz equations.
+\\

@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9911022
+From: ENNES@brandeis.edu
+Date: Thu, 4 Nov 1999 02:33:31 GMT   (60kb)
+Date (revised v2): Tue, 16 Nov 1999 22:16:56 GMT   (60kb)
+
+Title: Tests of M-Theory from N=2 Seiberg-Witten Theory
+Authors: I.P. Ennes, S.G. Naculich, H. Rhedin, H.J. Schnitzer
+Comments: Latex, 51 pages, 5 postscript figures, uses psfig.tex. Based on
+  lectures by H.J. Schnitzer at the Advanced School on Supersymmetry in the
+  Theories of Fields, Strings and Branes, University of Santiago de Compostela,
+  Spain, July 1999. Revised Version. Typos corrected and references added
+Report-no: BRX-TH-463, BOW-PH-115
+\\
+  Methods are reviewed for computing the instanton expansion of the
+prepotential for N=2 Seiberg-Witten (SW) theory with non-hyperelliptic curves.
+These results, if compared with the instanton expansion obtained from the
+microscopic Lagrangian, will provide detailed tests of M-theory. We observe
+group-theoretic regularities of the one-instanton prepotential which allow us
+to "reverse engineer" a SW curve for SU(N) gauge theory with two
+hypermultiplets in the antisymmetric representation and $N_f\leq 3$
+hypermultiplets in the fundamental representations, a result not yet available
+by other methods. Consistency with M-theory requires a curve of infinite order,
+which we identify as a decompactified version of elliptic models of the type
+described by Donagi and Witten, Uranga, and others. This leads us to a brief
+discussion of some elliptic models that relate to our work.
+\\

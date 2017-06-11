@@ -1,0 +1,33 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0112158
+From: "Mikhail Plyushchay" <mplyushc@lauca.usach.cl>
+Date: Tue, 18 Dec 2001 17:17:42 GMT   (18kb)
+Date (revised v2): Thu, 20 Dec 2001 23:08:55 GMT   (18kb)
+Date (revised v3): Fri, 15 Feb 2002 23:04:48 GMT   (18kb)
+
+Title: Nonlinear holomorphic supersymmetry, Dolan-Grady relations and Onsager
+  algebra
+Authors: Sergey M. Klishevich and Mikhail S. Plyushchay
+Comments: 18 pages, refs updated; to appear in Nucl. Phys. B
+Report-no: USACH-FM-01-11
+Subj-class: High Energy Physics - Theory; Mathematical Physics; Exactly
+  Solvable and Integrable Systems; Dynamical Systems
+Journal-ref: Nucl.Phys. B628 (2002) 217-233
+\\
+  Recently, it was noticed by us that the nonlinear holomorphic supersymmetry
+of order $n\in\N, n>1$, ($n$-HSUSY) has an algebraic origin. We show that the
+Onsager algebra underlies $n$-HSUSY and investigate the structure of the former
+in the context of the latter. A new infinite set of mutually commuting charges
+is found which, unlike those from the Dolan-Grady set, include the terms
+quadratic in the Onsager algebra generators. This allows us to find the general
+form of the superalgebra of $n$-HSUSY and fix it explicitly for the cases of
+$n=2,3,4,5,6$. The similar results are obtained for a new, contracted form of
+the Onsager algebra generated via the contracted Dolan-Grady relations. As an
+application, the algebraic structure of the known 1D and 2D systems with
+$n$-HSUSY is clarified and a generalization of the construction to the case of
+nonlinear pseudo-supersymmetry is proposed. Such a generalization is discussed
+in application to some integrable spin models and with its help we obtain a
+family of quasi-exactly solvable systems appearing in the $PT$-symmetric
+quantum mechanics.
+\\

@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9907072
+From: Chanju Kim <cjkim@ns.kias.re.kr>
+Date: Sat, 10 Jul 1999 12:55:48 GMT   (22kb)
+Date (revised v2): Mon, 27 Sep 1999 13:47:04 GMT   (22kb)
+Date (revised v3): Mon, 29 Nov 1999 18:38:40 GMT   (23kb)
+Date (revised v4): Tue, 30 Nov 1999 05:18:29 GMT   (23kb)
+
+Title: Reflection Amplitudes of ADE Toda Theories and Thermodynamic Bethe
+  Ansatz
+Authors: Changrim Ahn, V. A. Fateev, Chanju Kim, Chaiho Rim, Bedl Yang
+Comments: 20 pages, 2 ps figures, LaTeX 2e. We added the last section,
+  "Concluding Remarks", in which the new result for the one point function <
+  \exp a\cdot\phi > in ADE affine Toda theories is given explicitly. Version to
+  appear in Nucl. Phys. B
+Report-no: APCTP-1999012, KIAS-P99055
+Journal-ref: Nucl.Phys. B565 (2000) 611-628
+\\
+  We study the ultraviolet asymptotics in affine Toda theories. These models
+are considered as perturbed non-affine Toda theories. We calculate the
+reflection amplitudes, which relate different exponential fields with the same
+quantum numbers. Using these amplitudes we derive the quantization condition
+for the vacuum wave function, describing zero-mode dynamics, and calculate the
+UV asymptotics of the effective central charge. These asymptotics are in a good
+agreement with thermodynamic Bethe ansatz results.
+\\

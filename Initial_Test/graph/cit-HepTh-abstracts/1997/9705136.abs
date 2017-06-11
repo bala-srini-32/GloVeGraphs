@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9705136
+From: William Brown <w.brown1@physics.oxford.ac.uk>
+Date: Mon, 19 May 1997 16:44:22 +0100 (BST)   (38kb)
+Date (revised): Tue, 20 May 1997 12:33:58 +0100 (BST)
+
+Title: A variational approach to the QCD wavefunctional: Calculation of the QCD
+  beta-function
+Authors: William E. Brown and Ian I. Kogan
+Comments: 23 pages, LaTex, 2 figs
+Report-no: OUTP97-P-21
+Journal-ref: Int.J.Mod.Phys. A14 (1999) 799
+\\
+  The beta-function is calculated for an SU(N) Yang-Mills theory from an ansatz
+for the vacuum wavefunctional. Direct comparison is made with the results of
+calculations of the beta-function of QCD. In both cases the theories are
+asymptotically free. The only difference being in the numerical coefficient of
+the beta-function, which is found to be -4 from the ansatz and -4+1/3 from
+other QCD calculations. This is because, due to the constraint of Gauss' law
+applied to the wavefunctional, transverse gluons (which contribute the 1/3) are
+omitted. The renormalisation procedure is understood in terms of `tadpole' and
+`horse-shoe' Feynman diagrams which must be interpreted with a non-local
+propagator.
+\\

@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9812209
+From: Tamas Hauer <hauer@mit.edu>
+Date: Tue, 22 Dec 1998 18:00:14 GMT   (64kb)
+Date (revised v2): Fri, 6 Aug 1999 23:54:00 GMT   (64kb)
+
+Title: Uncovering Infinite Symmetries on [p,q] 7-branes: Kac-Moody Algebras and
+  Beyond
+Authors: Oliver DeWolfe, Tamas Hauer, Amer Iqbal and Barton Zwiebach
+Comments: 44 pages, LaTeX, 9 eps figures, minor typos corrected
+Report-no: MIT-CTP-2808
+Journal-ref: Adv.Theor.Math.Phys. 3 (1999) 1835-1891
+\\
+  In a previous paper we explored how conjugacy classes of the modular group
+classify the symmetry algebras that arise on type IIB [p,q] 7-branes. The
+Kodaira list of finite Lie algebras completely fills the elliptic classes as
+well as some parabolic classes. Loop algebras of E_N fill additional parabolic
+classes, and exotic finite algebras, hyperbolic extensions of E_N and more
+general indefinite Lie algebras fill the hyperbolic classes. Since they
+correspond to brane configurations that cannot be made into strict
+singularities, these non-Kodaira algebras are spectrum generating and organize
+towers of massive BPS states into representations. The smallest brane
+configuration with unit monodromy gives rise to the loop algebra \hat{E}_9
+which plays a central role in the theory. We elucidate the patterns of
+enhancement relating E_8, E_9, \hat{E}_9 and E_10. We examine configurations of
+24 7-branes relevant to type IIB compactifications on a two-sphere, or F-theory
+on K3. A particularly symmetric configuration separates the 7-branes into two
+groups of twelve branes and the massive BPS spectrum is organized by E_10 +
+E_10.
+\\

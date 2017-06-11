@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0110216
+From: Tetsuji Kimura <t-kimura@het.phys.sci.osaka-u.ac.jp>
+Date: Wed, 24 Oct 2001 06:14:31 GMT   (21kb)
+Date (revised v2): Mon, 17 Dec 2001 06:27:58 GMT   (21kb)
+
+Title: Gauge Theoretical Construction of Non-compact Calabi-Yau Manifolds
+Authors: Kiyoshi Higashijima, Tetsuji Kimura (Osaka Univ.) and Muneto Nitta
+  (Purdue Univ.)
+Comments: LaTeX2e, 27 pages, no figures, typos corrected
+Report-no: OU-HET 395, PURD-TH-01-04
+Subj-class: High Energy Physics - Theory; Mathematical Physics
+Journal-ref: Annals Phys. 296 (2002) 347-370
+\\
+  We construct the non-compact Calabi-Yau manifolds interpreted as the complex
+line bundles over the Hermitian symmetric spaces. These manifolds are the
+various generalizations of the complex line bundle over CP^{N-1}. Imposing an
+F-term constraint on the line bundle over CP^{N-1}, we obtain the line bundle
+over the complex quadric surface Q^{N-2}. On the other hand, when we promote
+the U(1) gauge symmetry in CP^{N-1} to the non-abelian gauge group U(M), the
+line bundle over the Grassmann manifold is obtained. We construct the
+non-compact Calabi-Yau manifolds with isometries of exceptional groups, which
+we have not discussed in the previous papers. Each of these manifolds contains
+the resolution parameter which controls the size of the base manifold, and the
+conical singularity appears when the parameter vanishes.
+\\

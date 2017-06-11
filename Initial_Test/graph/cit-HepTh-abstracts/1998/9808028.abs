@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9808028
+From: Kurt Haller <khaller@uconnvm.uconn.edu>
+Date: Wed, 5 Aug 1998 18:36:58 GMT   (9kb)
+Date (revised v2): Mon, 26 Jul 1999 17:46:45 GMT   (10kb)
+
+Title: Gauge-Invariant QCD - an Approach to Long-Range Color-Confining Forces
+Authors: Kurt Haller
+Comments: 8 pages. Talk delivered at the Fourth International Workshop on QCD
+  and Hadronic Physics, Paris, France, June 1 - 7, 1998. A numerical error is
+  corrected
+\\
+  We discuss the transformation of the QCD temporal-gauge Hamiltonian to a
+representation in which it can be expressed as a functional of gauge-invariant
+quark and gluon fields. We show how this objective can be realized by
+implementing the non-Abelian Gauss's law, and by using the mathematical
+apparatus developed for that purpose to also construct gauge-invariant quark
+and gluon fields. We demonstrate that, in the transformed QCD Hamiltonian, the
+interactions of pure-gauge components of the gauge field with color-current
+densities are replaced by nonlocal interactions connecting quark color-charge
+densities to each other and to `glue'-color. We discuss the nonperturbative
+evaluation of these nonlocal interactions, which are non-Abelian analogs of the
+Coulomb interaction in QED, and we explore their implications for QCD in the
+low-energy regime.
+\\

@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9706068
+From: Wen-feng Chen <wfchen@rock.helsinki.fi>
+Date: Tue, 10 Jun 1997 17:49:47 +0300 (EET DST)   (13kb)
+Date (revised): Sun, 22 Jun 1997 18:55:21 +0300 (EET DST)
+Date (revised): Tue, 1 Jul 1997 20:42:59 +0300 (EET DST)
+
+Title: On Quantum Corrections to Chern-Simons Spinor Electrodynamics
+Authors: M. Chaichian, W.F. Chen and V. Ya. Fainberg
+Comments: 16 pages, RevTex, no figures, A few typewritten errors have been
+  corrected
+Report-no: HIP-TH-97/01
+Journal-ref: Eur.Phys.J. C5 (1998) 545-552
+\\
+  We make a detailed investigation on the quantum corrections to Chern-Simons
+spinor electrodynamics. Starting from Chern-Simons spinor quantum
+electrodynamics with the Maxwell term $-1/(4\gamma){\int}d^3x
+F_{\mu\nu}F^{\mu\nu}$ and by calculating the vacuum polarization tensor,
+electron self-energy and on-shell vertex, we explicitly show that the Ward
+identity is satisfied and hence verify that the physical quantities are
+independent of the procedure of taking ${\gamma}{\to}{\infty}$ at one-loop and
+tree levels. In particular, we find the three-dimensional analogue of the
+Schwinger anomalous magnetic moment term of the electron produced from the
+quantum corrections.
+\\

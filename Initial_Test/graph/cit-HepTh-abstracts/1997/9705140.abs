@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9705140
+From: Takehisa Fujita <fffujita@phys.cst.nihon-u.ac.jp>
+Date: Tue, 20 May 1997 17:24:30 +0900   (15kb)
+Date (revised): Wed, 4 Nov 1998 11:00:24 GMT
+
+Title: Violation of S-matrix factorization in massive Thirring model
+Authors: Takehisa Fujita and Makoto Hiramoto
+Comments: 28 pages, Latex, 3 figures, Phys. Rev. D58 in press
+\\
+  We present a counter example which shows the violation of the S-matrix
+factorization in the massive Thirring model. This is done by solving the PBC
+equations of the massive Thirring model exactly but numerically.
+  The violation of the S-matrix factorization is related to the fact that the
+crossing symmetry and the factorization do not commute with each other. This
+confirms that the soliton antisoliton S-matrix factorization picture of the
+sine-Gordon model is semiclassical and does not lead to a full quantization
+procedure of the massive Thirring model.
+\\

@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9703189
+From: matthias@nxth04.cern.ch
+Date: Wed, 26 Mar 97 16:25:47 +0100   (30kb)
+
+Title: Complex Matrix Models and Statistics of Branched Coverings of 2D
+  Surfaces
+Authors: Ivan K. Kostov, Matthias Staudacher and Thomas Wynter
+Comments: 21 pages, 2 figures, TeX, harvmac.tex, epsf.tex, TeX "big"
+Report-no: SPhT-97/022, CERN-TH/97-53
+Journal-ref: Commun.Math.Phys. 191 (1998) 283-298
+\\
+  We present a complex matrix gauge model defined on an arbitrary
+two-dimensional orientable lattice. We rewrite the model's partition function
+in terms of a sum over representations of the group U(N). The model solves the
+general combinatorial problem of counting branched covers of orientable Riemann
+surfaces with any given, fixed branch point structure. We then define an
+appropriate continuum limit allowing the branch points to freely float over the
+surface. The simplest such limit reproduces two-dimensional chiral U(N)
+Yang-Mills theory and its string description due to Gross and Taylor.
+\\

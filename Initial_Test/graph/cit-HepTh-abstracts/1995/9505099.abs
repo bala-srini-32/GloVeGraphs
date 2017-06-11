@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9505099
+From: r.mohayaee@ic.ac.uk
+Date: Tue, 16 May 95 18:31:13 bst   (21kb)
+Date (revised): Wed, 06 Sep 1995 17:46:51 +0100
+
+Title: Higher-loop anomalies in chiral gravities
+Authors: R. Mohayaee and L. Wenham
+Comments: 21 pages, latex, 12 figures as uuencoded postscript. To appear in
+  Nucl. Phys. B
+Report-no: Imperial/TP/94-95/33
+Journal-ref: Nucl. Phys. B454 (1995) 207
+\\
+  The one-loop anomalies for chiral $W_{3}$ gravity are derived using the
+Fujikawa regularisation method. The expected two-loop anomalies are then
+obtained by imposing the Wess-Zumino consistency conditions on the one-loop
+results. The anomalies found in this way agree with those already known from
+explicit Feynman diagram calculations. We then directly verify that the order
+$\hbar^2$ non-local BRST Ward identity anomalies, arising from the ``dressing''
+of the one-loop results, satisfy Lam's theorem. It is also shown that in a
+rigorous calculation of $Q^2$ anomaly for the BRST charge, one recovers both
+the non-local as well as the local anomalies. We further verify that, in chiral
+gravities, the non-local anomalies in the BRST Ward identity can be obtained by
+the application of the anomalous operator $Q^2$, calculated using operator
+products, to an appropriately defined gauge fermion. Finally, we give arguments
+to show why this relation should hold generally in reparametrisation-invariant
+theories.
+\\

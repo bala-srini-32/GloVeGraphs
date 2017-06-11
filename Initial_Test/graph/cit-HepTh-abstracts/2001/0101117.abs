@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0101117
+From: Amit Ghosh <amit.ghosh@cern.ch>
+Date: Wed, 17 Jan 2001 21:58:02 GMT   (14kb)
+
+Title: Black hole entropy calculations based on symmetries
+Authors: Olaf Dreyer, Amit Ghosh and Jacek Wisniewski
+Comments: 14 pages, Latex, CGPG-01/1-1
+Journal-ref: Class.Quant.Grav. 18 (2001) 1929-1938
+\\
+  Symmetry based approaches to the black hole entropy problem have a number of
+attractive features; in particular they are very general and do not depend on
+the details of the quantization method. However we point out that, of the two
+available approaches, one faces conceptual problems (also emphasized by
+others), while the second contains certain technical flaws. We correct these
+errors and, within the new, improved scheme, calculate the entropy of
+3-dimensional black holes. We find that, while the new symmetry vector fields
+are well-defined on the ``stretched horizon,'' and lead to well-defined
+Hamiltonians satisfying the expected Lie algebra, they fail to admit a
+well-defined limit to the horizon. This suggests that, although the formal
+calculation can be carried out at the classical level, its real, conceptual
+origin probably lies in the quantum theory.
+\\

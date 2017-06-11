@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9701145
+From: Marco Billo <billo@alf.nbi.dk>
+Date: Mon, 27 Jan 1997 17:13:01 +0100 (MET)   (19kb)
+
+Title: Analytic results in 2+1-dimensional Finite Temperature LGT
+Authors: M. Billo', M. Caselle and A. D'Adda
+Comments: 15 pages, Latex, 2 figures included with epsf
+Report-no: DFTT 6/97, NORDITA 97/5P
+Journal-ref: Int.J.Mod.Phys. A12 (1997) 5753-5766
+\\
+  In a 2+1-dimensional pure LGT at finite temperature the critical coupling for
+the deconfinement transition scales as $\beta_c(n_t) = J_c n_t + a_1$, where
+$n_t$ is the number of links in the ``time-like'' direction of the symmetric
+lattice. We study the effective action for the Polyakov loop obtained by
+neglecting the space-like plaquettes, and we are able to compute analytically
+in this context the coefficient $a_1$ for any SU(N) gauge group; the value of
+$J_c$ is instead obtained from the effective action by means of (improved) mean
+field techniques. Both coefficients have already been calculated in the large N
+limit in a previous paper. The results are in very good agreement with the
+existing Monte Carlo simulations. This fact supports the conjecture that, in
+the 2+1-dimensional theory, space-like plaquettes have little influence on the
+dynamics of the Polyakov loops in the deconfined phase.
+\\

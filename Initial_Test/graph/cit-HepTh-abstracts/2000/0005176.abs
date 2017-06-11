@@ -1,0 +1,33 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0005176
+From: Yong Zhang <zhangyo@itp.ac.cn>
+Date: Fri, 19 May 2000 08:54:03 GMT   (14kb)
+Date (revised v2): Mon, 29 May 2000 01:45:55 GMT   (14kb)
+Date (revised v3): Thu, 24 Aug 2000 12:01:27 GMT   (16kb)
+
+Title: A Note on the Path Integral Representation of the Boundary State of
+  D-brane
+Authors: Yong Zhang (Institute of Theoretical Physics, Academia Sinica)
+Comments: 21 pages, no figure,Latex. v2:minor modification, references added.
+  v3: 23 pages, AMSLaTeX using JHEP.cls, v3 is one part of my Master thesis
+Journal-ref: Phys.Rev. D63 (2001) 106002
+\\
+  In this paper we construct path integral representations of the boundary
+states in some special backgrounds such as the U(1) gauge field background, the
+linear dilaton background and the open string tachyon background. The initial
+purpose of this paper is to construct a general solution of the boundary
+conformal field theory with the analytical approach, mainly for the constraint
+equations$(L_{n}-\tilde{L}_{-n}) |B > =0 $ are difficult to be solved to obtain
+the solution represented by string modes from the pure algebraic approach.
+However in the path integral representation it is easy transforming those
+algebraic equations into the differential equations which can be solved.
+Another purpose of this paper is to try to explore an open question. we do not
+know how to construct an exact theory of D-branes in the general background
+until now. However many recent researches show the boundary state description
+indeed seizes some fundamental features of D-branes in the rather special
+backgrounds. Since the general background field effects can be easily
+introduced in the path integral representation, we argue that path integral
+representation of the boundary state should provide an exact description of D
+branes in the general backgrounds.
+\\

@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0207154
+From: Stefano Arnone <sa@hep.phys.soton.ac.uk>
+Date: Tue, 16 Jul 2002 17:31:01 GMT   (31kb)
+
+Title: Manifestly gauge invariant computations
+Authors: Stefano Arnone, Antonio Gatti and Tim R. Morris
+Comments: 8 pages, 11 figures, talk presented at the fifth international
+  Conference "RG2002", Strba, Slovakia
+Report-no: SHEP 02-12
+\\
+  Using a gauge invariant exact renormalization group, we show how to compute
+the effective action, and extract the physics, whilst manifestly preserving
+gauge invariance at each and every step. As an example we give an elegant
+computation of the one-loop SU(N) Yang-Mills beta function, for the first time
+at finite N without any gauge fixing or ghosts. It is also completely
+independent of the details put in by hand, e.g. the choice of covariantisation
+and the cutoff profile, and, therefore, guides us to a procedure for
+streamlined calculations.
+\\

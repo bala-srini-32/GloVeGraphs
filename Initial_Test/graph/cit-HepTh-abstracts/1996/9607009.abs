@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9607009
+From: Nir Sochen <sochen@asterix.lbl.gov>
+Date: Mon, 1 Jul 96 14:23:05 -0700   (11kb)
+
+Title: Integrable Generalized Principal Chiral Models
+Author: Nir Sochen
+Comments: 14 pages, harvmac (l)
+Report-no: LBL-38034, UCB-PTH-96/04
+Journal-ref: Phys.Lett. B391 (1997) 374-380
+\\
+  We study 2D non-linear sigma models on a group manifold with a special form
+of the metric. We address the question of integrability for this special class
+of sigma models. We derive two algebraic conditions for the metric on the group
+manifold. Each solution of these conditions defines an integrable model.
+Although the algebraic system is overdetermined in general, we give two
+examples of solutions. We find the Lax field for these models and calculate
+their Poisson brackets. We also obtain the renormalization group (RG)
+equations, to first order, for the generic model. We solve the RG equations for
+the examples we have and show that they are integrable along the RG flow.
+\\

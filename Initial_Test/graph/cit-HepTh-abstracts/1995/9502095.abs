@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9502095
+From: onofri@gould.pr.infn.it (Enrico Onofri)
+Date: Wed, 15 Feb 1995 18:51:14 +0100 (MET)   (13kb)
+Date (revised): Mon, 20 Feb 1995 08:57:27 +0100 (MET)
+
+Title: RENORMALONS FROM EIGHT LOOP EXPANSION OF THE GLUON CONDENSATE IN LATTICE
+  GAUGE THEORY,
+Authors: F. Di Renzo, G. Marchesini, E. Onofri (University of Parma, Milano and
+  INFN)
+Comments: 11 pages, LaTeX
+Report-no: UPRF-95-418, IFUM 540-FT.
+Journal-ref: Nucl. Phys. B457 (1995) 202
+\\
+We use a numerical method to obtain the weak coupling perturbative coefficients
+of local operators with lattice regularization. Such a method allows us to
+extend the perturbative expansions obtained so far by analytical Feynman
+diagrams calculations. In SU(3) lattice gauge theory in four dimensions we
+compute the first eight coefficients of the expectation value of the Wilson
+loop on the elementary plaquette which is related to the gluon condensate. The
+computed eight coefficients grow with the order much faster than predicted by
+the presence of the infrared renormalon associated to the dimension of the
+gluon condensate. However the renormalon behaviour for large order is quite
+well reproduced if one considers the expansion coefficients in a new coupling
+related to the lattice coupling by large perturbative corrections. This is
+expected since the lattice and continuum Lambda scales differ by almost two
+orders of magnitude.
+\\

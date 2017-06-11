@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9710067
+From: Schubert <schubert@qft2.physik.hu-berlin.de>
+Date: Wed, 8 Oct 1997 05:22:14 GMT   (14kb)
+
+Title: The Structure of the Bern-Kosower Integrand for the N-Gluon Amplitude
+Author: Christian Schubert (Argonne National Laboratory)
+Comments: 12 pages, no figures, latex, uses dina4.sty
+Report-no: ANL-HEP-PR-97-83, HUB-EP-97/35
+Journal-ref: Eur.Phys.J. C5 (1998) 693-699
+\\
+  An ambiguity inherent in the partial integration procedure leading to the
+Bern-Kosower rules is fixed in a way which preserves the complete permutation
+symmetry in the scattering states. This leads to a canonical version of the
+Bern-Kosower representation for the one-loop N - photon/gluon amplitudes, and
+to a natural decomposition of those amplitudes into permutation symmetric gauge
+invariant partial amplitudes. This decomposition exhibits a simple recursive
+structure.
+\\

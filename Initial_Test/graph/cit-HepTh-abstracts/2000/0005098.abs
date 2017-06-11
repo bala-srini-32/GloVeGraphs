@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0005098
+From: Matthias Blau <mblau@ictp.trieste.it>
+Date: Wed, 10 May 2000 20:43:27 GMT   (32kb)
+Date (revised v2): Sat, 7 Oct 2000 17:46:33 GMT   (32kb)
+
+Title: Killing Spinors and SYM on Curved Spaces
+Authors: Matthias Blau
+Comments: 38 pages, LaTeX2e + JHEP.cls; v2: minor changes: corrected some
+  typos, added one footnote and removed another
+Journal-ref: JHEP 0011 (2000) 023
+\\
+  We construct two families of globally supersymmetric counterparts of standard
+Poincar\'e supersymmetric SYM theories on curved space-times admitting Killing
+spinors, in all dimensions less than six and eight respectively. The former
+differs from the standard theory only by mass terms for the fermions and
+scalars and modified supersymmetry transformation rules, the latter in addition
+has cubic Chern-Simons like couplings for the scalar fields. We partially
+calculate the supersymmetry algebra of these models, finding R-symmetry
+extensions proportional to the curvature. We also show that generically these
+theories have no continuous Coulomb branch of maximally supersymmetric vacua,
+but that there exists a half-BPS Coulomb branch approaching the standard
+Coulomb branch in the Ricciflat limit.
+\\

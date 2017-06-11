@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9701047
+From: Rainer Dick <Rainer.Dick@Physik.Uni-Muenchen.DE>
+Date: Mon, 13 Jan 97 10:35:29 -0600   (5kb)
+Date (revised): Mon, 17 Feb 97 16:57:39 -0600
+
+Title: The Coulomb potential in gauge theory with a dilaton
+Author: Rainer Dick
+Comments: 7 pages, LaTex, uses amssymb. A note and a reference added
+Report-no: LMU-TPW-97/02
+Journal-ref: Phys.Lett. B397 (1997) 193-196
+\\
+  I calculate the potential of a pointlike particle carrying SU$(N_c)$ charge
+in a gauge theory with a dilaton. The solution depends on boundary conditions
+imposed on the dilaton: For a dilaton that vanishes at infinity the resulting
+potential is of the form $(r+r_\phi)^{-1}$, with $r_\phi$ inverse proportional
+to the decay constant of the dilaton. Another natural constraint for the
+dilaton $\phi$ is independence of $\frac{1}{g^2}\exp(\frac{\phi}{f_\phi})$ from
+the gauge coupling $g$. This requirement yields a potential proportional to $r$
+and makes it impossible to create an isolated SU$(N_c)$ charge.
+\\

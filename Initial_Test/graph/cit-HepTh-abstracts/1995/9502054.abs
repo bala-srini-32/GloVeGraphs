@@ -1,0 +1,33 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9502054
+From: David Wiltshire <dlw@physics.adelaide.edu.au>
+Date: Wed, 8 Feb 1995 15:59:15 +1030 (CST)   (101kb)
+Date (revised): Fri, 10 Feb 1995 16:58:49 +1030 (CST)
+Date (revised): Tue, 18 Apr 1995 17:12:20 +0930 (CST)
+
+Title: Dyonic dilaton black holes
+Authors: S.J. Poletti, J. Twamley and D.L. Wiltshire
+Comments: 24 pages, phyzzx, epsf, 7 in-text figures. Small addition to
+  introduction, and a few extra references
+Report-no: ADP-95-9/M27
+Journal-ref: Class.Quant.Grav. 12 (1995) 1753-1770; Erratum-ibid. 12 (1995)
+  2355
+\\
+  The properties of static spherically symmetric black holes, which are both
+electrically and magnetically charged, and which are coupled to the dilaton in
+the presence of a cosmological constant, Lambda, are considered. It is shown
+that apart from the Reissner-Nordstrom-de Sitter solution with constant
+dilaton, such solutions do not exist if Lambda > 0 (in arbitrary spacetime
+dimension >=4 ). However, asymptotically anti-de Sitter dyonic black hole
+solutions with a non-trivial dilaton do exist if Lambda < 0. Both these
+solutions and the asymptotically flat (Lambda = 0) solutions are studied
+numerically for arbitrary values of the dilaton coupling parameter, g_0, in
+four dimensions. The asymptotically flat solutions are found to exhibit two
+horizons if g_0 = 0, 1, \sqrt{3}, \sqrt{6}, ..., \sqrt{n(n+1)/2},..., and one
+horizon otherwise. For asymptotically anti-de Sitter solutions the result is
+similar, but the corresponding values of g_0 are altered in a non-linear
+fashion which depends on Lambda and the mass and charges of the black holes.
+All dyonic solutions with Lambda <= 0 are found to have zero Hawking
+temperature in the extreme limit, however, regardless of the value of g_0.
+\\

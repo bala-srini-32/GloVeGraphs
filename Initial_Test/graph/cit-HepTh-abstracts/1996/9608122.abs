@@ -1,0 +1,18 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9608122
+From: matthias@nxth04.cern.ch
+Date: Mon, 19 Aug 96 15:26:13 +0100   (31kb)
+
+Title: Non-Integrability of Two-Dimensional QCD
+Authors: Werner Krauth (LPSENS) and Matthias Staudacher (CERN)
+Comments: 9 pages, 6 encapsulated Postscript figures, uses epsfig
+Report-no: CERN-TH/96-219
+Journal-ref: Phys.Lett. B388 (1996) 808-812
+\\
+  In this paper we numerically demonstrate that massless two-dimensional QCD is
+not integrable. To this aim, we explicitly solve the 't Hooft integral equation
+for bound states by an adaptive spline procedure, and compute the decay
+amplitudes. These amplitudes significantly differ from zero except in all cases
+in which the decay also produces a pion.
+\\

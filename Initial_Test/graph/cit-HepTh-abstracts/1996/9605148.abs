@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9605148
+From: Lawrence Horwitz <horwitz@IAS.EDU>
+Date: Tue, 21 May 1996 12:28:03 -0400   (25kb)
+
+Title: Construction of a Complete Set of States in Relativistic Scattering
+  Theory
+Authors: Oskar Pelc and L. P. Horwitz
+Comments: 30 pages, Latex
+Report-no: IASSNS-96/40, TAUP 2312-95
+Journal-ref: J.Math.Phys. 38 (1997) 115-138
+\\
+  The space of physical states in relativistic scattering theory is
+constructed, using a rigorous version of the Dirac formalism, where the Hilbert
+space structure is extended to a Gel'fand triple. This extension enables the
+construction of ``a complete set of states'', the basic concept of the original
+Dirac formalism, also in the cases of unbounded operators and continuous
+spectra. We construct explicitly the Gel'fand triple and a complete set of
+``plane waves'' -- momentum eigenstates -- using the group of space-time
+symmetries. This construction is used (in a separate article) to prove a
+generalization of the Coleman-Mandula theorem to higher dimension.
+\\

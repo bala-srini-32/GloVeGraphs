@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0010259
+From: Emmanuel Guitter <guitter@spht.saclay.cea.fr>
+Date: Fri, 27 Oct 2000 14:51:11 GMT   (49kb)
+Date (revised v2): Wed, 16 May 2001 13:11:07 GMT   (49kb)
+
+Title: Generalized Lorentzian Triangulations and the Calogero Hamiltonian
+Authors: P. Di Francesco, E. Guitter (SPHT-Saclay) and C. Kristjansen (NBI)
+Comments: 47 pages, 5 figures, tex, harvmac, epsf. New title, new introduction,
+  uses a more Stat. Mech. oriented language
+Report-no: SPhT/00-145, NBI-HE-00-39
+Subj-class: High Energy Physics - Theory; Statistical Mechanics
+Journal-ref: Nucl.Phys. B608 (2001) 485-526
+\\
+  We introduce and solve a generalized model of 1+1D Lorentzian triangulations
+in which a certain subclass of outgrowths is allowed, the occurrence of these
+being governed by a coupling constant \beta. Combining transfer matrix-, saddle
+point- and path integral techniques we show that for \beta<1 it is possible to
+take a continuum limit in which the model is described by a 1D quantum Calogero
+Hamiltonian. The coupling constant \beta survives the continuum limit and
+appears as a parameter of the Calogero potential.
+\\

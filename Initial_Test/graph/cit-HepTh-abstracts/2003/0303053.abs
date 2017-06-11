@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0303053
+From: Olivier Piguet <piguet@cce.ufes.br>
+Date: Thu, 6 Mar 2003 20:59:27 GMT   (35kb)
+
+Title: Observables in Topological Yang-Mills Theories
+Authors: Jose Luis Boldo, Clisthenis P. Constantinidis, Francois Gieres,
+  Matthieu Lefrancois, Olivier Piguet
+Comments: 39 pages, Latex
+Report-no: LYCEN 2002-54, UFES-DF-OP2003/1
+\\
+  Using topological Yang-Mills theory as example, we discuss the definition and
+determination of observables in topological field theories (of Witten-type)
+within the superspace formulation proposed by Horne. This approach to the
+equivariant cohomology leads to a set of bi-descent equations involving the
+BRST and supersymmetry operators as well as the exterior derivative. This
+allows us to determine superspace expressions for all observables, and thereby
+to recover the Donaldson-Witten polynomials when choosing a Wess-Zumino-type
+gauge.
+\\

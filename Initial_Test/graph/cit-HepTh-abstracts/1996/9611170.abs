@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9611170
+From: matytsin@marie.mit.edu (Andrei Matytsin)
+Date: Thu, 21 Nov 1996 12:18:35 -0500   (61kb)
+
+Title: Kosterlitz--Thouless Phase Transitions on Discretized Random Surfaces
+Authors: A. Matytsin and P. Zaugg
+Comments: 46 pages, 6 postscript figures
+Report-no: MIT-CTP-2589; ENSLAPP-A-627/96
+Journal-ref: Nucl.Phys. B497 (1997) 658-698
+\\
+  The large N limit of a one-dimensional infinite chain of random matrices is
+investigated. It is found that in addition to the expected Kosterlitz--Thouless
+phase transition this model exhibits an infinite series of phase transitions at
+special values of the lattice spacing \epsilon_{pq}=\sin(\pi p/2q). An unusual
+property of these transitions is that they are totally invisible in the double
+scaling limit. A method which allows us to explore the transition regions
+analytically and to determine certain critical exponents is developed. It is
+argued that phase transitions of this kind can be induced by the interaction of
+two-dimensional vortices with curvature defects of a fluctuating random
+lattice.
+\\

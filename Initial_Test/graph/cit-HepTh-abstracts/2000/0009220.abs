@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0009220
+From: "Kazakov K" <kirill@theor.phys.msu.su>
+Date: Wed, 27 Sep 2000 09:59:11 GMT   (215kb)
+
+Title: On the notion of potential in quantum gravity
+Author: Kirill A. Kazakov
+Comments: LaTex 2.09, 16 pages, 5 ps figures
+Journal-ref: Phys.Rev. D63 (2001) 044004
+\\
+  The problem of consistent definition of the quantum corrected gravitational
+field is considered in the framework of the $S$-matrix method. Gauge dependence
+of the one-particle-reducible part of the two-scalar-particle scattering
+amplitude, with the help of which the potential is usually defined, is
+investigated at the one-loop approximation. The $1/r^2$-terms in the potential,
+which are of zero order in the Planck constant $\hbar,$ are shown to be
+independent of the gauge parameter weighting the gauge condition in the action.
+However, the $1/r^3$-terms, proportional to $\hbar,$ describing the first
+proper quantum correction, are proved to be gauge-dependent. With the help of
+the Slavnov identities, their dependence on the weighting parameter is
+calculated explicitly. The reason the gauge dependence originates from is
+briefly discussed.
+\\

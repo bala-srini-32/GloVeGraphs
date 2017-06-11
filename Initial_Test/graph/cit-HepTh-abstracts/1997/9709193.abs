@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9709193
+From: Gregory Moore <moore@castalia.physics.yale.edu>
+Date: Fri, 26 Sep 1997 16:29:30 GMT   (79kb)
+Date (revised): Mon, 20 Oct 1997 14:44:03 GMT
+
+Title: Integration over the u-plane in Donaldson theory
+Authors: Gregory Moore and Edward Witten
+Comments: 91 pages, harvmac b-mode. References added. Typos corrected
+Report-no: IASSNS-HEP-97/97,YCTP-P9-97
+Subj-class: High Energy Physics - Theory; Algebraic Geometry; Differential
+  Geometry
+\\
+  We analyze the u-plane contribution to Donaldson invariants of a
+four-manifold X. For $b_2^+(X)>1$, this contribution vanishes, but for
+$b_2^+=1$, the Donaldson invariants must be written as the sum of a u-plane
+integral and an SW contribution. The u-plane integrals are quite intricate, but
+can be analyzed in great detail and even calculated. By analyzing the u-plane
+integrals, the relation of Donaldson theory to N=2 supersymmetric Yang-Mills
+theory can be described much more fully, the relation of Donaldson invariants
+to SW theory can be generalized to four-manifolds not of simple type, and
+interesting formulas can be obtained for the class numbers of imaginary
+quadratic fields. We also show how the results generalize to extensions of
+Donaldson theory obtained by including hypermultiplet matter fields.
+\\

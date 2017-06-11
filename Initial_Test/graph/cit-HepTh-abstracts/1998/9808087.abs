@@ -1,0 +1,33 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9808087
+From: Cliff Burgess <cliff@physics.mcgill.ca>
+Date: Fri, 14 Aug 1998 18:15:21 GMT   (33kb)
+Date (revised v2): Tue, 18 Aug 1998 17:15:58 GMT   (33kb)
+Date (revised v3): Thu, 8 Oct 1998 19:08:52 GMT   (33kb)
+
+Title: Supersymmetric Models with Product Groups and Field Dependent Gauge
+  Couplings
+Authors: C.P. Burgess, A. de la Macorra, I. Maksymyk and F. Quevedo
+Comments: 39 pages, plain TeX, no figures. (This paper replaces our earlier,
+  withdrawn, paper, hep-th/9712178.) Minor typos corrected
+Report-no: McGill-98/16, IFUNAM FT98-9
+Journal-ref: JHEP 9809 (1998) 007
+\\
+  We study the dilaton-dependence of the effective action for N=1, SU(N1) x
+SU(N2) models with one generation of vectorlike matter transforming in the
+fundamental of both groups. We treat in detail the confining and Coulomb phases
+of these models writing explicit expressions in many cases for the effective
+superpotential. We can do so for the Wilson superpotentials of the Coulomb
+phase when N2=2, N1=2,4.
+  In these cases the Coulomb phase involves a single U(1) gauge multiplet, for
+which we exhibit the gauge coupling in terms of the modulus of an elliptic
+curve. The SU(4) x SU(2) model reproduces the weak-coupling limits in a
+nontrivial way. In the confining phase of all of these models, the dilaton
+superpotential has a runaway form, but in the Coulomb phase the dilaton enjoys
+flat directions. Had we used the standard moduli-space variables: Tr M^k,
+k=1,..., N2, with M the quark condensate matrix, to parameterize the flat
+directions instead of the eigenvalues of M, we would find physically
+unacceptable behaviour, illustrating the importance to correctly identify the
+moduli.
+\\

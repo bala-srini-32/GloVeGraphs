@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0203156
+From: Belal E. Baaquie <uspbeb@nus.edu.sg>
+Date: Mon, 18 Mar 2002 10:14:57 GMT   (7kb)
+
+Title: Sigma Model Lagrangian for the Heisenberg Group
+Authors: Belal E. Baaquie and Yim Kok Kean
+\\
+  We study the Lagrangian for a sigma model based on the non-compact Heisenberg
+group. A unique feature of this model -- unlike the case for compact Lie groups
+-- is that the definition of the Lagrangian has to be regulated since the trace
+over the Heisenberg group is otherwise divergent. The resulting theory is a
+real Lagrangian with a quartic interaction term. After a few non-trivial
+transformations, the Lagrangian is shown to be equivalent -- at the classical
+level -- to a complex cubic Lagrangian. A one loop computation shows that the
+quartic and cubic Lagrangians are equivalent at the quantum level as well. The
+complex Lagrangian is known to classically equivalent to the SU(2) sigma model,
+with the equivalence breaking down at the quantum level. An explanation of this
+well known results emerges from the properties of the Heisenberg sigma model.
+\\

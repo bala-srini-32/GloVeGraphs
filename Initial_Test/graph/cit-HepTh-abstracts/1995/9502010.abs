@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9502010
+From: "Michael D. Alexandrov" <alexandr@ucdmath.ucdavis.edu>
+Date: Wed, 1 Feb 1995 19:16:01 -0800 (PST)   (22kb)
+Date (revised): Mon, 6 Feb 1995 19:45:28 -0800 (PST)
+
+Title: The Geometry of the Master Equation and Topological Quantum Field Theory
+Authors: M. Alexandrov, M. Kontsevich, A. Schwarz, O. Zaboronsky
+Comments: 29 pages, Plain TeX, minor modifications in English are made by Jim
+  Stasheff, some misprints are corrected, acknowledgements and references added
+Report-no: UCD&B-94-01
+Journal-ref: Int.J.Mod.Phys. A12 (1997) 1405-1430
+\\
+ In Batalin-Vilkovisky formalism a classical mechanical system is specified by
+means of a solution to the {\sl classical master equation}. Geometrically such
+a solution can be considered as a $QP$-manifold, i.e. a super\m equipped with
+an odd vector field $Q$ obeying $\{Q,Q\}=0$ and with $Q$-invariant odd
+symplectic structure. We study geometry of $QP$-manifolds. In particular, we
+describe some construction of $QP$-manifolds and prove a classification theorem
+(under certain conditions).
+ We apply these geometric constructions to obtain in natural way the action
+functionals of two-dimensional topological sigma-models and to show that the
+Chern-Simons theory in BV-formalism arises as a sigma-model with target space
+$\Pi {\cal G}$. (Here ${\cal G}$ stands for a Lie algebra and $\Pi$ denotes
+parity inversion.)
+\\

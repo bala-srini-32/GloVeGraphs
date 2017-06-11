@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9705018
+From: Michael Mueger <mueger@x4u2.desy.de>
+Date: Mon, 5 May 1997 05:52:04 MDT   (29kb)
+Date (revised): Mon, 23 Mar 1998 11:43:07 GMT
+
+Title: On Charged Fields with Group Symmetry and Degeneracies of Verlinde's
+  Matrix S
+Authors: Michael Mueger
+Comments: latex2e, 24 pages. Final version, to appear in Ann. Inst. H. Poinc.
+  (Theor. Phys.). A serious gap in the proof of Prop. 2.3 has been filled in,
+  but only under a rationality assumption. The main application to rational
+  CQFTs is not affected, in fact strenghtened by the new Props. 3.8 and 3.14.
+  Some remarks have been added
+Report-no: DESY 97-080
+Journal-ref: Annales Poincare Phys.Theor. 71 (1999) 359-394
+\\
+  We consider the complete normal field net with compact symmetry group
+constructed by Doplicher and Roberts starting from a net of local observables
+in >=2+1 spacetime dimensions and its set of localized (DHR) representations.
+We prove that the field net does not possess nontrivial DHR sectors, provided
+the observables have only finitely many sectors. Whereas the superselection
+structure in 1+1 dimensions typically does not arise from a group, the DR
+construction is applicable to `degenerate sectors', the existence of which (in
+the rational case) is equivalent to non-invertibility of Verlinde's S-matrix.
+We prove Rehren's conjecture that the enlarged theory is non-degenerate, which
+implies that every degenerate theory is an `orbifold' theory. Thus, the
+symmetry of a generic model `factorizes' into a group part and a pure quantum
+part which still must be clarified.
+\\

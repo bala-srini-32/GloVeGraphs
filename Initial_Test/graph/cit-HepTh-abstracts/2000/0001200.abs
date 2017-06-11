@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0001200
+From: Jaume Gomis <gomis@theory.caltech.edu>
+Date: Fri, 28 Jan 2000 17:21:22 GMT   (13kb)
+Date (revised v2): Mon, 27 Mar 2000 23:30:27 GMT   (13kb)
+
+Title: D-branes on Orbifolds with Discrete Torsion And Topological Obstruction
+Authors: Jaume Gomis (Caltech)
+Comments: 16 pages, harvmac, clarification regarding relation with torsion in
+  homology
+Journal-ref: JHEP 0005 (2000) 006
+\\
+  We find the orbifold analog of the topological relation recently found by
+Freed and Witten which restricts the allowed D-brane configurations of Type II
+vacua with a topologically non-trivial flat $B$-field. The result relies in
+Douglas proposal -- which we derive from worldsheet consistency conditions --
+of embedding projective representations on open string Chan-Paton factors when
+considering orbifolds with discrete torsion. The orbifold action on open
+strings gives a natural definition of the algebraic K-theory group -- using
+twisted cross products -- responsible for measuring Ramond-Ramond charges in
+orbifolds with discrete torsion. We show that the correspondence between
+fractional branes and Ramond-Ramond fields follows in an interesting fashion
+from the way that discrete torsion is implemented on open and closed strings.
+\\

@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0003090
+From: Uwe Trittmann <trittman@pacific.mps.ohio-state.edu>
+Date: Mon, 13 Mar 2000 01:34:46 GMT   (43kb)
+
+Title: Testing SDLCQ in 2+1 dimensions
+Authors: Uwe Trittmann
+Comments: 7 pp, uses sprocl.sty. To appear in the proceedings of the CSSM
+  Workshop on Light-Cone QCD and Nonperturbative Hadron Physics, Adelaide, SA,
+  Dec. 13--21,1999
+Journal-ref: Proc. Workshop on Light-Cone QCD and Nonperturbative Hadron
+  Physics, Adelaide, Australia, Dec. 13-22, 1999, eds. A.W. Schreiber, A.G.
+  Williams (World Scientific, Singapore, 2000), pp. 119-125.
+\\
+  The SDLCQ regularization is known to explicitly preserve supersymmetry in 1+1
+dimensions. To test this property in higher dimensions, we consider
+supersymmetric Yang-Mills theory on R x S^1 x S^1. In particular, we choose one
+of the compact directions to be light-like and another to be space-like. This
+theory is totally finite, and thus we can solve for bound state wave functions
+and masses numerically without renormalizing. We present the masses as
+functions of the longitudinal and transverse resolutions and show that the
+masses converge rapidly in both resolutions. We study the behavior of the
+spectrum as a function of the coupling and find that at strong coupling there
+is a stable, well-defined spectrum which we present. We discuss also the
+massless spectrum and find several unphysical states that decouple at large
+transverse resolution.
+\\

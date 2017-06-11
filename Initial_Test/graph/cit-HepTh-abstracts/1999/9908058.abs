@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9908058
+From: MuLin Yan <itp@ustc.edu.cn>
+Date: Sun, 8 Aug 1999 11:51:32 GMT   (13kb)
+
+Title: Gaussian Effective Potential Analysis of Sinh(Sine)-Gordon Models by New
+  Regularization-Renormalization Scheme
+Authors: Sze-Shiang Feng and Guang-Jiong Ni
+Comments: 16 pages, LATEX, no figures, to appear in Int. J. Mod. Phys. A
+Journal-ref: Int.J.Mod.Phys. A14 (1999) 4259-4274
+\\
+  Using the new regularization and renormalization scheme recently proposed by
+Yang and used by Ni et al, we analyse the sine-Gordon and sinh-Gordon models
+within the framework of Gaussian effective potential in D+1 dimensions. Our
+analysis suffers no divergence and so does not suffer from the manipulational
+obscurities in the conventional analysis of divergent integrals. Our main
+conclusions agree exactly with those of Ingermanson for D=1,2 but disagree
+for D=3: the D=3 sinh(sine)-Gordon model is non-trivial. Furthermore, our
+analysis shows that for D=1,2, the running coupling constant (RCC)has poles
+for sine-Gordon model($\gamma^2<0$) and the sinh-Gordon model ($\gamma^2>0$)
+has a possible critical point $\gamma^2_c$ while for D=3, the RCC has poles for
+both $\gamma^2>0$ and $\gamma^2<0$.
+\\

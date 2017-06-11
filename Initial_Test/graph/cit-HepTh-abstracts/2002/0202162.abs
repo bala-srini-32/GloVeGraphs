@@ -1,0 +1,32 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0202162
+From: Yigal Shamir <shamir@post.tau.ac.il>
+Date: Sun, 24 Feb 2002 09:57:01 GMT   (27kb)
+Date (revised v2): Thu, 14 Nov 2002 07:43:32 GMT   (29kb)
+
+Title: Fermion-number violation in regularizations that preserve fermion-number
+  symmetry
+Authors: Maarten Golterman and Yigal Shamir
+Comments: Improvements in presentation; no change in conclusions. Version to
+  appear in Phys. Rev. D
+Report-no: TAUP-2697-02
+Journal-ref: Phys.Rev. D67 (2003) 014501
+\\
+  There exist both continuum and lattice regularizations of gauge theories with
+fermions which preserve chiral U(1) invariance ("fermion number"). Such
+regularizations necessarily break gauge invariance but, in a covariant gauge,
+one recovers gauge invariance to all orders in perturbation theory by including
+suitable counterterms.
+  At the non-perturbative level, an apparent conflict then arises between the
+chiral U(1) symmetry of the regularized theory and the existence of 't Hooft
+vertices in the renormalized theory. The only possible resolution of the
+paradox is that the chiral U(1) symmetry is broken spontaneously in the
+enlarged Hilbert space of the covariantly gauge-fixed theory. The corresponding
+Goldstone boson is unphysical. The theory must therefore be defined by
+introducing a small fermion-mass term that breaks explicitly the chiral U(1)
+invariance, and is sent to zero after the infinite-volume limit has been taken.
+Using this careful definition (and a lattice regularization) for the
+calculation of correlation functions in the one-instanton sector, we show that
+the 't Hooft vertices are recovered as expected.
+\\

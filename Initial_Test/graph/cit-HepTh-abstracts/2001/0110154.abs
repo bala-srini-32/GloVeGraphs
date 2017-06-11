@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0110154
+From: Chanju Kim <cjkim@ns.kias.re.kr>
+Date: Wed, 17 Oct 2001 11:49:34 GMT   (9kb)
+
+Title: One-loop Effective Actions in Shape-invariant Scalar Backgrounds
+Authors: Chanju Kim, O-Kab Kwon, Choonkyu Lee
+Comments: 11 pages, LaTeX2e
+Report-no: SNUTP01-036
+Journal-ref: Phys.Lett. B523 (2001) 205-210
+\\
+  The field-theoretic one-loop effective action in a static scalar background
+depending nontrivially on a single spatial coordinate is related, in the
+proper-time formalism, to the trace of the evolution kernel (or heat kernel)
+for an appropriate, one dimensional, quantum-mechanical Hamiltonian. We
+describe a recursive procedure applicable to these traces for shape-invariant
+Hamiltonians, resolving subtleties from the continuum mode contributions by
+utilizing the expression for the regularized Witten index. For some cases which
+include those of domain-wall-type scalar backgrounds, our recursive procedure
+yields the full expression for the scalar or fermion one-loop effective action
+in both (1+1) and (3+1)-dimensions.
+\\

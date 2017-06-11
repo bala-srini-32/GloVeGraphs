@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0102115
+From: Romanenko <ar@ups.kiev.ua>
+Date: Mon, 19 Feb 2001 15:01:43 GMT   (15kb)
+
+Title: Quantum mechanics on Riemannian Manifold in Schwinger's Quantization
+  Approach II
+Authors: N. Chepilko (Physics Institute of the Ukrainian Academy of Sciences),
+  A. Romanenko (Kiev Taras Shevtchenko University)
+Comments: 18pages, no figures, LaTeX
+Journal-ref: Eur.Phys.J. C21 (2001) 587-595
+\\
+  Extended Schwinger's quantization procedure is used for constructing quantum
+mechanics on a manifold with a group structure. The considered manifold $M$ is
+a homogeneous Riemannian space with the given action of isometry transformation
+group. Using the identification of $M$ with the quotient space $G/H$, where $H$
+is the isotropy group of an arbitrary fixed point of $M$, we show that quantum
+mechanics on $G/H$ possesses a gauge structure, described by the gauge
+potential that is the connection 1-form of the principal fiber bundle $G(G/H,
+H)$. The coordinate representation of quantum mechanics and the procedure for
+selecting the physical sector of states are developed.
+\\

@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9902146
+From: Rudra Prakash Malik <malik@boson.bose.res.in>
+Date: Mon, 22 Feb 1999 07:01:22 GMT   (12kb)
+Date (revised v2): Wed, 30 Aug 2000 16:37:25 GMT   (13kb)
+Date (revised v3): Thu, 31 Aug 2000 07:11:46 GMT   (13kb)
+
+Title: Cohomological aspects of Abelian gauge theory
+Author: R. P. Malik (Bose Centre, Calcutta, India)
+Comments: 12 pages, LaTeX, no figures, Title and text have been slightly
+  changed, Journal reference is given and a reference has been added
+Journal-ref: J. Phys. A: Math Gen 33 (2000) 2437-2446
+\\
+  We discuss some aspects of cohomological properties of a two-dimensional free
+Abelian gauge theory in the framework of BRST formalism. We derive the
+conserved and nilpotent BRST- and co-BRST charges and express the Hodge
+decomposition theorem in terms of these charges and a conserved bosonic charge
+corresponding to the Laplacian operator. It is because of the topological
+nature of free U(1) gauge theory that the Laplacian operator goes to zero when
+equations of motion are exploited. We derive two sets of topological invariants
+which are related to each-other by a certain kind of duality transformation and
+express the Lagrangian density of this theory as the sum of terms that are
+BRST- and co-BRST invariants. Mathematically, this theory captures together
+some of the key features of Witten- and Schwarz type of topological field
+theories.
+\\

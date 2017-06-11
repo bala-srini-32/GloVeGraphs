@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9611145
+From: antoniad@orphee.polytechnique.fr
+Date: Tue, 19 Nov 1996 14:32:24 +0100   (31kb)
+Date (revised): Thu, 21 Nov 1996 17:05:00 +0100
+Date (revised): Fri, 3 Jan 1997 11:33:47 +0100
+
+Title: Criticality and Scaling in 4D Quantum Gravity
+Authors: I. Antoniadis, P.O. Mazur and E. Mottola
+Comments: 15 pages, LaTeX, 2 PS-figures, references and typographical errors
+  corrected (published version to appear in Phys. Lett. B)
+Report-no: CPTH-S473.1096, LA-UR-96-4027
+Journal-ref: Phys.Lett. B394 (1997) 49-56
+\\
+  We present a simple argument which determines the critical value of the
+anomaly coefficient in four dimensional conformal factor quantum gravity, at
+which a phase transition between a smooth and elongated phase should occur. The
+argument is based on the contribution of singular configurations ("spikes")
+which dominate the partition function in the infrared. The critical value is
+the analog of c=1 in the theory of random surfaces, and the phase transition is
+similar to the Berezenskii-Kosterlitz-Thouless transition. The critical value
+we obtain is in agreement with the previous canonical analysis of physical
+states of the conformal factor and may explain why a smooth phase of quantum
+gravity has not yet been observed in simplicial simulations. We also rederive
+the scaling relations in the smooth phase in light of this determination of the
+critical coupling.
+\\

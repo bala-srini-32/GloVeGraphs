@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9803180
+From: Hans Kastrup <kastrup@physik.rwth-aachen.de>
+Date: Sun, 22 Mar 1998 20:37:44 GMT   (17kb)
+Date (revised v2): Fri, 3 Apr 1998 15:07:09 GMT   (17kb)
+Date (revised v3): Thu, 25 Jun 1998 18:07:48 GMT   (17kb)
+
+Title: Schwarzschild Black Hole Quantum Statistics, Droplet Nucleation and DLCQ
+  Matrix Theory
+Author: H.A. Kastrup (RWTH Aachen)
+Comments: 21 pages, Latex; References and few remarks added
+Report-no: PITHA 98/10
+\\
+  Generalizing previous quantum gravity results for Schwarzschild black holes
+from 4 to D>4 spacetime dimensions yields an energy spectrum E_n =
+n^{1-1/(D-2)} sigma E_P, n=1,2,..., sigma = O(1). Assuming the degeneracies of
+these levels to be given by g^n, g>1, leads to a partition function which is
+the same as that of the primitive droplet nucleation model for 1st-order phase
+transitions in D-2 spatial dimensions. Exploiting the well-known properties of
+the so-called critical droplets of this model immediately leads to the Hawking
+temperature and the Bekenstein-Hawking entropy of Schwarzschild black holes.
+Thus, the "holographic principle" of 't Hooft and Susskind is naturally
+realised. The values of temperature and entropy appear closely related to the
+imaginary part of the partition function which describes metastable states.
+Finally some striking conceptual similarities ("correspondence point" etc.)
+between the droplet nucleation picture and the very recent approach to the
+quantum statistics of Schwarzschild black holes in the framework of the DLCQ
+Matrix theory are pointed out.
+\\

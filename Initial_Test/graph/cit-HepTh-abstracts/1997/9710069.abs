@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9710069
+From: Igor Kanatczikow <ikanat@ippt.gov.pl>
+Date: Wed, 8 Oct 1997 10:28:09 GMT   (14kb)
+Date (revised v2): Fri, 10 Oct 1997 23:49:08 GMT   (14kb)
+
+Title: On Field Theoretic Generalizations of a Poisson Algebra
+Authors: I. V. Kanatchikov
+Comments: 10 pages, LaTeX2e. Missprint in Ref. 1 is corrected (hep-th/9709229
+  instead of ...029)
+Subj-class: High Energy Physics - Theory; Mathematical Physics; Differential
+  Geometry; Quantum Algebra
+Journal-ref: Rept.Math.Phys. 40 (1997) 225
+\\
+  A few generalizations of a Poisson algebra to field theory canonically
+formulated in terms of the polymomentum variables are discussed. A graded
+Poisson bracket on differential forms and an $(n+1)$-ary bracket on functions
+are considered. The Poisson bracket on differential forms gives rise to various
+generalizations of a Gerstenhaber algebra: the noncommutative (in the sense of
+Loday) and the higher-order (in the sense of the higher order graded Leibniz
+rule). The $(n+1)$-ary bracket fulfills the properties of the Nambu bracket
+including the ``fundamental identity'', thus leading to the Nambu-Poisson
+algebra. We point out that in the field theory context the Nambu bracket with a
+properly defined covariant analogue of Hamilton's function determines a joint
+evolution of several dynamical variables.
+\\

@@ -1,0 +1,34 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0005076
+From: murayama@thsrv.lbl.gov
+Date: Tue, 9 May 2000 19:15:15 GMT   (505kb)
+Date (revised v2): Wed, 31 May 2000 16:52:26 GMT   (505kb)
+
+Title: Dynamical Symmetry Breaking in Supersymmetric SU(n_c) and USp(2n_c)
+  Gauge Theories
+Authors: Giuseppe Carlino (Swansea), Kenichi Konishi (Pisa, Washington),
+  Hitoshi Murayama (UC Berkeley, LBNL)
+Comments: 90 pages, typos fixed
+Report-no: IFUP-TH 2000-8; SWAT-00/255; UCB-PTH-00/07; LBNL-45323
+Journal-ref: Nucl.Phys. B590 (2000) 37-122
+\\
+  We find the phase and flavor symmetry breaking pattern of each N=1
+supersymmetric vacuum of SU(n_c) and USp(2 n_c) gauge theories, constructed
+from the exactly solvable N=2 theories by perturbing them with small adjoint
+and generic bare hypermultiplet (quark) masses. In SU(n_c) theories with n_f
+\leq n_c the vacua are labelled by an integer r, in which the flavor U(n_f)
+symmetry is dynamically broken to U(r) \times U(n_f-r) in the limit of
+vanishing bare hyperquark masses. In the r=1 vacua the dynamical symmetry
+breaking is caused by the condensation of magnetic monopoles in the n_f
+representation. For general r, however, the monopoles in the {}_{n_f}C_r
+representation, whose condensation could explain the flavor symmetry breaking
+but would produce too-many Nambu--Goldstone multiplets, actually "break up"
+into "magnetic quarks": the latter with nonabelian interactions condense and
+induce confinement and dynamical symmetry breaking. In USp(2n_c) theories with
+n_f \leq n_c + 1, the flavor SO(2n_f) symmetry is dynamically broken to U(n_f),
+but with no description in terms of a weakly coupled local field theory. In
+both SU(n_c) and USp(2 n_c) theories, with larger numbers of quark flavors,
+besides the vacua with these properties, there exist also vacua in free
+magnetic phase, with unbroken global symmetry.
+\\

@@ -1,0 +1,38 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9806099
+From: Fedele Lizzi <fedele.lizzi@na.infn.it>
+Date: Fri, 12 Jun 1998 11:52:53 GMT   (37kb)
+Date (revised v2): Mon, 12 Oct 1998 12:29:14 GMT   (39kb)
+Date (revised v3): Mon, 19 Apr 1999 16:35:09 GMT   (39kb)
+
+Title: String Geometry and the Noncommutative Torus
+Authors: G. Landi, F. Lizzi and R.J. Szabo
+Comments: 37 pages, LaTeX. Major revisions in section 3. Other minor revisions
+  in the rest of the paper, references added
+Report-no: DAMTP-98-36, DSF/16-98, OUTP-98-42P
+Subj-class: High Energy Physics - Theory; Mathematical Physics; Quantum Algebra
+Journal-ref: Commun.Math.Phys. 206 (1999) 603-637
+\\
+  We construct a new gauge theory on a pair of d-dimensional noncommutative
+tori. The latter comes from an intimate relationship between the noncommutative
+geometry associated with a lattice vertex operator algebra A and the
+noncommutative torus. We show that the (truncated) tachyon subalgebra of A is
+naturally isomorphic to a class of twisted modules representing quantum
+deformations of the algebra of functions on the torus. We construct the
+corresponding even real spectral triples and determine their Morita equivalence
+classes using string duality arguments. These constructions yield simple proofs
+of the O(d,d;Z) Morita equivalences between $d$-dimensional noncommutative tori
+and give a natural physical interpretation of them in terms of the target space
+duality group of toroidally compactified string theory. We classify the
+automorphisms of the twisted modules and construct the most general gauge
+theory which is invariant under the automorphism group. We compute bosonic and
+fermionic actions associated with these gauge theories and show that they are
+explicitly duality-symmetric. The duality-invariant gauge theory is manifestly
+covariant but contains highly non-local interactions. We show that it also
+admits a new sort of particle-antiparticle duality which enables the
+construction of instanton field configurations in any dimension. The duality
+non-symmetric on-shell projection of the field theory is shown to coincide with
+the standard non-abelian Yang-Mills gauge theory minimally coupled to massive
+Dirac fermion fields.
+\\

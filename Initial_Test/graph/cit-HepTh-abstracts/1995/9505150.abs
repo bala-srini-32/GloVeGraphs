@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9505150
+From: lerche@nxth04.cern.ch
+Date: Wed, 24 May 95 18:37:11 -0500   (177kb)
+
+Title: Nonperturbative Effective Actions of N=2 Supersymmetric Gauge Theories
+Authors: A.Klemm, W.Lerche, S.Theisen
+Comments: 57p, harvmac with hyperlinks, 9 uuencoded ps figures
+Report-no: CERN-TH/95-104,LMU-TPW 95-7
+Journal-ref: Int.J.Mod.Phys. A11 (1996) 1929-1974
+\\
+  We elaborate on our previous work on N=2 supersymmetric Yang-Mills theory. In
+particular, we show how to explicitly determine the low energy quantum
+effective action for $G=SU(3)$ from the underlying hyperelliptic Riemann
+surface, and calculate the leading instanton corrections. This is done by
+solving Picard-Fuchs equations and asymptotically evaluating period integrals.
+We find that the dynamics of the $SU(3)$ theory is governed by an Appell system
+of type $F_4$, and compute the exact quantum gauge coupling explicitly in terms
+of Appell functions.
+\\

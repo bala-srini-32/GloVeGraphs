@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0207177
+From: Hiroshi Ishikawa <ishikawa@tuhep.phys.tohoku.ac.jp>
+Date: Fri, 19 Jul 2002 12:27:04 GMT   (39kb)
+Date (revised v2): Thu, 3 Oct 2002 04:26:52 GMT   (41kb)
+Date (revised v3): Fri, 1 Nov 2002 10:29:00 GMT   (41kb)
+
+Title: Novel construction of boundary states in coset conformal field theories
+Authors: Hiroshi Ishikawa and Taro Tani (Tohoku Univ.)
+Comments: 43 pages, 6 figures; (v2) arguments about the actions of simple
+  currents on NIM-reps modified. references added; (v3) misplaced figure
+  corrected
+Report-no: TU-664
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+Journal-ref: Nucl.Phys. B649 (2003) 205-242
+\\
+  We develop a systematic method to solve the Cardy condition for the coset
+conformal field theory G/H. The problem is equivalent to finding a non-negative
+integer valued matrix representation (NIM-rep) of the fusion algebra. Based on
+the relation of the G/H theory with the tensor product theory G x H, we give a
+map from NIM-reps of G x H to those of G/H. Our map provides a large class of
+NIM-reps in coset theories. In particular, we give some examples of NIM-reps
+not factorizable into the G and the H sectors. The action of the simple
+currents on NIM-reps plays an essential role in our construction. As an
+illustration of our procedure, we consider the diagonal coset SU(2)_5 x SU(2)_3
+/SU(2)_8 to obtain a new NIM-rep based on the conformal embedding su(2)_3
+\oplus su(2)_8 \subset sp(6)_1.
+\\

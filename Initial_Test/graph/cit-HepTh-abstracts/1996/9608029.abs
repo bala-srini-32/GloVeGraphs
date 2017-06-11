@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9608029
+From: Manuel Torres Labansat <manuel@teorica1.ifisicacu.unam.mx>
+Date: Tue, 6 Aug 96 12:01:31 -0600   (23kb)
+Date (revised): Fri, 14 Feb 97 13:41:37 -0600
+
+Title: QED symmetries in real-time thermal field theory
+Authors: Juan Carlos D'Olivo, Manuel Torres and Eduardo Tututi
+Comments: New version as it will appear in Phys RevD 19 pages, RevTex, 1figure
+Report-no: IFUNAM: FT96-09
+Journal-ref: Phys.Rev. D55 (1997) 3859-3865
+\\
+  We study the discrete and gauge symmetries of Quantum Electrodynamics at
+finite temperature within the real-time formalism.
+  The gauge invariance of the complete generating functional leads to the
+finite temperature Ward identities. These Ward identities relate the eight
+vertex functions to the elements of the self-energy matrix. Combining the
+relations obtained from the $Z_2$ and the gauge symmetries of the theory we
+find that only one out of eight longitudinal vertex functions is independent.
+As a consequence of the Ward identities it is shown that some elements of the
+vertex function are singular when the photon momentum goes to zero.
+\\

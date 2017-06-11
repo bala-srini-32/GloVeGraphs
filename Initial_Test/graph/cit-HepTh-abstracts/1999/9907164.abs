@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9907164
+From: Barton Zwiebach <zwiebach@mail.lns.mit.edu>
+Date: Tue, 20 Jul 1999 14:49:43 GMT   (28kb)
+Date (revised v2): Fri, 6 Aug 1999 20:21:16 GMT   (29kb)
+
+Title: Stable Non-BPS States in F- theory
+Authors: Ashoke Sen and Barton Zwiebach
+Comments: 36 pages, LaTeX; added reference for section 3.1; added one equation
+  in section 3.2.1
+Report-no: MIT-CTP-2879, MRI-PHY/P990722
+Journal-ref: JHEP 0003 (2000) 036
+\\
+  F-theory on K3 admits non-BPS states that are represented as string junctions
+extending between 7-branes. We classify the non-BPS states which are guaranteed
+to be stable on account of charge conservation and the existence of a region of
+moduli space where the 7-branes supporting the junction can be isolated from
+the rest of the branes. We find three possibilities; the 7-brane configurations
+carrying: (i) the D_1 algebra representing a D7-brane near an orientifold
+O7-plane, whose stable non-BPS state was identified before, (ii) the exotic
+affine E_1 algebra, whose stable non-BPS state seems to be genuinely
+non-perturbative, and, (iii) the affine E_2 algebra representing a D7-brane
+near a pair of O7-planes. As a byproduct of our work we construct explicitly
+all 7-brane configurations that can be isolated in a K3. These include
+non-collapsible configurations of affine type.
+\\

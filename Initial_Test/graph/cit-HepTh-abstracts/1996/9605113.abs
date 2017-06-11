@@ -1,0 +1,32 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9605113
+From: Sandip Trivedi <trivedi@fnth23.fnal.gov>
+Date: Wed, 15 May 96 18:16:16 -0500   (56kb)
+Date (revised): Mon, 10 Jun 96 15:46:35 -0500
+Date (revised): Fri, 9 Aug 96 17:39:04 -0500
+Date (revised): Mon, 16 Sep 96 10:49:02 -0500
+
+Title: Duality and Exact Results in Product Group Theories
+Authors: Erich Poppitz, Yael Shadmi, Sandip P. Trivedi
+Comments: 48 pages, Latex, 1 .ps figure, psfig.sty included; one reference
+  added, revised discussion of SUSY breaking, version to be published in Nucl.
+  Phys. B
+Report-no: EFI-96-15; Fermilab-Pub-96/107-T
+Journal-ref: Nucl.Phys. B480 (1996) 125-169
+\\
+  We study the non-perturbative behavior of some N=1 supersymmetric
+product-group gauge theories with the help of duality. As a test case we
+investigate an SU(2)xSU(2) theory in detail. Various dual theories are
+constructed using known simple-group duality for one group or both groups in
+succession. Several stringent tests show that the low-energy behavior of the
+dual theories agrees with that of the electric theory. When the theory is in
+the confining phase we calculate the exact superpotential. Our results strongly
+suggest that, in general, dual theories for product groups can be constructed
+in this manner, by using simple-group duality for both groups. Turning to a
+class of theories with SU(N)xSU(M) gauge symmetry we study the renormalization
+group flows in the space of the two gauge couplings and show that they are
+consistent with the absence of phase transitions. Finally, we show that a
+subset of these theories, with SU(N)xSU(N-1) symmetry break supersymmetry
+dynamically.
+\\

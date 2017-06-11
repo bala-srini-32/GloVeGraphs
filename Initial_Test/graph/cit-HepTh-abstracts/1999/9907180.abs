@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9907180
+From: Ludvig Faddeev <faddeev@pcu.helsinki.fi>
+Date: Fri, 23 Jul 1999 14:02:02 GMT   (6kb)
+
+Title: Decomposing the Yang-Mills Field
+Authors: Ludvig Faddeev and Antti J. Niemi
+Comments: 5 pages, latex, no figures
+Journal-ref: Phys.Lett. B464 (1999) 90-93
+\\
+  Recently we have proposed a set of variables for describing the physical
+parameters of SU(N) Yang--Mills field. Here we propose an off-shell
+generalization of our Ansatz. For this we envoke the Darboux theorem to
+decompose arbitrary one-form with respect to some basis of one-forms. After a
+partial gauge fixing we identify these forms with the preimages of holomorphic
+and antiholomorphic forms on the coset space $ SU(N)/U(1)^{N-1}$, identified as
+a particular coadjoint orbit. This yields an off-shell gauge fixed
+decomposition of the Yang-Mills connection that contains our original variables
+in a natural fashion.
+\\

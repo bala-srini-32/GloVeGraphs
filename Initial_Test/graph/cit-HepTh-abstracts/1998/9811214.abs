@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9811214
+From: Gregory Moore <moore@castalia.physics.yale.edu>
+Date: Wed, 25 Nov 1998 15:15:14 GMT   (42kb)
+Date (revised v2): Sat, 19 Dec 1998 22:33:50 GMT   (43kb)
+
+Title: 3-manifold topology and the Donaldson-Witten partition function
+Authors: Marcos Marino and Gregory Moore
+Comments: 35 pages, harvmac b-mode, 3 figures, minor result added
+Report-no: YCTP-P27-98
+Subj-class: High Energy Physics - Theory; Geometric Topology
+Journal-ref: Nucl.Phys. B547 (1999) 569-598
+\\
+  We consider Donaldson-Witten theory on four-manifolds of the form $X=Y \times
+{\bf S}^1$ where $Y$ is a compact three-manifold. We show that there are
+interesting relations between the four-dimensional Donaldson invariants of $X$
+and certain topological invariants of $Y$. In particular, we reinterpret a
+result of Meng-Taubes relating the Seiberg-Witten invariants to
+Reidemeister-Milnor torsion. If $b_1(Y)>1$ we show that the partition function
+reduces to the Casson-Walker-Lescop invariant of $Y$, as expected on formal
+grounds. In the case $b_1(Y)=1$ there is a correction. Consequently, in the
+case $b_1(Y)=1$, we observe an interesting subtlety in the standard
+expectations of Kaluza-Klein theory when applied to supersymmetric gauge theory
+compactified on a circle of small radius.
+\\

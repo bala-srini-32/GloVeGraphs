@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0110160
+From: Gerald V. Dunne <dunne@phys.uconn.edu>
+Date: Wed, 17 Oct 2001 20:35:28 GMT   (18kb)
+
+Title: Parity Violating Bosonic Loops at Finite Temperature
+Authors: V. S. Alves, Ashok Das, Gerald V. Dunne, and Silvana Perez
+Comments: 10 pp, 1 fig, revtex
+Journal-ref: Phys.Rev. D65 (2002) 085011
+\\
+  The finite temperature parity-violating contributions to the polarization
+tensor are computed at one loop in a system without fermions. The system
+studied is a Maxwell-Chern-Simons-Higgs system in the broken phase, for which
+the parity-violating terms are well known at zero temperature. At nonzero
+temperature the static and long-wavelength limits of the parity violating terms
+have very different structure, and involve non-analytic log terms depending on
+the various mass scales. At high temperature the boson loop contribution to the
+Chern-Simons term goes like T in the static limit and like T log T in the
+long-wavelength limit, in contrast to the fermion loop contribution which
+behaves like 1/T in the static limit and like log T/T in the long wavelength
+limit.
+\\

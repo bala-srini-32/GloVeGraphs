@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9808179
+From: andrea.cappelli@fi.infn.it
+Date: Sat, 29 Aug 1998 15:19:41 GMT   (33kb)
+
+Title: Hamiltonian Formulation of the W-Infinity Minimal Models
+Authors: Andrea Cappelli and Guillermo R. Zemba
+Comments: Latex, 35 pages, 2 figures, 1 table
+Report-no: preprint DFF 318/8/98
+Journal-ref: Nucl.Phys. B540 (1999) 610-638
+\\
+  The W-infinity minimal models are conformal field theories which can describe
+the edge excitations of the hierarchical plateaus in the quantum Hall effect.
+In this paper, these models are described in very explicit terms by using a
+bosonic Fock space with constraints, or, equivalently, with a non-trivial
+Hamiltonian. The Fock space is that of the multi-component Abelian conformal
+theories, which provide another possible description of the hierarchical
+plateaus; in this space, the minimal models are shown to correspond to the
+sub-set of states which satisfy the constraints. This reduction of degrees of
+freedom can also be implemented by adding a relevant interaction to the
+Hamiltonian, leading to a renormalization-group flow between the two theories.
+Next, a physical interpretation of the constraints is obtained by representing
+the quantum incompressible Hall fluids as generalized Fermi seas. Finally, the
+non-Abelian statistics of the quasi-particles in the W-infinity minimal models
+is described by computing their correlation functions in the Coulomb Gas
+approach.
+\\

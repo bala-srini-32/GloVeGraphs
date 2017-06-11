@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9611104
+From: Jacques Distler <distler@golem.ph.utexas.edu>
+Date: Thu, 14 Nov 1996 01:33:54 -0600   (18kb)
+
+Title: (0,2) Noncritical Strings in Six Dimensions
+Authors: Jacques Distler and Amihay Hanany
+Comments: 15 pages, LaTeX2e, using utarticle.cls (included), amsmath.sty,
+  amsfonts.sty and hyperref.sty. Bibtex style: utphys.bst (.bbl file included)
+Report-no: UTTG-19-96, IASSNS-HEP-96/116
+Journal-ref: Nucl.Phys. B490 (1997) 75-90
+\\
+  Type IIB strings compactified on K3 have a rich structure of solitonic
+strings, transforming under SO(21,5,Z). We derive the BPS tension formula
+for these strings, and discuss their properties, in particular, the points in
+the moduli space where certain strings become tensionless. By examining these
+tensionless string limits, we shed some further light on the conjectured dual
+M-Theory description of this compactification.
+\\

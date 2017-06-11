@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0203141
+From: Volkmar Putz <vputz@mis.mpg.de>
+Date: Fri, 15 Mar 2002 10:32:48 GMT   (16kb)
+Date (revised v2): Fri, 17 Jan 2003 10:22:05 GMT   (16kb)
+
+Title: Non-commutative U(1) Super-Yang-Mills Theory: Perturbative Self-Energy
+  Corrections
+Authors: A.A. Bichl, M. Ertl, A. Gerhold, J.M. Grimstrup, H. Grosse, L. Popp,
+  V. Putz, M. Schweda, R. Wulkenhaar
+Comments: 18 pages, latex, uses feynmf package; references added, Wess-Zumino
+  gauge removed
+Report-no: TUW 02-05, UWThPh-2002-09, CERN-TH/2002-051
+\\
+  The quantization of the non-commutative N=1, U(1) super-Yang-Mills action is
+performed in the superfield formalism. We calculate the one-loop corrections to
+the self-energy of the vector superfield. Although the power-counting theorem
+predicts quadratic ultraviolet and infrared divergences, there are actually
+only logarithmic UV and IR divergences, which is a crucial feature of
+non-commutative supersymmetric field theories.
+\\

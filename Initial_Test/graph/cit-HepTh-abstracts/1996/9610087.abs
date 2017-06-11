@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9610087
+From: Robert Sarsfield Dunne <R.S.Dunne@damtp.cam.ac.uk>
+Date: Fri, 11 Oct 1996 18:48:16 +0100   (27kb)
+
+Title: Geometrical foundations of fractional supersymmetry
+Authors: R.S. Dunne, A.J. Macfarlane, J.A. de Azc\'arraga and J.C. P\'erez
+  Bueno
+Comments: 42 pages, LaTeX. To appear in Int. J. Mod. Phys. A
+Report-no: DAMTP/96-57, FTUV/96-39 , IFIC/96-47
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+Journal-ref: Int.J.Mod.Phys. A12 (1997) 3275-3306
+\\
+  A deformed $q$-calculus is developed on the basis of an algebraic structure
+involving graded brackets. A number operator and left and right shift operators
+are constructed for this algebra, and the whole structure is related to the
+algebra of a $q$-deformed boson. The limit of this algebra when $q$ is a $n$-th
+root of unity is also studied in detail. By means of a chain rule expansion,
+the left and right derivatives are identified with the charge $Q$ and covariant
+derivative $D$ encountered in ordinary/fractional supersymmetry and this leads
+to new results for these operators. A generalized Berezin integral and
+fractional superspace measure arise as a natural part of our formalism. When
+$q$ is a root of unity the algebra is found to have a non-trivial Hopf
+structure, extending that associated with the anyonic line. One-dimensional
+ordinary/fractional superspace is identified with the braided line when $q$ is
+a root of unity, so that one-dimensional ordinary/fractional supersymmetry can
+be viewed as invariance under translation along this line. In our construction
+of fractional supersymmetry the $q$-deformed bosons play a role exactly
+analogous to that of the fermions in the familiar supersymmetric case.
+\\

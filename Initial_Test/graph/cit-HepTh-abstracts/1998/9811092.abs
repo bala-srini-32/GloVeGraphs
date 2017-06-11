@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9811092
+From: Dmitri Vassilevich <vassil@itp.uni-leipzig.de>
+Date: Tue, 10 Nov 1998 18:22:29 GMT   (14kb)
+Date (revised v2): Wed, 11 Nov 1998 15:53:15 GMT   (14kb)
+Date (revised v3): Thu, 26 Nov 1998 16:09:34 GMT   (15kb)
+
+Title: Effective action and Hawking radiation for dilaton coupled scalars in
+  two dimensions
+Authors: W. Kummer, D.V. Vassilevich
+Comments: latex, no figures, no macros, clarifying remarks on the effective
+  action approach are added
+Report-no: TUW--98--22
+Journal-ref: Phys.Rev. D60 (1999) 084021
+\\
+  The effective one-loop action for general dilaton theories with arbitrary
+dilaton-dependent measure and nonminimal coupling to scalar matter is computed.
+As an application we determine the Hawking flux to infinity from black holes in
+d-dimensions. We resolve the recently resurrected problem of an apparent
+negative flux for nonminimally coupled scalars: For any $D \geq 4$ Black Hole
+the complete flux turns out to be precisely the one of minimal coupling. This
+result is obtained from a Christensen-Fulling type argument involving the
+(non-)conservation of energy-momentum. It is compared with approaches using the
+effective action.
+\\

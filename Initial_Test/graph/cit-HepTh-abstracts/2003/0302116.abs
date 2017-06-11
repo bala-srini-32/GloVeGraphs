@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0302116
+From: Hagen Kleinert <kleinert@physik.fu-berlin.de>
+Date: Sun, 16 Feb 2003 07:07:07 GMT   (87kb)
+
+Title: Dependence of Variational Perturbation Expansions on Strong-Coupling
+  Behavior. Inapplicability of delta-Expansion to Field Theory
+Authors: B. Hamprecht and H. Kleinert
+Comments: Author Information under
+  http://www.physik.fu-berlin.de/~kleinert/institution.html . Latest update of
+  paper (including all PS fonts) at
+  http://www.physik.fu-berlin.de/~kleinert/341
+\\
+  We show that in applications of variational theory to quantum field theory it
+is essential to account for the correct Wegner exponent omega governing the
+approach to the strong-coupling, or scaling limit. Otherwise the procedure
+either does not converge at all or to the wrong limit. This invalidates all
+papers applying the so-called delta-expansion to quantum field theory.
+\\

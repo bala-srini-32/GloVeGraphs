@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9511101
+From: Jean-Loic Kneur <kneur@afsmail.cern.ch>
+Date: Tue, 14 Nov 1995 17:44:34 +0100 (MET)   (46kb)
+Date (revised): Wed, 25 Sep 1996 12:24:09 +0200 (MET DST)
+
+Title: Variational Solution of the Gross-Neveu Model: finite $N$ and
+  Renormalization
+Authors: C. Arvanitis, F. Geniet, M. Iacomi, J.-L. Kneur and A. Neveu
+Comments: 35 pages, Latex, 5 figures. Correction of a trivial mistake in the
+  Pad\'e approximant numerical program leads to a significant improvement of
+  the variational results for the mass gap, for arbitrary N. A more complete
+  comparison of different Pad\'e approximants is performed. Text modified
+  according to these new results, one figure and two references added
+Journal-ref: Int.J.Mod.Phys. A12 (1997) 3307-3334
+\\
+  We show how to perform systematically improvable variational calculations in
+the $O(2N)$ Gross-Neveu model for generic $N$, in such a way that all
+infinities usually plaguing such calculations are accounted for in a way
+compatible with the perturbative renormalization group . The final point is a
+general framework for the calculation of non-perturbative quantities like
+condensates, masses etc$\ldots$, in an asymptotically free field theory. For
+the Gross-Neveu model, the numerical results obtained from a ``2-loop'' down to
+low values of $N$.
+\\

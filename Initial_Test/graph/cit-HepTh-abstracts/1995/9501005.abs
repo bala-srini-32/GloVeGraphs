@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9501005
+From: Michael Roesgen <UNP020@IBM.RHRZ.UNI-BONN.DE>
+Date: Tue, 03 Jan 95 14:32:51 MEZ   (17kb)
+Date (revised): Mon, 13 Mar 95 16:54:11 MEZ
+Date (revised): Wed, 29 Apr 1998 18:53:41 GMT
+
+Title: Steps towards Lattice Virasoro Algebras: su(1,1)
+Authors: M. R\"osgen, R. Varnhagen
+Comments: 15 pages, plain TeX, 4 typos corrected
+Report-no: BONN-TH-94-23
+Journal-ref: Phys. Lett. B 350 (1995) 203 - 211
+\\
+  An explicit construction is presented for the action of the su(1,1)
+subalgebra of the Virasoro algebra on path spaces for the c(2,q) minimal
+models. In the case of the Lee-Yang edge singularity, we show how this action
+already fixes the central charge of the full Virasoro algebra. For this case,
+we additionally construct a representation in terms of generators of the
+corresponding Temperley-Lieb algebra.
+\\

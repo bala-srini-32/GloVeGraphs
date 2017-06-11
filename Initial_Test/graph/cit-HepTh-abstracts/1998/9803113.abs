@@ -1,0 +1,19 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9803113
+From: Michael J. Booth <booth@planck.pha.jhu.edu>
+Date: Fri, 13 Mar 1998 23:40:34 GMT   (9kb)
+Date (revised v2): Mon, 16 Mar 1998 03:35:57 GMT   (9kb)
+Date (revised v3): Tue, 31 Mar 1998 03:32:23 GMT   (11kb)
+
+Title: HeatK: A Mathematica Program for Computing Heat Kernel Coefficients
+Authors: Michael J. Booth
+Comments: latex, 9 pages, no figures. Expanded example section
+Report-no: JHU-TIPAC-98005
+\\
+  Heat kernel coefficients encode the short distance behavior of propagators in
+the presence of background fields, and are thus useful in quantum field theory.
+We present a Mathematica program for computing these coefficients and their
+derivatives, based on an algorithm by Avramidi\cite{Avramidi:npb91}. See
+http://fermi.pha.jhu.edu/~booth/HeatK/ for source and examples.
+\\

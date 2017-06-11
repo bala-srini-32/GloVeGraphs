@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0008072
+From: Robert Oeckl <r.oeckl@damtp.cam.ac.uk>
+Date: Tue, 8 Aug 2000 15:28:53 GMT   (23kb)
+Date (revised v2): Thu, 5 Apr 2001 12:58:54 GMT   (23kb)
+
+Title: The Quantum Geometry of Spin and Statistics
+Authors: Robert Oeckl
+Comments: 23 pages, LaTeX with AMS and XY-Pic macros, minor corrections and
+  references added
+Report-no: DAMTP-2000-81
+Journal-ref: J.Geom.Phys. 39 (2001) 233-252
+\\
+  Both, spin and statistics of a quantum system can be seen to arise from
+underlying (quantum) group symmetries. We show that the spin-statistics theorem
+is equivalent to a unification of these symmetries. Besides covering the
+Bose-Fermi case we classify the corresponding possibilities for anyonic spin
+and statistics. We incorporate the underlying extended concept of symmetry into
+quantum field theory in a generalised path integral formulation capable of
+handling general braid statistics. For bosons and fermions the different path
+integrals and Feynman rules naturally emerge without introducing Grassmann
+variables. We also consider the anyonic example of quons and obtain the path
+integral counterpart to the usual canonical approach.
+\\

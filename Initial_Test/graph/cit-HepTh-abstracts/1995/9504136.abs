@@ -1,0 +1,34 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9504136
+From: Kazuo Fujikawa <fujikawa@danjuro.phys.s.u-tokyo.ac.jp>
+Date: Wed, 26 Apr 1995 18:12:09 +0900   (7kb)
+Date (revised): Sat, 23 Sep 1995 18:51:44 +0900
+
+Title: Q-Deformed Oscillator Algebra and an Index Theorem for the Photon Phase
+  Operator
+Authors: Kazuo Fujikawa, L. C. Kwek and C. H. Oh
+Comments: 13 pages. A rather substantial revision has been made by employing an
+  explicit matrix representation of q-deformed oscillator algebra. In
+  particular, it is shown how to overcome the problem of negative norm for the
+  deformation parameter at a primitive root of unity. The revised version is in
+  press for Mod. Phys. Lett. A
+Report-no: UT-702,1995
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+Journal-ref: Mod.Phys.Lett. A10 (1995) 2543-2552
+\\
+  The quantum deformation of the oscillator algebra and its implications on the
+phase operator are studied from a view point of an index theorem by using an
+explicit matrix representation. For a positive deformation parameter $q$ or
+$q=exp(2\pi i\theta)$ with an irrational $\theta$, one obtains an index
+condition $\dml a - \dml a^{\dagger} = 1$ which allows only a non-hermitian
+phase operator with $\dml \expon^{i \varphi} - \dml
+(\expon^{i\varphi})^{\dagger} = 1$. For $q=exp(2\pi i\theta)$ with a rational
+$\theta$ , one formally obtains the singular situation $\dml a =\infty$ and $
+\dml a^{\dagger} = \infty$, which allows a hermitian phase operator with $\dml
+\expon^{i \Phi} - \dml (\expon^{i\Phi})^{\dagger} = 0$ as well as the
+non-hermitian one with $\dml \expon^{i \varphi} - \dml
+(\expon^{i\varphi})^{\dagger} = 1$. Implications of this interpretation of the
+quantum deformation are discussed. We also show how to overcome the problem of
+negative norm for $q=exp(2\pi i\theta)$.
+\\

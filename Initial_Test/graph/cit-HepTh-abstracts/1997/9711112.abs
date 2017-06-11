@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9711112
+From: klebanov@puhep1.Princeton.EDU (Igor Klebanov)
+Date: Sun, 16 Nov 1997 16:46:04 GMT   (10kb)
+Date (revised v2): Mon, 24 Nov 1997 22:35:46 GMT   (10kb)
+
+Title: Dynamics of (n, 1) Strings
+Authors: S. Gukov, I.R. Klebanov and A.M. Polyakov
+Comments: 10 pages, latex; minor corrections, references added
+Report-no: PUPT-1744
+Journal-ref: Phys.Lett. B423 (1998) 64-70
+\\
+  An $(n, 1)$ string is a bound state of a D-string and $n$ fundamental
+strings. It may be described by a D-string with a world volume electric field
+turned on. As the electric field approaches its critical value, $n$ becomes
+large. We calculate the 4-point function for transverse oscillations of an $(n,
+1)$ string, and the two-point function for massless closed strings scattering
+off an $(n, 1)$ string. In both cases we find a set of poles that becomes dense
+in the large $n$ limit. The effective tension that governs the spacing of these
+poles is the fundamental string tension divided by $1+(n\lambda)^2$, where
+$\lambda$ is the closed string coupling. We associate this effective tension
+with the open strings attached to the $(n, 1)$ string, thereby governing its
+dynamics. We also argue that the effective coupling strenth of these open
+strings is reduced by the electric field and approaches zero in the large $n$
+limit.
+\\

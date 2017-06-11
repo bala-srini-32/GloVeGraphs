@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0101148
+From: "Bob Delbourgo" <Bob.Delbourgo@utas.edu.au>
+Date: Tue, 23 Jan 2001 01:05:52 GMT   (14kb)
+Date (revised v2): Mon, 30 Jul 2001 00:14:23 GMT   (14kb)
+
+Title: Multidimensional Phase Space and Sunset Diagrams
+Authors: A. Bashir, R. Delbourgo and M.L. Roberts
+Comments: 12 pages, RevTex. 2 minor algebraic corrections to page 4 after eqns
+  (6) and (8)
+Report-no: UTAS-PHYS-01-01
+Journal-ref: J.Math.Phys. 42 (2001) 5553-5564
+\\
+  We derive expressions for the phase-space of a particle of momentum $p$
+decaying into $N$ particles, that are valid for any number of dimensions. These
+are the imaginary parts of so-called `sunset' diagrams, which we also obtain.
+The results are given as a series of hypergeometric functions, which terminate
+for odd dimensions and are also well-suited for deriving the threshold
+behaviour.
+\\

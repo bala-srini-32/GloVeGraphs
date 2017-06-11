@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0204160
+From: Walter Goldberger <walter@thsrv.lbl.gov>
+Date: Thu, 18 Apr 2002 19:48:31 GMT   (12kb)
+Date (revised v2): Fri, 1 Nov 2002 22:28:59 GMT   (12kb)
+
+Title: High Energy Field Theory in Truncated AdS Backgrounds
+Authors: Walter D. Goldberger and Ira Z. Rothstein
+Comments: LaTeX, 7 pages; minor typos fixed
+Report-no: LBNL-51485; UCB-PTH-02/18; CMUHEP-02-03
+Journal-ref: Phys.Rev.Lett. 89 (2002) 131601
+\\
+  In this letter we show that, in five-dimensional anti-deSitter space (AdS)
+truncated by boundary branes, effective field theory techniques are reliable at
+high energy (much higher than the scale suggested by the Kaluza-Klein mass
+gap), provided one computes suitable observables. We argue that in the model of
+Randall and Sundrum for generating the weak scale from the AdS warp factor, the
+high energy behavior of gauge fields can be calculated in a {\em cutoff
+independent manner}, provided one restricts Green's functions to external
+points on the Planck brane. Using the AdS/CFT correspondence, we calculate the
+one-loop correction to the Planck brane gauge propagator due to charged bulk
+fields. These effects give rise to non-universal logarithmic energy dependence
+for a range of scales above the Kaluza-Klein gap.
+\\

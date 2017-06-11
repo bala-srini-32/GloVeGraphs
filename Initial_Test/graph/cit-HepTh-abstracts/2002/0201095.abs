@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0201095
+From: Martin Schnabl <schnabl@lns.mit.edu>
+Date: Mon, 14 Jan 2002 23:47:51 GMT   (51kb)
+Date (revised v2): Mon, 24 Jun 2002 21:34:30 GMT   (51kb)
+Date (revised v3): Thu, 19 Dec 2002 19:48:19 GMT   (52kb)
+
+Title: Wedge states in string field theory
+Authors: Martin Schnabl
+Comments: 40 pages, 9 figures, v3: section 3.3 rewritten, few other
+  corrections, set in JHEP style
+Report-no: MIT-LNS-02-296, MIT-CTP-3248
+Journal-ref: JHEP 0301 (2003) 004
+\\
+  The wedge states form an important subalgebra in the string field theory. We
+review and further investigate their various properties. We find in particular
+a novel expression for the wedge states, which allows to understand their star
+products purely algebraically. The method allows also for treating the matter
+and ghost sectors separately. It turns out, that wedge states with different
+matter and ghost parts violate the associativity of the algebra. We introduce
+and study also wedge states with insertions of local operators and show how
+they are useful for obtaining exact results about convergence of level
+truncation calculations. These results help to clarify the issue of anomalies
+related to the identity and some exterior derivations in the string field
+algebra.
+\\

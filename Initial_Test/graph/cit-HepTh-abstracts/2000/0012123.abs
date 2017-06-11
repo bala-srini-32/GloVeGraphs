@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0012123
+From: Emanuele Raineri <e.raineri@qmw.ac.uk>
+Date: Thu, 14 Dec 2000 17:01:11 GMT   (20kb)
+Date (revised v2): Sun, 17 Dec 2000 20:37:26 GMT   (20kb)
+Date (revised v3): Tue, 11 Sep 2001 18:44:14 GMT   (24kb)
+
+Title: Electromagnetism and Gauge Theory on the Permutation Group $S_3$
+Authors: Shahn Majid and E. Raineri
+Comments: 28 pages, LaTex as revised March 2001 -- expanded remarks in last
+  section on the quantum theory, but no sig. changes
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+Journal-ref: J.Geom.Phys. 44 (2002) 129-155
+\\
+  Using noncommutative geometry we do U(1) gauge theory on the permutation
+group $S_3$. Unlike usual lattice gauge theories the use of a nonAbelian group
+here as spacetime corresponds to a background Riemannian curvature. In this
+background we solve spin 0, 1/2 and spin 1 equations of motion, including the
+spin 1 or `photon' case in the presence of sources, i.e. a theory of classical
+electromagnetism. Moreover, we solve the U(1) Yang-Mills theory (this differs
+from the U(1) Maxwell theory in noncommutative geometry), including the moduli
+spaces of flat connections. We show that the Yang-Mills action has a simple
+form in terms of Wilson loops in the permutation group, and we discuss aspects
+of the quantum theory.
+\\

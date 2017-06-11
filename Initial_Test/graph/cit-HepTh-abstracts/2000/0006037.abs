@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0006037
+From: Clifford V. Johnson <c.v.johnson@durham.ac.uk>
+Date: Tue, 6 Jun 2000 00:09:43 GMT   (9kb)
+Date (revised v2): Wed, 7 Jun 2000 22:58:28 GMT   (9kb)
+Date (revised v3): Mon, 12 Jun 2000 22:57:00 GMT   (9kb)
+
+Title: Scale Vs. Conformal Invariance in the AdS/CFT Correspondence
+Authors: Adel M. Awad and Clifford V. Johnson
+Comments: 4 pages, RevTeX (v3: references added)
+Report-no: UK/00-02; DTP/00/43
+Journal-ref: Phys.Rev. D62 (2000) 125010
+\\
+  We present two examples of non-trivial field theories which are scale
+invariant, but not conformally invariant. This is done by placing certain field
+theories, which are conformally invariant in flat space, onto curved
+backgrounds of a specific type. We define this using the AdS/CFT
+correspondence, which relates the physics of gravity in asymptotically Anti-de
+Sitter (AdS) spacetimes to that of a conformal field theory (CFT) in one
+dimension fewer. The AdS rotating (Kerr) black holes in five and seven
+dimensions provide us with the examples, since by the correspondence we are
+able to define and compute the action and stress tensor of four and six
+dimensional field theories residing on rotating Einstein universes, using the
+``boundary counterterm'' method. The rotation breaks conformal but not scale
+invariance. The AdS/CFT framework is therefore a natural arena for generating
+such examples of non-trivial scale invariant theories which are not conformally
+invariant.
+\\

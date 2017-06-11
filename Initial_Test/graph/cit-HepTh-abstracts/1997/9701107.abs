@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9701107
+From: devega@lpthe.jussieu.fr (Hector DE VEGA)
+Date: Tue, 21 Jan 1997 18:14:32 +0100 (MET)   (54kb)
+Date (revised): Wed, 19 Mar 1997 10:00:01 +0100 (MET)
+
+Title: Non linear integral equation and excited--states scaling functions in
+  the sine-Gordon model
+Author: C. Destri and H.J. de Vega
+Comments: LaTeX file, 40 pages, 4 figures in a tar.Z file (3 figures added and
+  few misprints corrected w.r.t. previous version)
+Subj-class: High Energy Physics - Theory; Exactly Solvable and Integrable
+  Systems
+Journal-ref: Nucl.Phys. B504 (1997) 621-664
+\\
+  The NLIE (the non-linear integral equation equivalent to the Bethe Ansatz
+equations for finite size) is generalized to excited states, that is states
+with holes and complex roots over the antiferromagnetic ground state. We
+consider the sine-Gordon/massive Thirring model (sG/mT) in a periodic box of
+length $L$ using the light-cone approach, in which the sG/mT model is
+obtained as the continuum limit of an inhomogeneous six vertex model. This NLIE
+is an useful starting point to compute the spectrum of excited states both
+analytically in the large $L$ (perturbative) and small $L$ (conformal)
+regimes as well as numerically.
+\\

@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9506124
+From: bonora@tsmi19.sissa.it
+Date: Mon, 19 Jun 1995 18:55:25 +0200   (26kb)
+
+Title: Multi-Matrix Models: Integrability Properties and Topological Content
+Authors: L.Bonora, F.Nesti, E.Vinteler
+Comments: 31 pages, Latex
+Report-no: SISSA 68/95/EP
+Journal-ref: Int.J.Mod.Phys. A11 (1996) 1797-1830
+\\
+  We analyze multi--matrix chain models. They can be considered as
+multi--component Toda lattice hierarchies subject to suitable coupling
+conditions. The extension of such models to include extra discrete states
+requires a weak form of integrability. The discrete states of the $q$--matrix
+model are organized in representations of $sl_q$. We solve exactly the
+Gaussian--type models, of which we compute several all-genus correlators. Among
+the latter models one can classify also the discretized $c=1$ string theory,
+which we revisit using Toda lattice hierarchy methods. Finally we analyze the
+topological field theory content of the $2q$--matrix models: we define primary
+fields (which are $\infty^q$), metrics and structure constants and prove that
+they satisfy the axioms of topological field theories. We outline a possible
+method to extract interesting topological field theories with a finite number
+of primaries.
+\\

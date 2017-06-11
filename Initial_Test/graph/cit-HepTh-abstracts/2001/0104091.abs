@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0104091
+From: "carmelo@elberth.fis.ucm.es" <carmelo@elbereth.fis.ucm.es>
+Date: Tue, 10 Apr 2001 11:50:39 GMT   (18kb)
+
+Title: Computing noncommutative Chern-Simons theory radiative corrections on
+  the back of an envelope
+Authors: C.P. Martin (UCM)
+Comments: In memory of Professor G. Leibbrandt
+Report-no: FT/UCM-80-2001
+Journal-ref: Phys.Lett. B515 (2001) 185-191
+\\
+  We show that the renormalized U(N) noncommutative Chern-Simons theory can be
+defined in perturbation theory so that there are no loop corrections to the 1PI
+functional of the theory in an arbitrary homogeneous axial (time-like,
+light-like or space-like) gauge. We define the free propagators of the fields
+of the theory by using the Leibbrandt-Mandelstam prescription --which allows
+Wick rotation and is consistent with power-counting-- and regularize its Green
+functions with the help of a family of regulators which explicitly preserve the
+infinitesimal vector Grassmann symmetry of the theory. We also show that in
+perturbation theory the nonvanishing Green functions of the elementary fields
+of the theory are products of the free propagators.
+\\

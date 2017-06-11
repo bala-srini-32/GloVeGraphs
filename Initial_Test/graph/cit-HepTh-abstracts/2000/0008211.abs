@@ -1,0 +1,35 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0008211
+From: "Adel M. Ahmed" <adel@pa.uky.edu>
+Date: Mon, 28 Aug 2000 18:17:10 GMT   (16kb)
+Date (revised v2): Tue, 29 Aug 2000 17:35:40 GMT   (16kb)
+Date (revised v3): Wed, 6 Sep 2000 18:04:12 GMT   (16kb)
+
+Title: Higher Dimensional Kerr-AdS Black Holes and the AdS/CFT Correspondence
+Authors: Adel M. Awad, Clifford V. Johnson
+Comments: 18 pages, LaTex (v3: references added. footnote added)
+Report-no: UK/00-05, DTP/00/75
+Journal-ref: Phys.Rev. D63 (2001) 124023
+\\
+  Using the counterterm subtraction technique we calculatehe stress-energy
+tensor, action, and other physical quantities for Kerr-AdS black holes in
+various dimensions. For Kerr-AdS_5 with both rotation parameters non-zero, we
+demonstrate that stress-energy tensor, in the zero mass parameter limit, is
+equal to the stress tensor of the weakly coupled four dimensional dual field
+theory. As a result, the total energy of the generalKerr-AdS_5 black hole at
+zero mass parameter, exactly matches the Casimir energy of the dual field
+theory. We show that at high temperature, the general Kerr-AdS_5 and
+perturbative field theory stress-energy tensors are equal, up to the usual
+factor of 3/4. We also use the counterterm technique to calculate the stress
+tensors and actions for Kerr-AdS_6, and Kerr-AdS_7 black holes, with one
+rotation parameter, and we display the results. We discuss the conformal
+anomalies of the field theories dual to the Kerr-AdS_5 and Kerr-AdS_7
+spacetimes. In these two field theories, we show that the rotation parameters
+break conformal invariance but not scale invariance, a novel result for a
+non-trivial field theory. For Kerr-AdS_7 the conformal anomalies calculated on
+the gravity side and the dual (0,2) tensor multiplet theory are equal up to 4/7
+factor. We expect that the Casimir energy of the free field theory is the same
+as the energy of the Kerr-AdS_7 black hole (with zero mass parameter), up to
+that factor.
+\\

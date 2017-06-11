@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9807148
+From: Raphael Bousso <R.Bousso@damtp.cam.ac.uk>
+Date: Mon, 20 Jul 1998 23:44:07 GMT   (13kb)
+
+Title: Lorentzian Condition in Quantum Gravity
+Authors: Raphael Bousso (Stanford) and Stephen Hawking (Cambridge)
+Comments: 14 pages, LaTeX2e, 2 figures
+Report-no: SU-ITP-98-26, DAMTP-1998-87
+Journal-ref: Phys.Rev. D59 (1999) 103501; Erratum-ibid. D60 (1999) 109903
+\\
+  The wave function of the universe is usually taken to be a functional of the
+three-metric on a spacelike section, Sigma, which is measured. It is sometimes
+better, however, to work in the conjugate representation, where the wave
+function depends on a quantity related to the second fundamental form of Sigma.
+This makes it possible to ensure that Sigma is part of a Lorentzian universe by
+requiring that the argument of the wave function be purely imaginary. We
+demonstrate the advantages of this formalism first in the well-known examples
+of the nucleation of a de Sitter or a Nariai universe. We then use it to
+calculate the pair creation rate for sub-maximal black holes in de Sitter
+space, which had been thought to vanish semi-classically.
+\\

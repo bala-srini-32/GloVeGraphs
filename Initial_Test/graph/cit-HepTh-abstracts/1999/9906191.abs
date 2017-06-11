@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9906191
+From: Adam Ritz <aritz@hep.umn.edu>
+Date: Thu, 24 Jun 1999 19:23:32 GMT   (35kb)
+Date (revised v2): Wed, 30 Jun 1999 17:10:20 GMT   (35kb)
+Date (revised v3): Tue, 9 Nov 1999 11:52:11 GMT   (35kb)
+
+Title: A Note on Classical String Dynamics on AdS_3
+Authors: Maximo Banados and Adam Ritz
+Comments: 26 pages, RevTeX; one minor correction, to appear in Phys. Rev. D
+Report-no: TPI-MINN-99/33, UMN-TH-1807-99
+Journal-ref: Phys.Rev. D60 (1999) 126004
+\\
+  We consider bosonic strings propagating on Euclidean adS_3, and study in
+particular the realization of various worldsheet symmetries. We give a proper
+definition for the Brown-Henneaux asymptotic target space symmetry, when acting
+on the string action, and derive the Giveon-Kutasov-Seiberg worldsheet contour
+integral representation simply by using Noether's theorem. We show that making
+identifications in the target space is equivalent to the insertion of an
+(exponentiated) graviton vertex operator carrying the corresponding charge.
+Finally, we point out an interesting relation between 3D gravity and the
+dynamics of the worldsheet on adS_3. Both theories are described by an
+SL(2,C)/SU(2) WZW model, and we prove that the reduction conditions determined
+on one hand by worldsheet diffeomorphism invariance, and on the other by the
+Brown-Henneaux boundary conditions, are the same.
+\\

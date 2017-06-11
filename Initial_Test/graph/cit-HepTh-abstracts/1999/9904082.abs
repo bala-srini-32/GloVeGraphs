@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9904082
+From: Pakuliak Stanislav <pakuliak@thsun1.jinr.ru>
+Date: Sun, 11 Apr 1999 15:19:04 GMT   (43kb)
+Date (revised v2): Sun, 25 Apr 1999 08:43:51 GMT   (43kb)
+Date (revised v3): Mon, 6 Mar 2000 16:04:35 GMT   (43kb)
+
+Title: Angular Quantization of the Sine-Gordon Model at the Free Fermion Point
+Authors: S. Khoroshkin, A. LeClair, S. Pakuliak
+Comments: 35 pages, LaTeX 2.09, bezier.sty, final version for publication
+Report-no: ITEP-TH-75/98, CLNS 99/1607
+Subj-class: High Energy Physics - Theory; Quantum Algebra; Exactly Solvable and
+  Integrable Systems
+Journal-ref: Adv.Theor.Math.Phys. 3 (1999) 1227-1287
+\\
+  The goal of this paper is to analyse the method of angular quantization for
+the Sine-Gordon model at the free fermion point, which is one of the most
+investigated models of the two-dimensional integrable field theories. The
+angular quantization method (see hep-th/9707091) is a continuous analog of the
+Baxter's corner transfer matrix method. Investigating the canonical
+quantization of the free massive Dirac fermions in one Rindler wedge we
+identify this quantization with a representation of the infinite-dimensional
+algebra introduced in the paper q-alg/9702002 and specialized to the free
+fermion point. We construct further the main ingredients of the SG theory in
+terms of the representation theory of this algebra following the approach by
+M.Jimbo, T.Miwa et al.
+\\

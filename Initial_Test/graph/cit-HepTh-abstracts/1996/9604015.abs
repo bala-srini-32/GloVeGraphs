@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9604015
+From: Heribert Weigert <weigert@mnhepw.hep.umn.edu>
+Date: Tue, 2 Apr 1996 14:58:48 -0600   (59kb)
+
+Title: Radial propagators and Wilson loops
+Author: Stefan Leupold and Heribert Weigert
+Comments: 26 pages, LaTeX2e, 4 postscript figures included. Uses epsf,
+  latexsym, amssymb and fancyheadings
+Report-no: TPR-95-31
+Journal-ref: Phys.Rev. D54 (1996) 7695-7709
+\\
+  We present a relation which connects the propagator in the radial
+(Fock-Schwinger) gauge with a gauge invariant Wilson loop. It is closely
+related to the well-known field strength formula and can be used to calculate
+the radial gauge propagator. The result is shown to diverge in four-dimensional
+space even for free fields, its singular nature is however naturally explained
+using the renormalization properties of Wilson loops with cusps and
+self-intersections. Using this observation we provide a consistent
+regularization scheme to facilitate loop calculations. Finally we compare our
+results with previous approaches to derive a propagator in Fock-Schwinger
+gauge.
+\\

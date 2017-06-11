@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9901023
+From: Noah Graham <graham@mitlns.mit.edu>
+Date: Wed, 6 Jan 1999 19:42:24 GMT   (123kb)
+
+Title: Fermionic One-Loop Corrections to Soliton Energies in 1+1 Dimensions
+Authors: N. Graham and R. L. Jaffe
+Comments: 12 pages, 4 figures, uses BoxedEPS
+Report-no: MIT-CTP#2813
+Journal-ref: Nucl.Phys. B549 (1999) 516-526
+\\
+  We demonstrate an unambiguous and robust method for computing fermionic
+corrections to the energies of classical background field configurations. We
+consider the particular case of a sequence of background field configurations
+that interpolates continuously between the trivial vacuum and a widely
+separated soliton/antisoliton pair in 1+1 dimensions. Working in the continuum,
+we use phase shifts, the Born approximation, and Levinson's theorem to avoid
+ambiguities of renormalization procedure and boundary conditions. We carry out
+the calculation analytically at both ends of the interpolation and numerically
+in between, and show how the relevant physical quantities vary continuously. In
+the process, we elucidate properties of the fermionic phase shifts and zero
+modes.
+\\

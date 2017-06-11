@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9909126
+From: Dirk Kreimer <kreimer@ihes.fr>
+Date: Fri, 17 Sep 1999 20:05:43 GMT   (7kb)
+Date (revised v2): Sat, 18 Sep 1999 10:10:15 GMT   (7kb)
+Date (revised v3): Thu, 30 Sep 1999 11:22:09 GMT   (7kb)
+
+Title: Renormalization in quantum field theory and the Riemann-Hilbert problem
+Authors: Alain Connes and Dirk Kreimer
+Comments: 8 pages, plain LaTeX
+Report-no: IHES/M/99/75
+Subj-class: High Energy Physics - Theory; Quantum Algebra; Mathematical Physics
+Journal-ref: JHEP 9909 (1999) 024
+\\
+  We show that renormalization in quantum field theory is a special instance of
+a general mathematical procedure of multiplicative extraction of finite values
+based on the Riemann-Hilbert problem. Given a loop $\gamma(z), | z |=1$ of
+elements of a complex Lie group G the general procedure is given by evaluation
+of $ \gamma_{+}(z)$ at z=0 after performing the Birkhoff decomposition $
+\gamma(z)=\gamma_{-}(z)^{-1} \gamma_{+}(z)$ where $ \gamma_{\pm}(z) \in G$ are
+loops holomorphic in the inner and outer domains of the Riemann sphere (with
+$\gamma_{-}(\infty)=1$). We show that, using dimensional regularization, the
+bare data in quantum field theory delivers a loop (where z is now the deviation
+from 4 of the complex dimension) of elements of the decorated Butcher group
+(obtained using the Milnor-Moore theorem from the Kreimer Hopf algebra of
+renormalization) and that the above general procedure delivers the renormalized
+physical theory in the minimal substraction scheme.
+\\

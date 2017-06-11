@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9612120
+From: Harald Dorn <dorn@qft3.physik.hu-berlin.de>
+Date: Wed, 11 Dec 96 16:11:32 MET   (28kb)
+Date (revised): Wed, 14 May 97 15:48:51 METDST
+
+Title: Nonabelian gauge field dynamics on matrix D-branes
+Author: H. Dorn (Humboldt University Berlin)
+Comments: 14 pages, Latex, 2 figures, including epsfig.sty, a wrong reference
+  number corrected
+Report-no: HUB-EP-96/62
+Journal-ref: Nucl.Phys. B494 (1997) 105-118
+\\
+  We construct a calculational scheme for handling the matrix ordering problems
+connected with the appearance of D-brane positions taking values in the same
+Lie algebra as the nonabelian gauge field living on the D-brane. The formalism
+is based on the use of an one-dimensional auxiliary field living on the
+boundary of the string world sheet and taking care of the order of the matrix
+valued fields. The resulting system of equations of motion for both the gauge
+field and the D-brane position is derived in lowest order of the $\alpha'$
+-expansion.
+\\

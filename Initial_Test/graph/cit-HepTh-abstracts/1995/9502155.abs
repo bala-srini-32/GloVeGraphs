@@ -1,0 +1,37 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9502155
+From: "Jose L. Fernandez-Barbon" <barbon@puhep1.Princeton.EDU>
+Date: Tue, 28 Feb 95 19:44:43 -0500   (26kb)
+Date (revised): Sun, 5 Mar 95 18:59:46 -0500
+Date (revised): Thu, 7 Sep 1995 21:04:50 -0400
+
+Title: Quantum black hole entropy and Newton constant renormalization
+Authors: J.L.F. Barbon and R. Emparan
+Comments: 24 pages, LaTeX. Several points have been clarified, though results
+  remain the same. Minor typos corrected, and references updated. Version to
+  appear in Phys. Rev. D
+Report-no: PUPT-1529 , EHU-FT 95/5
+Journal-ref: Phys.Rev. D52 (1995) 4527-4539
+\\
+  We discuss the status of the black hole entropy formula $S_{\rm BH} = A_H
+/4G$ in low energy effective field theory. The low energy expansion of the
+black hole entropy is studied in a non-equilibrium situation: the semiclassical
+decay of hot flat space by black hole nucleation. In this context the entropy
+can be defined as an enhancement factor in the semiclassical decay rate, which
+is dominated by a sphaleron-like saddle point. We find that all perturbative
+divergences appearing in Euclidean calculations of the entropy can be
+renormalized in low energy couplings. We also discuss some formal aspects of
+the relation between the Euclidean and Hamiltonian approaches to the one loop
+corrections to black hole entropy and geometric entropy, and we emphasize the
+virtues of the use of covariant regularization prescriptions. In fact, the
+definition of black hole entropy in terms of decay rates {\it requires} the use
+of covariant measures and accordingly, covariant regularizations in path
+integrals. Finally, we speculate on the possibility that low energy effective
+field theory could be sufficient to understand the microscopic degrees of
+freedom underlying black hole entropy. We propose a qualitative physical
+picture in which black hole entropy refers to a space of quasi-coherent states
+of infalling matter, together with its gravitational field. We stress that this
+scenario might provide a low energy explanation of both the black hole entropy
+and the information puzzle.
+\\

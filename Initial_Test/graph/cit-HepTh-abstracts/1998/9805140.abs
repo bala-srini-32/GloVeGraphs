@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9805140
+From: "Steven S. Gubser" <ssgubser@viper.princeton.edu>
+Date: Thu, 21 May 1998 21:03:29 GMT   (22kb)
+Date (revised v2): Thu, 29 Jul 1999 21:18:36 GMT   (22kb)
+
+Title: Exact absorption probabilities for the D3-brane
+Authors: Steven S. Gubser (Princeton) and Akikazu Hashimoto (ITP Santa Barbara)
+Comments: 18 pages, 1 figure, small corrections
+Report-no: PUPT-1791, NSF-ITP-98-058
+Journal-ref: Commun.Math.Phys. 203 (1999) 325-340
+\\
+  We consider a minimal scalar in the presence of a three-brane in ten
+dimensions. The linearized equation of motion, which is just the wave equation
+in the three-brane metric, can be solved in terms of associated Mathieu
+functions. An exact expression for the reflection and absorption probabilities
+can be obtained in terms of the characteristic exponent of Mathieu's equation.
+We describe an algorithm for obtaining the low-energy behavior as a series
+expansion, and discuss the implications for the world-volume theory of
+D3-branes.
+\\

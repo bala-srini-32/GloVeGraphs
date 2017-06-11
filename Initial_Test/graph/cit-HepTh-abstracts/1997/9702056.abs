@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9702056
+From: Damiano Anselmi <anselmi@pth.polytechnique.fr>
+Date: Thu, 6 Feb 1997 18:39:42 +0100 (MET)   (14kb)
+Date (revised): Sat, 26 Apr 1997 16:11:01 +0200 (MET DST)
+
+Title: Central functions and their physical implications
+Author: D.Anselmi
+Comments: 11 pages, LaTeX. Some points stressed. Three references added
+Report-no: CPTH-S493.0197
+Journal-ref: JHEP 9805 (1998) 005
+\\
+  I define central functions c(g) and c'(g) in quantum field theory, useful to
+study the flow of the numbers of vector, spinor and scalar degrees of freedom
+from the UV limit to the IR limit and basic ingredients for a description of
+quantum field theory as an interpolating theory between pairs of 4D conformal
+field theories. The key importance of the correlator of four stress-energy
+tensors is outlined in this respect. Then I focus the analysis on the
+behaviours of the central functions in QCD, computing their slopes in the UV
+critical point. To two-loops, c(g) and c'(g) point towards the expected IR
+directions. As a possible physical application, I argue that a closer study of
+the central functions might allow us to lower the upper bound on the number of
+generations to the observed value. Candidate all-order expressions for the
+central functions are compared with the predictions of electric-magnetic
+duality.
+\\

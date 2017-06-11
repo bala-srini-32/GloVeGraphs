@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9906107
+From: "Vladimir Plechko" <plechko@thsun1.jinr.ru>
+Date: Tue, 15 Jun 1999 14:49:38 GMT   (7kb)
+
+Title: Fermionic Path Integrals and Two-Dimensional Ising Model with Quenched
+  Site Disorder
+Authors: V.N. Plechko (Bogoliubov Lab Dubna)
+Comments: LaTeX, 5 pages, no figures. A plenary talk at the 6th International
+  Conference on Path Integrals from peV to TeV, August 25--29, 1998, Florence,
+  Italy
+Subj-class: High Energy Physics - Theory; Statistical Mechanics
+Journal-ref: In ``Path Integrals from peV to TeV: 50 Years after Feynman's
+  Paper'', Proceedings of the 6th International Conference on Path Integrals
+  from peV to TeV, August 25--29, 1998, Florence, Italy. Edited by
+  R.Casalbuoni, R.Giachetti, V.Tognetti, R.Vaia and P.Verrucchi (World
+  Scientific, Singapore, 1999) p.137-141
+\\
+  The notion of the integral over the anticommuting Grassmann variables is
+applied to analyze the fermionic structure of the 2D Ising model with quenched
+site dilution. In the $N$-replica scheme, the model is explicitly reformulated
+as a theory of interacting fermions on a lattice. For weak dilution, the
+continuum-limit approximation implies the log-log singularity in the specific
+heat near $T_c$.
+\\

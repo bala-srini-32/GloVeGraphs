@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9508095
+From: Eliyahu Graitser <eliyahu@astro.huji.ac.il>
+Date: Sun, 20 Aug 95 14:07 +0200   (11kb)
+Date (revised): Thu, 4 Dec 1997 16:15:33 GMT
+
+Title: A Change of Variables to the Dual and Factorization of Composite
+  Anomalous Jacobians
+Authors: Eliyahu Greitzer
+Comments: 15 pages, no figures, Latex file, A treatment of the global aspects
+  of the abelian and of semisimple duality groups are added. General formulas
+  for the mixed anomaly are derived
+Journal-ref: Phys.Rev. D57 (1998) 6350-6355
+\\
+  Changes of variables giving the dual model are constructed explicitly for
+sigma-models without isotropy. In particular, the jacobian is calculated to
+give the known results. The global aspects of the abelian case as well as some
+of those of the cases where the isometry group is simply connected are
+considered.
+        Considering the anomalous case, we infer by a consistency argument that
+the `multiplicative anomaly' should be replaceable by adequate rules for
+factorization of composite jacobians. These rules are then generalized in a
+simple way for composite jacobians defined in spaces of different types.
+Implimentation of these rules then gives specific formulas for the anomally for
+semisimple algebras and also for solvable ones.
+\\

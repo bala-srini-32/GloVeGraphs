@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0003143
+From: Marco Scandurra <scandurr@itp.uni-leipzig.de>
+Date: Thu, 16 Mar 2000 17:14:12 GMT   (39kb)
+Date (revised v2): Fri, 17 Mar 2000 16:03:29 GMT   (39kb)
+Date (revised v3): Mon, 20 Mar 2000 11:09:57 GMT   (39kb)
+
+Title: Vacuum energy in the presence of a magnetic string with delta function
+  profile
+Authors: M. Scandurra (Leipzig U., Inst. Theo. Physics)
+Comments: 30 pages, 10 figures
+Journal-ref: Phys.Rev. D62 (2000) 085024
+\\
+  We present a calculation of the ground state energy of massive spinor fields
+and massive scalar fields in the background of an inhomogeneous magnetic string
+with potential given by a delta function. The zeta functional regularization is
+used and the lowest heat kernel coefficients are calculated. The rest of the
+analytical calculation adopts the Jost function formalism. In the numerical
+part of the work the renormalized vacuum energy as a function of the radius $R$
+of the string is calculated and plotted for various values of the strength of
+the potential. The sign of the energy is found to change with the radius. For
+both scalar and spinor fields the renormalized energy shows no logarithmic
+behaviour in the limit $R\to 0$, as was expected from the vanishing of the heat
+kernel coefficient $A_2$, which is not zero for other types of profiles.
+\\

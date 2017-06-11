@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0212296
+From: Vasily Pestun <pestun@gate.itep.ru>
+Date: Wed, 25 Dec 2002 00:13:58 GMT   (31kb)
+Date (revised v2): Tue, 7 Jan 2003 14:27:44 GMT   (31kb)
+Date (revised v3): Fri, 28 Feb 2003 10:35:50 GMT   (31kb)
+
+Title: Comparing strings in AdS(5)xS(5) to planar diagrams: an example
+Authors: V. Pestun, K. Zarembo
+Comments: 16 pages, 4 figures, LaTeX; v2: typos corrected; v3: clarification of
+  boundary conditions at infinity added
+Report-no: ITEP-TH-60/02, UUITP-19/02
+\\
+  The correlator of a Wilson loop with a local operator in N=4 SYM theory can
+be represented by a string amplitude in AdS(5)xS(5). This amplitude describes
+an overlap of the boundary state, which is associated with the loop, with the
+string mode, which is dual to the local operator. For chiral primary operators
+with a large R charge, the amplitude can be calculated by semiclassical
+techniques. We compare the semiclassical string amplitude to the SYM
+perturbation theory and find an exact agrement to the first two non-vanishing
+orders.
+\\

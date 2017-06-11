@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9801195
+From: Satoshi Watamura <watamura@tuhep.phys.tohoku.ac.jp>
+Date: Thu, 29 Jan 1998 05:26:43 GMT   (16kb)
+Date (revised v2): Thu, 12 Feb 1998 05:57:28 GMT   (0kb,I)
+Date (revised v3): Thu, 7 May 1998 03:09:52 GMT   (18kb)
+Date (revised v4): Thu, 23 Mar 2000 02:27:17 GMT   (20kb)
+
+Title: Noncommutative Geometry and Gauge Theory on Fuzzy Sphere
+Authors: Ursula Carow-Watamura, Satoshi Watamura (Tohoku Univ.)
+Comments: LaTeX 26 pages, final version (Dec.1999) accepted in CMP. An extra
+  term in the gauge action is discussed
+Report-no: TU-HEP 528
+Journal-ref: Commun.Math.Phys. 212 (2000) 395-413
+\\
+  The differential algebra on the fuzzy sphere is constructed by applying
+Connes' scheme. The U(1) gauge theory on the fuzzy sphere based on this
+differential algebra is defined. The local U(1) gauge transformation on the
+fuzzy sphere is identified with the left $U(N+1)$ transformation of the field,
+where a field is a bimodule over the quantized algebra $\CA_N$. The interaction
+with a complex scalar field is also given.
+\\

@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9810135
+From: Yuji Satoh <ysatoh@viper.princeton.edu>
+Date: Mon, 19 Oct 1998 02:33:19 GMT   (18kb)
+Date (revised v2): Thu, 22 Oct 1998 21:16:46 GMT   (18kb)
+Date (revised v3): Tue, 12 Jan 1999 00:15:03 GMT   (18kb)
+
+Title: BTZ black holes and the near-horizon geometry of higher-dimensional
+  black holes
+Author: Yuji Satoh
+Comments: 19 pages, LaTex, (v2) a comment on black holes with 2 and 3 charges
+  added, (v3) some phrases made more precise, references added, minor changes;
+  version to appear in Phys. Rev. D
+Report-no: PUPT-1816
+Journal-ref: Phys.Rev. D59 (1999) 084010
+\\
+  We investigate the connection between the BTZ black holes and the
+near-horizon geometry of higher-dimensional black holes. Under mild conditions,
+we show that (i) if a black hole has a global structure of the type of the
+non-extremal Reissner-Nordstrom black holes, its near-horizon geometry is
+$AdS_2$ times a sphere, and further (ii) if such a black hole is obtained from
+a boosted black string by dimensional reduction, the near-horizon geometry of
+the latter contains a BTZ black hole. Because of these facts, the calculation
+of the Bekenstein-Hawking entropy and the absorption cross-sections of scalar
+fields is essentially reduced to the corresponding calculation in the BTZ
+geometry under appropriate conditions. This holds even if the geometry is not
+supersymmetric in the extremal limit. Several examples are discussed. We also
+discuss some generalizations to geometries which do not have $AdS$ near the
+horizon.
+\\

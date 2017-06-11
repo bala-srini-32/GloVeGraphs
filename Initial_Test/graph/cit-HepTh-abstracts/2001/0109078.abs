@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0109078
+From: Alexei Zamolodchikov <zamolod@lpm.univ-montp2.fr>
+Date: Sun, 9 Sep 2001 10:29:54 GMT   (30kb)
+
+Title: Scaling Lee-Yang Model on a Sphere. I. Partition Function
+Authors: Al.Zamolodchikov
+Comments: Extended version of a talk presented at the NATO Advanced Research
+  Workshop on Statistical Field Theories, Como 18--23 June 2001
+Journal-ref: JHEP 0207 (2002) 029
+\\
+  Some general properties of perturbed (rational) CFT in the background metric
+of symmetric 2D sphere of radius $R$ are discussed, including conformal
+perturbation theory for the partition function and the large $R$ asymptotic.
+The truncated conformal space scheme is adopted to treat numerically perturbed
+rational CFT's in the spherical background. Numerical results obtained for the
+scaling Lee-Yang model lead to the conclusion that the partition function is an
+entire function of the coupling constant. Exploiting this analytic structure we
+are able to describe rather precisely the ``experimental'' truncated space
+data, including even the large $R$ behavior, starting only with the CFT
+information and few first terms of conformal perturbation theory.
+\\

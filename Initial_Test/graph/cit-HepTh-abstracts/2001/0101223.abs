@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0101223
+From: Wolfgang LUCHA <lucha@hephy.oeaw.ac.at>
+Date: Wed, 31 Jan 2001 12:24:05 GMT   (156kb)
+Date (revised v2): Wed, 24 Oct 2001 12:58:34 GMT   (16kb)
+
+Title: Energy bounds for the spinless Salpeter equation
+Authors: Richard L. Hall, Wolfgang Lucha, and F. F. Schoberl
+Comments: 11 pages, 1 figure
+Report-no: HEPHY-PUB 736/01, UWThPh-2000-52, CUQM-84
+Subj-class: High Energy Physics - Theory; Mathematical Physics
+Journal-ref: J.Math.Phys. 42 (2001) 5228-5237
+\\
+  We study the spectrum of the spinless-Salpeter Hamiltonian H = \beta
+\sqrt{m^2 + p^2} + V(r), where V(r) is an attractive central potential in three
+dimensions. If V(r) is a convex transformation of the Coulomb potential -1/r
+and a concave transformation of the harmonic-oscillator potential r^2, then
+upper and lower bounds on the discrete eigenvalues of H can be constructed,
+which may all be expressed in the form E = min_{r>0} [ \beta \sqrt{m^2 +
+P^2/r^2} + V(r) ] for suitable values of P here provided. At the critical point
+the relative growth to the Coulomb potential h(r)=-1/r must be bounded by dV/dh
+< 2\beta/\pi.
+\\

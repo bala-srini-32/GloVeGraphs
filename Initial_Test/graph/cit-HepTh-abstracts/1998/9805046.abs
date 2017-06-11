@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9805046
+From: Anatoli Konechny <konechny@math.UCDavis.edu>
+Date: Sat, 9 May 1998 01:21:36 GMT   (10kb)
+Date (revised v2): Wed, 27 May 1998 00:12:46 GMT   (11kb)
+Date (revised v3): Tue, 29 Sep 1998 02:30:07 GMT   (10kb)
+Date (revised v4): Fri, 22 Jan 1999 10:04:08 GMT   (11kb)
+
+Title: On Asymptotic Hamiltonian for SU(N) Matrix Theory
+Authors: A. Konechny
+Comments: 13 pages, Latex; v2: a reference added; v3: References to the papers
+  by M.B. Green and M. Gutperle are added. The complete calculation of the
+  Witten index for SU(N) matrix theory follows from combination of the results
+  of our paper with the results of M.B. Green and M. Gutperle and the results
+  obtained by G. Moore, N. Nekrasov, and S. Shatashvili
+Journal-ref: JHEP 9810 (1998) 018
+\\
+  We compute the leading contribution to the effective Hamiltonian of SU(N)
+matrix theory in the limit of large separation. We work with a gauge fixed
+Hamiltonian and use generalized Born-Oppenheimer approximation, extending the
+recent work of Halpern and Schwartz for SU(2). The answer turns out to be a
+free Hamiltonian for the coordinates along the flat directions of the
+potential. Applications to finding ground state candidates and calculation of
+the correction (surface) term to Witten index are discussed.
+\\

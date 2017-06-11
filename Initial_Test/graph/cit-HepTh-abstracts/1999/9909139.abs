@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9909139
+From: Isao Kishimoto <ikishimo@gauge.scphys.kyoto-u.ac.jp>
+Date: Mon, 20 Sep 1999 20:39:46 GMT   (9kb)
+Date (revised v2): Tue, 28 Sep 1999 12:22:37 GMT   (10kb)
+
+Title: Comments on Gauge Equivalence in Noncommutative Geometry
+Authors: Tsuguhiko Asakawa and Isao Kishimoto
+Comments: 10 pages, LaTeX2e, note added
+Report-no: KUNS-1606
+Journal-ref: JHEP 9911 (1999) 024
+\\
+  We investigate the transformation from ordinary gauge field to noncommutative
+one which was introduced by N.Seiberg and E.Witten (hep-th/9908142). It is
+shown that the general transformation which is determined only by gauge
+equivalence has a path dependence in `\theta-space'. This ambiguity is
+negligible when we compare the ordinary Dirac-Born-Infeld action with the
+noncommutative one in the U(1) case, because of the U(1) nature and slowly
+varying field approximation. However, in general, in the higher derivative
+approximation or in the U(N) case, the ambiguity cannot be neglected due to its
+noncommutative structure. This ambiguity corresponds to the degrees of freedom
+of field redefinition.
+\\

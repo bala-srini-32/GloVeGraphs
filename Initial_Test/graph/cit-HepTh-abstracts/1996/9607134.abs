@@ -1,0 +1,33 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9607134
+From: Peter Orland <orland@hetws1.nbi.dk>
+Date: Tue, 16 Jul 1996 17:47:35 +0200   (46kb)
+Date (revised): Wed, 29 Jan 1997 22:55:10 +0100
+
+Title: The Metric on the Space of Yang-Mills Configurations
+Author: Peter Orland
+Comments: 41 pages, Latex, 2 postcript figures. Some corrections are made
+  concerning 1) Chern-Simons integrals in sections 2 and 10, 2) and error in
+  the discussion of the intrinsic metric in section 5, 2) the defnition of
+  equivalence classes and 4) a few more details on the four metric properties.
+Report-no: NBI-HE-96-35
+\\
+  A distance function on the set of physical equivalence classes of Yang-Mills
+configurations considered by Feynman and by Atiyah, Hitchin and Singer is
+studied for both the $2+1$ and $3+1$-dimensional Hamiltonians. This set
+equipped with this distance function is a metric space, and in fact a
+Riemannian manifold as Singer observed. Furthermore, this manifold is
+complete. Gauge configurations can be used to parametrize the manifold. The
+metric tensor without gauge fixing has zero eigenvalues, but is free of
+ambiguities on the entire manifold. In $2+1$ dimensions the problem of
+finding the distance from any configuration to a pure gauge configuration is
+an integrable system of two-dimensional differential equations. A calculus of
+manifolds with singular metric tensors is developed and the Riemann curvature
+is calculated using this calculus. The Laplacian on Yang-Mills wave
+functionals has a slightly different form from that claimed earlier. In
+$3+1$-dimensions there are field configurations an arbitrarily large distance
+from a pure gauge configuration with arbitrarily small potential energy.
+These configurations resemble long-wavelength gluons. Reasons why there
+nevertheless can be a mass gap in the quantum theory are proposed.
+\\

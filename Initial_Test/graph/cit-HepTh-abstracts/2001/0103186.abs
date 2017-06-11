@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0103186
+From: Dasgupta Arundhati <dasgupta@aei-potsdam.mpg.de>
+Date: Thu, 22 Mar 2001 21:32:47 GMT   (29kb)
+Date (revised v2): Wed, 9 May 2001 17:41:01 GMT   (29kb)
+
+Title: A proper-time cure for the conformal sickness in quantum gravity
+Authors: A. Dasgupta, R. Loll
+Comments: 25 pages, 1 postscript figure; version to appear in Nucl. Phys. B
+  with an added reference and a comment
+Report-no: AEI-2001-020
+Journal-ref: Nucl.Phys. B606 (2001) 357-379
+\\
+  Starting from the space of Lorentzian metrics, we examine the full
+gravitational path integral in 3 and 4 space-time dimensions. Inspired by
+recent results obtained in a regularized, dynamically triangulated formulation
+of Lorentzian gravity, we gauge-fix to proper-time coordinates and perform a
+non-perturbative ``Wick rotation'' on the physical configuration space. Under
+certain assumptions about the behaviour of the partition function under
+renormalization, we find that the divergence due to the conformal modes of the
+metric is cancelled non-perturbatively by a Faddeev-Popov determinant
+contributing to the effective measure. We illustrate some of our claims by a 3d
+perturbative calculation.
+\\

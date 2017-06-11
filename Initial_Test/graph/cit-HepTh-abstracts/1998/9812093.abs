@@ -1,0 +1,32 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9812093
+From: Costas Bachas <Costas.Bachas@lpt.ens.fr>
+Date: Fri, 11 Dec 1998 04:06:46 GMT   (24kb)
+Date (revised v2): Tue, 9 Mar 1999 17:43:18 GMT   (25kb)
+
+Title: Branes and the Gauge Hierarchy
+Authors: I. Antoniadis and C. Bachas
+Comments: 15 pages, TeX file, harvmac, one eps.figure. Small changes and added
+  references. Final version to appear in Physics Letters B
+Report-no: CPTH-S693.1298, LPTENS-98/44
+Journal-ref: Phys.Lett. B450 (1999) 83-91
+\\
+  If the fundamental type-I string scale is of the order of few TeV, the
+problem of the gauge hierarchy is that of understanding why some dimensions
+transverse to our brane-world are so large. The technical aspect of this
+problem, as usually formulated, is `why quantum corrections do not modify
+drastically the masses and other parameters of the Standard Model'. We argue
+that within type-I perturbation theory, the technical hierarchy problem is
+solved (a) if all massless tadpoles cancel locally over distances of order the
+string length in the transverse space, or (b) if the massless fields with
+uncancelled local tadpoles propagate `effectively' in $d_\perp \ge 2$ large
+transverse dimensions. These restrictions ensure that loop corrections to the
+Standard Model parameters decouple from the four-dimensional Planck scale,
+except when there are uncancelled tadpoles in $d_\perp =2$ in which case the
+dependence on $M_P$ is logarithmic. This latter case is thus singled out as the
+only one in which the origin of the hierarchy would not be attributed entirely
+to `out of this world' bulk physics. The role of the renormalization group
+equations in summing the leading large logs is replaced by the classical 2d
+supergravity equations in the transverse space.
+\\

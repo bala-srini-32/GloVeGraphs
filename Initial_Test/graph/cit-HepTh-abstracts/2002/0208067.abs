@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0208067
+From: Hisashi Kogetsu <kogetsu@gauge.scphys.kyoto-u.ac.jp>
+Date: Fri, 9 Aug 2002 03:05:18 GMT   (14kb)
+Date (revised v2): Tue, 27 Aug 2002 02:08:40 GMT   (14kb)
+
+Title: Higher Level Open String States from Vacuum String Field Theory
+Authors: Hiroyuki Hata and Hisashi Kogetsu (Kyoto U)
+Comments: 16 pages, no figures, LaTeX, v2:minor corrections
+Report-no: KUNS-1797
+Journal-ref: JHEP 0209 (2002) 027
+\\
+  We construct massive open string states around a classical solution in the
+oscillator formulation of Vacuum String Field Theory. In order for the correct
+mass spectrum to be reproduced, the projection operators onto the modes of the
+left- and right-half of the string must have an anomalous eigenvalue 1/2, and
+the massive states are constructed using the corresponding eigenvector. We
+analyze numerically the projection operators by regularizing them to finite
+size matrices and confirm that they indeed have eigenvalue 1/2. Beside the
+desired massive states, we have spurious massive as well as massless states,
+which are infinitely degenerate. We show that these unwanted states can be
+gauged away.
+\\

@@ -1,0 +1,19 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0209243
+From: Planat <planat@lpmo.edu>
+Date: Fri, 27 Sep 2002 14:46:50 GMT   (27kb)
+Date (revised v2): Mon, 24 Feb 2003 10:13:54 GMT   (24kb)
+
+Title: Modular functions and Ramanujan sums for the analysis of 1/f noise in
+  electronic circuits
+Authors: Michel Planat
+Comments: weakly expanded version of an invited paper at ICNF 2003
+\\
+  A number theoretical model of $1/f$ noise found in phase locked loops is
+developed. The dynamics of phases and frequencies involved in the nonlinear
+mixing of oscillators and the low-pass filtering is formulated thanks to the
+rules of the hyperbolic geometry of the half plane. A cornerstone of the
+analysis is the Ramanujan sums expansion of arithmetical functions found in
+prime number theory, and their link to Riemann hypothesis.
+\\

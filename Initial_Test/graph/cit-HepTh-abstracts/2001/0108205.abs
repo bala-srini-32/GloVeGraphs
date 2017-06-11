@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0108205
+From: "Steven S. Gubser" <ssgubser@theory.caltech.edu>
+Date: Mon, 27 Aug 2001 22:30:16 GMT   (125kb)
+Date (revised v2): Tue, 4 Sep 2001 23:41:51 GMT   (128kb)
+
+Title: Non-abelian 4-d black holes, wrapped 5-branes, and their dual
+  descriptions
+Authors: Steven S. Gubser, Arkady A. Tseytlin, and Mikhail S. Volkov
+Comments: 53 pages, 21 figures, latex. v2: slightly improved figures
+Report-no: CALT-68-2329, CITUSC/01-016, OHSTPY-HEP-T-01-010, FSU TPI 01/05
+Journal-ref: JHEP 0109 (2001) 017
+\\
+  We study extremal and non-extremal generalizations of the regular non-abelian
+monopole solution of hep-th/9707176, interpreted in hep-th/0007018 as 5-branes
+wrapped on a shrinking S^2. Naively, the low energy dynamics is pure N=1
+supersymmetric Yang-Mills. However, our results suggest that the scale of
+confinement and chiral symmetry breaking in the Yang-Mills theory actually
+coincides with the Hagedorn temperature of the little string theory. We find
+solutions with regular horizons and arbitrarily high Hawking temperature.
+Chiral symmetry is restored at high energy density, corresponding to large
+black holes. But the entropy of the black hole solutions decreases as one
+proceeds to higher temperatures, indicating that there is a thermodynamic
+instability and that the canonical ensemble is ill-defined. For certain limits
+of the black hole solutions, we exhibit explicit non-linear sigma models
+involving a linear dilaton. In other limits we find extremal non-BPS solutions
+which may have some relevance to string cosmology.
+\\

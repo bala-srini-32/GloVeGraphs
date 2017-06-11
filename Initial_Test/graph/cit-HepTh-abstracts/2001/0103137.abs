@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0103137
+From: William E. Baylis <baylis@uwindsor.ca>
+Date: Sat, 17 Mar 2001 14:26:36 GMT   (21kb)
+Date (revised v2): Mon, 26 Mar 2001 20:57:38 GMT   (21kb)
+
+Title: A geometric basis for the standard-model gauge group
+Authors: Greg Trayling and W. E. Baylis
+Comments: 17 pages, LaTeX requires iopart. Accepted for publication in J. Phys.
+  A: Math. Gen. 9 Mar 2001. Typos corrected
+Journal-ref: J.Phys. A34 (2001) 3309-3324; Int.J.Mod.Phys. A16S1C (2001)
+  909-912
+\\
+  A geometric approach to the standard model in terms of the Clifford algebra
+Cl_7 is advanced. A key feature of the model is its use of an algebraic spinor
+for one generation of leptons and quarks. Spinor transformations separate into
+left-sided ("exterior") and right-sided ("interior") types. By definition,
+Poincare transformations are exterior ones. We consider all rotations in the
+seven-dimensional space that (1) conserve the spacetime components of the
+particle and antiparticle currents and (2) do not couple the right-chiral
+neutrino. These rotations comprise additional exterior transformations that
+commute with the Poincare group and form the group SU(2)_L, interior ones that
+constitute SU(3)_C, and a unique group of coupled double-sided rotations with
+U(1)_Y symmetry. The spinor mediates a physical coupling of Poincare and
+isotopic symmetries within the restrictions of the Coleman--Mandula theorem.
+The four extra spacelike dimensions in the model form a basis for the Higgs
+isodoublet field, whose symmetry requires the chirality of SU(2). The charge
+assignments of both the fundamental fermions and the Higgs boson are produced
+exactly.
+\\

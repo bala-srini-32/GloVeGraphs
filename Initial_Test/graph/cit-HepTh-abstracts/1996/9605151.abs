@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9605151
+From: Michael Flohr <flohr@IAS.EDU>
+Date: Tue, 21 May 1996 19:28:08 -0400   (20kb)
+Date (revised): Fri, 24 May 1996 14:14:12 -0400
+Date (revised): Tue, 4 Jun 1996 19:07:56 -0400
+Date (revised): Mon, 10 Jun 1996 16:45:44 -0400
+
+Title: On Fusion Rules in Logarithmic Conformal Field Theories
+Authors: Michael Flohr
+Comments: 14 pages, LaTeX (or better LaTeX2e), no figures, also available at
+  http://www.sns.ias.edu/~flohr/, some corrections and clarifications
+Report-no: IASSNS-HEP-96/54
+Journal-ref: Int.J.Mod.Phys. A12 (1997) 1943-1958
+\\
+  We find the fusion rules for the c_{p,1} series of logarithmic conformal
+field theories. This completes our attempts to generalize the concept of
+rationality for conformal field theories to the logarithmic case. A novelty is
+the appearance of negative fusion coefficients which can be understood in terms
+of exceptional quantum group representations. The effective fusion rules (i.e.
+without signs and multiplicities) resemble the BPZ fusion rules for the virtual
+minimal models with conformal grid given via c = c_{3p,3}. This leads to the
+conjecture that (almost) all minimal models with c = c_{p,q}, gcd(p,q) > 1,
+belong to the class of rational logarithmic conformal field theories.
+\\

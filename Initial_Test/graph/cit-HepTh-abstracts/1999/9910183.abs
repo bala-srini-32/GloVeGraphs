@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9910183
+From: Shyamoli Chaudhuri <shyamoli@phys.psu.edu>
+Date: Fri, 22 Oct 1999 22:08:52 GMT   (24kb)
+Date (revised v2): Fri, 17 Dec 1999 22:06:08 GMT   (28kb)
+Date (revised v3): Sun, 19 Dec 1999 21:07:07 GMT   (31kb)
+Date (revised v4): Wed, 2 Feb 2000 20:18:56 GMT   (31kb)
+
+Title: Pair Correlation Function of Wilson Loops
+Authors: S. Chaudhuri, Y. Chen, E. Novak
+Comments: 16 pages, 1 figure, Revtex. Corrected factor of two in potential.
+  Some changes in discussion
+Report-no: PSU-TH-220
+Journal-ref: Phys.Rev. D62 (2000) 026004
+\\
+  We give a path integral prescription for the pair correlation function of
+Wilson loops lying in the worldvolume of Dbranes in the bosonic open and closed
+string theory. The results can be applied both in ordinary flat spacetime in
+the critical dimension d or in the presence of a generic background for the
+Liouville field. We compute the potential between heavy nonrelativistic sources
+in an abelian gauge theory in relative collinear motion with velocity v =
+tanh(u), probing length scales down to r_min^2 = 2 \pi \alpha' u. We predict a
+universal -(d-2)/r static interaction at short distances. We show that the
+velocity dependent corrections to the short distance potential in the bosonic
+string take the form of an infinite power series in the dimensionless variables
+z = r_min^2/r^2, uz/\pi, and u^2.
+\\

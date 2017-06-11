@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0107235
+From: Carbonell <carbonel@isn.in2p3.fr>
+Date: Fri, 27 Jul 2001 10:07:38 GMT   (61kb)
+
+Title: Relativistic bound states in Yukawa model
+Authors: M. Mangin-Brinet, J. Carbonell and V.A. Karmanov
+Comments: 22 pages, 13 figures, .tar.gz file
+Journal-ref: Phys.Rev. D64 (2001) 125005
+\\
+  The bound state solutions of two fermions interacting by a scalar exchange
+are obtained in the framework of the explicitly covariant light-front dynamics.
+The stability with respect to cutoff of the J$^{\pi}$=$0^+$ and J$^{\pi}$=$1^+$
+states is studied. The solutions for J$^{\pi}$=$0^+$ are found to be stable for
+coupling constants $\alpha={g^2\over4\pi}$ below the critical value
+$\alpha_c\approx 3.72$ and unstable above it. The asymptotic behavior of the
+wave functions is found to follow a ${1\over k^{2+\beta}}$ law. The coefficient
+$\beta$ and the critical coupling constant $\alpha_c$ are calculated from an
+eigenvalue equation. The binding energies for the J$^{\pi}$=$1^+$ solutions
+diverge logarithmically with the cutoff for any value of the coupling constant.
+For a wide range of cutoff, the states with different angular momentum
+projections are weakly split.
+\\

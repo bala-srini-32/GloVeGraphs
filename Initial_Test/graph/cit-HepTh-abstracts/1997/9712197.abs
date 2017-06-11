@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9712197
+From: P.E.Dorey@durham.ac.uk
+Date: Sat, 20 Dec 1997 12:04:40 GMT   (85kb)
+Date (revised v2): Wed, 25 Mar 1998 17:17:32 GMT   (213kb)
+
+Title: TBA and TCSA with boundaries and excited states
+Authors: Patrick Dorey, Andrew Pocklington, Roberto Tateo and Gerard Watts
+Comments: 25 pages, LaTeX 2e, 8 figures, uses epsf, amssymb, cite. Revised
+  version: explanations expanded, normalisation of the boundary field
+  corrected, two figures and three references added
+Report-no: DTP-97-67, KCL-MTH-97-71, SPhT-97/163
+Subj-class: High Energy Physics - Theory; Statistical Mechanics
+Journal-ref: Nucl.Phys. B525 (1998) 641-663
+\\
+  We study the spectrum of the scaling Lee-Yang model on a finite interval from
+two points of view: via a generalisation of the truncated conformal space
+approach to systems with boundaries, and via the boundary thermodynamic Bethe
+ansatz. This allows reflection factors to be matched with specific boundary
+conditions, and leads us to propose a new (and non-minimal) family of
+reflection factors to describe the one relevant boundary perturbation in the
+model. The equations proposed previously for the ground state on an interval
+must be revised in certain regimes, and we find the necessary modifications by
+analytic continuation. We also propose new equations to describe excited
+states, and check all equations against boundary truncated conformal space
+data. Access to the finite-size spectrum enables us to observe boundary flows
+when the bulk remains massless, and the formation of boundary bound states when
+the bulk is massive.
+\\

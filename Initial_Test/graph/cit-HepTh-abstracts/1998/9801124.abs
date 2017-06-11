@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9801124
+From: Geoffrey R. Golner <ggolner@vax1.mum.edu>
+Date: Sun, 18 Jan 1998 21:18:46 GMT   (17kb)
+Date (revised v2): Sun, 25 Jan 1998 21:25:51 GMT   (17kb)
+Date (revised v3): Sun, 23 Apr 2000 21:32:16 GMT   (17kb)
+
+Title: Exact renormalization group flow equations for free energies and N-point
+  functions in uniform external fields
+Authors: Geoffrey R. Golner
+Comments: 21 pages, LaTeX; citation clarified, corrected Section 4 material on
+  continuum limit, simplified Section 6 notation
+Report-no: MUM-THP 98/001
+Subj-class: High Energy Physics - Theory; Statistical Mechanics
+\\
+  We project the Wilson/Polchinski renormalization group equation onto its
+uniform external field dependent effective free energy and connected Green's
+functions. The result is a hierarchy of equations which admits a choice of
+"natural" truncation and closure schemes for nonperturbative approximate
+solution. In this way approximation schemes can be generated which avoid power
+series expansions in either fields or momenta. When following one closure
+scheme the lowest order equation is the mean field approximation, while another
+closure scheme gives the "local potential approximation." Extension of these
+closure schemes to higher orders leads to interesting new questions regarding
+truncation schemes and the convergence of nonperturbative approximations. One
+scheme, based on a novel "momentum cluster decomposition" of the connected
+Green's functions, seems to offer new possibilities for accurate
+nonperturbative successive approximation.
+\\

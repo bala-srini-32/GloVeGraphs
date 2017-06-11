@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9707260
+From: Nick Evans <nevans@budoe.bu.edu>
+Date: Thu, 31 Jul 1997 14:14:35 -0400   (16kb)
+Date (revised): Mon, 4 May 1998 14:24:13 GMT
+
+Title: Lattice Tests of Supersymmetric Yang-Mills Theory?
+Authors: Nick Evans (Boston University), Steve Hsu (Yale), Myck Schwetz (Yale)
+Comments: 17 pages, Latex, some corrections, added discussion
+Report-no: BUHEP-97-20, YCTP-P11-97
+\\
+  Supersymmetric Yang Mills theory is directly accessible to lattice
+simulations using current methodology, and can provide a non-trivial check of
+recent exact results in SQCD. In order to tune the lattice simulation to the
+supersymmetric point it is neccessary to understand the behavior of the theory
+with a small supersymmetry breaking gaugino mass. We introduce a soft breaking
+gaugino mass in a controlled fashion using a spurion analysis. We compute the
+gluino condensate, vacuum energy and bound-state masses as a function of the
+gaugino mass, providing more readily accessible predictions which still test
+the supersymmetric results. Finally we discuss diagnostics for obtaining the
+bare lattice parameters that correspond to the supersymmetric continuum limit.
+\\

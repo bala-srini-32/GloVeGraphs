@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9801089
+From: Frederic Lesage <lesage@rockpile.usc.edu>
+Date: Wed, 14 Jan 1998 21:10:00 GMT   (27kb)
+
+Title: Boundary conditions changing operators in non conformal theories
+Authors: F. Lesage, H. Saleur
+Comments: 35 pages, harvmac
+Subj-class: High Energy Physics - Theory; Exactly Solvable and Integrable
+  Systems
+Journal-ref: Nucl.Phys. B520 (1998) 563-593
+\\
+  Boundary conditions changing operators have played an important role in
+conformal field theory. Here, we study their equivalent in the case where a
+mass scale is introduced, in an integrable way, either in the bulk or at the
+boundary. More precisely, we propose an axiomatic approach to determine the
+general scalar products ${}_b<\theta_1, ... ,\theta_m||\theta'_1, ... ,\theta'_{n}>_a$
+between asymptotic states
+in the Hilbert spaces with $a$ and $b$ boundary conditions respectively, and
+compute these scalar products explicitely in the case of the Ising and
+sinh-Gordon models with a mass and a boundary interaction. These quantities can
+be used to study statistical systems with inhomogeneous boundary conditions,
+and, more interestingly maybe, dynamical problems in quantum impurity problems.
+As an example, we obtain a series of new exact results for the transition
+probability in the double well problem of dissipative quantum mechanics.
+\\

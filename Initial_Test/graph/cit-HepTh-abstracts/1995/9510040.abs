@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9510040
+From: menotti@ibmth.difi.unipi.it (Pietro MENOTTI)
+Date: Sat, 7 Oct 1995 10:27:01 +0100 (MET)   (9kb)
+
+Title: Conformal gauge fixing and Faddeev-Popov determinant in 2-dimensional
+  Regge gravity
+Authors: Pietro Menotti (menotti@ibmth.difi.unipi.it) Pier Paolo Peirano
+  (peirano@sunthpi1.difi.unipi.it)
+Comments: 8 pages, latex. Talk given at the XVIII International Workshop on
+  High Energy Physics and Field Theory; Protvino, Russia, June 1995
+Report-no: IFUP-TH-56/95
+\\
+  By regularizing the conical singularities by means of a segment of a sphere
+or pseudosphere and then taking the regulator to zero, we compute exactly the
+Faddeev--Popov determinant related to the conformal gauge fixing for a
+piece-wise flat surface with the topology of the sphere. The result is analytic
+in the opening angles of the conical singularities in the interval ($\pi$,
+$4\pi$) and in the smooth limit goes over to the continuum expression. The
+Riemann-Roch relation on the dimensions of ker$(L^{\dag}L)$ and
+ker$(LL^{\dag})$ is satisfied.
+\\

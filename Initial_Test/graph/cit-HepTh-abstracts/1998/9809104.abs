@@ -1,0 +1,33 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9809104
+From: "Ivan V. Gorbunov" <ivan@phys.tsu.ru>
+Date: Tue, 15 Sep 1998 08:48:56 GMT   (42kb)
+
+Title: Hidden supersymmetry and Berezin quantization of N=2, D=3 spinning
+  superparticles
+Authors: I.V. Gorbunov and S.L. Lyakhovich
+Comments: 43 pages, LaTeX Version 2.09
+Report-no: IC/98/138
+Journal-ref: J.Math.Phys. 40 (1999) 2230-2253
+\\
+  The first quantized theory of N=2, D=3 massive superparticles with arbitrary
+fixed central charge and (half)integer or fractional superspin is constructed.
+The quantum states are realized on the fields carrying a finite dimensional, or
+a unitary infinite dimensional representation of the supergroups OSp(2|2) or
+SU(1,1|2). The construction originates from quantization of a classical model
+of the superparticle we suggest. The physical phase space of the classical
+superparticle is embedded in a symplectic superspace
+$T^\ast({R}^{1,2})\times{L}^{1|2}$, where the inner K\"ahler supermanifold
+${L}^{1|2}=OSp(2|2)/[U(1)\times U(1)]=SU(1,1|2)/[U(2|2)\times U(1)]$ provides
+the particle with superspin degrees of freedom. We find the relationship
+between Hamiltonian generators of the global Poincar\'e supersymmetry and the
+``internal'' SU(1,1|2) one. Quantization of the superparticle combines the
+Berezin quantization on ${L}^{1|2}$ and the conventional Dirac quantization
+with respect to space-time degrees of freedom. Surprisingly, to retain the
+supersymmetry, quantum corrections are required for the classical N=2
+supercharges as compared to the conventional Berezin method. These corrections
+are derived and the Berezin correspondence principle for ${L}^{1|2}$ underlying
+their origin is verified. The model admits a smooth contraction to the N=1
+supersymmetry in the BPS limit.
+\\

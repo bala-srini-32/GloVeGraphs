@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0105148
+From: Paul Fendley <fendley@rockpile.phys.virginia.edu>
+Date: Tue, 15 May 2001 23:07:23 GMT   (27kb)
+
+Title: BPS kinks in the Gross-Neveu model
+Authors: Paul Fendley and Hubert Saleur
+Comments: 22 pages, 5 figures
+Subj-class: High Energy Physics - Theory; Statistical Mechanics
+Journal-ref: Phys.Rev. D65 (2002) 025001
+\\
+  We find the exact spectrum and degeneracies for the Gross-Neveu model in two
+dimensions. This model describes N interacting Majorana fermions; it is
+asymptotically free, and has dynamical mass generation and spontaneous chiral
+symmetry breaking. We show here that the spectrum contains 2^{N/2} kinks for
+any $N$. The unusual \sqrt{2} in the number of kinks for odd $N$ comes from
+restrictions on the allowed multi-kink states. These kinks are the BPS states
+for a generalized supersymmetry where the conserved current is of dimension
+N/2; the N=3 case is the {\cal N}=1 supersymmetric sine-Gordon model, for which
+the spectrum consists of 2\sqrt{2} kinks. We find the exact S matrix for these
+kinks, and the exact free energy for the model.
+\\

@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9506062
+From: Denjoe O'Connor <denjoe@stp.dias.ie>
+Date: Fri, 9 Jun 1995 17:59:38 +0100 (BST)   (18kb)
+
+Title: Modular Invariance of Finite Size Corrections and a Vortex Critical
+  Phase
+Authors: Charles Nash and Denjoe O'Connor
+Comments: 12 pages of Plain TeX with two postscript figure insertions called
+  torusfg1.ps and torusfg2.ps which can be obtained upon request from
+  denjoe@stp.dias.ie
+Report-no: DIAS-STP-95-24
+Journal-ref: Phys.Rev.Lett. 76 (1996) 1196-1199
+\\
+  We analyze a continuous spin Gaussian model on a toroidal triangular lattice
+with periods $L_0$ and $L_1$ where the spins carry a representation of the
+fundamental group of the torus labeled by phases $u_0$ and $u_1$. We find the
+{\it exact finite size and lattice corrections}, to the partition function $Z$,
+for arbitrary mass $m$ and phases $u_i$. Summing $Z^{-1/2}$ over phases gives
+the corresponding result for the Ising model. The limits $m\rightarrow0$ and
+$u_i\rightarrow0$ do not commute. With $m=0$ the model exhibits a {\it vortex
+critical phase} when at least one of the $u_i$ is non-zero. In the continuum or
+scaling limit, for arbitrary $m$, the finite size corrections to $-\ln Z$ are
+{\it modular invariant} and for the critical phase are given by elliptic theta
+functions. In the cylinder limit $L_1\rightarrow\infty$ the ``cylinder charge''
+$c(u_0,m^2L_0^2)$ is a non-monotonic function of $m$ that ranges from
+$2(1+6u_0(u_0-1))$ for $m=0$ to zero for $m\rightarrow\infty$.
+\\

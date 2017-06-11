@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9504058
+From: Anthony Candiello <CANDIELLO@padova.infn.it>
+Date: Mon, 10 Apr 1995 18:36:15 +0200 (WET-DST)   (11kb)
+Date (revised): Wed, 12 Apr 1995 11:27:14 +0200 (WET-DST)
+
+Title: WBase: a C package to reduce tensor products of Lie algebra
+  representations. Description and new developments
+Authors: Antonio Candiello
+Comments: 6 pages, latex. The paper is based on a talk held at the fourth
+  AIHENP workshop, Pisa, 3-8 April 1995, and it is to appear in the related
+  proceedings. Package and paper available at ftp://dsfpd.pd.infn.it/wbase or
+  ftp://dsfpd.pd.infn.it/pub/wbase
+Report-no: DFPD95/TH/22
+\\
+  A non trivial application of a modern computer language ("C") in a highly
+structured and object-oriented fashion is presented. The contest is that of Lie
+algebra representations (irreps), specifically the problem of reducing the
+products of irreps with the weight tree algorithm. The new WBase V2.0 version
+with table-generation and Young tableaux display capabilities is introduced.
+\\

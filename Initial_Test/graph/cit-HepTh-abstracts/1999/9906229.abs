@@ -1,0 +1,32 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9906229
+From: Emilio Elizalde <elizalde@ieec.fcr.es>
+Date: Tue, 29 Jun 1999 12:23:13 GMT   (11kb)
+
+Title: On the concept of determinant for the differential operators of Quantum
+  Physics
+Authors: E. Elizalde
+Comments: 13 pages, LaTeX
+Subj-class: High Energy Physics - Theory; Mathematical Physics; Spectral
+  Theory; Functional Analysis
+Journal-ref: JHEP 9907 (1999) 015
+\\
+  The concept of determinant for a linear operator in an infinite-dimensional
+space is addressed, by using the derivative of the operator's zeta-function
+(following Ray and Singer) and, eventually, through its zeta-function trace. A
+little play with operators as simple as $\pm I$ ($I$ being the identity
+operator) and variations thereof, shows that the presence of a non-commutative
+anomaly (i.e., the fact that det $(AB) \neq$ det $A$ det $B$), is unavoidable,
+even for commuting and, remarkably, also for almost constant operators. In the
+case of Dirac-type operators, similarly basic arguments lead to the conclusion
+---contradicting common lore--- that in spite of being $\det (\slash D +im) =
+\det (\slash D -im)$ (as follows from the symmetry condition of the $\slash
+D$-spectrum), it turns out that these determinants may {\it not} be equal to
+$\sqrt{\det (\slash D^2 +m^2)}$, simply because $\det [(\slash D +im) (\slash D
+-im)] \neq \det (\slash D +im) \det (\slash D -im)$. A proof of this fact is
+given, by way of a very simple example, using operators with an
+harmonic-oscillator spectrum and fulfilling the symmetry condition. This
+anomaly can be physically relevant if, in addition to a mass term (or instead
+of it), a chemical potential contribution is added to the Dirac operator.
+\\

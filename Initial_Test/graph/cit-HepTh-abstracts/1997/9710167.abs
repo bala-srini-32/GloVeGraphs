@@ -1,0 +1,19 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9710167
+From: "Vladimir Meshcheryakov" <mva@thsun1.jinr.dubna.su>
+Date: Tue, 21 Oct 1997 14:27:34 GMT   (4kb)
+
+Title: The Riemann Surface of a Static Dispersion Model and Regge Trajectories
+Author: Meshcheryakov V.A
+Comments: 5 pages, LaTex
+Journal-ref: Phys.Atom.Nucl. 63 (2000) 666-667; Yad.Fiz. 63 (2000) 732-733
+\\
+  The S-matrix in the static limit of a dispersion relation is a matrix of a
+finite order N of meromorphic functions of energy $\omega$ in the plane with
+cuts $(-\infty,-1],[+1,+\infty)$. In the elastic case it reduces to N functions
+$S_{i}(\omega)$ connected by the crossing symmetry matrix A. The scattering of
+a neutral pseodoscalar meson with an arbitrary angular momentum l at a source
+with spin 1/2 is considered (N=2). The Regge trajectories of this model are
+explicitly found.
+\\

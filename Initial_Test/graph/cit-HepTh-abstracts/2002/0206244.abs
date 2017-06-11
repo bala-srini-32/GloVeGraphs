@@ -1,0 +1,32 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0206244
+From: Andrei Ivanov <ivanov@kph.tuwien.ac.at>
+Date: Thu, 27 Jun 2002 04:23:35 GMT   (16kb)
+Date (revised v2): Wed, 18 Dec 2002 06:36:20 GMT   (17kb)
+
+Title: Quantum field theory of a free massless (pseudo)scalar field in
+  1+1-dimensional space-time as a test for the massless Thirring model
+Authors: M. Faber and A. N. Ivanov
+Comments: 22 pages, Latex, no figures, the text is revised
+\\
+  We analyse different approaches to the description of the quantum field
+theory of a free massless (pseudo)scalar field defined in 1+1-dimensional
+space-time which describes the bosonized version of the massless Thirring
+model. These are (i) axiomatic quantum field theory, (ii) current algebra and
+(iii) path-integral. We show that the quantum field theory of a free massless
+(pseudo)scalar field defined on the class of Schwartz's test functions S_0(R^2)
+connects all these approaches. This quantum field theory is well-defined within
+the framework of Wightman's axioms and Wightman's positive definiteness
+condition. The physical meaning of the definition of Wightman's observables on
+the class of test functions from S_0(R^2) instead of S(R^2), as required by
+Wightman's axioms, is the irrelevance of the collective zero-mode related to
+the collective motion of the ``center of mass'' of the free massless
+(pseudo)scalar field, which can be deleted from the intermediate states of
+correlation functions (Eur. Phys. J. C 24, 653 (2002)). In such a theory the
+continuous symmetry, induced by shifts of the massless (pseudo)scalar field, is
+spontaneously broken and there is a non-vanishing spontaneous magnetization.
+The obtained results are discussed in connection with Coleman's theorem
+asserting the absence of Goldstone bosons and spontaneously broken continuous
+symmetry in quantum field theories defined in 1+1-dimensional space-time.
+\\

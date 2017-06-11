@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9709215
+From: Sabbir A Rahman <sarahman@mit.edu>
+Date: Tue, 30 Sep 1997 13:49:23 GMT   (11kb)
+
+Title: The path towards manifest background independence
+Authors: Sabbir Rahman
+Comments: 9 pages, phyzzx
+Report-no: MIT-CTP-2649
+\\
+  The set of string vertices is extended to include moduli spaces with genus
+and numbers of ordinary and special punctures ranging over all integral values
+$g,n,\bar n\geq0$. It is argued that both the string background and the B-V
+delta operator should be associated with the vertex $\B^0_{0,1}$ corresponding
+to the once-punctured sphere. This leads naturally to the proposal that the
+manifestly background independent formulation of quantum closed string field
+theory is given by the sum $\B$ of the completed set of string vertices
+satisfying the classical master equation $\{\B,\B\}=0$.
+\\

@@ -1,0 +1,35 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0105178
+From: Michael Karowski <karowski@physik.fu-berlin.de>
+Date: Fri, 18 May 2001 10:23:07 GMT   (42kb)
+Date (revised v2): Fri, 15 Jun 2001 08:50:56 GMT   (42kb)
+Date (revised v3): Mon, 22 Oct 2001 13:18:58 GMT   (43kb)
+
+Title: Exact form factors in integrable quantum field theories: the sine-Gordon
+  model (II)
+Authors: H. Babujian and M. Karowski
+Comments: LaTeX, 53 pages, Corrected typos
+Report-no: Berlin-preprint, SFB 288 No 506
+Subj-class: High Energy Physics - Theory; Exactly Solvable and Integrable
+  Systems
+Journal-ref: Nucl.Phys. B620 (2002) 407-455
+\\
+  A general model independent approach using the `off-shell Bethe Ansatz' is
+presented to obtain an integral representation of generalized form factors. The
+general techniques are applied to the quantum sine-Gordon model alias the
+massive Thirring model. Exact expressions of all matrix elements are obtained
+for several local operators. In particular soliton form factors of charge-less
+operators as for example all higher currents are investigated. It turns out
+that the various local operators correspond to specific scalar functions called
+p-functions. The identification of the local operators is performed. In
+particular the exact results are checked with Feynman graph expansion and full
+agreement is found. Furthermore all eigenvalues of the infinitely many
+conserved charges are calculated and the results agree with what is expected
+from the classical case. Within the frame work of integrable quantum field
+theories a general model independent `crossing' formula is derived. Furthermore
+the `bound state intertwiners' are introduced and the bound state form factors
+are investigated. The general results are again applied to the sine-Gordon
+model. The integrations are performed and in particular for the lowest
+breathers a simple formula for generalized form factors is obtained.
+\\

@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9812240
+From: Jan de Boer <deboer@thsrv.lbl.gov>
+Date: Tue, 29 Dec 1998 19:09:48 GMT   (17kb)
+
+Title: Large N Elliptic Genus and AdS/CFT Correspondence
+Authors: Jan de Boer
+Comments: 13 pages, LaTeX
+Report-no: LBNL-42655
+Journal-ref: JHEP 9905 (1999) 017
+\\
+  According to one of Maldacena's dualities, type IIB string theory on AdS_3 X
+S^3 X K3 is equivalent to a certain N=(4,4) superconformal field theory. In
+this note we compute the elliptic genus of the boundary theory in the
+supergravity approximation. A finite quantity is obtained once we introduce a
+particular exclusion principle. In the regime where the supergravity
+approximation is reliable, we find exact agreement with the elliptic genus of a
+sigma model with target space K3^N/S_N.
+\\

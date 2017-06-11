@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0001128
+From: Andreas Fring <fring@physik.fu-berlin.de>
+Date: Thu, 20 Jan 2000 18:33:52 GMT   (9kb)
+Date (revised v2): Tue, 25 Jan 2000 11:20:51 GMT   (9kb)
+Date (revised v3): Tue, 22 Feb 2000 18:24:55 GMT   (10kb)
+
+Title: Colour valued Scattering Matrices
+Authors: A. Fring and C. Korff
+Comments: 8 pages Latex, example, comment and reference added
+Journal-ref: Phys.Lett. B477 (2000) 380-386
+\\
+  We describe a general construction principle which allows to add colour
+values to a coupling constant dependent scattering matrix. As a concrete
+realization of this mechanism we provide a new type of S-matrix which
+generalizes the one of affine Toda field theory, being related to a pair of Lie
+algebras. A characteristic feature of this S-matrix is that in general it
+violates parity invariance. For particular choices of the two Lie algebras
+involved this scattering matrix coincides with the one related to the scaling
+models described by the minimal affine Toda S-matrices and for other choices
+with the one of the Homogeneous sine-Gordon models with vanishing resonance
+parameters. We carry out the thermodynamic Bethe ansatz and identify the
+corresponding ultraviolet effective central charges.
+\\

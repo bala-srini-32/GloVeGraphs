@@ -1,0 +1,34 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9912150
+From: Adel Bilal <Adel.Bilal@iph.unine.ch>
+Date: Thu, 16 Dec 1999 23:59:45 GMT   (26kb)
+Date (revised v2): Tue, 28 Mar 2000 14:36:45 GMT   (29kb)
+
+Title: M-Theory on S^1/Z_2 : New Facts from a Careful Analysis
+Authors: Adel Bilal, Jean-Pierre Derendinger and Roger Sauser
+Comments: 32 pages, version to appear in Nucl. Phys. B, no figures, uses PHYZZX
+Report-no: NEIP-99-020
+Journal-ref: Nucl.Phys. B576 (2000) 347-374
+\\
+  We carefully re-examine the issues of solving the modified Bianchi identity,
+anomaly cancellations and flux quantization in the S^1/Z_2 orbifold of M-theory
+using the boundary-free "upstairs" formalism, avoiding several misconceptions
+present in earlier literature. While the solution for the four-form G to the
+modified Bianchi identity appears to depend on an arbitrary parameter b, we
+show that requiring G to be globally well-defined, i.e. invariant under small
+and large gauge and local Lorentz transformations, fixes b=1. This value also
+is necessary for a consistent reduction to the heterotic string in the
+small-radius limit. Insisting on properly defining all fields on the circle, we
+find that there is a previously unnoticed additional contribution to the
+anomaly inflow from the eleven-dimensional topological term. Anomaly
+cancellation then requires a quadratic relation between b and the combination
+lambda^6/kappa^4 of the gauge and gravitational coupling constants lambda and
+kappa. This contrasts with previous beliefs that anomaly cancellation would
+give a cubic equation for b. We observe that our solution for G automatically
+satisfies integer or half-integer flux quantization for the appropriate cycles.
+We explicitly write out the anomaly cancelling terms of the heterotic string as
+inherited from the M-theory approach. They differ from the usual ones by the
+addition of a well-defined local counterterm. We also show how five-branes
+enter our analysis.
+\\

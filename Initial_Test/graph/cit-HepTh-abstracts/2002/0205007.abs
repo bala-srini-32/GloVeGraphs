@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0205007
+From: Ioannis Bakas <bakas@ajax.physics.upatras.gr>
+Date: Wed, 1 May 2002 03:19:43 GMT   (13kb)
+
+Title: Notes on Periodic Solitons
+Authors: I. Bakas and C. Sourdis
+Comments: 11 pages, latex; proceedings of the 2001 RTN meeting in Corfu
+Journal-ref: Fortsch.Phys. 50 (2002) 815-824
+\\
+  We consider static solutions of the sine-Gordon theory defined on a cylinder,
+which can be either periodic or quasi-periodic in space. They are described by
+the different modes of a simple pendulum moving in an inverted effective
+potential and correspond to its libration or rotation. We review the
+decomposition of the solutions into an oscillatory sum of alternating kinks and
+anti-kinks or into a monotonic train of kinks, respectively, using properties
+of elliptic functions. The two sectors are naturally related to each other by a
+modular transformation, whereas the underlying spectral curve of the model can
+be used to express the energy of the static configurations in terms of contour
+integrals \`a la Seiberg-Witten in either case. The stability properties are
+also examined by means of supersymmetric quantum mechanics, where we find that
+the unstable configurations are associated to singular superpotentials, thus
+allowing for negative modes in the spectrum of small fluctuations.
+\\

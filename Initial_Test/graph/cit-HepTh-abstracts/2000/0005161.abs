@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0005161
+From: pb18 <pb18@york.ac.uk>
+Date: Wed, 17 May 2000 22:05:44 GMT   (21kb)
+Date (revised v2): Fri, 19 May 2000 22:45:04 GMT   (21kb)
+Date (revised v3): Tue, 30 May 2000 10:24:56 GMT   (21kb)
+Date (revised v4): Wed, 18 Oct 2000 14:22:55 GMT   (22kb)
+
+Title: One-point functions in integrable coupled minimal models
+Authors: P. Baseilhac
+Comments: 18 pages, LaTeX with amstex, epsfig; v2: typos corrected and refs
+  added; v3: important modifs in the text (intro + last part), refs added; v4:
+  title, abstract and intro changed, energy-energy coupled 3-state Potts models
+  considered in ex. 4, version to appear in Nucl. Phys. B
+Subj-class: High Energy Physics - Theory; Statistical Mechanics
+Journal-ref: Nucl.Phys. B594 (2001) 607-624
+\\
+  We propose exact vacuum expectation values of local fields for a quantum
+group restriction of the $C_2^{(1)}$ affine Toda theory which corresponds to
+two coupled minimal models. The central charge of the unperturbed models ranges
+from $c=1$ to $c=2$, where the perturbed models correspond to two magnetically
+coupled Ising models and Heisenberg spin ladders, respectively. As an
+application, in the massive phase we deduce the leading term of the asymptotics
+of the two-point correlation functions.
+\\

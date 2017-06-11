@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0205169
+From: Popkov Vladislav <v.popkov@fz-juelich.de>
+Date: Thu, 16 May 2002 14:31:37 GMT   (20kb)
+
+Title: A sufficient criterion for integrability of stochastic many-body
+  dynamics and quantum spin chains
+Authors: V. Popkov, M.E. Fouladvand and G.M. Schuetz
+Comments: 19 pages Latex
+Subj-class: High Energy Physics - Theory; Statistical Mechanics
+Journal-ref: J.Phys. A35 (2002) 7187-7204
+\\
+  We propose a dynamical matrix product ansatz describing the stochastic
+dynamics of two species of particles with excluded-volume interaction and the
+quantum mechanics of the associated quantum spin chains respectively. Analyzing
+consistency of the time-dependent algebra which is obtained from the action of
+the corresponding Markov generator, we obtain sufficient conditions on the
+hopping rates for identifing the integrable models. From the dynamical algebra
+we construct the quadratic algebra of Zamolodchikov type, associativity of
+which is a Yang Baxter equation. The Bethe ansatz equations for the spectra are
+obtained directly from the dynamical matrix product ansatz.
+\\

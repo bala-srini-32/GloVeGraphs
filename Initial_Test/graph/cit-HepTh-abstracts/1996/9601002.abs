@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9601002
+From: Warren Siegel <siegel@insti.physics.sunysb.edu>
+Date: Tue, 02 Jan 1996 11:25:54 -0500   (16kb)
+
+Title: Actions for QCD-like strings
+Authors: W. Siegel
+Comments: 14 pg., plain tex, other formats available at
+  http://insti.physics.sunysb.edu/~siegel/preprints or at
+  ftp://max.physics.sunysb.edu/preprints/siegel
+Report-no: ITP-SB-96-1
+Journal-ref: Int.J.Mod.Phys. A13 (1998) 381-392
+\\
+  We introduce a random lattice corresponding to ordinary Feynman diagrams,
+with 1/p-squared propagators instead of the Gaussians used in the usual
+strings. The continuum limit defines a new type of string action with two
+worldsheet metrics, one Minkowskian and one Euclidean. The propagators
+correspond to curved lightlike paths with respect to the Minkowskian worldsheet
+metric. Spacetime dimensionality of four is implied not only as the usual
+critical dimension of renormalizable quantum field theory, but also from
+T-duality.
+\\

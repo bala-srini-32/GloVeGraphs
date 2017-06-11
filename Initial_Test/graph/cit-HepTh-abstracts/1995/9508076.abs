@@ -1,0 +1,39 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9508076
+From: Valerie Nowak <val@IAS.EDU>
+Date: Wed, 16 Aug 1995 15:22:02 -0400   (45kb)
+Date (revised): Thu, 28 Sep 1995 10:07:35 -0400
+Date (revised): Wed, 20 Dec 1995 14:58:53 -0500
+
+Title: Generalized Quantum Dynamics as Pre-Quantum Mechanics
+Author: Stephen L. Adler and Andrew C. Millard
+Comments: 79 pages, no figures, plain tex
+Report-no: IASSNS-HEP 95/66
+Journal-ref: Nucl.Phys. B473 (1996) 199-244
+\\
+  We address the issue of when generalized quantum dynamics, which is a
+classical symplectic dynamics for noncommuting operator phase space variables
+based on a graded total trace Hamiltonian ${\bf H}$, reduces to Heisenberg
+picture complex quantum mechanics. We begin by showing that when ${\bf H}={\bf
+Tr} H$, with $H$ a Weyl ordered operator Hamiltonian, then the generalized
+quantum dynamics operator equations of motion agree with those obtained from
+$H$ in the Heisenberg picture by using canonical commutation relations. The
+remainder of the paper is devoted to a study of how an effective canonical
+algebra can arise, without this condition simply being imposed by fiat on the
+operator initial values. We first show that for any total trace Hamiltonian
+which involves no noncommutative constants, there is a conserved
+anti--self--adjoint operator $\tilde C$ with a structure which is closely
+related to the canonical commutator algebra. We study the canonical
+transformations of generalized quantum dynamics, and show that $\tilde C$ is a
+canonical invariant, as is the operator phase space volume element. The latter
+result is a generalization of Liouville's theorem, and permits the application
+of statistical mechanical methods to determine the canonical ensemble governing
+the equilibrium distribution of operator initial values. We give arguments
+based on a Ward identity analogous to the equipartition theorem of classical
+statistical mechanics, suggesting that statistical ensemble averages of Weyl
+ordered polynomials in the operator phase space variables correspond to the
+Wightman functions of a unitary complex quantum mechanics, with a conserved
+operator Hamiltonian and with the standard canonical commutation relations
+obeyed by Weyl ordered operator strings. Thus there is a well--defined sense in
+\\

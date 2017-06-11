@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0004076
+From: Matthias Staudacher <matthias@aei-potsdam.mpg.de>
+Date: Tue, 11 Apr 2000 16:18:25 GMT   (15kb)
+
+Title: Yang-Mills Integrals for Orthogonal, Symplectic and Exceptional Groups
+Authors: Werner Krauth and Matthias Staudacher
+Comments: 16 pages, LaTeX, REVTEX
+Report-no: AEI-2000-022
+Journal-ref: Nucl.Phys. B584 (2000) 641-655
+\\
+  We apply numerical and analytic techniques to the study of Yang-Mills
+integrals with orthogonal, symplectic and exceptional gauge symmetries. The
+main focus is on the supersymmetric integrals, which correspond essentially to
+the bulk part of the Witten index for susy quantum mechanical gauge theory. We
+evaluate these integrals for D=4 and group rank up to three, using Monte Carlo
+methods. Our results are at variance with previous findings. We further compute
+the integrals with the deformation technique of Moore, Nekrasov and
+Shatashvili, which we adapt to the groups under study. Excellent agreement with
+all our numerical calculations is obtained. We also discuss the convergence
+properties of the purely bosonic integrals.
+\\

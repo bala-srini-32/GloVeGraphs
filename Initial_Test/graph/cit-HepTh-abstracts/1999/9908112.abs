@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9908112
+From: wtkim@ccs.sogang.ac.kr
+Date: Tue, 17 Aug 1999 06:10:10 GMT   (10kb)
+
+Title: Improved BFT quantization of O(3) nonlinear sigma model
+Authors: Soon-Tae Hong, Won Tae Kim, and Young-Jai Park
+Comments: 17 pages, revtex, to appear in Phys. Rev. D
+Report-no: SOGANG-HEP 257/99
+Journal-ref: Phys.Rev. D60 (1999) 125005
+\\
+  We newly apply the improved Batalin-Fradkin-Tyutin(BFT) Hamiltonian method to
+the O(3) nonlinear sigma model, and directly obtain the compact form of
+nontrivial first class Hamiltonian by introducing the BFT physical fields.
+Furthermore, following the BFV formalism, we derive the BRST invariant gauge
+fixed Lagrangian through the standard path-integral procedure. Finally, by
+introducing collective coordinates, we also study a semi-classical quantization
+of soliton background to conclude that the spectrum of zero modes are unchanged
+through the BFT procedure.
+\\

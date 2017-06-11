@@ -1,0 +1,17 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9904039
+From: Wolfgang Mueck <wmueck@sfu.ca>
+Date: Tue, 6 Apr 1999 23:02:25 GMT   (5kb)
+Date (revised v2): Wed, 7 Apr 1999 18:07:59 GMT   (5kb)
+
+Title: A Regularization Scheme for the AdS/CFT Correspondence
+Authors: W. Mueck and K.S. Viswanathan
+Comments: 5 pages, uses amsmath, amssymb packages, v2: 2 references added
+Journal-ref: JHEP 9907 (1999) 018
+\\
+  The prescription of the AdS/CFT correspondence is refined by using a
+regularization procedure, which makes is possible to calculate the divergent
+local terms in the CFT two-point function. We present the procedure for the
+example of the scalar field.
+\\

@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0209033
+From: Marcos Donizeti Rodrigues Sampaio <msampaio@fisica.ufmg.br>
+Date: Wed, 4 Sep 2002 14:02:28 GMT   (17kb)
+
+Title: Renormalization Conditions and the Sliding Scale in the Implicit
+  Regularization Scheme: A Simple Connection
+Authors: A. Brizola, S.R. Gobira, Marcos Sampaio, M.C. Nemes (UFMG - Brasil)
+Comments: 23 pages, no figures, LaTeX
+Journal-ref: Int.J.Theor.Phys. 41 (2002) 9
+\\
+  We describe in detail how a sliding scale is introduced in the
+renormalization of a QFT according to integer-dimensional implicit
+regularization scheme. We show that since no regulator needs to be specified at
+intermediate steps of the calculation, the introduction of a mass scale is a
+direct consequence of a set of renormalization conditions. As an illustration
+the one loop beta-function for QED and lambda*phi^4 theories are derived. They
+are given in terms of derivatives of appropriately systematized functions
+(related to definited parts of the amplitudes) with respect to a mass scale mu.
+Our formal scheme can be easily generalized to higher loop calculations.
+\\

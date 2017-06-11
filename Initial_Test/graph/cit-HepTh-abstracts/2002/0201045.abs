@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0201045
+From: Maillet Jean Michel <jean-michel.maillet@ens-lyon.fr>
+Date: Tue, 8 Jan 2002 14:01:27 GMT   (27kb)
+
+Title: Spin-spin correlation functions of the XXZ-1/2 Heisenberg chain in a
+  magnetic field
+Authors: N. Kitanine, J.M. Maillet, N.A. Slavnov, V. Terras
+Comments: 34 pages
+Report-no: LPENSL-TH-01/02
+Subj-class: High Energy Physics - Theory; Mathematical Physics; Exactly
+  Solvable and Integrable Systems
+Journal-ref: Nucl.Phys. B641 (2002) 487-518
+\\
+  Using algebraic Bethe ansatz and the solution of the quantum inverse
+scattering problem, we compute compact representations of the spin-spin
+correlation functions of the XXZ-1/2 Heisenberg chain in a magnetic field. At
+lattice distance m, they are typically given as the sum of m terms. Each term n
+of this sum, n = 1,...,m is represented in the thermodynamic limit as a
+multiple integral of order 2n+1; the integrand depends on the distance as the
+power m of some simple function. The root of these results is the derivation of
+a compact formula for the multiple action on a general quantum state of the
+chain of transfer matrix operators for arbitrary values of their spectral
+parameters.
+\\

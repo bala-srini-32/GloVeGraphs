@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9903173
+From: branchina <branchina@sbgvax.in2p3.fr>
+Date: Sat, 20 Mar 1999 11:30:41 GMT   (32kb)
+
+Title: Wegner-Houghton equation and derivative expansion
+Authors: A. Bonanno, V. Branchina, H. Mohrbach and D. Zappala'
+Comments: 15 pages, 3 figures
+Journal-ref: Phys.Rev. D60 (1999) 065009
+\\
+  We study the derivative expansion for the effective action in the framework
+of the Exact Renormalization Group for a single component scalar theory. By
+truncating the expansion to the first two terms, the potential $U_k$ and the
+kinetic coefficient $Z_k$, our analysis suggests that a set of coupled
+differential equations for these two functions can be established under certain
+smoothness conditions for the background field and that sharp and smooth
+cut-off give the same result. In addition we find that, differently from the
+case of the potential, a further expansion is needed to obtain the differential
+equation for $Z_k$, according to the relative weight between the kinetic and
+the potential terms. As a result, two different approximations to the $Z_k$
+equation are obtained. Finally a numerical analysis of the coupled equations
+for $U_k$ and $Z_k$ is performed at the non-gaussian fixed point in $D<4$
+dimensions to determine the anomalous dimension of the field.
+\\

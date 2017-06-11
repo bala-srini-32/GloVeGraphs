@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0212224
+From: Thorsten Ohl <ohl@physik.uni-wuerzburg.de>
+Date: Wed, 18 Dec 2002 20:50:20 GMT   (60kb)
+Date (revised v2): Thu, 19 Dec 2002 18:03:07 GMT   (60kb)
+
+Title: Clockwork SUSY: Supersymmetric Ward and Slavnov-Taylor Identities At
+  Work in Green's Functions and Scattering Amplitudes
+Authors: Thorsten Ohl (Wuerzburg University), Juergen Reuter (Karlsruhe
+  University)
+Comments: 12 pages, RevTeX4 (twocolumn), feynmp.sty and thophys.sty included.
+  One reference added
+Report-no: WUE-ITP-2002-038, TTP 02-42
+\\
+  We study the cancellations among Feynman diagrams that implement the Ward and
+Slavnov-Taylor identities corresponding to the conserved supersymmetry current
+in supersymmetric quantum field theories. In particular, we show that the
+Faddeev-Popov ghosts of gauge- and supersymmetries never decouple from the
+physical fields, even for abelian gauge groups. The supersymmetric
+Slavnov-Taylor identities provide efficient consistency checks for automatized
+calculations and can verify the supersymmetry of Feynman rules and the
+numerical stability of phenomenological predictions simultaneously.
+\\

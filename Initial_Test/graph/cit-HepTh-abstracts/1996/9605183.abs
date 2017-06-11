@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9605183
+From: Melih Sener <MSENER@CCVM.SUNYSB.EDU>
+Date: Sun, 26 May 96 14:24:07 EDT   (7kb)
+Date (revised): Fri, 31 May 96 13:42:01 EDT
+
+Title: Finite volume partition functions and Itzykson-Zuber integrals
+Authors: A.D. Jackson, M.K. \c Sener, J.J.M. Verbaarschot
+Comments: 11 pages, LATEX. A minor typo in equation (12) has been corrected in
+  the revised version
+Report-no: SUNY-NTG-96/29
+Journal-ref: Phys.Lett. B387 (1996) 355-360
+\\
+  We find the finite volume QCD partition function for arbitrary quark masses.
+This is a generalization of a result obtained by Leutwyler and Smilga for equal
+quark masses. Our result is derived in the sector of zero topological charge
+using a generalization of the Itzykson-Zuber integral appropriate for arbitrary
+complex matrices. We present a conjecture regarding the result for arbitrary
+topological charge which reproduces the Leutwyler-Smilga result in the limit of
+equal quark masses. We derive a formula of the Itzykson-Zuber type for
+arbitrary {\em rectangular\/} complex matrices, extending the result of Guhr
+and Wettig obtained for {\em square\/} matrices.
+\\

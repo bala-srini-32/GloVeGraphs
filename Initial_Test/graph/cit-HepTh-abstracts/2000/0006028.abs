@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0006028
+From: Adam Ritz <a.ritz@damtp.cam.ac.uk>
+Date: Sun, 4 Jun 2000 16:32:02 GMT   (86kb)
+Date (revised v2): Thu, 6 Jul 2000 11:14:48 GMT   (87kb)
+Date (revised v3): Wed, 6 Dec 2000 14:23:10 GMT   (82kb)
+
+Title: Marginal Stability and the Metamorphosis of BPS States
+Authors: Adam Ritz, Mikhail Shifman, Arkady Vainshtein, Mikhail Voloshin
+Comments: 48 pages, 10 figures; significant revision of section 5 on dyons in
+  3+1D and related changes elsewhere
+Report-no: TPI-MINN-00/02, UMN-TH-1835/00, DAMTP-2000-39
+Journal-ref: Phys.Rev. D63 (2001) 065018
+\\
+  We discuss the restructuring of the BPS spectrum which occurs on certain
+submanifolds of the moduli/parameter space -- the curves of the marginal
+stability (CMS) -- using quasiclassical methods. We argue that in general a
+`composite' BPS soliton swells in coordinate space as one approaches the CMS
+and that, as a bound state of two `primary' solitons, its dynamics in this
+region is determined by non-relativistic supersymmetric quantum mechanics. Near
+the CMS the bound state has a wave function which is highly spread out.
+Precisely on the CMS the bound state level reaches the continuum, the composite
+state delocalizes in coordinate space, and restructuring of the spectrum can
+occur. We present a detailed analysis of this behavior in a two-dimensional N=2
+Wess-Zumino model with two chiral fields, and then discuss how it arises in the
+context of `composite' dyons near weak coupling CMS curves in N=2
+supersymmetric gauge theories. We also consider cases where some states become
+massless on the CMS.
+\\

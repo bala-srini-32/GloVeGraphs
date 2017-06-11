@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9708096
+From: Manoelito Martins de Souza <manoelit@cce.ufes.br>
+Date: Mon, 18 Aug 1997 14:50:19 -0300   (14kb)
+
+Title: Dynamics and causality constraints in field theory
+Authors: Manoelito M. de Souza
+Comments: 10 pages, Revtex, 4 ps figures
+Report-no: UFES-DF-MMS-97/1
+\\
+  We discuss the physical meaning and the geometric interpretation of causality
+implementation in classical field theories. Causality is normally implemented
+through kinematical constraints on fields but we show that in a zero-distance
+limit they also carry a dynamical information, which calls for a revision of
+our standard concepts of interacting fields. The origin of infinities and other
+inconsistencies in field theories is traced to fields defined with support on
+the lightcone; a finite and consistent field theory requires a lightcone
+generator as the field support.
+\\

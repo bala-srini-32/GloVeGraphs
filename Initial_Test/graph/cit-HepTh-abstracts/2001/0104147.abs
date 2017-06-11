@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0104147
+From: Albion Lawrence <albion@slac.stanford.edu>
+Date: Tue, 17 Apr 2001 19:52:42 GMT   (25kb)
+Date (revised v2): Tue, 24 Apr 2001 23:46:51 GMT   (25kb)
+Date (revised v3): Thu, 26 Jul 2001 21:08:50 GMT   (26kb)
+
+Title: Derived Categories and Zero-Brane Stability
+Authors: Paul S. Aspinwall, Albion Lawrence
+Comments: 24 pages, no figures, LaTeX2e. (v2) Added references, fixed typos,
+  small changes, esp. in discussions of D0-brane stability. (v3) Explanatory
+  comments added, corrected discussion of birational invariance of derived
+  category
+Report-no: DUKE-CGTP-01-07, SLAC-PUB-8812, SU-ITP-01/18
+Subj-class: High Energy Physics - Theory; Algebraic Geometry
+Journal-ref: JHEP 0108 (2001) 004
+\\
+  We define a particular class of topological field theories associated to open
+strings and prove the resulting D-branes and open strings form the bounded
+derived category of coherent sheaves. This derivation is a variant of some
+ideas proposed recently by Douglas. We then argue that any 0-brane on any
+Calabi-Yau threefold must become unstable along some path in the Kahler moduli
+space. As a byproduct of this analysis we see how the derived category can be
+invariant under a birational transformation between Calabi-Yaus.
+\\

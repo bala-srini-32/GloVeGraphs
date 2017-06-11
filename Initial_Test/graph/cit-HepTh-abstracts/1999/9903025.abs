@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9903025
+From: Yuji Okawa <okawa@hep1.c.u-tokyo.ac.jp>
+Date: Tue, 2 Mar 1999 12:29:40 GMT   (12kb)
+Date (revised v2): Mon, 22 Mar 1999 05:31:50 GMT   (12kb)
+
+Title: Higher-derivative terms in one-loop effective action for general
+  trajectories of D-particles in Matrix theory
+Authors: Yuji Okawa (University of Tokyo, Komaba)
+Comments: 18 pages, LaTeX2e, no figures, v2: a coefficient in (3.32) and the
+  corresponding one in (3.33) corrected and a minor change
+Report-no: UT-Komaba/99-5
+Journal-ref: Nucl.Phys. B552 (1999) 447-460
+\\
+  The one-loop effective action for general trajectories of D-particles in
+Matrix theory is calculated in the expansion with respect to the number of
+derivatives up to six, which gives the equation of motion consistently. The
+result shows that the terms with six derivatives vanish for straight-line
+trajectories, however, they do not vanish in general. This provides a concrete
+example that non-renormalization of twelve-fermion terms does not necessarily
+imply that of six-derivative terms.
+\\

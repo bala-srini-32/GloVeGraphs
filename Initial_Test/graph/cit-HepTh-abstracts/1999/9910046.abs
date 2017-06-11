@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9910046
+From: Laszlo Feher <lfeher@sol.cc.u-szeged.hu>
+Date: Wed, 6 Oct 1999 14:17:23 GMT   (40kb)
+
+Title: Chiral Extensions of the WZNW Phase Space, Poisson-Lie Symmetries and
+  Groupoids
+Authors: J. Balog, L. Feher, L. Palla
+Comments: 40 pages, LaTeX
+Subj-class: High Energy Physics - Theory; Mathematical Physics; Quantum Algebra
+Journal-ref: Nucl.Phys. B568 (2000) 503-542
+\\
+  The chiral WZNW symplectic form $\Omega^{\rho}_{chir}$ is inverted in the
+general case. Thereby a precise relationship between the arbitrary monodromy
+dependent 2-form appearing in $\Omega^{\rho}_{chir}$ and the exchange r-matrix
+that governs the Poisson brackets of the group valued chiral fields is
+established. The exchange r-matrices are shown to satisfy a new dynamical
+generalization of the classical modified Yang-Baxter (YB) equation and
+Poisson-Lie (PL) groupoids are constructed that encode this equation
+analogously as PL groups encode the classical YB equation. For an arbitrary
+simple Lie group G, exchange r-matrices are found that are in one-to-one
+correspondence with the possible PL structures on G and admit them as PL
+symmetries.
+\\

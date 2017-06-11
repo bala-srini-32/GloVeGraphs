@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9903018
+From: "Gary Mccartor" <mccartor@loaner.physics.smu.edu>
+Date: Mon, 1 Mar 1999 20:08:14 GMT   (15kb)
+
+Title: The Indispensability of Ghost Fields in the Light-Cone Gauge
+  Quantization of Gauge Fields
+Authors: Yuji Nakawaki and Gary McCartor
+Comments: 21 pages, uses ptptex.sty
+Report-no: SMUHEP/99-02
+Journal-ref: Prog.Theor.Phys. 102 (1999) 149-167
+\\
+  We continue McCartor and Robertson's recent demonstration of the
+indispensability of ghost fields in the light-cone gauge quantization of gauge
+fields. It is shown that the ghost fields are indispensable in deriving
+well-defined antiderivatives and in regularizing the most singular component of
+gauge field propagator. To this end it is sufficient to confine ourselves to
+noninteracting abelian fields. Furthermore to circumvent dealing with
+constrained systems, we construct the temporal gauge canonical formulation of
+the free electromagnetic field in auxiliary coordinates
+$x^{\mu}=(x^-,x^+,x^1,x^2)$ where $x^-=x^0 cos{\theta}-x^3 sin{\theta}, x^+=x^0
+sin{\theta}+x^3 cos{\theta}$ and $x^-$ plays the role of time. In so doing we
+can quantize the fields canonically without any constraints, unambiguously
+introduce "static ghost fields" as residual gauge degrees of freedom and
+construct the light-cone gauge solution in the light-cone representation by
+simply taking the light-cone limit (${\theta}\to \pi/4$). As a by product we
+find that, with a suitable choice of vacuum the Mandelstam-Leibbrandt form of
+the propagator can be derived in the ${\theta}=0$ case (the temporal gauge
+formulation in the equal-time representation).
+\\

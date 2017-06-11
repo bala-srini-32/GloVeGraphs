@@ -1,0 +1,19 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0010100
+From: Michael Strickland <mike@nucleus1.phys.washington.edu>
+Date: Thu, 12 Oct 2000 15:06:50 GMT   (409kb)
+
+Title: Self-consistent renormalization group flow
+Authors: Sen-Ben Liao, Chi-Yong Lin, and Michael Strickland
+Comments: 25 pages, 11 figures
+Report-no: CCU-TH-00-02
+\\
+  A self-consistent renormalization group flow equation for the scalar lambda
+phi^4 theory is analyzed and compared with the local potential approximation.
+The two prescriptions coincide in the sharp cutoff limit but differ with a
+smooth cutoff. The dependence of the critical exponent nu on the smoothness
+parameter and the field of expansion is explored. An optimization scheme based
+on the minimum sensitivity principle is employed to ensure the most rapid
+convergence of nu with the level of polynomial truncation.
+\\

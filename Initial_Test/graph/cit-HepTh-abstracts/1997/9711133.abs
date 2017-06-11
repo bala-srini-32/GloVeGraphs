@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9711133
+From: jouko mickelsson <jouko@theophys.kth.se>
+Date: Tue, 18 Nov 1997 11:24:09 GMT   (26kb)
+
+Title: Bundle Gerbes Applied to Quantum Field Theory
+Authors: Alan Carey, Jouko Mickelsson, and Michael Murray
+Comments: 28 pages in Latex
+Journal-ref: Rev.Math.Phys. 12 (2000) 65-90
+\\
+  This paper reviews recent work on a new geometric object called a bundle
+gerbe and discusses some new examples arising in quantum field theory. One
+application is to an Atiyah-Patodi-Singer index theory construction of the
+bundle of fermionic Fock spaces parametrized by vector potentials in odd space
+dimensions and a proof that this leads in a simple manner to the known
+Schwinger terms (Mickelsson-Faddeev cocycle) for the gauge group action. This
+gives an explicit computation of the Dixmier-Douady class of the associated
+bundle gerbe. The method works also in other cases of fermions in external
+fields (external gravitational field, for example) provided that the APS
+theorem can be applied; however, we have worked out the details only in the
+case of vector potentials. Another example, in which the bundle gerbe curvature
+plays a role, arises from the WZW model on Riemann surfaces. A further example
+is the `existence of string structures' question. We conclude by showing how
+global Hamiltonian anomalies fit within this framework.
+\\

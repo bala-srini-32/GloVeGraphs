@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9907208
+From: Gerald V. Dunne <dunne@hep.phys.uconn.edu>
+Date: Wed, 28 Jul 1999 20:55:16 GMT   (39kb)
+
+Title: Derivative Expansion and Soliton Masses
+Authors: Gerald V. Dunne
+Comments: 8 pages, 3 figures, RevTeX, uses epsfig.sty
+Journal-ref: Phys.Lett. B467 (1999) 238-246
+\\
+  We present a simple algorithm to implement the generalized derivative
+expansion introduced previously by L-H. Chan, and apply it to the calculation
+of the one-loop mass correction to the classical soliton mass in the 1+1
+dimensional Jacobi model. We then show how this derivative expansion approach
+implies that the total (bosonic plus fermionic) mass correction in an N=1
+supersymmetric soliton model is determined solely by the asymptotic values (and
+derivatives) of the fermionic background potential. For a static soliton the
+total mass correction is $-m/(2\pi)$, in agreement with recent analyses using
+phase-shift methods.
+\\

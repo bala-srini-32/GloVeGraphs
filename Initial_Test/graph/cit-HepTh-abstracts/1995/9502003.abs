@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9502003
+From: "N. D. Hari Dass" <dass@imsc.ernet.in>
+Date: Wed, 1 Feb 1995 16:18:37 +0900   (28kb)
+Date (revised): Thu, 2 Feb 1995 19:26:17 +0900
+Date (revised): Tue, 16 Dec 1997 07:19:57 GMT
+
+Title: Infrared Behaviour of Systems With Goldstone Bosons
+Authors: Ramesh Anishetty, Rahul Basu, N.D. Hari Dass, and H.S.Sharatchandra
+Comments: 28 pages,2 Figs, a new section on some universal features of
+  multipion processes has been added
+Report-no: IMSc-94/52
+Journal-ref: Int.J.Mod.Phys. A14 (1999) 3467-3496
+\\
+  We develop various complementary concepts and techniques for handling quantum
+fluctuations of Goldstone bosons.We emphasise that one of the consequences of
+the masslessness of Goldstone bosons is that the longitudinal fluctuations also
+have a diverging susceptibility characterised by an anomalous dimension $(d-2)$
+in space-time dimensions $2<d<4$.In $d=4$ these fluctuations diverge
+logarithmically in the infrared region.We show the generality of this
+phenomenon by providing three arguments based on i). Renormalization group
+flows, ii). Ward identities, and iii). Schwinger-Dyson equations.We obtain an
+explicit form for the generating functional of one-particle irreducible
+vertices of the O(N) (non)--linear $\sigma$--models in the leading 1/N
+approximation.We show that this incorporates all infrared behaviour correctly
+both in linear and non-linear $\sigma$-- models. Our techniques provide an
+alternative to chiral perturbation theory.Some consequences are discussed
+briefly.
+\\

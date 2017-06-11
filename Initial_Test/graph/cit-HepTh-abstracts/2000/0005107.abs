@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0005107
+From: Jose Gaite <gaite@laeff.esa.es>
+Date: Thu, 11 May 2000 19:06:49 GMT   (7kb)
+Date (revised v2): Mon, 16 Oct 2000 19:06:11 GMT   (8kb)
+
+Title: Renormalization group irreversible functions in more than two dimensions
+Authors: J. Gaite
+Comments: 4 pages; minor changes to improve readability; to appear in Phys.
+  Rev. D
+Subj-class: High Energy Physics - Theory; Statistical Mechanics
+Journal-ref: Phys.Rev. D62 (2000) 125023
+\\
+  There are two general irreversibility theorems for the renormalization group
+in more than two dimensions: the first one is of entropic nature, while the
+second one, by Forte and Latorre, relies on the properties of the stress-tensor
+trace, and has been recently questioned by Osborn and Shore. We start by
+establishing under what assumptions this second theorem can still be valid.
+Then it is compared with the entropic theorem and shown to be essentially
+equivalent. However, since the irreversible function of the (corrected)
+Forte-Latorre theorem is non universal (whereas the relative entropy of the
+other theorem is universal), it needs the additional step of renormalization.
+On the other hand, the irreversibility theorem is only guaranteed to be
+unambiguous if the integral of the stress-tensor trace correlator is finite,
+which happens for free theories only in dimension smaller than four.
+\\

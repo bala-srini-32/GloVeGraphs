@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9612198
+From: MOTL@menza.mff.cuni.cz
+Date: Wed, 18 Dec 1996 23:19:42 +0100   (14kb)
+Date (revised): Sun, 5 Jan 1997 21:36:09 +0100 (MET)
+Date (revised): Sun, 26 Jan 1997 16:47:27 +0100 (MET)
+
+Title: Quaternions and M(atrix) theory in spaces with boundaries
+Author: Lubos Motl
+Comments: plain LaTeX, 15 pages, 1st revision: references, school info and
+  notes added (real matrix case, Mobius membranes and so on...) 2nd revision:
+  notes on originators of ideas
+Report-no: HEP-UK-0002
+\\
+  A proposal for the matrix model formulation of the M-theory on a space with a
+boundary is given. A general machinery for modding out a symmetry in M(atrix)
+theory is used for a Z_2 symmetry changing the sign of the X_1 coordinate. The
+construction causes the elements of matrices to be equivalent to real numbers
+or quaternions and the symmetry U(2N) of the original model is reduced to O(2N)
+or USp(2N)=U(N,H). We also show that membranes end on the boundary of the
+spacetime correctly in this construction.
+\\

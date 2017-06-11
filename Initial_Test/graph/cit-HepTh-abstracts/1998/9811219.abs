@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9811219
+From: "Iver H. Brevik" <iver.h.brevik@maskin.ntnu.no>
+Date: Wed, 25 Nov 1998 12:39:43 GMT   (9kb)
+
+Title: Casimir Theory of the Relativistic Piecewise Uniform String
+Author: I. Brevik
+Comments: 14 pages, latex, no figures. Talk given at the conference "Quantum
+  Field Theory Under the Influence of External Conditions", Leipzig, 14-18
+  September 1998. Submitted to the conference Proceedings
+\\
+  The Casimir energy for the transverse oscillations of a piecewise uniform
+closed string is calculated. The string is relativistic in the sense that the
+velocity of transverse waves is always equal to c. The great adaptibility of
+this string model with respect to various regularization methods is pointed
+out. We survey several regularization methods: the cutoff method, the complex
+contour integration method, and the zeta-function method. The most powerful
+method in the present case is the contour integration method. The Casimir
+energy turns out to be negative, and the more so the larger is the number of
+pieces in the string. The thermodynamic free energy F is calculated for a
+two-piece string in the limit when the tension ratio x = T_I/T_II approaches
+zero. For large values of the length ratio s = L_II/L_I, the Hagedorn
+temperature becomes proportional to the square root of s.
+\\

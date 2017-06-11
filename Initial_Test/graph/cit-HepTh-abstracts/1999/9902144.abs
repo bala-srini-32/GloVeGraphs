@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9902144
+From: Janos Polonyi <polonyi@lpt1.u-strasbg.fr>
+Date: Sat, 20 Feb 1999 21:24:50 GMT   (14kb)
+Date (revised v2): Thu, 24 Aug 2000 14:07:09 GMT   (16kb)
+
+Title: Renormalization group for the internal space
+Authors: Jean Alexandre, Janos Polonyi
+Comments: Updated, corrected, 19 pages, no figures
+\\
+  The renormalization group method is a successive integration over the
+fluctuations which are ordered according to their length scale, a parameter in
+the external space. A different procedure is described, where the fluctuations
+are treated in a successive manner, as well, but their order is given by an
+internal space parameter, their amplitude. The differential version of the
+renormalization group equation is given which is the functional generalization
+of the Callan-Symanzik equation in one special case and resums the loop
+expansion in another one.
+\\

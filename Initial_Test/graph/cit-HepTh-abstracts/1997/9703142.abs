@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9703142
+From: Boris Rusakov <b.rusakov1@physics.oxford.ac.uk>
+Date: Thu, 20 Mar 1997 15:45:29 +0000 (GMT)   (15kb)
+Date (revised): Mon, 24 Mar 1997 14:36:08 +0000 (GMT)
+Date (revised): Sun, 13 Apr 1997 21:39:22 +0100 (BST)
+Date (revised): Fri, 18 Jul 1997 13:37:59 +0100 (BST)
+
+Title: Exactly Soluble QCD and Confinement of Quarks
+Author: B.Rusakov (Oxford University)
+Comments: 12 pages, LaTeX (substantial revision and reorganization of the text;
+  the emphasis redirected to the physics of the approach; no change in the
+  resulting model and conclusion)
+Report-no: OUTP-97-13P
+Journal-ref: Nucl.Phys. B507 (1997) 691-706
+\\
+  An exactly soluble non-perturbative model of the pure gauge QCD is derived as
+a weak coupling limit of the lattice theory in plaquette formulation. The model
+represents QCD as a theory of the weakly interacting field strength fluxes. The
+area law behavior of the Wilson loop average is a direct result of this
+representation: the total flux through macroscopic loop is the additive (due to
+the weakness of the interaction) function of the elementary fluxes. The
+compactness of the gauge group is shown to be the factor which prevents the
+elementary fluxes contributions from cancellation. There is no area law in the
+non-compact theory.
+\\

@@ -1,0 +1,32 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0208231
+From: Radu Roiban <radu@vulcan2.physics.ucsb.edu>
+Date: Fri, 30 Aug 2002 18:13:46 GMT   (73kb)
+Date (revised v2): Tue, 29 Oct 2002 02:20:11 GMT   (71kb)
+
+Title: A Calculation of the plane wave string Hamiltonian from N=4
+  super-Yang-Mills theory
+Authors: David J. Gross, Andrei Mikhailov, Radu Roiban
+Comments: 38 pages, Latex; v2: Comparison with string theory changed in light
+  of corrections to string theory results in hep-th/0206073 v3; state-operator
+  map modified; Physical interpretation and conclusions unchanged
+\\
+  Berenstein, Maldacena, and Nastase have proposed, as a limit of the strong
+form of the AdS/CFT correspondence, that string theory in a particular plane
+wave background is dual to a certain subset of operators in the N=4
+super-Yang-Mills theory. Even though this is a priori a strong/weak coupling
+duality, the matrix elements of the string theory Hamiltonian, when expressed
+in gauge theory variables, are analytic in the 't Hooft coupling constant. This
+allows one to conjecture that, like the masses of excited string states, these
+can be recovered using perturbation theory in Yang-Mills theory.
+  In this paper we identify the difference between the generator of scale
+transformations and a particular U(1) R-symmetry generator as the operator dual
+to the string theory Hamiltonian for nonvanishing string coupling. We compute
+its matrix elements and find that they agree with the string theory prediction
+provided that the state-operator map is modified for nonvanishing string
+coupling. We construct this map explicitly and calculate the anomalous
+dimensions of the new operators. We identify the component arising from the
+modification of the state-operator map with the contribution of the string
+theory contact terms to the masses of string states.
+\\

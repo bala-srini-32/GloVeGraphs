@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9905151
+From: "Adolfo Maia Jr." <maia@ime.unicamp.br>
+Date: Thu, 20 May 1999 21:37:17 GMT   (77kb)
+
+Title: Jacobi Elliptic Solutions of $\lambda\phi^4$ Theory in a Finite Domain
+Authors: J. A. Espichan Carrillo, A. Maia Jr. and V. Mostepanenko
+Comments: 15 pages, LaTex
+Journal-ref: Int.J.Mod.Phys. A15 (2000) 2645-2660
+\\
+  The general static solutions of the scalar field equation for the potential
+$V(\phi)= -1/2 M^2\phi^2 + \lambda/4 \phi^4$ are determined for a finite domain
+in $(1+1)$ dimensional space-time. A family of real solutions is described in
+terms of Jacobi Elliptic Functions. We show that the vacuum-vacuum boundary
+conditions can be reached by elliptic cn-type solutions in a finite domain,
+such as of the Kink, for which they are imposed at infinity. We proved
+uniqueness for elliptic sn-type solutions satisfying Dirichlet boundary
+conditions in a finite interval (box) as well the existence of a minimal mass
+corresponding to these solutions in a box. We define expressions for the
+``topological charge'', ``total energy'' (or classical mass) and ``energy
+density'' for elliptic sn-type solutions in a finite domain. For large length
+of the box the conserved charge, classical mass and energy density of the Kink
+are recovered. Also, we have shown that using periodic boundary conditions the
+results are the same as in the case of Dirichlet boundary conditions. In the
+case of anti-periodic boundary conditions all elliptic sn-type solutions are
+allowed.
+\\

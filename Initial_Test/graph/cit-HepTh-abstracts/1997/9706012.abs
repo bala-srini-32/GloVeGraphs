@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9706012
+From: Gerald Dunne <dunne@hep.phys.uconn.edu>
+Date: Mon, 2 Jun 97 15:25:53 -0400   (70kb)
+
+Title: Self-Isospectral Periodic Potentials and Supersymmetric Quantum
+  Mechanics
+Authors: Gerald Dunne (UConn), Joshua Feinberg (ITP, UC Santa-Barbara)
+Comments: 17 pages, ReVTeX, 6 figures, uses epsf
+Report-no: UCONN-97/10, NSF-ITP-97-054
+Subj-class: High Energy Physics - Theory; Exactly Solvable and Integrable
+  Systems
+Journal-ref: Phys.Rev. D57 (1998) 1271-1276
+\\
+  We discuss supersymmetric quantum mechanical models with periodic potentials.
+The important new feature is that it is possible for both isospectral
+potentials to support zero modes, in contrast to the standard nonperiodic case
+where either one or neither (but not both) of the isospectral pair has a zero
+mode. Thus it is possible to have supersymmetry unbroken and yet also have a
+vanishing Witten index. We present some explicit exactly soluble examples for
+which the isospectral potentials have identical band spectra, and which are
+``self-isospectral'' in the sense that the potentials have identical shape, but
+are translated by one half period relative to one another.
+\\

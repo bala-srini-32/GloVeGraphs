@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9602069
+From: "David L. Olmsted" <OLMSTED@BINAH.CC.BRANDEIS.EDU>
+Date: Tue, 13 Feb 1996 13:09:12 -0500 (EST)   (66kb)
+Date (revised): Thu, 19 Sep 1996 10:22:39 -0500 (EST)
+Date (revised): Tue, 15 Jul 1997 11:39:49 -0500 (EST)
+
+Title: The Gauged Vector Model in Four-Dimensions: Resolution of an Old
+  Problem?
+Authors: David L. Olmsted and Howard J. Schnitzer (Brandeis University)
+Comments: Latex, 18 pages plus 3 figures using epsf. Substantially revised to
+  correct a factor of 2 error in the previous version of equation (2.5b). This
+  has significant effects on the results. The model has also been revised to
+  include fermions
+Report-no: BRX TH-390
+Journal-ref: Nucl.Phys. B512 (1998) 237-249
+\\
+  A calculation of the renormalization group improved effective potential for
+the gauged U(N) vector model, coupled to $N_f$ fermions in the fundamental
+representation, computed to leading order in 1/N, all orders in the scalar
+self-coupling $\lambda$, and lowest order in gauge coupling $g^2$, with $N_f$
+of order $N$, is presented. It is shown that the theory has two phases, one of
+which is asymptotically free, and the other not, where the asymptotically free
+phase occurs if $0 < \lambda /g^2 < {4/3} (\frac{N_f}{N} - 1)$, and
+$\frac{N_f}{N} < {11/2}$. In the asymptotically free phase, the effective
+potential behaves qualitatively like the tree-level potential. In the other
+phase, the theory exhibits all the difficulties of the ungauged $(g^2 = 0)$
+vector model. Therefore the theory appears to be consistent (only) in the
+asymptotically free phase.
+\\

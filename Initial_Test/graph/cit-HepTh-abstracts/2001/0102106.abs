@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0102106
+From: Pavel Yu. Moshin <moshin@mail.tomsknet.ru>
+Date: Mon, 19 Feb 2001 11:11:35 GMT   (12kb)
+Date (revised v2): Mon, 12 Mar 2001 21:10:04 GMT   (12kb)
+
+Title: Superfield Lagrangian Quantization with Extended BRST Symmetry
+Authors: P. M. Lavrov, P. Yu. Moshin
+Comments: 14 pages, LaTex, added a reference and more comments to the
+  introduction
+Journal-ref: Phys.Lett. B508 (2001) 127-136
+\\
+  We consider possible superfield representations of extended BRST symmetry for
+general gauge theories within the principle of gauge-fixing based on a
+generating equation for the gauge functional. We examine admissible superfield
+choices for an extended antibracket and delta-operator with given algebraic
+properties and show that only one of these choices is compatible with the
+requirement of extended BRST symmetry realized in terms of supertranslations
+along Grassmann coordinates. We demonstrate that this realization leads to the
+gauge-independence of the S-matrix.
+\\

@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0111002
+From: Costas Bachas <Costas.Bachas@lpt.ens.fr>
+Date: Thu, 1 Nov 2001 19:24:15 GMT   (20kb)
+Date (revised v2): Thu, 20 Dec 2001 16:21:17 GMT   (37kb)
+
+Title: Orientifolds of the 3-sphere
+Authors: Constantin Bachas, Nicolas Couchoud and Paul Windey
+Comments: Latex file, 19 pages, one figure, uses JHEP.cls. One reference added,
+  final version as it appeared in JHEP
+Report-no: LPTENS-01/39, LPTHE-01-60, CERN-TH/2001-295
+Journal-ref: JHEP 0112 (2001) 003
+\\
+  We study the geometry of orientifolds in the SU(2) WZW model. They correspond
+to the two inequivalent, orientation-reversing involutions of $S^3$, whose
+fixed-point sets are: the north and south poles (O0), or the equator two-sphere
+(O2). We show how the geometric action of these involutions leads unambiguously
+to the previously obtained algebraic results for the Klein bottle and Moebius
+amplitudes. We give a semiclassical derivation of the selection rules and signs
+in the crosscap couplings, paying particular attention to discrete B-fluxes.
+ A novel observation, which does not follow from consistency of the one-loop
+vacuum diagrams, is that in the case of the O0 orientifolds only integer- or
+only half-integer-spin Cardy states may coexist.
+\\

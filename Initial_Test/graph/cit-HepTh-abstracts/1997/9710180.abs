@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9710180
+From: jz@cecs.cl
+Date: Thu, 23 Oct 1997 23:25:11 GMT   (9kb)
+Date (revised v2): Sat, 24 Jan 1998 17:48:10 GMT   (10kb)
+Date (revised v3): Thu, 28 May 1998 15:57:20 GMT   (10kb)
+Date (revised v4): Sun, 29 Nov 1998 01:11:42 GMT   (11kb)
+Date (revised v5): Sat, 30 Jan 1999 23:15:01 GMT   (11kb)
+
+Title: New Gauge Supergravity in Seven and Eleven Dimensions
+Authors: Ricardo Troncoso and Jorge Zanelli
+Comments: 5pages, RevTeX, no figures, two columns, minor typos corrected
+Journal-ref: Phys.Rev. D58 (1998) 101703
+\\
+  Locally supersymmetric systems in odd dimensions whose Lagrangians are
+Chern-Simons forms for supersymmetric extensions of anti-de Sitter gravity are
+discussed. The construction is illustrated for D=7 and 11. In seven dimensions
+the theory is an N=2 supergravity whose fields are the vielbein
+($e_{\mu}^{a}$), the spin connection ($\omega_{\mu}^{ab}$), two gravitini
+($\psi_{\mu}^{i}$) and an $sp(2)$ gauge connection ($a_{\mu j}^{i}$). These
+fields form a connection for $osp(2|8)$. In eleven dimensions the theory is an
+N=1 supergravity containing, apart from $e_{\mu}^{a}$ and $\omega_{\mu}^{ab}$,
+one gravitino $\psi_{\mu}$, and a totally antisymmetric fifth rank Lorentz
+tensor one-form, $b_{\mu}^{abcde}$. These fields form a connection for
+$osp(32|1)$. The actions are by construction invariant under local
+supersymmetry and the algebra closes off shell without requiring auxiliary
+fields. The $N=2^{[D/2]}$-theory can be shown to have nonnegative energy around
+an AdS background, which is a classical solution that saturates the Bogomolnyi
+bound obtained from the superalgebra.
+\\

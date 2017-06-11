@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9704129
+From: Eugene Perevalov <pereval@claude.ph.utexas.edu>
+Date: Wed, 16 Apr 1997 16:54:34 -0500   (34kb)
+Date (revised): Mon, 12 May 1997 14:28:19 -0500
+
+Title: Enhanced Gauge Symmetry in Type II and F-Theory Compactifications:
+  Dynkin Diagrams from Polyhedra
+Authors: Eugene Perevalov and Harald Skarke
+Comments: 26 pages, LaTeX2e, 17 figures, references added
+Report-no: UTTG-15-97
+Journal-ref: Nucl.Phys. B505 (1997) 679-700
+\\
+  We explain the observation by Candelas and Font that the Dynkin diagrams of
+nonabelian gauge groups occurring in type IIA and F-theory can be read off from
+the polyhedron $\Delta^*$ that provides the toric description of the
+Calabi-Yau manifold used for compacification. We show how the intersection
+pattern of toric divisors corresponding to the degeneration of elliptic fibers
+follows the ADE classification of singularities and the Kodaira classification
+of degenerations. We treat in detail the cases of elliptic K3 surfaces and K3
+fibered threefolds where the fiber is again elliptic. We also explain how even
+the occurrence of monodromy and non-simply laced groups in the latter case is
+visible in the toric picture. These methods also work in the fourfold case.
+\\

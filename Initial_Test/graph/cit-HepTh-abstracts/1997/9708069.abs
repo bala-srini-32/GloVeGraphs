@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9708069
+From: Joachim Kupsch <kupsch@gluon.physik.uni-kl.de>
+Date: Tue, 12 Aug 1997 14:39:21 +0200 (CETDST)   (42kb)
+
+Title: Functional Representations for Fock Superalgebras
+Authors: Joachim Kupsch and Oleg G. Smolyanov
+Comments: 33 pages, Latex
+Report-no: KL-TH-97/7
+\\
+  The Fock space of bosons and fermions and its underlying superalgebra are
+represented by algebras of functions on a superspace. We define Gaussian
+integration on infinite dimensional superspaces, and construct superanalogs of
+the classical function spaces with a reproducing kernel -- including the
+Bargmann-Fock representation -- and of the Wiener-Segal representation. The
+latter representation requires the investigation of Wick ordering on Z2-graded
+algebras. As application we derive a Mehler formula for the Ornstein-Uhlenbeck
+semigroup on the Fock space.
+\\

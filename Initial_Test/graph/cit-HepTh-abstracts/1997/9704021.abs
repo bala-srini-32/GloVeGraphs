@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9704021
+From: "M.Abouzeid" <abouzeid@strings6.ph.qmw.ac.uk>
+Date: Wed, 2 Apr 1997 22:01:25 +0100   (9kb)
+Date (revised): Thu, 10 Apr 1997 20:58:12 +0100
+Date (revised): Tue, 20 May 1997 17:05:53 +0100
+
+Title: Intrinsic Geometry of D-Branes
+Authors: M. Abou Zeid and C. M. Hull
+Comments: 10 pages, LaTeX, no figures. Minor correction; version to appear in
+  Physics Letters B
+Report-no: QMW-PH-97-12
+Journal-ref: Phys.Lett. B404 (1997) 264-270
+\\
+  We obtain forms of Born-Infeld and D-brane actions that are quadratic in
+derivatives of $X$ and linear in $F_{\mu \nu}$ by introducing an auxiliary
+`metric' which has both symmetric and anti-symmetric parts, generalising the
+simplification of the Nambu-Goto action for $p$-branes using a symmetric
+metric. The abelian gauge field appears as a Lagrange multiplier, and solving
+the constraint gives the dual form of the $n$ dimensional action with an $n-3$
+form gauge field instead of a vector gauge field. We construct the dual action
+explicitly, including cases which could not be covered previously. The
+generalisation to supersymmetric D-brane actions with local fermionic symmetry
+is also discussed.
+\\

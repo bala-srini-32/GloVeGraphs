@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9505009
+From: "Poul H. Damgaard, NBI" <PHDAMG@nbivax.nbi.dk>
+Date: Tue, 02 May 1995 17:13:40 +0200   (9kb)
+
+Title: Comments on the Covariant Sp(2)-Symmetric Lagrangian BRST Formalism
+Authors: A. Nersessian and P.H. Damgaard
+Comments: 9 pages, LaTeX
+Report-no: UUITP-5/95
+Journal-ref: Phys.Lett. B355 (1995) 150-156
+\\
+  We give a simple geometrical picture of the basic structures of the covariant
+$Sp(2)$ symmetric quantization formalism -- triplectic quantization -- recently
+suggested by Batalin, Marnelius and Semikhatov. In particular, we show that the
+appearance of an even Poisson bracket is not a particular property of
+triplectic quantization. Rather, any solution of the classical master equation
+generates on a Lagrangian surface of the antibracket an even Poisson bracket.
+Also other features of triplectic quantization can be identified with aspects
+of conventional Lagrangian BRST quantization without extended BRST symmetry.
+\\

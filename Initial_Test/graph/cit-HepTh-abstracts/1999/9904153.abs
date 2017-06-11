@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9904153
+From: Richard Szabo <szabo@alf.nbi.dk>
+Date: Thu, 22 Apr 1999 21:25:14 GMT   (41kb)
+Date (revised v2): Mon, 26 Jul 1999 16:47:05 GMT   (42kb)
+
+Title: Brane Descent Relations in K-theory
+Authors: Kasper Olsen and Richard J. Szabo
+Comments: 43 pages LaTeX, 1 .eps figure, uses epsf.tex; Typos corrected,
+  footnote added in section 2.2, references updated
+Report-no: NBI-HE-99-10
+Subj-class: High Energy Physics - Theory; Mathematical Physics; K-Theory and
+  Homology
+Journal-ref: Nucl.Phys. B566 (2000) 562-598
+\\
+  The various descent and duality relations among BPS and non-BPS D-branes are
+classified using topological K-theory. It is shown how the descent procedures
+for producing type-II D-branes from brane-antibrane bound states by tachyon
+condensation and $\klein$ projections arise as natural homomorphisms of
+K-groups generating the brane charges. The transformations are generalized to
+type-I theories and type-II orientifolds, from which the complete set of vacuum
+manifolds and field contents for tachyon condensation is deduced. A new set of
+internal descent relations is found which describes branes over orientifold
+planes as topological defects in the worldvolumes of brane-antibrane pairs on
+top of planes of higher dimension. The periodicity properties of these
+relations are shown to be a consequence of the fact that all fundamental bound
+state constructions and hence the complete spectrum of brane charges are
+associated with the topological solitons which classify the four Hopf
+fibrations.
+\\

@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9503016
+From: Dan Kabat <kabat@physics.rutgers.edu>
+Date: Fri, 3 Mar 1995 00:28:45 -0500   (22kb)
+Date (revised): Wed, 8 Mar 1995 16:42:20 -0500
+Date (revised): Thu, 20 Jul 1995 15:38:56 -0400
+
+Title: Black Hole Entropy and Entropy of Entanglement
+Author: Daniel Kabat
+Comments: 22 pages, 2 figures, uses harvmac and epsf
+  fixed three minor sign errors, improved the writing in places
+Report-no: RU-95-06
+Journal-ref: Nucl.Phys. B453 (1995) 281-302
+\\
+  We compare the one-loop corrections to the entropy of a black hole, from
+quantum fields of spin zero, one-half, and one, to the entropy of entanglement
+of the fields. For fields of spin zero and one-half the black hole entropy is
+identical to the entropy of entanglement. For spin one the two entropies differ
+by a contact interaction with the horizon which appears in the black hole
+entropy but not in the entropy of entanglement. The contact interaction can be
+expressed as a path integral over particle paths which begin and end on the
+horizon; it is the field theory limit of the interaction proposed by Susskind
+and Uglum which couples a closed string to an open string stranded on the
+horizon.
+\\

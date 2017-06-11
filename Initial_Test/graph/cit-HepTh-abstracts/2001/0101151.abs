@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0101151
+From: Jean-Bernard Zuber <zuber@spht.saclay.cea.fr>
+Date: Tue, 23 Jan 2001 16:08:30 GMT   (76kb)
+Date (revised v2): Wed, 21 Feb 2001 10:40:21 GMT   (80kb)
+Date (revised v3): Fri, 14 Sep 2001 15:57:12 GMT   (77kb)
+
+Title: The many faces of Ocneanu cells
+Authors: V.B. Petkova and J.-B. Zuber
+Comments: 57 pages, 10 figures. Several misprints and the derivation of eq.
+  (7.38) corrected
+Report-no: ESI 975 (2000); UNN-SCM-M-00-10; CERN-TH/2000-355; Saclay T00/188
+Journal-ref: Nucl.Phys. B603 (2001) 449-496
+\\
+  We define generalised chiral vertex operators covariant under the Ocneanu
+``double triangle algebra'' {\cal A}, a novel quantum symmetry intrinsic to a
+given rational 2-d conformal field theory. This provides a chiral approach,
+which, unlike the conventional one, makes explicit various algebraic structures
+encountered previously in the study of these theories and of the associated
+critical lattice models, and thus allows their unified treatment. The
+triangular Ocneanu cells, the 3j-symbols of the weak Hopf algebra {\cal A},
+reappear in several guises. With {\cal A} and its dual algebra {hat A} one
+associates a pair of graphs, G and {\tilde G}. While G are known to encode
+complete sets of conformal boundary states, the Ocneanu graphs {\tilde G}
+classify twisted torus partition functions. The fusion algebra of the twist
+operators provides the data determining {\hat A}. The study of bulk field
+correlators in the presence of twists reveals that the Ocneanu graph quantum
+symmetry gives also an information on the field operator algebra.
+\\

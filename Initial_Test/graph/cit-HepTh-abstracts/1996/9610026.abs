@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9610026
+From: marco.matone@pd.infn.it
+Date: Sun, 6 Oct 1996 13:58:48 +0100 (WET)   (10kb)
+Date (revised): Tue, 15 Oct 1996 18:46:06 +0100 (MET)
+Date (revised): Tue, 25 Feb 1997 18:38:09 +0100
+
+Title: Solving N=2 SYM by Reflection Symmetry of Quantum Vacua
+Authors: G. Bonelli, M. Matone, M. Tonin
+Comments: 12 pg. LaTex, Discussion of the generalization to higher rank groups
+  added. To be published in Phys. Rev. D
+Report-no: DPFD96/TH/29
+Subj-class: High Energy Physics - Theory; Algebraic Geometry
+Journal-ref: Phys.Rev. D55 (1997) 6466-6470
+\\
+  The recently rigorously proved nonperturbative relation between u and the
+prepotential, underlying N=2 SYM with gauge group SU(2), implies both the
+reflection symmetry $\overline{u(\tau)}=u(-\bar\tau)$ and $u(\tau+1)=-u(\tau)$
+which hold exactly. The relation also implies that $\tau$ is the inverse of the
+uniformizing coordinate u of the moduli space of quantum vacua. In this
+context, the above quantum symmetries are the key points to determine the
+structure of the moduli space. It turns out that the functions a(u) and a_D(u),
+which we derive from first principles, actually coincide with the solution
+proposed by Seiberg and Witten. We also consider some relevant generalizations.
+\\

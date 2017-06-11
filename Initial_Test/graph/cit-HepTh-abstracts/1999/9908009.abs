@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9908009
+From: Alessandro Tomasiello <tomasiel@sissa.it>
+Date: Mon, 2 Aug 1999 14:49:08 GMT   (8kb)
+Date (revised v2): Fri, 10 Nov 2000 16:29:34 GMT   (9kb)
+
+Title: Projective resolutions of coherent sheaves and descent relations between
+  branes
+Authors: A. Tomasiello
+Comments: 1+8 pages, no figures; v2: enhanced language
+Report-no: SISSA/92/99/FM
+Journal-ref: Adv.Theor.Math.Phys. 4 (2002) 617-626
+\\
+  We notice that, for branes wrapped on complex analytic subvarieties, the
+algebraic-geometric version of K-theory makes the identification between
+brane-antibrane pairs and lower-dimensional branes automatic. This is because
+coherent sheaves on the ambient variety represent gauge bundles on
+subvarieties, and they can be put in exact sequences (projective resolutions)
+with sheaves corresponding to vector bundles on the pair; this automatically
+gives a D(p-2) as a formal difference of bundles on the Dp - D\bar p pair, both
+belonging to the Grothendieck group of coherent sheaves of the ambient.
+\\

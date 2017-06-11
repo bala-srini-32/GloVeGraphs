@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0207111
+From: Sanjaye Ramgoolam <ramgosk@het.brown.edu>
+Date: Thu, 11 Jul 2002 18:03:54 GMT   (27kb)
+Date (revised v2): Mon, 5 Aug 2002 21:39:26 GMT   (28kb)
+
+Title: Higher dimensional geometries related to fuzzy odd-dimensional spheres
+Authors: Sanjaye Ramgoolam
+Comments: 32 pages, v2 : ref and acknowledgment added
+Report-no: Brown-het-1309
+Journal-ref: JHEP 0210 (2002) 064
+\\
+  We study $SO(m)$ covariant Matrix realizations of $ \sum_{i=1}^{m} X_i^2 = 1
+$ for even $m$ as candidate fuzzy odd spheres following hep-th/0101001. As for
+the fuzzy four sphere, these Matrix algebras contain more degrees of freedom
+than the sphere itself and the full set of variables has a geometrical
+description in terms of a higher dimensional coset. The fuzzy $S^{2k-1} $ is
+related to a higher dimensional coset $ {SO(2k) \over U(1) \times U(k-1)}$.
+These cosets are bundles where base and fibre are hermitian symmetric spaces.
+  The detailed form of the generators and relations for the Matrix algebras
+related to the fuzzy three-spheres suggests Matrix actions which admit the
+fuzzy spheres as solutions. These Matrix actions are compared with the BFSS,
+IKKT and BMN Matrix models as well as some others. The geometry and
+combinatorics of fuzzy odd spheres lead to some remarks on the transverse
+five-brane problem of Matrix theories and the exotic scaling of the entropy of
+5-branes with the brane number.
+\\

@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9505134
+From: "bala" <BXS19@PSUVM.PSU.EDU>
+Date: Mon, 22 May 95 10:59 EDT   (11kb)
+Date (revised): Mon, 12 Jun 95 15:34 EDT
+
+Title: A Comparison of the Proper Time Equation and the Renormalization Group
+  $\beta$-Function in String Theory
+Author: B. Sathiapalan
+Comments: Latex File, 15 pages. Revised version, to appear in Mod. Phys. Lett.
+  A. Some minor misprints corrected and a reference added
+Journal-ref: Mod. Phys. Lett. A10 (1995) 1565
+\\
+  It is known that there is a proportionality factor relating the
+$\beta$-function and the equations of motion viz. the Zamolodchikov metric.
+Usually this factor has to be obtained by other methods. The proper time
+equation, on the other hand, is the full equation of motion. We explain the
+reasons for this and illustrate it by calculating corrections to Maxwell's
+equation. The corrections are calculated to cubic order in the field strength,
+but are exact to all orders in derivatives. We also test the gauge covariance
+of the proper time method by calculating higher (covariant) derivative
+corrections to the Yang-Mills equation.
+\\

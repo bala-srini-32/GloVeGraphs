@@ -1,0 +1,32 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0103241
+From: "ysmyung" <ysmyung@physics.inje.ac.kr>
+Date: Thu, 29 Mar 2001 03:57:42 GMT   (6kb)
+Date (revised v2): Sun, 1 Apr 2001 23:24:59 GMT   (6kb)
+Date (revised v3): Wed, 26 Dec 2001 02:18:01 GMT   (8kb)
+Date (revised v4): Mon, 9 Sep 2002 05:26:24 GMT   (8kb)
+
+Title: Standard cosmology from the brane cosmology with a localized matter
+Authors: Y. S. Myung (Inje Univ)
+Comments: 8 pages, Latex, version to appear in MPLA
+Report-no: INJE-TP-01-03
+Journal-ref: Mod.Phys.Lett. A17 (2002) 1915-1922
+\\
+  We discuss the brane cosmology in the 5D anti de Sitter Reissner-Nordstrom
+(AdSRN$_5$) spacetime. A brane with the tension $\sigma$ is defined as the edge
+of an AdSRN$_5$ space with mass $M$ and charge $Q$. In this case we get the
+CFT-radiation term $(\rho_{CFT})$ from $M$ and the charged dust
+$(-\rho^2_{cd})$ from $Q^2$ in the Friedmann-like equation.
+ However, this equation is not justified because it contains $\rho_{cd}^2$-term
+with the negative sign. This is unconventional in view of the standard
+cosmology. In order to resolve this problem, we introduce a localized dust
+matter which satisfies $P_{dm}=0$. If $\rho_{dm}=\fr{\sqrt 3}{2}\rho_{cd}$, the
+unwanted $-\rho_{cd}^2$ is cancelled against $\rho_{dm}^2$ and thus one
+recovers a standard Friedmann-Robertson-Walker universe with CFT-radiation and
+dust matter. For the stiff matter consideration, we can set $\rho_{csti}\sim
+Q^2$ with the negative sign. Here we introduce a massless scalar which plays
+the role of a stiff matter with $P_{sca}=\rho_{sca}$ to cancel $-\rho_{csti}$.
+In this case, however, we find a mixed version of the standard and brane
+cosmologies.
+\\

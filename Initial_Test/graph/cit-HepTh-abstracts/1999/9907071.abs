@@ -1,0 +1,32 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9907071
+From: Kazunori Itakura <itakura@rcnp.osaka-u.ac.jp>
+Date: Sat, 10 Jul 1999 08:51:15 GMT   (67kb)
+Date (revised v2): Fri, 22 Oct 1999 12:40:04 GMT   (79kb)
+
+Title: Dynamical Chiral Symmetry Breaking on the Light Front I. DLCQ Approach
+Authors: K. Itakura, S. Maedan
+Comments: Revised version to appear in Phys. Rev. D. 19 pages, 4 figures,
+  REVTEX. Derivation of the PCAC relation is given. Its relation to the
+  nonconservation of chiral charge is clarified. 1 figure and some references
+  added
+Report-no: YITP-99-15
+Journal-ref: Phys.Rev. D61 (2000) 045009
+\\
+  Dynamical chiral symmetry breaking in the DLCQ method is investigated in
+detail using a chiral Yukawa model closely related to the Nambu-Jona-Lasinio
+model. By classically solving three constraints characteristic of the
+light-front formalism, we show that the chiral transformation defined on the
+light front is equivalent to the usual one when bare mass is absent. A quantum
+analysis demonstrates that a nonperturbative mean-field solution to the
+``zero-mode constraint'' for a scalar boson (sigma) can develop a nonzero
+condensate while a perturbative solution cannot. This description is due to our
+identification of the ``zero-mode constraint'' with the gap equation. The
+mean-field calculation clarifies unusual chiral transformation properties of
+fermionic field, which resolves a seemingly inconsistency between triviality of
+the null-plane chiral charge Q_5|0>=0 and nonzero condensate. We also calculate
+masses of scalar and pseudoscalar bosons for both symmetric and broken phases,
+and eventually derive the PCAC relation and nonconservation of Q_5 in the
+broken phase.
+\\

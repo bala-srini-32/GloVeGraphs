@@ -1,0 +1,33 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0002181
+From: wellington da cruz <wdacruz@exatas.uel.br>
+Date: Tue, 22 Feb 2000 10:47:48 GMT   (4kb)
+Date (revised v2): Fri, 25 Feb 2000 18:37:39 GMT   (4kb)
+Date (revised v3): Wed, 1 Mar 2000 20:58:52 GMT   (4kb)
+Date (revised v4): Wed, 29 Mar 2000 20:23:19 GMT   (6kb)
+Date (revised v5): Fri, 31 Mar 2000 11:13:53 GMT   (6kb)
+Date (revised v6): Wed, 5 Apr 2000 12:35:36 GMT   (6kb)
+Date (revised v7): Wed, 26 Apr 2000 12:22:14 GMT   (7kb)
+Date (revised v8): Wed, 4 Oct 2000 20:43:34 GMT   (7kb)
+Date (revised v9): Tue, 10 Oct 2000 16:59:47 GMT   (7kb)
+
+Title: Fractal index, central charge and fractons
+Authors: Wellington da Cruz and Rosevaldo de Oliveira
+Comments: latex, 12 pages, To appear in Mod. Phys. Lett. A (2000)
+Report-no: UEL/DF-000201
+Journal-ref: Mod.Phys.Lett. A15 (2000) 1931-1940
+\\
+  We introduce the notion of fractal index associated with the universal class
+$h$ of particles or quasiparticles, termed fractons, which obey specific
+fractal statistics. A connection between fractons and conformal field
+theory(CFT)-quasiparticles is established taking into account the central
+charge $c[\nu]$ and the particle-hole duality
+$\nu\longleftrightarrow\frac{1}{\nu}$, for integer-value $\nu$ of the
+statistical parameter. In this way, we derive the Fermi velocity in terms of
+the central charge as $v\sim\frac{c[\nu]}{\nu+1}$. The Hausdorff dimension $h$
+which labelled the universal classes of particles and the conformal anomaly are
+therefore related. Following another route, we also established a connection
+between Rogers dilogarithm function, Farey series of rational numbers and the
+Hausdorff dimension.
+\\

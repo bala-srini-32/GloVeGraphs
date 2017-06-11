@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0208106
+From: Klaus Rothe <K.Rothe@ThPhys.Uni-Heidelberg.DE>
+Date: Thu, 15 Aug 2002 10:43:19 GMT   (11kb)
+
+Title: Lagrange versus Symplectic Algorithm for Constrained Systems
+Authors: Heinz J. Rothe and Klaus D. Rothe
+Comments: 20 pages, LaTeX
+Report-no: HD-THEP-02-24
+Journal-ref: J.Phys. A36 (2003) 1671-1682
+\\
+  The systematization of the purely Lagrangean approach to constrained systems
+in the form of an algorithm involves the iterative construction of a
+generalized Hessian matrix W taking a rectangular form. This Hessian will
+exhibit as many left zero-modes as there are Lagrangean constraints in the
+theory. We apply this approach to a general Lagrangean in the first order
+formulation and show how the seemingly overdetermined set of equations is
+solved for the velocities by suitably extending W to a rectangular matrix. As a
+byproduct we thereby demonstrate the equivalence of the Lagrangean approach to
+the traditional Dirac-approach. By making use of this equivalence we show that
+a recently proposed symplectic algorithm does not necessarily reproduce the
+full constraint structure of the traditional Dirac algorithm.
+\\

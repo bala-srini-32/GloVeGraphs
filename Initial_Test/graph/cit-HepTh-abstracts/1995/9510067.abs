@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9510067
+From: STRATHDEE JOHN A <strath@ictp.trieste.it>
+Date: Wed, 11 Oct 1995 10:41:44 +0100 (MET)   (17kb)
+
+Title: Vacuum Polarization and Chiral Lattice Fermions
+Authors: S. Randjbar--Daemi and J. Strathdee
+Comments: 23 pages, LaTeX
+Report-no: IC/95/305
+Journal-ref: Nucl.Phys. B461 (1996) 305-326
+\\
+  The vacuum polarization due to chiral fermions on a 4--dimensional Euclidean
+lattice is calculated according to the overlap prescription. The fermions are
+coupled to weak and slowly varying background gauge and Higgs fields, and the
+polarization tensor is given by second order perturbation theory. In this order
+the overlap constitutes a gauge invariant regularization of the fermion vacuum
+amplitude. Its low energy -- long wavelength behaviour can be computed
+explicitly and we verify that it coincides with the Feynman graph result
+obtainable, for example, by dimensional regularization of continuum gauge
+theory. In particular, the Standard Model Callan--Symanzik RG functions are
+recovered. Moreover, there are no residual lattice artefacts such as a
+dependence on Wilson--type mass parameters.
+\\

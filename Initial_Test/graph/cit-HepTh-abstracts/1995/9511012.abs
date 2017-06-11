@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9511012
+From: MARTINA@crnvma.cern.ch
+Date: Thu, 02 Nov 95 15:02:18 WET   (9kb)
+Date (revised): Mon, 13 Nov 95 09:59:37 WET
+
+Title: Generalization of the Calogero-Cohn Bound on the Number of Bound States
+Authors: K. Chadan, R. Kobayashi, A. Martin and J. Stubbe
+Comments: 1 page. Correctly formatted version (replaces previous version)
+Report-no: CERN-TH/95-152
+\\
+  It is shown that for the Calogero-Cohn type upper bounds on the number of
+bound states of a negative spherically symmetric potential $V(r)$, in each
+angular momentum state, that is, bounds containing only the integral
+$\int^\infty_0 |V(r)|^{1/2}dr$, the condition $V'(r) \geq 0$ is not necessary,
+and can be replaced by the less stringent condition $(d/dr)[r^{1-2p}(-V)^{1-p}]
+\leq 0, 1/2 \leq p < 1$, which allows oscillations in the potential. The
+constants in the bounds are accordingly modified, depend on $p$ and $\ell$, and
+tend to the standard value for $p = 1/2$.
+\\

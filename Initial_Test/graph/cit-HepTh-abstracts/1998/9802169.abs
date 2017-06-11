@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9802169
+From: Michel Rausch <rausch@lpt1.u-strasbg.fr>
+Date: Tue, 24 Feb 1998 13:51:20 GMT   (16kb)
+Date (revised v2): Fri, 28 May 1999 15:47:52 GMT   (10kb)
+
+Title: Extension of sine-Gordon field theory from generalized Clifford algebras
+Authors: P.Baseilhac, P. Grang\'e and M. Rausch de Traubenberg
+Comments: LaTex,amstex, 10 pages; title changed, references added, some parts
+  suppressed
+Report-no: PM 98-05, LPT 98-02
+Journal-ref: Mod. Phys. Lett. A 13 (1998) 2531
+\\
+  Linearization of homogeneous polynomials of degree n and k variables leads to
+generalized Clifford algebras. Multicomplex numbers are then introduced in
+analogy to complex numbers with respect to usual Clifford algebra. In turn
+multicomplex extensions of trigonometric functions are constructed in terms of
+`compact' and `non-compact' variables. It gives rise to the natural extension
+of the d-dimensional sine-Gordon field theory in the n-dimensional multicomplex
+space. In dimension 2, the cases n=1,2,3,4 are identified as the quantum
+integrable Liouville, sine-Gordon and known deformed Toda models. The general
+case is discussed.
+\\

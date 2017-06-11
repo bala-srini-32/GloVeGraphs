@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0003264
+From: Jonathan Mark Evans <j.m.evans@damtp.cam.ac.uk>
+Date: Tue, 28 Mar 2000 22:17:53 GMT   (15kb)
+Date (revised v2): Thu, 18 May 2000 18:34:15 GMT   (15kb)
+
+Title: Commuting charges and symmetric spaces
+Authors: J. M. Evans and A. J. Mountain
+Comments: LaTeX, 16 pages; v2: footnote added
+Report-no: PUPT-1922, DAMTP-2000-28, Imperial/TP/99-00/20
+Journal-ref: Phys.Lett. B483 (2000) 290-298
+\\
+  Every classical sigma-model with target space a compact symmetric space $G/H$
+(with $G$ classical) is shown to possess infinitely many local, commuting,
+conserved charges which can be written in closed form. The spins of these
+charges run over a characteristic set of values, playing the role of exponents
+of $G/H$, and repeating modulo an integer $h$ which plays the role of a Coxeter
+number.
+\\

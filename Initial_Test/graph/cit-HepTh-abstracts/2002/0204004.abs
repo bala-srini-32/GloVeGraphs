@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0204004
+From: Boris Pioline <pioline@lpthe.jussieu.fr>
+Date: Mon, 1 Apr 2002 19:53:08 GMT   (43kb)
+Date (revised v2): Fri, 12 Apr 2002 02:56:48 GMT   (44kb)
+Date (revised v3): Thu, 5 Sep 2002 15:22:17 GMT   (48kb)
+
+Title: Strings in homogeneous gravitational waves and null holography
+Authors: E. Kiritsis and B. Pioline
+Comments: 47 pages, 1 figure, Latex2e, JHEP3.cls; v3: global restructuration,
+  sec 3.4, note and appendix E added, final version to appear in JHEP
+Report-no: LPTENS-02-22, LPTHE-02-18
+Journal-ref: JHEP 0208 (2002) 048
+\\
+  Homogeneous gravitational wave backgrounds arise as infinite momentum limits
+of many geometries with a well-understood holographic description. General
+global aspects of these geometries are discussed. Using exact CFT techniques,
+strings in pp-wave backgrounds supported by a Neveu-Schwarz flux are quantized.
+As in Euclidean $AdS_3$, spectral flow and associated long strings are shown to
+be crucial in obtaining a complete spectrum. Holography is investigated using
+conformally flat coordinates analogous to those of the Poincar\'e patch in AdS.
+It is argued that the holographic direction is the light-cone coordinate $u$,
+and that the holographic degrees of freedom live on a codimension-one screen at
+fixed $u$. The usual conformal symmetry on the boundary is replaced by a
+representation of a Heisenberg-type algebra $H_D\times H_D$, hinting at a new
+class of field theories realizing this symmetry. A sample holographic
+computation of 2 and 3-point functions is provided and Ward identities are
+derived. A complementary screen at fixed $v$ is argued to be necessary in order
+to encode the vacuum structure.
+\\

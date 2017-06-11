@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0109201
+From: Kirill Melnikov <melnikov@SLAC.Stanford.EDU>
+Date: Tue, 25 Sep 2001 22:21:27 GMT   (9kb)
+
+Title: A Canonical Hamiltonian Derivation of Hawking Radiation
+Authors: Kirill Melnikov, Marvin Weinstein
+Comments: 5 pages, revtex
+Report-no: SLAC-PUB-8999
+\\
+  We present a derivation of Hawking radiation based on canonical quantization
+of a massless scalar field in the background of a Schwarzschild black hole
+using Lemaitre coordinates and show that in these coordinates the Hamiltonian
+of the massless field is time-dependent. This result exhibits the non-static
+nature of the problem and shows it is better to talk about the time dependence
+of physical quantities rather than the existence of a time-independent vacuum
+state for the massless field. We then demonstrate the existence of Hawking
+radiation and show that despite the fact that the flux looks thermal to an
+outside observer, the time evolution of the massless field is unitary.
+\\

@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0003200
+From: marco.matone@pd.infn.it
+Date: Wed, 22 Mar 2000 17:23:52 GMT   (17kb)
+
+Title: The Concept of a Noncommutative Riemann Surface
+Authors: G. Bertoldi, J.M. Isidro, M. Matone and P. Pasti
+Comments: 1+16 pages, LaTeX
+Subj-class: High Energy Physics - Theory; Algebraic Geometry
+Journal-ref: Phys.Lett. B484 (2000) 323-332
+\\
+  We consider the compactification M(atrix) theory on a Riemann surface Sigma
+of genus g>1. A natural generalization of the case of the torus leads to
+construct a projective unitary representation of pi_1(\Sigma), realized on the
+Hilbert space of square integrable functions on the upper half--plane. A
+uniquely determined gauge connection, which in turn defines a gauged sl_2(R)
+algebra, provides the central extension. This has a geometric interpretation as
+the gauge length of a geodesic triangle, and corresponds to a 2-cocycle of the
+2nd Hochschild cohomology group of the Fuchsian group uniformizing Sigma. Our
+construction can be seen as a suitable double-scaling limit N\to\infty,
+k\to-\infty of a U(N) representation of pi_1(Sigma), where k is the degree of
+the associated holomorphic vector bundle, which can be seen as the higher-genus
+analog of 't Hooft's clock and shift matrices of QCD. We compare the above
+mentioned uniqueness of the connection with the one considered in the
+differential-geometric approach to the Narasimhan-Seshadri theorem provided by
+Donaldson. We then use our infinite dimensional representation to construct a
+C^\star-algebra which can be interpreted as a noncommutative Riemann surface
+Sigma_\theta. Finally, we comment on the extension to higher genus of the
+concept of Morita equivalence.
+\\

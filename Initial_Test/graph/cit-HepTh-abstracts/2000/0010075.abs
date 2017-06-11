@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0010075
+From: aalok misra <aalok@iopb.res.in>
+Date: Wed, 11 Oct 2000 06:03:59 GMT   (19kb)
+
+Title: Absence of Nonlocal Counter-terms in the Gauge Boson Propagator in Axial
+  -type Gauges
+Authors: Satish. D. Joglekar (IIT Kanpur), A. Misra (IOP Bhubaneswar)
+Comments: 17 pages; 3 figures drawn using feyn.sty
+Journal-ref: Int.J.Mod.Phys. A16 (2001) 3731-3744
+\\
+  We study the two-point function for the gauge boson in the axial-type gauges.
+We use the exact treatment of the axial gauges recently proposed that is
+intrinsically compatible with the Lorentz type gauges in the path-integral
+formulation and has been arrived at from this connection and which is a
+``one-vector'' treatment. We find that in this treatment, we can evaluate the
+two-point functions without imposing any additional interpretation on the axial
+gauge 1/(n.q)^p-type poles. The calculations are as easy as the other
+treatments based on other known prescriptions. Unlike the
+``uniform-prescription'' /L-M prescription, we note, here, the absence of any
+non-local divergences in the 2-point proper vertex. We correlate our
+calculation with that for the Cauchy Principal Value prescription and find from
+this comparison that the 2-point proper vertex differs from the CPV calculation
+only by finite terms. For simplicity of treatment, the divergences have been
+calculated here with n^2>0 and these have a smooth light cone limit.
+\\

@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9610180
+From: Valter Moretti <moretti@science.unitn.it>
+Date: Wed, 23 Oct 1996 15:33:06 +0100 (MET)   (22kb)
+Date (revised): Mon, 3 Feb 1997 15:49:52 +0100 (MET)
+
+Title: Optical Approach for the Thermal Partition Function of Photons
+Authors: Valter Moretti and Devis Iellici
+Comments: 33 pages, RevTeX, no figures. Minor errors corrected, a few Comments
+  changed and some references added since first submission. To be published on
+  Phys.Rev.D
+Report-no: UTF-388
+Journal-ref: Phys.Rev. D55 (1997) 3552-3563
+\\
+  The optical manifold method to compute the one-loop effective action in a
+static space-time is extended from the massless scalar field to the Maxwell
+field in any Feynman-like covariant gauge. The method is applied to the case of
+the Rindler space obtaining the same results as the point-splitting procedure.
+The result is free from Kabat's surface terms which instead affect the
+$\zeta$-function or heat-kernel approaches working directly in the static
+manifold containing conical singularities. The relation between the optical
+method and the direct $\zeta$-function approach on the Euclidean Rindler
+manifold is discussed both in the scalar and the photon cases. Problems with
+the thermodynamic self-consistency of the results obtained from the stress
+tensor in the case of the Rindler space are pointed out.
+\\

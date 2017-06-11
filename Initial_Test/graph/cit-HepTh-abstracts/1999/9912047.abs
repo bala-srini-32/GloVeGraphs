@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9912047
+From: furu@het.phys.sci.osaka-u.ac.jp
+Date: Tue, 7 Dec 1999 10:02:11 GMT   (17kb)
+Date (revised v2): Wed, 8 Dec 1999 07:19:15 GMT   (18kb)
+Date (revised v3): Sat, 11 Dec 1999 13:57:19 GMT   (19kb)
+Date (revised v4): Thu, 10 Feb 2000 15:17:35 GMT   (23kb)
+
+Title: Instantons on Noncommutative R^4 and Projection Operators
+Authors: Kazuyuki Furuuchi (Osaka Univ.)
+Comments: 29 pages, LaTeX, no figures, further explanations on holes on branes
+  added, minor mistakes corrected
+Report-no: OU-HET 336
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+Journal-ref: Prog.Theor.Phys. 103 (2000) 1043-1068
+\\
+  I carefully study noncommutative version of ADHM construction of instantons,
+which was proposed by Nekrasov and Schwarz. Noncommutative ${\bf R}^4$ is
+described as algebra of operators acting in Fock space. In ADHM construction of
+instantons, one looks for zero-modes of Dirac-like operator. The feature
+peculiar to noncommutative case is that these zero-modes project out some
+states in Fock space. The mechanism of these projections is clarified when the
+gauge group is U(1). I also construct some zero-modes when the gauge group is
+U(N) and demonstrate that the projections also occur, and the mechanism is
+similar to the U(1) case. A physical interpretation of the projections in IIB
+matrix model is briefly discussed.
+\\

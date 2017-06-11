@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9502113
+From: hetrick@corelli.physics.arizona.edu (jim hetrick)
+Date: Fri, 17 Feb 95 17:19:14 MST   (18kb)
+Date (revised): Mon, 20 Feb 95 14:26:30 MST
+
+Title: The Massive Multi-flavor Schwinger Model
+Author: J.E. Hetrick (U. Arizona), Y. Hosotani (U. Minnesota), and S. Iso (U.
+  Tokyo)
+Comments: 16 pages, latex, uses epsf.sty; replaced with latex src.
+Report-no: UMN-TH-1324/95, AZPH-TH/95-1, UT-698
+Journal-ref: Phys. Lett. B350 (1995) 92
+\\
+QED with N species of massive fermions on a circle of circumference L is
+analyzed by bosonization. The problem is reduced to the quantum mechanics of
+the 2N fermionic and one gauge field zero modes on the circle, with nontrivial
+interactions induced by the chiral anomaly and fermions masses. The solution is
+given for N=2 and fermion masses (m) much smaller than the mass of the U(1)
+boson with mass \mu=\sqrt{2e^2/\pi} when all fermions satisfy the same boundary
+conditions. We show that the two limits m \go 0 and L \go \infty fail to
+commute and that the behavior of the theory critically depends on the value of
+mL|\cos\onehalf\theta| where \theta is the vacuum angle parameter. When the
+volume is large \mu L \gg 1, the fermion condensate <\psibar \psi> is
+-(e^{4\gamma} m\mu^2 \cos^4\onehalf\theta/4\pi^3)^{1/3} or $-2e^\gamma m\mu L
+\cos^2 \onehalf\theta /\pi^2 for mL(\mu L)^{1/2} |\cos\onehalf\theta| \gg 1 or
+\ll 1, respectively. Its correlation function decays algebraically with a
+critical exponent \eta=1 when m\cos\onehalf\theta=0.
+\\

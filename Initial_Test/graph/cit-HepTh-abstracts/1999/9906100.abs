@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9906100
+From: Jorge Gamboa <jgamboa@lauca.usach.cl>
+Date: Mon, 14 Jun 1999 17:59:03 GMT   (5kb)
+Date (revised v2): Mon, 28 Feb 2000 19:08:58 GMT   (5kb)
+
+Title: Fermions on Non-Trivial Topologies
+Authors: J. Gamboa
+Comments: Some portions re-written, references added. To appear in PLB
+Report-no: USACH/99/11
+Journal-ref: Phys.Lett. B477 (2000) 469-473
+\\
+  An exact expression for the Green function of a purely fermionic system
+moving on the manifold $\Re \times \Sigma^{D-1}$, where $\Sigma^{D-1}$ is a
+$(D-1)$-torus, is found. This expression involves the bosonic analog of $\chi_n
+= e^{in\theta}$ corresponding to the irreducible representation for the n-th
+class of homotopy and in the fermionic case for D=2 and 3, $\chi_n$ is a
+measure of the statistics of the particles. For higher dimensions ($D \geq 4$),
+there is no analogue interpretation however this could, presumably, indicate a
+generation of mass as in quantum field theories at finite temperature.
+\\

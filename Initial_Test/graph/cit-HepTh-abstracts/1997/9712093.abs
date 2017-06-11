@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9712093
+From: Antal Jakovac <jakovac@mail.desy.de>
+Date: Tue, 9 Dec 1997 12:44:10 GMT   (22kb)
+
+Title: Classical Limit for Scalar Fields at High Temperature
+Authors: W. Buchmuller and A. Jakovac
+Comments: 24 pages, 7 eps figures, Latex
+Report-no: DESY 97-225
+Journal-ref: Nucl.Phys. B521 (1998) 219-236
+\\
+  We study real-time correlation functions in scalar quantum field theories at
+temperature $T=1/\beta$. We show that the behaviour of soft, long wavelength
+modes is determined by classical statistical field theory. The loss of quantum
+coherence is due to interactions with the soft modes of the thermal bath. The
+soft modes are separated from the hard modes by an infrared cutoff $\L \ll
+1/(\hbar\beta)$. Integrating out the hard modes yields an effective theory for
+the soft modes. The infrared cutoff $\L$ controls corrections to the classical
+limit which are $\cO{\hbar\beta\L}$. As an application, the plasmon damping
+rate is calculated.
+\\

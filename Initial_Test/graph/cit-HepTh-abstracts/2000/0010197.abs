@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0010197
+From: Rajesh Parwani <rparwani@insti.physics.sunysb.edu>
+Date: Mon, 23 Oct 2000 12:36:21 GMT   (73kb)
+
+Title: Bounds On The Sum Of A Divergent Series
+Author: Rajesh R. Parwani
+Comments: 37 pages Latex and 29 .eps figures. Requires epsf.sty
+\\
+  Given a truncated perturbation expansion of a physical quantity, one can,
+under certain circumstances, obtain lower or upper bounds (or both) to the sum
+of the full perturbation series by using the Borel transform and a variational
+conformal map. The method is illustrated by applying it to various mathematical
+toy-models for which exact results are known. One of these models is used to
+exemplify how non-perturbative contributions supplement the sum of a
+Borel-nonsummable series to give the final exact and unambiguous result.
+Finally, the method is applied to some physical problems. In particular, some
+speculations are made on the phase of quantum electrodynamics at super-high
+temperatures from a study of its perturbative free-energy density.
+\\

@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9701136
+From: Alejandro Corichi <corichi@phys.psu.edu>
+Date: Fri, 24 Jan 1997 17:18:43 -0500 (EST)   (17kb)
+
+Title: Gauss Linking Number and Electro-magnetic Uncertainty Principle
+Authors: Abhay Ashtekar and Alejandro Corichi (Penn State)
+Comments: 13 pages, Revtex file, 3 eps figures
+Report-no: CGPG-96/6-1
+Journal-ref: Phys.Rev. D56 (1997) 2073-2079
+\\
+  It is shown that there is a precise sense in which the Heisenberg uncertainty
+between fluxes of electric and magnetic fields through finite surfaces is given
+by (one-half $\hbar$ times) the Gauss linking number of the loops that bound
+these surfaces. To regularize the relevant operators, one is naturally led to
+assign a framing to each loop. The uncertainty between the fluxes of electric
+and magnetic fields through a single surface is then given by the self-linking
+number of the framed loop which bounds the surface.
+\\
