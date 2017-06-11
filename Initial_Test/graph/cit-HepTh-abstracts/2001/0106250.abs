@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0106250
+From: Oleg Shvedov <shvedov@qs.phys.msu.su>
+Date: Wed, 27 Jun 2001 02:29:13 GMT   (8kb)
+Date (revised v2): Mon, 2 Jul 2001 03:49:40 GMT   (8kb)
+Date (revised v3): Mon, 9 Jul 2001 13:39:21 GMT   (9kb)
+
+Title: BRST-BFV, Dirac and Projection Operator Quantizations: Correspondence of
+  States
+Authors: Oleg Yu. Shvedov
+Comments: LaTeX, 7 pages; some remarks and references are added
+\\
+  The correspondence between BRST-BFV, Dirac and projection operator approaches
+to quantize constrained systems is analyzed. It is shown that the component of
+the BFV wave function with maximal number of ghosts and antighosts in the
+Schrodinger representation may be viewed as a wave function in the projection
+operator approach. It is shown by using the relationship between different
+quantization techniques that the Marnelius inner product for BRST-BFV systems
+should be in general modified in order to take into account the topology of the
+group; the Giulini-Marolf group averaging prescription for the inner product is
+obtained from the BRST-BFV method. The relationship between observables in
+different approaches is also found.
+\\

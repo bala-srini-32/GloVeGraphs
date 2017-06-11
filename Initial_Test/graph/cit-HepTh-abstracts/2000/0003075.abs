@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0003075
+From: John McGreevy <mcgreevy@stanford.edu>
+Date: Thu, 9 Mar 2000 23:07:11 GMT   (10kb)
+Date (revised v2): Fri, 10 Mar 2000 00:01:35 GMT   (10kb)
+Date (revised v3): Tue, 14 Mar 2000 18:13:23 GMT   (11kb)
+Date (revised v4): Tue, 25 Jul 2000 21:23:12 GMT   (11kb)
+
+Title: Invasion of the Giant Gravitons from Anti-de Sitter Space
+Authors: John McGreevy, Leonard Susskind and Nicolaos Toumbas
+Comments: 13 pages, latex; v2: spelled correctly the name of an eminent
+  relativist; v3: comments about AdS_3 corrected, analysis of spherical branes
+  improved, references added; v4: JHEP version
+Report-no: SU-ITP-00/09
+Journal-ref: JHEP 0006 (2000) 008
+\\
+  It has been known for some time that the AdS/CFT correspondence predicts a
+limit on the number of single particle states propagating on the compact
+spherical component of the AdS-times-sphere geometry. The limit is called the
+stringy exclusion principle. The physical origin of this effect has been
+obscure but it is usually thought of as a feature of very small distance
+physics. In this paper we will show that the stringy exclusion principle is due
+to a surprising large distance phenomenon. The massless single particle states
+become progressively less and less point-like as their angular momentum
+increases. In fact they blow up into spherical branes of increasing size. The
+exclusion principle is simply understood as the condition that the particle
+should not be bigger than the sphere that contains it.
+\\

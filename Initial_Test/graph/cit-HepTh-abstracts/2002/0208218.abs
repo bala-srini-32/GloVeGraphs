@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0208218
+From: Thomas Fischbacher <tf@aei-potsdam.mpg.de>
+Date: Thu, 29 Aug 2002 16:37:45 GMT   (9kb)
+
+Title: Introducing LambdaTensor1.0 - A package for explicit symbolic and
+  numeric Lie algebra and Lie group calculations
+Authors: Thomas Fischbacher
+Comments: 10 pages; the package's homepage is
+  http://www.cip.physik.uni-muenchen.de/~tf/lambdatensor/
+Report-no: AEI-2002-065
+Subj-class: High Energy Physics - Theory; Mathematical Physics; Mathematical
+  Software
+\\
+  Due to the occurrence of large exceptional Lie groups in supergravity,
+calculations involving explicit Lie algebra and Lie group element manipulations
+easily become very complicated and hence also error-prone if done by hand.
+Research on the extremal structure of maximal gauged supergravity theories in
+various dimensions sparked the development of a library for efficient abstract
+multilinear algebra calculations involving sparse and non-sparse higher-rank
+tensors, which is presented here.
+\\

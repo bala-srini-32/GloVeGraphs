@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9508020
+From: vandriel@ulb.ac.be (van Driel Peter)
+Date: Fri, 4 Aug 95 19:37:01 +0200   (95kb)
+
+Title: The Kazhdan-Lusztig conjecture for W-algebras
+Author: Koos de Vos and Peter van Driel
+Comments: uuencoded file, 29 pages latex, 5 figures
+Report-no: BONN-TH-95-14, ULB-TH-95/09
+\\
+  The main result in this paper is the character formula for arbitrary
+irreducible highest weight modules of W algebras. The key ingredient is the
+functor provided by quantum Hamiltonian reduction, that constructs the W
+algebras from affine Kac-Moody algebras and in a similar fashion W modules from
+KM modules. Assuming certain properties of this functor, the W characters are
+subsequently derived from the Kazhdan-Lusztig conjecture for KM algebras. The
+result can be formulated in terms of a double coset of the Weyl group of the KM
+algebra: the Hasse diagrams give the embedding diagrams of the Verma modules
+and the Kazhdan-Lusztig polynomials give the multiplicities in the characters.
+\\

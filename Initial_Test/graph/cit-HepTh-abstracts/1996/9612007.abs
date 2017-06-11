@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9612007
+From: Joao Carlos Alves Barata <jbarata@fma1.if.usp.br>
+Date: Fri, 29 Nov 1996 14:34:59 MST   (70kb)
+
+Title: Dyonic Sectors and Intertwiner Connections in 2+1-dimensional Lattice
+  Z_N-Higgs Models
+Authors: J. C. A. Barata, F. Nill
+Comments: 61 pages. LaTeX. AmsTeX fonts used.
+Subj-class: High Energy Physics - Theory; Mathematical Physics
+Journal-ref: Commun.Math.Phys. 191 (1998) 409-466
+\\
+  We construct dyonic states in 2+1-dimensional lattice Z_N-Higgs models, i.e.,
+states which are both, electrically and magnetically charged. The associated
+Hilbert spaces carry charged representations of the observable algebra, the
+global transfer matrix and a unitary implementation of the group of spatial
+lattice translations. We prove that for coinciding total charges these
+representations are dynamically equivalent and we construct a local intertwiner
+connection depending on a path in the space of charge distributions. The
+holonomy of this connection is given by Z_N-valued phases. This will be the
+starting point for a construction of scattering states with anyon statistics in
+a subsequent paper.
+\\

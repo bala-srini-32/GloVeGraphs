@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0302143
+From: Wade Naylor <wnaylor@vega.ess.sci.osaka-u.ac.jp>
+Date: Tue, 18 Feb 2003 15:21:22 GMT   (18kb)
+
+Title: Bulk quantum effects for de Sitter branes in AdS(5)
+Authors: Ian G. Moss (Newcastle U.), Wade Naylor (Osaka U., Dept. Earth & Space
+  Sci.), Wenceslao Santiago-Germ\`{a}n (Newcastle U.), Misao Sasaki (Osaka U.,
+  Dept. Earth & Space Sci.)
+Comments: 12 pages, no figures
+Report-no: OU-TAP-194
+\\
+  We investigate some issues regarding quantum corrections for de Sitter branes
+in a bulk AdS(5) spacetime. The one-loop effective action for a Majorana spinor
+field is evaluated and compared with the scalar field result. We also evaluate
+the cocycle function for various boundary conditions, finding that the quantum
+corrections naturally induce higher order curvature terms in the original
+action and, in general, it is not possible to eliminate the cocycle function by
+renormalisation. In the one brane limit care must be taken on how one extracts
+physical results. The effective potential is found to be zero on the
+conformally related cylinder. However, using the actual metric, the
+contribution from the cocycle function is non-zero and must be included.
+Subtleties with any zero modes are also discussed.
+\\

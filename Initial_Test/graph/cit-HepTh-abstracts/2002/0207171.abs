@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0207171
+From: Satoshi Yamaguchi <yamaguch@www-hep.phys.s.u-tokyo.ac.jp>
+Date: Thu, 18 Jul 2002 17:40:42 GMT   (17kb)
+Date (revised v2): Sat, 20 Jul 2002 11:35:54 GMT   (18kb)
+Date (revised v3): Mon, 29 Jul 2002 12:27:33 GMT   (18kb)
+
+Title: Holographic RG Flow on the Defect and g-Theorem
+Authors: Satoshi Yamaguchi (Univ. of Tokyo)
+Comments: 15 pages, LaTeX, 5 figures. v2: corrected typos, added references,
+  added the comment that the solution explained in section 2 appeared earlier
+  in hep-th/0205236. v3: corrected typos, added another comment on section 2
+Report-no: UT-02-39
+Journal-ref: JHEP 0210 (2002) 002
+\\
+  We investigate relevant deformation and the renormalization group flow in a
+defect conformal field theory from the point of view of the holography. We
+propose a candidate of g-function in the context of the holography, and prove
+the g-theorem: the g-function is monotonically non-increasing along the RG
+flow. We apply this g-theorem to the D5-brane solution which is an
+asymptotically AdS_4 x S^2 brane in AdS_5 x S^5. This solution corresponds to
+the mass deformation of the defect CFT. We checked that the g-function is
+monotonically non-increasing in this solution.
+\\

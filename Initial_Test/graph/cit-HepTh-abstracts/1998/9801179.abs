@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9801179
+From: LOSSEV@nbivms.nbi.dk
+Date: Tue, 27 Jan 1998 17:53:21 GMT   (27kb)
+
+Title: "Hodge strings" and elements of K.Saito's theory of the Primitive form
+Author: A.Losev
+Comments: LaTeX, 32pp
+Report-no: ITEP/TH-31/97
+\\
+  The "Hodge strings" construction of solutions to associativity equations is
+proposed. From the topological string theory point of view this construction
+formalizes the "integration over the position of the marked point" procedure
+for computation of amplitudes. From the mathematical point of view the "Hodge
+strings" construction is just a composition of elements of harmonic theory
+(known among physicists as a $t$-part of $t-t^*$ equations) and the K.Saito
+construction of flat coordinates (starting from flat connection with a spectral
+parameter).
+   We also show how elements of K.Saito theory of primitive form appear
+naturally in the "Landau-Ginzburg" version of harmonic theory if we consider
+the holomorphic pieces of germs of harmonic forms at the singularity.
+\\

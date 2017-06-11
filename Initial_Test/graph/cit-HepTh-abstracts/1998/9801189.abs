@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9801189
+From: Robert C. Helling <helling@aei-potsdam.mpg.de>
+Date: Wed, 28 Jan 1998 16:28:11 GMT   (45kb)
+Date (revised v2): Tue, 3 Feb 1998 12:56:01 GMT   (56kb)
+
+Title: Spin-Spin Interaction In Matrix Theory
+Authors: M. Barrio, R. Helling, G. Polhemus
+Comments: 15 pages, LaTeX, uses feynmf.sty for diagrams. Reference added and
+  some labels on the diagrams restored
+Report-no: EFI-98-03, AEI-056
+Journal-ref: JHEP 9805 (1998) 012
+\\
+  We calculate the spin dependent static force between two D0-branes in Matrix
+theory. Supersymmetry relates velocity dependent potentials to spin dependent
+potentials. The well known v^4/r^7 term is related to a theta^8/r^11 term,
+where theta is the relative spin of the D0-branes. We calculate this term,
+confirming that it is the lowest order contribution to the static potential,
+and find its structure consistent with supergravity.
+\\

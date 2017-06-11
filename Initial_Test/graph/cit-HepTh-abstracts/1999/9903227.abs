@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9903227
+From: Akikazu Hashimoto <aki@itp.ucsb.edu>
+Date: Fri, 26 Mar 1999 00:20:33 GMT   (19kb)
+
+Title: Holographic description of D3-branes in flat space
+Authors: Akikazu Hashimoto
+Comments: 8 pages, 1 eps figure
+Report-no: NSF-ITP-99-020
+Journal-ref: Phys.Rev. D60 (1999) 127902
+\\
+  We describe a scheme for constructing the holographic dual of the full
+D3-brane geometry with charge $K$ by embedding it into a large anti-de Sitter
+space of size $N$. Such a geometry is realized in a multi-center anti-de Sitter
+geometry which admits a simple field theory interpretation as $SU(N+K)$ gauge
+theory broken to $SU(N) \times SU(K)$. We find that the characteristic size of
+the D3-brane geometry is of order $(K/N)^{1/4} U^0$ where $U^0$ is the scale of
+the Higgs. By choosing $N$ to be much larger than $K$, the scale of the
+D3-brane metric can be well separated from the Higgs scale in the radial
+coordinate. We generalize the holographic energy-distance relation and estimate
+the characteristic energy scale associated with these radial scales, and find
+that the $E/U$ relation becomes effectively $U$ independent in the range
+$(K/N)^{1/2} U^0 < U < U^0$. This implies that all detailed structure of the
+D3-brane geometry is encoded in the fine structure of the boundary gauge theory
+at around the Higgs scale.
+\\

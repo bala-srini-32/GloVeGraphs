@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9510205
+From: vadim@rq1.fian.msk.su (Vadim V. Zhytnikov)
+Date: Fri, 27 Oct 95 21:23:33 +0300 (MSD)   (8kb)
+
+Title: Partial summation of the nonlocal expansion for the gravitational
+  effective action in 4 dimensions
+Authors: A. G. Mirzabekian, G. A. Vilkovisky, V. V. Zhytnikov
+Comments: 12 pages, LaTeX
+Journal-ref: Phys.Lett. B369 (1996) 215-220
+\\
+  The vacuum action for the gravitational field admits a known expansion in
+powers of the Ricci tensor with nonlocal operator coefficients (form factors).
+We show that going over to a different basis of curvature invariants makes
+possible a partial summation of this expansion. Only the form factors of the
+Weyl-tensor invariants need be calculated. The full action is then uniquely
+recovered to all orders from the knowledge of the trace anomaly. We present an
+explicit expression for the partially summed action, and point out
+simplifications resulting in the vertex functions. An application to the effect
+of the vacuum gravitational waves is discussed.
+\\

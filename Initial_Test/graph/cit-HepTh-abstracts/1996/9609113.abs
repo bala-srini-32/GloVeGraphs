@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9609113
+From: Jose M Figueroa-O'Farrill <j.m.figueroa@qmw.ac.uk>
+Date: Sat, 14 Sep 1996 09:55:27 MDT   (9kb)
+Date (revised): Mon, 16 Sep 1996 12:52:38 MDT
+
+Title: A note on the extended superconformal algebras associated with manifolds
+  of exceptional holonomy
+Authors: JM Figueroa-O'Farrill
+Comments: LaTeX 2e (needs elsart.cls + amstex.sty), 11 pages. Added two
+  references, a footnote, and corrected a typo
+Report-no: QMW-PH-96-25
+Journal-ref: Phys.Lett. B392 (1997) 77-84
+\\
+  It was observed some time ago by Shatashvili and Vafa that superstring
+compactification on manifolds of exceptional holonomy gives rise to
+superconformal field theories with extended chiral algebras. In their paper,
+free field realisations are given of these extended superconformal algebras
+inspired by Joyce's constructions of such manifolds as desingularised toroidal
+orbifolds. The purpose of this note is to give another realisation of these
+algebras starting not from free fields, but from the superconformal algebras
+associated to Calabi--Yau manifolds. These superconformal algebras, originally
+studied by Odake, are extensions of the N=2 Virasoro algebra. For the case of
+G_2 holonomy, our realisation is inspired in the conjectured construction of
+such manifolds as a desingularisation of (K x S^1)/Z_2, where K is a
+Calabi--Yau 3-fold admitting an antiholomorphic involution. Similarly, for the
+case of Spin(7) holonomy our realisation suggests a construction of such
+manifolds as desingularisations of K'/Z_2, where K' is a Calabi-Yau 4-fold
+admitting an antiholomorphic involution.
+\\

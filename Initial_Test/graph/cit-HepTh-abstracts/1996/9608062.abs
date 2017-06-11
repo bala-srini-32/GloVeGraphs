@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9608062
+From: itakura kazunori <itakura@hep1.c.u-tokyo.ac.jp>
+Date: Mon, 12 Aug 96 03:29:30 +0900   (9kb)
+
+Title: Dynamical Symmetry Breaking in Light-Front Gross-Neveu Model
+Author: Kazunori Itakura (Univ. of Tokyo, Komaba)
+Comments: 12 pages, Latex, no figures
+Report-no: UT-Komaba 96-15
+\\
+  We investigate dynamical symmetry breaking of the Gross-Neveu model in the
+light-front formalism without introducing auxiliary fields. While this system
+cannot have zero-mode constraints, we find that a nontrivial solution to the
+constraint on nondynamical spinor fields is responsible for symmetry breaking.
+The fermionic constraint is solved by systematic 1/$N$ expansion using the
+boson expansion method as a technique. Carefully treating the infrared
+divergence, we obtain a nonzero vacuum expectation value for fermion condensate
+in the leading order. We derive the 't Hooft equation including the effect of
+condensation, and determine the Hamiltonian consistently with the equation of
+motion.
+\\

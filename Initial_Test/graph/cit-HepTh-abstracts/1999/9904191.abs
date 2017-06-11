@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9904191
+From: Hirosi Ooguri <ooguri@thsrv.lbl.gov>
+Date: Tue, 27 Apr 1999 19:24:34 GMT   (164kb)
+
+Title: Wilson Loops and Minimal Surfaces
+Authors: Nadav Drukker, David J. Gross, and Hirosi Ooguri
+Comments: 51 pages, 7 figures
+Report-no: UCB-PTH-99/11, LBNL-43079, NSF-ITP-99-22
+Journal-ref: Phys.Rev. D60 (1999) 125006
+\\
+  The AdS/CFT correspondence suggests that the Wilson loop of the large N gauge
+theory with N=4 supersymmetry in 4 dimensions is described by a minimal surface
+in AdS_5 x S^5. We examine various aspects of this proposal, comparing gauge
+theory expectations with computations of minimal surfaces. There is a
+distinguished class of loops, which we call BPS loops, whose expectation values
+are free from ultra-violet divergence. We formulate the loop equation for such
+loops. To the extent that we have checked, the minimal surface in AdS_5 x S^5
+gives a solution of the equation. We also discuss the zig-zag symmetry of the
+loop operator. In the N=4 gauge theory, we expect the zig-zag symmetry to hold
+when the loop does not couple the scalar fields in the supermultiplet. We will
+show how this is realized for the minimal surface.
+\\

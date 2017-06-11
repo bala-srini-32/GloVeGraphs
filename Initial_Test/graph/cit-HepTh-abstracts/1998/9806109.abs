@@ -1,0 +1,17 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9806109
+From: Robert S. Echols <echols@maxwell.ucsc.edu>
+Date: Mon, 15 Jun 1998 23:56:06 GMT   (10kb)
+Date (revised v2): Thu, 12 Nov 1998 19:31:19 GMT   (10kb)
+
+Title: Comment on Multigraviton Scattering in the Matrix Model
+Authors: Robert Echols and Joshua P. Gray
+Comments: LaTex, 10 pages. Note added and minor corrections
+Report-no: SCIPP 98/23
+Journal-ref: Phys.Lett. B449 (1999) 60-67
+\\
+  We show by explicit calculation that the matrix model effective action does
+not contain the term $v_{12}^2 v_{23}^2 v_{13}^2/{R^7 r^7}$, in the limit $R
+\gg r$, contradicting a result reported recently.
+\\

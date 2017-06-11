@@ -1,0 +1,36 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9909043
+From: H.Osborn@damtp.cam.ac.uk
+Date: Wed, 8 Sep 1999 11:13:51 GMT   (56kb)
+Date (revised v2): Tue, 9 Nov 1999 17:48:01 GMT   (60kb)
+Date (revised v3): Tue, 14 Dec 1999 16:46:14 GMT   (60kb)
+
+Title: Correlation Functions of the Energy Momentum Tensor on Spaces of
+  Constant Curvature
+Authors: H. Osborn, G.M. Shore
+Comments: 72 pages, plain TeX file using harvmac, final revision for
+  publication
+Report-no: DAMTP/99-114, SWAT/240, CERN-TH/99-274
+Journal-ref: Nucl.Phys. B571 (2000) 287-357
+\\
+  An analysis of one and two point functions of the energy momentum tensor on
+homogeneous spaces of constant curvature is undertaken. The possibility of
+proving a $c$-theorem in this framework is discussed, in particular in relation
+to the coefficients $c,a$, which appear in the energy momentum tensor trace on
+general curved backgrounds in four dimensions. Ward identities relating the
+correlation functions are derived and explicit expressions are obtained for
+free scalar, spinor field theories in general dimensions and also free vector
+fields in dimension four. A natural geometric formalism which is independent of
+any choice of coordinates is used and the role of conformal symmetries on such
+constant curvature spaces is analysed. The results are shown to be constrained
+by the operator product expansion. For negative curvature the spectral
+representation, involving unitary positive energy representations of
+$O(d-1,2)$, for two point functions of vector currents is derived in detail and
+extended to the energy momentum tensor by analogy. It is demonstrated that, at
+non coincident points, the two point functions are not related to $a$ in any
+direct fashion and there is no straightforward demonstration obtainable in this
+framework of irreversibility under renormalisation group flow of any function
+of the couplings for four dimensional field theories which reduces to $a$ at
+fixed points.
+\\

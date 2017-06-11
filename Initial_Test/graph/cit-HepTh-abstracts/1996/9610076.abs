@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9610076
+From: Joseph A. Minahan <minahan@physics1.usc.edu>
+Date: Thu, 10 Oct 1996 14:47:54 MDT   (18kb)
+
+Title: Superconformal Fixed Points with E_n Global Symmetry
+Authors: Joseph A. Minahan and Dennis Nemeschansky
+Comments: 23 pages, harvmac (b), Mathematica file available at
+  http://physics.usc.edu/~minahan/Math/e8.ma
+Report-no: USC-96/23
+Journal-ref: Nucl.Phys. B489 (1997) 24-46
+\\
+  We obtain the elliptic curve and the Seiberg-Witten differential for an
+$N=2$ superconformal field theory which has an $E_8$ global symmetry at the
+strong coupling point $\tau=e^{\pi i/3}$. The differential has 120 poles
+corresponding to half the charged states in the fundamental representation of
+$E_8$, with the other half living on the other sheet. Using this theory, we
+flow down to $E_7$, $E_6$ and $D_4$. A new feature is a $\lambda_{SW}$ for
+these theories based on their adjoint representations. We argue that these
+theories have different physics than those with $\lambda_{SW}$ built from the
+fundamental representations.
+\\

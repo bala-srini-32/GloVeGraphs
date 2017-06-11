@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9509149
+From: Albion Lawrence <albion@yukawa.uchicago.edu>
+Date: Tue, 26 Sep 1995 15:59:43 -0500   (81kb)
+Date (revised): Thu, 30 Nov 1995 11:32:01 -0600
+
+Title: String field theory in curved spacetime and the resolution of spacelike
+  singularities
+Author: Albion Lawrence and Emil Martinec (University of Chicago, Enrico Fermi
+  Institute)
+Comments: Some minor errors corrected; version to be published in Class. Quant.
+  Grav.; standard LaTeX, uses epsf.tex, 44 pages, 4 figures
+Report-no: EFI-95-62
+Journal-ref: Class.Quant.Grav. 13 (1996) 63-96
+\\
+  We attempt to understand the fate of spacelike gravitational singularities in
+string theory via the quantum stress tensor for string matter in a fixed
+background. We first approximate the singularity with a homogeneous anisotropic
+background and review the minisuperspace equations describing the evolution of
+the scale factors and the dilaton. We then review and discuss the behavior of
+large strings in such models. In a simple model which expands isotropically for
+a finite period of time we compute the number density of strings produced by
+quantum pair production and find that this number, and thus the stress tensor,
+becomes infinite when the Hubble volume of the expansion exceeds the string
+scale, in a manner reminiscent of the Hagedorn transition. Based on this
+calculation we argue that either the region near the singularity undergoes a
+phase transition when the density reaches the order of a string mass per string
+volume, or that the backreaction of the produced string matter dramatically
+modifies the geometry.
+\\

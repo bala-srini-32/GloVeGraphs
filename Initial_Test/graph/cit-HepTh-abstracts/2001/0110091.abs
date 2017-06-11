@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0110091
+From: Margaret E. Wessling <wessling@theory.caltech.edu>
+Date: Tue, 9 Oct 2001 20:26:16 GMT   (141kb)
+Date (revised v2): Thu, 25 Oct 2001 16:48:45 GMT   (141kb)
+
+Title: The Long Range Gravitational Potential Energy Between Strings
+Authors: Margaret E. Wessling, Mark B. Wise (Cal Tech)
+Comments: 10 pages, 6 figures
+Report-no: CALT-68-2352
+Journal-ref: Phys.Lett. B523 (2001) 331-337
+\\
+  We calculate the gravitational potential energy between infinitely long
+parallel strings with tensions \tau_1 and \tau_2. Classically, it vanishes, but
+at one loop, we find that the long range gravitational potential energy per
+unit length is U/L = 24G_N^2\tau_1\tau_2/(5 \pi a^2) + ..., where a is the
+separation between the strings, G_N is Newton's constant, and we set \hbar = c
+=1. The ellipses represent terms suppressed by more powers of G_N \tau_i.
+Typically, massless bulk fields give rise at one loop to a long range potential
+between p-branes in space-times of dimension p+2+1. The contribution to this
+potential from bulk scalars is computed for arbitrary p (strings correspond to
+p=1) and in the case of three-branes its possible relevance for cosmological
+quintessence is commented on.
+\\

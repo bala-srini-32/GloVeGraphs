@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9805186
+From: kutuzova@vitep5.itep.ru
+Date: Wed, 27 May 1998 15:24:29 GMT   (25kb)
+Date (revised v2): Tue, 6 Oct 1998 07:48:22 GMT   (26kb)
+
+Title: Intertwining Operators and Soliton Equations
+Authors: M. Golenishcheva-Kutuzova, D. Lebedev
+Comments: 25 pages, Latex
+Report-no: ITEP-TH-27/98
+\\
+  In this paper we generalize the fermionic approach to the KP hierarchy
+sudgested in the papers of Kyoto school 1981-1984 (Sato,Jimbo, Miwa...). The
+main idea is that the components of the intertwiningoperators are in some sense
+a generalization of free fermions for $gl_{\infty}$. We formulate in terms of
+intertwining operators the integrable hierarchies related to Kac-Moody Lie
+algebra symmetries. We write down explicitly the bosonization of these
+operators for different choices of Heisenberg subalgebras. These different
+realizations lead to different hierarchies of soliton equations. For example,
+for $sl_N$-symmetries we get hierarchies obtained as $(n_1,..., n_s)$-reduction
+from $s$-component KP $(n_1+...+n_s = N)$ introduced by V.Kac and J.Van de
+Leur.
+\\

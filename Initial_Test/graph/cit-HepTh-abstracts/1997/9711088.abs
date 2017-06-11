@@ -1,0 +1,35 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9711088
+From: Koenraad Schalm <konrad@insti.physics.sunysb.edu>
+Date: Wed, 12 Nov 1997 19:04:25 GMT   (30kb)
+
+Title: Trace and chiral anomalies in string and ordinary field theory from
+  Feynman diagrams for nonlinear sigma models
+Authors: Agapitos Hatzinikitas, Koenraad Schalm and Peter van Nieuwenhuizen
+  (ITP, SUNY Stony Brook)
+Comments: Latex, 32 pages, 4 fig
+Report-no: ITP-SB-97-58
+Journal-ref: Nucl.Phys. B518 (1998) 424-454
+\\
+  We write general one-loop anomalies of string field theory as path integrals
+on a torus for the corresponding nonlinear sigma model. This extends the work
+of Alvarez-Gaum\'e and Witten from quantum mechanics to two dimensions. Higher
+world-volume loops contribute in general to nontopological anomalies and a
+formalism to compute these is developed. We claim that (i) for general
+anomalies one should not use the propagator widely used in string theory but
+rather the one obtained by generalization from quantum mechanics, but (ii) for
+chiral anomalies both propagators give the same result. As a check of this
+claim in a simpler model we compute trace anomalies in quantum mechanics. The
+propagator with a center-of-mass zero mode indeed does not give the correct
+result for the trace anomaly while the propagator for fluctuations $q^i (\tau)$
+satisfying $q^i (\tau = -1) = q^i (\tau = 0) = 0$ yields in $d=2$ and $d=4$
+dimensions the correct results from two- and three-loop graphs.
+  We then return to heterotic string theory and calculate the contributions to
+the anomaly from the different spin structures for $d=2$. We obtain agreement
+with the work of Pilch, Schellekens and Warner and that of Li in the sector
+with spacetime fermions. In the other sectors, where no explicit computations
+have been performed in the past and for which one needs higher loops, we find a
+genuine divergence, whose interpretation is unclear to us. We discuss whether
+or not this leads to a new anomaly.
+\\

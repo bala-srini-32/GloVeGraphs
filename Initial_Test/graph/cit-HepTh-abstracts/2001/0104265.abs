@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0104265
+From: Uwe Trittmann <trittman@tick.mpi-hd.mpg.de>
+Date: Mon, 30 Apr 2001 20:48:49 GMT   (53kb)
+
+Title: Correlators in N=1 SYM(2+1)
+Authors: Uwe Trittmann
+Comments: 4pp., 4 figures; contribution to the PASCOS 2001 symposium, to appear
+  in the proceedings, Rinton Press, Princeton
+\\
+  We present a calculation of the correlator <0|T^{++}(r) T^{++}(0) |0> in N=1
+SYM theory in 2+1 dimensions. In the calculation, we use supersymmetric
+discrete light-cone quantization (SDLCQ), which preserves the supersymmetry at
+every step of the calculation. For small and intermediate r the correlator
+converges rapidly for all couplings. At small r the correlator behaves like
+1/r^6, as expected. At large r the correlator is dominated by the BPS states of
+the theory. We find a critical coupling where the large-r correlator goes to
+zero; it grows like the square root of the transverse cutoff.
+\\

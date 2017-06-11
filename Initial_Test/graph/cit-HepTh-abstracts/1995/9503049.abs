@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9503049
+From: Smilga Andrei <SMILGA@itp.unibe.ch>
+Date: Wed, 08 Mar 1995 15:10:14 MET   (56kb)
+Date (revised): Mon, 24 Apr 1995 11:41:58 MET
+Date (revised): Wed, 29 Nov 1995 19:31:12 MET
+
+Title: Chiral symmetry and spectrum of Euclidean Dirac operator in QCD
+Author: A. Smilga
+Comments: Invited talk on the Conference "Chiral Dynamics in Hadrons and
+  Nuclei", Seoul, February, 1995. LaTeX file, 16 pages. 3 figures in uuencoded
+  file. Minor stylistic revisions
+Report-no: BUTP-95/4
+\\
+  Some exact relations for the spectral density $\rho(\lambda)$ of the
+Euclidean Dirac operator in $QCD$ are derived. They follow directly from the
+chiral symmetry of the $QCD$ lagrangian with massless quarks. New results are
+obtained both in thermodynamic limit when the Euclidean volume $V$ is sent to
+infinity and also in the theory defined in finite volume where the spectrum is
+discrete and a nontrivial information on $\rho(\lambda)$ in the region $\lambda
+\sim 1/(|<\bar{q}q>_0|V)$ (the characteristic level spacing) can be obtained.
+These exact results should be confronted with "experimental" numerical
+simulations on the lattices and in some particular models for $QCD$ vacuum
+structure and may serve as a nontrivial test of the validity of these
+simulations.
+\\

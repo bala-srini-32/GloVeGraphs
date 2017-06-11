@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9811053
+From: Jarmo Hietarinta <hietarin@newton.tfy.utu.fi>
+Date: Thu, 5 Nov 1998 15:27:19 GMT   (276kb)
+
+Title: Faddeev-Hopf knots: Dynamics of linked un-knots
+Authors: Jarmo Hietarinta and Petri Salo
+Comments: 11 pages with 6 figures (3 in color)
+Journal-ref: Phys.Lett. B451 (1999) 60-67
+\\
+  We have studied numerically Faddeev-Hopf knots, which are defined as those
+unit-vector fields in $R^3$ that have a nontrivial Hopf charge and minimize
+Faddeev's Lagrangian. A given initial configuration was allowed to relax into a
+(local) minimum using the first order dissipative dynamics corresponding to the
+steepest descent method. A linked combination of two un-knots was seen to relax
+into different minimum energy configurations depending on their charges and
+their relative handedness and direction. In order to visualize the results we
+plot certain gauge-invariant iso-surfaces.
+\\

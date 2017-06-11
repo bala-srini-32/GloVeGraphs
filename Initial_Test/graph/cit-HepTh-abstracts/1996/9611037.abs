@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9611037
+From: attilioc@asterix.physics.nyu.edu (Attilio Cucchieri)
+Date: Wed, 6 Nov 1996 12:31:04 -0500   (33kb)
+
+Title: Color-Coulomb Force Calculated from Lattice Coulomb Hamiltonian
+Authors: Attilio Cucchieri and Daniel Zwanziger (New York University)
+Comments: 4 pages (including 1 figure); (latex using espcrc2.sty). Talk
+  presented at LATTICE96(poster)
+Report-no: NYU-ThPhCZ7-29-96
+Journal-ref: Nucl.Phys.Proc.Suppl. 53 (1997) 815-818
+\\
+  The static color-Coulomb potential is calculated as the solution of a
+non-linear integral equation. This equation has been derived recently as a
+self-consistency condition which arises in the Coulomb Hamiltonian formulation
+of lattice gauge theory when the restriction to the interior of the Gribov
+horizon is implemented. The potential obtained is in qualitative agreement with
+expectations, being Coulombic with logarithmic corrections at short range and
+confining at long range. The values obtained for the string tension and
+$\Lambda_{\overline{MS}}$ are in semi-quantitative agreement with lattice Monte
+Carlo and phenomenological determinations.
+\\

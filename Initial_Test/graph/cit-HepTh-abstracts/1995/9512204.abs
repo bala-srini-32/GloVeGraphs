@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9512204
+From: Maximilian KREUZER <kreuzer@tph16.tuwien.ac.at>
+Date: Wed, 27 Dec 1995 18:14:52 +0100   (18kb)
+Date (revised): Tue, 4 Feb 1997 11:58:46 +0100
+
+Title: On the Classification of Reflexive Polyhedra
+Authors: M. Kreuzer and H. Skarke
+Comments: 13 pages, LaTeX (updated to agree with shortened published version)
+Report-no: TUW-95/26
+Subj-class: High Energy Physics - Theory; Algebraic Geometry
+Journal-ref: Commun.Math.Phys. 185 (1997) 495-508
+\\
+  Reflexive polyhedra encode the combinatorial data for mirror pairs of
+Calabi-Yau hypersurfaces in toric varieties. We investigate the geometrical
+structures of circumscribed polytopes with a minimal number of facets and of
+inscribed polytopes with a minimal number of vertices. These objects, which
+constrain reflexive pairs of polyhedra from the interior and the exterior, can
+be described in terms of certain non-negative integral matrices. A major tool
+in the classification of these matrices is the existence of a pair of weight
+systems, indicating a relation to weighted projective spaces. This is the
+corner stone for an algorithm for the construction of all dual pairs of
+reflexive polyhedra that we expect to be efficient enough for an enumerative
+classification in up to 4 dimensions, which is the relevant case for Calabi-Yau
+compactifications in string theory.
+\\

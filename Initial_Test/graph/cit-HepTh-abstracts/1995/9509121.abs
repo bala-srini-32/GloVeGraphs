@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9509121
+From: Jim McCarthy <jmccarth@physics.adelaide.edu.au>
+Date: Mon, 25 Sep 1995 12:35:53 +0930 (CST)   (21kb)
+
+Title: Operator algebra of the 4D W_3 string
+Author: Peter Bouwknegt, Jim McCarthy and Krzysztof Pilch
+Comments: 15 pages; uses macros tables.tex and amssym.def (version 2.1 or
+  later)
+Report-no: ADP-95-47/M39, USC-95/24
+\\
+  The noncritical $4D$ $\cW_3$ string is a model of $\cW_3$ gravity coupled to
+two free scalar fields. In this paper we discuss its BRST quantization in
+direct analogy with that of the $2D$ (Virasoro) string. The physical operators
+form a BV-algebra. We model this BV-algebra on that of the polyderivations of a
+commutative ring on six variables with a quadratic constraint, or,
+equivalently, on the BV-algebra of (polynomial) polyvector fields on the base
+affine space of $SL(3,\CC)$. Details have appeared elsewhere. To appear in the
+proceedings of ``STRINGS '95: Future Perspectives in String Theory,'' USC,
+March 13--18, 1995
+\\

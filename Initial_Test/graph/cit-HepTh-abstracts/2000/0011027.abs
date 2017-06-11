@@ -1,0 +1,36 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0011027
+From: shifman@physics.spa.umn.edu
+Date: Sun, 5 Nov 2000 23:22:22 GMT   (16kb)
+Date (revised v2): Thu, 24 Jan 2002 07:48:06 GMT   (35kb)
+
+Title: Single State Supermultiplet in 1+1 Dimensions
+Authors: A. Losev, M. Shifman, A. Vainshtein
+Comments: LaTex, 42 pages, no figures. Contribution to the Michael Marinov
+  Memorial Volume, ``Multiple facets of quantization and supersymmetry'' (eds.
+  M.Olshanetsky and A. Vainshtein, to be publish by World Scientific). The
+  paper is drastically revised compared to the first version. We add sections
+  treating the following issues: (i) a new index counting one-state
+  supermultiplets; (ii) analysis of hybrid models of general type; (iii)
+  generalization of the anomaly in the central charge accounting for the target
+  space metric
+Report-no: TPI-MINN-59/01, UMN-TH-2040/01
+Journal-ref: New J.Phys. 4 (2002) 21
+\\
+  We consider multiplet shortening for BPS solitons in N=1 two-dimensional
+models. Examples of the single-state multiplets were established previously in
+N=1 Landau-Ginzburg models. The shortening comes at a price of loosing the
+fermion parity $(-1)^F$ due to boundary effects. This implies the disappearance
+of the boson-fermion classification resulting in abnormal statistics. We
+discuss an appropriate index that counts such short multiplets.
+  A broad class of hybrid models which extend the Landau-Ginzburg models to
+include a nonflat metric on the target space is considered. Our index turns out
+to be related to the index of the Dirac operator on the soliton reduced moduli
+space (the moduli space is reduced by factoring out the translational modulus).
+The index vanishes in most cases implying the absence of shortening. In
+particular, it vanishes when there are only two critical points on the compact
+target space and the reduced moduli space has nonvanishing dimension.
+  We also generalize the anomaly in the central charge to take into account the
+target space metric.
+\\

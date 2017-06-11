@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0110267
+From: Koenraad Schalm <kschalm@physics.columbia.edu>
+Date: Mon, 29 Oct 2001 20:26:08 GMT   (33kb)
+Date (revised v2): Tue, 6 Nov 2001 15:32:55 GMT   (34kb)
+Date (revised v3): Mon, 26 Nov 2001 23:03:36 GMT   (34kb)
+
+Title: Geometry of WZW Orientifolds
+Authors: L.R. Huiszoon, K. Schalm, and A.N. Schellekens
+Comments: 35 pages LaTeX, 2 tables; Proof added for symmetric space relation;
+  minor improvements; references added
+Report-no: NIKHEF-Th-01-016, CU-TP-1040
+Journal-ref: Nucl.Phys. B624 (2002) 219-252
+\\
+  We analyze unoriented Wess-Zumino-Witten models from a geometrical point of
+view. We show that the geometric interpretation of simple current crosscap
+states is as centre orientifold planes localized on conjugacy classes of the
+group manifold. We determine the locations and dimensions of these planes for
+arbitrary simply-connected groups and orbifolds thereof. The dimensions of the
+O-planes turn out to be given by the dimensions of symmetric coset manifolds
+based on regular embeddings. Furthermore, we give a geometrical interpretation
+of boundary conjugation in open unoriented WZW models; it yields D-branes
+together with their images under the orientifold projection. To find the
+agreement between O-planes and crosscap states, we find explicit answers for
+lattice extensions of Gaussian sums. These results allow us to express the
+modular P-matrix, which is directly related to the crosscap coefficient, in
+terms of characters of the horizontal subgroup of the affine Lie algebra. A
+corollary of this relation is that there exists a formal linear relation
+between the modular P- and the modular S-matrix.
+\\

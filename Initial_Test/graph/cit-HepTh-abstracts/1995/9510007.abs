@@ -1,0 +1,35 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9510007
+From: "Miss E. Winstanley" <winstan@thphys.ox.ac.uk>
+Date: Tue, 3 Oct 1995 17:13:16 +0100 (BST)   (43kb)
+Date (revised): Mon, 16 Oct 1995 15:00:20 +0100 (BST)
+
+Title: Aspects of hairy black holes in spontaneously-broken Einstein-Yang-Mills
+  systems: Stability analysis and Entropy considerations
+Authors: N.E. Mavromatos and Elizabeth Winstanley
+Comments: Latex file, 50 pages, 2 figures (included as PS files at the end:
+  plot1.ps, plot2.ps)
+Report-no: Oxford Report OUTP-95-37P
+Journal-ref: Phys.Rev. D53 (1996) 3190-3214
+\\
+  We analyze (3+1)-dimensional black-hole space-times in spontaneously broken
+Yang-Mills gauge theories that have been recently presented as candidates for
+an evasion of the scalar-no-hair theorem. Although we show that in principle
+the conditions for the no-hair theorem do not apply to this case, however we
+prove that the `spirit' of the theorem is not violated, in the sense that there
+exist instabilities, in both the sphaleron and gravitational sectors. The
+instability analysis of the sphaleron sector, which was expected to be unstable
+for topological reasons, is performed by means of a variational method. As
+shown, there exist modes in this sector that are unstable against linear
+perturbations. Instabilities exist also in the gravitational sector. A method
+for counting the gravitational unstable modes, which utilizes a
+catastrophe-theoretic approach is presented. The r\^ole of the catastrophe
+functional is played by the mass functional of the black hole. The Higgs vacuum
+expectation value (v.e.v.) is used as a control parameter, having a critical
+value beyond which instabilities are turned on. The (stable) Schwarzschild
+solution is then understood from this point of view. The catastrophe-theory
+appproach facilitates enormously a universal stability study of non-Abelian
+black holes, which goes beyond linearized perturbations. Some elementary
+entropy considerations are also presented...
+\\

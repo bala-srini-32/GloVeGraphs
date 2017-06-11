@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9804210
+From: Barton Zwiebach <zwiebach@irene.mit.edu>
+Date: Thu, 30 Apr 1998 20:01:41 GMT   (385kb)
+
+Title: String Junctions for Arbitrary Lie Algebra Representations
+Authors: Oliver DeWolfe and Barton Zwiebach
+Comments: 60 pages, 17 figures, BoxedEPS.tex
+Report-no: MIT-CTP-2730
+Journal-ref: Nucl.Phys. B541 (1999) 509-565
+\\
+  We consider string junctions with endpoints on a set of branes of IIB string
+theory defining an ADE-type gauge Lie algebra. We show how to characterize
+uniquely equivalence classes of junctions related by string/brane crossing
+through invariant charges that count the effective number of prongs ending on
+each brane. Each equivalence class defines a point on a lattice of junctions.
+We define a metric on this lattice arising from the intersection pairing of
+junctions, and use self-intersection to identify junctions in the adjoint and
+fundamental representations of all ADE algebras. This information suffices to
+determine the relation between junction lattices and the Lie-algebra weight
+lattices. Arbitrary representations are built by allowing junctions with
+asymptotic (p,q) charges, on which the group of conjugacy classes of
+representations is represented additively. One can view the (p,q) asymptotic
+charges as Dynkin labels associated to two new fundamental weight vectors.
+\\

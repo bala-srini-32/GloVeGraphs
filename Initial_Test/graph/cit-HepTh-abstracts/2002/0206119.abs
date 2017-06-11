@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0206119
+From: Filipe Moura <fmoura@insti.physics.sunysb.edu>
+Date: Fri, 14 Jun 2002 19:23:16 GMT   (17kb)
+Date (revised v2): Mon, 1 Jul 2002 18:14:13 GMT   (18kb)
+Date (revised v3): Tue, 3 Sep 2002 05:43:33 GMT   (18kb)
+
+Title: Four dimensional R^4 superinvariants through gauge completion
+Authors: Filipe Moura
+Comments: 20 pages, no figures. Sec. 3 clarified; typos corrected
+Report-no: YITP-SB-02-26
+Journal-ref: JHEP 0208 (2002) 038
+\\
+  We fully compute the N=1 supersymmetrization of the fourth power of the Weyl
+tensor in d=4 x-space with the auxiliary fields. In a previous paper, we showed
+that their elimination requires an infinite number of terms; we explicitely
+compute those terms to order \kappa^4 (three loop). We also write, in
+superspace notation, all the possible N=1 actions, in four dimensions, that
+contain pure R^4 terms (with coupling constants). We explicitely write these
+actions in terms of the \theta components of the chiral density \epsilon and
+the supergravity superfields R, G_m, W_{ABC}. Using the method of gauge
+completion, we compute the necessary \theta components which allow us to write
+these actions in x-space. We discuss under which circumstances can these extra
+R^4 correction terms be reabsorbed in the pure supergravity action, and their
+relevance to the quantum supergravity/string theory effective actions.
+\\

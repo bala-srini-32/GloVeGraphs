@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9501056
+From: Jun Nishimura <nisimura@theory.kek.jp>
+Date: Sat, 14 Jan 1995 23:36:14 +0900   (90kb)
+Date (revised): Sun, 15 Jan 1995 13:51:42 +0900
+
+Title: Two-loop Renormalization in Quantum Gravity near Two Dimensions
+Author: Toshiaki Aida, Yoshihisa Kitazawa (Tokyo Institute of Technology),
+  Jun Nishimura (KEK) and Asato Tsuchiya (University of Tokyo)
+Comments: 31 pages including 14 figures in uufile format
+Report-no: TIT-HEP-275, KEK-TH-423, UT-Komaba/94-22
+Journal-ref: Nucl. Phys. B444 (1995) 353
+\\
+We study two--loop renormalization in $(2+\epsilon)$--dimensional quantum
+gravity. As a first step towards the full calculation, we concentrate on the
+divergences which are proportional to the number of matter fields. We calculate
+the $\beta$ functions and show how the nonlocal divergences as well as the
+infrared divergences cancel among the diagrams. Although the formalism includes
+a subtlety concerning the general covariance due to the dynamics of the
+conformal mode, we find that the renormalization group allows the existence of
+a fixed point which possesses the general covariance. Our results strongly
+suggest that we can construct a consistent theory of quantum gravity by the
+$\epsilon$ expansion around two dimensions.
+\\

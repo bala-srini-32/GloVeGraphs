@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9604147
+From: pickring@mth.kcl.ac.uk (Austin Pickering)
+Date: Tue, 23 Apr 1996 17:26:21 +0100   (17kb)
+Date (revised): Wed, 5 Jun 1996 21:06:25 +0100
+Date (revised): Wed, 12 Jun 1996 00:03:48 +0100
+
+Title: The One Loop Effective Super-Potential and Non-Holomorphicity
+Authors: Austin Pickering and Peter West
+Comments: LaTeX, 10 pages, 7 figures, uses bezier.sty and ifthen.sty. First
+  amendment. The results are extended to include the Kahlerian term for a
+  general renormalisable N=1 supersymmetric theory, containing Wess-Zumino and
+  Yang-Mills multiplets with a cubic superpotential. One reference has been
+  changed and one has been added. Second amendment. One acknowledgment has been
+  altered in the `note added in proof'
+Report-no: kcl-th-96-8
+Journal-ref: Phys.Lett. B383 (1996) 54-62
+\\
+  We calculate the Kahlerian and the lowest order non-Kahlerian contributions
+to the one loop effective superpotential using super-Feynman graphs in the
+massless Wess-Zumino Model, the massive Wess-Zumino Model and N=1, U(1) gauge
+theory. We also calculate the Kahlerian term in Yang-Mills Theory for a general
+gauge group. Using this latter result we find the one loop Kahlerian
+contribution for N=2 Yang-Mills Theory in terms of N=1 superfields and we show
+that it can only come from non-holomorphic contributions to the N=2 effective
+potential.
+\\

@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9610241
+From: Stephan Duerr <stephan@physik.unizh.ch>
+Date: Wed, 30 Oct 96 15:59:25 MET   (24kb)
+Date (revised): Wed, 29 Jan 97 16:12:05 MET
+
+Title: Finite Temperature Schwinger Model with Chirality Breaking Boundary
+  Conditions
+Authors: Stephan D\"urr and Andreas Wipf
+Comments: One reference added plus one corrected, final version as to be
+  published in Annals of Physics
+Report-no: ZU-TH-18/96 and FSU-TPI-11/96
+Journal-ref: Annals Phys. 255 (1997) 333-361
+\\
+  The $N_f$-flavour Schwinger Model on a finite space $0\leq x^1\leq L$ and
+subject to bag-type boundary-conditions at $x^1=0$ und $x^1=L$ is solved at
+finite temperature $T=1/\beta$. The boundary conditions depend on a real
+parameter $\theta$ and break the axial flavour symmetry. We argue that this
+approach is more appropriate to study the broken phases than introducing
+small quark masses, since all calculations can be performed analytically. In
+the imaginary time formalism we determine the thermal correlators for the
+fermion-fields and the determinant of the Dirac-operator in arbitrary
+background gauge-fields. We show that the boundary conditions induce a CP-odd
+$\theta$-term in the effective action. The chiral condensate, and in
+particular its T- and L- dependence, is calculated for $N_f$ fermions. It is
+seen to depend on the order in which the two lengths $\beta=1/T$ and $L$ are
+sent to infinity.
+\\

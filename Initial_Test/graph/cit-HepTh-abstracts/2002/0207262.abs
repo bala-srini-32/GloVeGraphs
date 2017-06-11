@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0207262
+From: Peter Jarvis <jarvis@oberon.phys.utas.edu.au>
+Date: Tue, 30 Jul 2002 06:59:25 GMT   (12kb)
+
+Title: Polar decomposition of a Dirac spinor
+Authors: J.G. Sumner and P.D. Jarvis (School of Mathematics and Physics,
+  University of Tasmania)
+Comments: 12 pages, LaTeX
+Report-no: UTAS-PHYS-02-02
+\\
+  Local decompositions of a Dirac spinor into `charged' and `real' pieces
+psi(x) = M(x) chi(x) are considered. chi(x) is a Majorana spinor, and M(x) a
+suitable Dirac-algebra valued field. Specific examples of the decomposition in
+2+1 dimensions are developed, along with kinematical implications, and
+constraints on the component fields within M(x) sufficient to encompass the
+correct degree of freedom count. Overall local reparametrisation and
+electromagnetic phase invariances are identified, and a dynamical framework of
+nonabelian gauge theories of noncompact groups is proposed. Connections with
+supersymmetric composite models are noted (including, for 2+1 dimensions,
+infrared effective theories of spin-charge separation in models of high-Tc
+superconductivity).
+\\

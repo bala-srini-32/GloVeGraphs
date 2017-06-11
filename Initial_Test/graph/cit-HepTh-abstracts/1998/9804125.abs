@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9804125
+From: dhoker@itp.ucsb.edu (Eric D'Hoker)
+Date: Sun, 19 Apr 1998 18:36:52 GMT   (26kb)
+Date (revised v2): Mon, 29 Jun 1998 21:39:06 GMT   (26kb)
+
+Title: Calogero-Moser and Toda Systems for Twisted and Untwisted Affine Lie
+  Algebras
+Authors: E. D'Hoker and D.H. Phong
+Comments: 34 pages, Plain TeX, minor typos corrected
+Report-no: UCLA/98/TEP/10
+Subj-class: High Energy Physics - Theory; Exactly Solvable and Integrable
+  Systems
+Journal-ref: Nucl.Phys. B530 (1998) 611-640
+\\
+  The elliptic Calogero-Moser Hamiltonian and Lax pair associated with a
+general simple Lie algebra $\G$ are shown to scale to the (affine) Toda
+Hamiltonian and Lax pair. The limit consists in taking the elliptic modulus
+$\tau$ and the Calogero-Moser couplings $m$ to infinity, while keeping fixed
+the combination $M = m e^{i \pi \delta \tau}$ for some exponent $\delta$.
+Critical scaling limits arise when $1/\delta$ equals the Coxeter number or the
+dual Coxeter number for the untwisted and twisted Calogero-Moser systems
+respectively; the limit consists then of the Toda system for the affine Lie
+algebras $\G^{(1)}$ and $(\G ^{(1)})^\vee$. The limits of the untwisted or
+twisted Calogero-Moser system, for $\delta$ less than these critical values,
+but non-zero, consists of the ordinary Toda system, while for $\delta =0$, it
+consists of the trigonometric Calogero-Moser systems for the algebras $\G$ and
+$\G^\vee$ respectively.
+\\

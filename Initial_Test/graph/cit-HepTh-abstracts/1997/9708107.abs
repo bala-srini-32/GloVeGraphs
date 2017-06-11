@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9708107
+From: Steffen Meissner <meissner@qft2.physik.hu-berlin.de>
+Date: Wed, 20 Aug 97 16:57:40 METDST   (18kb)
+Date (revised): Tue, 26 Aug 97 12:43:14 METDST
+
+Title: Complete phase diagram for the integrable chain with alternating spins
+  in the sectors with competing interactions
+Authors: B.-D. Doerfel and St. Meissner (HU Berlin)
+Comments: 13 pages, LaTeX, uses ioplppt.sty and epsfig.sty, figure 3 corrected
+Report-no: SFB 288 preprint
+Journal-ref: J.Phys. A31 (1998) 61-71
+\\
+  We investigate the anisotropic integrable spin chain consisting of spins
+$s={1/2}$ and $s=1$ by means of thermodynamic Bethe ansatz for the anisotropy
+$\gamma>\pi/3$, where the analysis of the Takahashi conditions leads to a more
+complicated string picture. We give the phase diagram with respect to the two
+real coupling constants $\bar{c}$ and $\tilde{c}$, which contains a new region
+where the ground state is formed by strings with infinite Fermi zones. In this
+region the velocities of sound for the two physical excitations have been
+calculated from the dressed energies. This leads to an additional line of
+conformal invariance not known before.
+\\

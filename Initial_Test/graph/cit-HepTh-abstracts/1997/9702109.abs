@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9702109
+From: David Kastor <kastor@het.phast.umass.edu>
+Date: Thu, 13 Feb 1997 16:42:16 -0500 (EST)   (25kb)
+Date (revised): Sun, 16 Mar 1997 21:53:26 -0500 (EST)
+
+Title: U-Duality, D-Branes and Black Hole Emission Rates: Agreements and
+  Disagreements
+Authors: Fay Dowker, David Kastor and Jennie Traschen
+Comments: 30 pages, harvmac; Clarification is added on the size of disagreement
+  claimed; Remarks are added on treating the limit in which two charges are
+  small
+Report-no: UMHEP-437, Imperial/TP/96-97/24
+Journal-ref: Phys.Rev. D58 (1998) 124025
+\\
+  An expression for the spacetime absorption coefficient of a scalar field in a
+five dimensional, near extremal black hole background is derived, which has the
+same form as that presented by Maldacena and Strominger, but is valid over a
+larger, U-duality invariant region of parameter space and in general disagrees
+with the corresponding D-brane result. We develop an argument, based on D-brane
+thermodynamics, which specifies the range of parameters over which agreement
+should be expected. For neutral emission, the spacetime and D-brane results
+agree over this range. However, for charged emission, we find disagreement in
+the `Fat Black Hole' regime, in which charge is quantized in smaller units on
+the brane, than in the bulk of spacetime. We indicate a possible problem with
+the D-brane model in this regime. We also use the Born approximation to study
+the high frequency limit of the absorption coefficient and find that it
+approaches unity, for large black hole backgrounds, at frequencies still below
+the string scale, again in disagreement with D-brane results.
+\\

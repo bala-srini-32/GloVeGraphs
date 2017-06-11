@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9704208
+From: <HOPE@vms.huji.ac.il>
+Date: Wed, 30 Apr 97 14:02 +0300   (13kb)
+Date (revised): Sun, 1 Jun 97 13:35 +0300
+
+Title: Soliton tunneling
+Author: G. K\"albermann (Faculty of Agriculture and Racah Institute of Physics,
+  Hebrew University, Jerusalem, Israel)
+Comments: Latex source, 5 postscipt figures. Accepted for publication in
+  Physical Review E, rapid communications
+\\
+  We present a numerical simulation of the scattering of a topological soliton
+off finite size attractive impurities, repulsive impurities and a combination
+of both. The attractive and attractive-repulsive cases show similar features to
+those found for $\delta$ function type of impurities. For the repulsive case,
+corresponding to a finite width barrier, the soliton behaves completely
+classically. No tunneling occurs for sub-barrier kinetic energies despite the
+extended nature of the soliton.
+\\

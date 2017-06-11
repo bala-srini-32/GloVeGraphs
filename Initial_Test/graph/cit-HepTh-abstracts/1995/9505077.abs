@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9505077
+From: schubert@physics.ucla.edu (Christian Schubert)
+Date: Sun, 14 May 1995 16:02:16 -0700 (PDT)   (10kb)
+
+Title: Inverse Mass Expansions from Worldline Path Integrals - Higher Order
+  Coefficients and Ordering Problems
+Authors: Denny Fliegner, Peter Haberl, Michael G. Schmidt, Christian Schubert
+Comments: 6 pages, standard LATEX, no figures
+Report-no: HD-THEP-95-20
+\\
+  Higher order coefficients of the inverse mass expansion of one--loop
+effective actions are obtained from a one--dimensional path integral
+representation. For the evaluation of the path integral with Wick contractions
+a suitable Green function has to be chosen. We consider the case of a massive
+scalar loop in the background of both a scalar potential and a (non--abelian)
+gauge field. For the pure scalar case the method yields the coefficients of the
+expansion in a minimal set of basis terms whereas complicated ordering problems
+arise in gauge theory. An appropriate reduction scheme is discussed.
+\\

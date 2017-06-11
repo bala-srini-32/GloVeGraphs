@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9711129
+From: Takanori Sugihara <taka@qcd.rcnp.osaka-u.ac.jp>
+Date: Tue, 18 Nov 1997 03:05:58 GMT   (97kb)
+Date (revised v2): Thu, 19 Feb 1998 11:26:10 GMT   (100kb)
+
+Title: Variational Calculation of the Effective Action
+Authors: Takanori Sugihara
+Comments: 26 pages, REVTeX, 7 postscript figures, typos corrected and two
+  references added
+Journal-ref: Phys.Rev. D57 (1998) 7373-7382
+\\
+  An indication of spontaneous symmetry breaking is found in the
+two-dimensional $\lambda\phi^4$ model, where attention is paid to the
+functional form of an effective action. An effective energy, which is an
+effective action for a static field, is obtained as a functional of the
+classical field from the ground state of the hamiltonian $H[J]$ interacting
+with a constant external field. The energy and wavefunction of the ground state
+are calculated in terms of DLCQ (Discretized Light-Cone Quantization) under
+antiperiodic boundary conditions. A field configuration that is physically
+meaningful is found as a solution of the quantum mechanical Euler-Lagrange
+equation in the $J\to 0$ limit. It is shown that there exists a nonzero field
+configuration in the broken phase of $Z_2$ symmetry because of a boundary
+effect.
+\\

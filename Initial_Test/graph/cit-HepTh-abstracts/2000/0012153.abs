@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0012153
+From: Laurent Hoffmann <lhoffman@physik.uni-kl.de>
+Date: Mon, 18 Dec 2000 14:49:22 GMT   (21kb)
+Date (revised v2): Mon, 8 Jan 2001 12:25:48 GMT   (21kb)
+Date (revised v3): Tue, 30 Jan 2001 09:40:31 GMT   (21kb)
+
+Title: Conformal partial wave analysis of AdS amplitudes for dilaton-axion
+  four-point functions
+Authors: L. Hoffmann, L. Mesref, W. Ruehl
+Comments: 27 pages, 1 graph, 12 figures, Corrections in eqns. (1.10), (1.11)
+Journal-ref: Nucl.Phys. B608 (2001) 177-202
+\\
+  Operator product expansions are applied to dilaton-axion four-point
+functions. In the expansions of the bilocal fields $\tilde{\Phi}\tilde{\Phi}$,
+$\tilde{C}\tilde{C}$ and $\tilde{\Phi}\tilde{C}$, the conformal fields which
+are symmetric traceless tensors of rank $l$ and have dimensions $\delta=2+l$ or
+$8+l+\eta(l)$ and $\eta(l)=\mathcal{O}(N^{-2})$ are identified. The
+unidentified fields have dimension $\delta=\lambda+l+\eta(l)$ with $\lambda\geq
+10$. The anomalous dimensions $\eta(l)$ are calculated at order
+$\mathcal{O}(N^{-2})$ for both $2^{-{1/2}}(-\tilde{\Phi}\tilde{\Phi} +
+\tilde{C}\tilde{C})$ and $2^{-{1/2}}(\tilde{\Phi}\tilde{C} +
+\tilde{C}\tilde{\Phi})$ and are found to be the same, proving $U(1)_Y$
+symmetry. The relevant coupling constants are given at order $\mathcal{O}(1)$.
+\\

@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9809179
+From: Martin Stock <mstock@MIT.EDU>
+Date: Thu, 24 Sep 1998 23:44:01 GMT   (37kb)
+Date (revised v2): Fri, 2 Oct 1998 23:15:21 GMT   (38kb)
+Date (revised v3): Tue, 15 Dec 1998 22:57:08 GMT   (38kb)
+
+Title: Gauge Boson Exchange in $AdS_{d+1}$
+Author: Eric D'Hoker and Daniel Z. Freedman
+Comments: Corrections in (3.17) and (4.23); version to be published in Nuclear
+  Physics B; 22 pages, 1 figure, using Plain TeX and BoxedEPS macros; email to
+  dzf@math.mit.edu
+Report-no: MIT-CTP-2781
+Journal-ref: Nucl.Phys. B544 (1999) 612-632
+\\
+  We study the amplitude for exchange of massless gauge bosons between pairs of
+massive scalar fields in Anti-de Sitter space. In the AdS/CFT correspondence
+this amplitude describes the contribution of conserved flavor symmetry currents
+to 4-point functions of scalar operators in the boundary conformal theory. A
+concise, covariant (Y2K-compatible) derivation of the gauge boson propagator in
+$\AdS_{d+1}$ is given. Techniques are developed to calculate the two bulk
+integrals over AdS space leading to explicit expressions or convenient, simple
+integral representations for the amplitude. The amplitude contains leading
+power and sub-leading logarithmic singularities in the gauge boson channel and
+leading logarithms in the crossed channel. The new methods of this paper are
+expected to have other applications in the study of the Maldacena conjecture.
+\\

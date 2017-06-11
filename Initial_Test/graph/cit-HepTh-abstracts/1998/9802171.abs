@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9802171
+From: wieczer <wieczer@quantum.uni-muenster.de>
+Date: Tue, 24 Feb 1998 15:07:48 GMT   (13kb)
+
+Title: Massless picture, massive picture, and symmetry in the Gaussian
+  renormalization group
+Author: Christian Wieczerkowski (University of Muenster)
+Comments: 17 pages LaTeX2e
+Report-no: MS-TPI-98-02
+Journal-ref: JHEP 9810 (1998) 005
+\\
+  We consider renormalization groups of transformations composed of a Gaussian
+convolution and a field dilatation. As an example, we consider perturbations of
+a single component real Euclidean free field $\phi$ with covariance
+$(-\bigtriangleup)^{-1+\frac{\epsilon}{2}}$. We show that the renormalization
+group admits two equivalent formulations called massless picture and massive
+picture respectively. We then show in the massive picture that the
+renormalization group has a symmetry. The symmetry consists of global scale
+transformations composed with certain Gaussian convolutions. We translate the
+symmetry back to the massless picture. The relation between the symmetry and
+the notion of an anomalous dimension is briefly discussed.
+\\

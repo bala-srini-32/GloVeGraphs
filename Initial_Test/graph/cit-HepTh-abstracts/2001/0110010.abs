@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0110010
+From: Luka Sustersic <luka.sustersic@ijs.si>
+Date: Mon, 1 Oct 2001 08:48:17 GMT   (10kb)
+Date (revised v2): Thu, 14 Mar 2002 10:45:47 GMT   (12kb)
+Date (revised v3): Fri, 21 Mar 2003 08:53:02 GMT   (11kb)
+
+Title: Framework for finite alternative theories to a quantum field theory
+Authors: Marijan Ribaric and Luka Sustersic
+Comments: 14 pages v.2: 15 pages; modified generating functional to include
+  renormalization constants; v.3: some small corrections to synchronize with
+  the printed version
+Journal-ref: Fizika B 11 (2002) 161
+\\
+  Using the path-integral formalism, we generalize the 't Hooft-Veltman method
+of unitary regulators to put forward a framework for finite, alternative
+quantum theories to a given quantum field theory. Feynman-like rules of such a
+finite, alternative quantum theory lead to alternative, perturbative Green
+functions. Which are acceptably regularized perturbative expansions of the
+original Green functions, causal, and imply no unphysical free particles. To
+demonstrate that the proposed framework is feasible, we take the quantum field
+theory of a single, self-interacting real scalar field and show how we can
+alter, covariantly and locally, its free-field Lagrangian to obtain finite,
+alternative perturbative Green functions.
+\\

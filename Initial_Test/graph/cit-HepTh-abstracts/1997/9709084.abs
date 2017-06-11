@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9709084
+From: Michael Bordag <Michael.Bordag@itp.uni-leipzig.de>
+Date: Thu, 11 Sep 1997 15:48:49 +0200   (10kb)
+Date (revised): Mon, 15 Sep 1997 14:52:23 +0200
+
+Title: Path integral quantization of electrodynamics in dielectric media
+Authors: M. Bordag, K. Kirsten (Leipzig) and D.V. Vassilevich (St.Petersburg)
+Comments: 10 pages, Latex, submitted to J.Phys.A, revised (a misprint in the
+  bibliography)
+Journal-ref: J.Phys. A31 (1998) 2381-2389
+\\
+  In the present paper we study the Faddeev-Popov path integral quantization of
+electrodynamics in an inhomogenious dielectric medium. We quantize all
+polarizations of the photons and introduce the corresponding ghost fields.
+Using the heat kernel technique, we express the heat kernel coefficients in
+terms of the dielectricity $\epsilon (x)$ and calculate the ultra violet
+divergent terms in the effective action. No cancellation between ghosts and
+"non-physical" degrees of freedom of the photon is observed.
+\\

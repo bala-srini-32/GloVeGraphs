@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9511094
+From: Kwek Leong Chuan <scip3057@leonis.nus.sg>
+Date: Tue, 14 Nov 1995 16:03:45 +0800 (SST)   (5kb)
+Date (revised): Thu, 23 Nov 1995 11:35:35 +0800 (SST)
+
+Title: Maximum temperature for an Ideal Gas of $\hat U(1)$ Kac-Moody Fermions
+Author: Belal E. Baaquie
+Comments: Needs subeqnarray.sty; To be published in Phys. Rev. D, Dec 15, 1995.
+  Some typographical errors have been corrected in the revised version
+Journal-ref: Phys.Rev. D53 (1996) 879-881
+\\
+  A lagrangian for gauge fields coupled to fermions with the Kac-Moody group as
+its gauge group yields, for the pure fermions sector, an ideal gas of Kac-Moody
+fermions. The canonical partition function for the $\hat U(1)$ case is shown to
+have a maximum temperature $kT_{M} = |\lambda| /\pi$, where $\lambda $ is the
+coupling of the super charge operator $G_0 $ to the fermions. This result is
+similar to the case of strings but unlike strings the result is obtained from a
+well-defined lagrangian.
+\\

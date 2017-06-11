@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0009041
+From: Holger Gies <holger.gies@uni-tuebingen.de>
+Date: Wed, 6 Sep 2000 12:44:02 GMT   (29kb)
+Date (revised v2): Fri, 5 Jan 2001 13:55:21 GMT   (31kb)
+
+Title: Flow equation for Halpern-Huang directions of scalar O(N) models
+Authors: Holger Gies (Tubingen U.)
+Comments: 18 pages, 4 figures, LaTeX, references added, presentation improved,
+  final version to appear in Phys. Rev. D
+Journal-ref: Phys.Rev. D63 (2001) 065011
+\\
+  A class of asymptotically free scalar theories with O(N) symmetry, defined
+via the eigenpotentials of the Gaussian fixed point (Halpern-Huang directions),
+are investigated using renormalization group flow equations. Explicit solutions
+for the form of the potential in the nonperturbative infrared domain are found
+in the large-N limit. In this limit, potentials without symmetry breaking
+essentially preserve their shape and undergo a mass renormalization which is
+governed only by the renormalization group distance parameter; as a
+consequence, these scalar theories do not have a problem of naturalness.
+Symmetry-breaking potentials are found to be ``fine-tuned'' in the large-N
+limit in the sense that the nontrivial minimum vanishes exactly in the limit of
+vanishing infrared cutoff: therefore, the O(N) symmetry is restored in the
+quantum theory and the potential becomes flat near the origin.
+\\

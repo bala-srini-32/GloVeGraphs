@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0105305
+From: Niels Obers <n.obers@phys.uu.nl>
+Date: Wed, 30 May 2001 10:40:51 GMT   (61kb)
+Date (revised v2): Wed, 1 Aug 2001 09:39:21 GMT   (61kb)
+Date (revised v3): Thu, 29 Nov 2001 16:58:31 GMT   (61kb)
+
+Title: The Operator Algebra and Twisted KZ Equations of WZW Orbifolds
+Authors: J. de Boer (Amsterdam), M.B. Halpern (Berkeley), N.A. Obers (Utrecht)
+Comments: Latex, 88 pages. added a comment on outer automorphic orbifolds and
+  one reference; v3: minor typos corrected
+Report-no: ITFA-2001-18, NSF-ITP-01-47, UCB-PTH-01/17, LBNL-47988,
+  SPIN-2001/13, ITP-UU-01/21
+Subj-class: High Energy Physics - Theory; Operator Algebras; Quantum Algebra
+Journal-ref: JHEP 0110 (2001) 011
+\\
+  We obtain the operator algebra of each twisted sector of all WZW orbifolds,
+including the general twisted current algebra and the algebra of the twisted
+currents with the twisted affine primary fields. Surprisingly, the twisted
+right and left mover current algebras are not a priori copies of each other.
+Using the operator algebra we also derive world-sheet differential equations
+for the twisted affine primary fields of all WZW orbifolds. Finally we include
+ground state properties to obtain the twisted Knizhnik-Zamolodchikov equations
+of the WZW permutation orbifolds and the inner-automorphic WZW orbifolds.
+\\

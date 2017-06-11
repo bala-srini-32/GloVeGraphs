@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0002144
+From: Yves Brihaye <Yves.Brihaye@umh.ac.be>
+Date: Thu, 17 Feb 2000 13:20:13 GMT   (38kb)
+Date (revised v2): Fri, 19 May 2000 06:44:26 GMT   (39kb)
+
+Title: Finite energy/action solutions of $p_1$ Yang-Mills equations on $p_2$
+  Schwarzschild and deSitter backgrounds for dimension $d \ge 4$
+Authors: Y. Brihaye, A. Chakrabarti, D. H. Tchrakian
+Comments: LaTeX, 25 pages, 2 figures, new title, minor changes
+\\
+  Physically relevant gauge and gravitational theories can be seen as special
+members of hierarchies of more elaborate systems. The Yang-Mills (YM) system is
+the first member of a hierarchy of Lagrangians which we will index by $p_1$,
+and the Einstein-Hilbert (EH) system of general relativity is the first member
+of another hierarchy which we index by $p_2$. In this paper, we study the
+classical equations of the $p_1 = 1,2$ YM hierarchy considered in the
+background of special geometries (Schwarzschild, deSitter,anti-deSitter) of the
+$p_2=1,2,3$ EH hierarchy. Solutions are obtained in various dimensions and lead
+to several examples of non-self-dual YM fields. When $p_1=p_2$ self-dual
+solutions exist in addition. Their action is equal to the Chern-Pontryagin
+charge and can be compared with that of the non-self-dual solutions.
+\\

@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9606020
+From: mrudolph@tph103.physik.uni-leipzig.de (Michael Rudolph)
+Date: Wed, 5 Jun 96 11:57:13 +0200   (19kb)
+
+Title: Effective Bosonic Degrees of Freedom for One-Flavour Chromodynamics
+Authors: J. Kijowski, G. Rudolph, M. Rudolph
+Comments: 26 pages, LaTeX 2e
+Journal-ref: Annales Poincare Phys.Theor. 68 (1998) 285-313
+\\
+  We apply an earlier formulated programme for quantization of nonabelian gauge
+theories to one-flavour chromodynamics. This programme consists in a complete
+reformulation of the functional integral in terms of gauge invariant
+quantities. For the model under consideration two types of gauge invariants
+occur -- quantities, which are bilinear in quarks and antiquarks (mesons) and a
+matrix-valued covector field, which is bilinear in quarks, antiquarks and their
+covariant derivatives. This covector field is linear in the original gauge
+potential, and can be, therefore, considered as the gauge potential ``dressed''
+in a gauge invariant way with matter. Thus, we get a complete bosonization of
+the theory. The strong interaction is described by a highly non-linear
+effective action obtained after integrating out quarks and gluons from the
+functional integral. All constructions are done consequently on the quantum
+level, where quarks and antiquarks are anticommuting objects. Our quantization
+procedure circumvents the Gribov ambiguity.
+\\

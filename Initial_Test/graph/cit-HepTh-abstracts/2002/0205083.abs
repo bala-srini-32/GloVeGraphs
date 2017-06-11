@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0205083
+From: Adam Ritz <a.ritz@damtp.cam.ac.uk>
+Date: Thu, 9 May 2002 18:13:31 GMT   (35kb)
+Date (revised v2): Mon, 3 Jun 2002 11:19:21 GMT   (37kb)
+Date (revised v3): Thu, 15 Aug 2002 14:34:40 GMT   (37kb)
+
+Title: Counting Domain Walls in N=1 Super Yang-Mills Theory
+Authors: A. Ritz, M. Shifman, A. Vainshtein
+Comments: 28 pages, RevTeX, 3 figures; v2: discussion of the index slightly
+  expanded, using an alternative regulator, and references added; v3: typos
+  corrected, to appear in Phys. Rev. D
+Journal-ref: Phys.Rev. D66 (2002) 065015
+\\
+  We study the multiplicity of BPS domain walls in N=1 super Yang-Mills theory,
+by passing to a weakly coupled Higgs phase through the addition of fundamental
+matter. The number of domain walls connecting two specified vacuum states is
+then determined via the Witten index of the induced worldvolume theory, which
+is invariant under the deformation to the Higgs phase. The worldvolume theory
+is a sigma model with a Grassmanian target space which arises as the coset
+associated with the global symmetries broken by the wall solution. Imposing a
+suitable infrared regulator, the result is found to agree with recent work of
+Acharya and Vafa in which the walls were realized as wrapped D4-branes in IIA
+string theory.
+\\

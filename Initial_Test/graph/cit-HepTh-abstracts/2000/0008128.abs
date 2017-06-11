@@ -1,0 +1,39 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0008128
+From: Zurab Kakushadze <zurab@insti.physics.sunysb.edu>
+Date: Wed, 16 Aug 2000 02:58:04 GMT   (12kb)
+Date (revised v2): Fri, 15 Sep 2000 23:45:27 GMT   (12kb)
+Date (revised v3): Mon, 16 Oct 2000 22:24:06 GMT   (12kb)
+Date (revised v4): Thu, 2 Nov 2000 03:01:26 GMT   (15kb)
+Date (revised v5): Tue, 28 Nov 2000 02:08:40 GMT   (15kb)
+
+Title: Gravity in Randall-Sundrum Brane World Revisited
+Author: Zurab Kakushadze
+Comments: 16 pages, revtex; minor misprints corrected (to appear in Phys. Lett.
+  B)
+Report-no: YITP-00-36
+Journal-ref: Phys.Lett. B497 (2001) 125-135
+\\
+  We point out some subtleties with gauge fixings (which sometimes include the
+so-called ``brane bending'' effects) typically used to compute the graviton
+propagator on the Randall-Sundrum brane. In particular, the brane, which has
+non-vanishing tension, explicitly breaks some part of the diffeomorphisms, so
+that there are subtleties arising in going to, say, the axial gauge or the
+harmonic gauge in the presence of (non-conformal) matter localized on the
+brane. We therefore compute the graviton propagator in the gauge where only the
+graviphoton fluctuations are set to zero (the diffeomorphisms necessary for
+this gauge fixing are intact), but the graviscalar component is untouched. We
+point out that in the Gaussian normal coordinates (where the graviscalar
+component vanishes on the brane) the graviton propagator blows up in the
+ultra-violet near the brane. In fact, the allowed gauge transformations, which
+do not lead to such ultra-violet behavior of the graviton propagator, are such
+that the coupling of the graviscalar to the brane matter cannot be gauged away
+in the ultra-violet. Because of this, at the quantum level, where we expect
+various additional terms to be generated in the brane world-volume action
+including those involving the graviscalar, fine-tuning (which is independent of
+that for the brane cosmological constant) is generically required to preserve
+consistent coupling between bulk gravity and brane matter. We also reiterate
+that in such warped backgrounds higher curvature terms in the bulk are
+generically expected to delocalize gravity.
+\\

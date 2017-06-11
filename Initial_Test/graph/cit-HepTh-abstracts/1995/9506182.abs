@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9506182
+From: Dan Kabat <kabat@physics.rutgers.edu>
+Date: Tue, 27 Jun 1995 19:21:38 -0400   (29kb)
+Date (revised): Tue, 18 Jul 1995 14:39:38 -0400
+
+Title: Black Hole Entropy in the O(N) Model
+Authors: D. Kabat, S. H. Shenker, and M. J. Strassler
+Comments: 21 pages, uses harvmac and epsf. one additional reference
+Report-no: RU-95-34
+Journal-ref: Phys.Rev. D52 (1995) 7027-7036
+\\
+  We consider corrections to the entropy of a black hole from an $O(N)$
+invariant linear $\s$-model. We obtain the entropy from a $1/N$ expansion of
+the partition function on a cone. The entropy arises from diagrams which are
+analogous to those introduced by Susskind and Uglum to explain black hole
+entropy in string theory. The interpretation of the \sm entropy depends on
+scale. At short distances, it has a state counting interpretation, as the
+entropy of entanglement of the $N$ fields $\pa$. In the infrared, the effective
+theory has a single composite field $\s \sim \pa \pa$, and the state counting
+interpretation of the entropy is lost.
+\\

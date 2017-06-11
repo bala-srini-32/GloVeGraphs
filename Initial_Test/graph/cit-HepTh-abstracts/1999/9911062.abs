@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9911062
+From: Makoto Natsuume <makoto.natsuume@kek.jp>
+Date: Wed, 10 Nov 1999 00:35:32 GMT   (12kb)
+Date (revised v2): Fri, 3 Mar 2000 09:52:00 GMT   (13kb)
+
+Title: Entropy for Asymptotically AdS_3 Black Holes
+Authors: Makoto Natsuume (KEK) and Takashi Okamura (Ochanomizu University)
+Comments: 21 pages, LaTeX; v2: added discussion for section 3.3
+Report-no: KEK-TH-658, OCHA-PP-145
+Journal-ref: Phys.Rev. D62 (2000) 064027
+\\
+  We propose that Strominger's method to derive the BTZ black hole entropy is
+in fact applicable to other asymptotically AdS_3 black holes and gives the
+correct functional form of entropies. We discuss various solutions in the
+Einstein-Maxwell theory, dilaton gravity, Einstein-scalar theories, and
+Einstein-Maxwell-dilaton theory. In some cases, solutions approach AdS_3
+asymptotically, but their entropies do not have the form of Cardy's formula.
+However, it turns out that they are actually not "asymptotically $AdS_3$"
+solutions. On the other hand, for truly asymptotically AdS_3 solutions, their
+entropies have the form of Cardy's formula. In this sense, all known solutions
+are consistent with our proposal.
+\\

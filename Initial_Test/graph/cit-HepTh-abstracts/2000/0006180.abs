@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0006180
+From: Katsumi Itoh <itoh@ed.niigata-u.ac.jp>
+Date: Thu, 22 Jun 2000 17:15:50 GMT   (13kb)
+
+Title: Exact BRS Symmetry realized on the Renormalization Group Flow
+Authors: Yuji Igarashi, Katsumi Itoh and Hiroto So
+Comments: Latex, 15 pages
+Report-no: NIIG-DP-00-1
+Journal-ref: Prog.Theor.Phys. 104 (2000) 1053-1066
+\\
+  Using the average action defined with a continuum analog of the block spin
+transformation, we show the presence of gauge symmetry along the Wilsonian
+renormalization group flow. As a reflection of the gauge symmetry, the average
+action satisfies the quantum master equation(QME). We show that the quantum
+part of the master equation is naturally understood once the measure
+contribution under the BRS transformation is taken into account. Furthermore an
+effective BRS transformation acting on macroscopic fields may be defined from
+the QME. The average action is explicitly evaluated in terms of the saddle
+point approximation up to one-loop order. It is confirmed that the action
+satisfies the QME and the flow equation.
+\\

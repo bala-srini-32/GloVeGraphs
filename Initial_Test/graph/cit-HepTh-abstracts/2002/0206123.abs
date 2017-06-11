@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0206123
+From: Takeshi Oota <toota@post.kek.jp>
+Date: Fri, 14 Jun 2002 07:13:25 GMT   (14kb)
+Date (revised v2): Sun, 23 Jun 2002 13:34:03 GMT   (15kb)
+
+Title: Normalization of Off-shell Boundary State, g-function and Zeta Function
+  Regularization
+Authors: H. Itoyama and T. Oota
+Comments: 21 pages, LaTeX, comments and 3 new references added
+Report-no: OCU-PHYS 187, KEK-TH-829
+\\
+  We consider the model in two dimensions with boundary quadratic deformation
+(BQD), which has been discussed in tachyon condensation. The partition function
+of this model (BQD) on a cylinder is determined, using the method of zeta
+function regularization. We show that, for closed channel partition function, a
+subtraction procedure must be introduced in order to reproduce the correct
+results at conformal points. The boundary entropy (g-function) is determined
+from the partition function and the off-shell boundary state. We propose and
+consider a supersymmetric generalization of BQD model, which includes a
+boundary fermion mass term, and check the validity of the subtraction
+procedure.
+\\

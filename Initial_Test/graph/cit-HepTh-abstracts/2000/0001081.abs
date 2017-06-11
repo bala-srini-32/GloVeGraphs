@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0001081
+From: grig@lpi.ru (Maxim Grigoriev)
+Date: Thu, 13 Jan 2000 17:48:43 GMT   (23kb)
+Date (revised v2): Mon, 4 Sep 2000 01:22:22 GMT   (26kb)
+
+Title: BRST Formalism and Zero Locus Reduction
+Authors: M.A. Grigoriev, A.M. Semikhatov and I.Yu. Tipunin
+Comments: 21 pages, latex2e, several modifications have been made, main content
+  remains unchanged
+Journal-ref: J.Math.Phys. 42 (2001) 3315-3333
+\\
+  In the BRST quantization of gauge theories, the zero locus $Z_Q$ of the BRST
+differential $Q$ carries an (anti)bracket whose parity is opposite to that of
+the fundamental bracket. We show that the on-shell BFV/BV gauge symmetries are
+in a 1:1 correspondence with Hamiltonian vector fields on $Z_Q$, and
+observables of the BRST theory are in a 1:1 correspondence with characteristic
+functions of the bracket on $Z_Q$. By reduction to the zero locus, we obtain
+relations between bracket operations and differentials arising in different
+complexes (the Gerstenhaber, Schouten, Berezin-Kirillov, and Sklyanin
+brackets); the equation ensuring the existence of a nilpotent vector field on
+the reduced manifold can be the classical Yang-Baxter equation. We also
+generalize our constructions to the bi-QP-manifolds which from the BRST theory
+viewpoint corresponds to the BRST-anti-BRST-symmetric quantization.
+\\

@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0009200
+From: cardona@ucfma.univ-bpclermont.fr (CARDONA Alexander)
+Date: Tue, 26 Sep 2000 11:04:42 GMT   (13kb)
+
+Title: Some Remarks about Duality, Analytic Torsion and Gaussian Integration in
+  Antisymmetric Field Theories
+Author: Alexander Cardona (Laboratoire de Math\'ematiques Appliqu\'ees,
+  Universit\'e Blaise Pascal (Clermont II), France)
+Comments: 15 pages, LaTeX
+\\
+  From a path integral point of view (e.g. \cite{Q98}) physicists have shown
+how {\it duality} in antisymmetric quantum field theories on a closed
+space-time manifold $M$ relies in a fundamental way on Fourier Transformations
+of formal infinite-dimensional volume measures. We first review these facts
+from a measure theoretical point of view, setting the importance of the Hodge
+decomposition theorem in the underlying geometric picture, ignoring the local
+symmetry which lead to degeneracies of the action. To handle these degeneracies
+we then apply Schwarz's Ansatz showing how duality leads to a factorization of
+the analytic torsion of $M$ in terms of the partition functions associated to
+degenerate "dual" actions, which in the even dimensional case corresponds to
+the identification of these partition functions.
+\\

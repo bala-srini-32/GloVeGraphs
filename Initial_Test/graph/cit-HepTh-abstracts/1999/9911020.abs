@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9911020
+From: Armen Nersessian <nerses@thsun1.jinr.ru>
+Date: Wed, 3 Nov 1999 19:16:54 GMT   (9kb)
+
+Title: Massless particles and the geometry of curves. Classical picture
+Author: A.Nersessian
+Comments: 7 pages, Talk given at QFTHEP'99, Moscow, May 27-June 2, 1999
+\\
+  We analyze the possibility of description of D-dimensional massless particles
+by the Lagrangians linear on world-line curvatures k_i,
+ {\cal S}=\sum_{i=1}^Nc_i\int k_i d{\tilde s}.
+  We show, that the nontrivial classical solutions of this model are given by
+space-like curves with zero 2N-th curvature for N\leq[(D-2)/2]. Massless
+spinning particles correspond to the curves with constant k_{N+a}/k_{N-a}
+ratio.
+  It is shown that only the system with action {\cal S}=c\int k_N d{\tilde s}
+leads to irreducible representation of Poincar\'e group. This system has
+maximally possible number (N+1) of gauge degrees of freedom. Its classical
+solutions obey the conditions k_{N+a}=k_{N-a}, a=1,..., N-1, while first N
+curvatures k_i remain arbitrary. This solution is specified by coinciding N
+weights of the massless representation of little Lorentz group, while the
+remaining weights vanish.
+\\

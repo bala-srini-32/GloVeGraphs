@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9710227
+From: Angel Gomez Nicola <a.gomez@ic.ac.uk>
+Date: Wed, 29 Oct 1997 19:06:05 GMT   (32kb)
+
+Title: The Schwinger and Thirring models at finite chemical potential and
+  temperature
+Authors: Ramon F.Alvarez-Estrada, Angel Gomez Nicola
+Comments: 21 pages, LaTex, to appear in Phys.Rev.D., available through
+  anonymous ftp from ftp://euclid.tp.ph.ic.ac.uk/papers or on WWW at
+  http://euclid.tp.ph.ic.ac.uk/Papers
+Report-no: FT/UCM/2-97, IMPERIAL/TP/96-97/44
+Journal-ref: Phys.Rev. D57 (1998) 3618-3633
+\\
+  We study the generating functional for the massless Schwinger model in the
+torus, at nonzero chemical potential and temperature. The lack of hermiticity
+of the Dirac operator yields a non-trivial phase in the effective action, which
+is a topological contribution induced by the chemical potential. In the sector
+with no zero modes, we evaluate exactly the generating functional, the
+partition function, the boson propagator and the thermally averaged Polyakov
+loop. The system bosonizes at finite T and \mu, with the same mass as in
+vacuum. From the solution obtained for the Schwinger model we derive also
+exactly the generating functional and the partition function for the massless
+Thirring model at nonzero T and \mu.
+\\

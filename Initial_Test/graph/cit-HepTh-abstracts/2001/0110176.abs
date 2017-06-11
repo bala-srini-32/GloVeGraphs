@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0110176
+From: Horacio E. Camblong <camblong@euclid.math.usfca.edu>
+Date: Fri, 19 Oct 2001 19:05:51 GMT   (12kb)
+Date (revised v2): Tue, 23 Oct 2001 19:55:08 GMT   (12kb)
+Date (revised v3): Wed, 30 Jan 2002 03:54:05 GMT   (22kb)
+Date (revised v4): Sun, 19 May 2002 12:40:42 GMT   (22kb)
+
+Title: Renormalized Path Integral for the Two-Dimensional Delta-Function
+  Interaction
+Authors: Horacio E. Camblong, Carlos R. Ordonez
+Comments: 26 pages. The paper was significantly expanded and numerous equations
+  were added for the sake of clarity; the main results and conclusions are
+  unchanged
+Subj-class: High Energy Physics - Theory; Mathematical Physics
+Journal-ref: Phys. Rev. A 65, 052123 (2002)
+\\
+  A path-integral approach for delta-function potentials is presented.
+Particular attention is paid to the two-dimensional case, which illustrates the
+realization of a quantum anomaly for a scale invariant problem in quantum
+mechanics. Our treatment is based on an infinite summation of perturbation
+theory that captures the nonperturbative nature of the delta-function bound
+state. The well-known singular character of the two-dimensional delta-function
+potential is dealt with by considering the renormalized path integral resulting
+from a variety of schemes: dimensional, momentum-cutoff, and real-space
+regularization. Moreover, compatibility of the bound-state and scattering
+sectors is shown.
+\\

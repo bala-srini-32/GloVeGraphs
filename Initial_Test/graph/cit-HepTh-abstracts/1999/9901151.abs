@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9901151
+From: Shinobu Hosono <hosono@ms.u-tokyo.ac.jp>
+Date: Thu, 28 Jan 1999 07:39:00 GMT   (24kb)
+Date (revised v2): Fri, 29 Jan 1999 03:57:37 GMT   (24kb)
+Date (revised v3): Sat, 30 Jan 1999 16:56:20 GMT   (24kb)
+Date (revised v4): Wed, 29 Dec 1999 07:30:52 GMT   (25kb)
+
+Title: Holomorphic Anomaly Equation and BPS State Counting of Rational Elliptic
+  Surface
+Authors: S. Hosono, M.-H. Saito, and A. Takahashi
+Comments: 27 pages, uses harvmac.tex; published form with note added in proof
+Subj-class: High Energy Physics - Theory; Algebraic Geometry
+Journal-ref: Adv.Theor.Math.Phys. 3 (1999) 177-208
+\\
+  We consider the generating function (prepotential) for Gromov-Witten
+invariants of rational elliptic surface. We apply the local mirror principle to
+calculate the prepotential and prove a certain recursion relation, holomorphic
+anomaly equation, for genus 0 and 1. We propose the holomorphic anomaly
+equation for all genera and apply it to determine higher genus Gromov-Witten
+invariants and also the BPS states on the surface. Generalizing G\"ottsche's
+formula for the Hilbert scheme of $g$ points on a surface, we find precise
+agreement of our results with the proposal recently made by Gopakumar and
+Vafa(hep-th/9812127).
+\\

@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9711008
+From: Miguel Ortiz <m.ortiz@ic.ac.uk>
+Date: Mon, 3 Nov 1997 16:59:13 GMT   (45kb)
+Date (revised v2): Wed, 19 Nov 1997 16:19:02 GMT   (59kb)
+Date (revised v3): Wed, 11 Feb 1998 09:43:39 GMT   (45kb)
+
+Title: Boundary fields and renormalization group flow in the two-matrix model
+Authors: Sean Carroll, Miguel Ortiz and Washington Taylor
+Comments: 31 pages, Latex
+Report-no: NSF-ITP/97-123, Imperial/TP/97-98/7, PUPT-1735
+Journal-ref: Phys.Rev. D58 (1998) 046006
+\\
+  We analyze the Ising model on a random surface with a boundary magnetic field
+using matrix model techniques. We are able to exactly calculate the disk
+amplitude, boundary magnetization and bulk magnetization in the presence of a
+boundary field. The results of these calculations can be interpreted in terms
+of renormalization group flow induced by the boundary operator. In the
+continuum limit this RG flow corresponds to the flow from non-conformal to
+conformal boundary conditions which has recently been studied in flat space
+theories.
+\\

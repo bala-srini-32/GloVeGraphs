@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9804185
+From: Kirill Krasnov <krasnov@phys.psu.edu>
+Date: Tue, 28 Apr 1998 19:46:06 GMT   (17kb)
+
+Title: Discrete Space-Time Volume for 3-Dimensional BF Theory and Quantum
+  Gravity
+Authors: Laurent Freidel and Kirill Krasnov
+Comments: 13 pages, Revtex, figures
+Report-no: CGPG-98/4-4
+Journal-ref: Class.Quant.Grav. 16 (1999) 351-362
+\\
+  The Turaev-Viro state sum invariant is known to give the transition amplitude
+for the three dimensional BF theory with cosmological term, and its deformation
+parameter hbar is related with the cosmological constant via hbar=sqrt{Lambda}.
+This suggests a way to find the expectation value of the spacetime volume by
+differentiating the Turaev-Viro amplitude with respect to the cosmological
+constant. Using this idea, we find an explicit expression for the spacetime
+volume in BF theory. According to our results, each labelled triangulation
+carries a volume that depends on the labelling spins. This volume is explicitly
+discrete. We also show how the Turaev-Viro model can be used to obtain the
+spacetime volume for (2+1) dimensional quantum gravity.
+\\

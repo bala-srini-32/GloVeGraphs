@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0204036
+From: Ricardo Bentin <rbentin@ift.unesp.br>
+Date: Wed, 3 Apr 2002 16:57:08 GMT   (7kb)
+
+Title: Covariantization and canonical quantization in the light-cone gauge
+Authors: Alfredo T. Suzuki and Ricardo Bentin
+Comments: 12 pages
+\\
+  In the light-cone gauge choice for Abelian and non-Abelian gauge fields, the
+vector boson propagator carries in it an additional ``spurious'' or
+``unphysical'' pole intrinsic to the choice requiring a careful mathematical
+treatment. Research in this field over the years has shown us that mathematical
+consistency only is not enough to guarantee physically meaningful results.
+Whatever the prescription invoked to handle such an object, it has to preserve
+causality in the process. On the other hand the covariantization technique is a
+well suited one to tackle gauge dependent poles in the Feynman integrals,
+dispensing the use of {\em ad hoc} prescriptions. In this work we show that the
+covariantization technique in the light-cone gauge is a direct consequence of
+the canonical quantization of the theory.
+\\

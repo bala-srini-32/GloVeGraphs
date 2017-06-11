@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9709162
+From: fferrari@lpthe.jussieu.fr (Franco FERRARI)
+Date: Tue, 23 Sep 1997 08:39:13 GMT   (14kb)
+
+Title: Monodromy Properties of the Energy Momentum Tensor on General Algebraic
+  Curves
+Authors: Franco Ferrari and Jan T. Sobczyk
+Comments: 21 pages, plain TeX + harvmac
+Report-no: PAR-LPTHE 97-38
+Journal-ref: J.Geom.Phys. 29 (1999) 161-176
+\\
+  A new approach to analyze the properties of the energy-momentum tensor $T(z)$
+of conformal field theories on generic Riemann surfaces (RS) is proposed.
+$T(z)$ is decomposed into $N$ components with different monodromy properties,
+where $N$ is the number of branches in the realization of RS as branch covering
+over the complex sphere. This decomposition gives rise to new infinite
+dimensional Lie algebra which can be viewed as a generalization of Virasoro
+algebra containing information about the global properties of the underlying
+RS. In the simplest case of hyperelliptic curves the structure of the algebra
+is calculated in two ways and its central extension is explicitly given. The
+algebra possess an interesting symmetry with a clear interpretation in the
+framework of the radial quantization of CFT's with multivalued fields on the
+complex sphere.
+\\

@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0105118
+From: Etesi Gabor <etesi@yukawa.kyoto-u.ac.jp>
+Date: Sun, 13 May 2001 06:13:14 GMT   (13kb)
+Date (revised v2): Wed, 22 Aug 2001 02:48:36 GMT   (13kb)
+Date (revised v3): Mon, 10 Jun 2002 12:17:37 GMT   (13kb)
+Date (revised v4): Thu, 17 Oct 2002 09:18:23 GMT   (13kb)
+
+Title: Geometric construction of new Yang-Mills instantons over Taub-NUT space
+Authors: Gabor Etesi (Yukawa Institute, Japan), Tamas Hausel (Univ. of
+  California at Berkeley, USA)
+Comments: 13 pages, LaTex, no figures
+Subj-class: High Energy Physics - Theory; Mathematical Physics; Differential
+  Geometry
+Journal-ref: Phys.Lett. B514 (2001) 189-199
+\\
+  In this paper we exhibit a one-parameter family of new Taub-NUT instantons
+parameterized by a half-line. The endpoint of the half-line will be the
+reducible Yang-Mills instanton corresponding to the Eguchi-Hanson-Gibbons L^2
+harmonic 2-form, while at an inner point we recover the Pope-Yuille instanton
+constructed as a projection of the Levi-Civita connection onto the positive
+su(2) subalgebra of the Lie algebra so(4).
+  Our method imitates the Jackiw-Nohl-Rebbi construction originally designed
+for flat R^4. That is we find a one-parameter family of harmonic functions on
+the Taub-NUT space with a point singularity, rescale the metric and project the
+obtained Levi-Civita connection onto the other negative su(2) subalgebra of
+so(4). Our solutions will possess the full U(2) symmetry, and thus provide more
+solutions to the recently proposed U(2) symmetric ansatz of Kim and Yoon.
+\\

@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9607168
+From: chim@maths.mu.OZ.AU (Leung Hok Chim)
+Date: Mon, 22 Jul 1996 12:16:18 +1000 (EST)   (13kb)
+Date (revised): Wed, 24 Jul 1996 17:15:10 +1000 (EST)
+
+Title: Central Charge and the Andrews-Bailey Construction
+Author: Leung Chim
+Comments: Latex2e, requires cite.sty package, 13 pages. Additional footnote,
+  citation and references
+Report-no: Research Report No.7, 1996
+Journal-ref: J.Math.Phys. 40 (1999) 3761-3772
+\\
+  From the equivalence of the bosonic and fermionic representations of
+finitized characters in conformal field theory, one can extract mathematical
+objects known as Bailey pairs. Recently Berkovich, McCoy and Schilling have
+constructed a `generalized' character formula depending on two parameters $\ra$
+and $\r2$, using the Bailey pairs of the unitary model $M(p-1,p)$. By taking
+appropriate limits of these parameters, they were able to obtain the characters
+of model $M(p,p+1)$, $N=1$ model $SM(p,p+2)$, and the unitary $N=2$ model with
+central charge $c=3(1-{\frac{2}{p}})$. In this letter we computed the effective
+central charge associated with this `generalized' character formula using a
+saddle point method. The result is a simple expression in dilogarithms which
+interpolates between the central charges of these unitary models.
+\\

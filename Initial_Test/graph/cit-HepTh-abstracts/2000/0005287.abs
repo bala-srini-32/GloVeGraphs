@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0005287
+From: Andrei Davydychev <davyd@thep.physik.uni-mainz.de>
+Date: Wed, 31 May 2000 21:20:29 GMT   (11kb)
+
+Title: Some remarks on the epsilon-expansion of dimensionally regulated Feynman
+  diagrams
+Authors: A.I. Davydychev and M.Yu. Kalmykov
+Comments: 6 pages, requires espcrc2.sty, contribution to the Zeuthen Workshop
+  "Loops and Legs in Gauge Theories" (Bastei, Germany, April 2000)
+Report-no: MZ-TH/00-22
+Subj-class: High Energy Physics - Theory; Mathematical Physics
+Journal-ref: Nucl.Phys.Proc.Suppl. 89 (2000) 283-288
+\\
+  Some problems related to construction of the epsilon-expansion of
+dimensionally regulated Feynman integrals are discussed. For certain classes of
+diagrams, an arbitrary term of the epsilon-expansion can be expressed in terms
+of log-sine integrals related to the polylogarithms. It is shown how the
+analytic continuation of these functions can be constructed in terms of the
+generalized Nielsen polylogarithms.
+\\

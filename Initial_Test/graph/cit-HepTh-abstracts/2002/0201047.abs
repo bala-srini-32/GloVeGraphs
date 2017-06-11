@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0201047
+From: Jose Francisco Gomes <jfg@ift.unesp.br>
+Date: Tue, 8 Jan 2002 15:26:16 GMT   (42kb)
+Date (revised v2): Wed, 16 Jan 2002 12:17:30 GMT   (42kb)
+Date (revised v3): Tue, 2 Apr 2002 13:55:50 GMT   (47kb)
+
+Title: Multicharged Dyonic Integrable Models
+Authors: I. Cabrera-Carnero, J.F. Gomes, G.M. Sotkov and A.H. Zimerman
+Comments: 48pages, latex, v2. typos in eqns. (1.7) and (3.20) corrected, small
+  improvements in subsection 2.2, new reference added;v3. improvements in text
+  of Sect. 1,2 and 6; new Sect 7 and new refs. added; version to appear in
+  Nucl. Phys. B
+Subj-class: High Energy Physics - Theory; Exactly Solvable and Integrable
+  Systems
+Journal-ref: Nucl.Phys. B634 (2002) 433-482
+\\
+  We introduce and study new integrable models of A_n^{(1)}-Non-Abelian Toda
+type which admit U(1)\otimes U(1) charged topological solitons. They correspond
+to the symmetry breaking SU(n+1) \to SU(2)\otimes SU(2)\otimes U(1)^{n-2} and
+are conjectured to describe charged dyonic domain walls of N=1 SU(n+1) SUSY
+gauge theory in large n limit.
+  It is shown that this family of relativistic IMs corresponds to the first
+negative grade q={-1} member of a dyonic hierarchy of generalized cKP type. The
+explicit relation between the 1-soliton solutions (and the conserved charges as
+well) of the IMs of grades q=-1 and q=2 is found. The properties of the IMs
+corresponding to more general symmetry breaking SU(n+1) \to SU(2)^{\otimes
+p}\otimes U(1)^{n-p} as well as IM with global SU(2) symmetries are discussed.
+\\

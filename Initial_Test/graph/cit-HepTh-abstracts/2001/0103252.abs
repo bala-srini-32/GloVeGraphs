@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0103252
+From: Andreas Fring <fring@physik.fu-berlin.de>
+Date: Thu, 29 Mar 2001 16:42:00 GMT   (514kb)
+Date (revised v2): Mon, 9 Apr 2001 13:03:48 GMT   (514kb)
+
+Title: Constructing Infinite Particle Spectra
+Authors: O.A. Castro-Alvaredo and A. Fring
+Comments: 7 pages Latex, 7 figures (typo in figure 3 corrected)
+Journal-ref: Phys.Rev. D64 (2001) 085005
+\\
+  We propose a general construction principle which allows to include an
+infinite number of resonance states into a scattering matrix of hyperbolic
+type. As a concrete realization of this mechanism we provide new S-matrices
+generalizing a class of hyperbolic ones, which are related to a pair of simple
+Lie algebras, to the elliptic case. For specific choices of the algebras we
+propose elliptic generalizations of affine Toda field theories and the
+homogeneous sine-Gordon models. For the generalization of the sinh-Gordon model
+we compute explicitly renormalization group scaling functions by means of the
+c-theorem and the thermodynamic Bethe ansatz. In particular we identify the
+Virasoro central charges of the corresponding ultraviolet conformal field
+theories.
+\\

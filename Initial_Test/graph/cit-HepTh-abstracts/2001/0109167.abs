@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0109167
+From: Ruben Costa-Santos <rcostas@grad.physics.sunysb.edu>
+Date: Fri, 21 Sep 2001 05:34:54 GMT   (78kb)
+Date (revised v2): Thu, 11 Oct 2001 18:59:08 GMT   (82kb)
+
+Title: Dimers and the Critical Ising Model on Lattices of genus>1
+Authors: Ruben Costa-Santos, Barry M. McCoy
+Comments: 44 pages, eps figures included; typos corrected, figure and comments
+  added to section 5
+Journal-ref: Nucl.Phys. B623 (2002) 439-473
+\\
+  We study the partition function of both Close-Packed Dimers and the Critical
+Ising Model on a square lattice embedded on a genus two surface. Using
+numerical and analytical methods we show that the determinants of the Kasteleyn
+adjacency matrices have a dependence on the boundary conditions that, for large
+lattice size, can be expressed in terms of genus two theta functions. The
+period matrix characterizing the continuum limit of the lattice is computed
+using a discrete holomorphic structure. These results relate in a direct way
+the lattice combinatorics with conformal field theory, providing new insight to
+the lattice regularization of conformal field theories on higher genus Riemann
+Surfaces.
+\\

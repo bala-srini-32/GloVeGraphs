@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9510159
+From: Noureddine Hambli <hambli@hep.physics.mcgill.ca>
+Date: Sat, 21 Oct 95 16:00:46 -0400   (14kb)
+Date (revised): Tue, 24 Oct 1995 17:25:21 -0400 (EDT)
+
+Title: Hawking Radiation and Ultraviolet Regulators
+Authors: N. Hambli and C. P. Burgess
+Comments: Tex, 11 pages, no figures, new references added
+Report-no: McGill-95/50
+Journal-ref: Phys.Rev. D53 (1996) 5717-5722
+\\
+  Polchinski has argued that the prediction of Hawking radiation must be
+independent of the details of unknown high-energy physics because the
+calculation may be performed using `nice slices', for which the adiabatic
+theorem may be used. If this is so, then any calculation using a manifestly
+covariant --- and so slice-independent --- ultraviolet regularization must
+reproduce the standard Hawking result. We investigate the dependence of the
+Hawking radiation on such a short-distance regulator by calculating it using a
+Pauli--Villars regularization scheme. We find that the regulator scale,
+$\Lambda$, only contributes to the Hawking flux by an amount that is
+exponentially small in the large variable ${\Lambda}/{T_\ssh} \gg 1$, where
+$T_\ssh$ is the Hawking temperature; in agreement with Polchinski's arguments.
+We also solve a technical puzzle concerning the relation between the
+short-distance singularities of the propagator and the Hawking effect.
+\\

@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0001063
+From: Yuji Satoh <ysatoh@het.ph.tsukuba.ac.jp>
+Date: Tue, 11 Jan 2000 15:09:48 GMT   (13kb)
+Date (revised v2): Fri, 21 Jan 2000 13:19:36 GMT   (13kb)
+Date (revised v3): Tue, 20 Jun 2000 07:24:25 GMT   (14kb)
+
+Title: Modular invariance of string theory on AdS_3
+Authors: Akishi Kato and Yuji Satoh
+Comments: 12 pages, no figures, latex; v2: a reference added, minor
+  corrections; v3: some changes in presentation, version to appear in Phys.
+  Lett. B
+Report-no: UTMS 2000-4, UTHEP-416
+Journal-ref: Phys.Lett. B486 (2000) 306-313
+\\
+  We discuss the modular invariance of the SL(2,R) WZW model. In particular, we
+discuss in detail the modular invariants using the \hat{sl}(2,R) characters
+based on the discrete unitary series of the SL(2,R) representations. The
+explicit forms of the corresponding characters are known when no singular
+vectors appear. We show, for example, that from such characters modular
+invariants can be obtained only when the level k < 2 and infinitely large spins
+are included. In fact, we give a modular invariant with three variables
+Z(z,\tau, u) in this case. We also argue that the discrete series characters
+are not sufficient to construct a modular invariant compatible with the
+unitarity bound, which was proposed to resolve the ghost problem of the SL(2,R)
+strings.
+\\

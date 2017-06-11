@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0202020
+From: yuichi <hoshino@ippan.kushiro-ct.ac.jp>
+Date: Mon, 4 Feb 2002 08:53:01 GMT   (13kb)
+Date (revised v2): Thu, 7 Feb 2002 13:15:39 GMT   (13kb)
+Date (revised v3): Sat, 9 Mar 2002 11:37:25 GMT   (13kb)
+Date (revised v4): Fri, 29 Mar 2002 12:13:23 GMT   (14kb)
+Date (revised v5): Mon, 8 Apr 2002 15:47:31 GMT   (15kb)
+Date (revised v6): Tue, 23 Apr 2002 03:43:54 GMT   (14kb)
+Date (revised v7): Wed, 15 May 2002 10:15:53 GMT   (15kb)
+Date (revised v8): Wed, 29 May 2002 23:25:39 GMT   (15kb)
+
+Title: A gauge covariant approximation to QED
+Authors: Y.Hoshino
+Comments: 20pages Standard Latex, section 4 is modified
+\\
+  We examine the Dyson-Schwinger equation for the fermion propagator in
+quenched QED in three and four dimension based on spectral representation with
+vertex ansatz which preserves Ward-Takahashi Identity.An appropriate
+renormalization within dispersion integral smoothes the threshold behaviour of
+the fermion self energy in three dimension.Thus we avoid the infrared
+singurality in three dimension.The behaviour of the fermion propagator in three
+dimension near the threshold is then found to be similar to the four
+dimensional one.There exisit analytic solutions for arbitrary gauges and the
+full propagators are expressed in terms of hypergeometric function in four
+dimension.There is a possibility of dynamical chiral symmetry breaking in four
+dimension with vanishing bare mass.
+\\

@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9810003
+From: Christofer Cronstrom <christofer.cronstrom@helsinki.fi>
+Date: Thu, 1 Oct 1998 11:03:39 GMT   (12kb)
+Date (revised v2): Tue, 13 Oct 1998 13:27:13 GMT   (12kb)
+
+Title: Canonical structure of Yang-Mills theory
+Authors: Christofer Cronstrom
+Comments: 13 pages 1 sentence changed, 1 misprint corrected
+Report-no: HIP-1998-67/TH
+\\
+  I consider the problem of defining canonical coordinates and momenta in pure
+Yang-Mills theory, under the condition that Gauss' law is identically
+satisifed. This involves among other things particular boundary conditions for
+certain dependent variables. These boundary conditions are not postulated a
+priori, but arise as consistency conditions related to the equations of motion.
+It is shown that the theory indeed has a canonical structure, provided one uses
+a special gauge condition, which is a natural generalisation to Yang-Mills
+theory of the Coulomb gauge condition in electrodynamics. The canonical
+variables and Hamiltonian are explicitly constructed. Quantisation of the
+theory is briefly discussed.
+\\

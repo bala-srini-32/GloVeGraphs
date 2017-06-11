@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9603021
+From: esposito@axpna1.cern.ch
+Date: Tue, 5 Mar 1996 14:47:13 +0100   (14kb)
+Date (revised): Sat, 1 Jun 1996 11:42:19 +0200 (MET DST)
+
+Title: Boundary Operators in Euclidean Quantum Gravity
+Authors: Ivan G. Avramidi, Giampiero Esposito and Alexander Yu. Kamenshchik
+Comments: 29 pages, plain-tex. In this revised version, the analysis of the
+  self-adjointness problem with Barvinsky boundary conditions has been amended.
+  For this purpose, section 4 has been completely revised, and a new section
+  has been added. The literature on the axial gauge is also described
+Report-no: DSF preprint 96/10
+Journal-ref: Class.Quant.Grav. 13 (1996) 2361-2374
+\\
+  Gauge-invariant boundary conditions in Euclidean quantum gravity can be
+obtained by setting to zero at the boundary the spatial components of metric
+perturbations, and a suitable class of gauge-averaging functionals. This paper
+shows that, on choosing the de Donder functional, the resulting boundary
+operator involves projection operators jointly with a nilpotent operator.
+Moreover, the elliptic operator acting on metric perturbations is symmetric.
+Other choices of mixed boundary conditions, for which the normal components of
+metric perturbations can be set to zero at the boundary, are then analyzed in
+detail. Last, the evaluation of the 1-loop divergence in the axial gauge for
+gravity is obtained. Interestingly, such a divergence turns out to coincide
+with the one resulting from transverse-traceless perturbations.
+\\

@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9507010
+From: G. Mussardo <mussardo@mersenne.sissa.it>
+Date: Mon, 3 Jul 95 20:04:46 METDST   (40kb)
+
+Title: The Spin-Spin Correlation Function in the Two-Dimensional Ising Model in
+  a Magnetic Field at $T=T_c$
+Authors: G. Delfino and G. Mussardo
+Comments: 53 pages, latex, 15 figures
+Report-no: OUTP-95-385, ISAS/EP/95/78
+Journal-ref: Nucl.Phys. B455 (1995) 724-758
+\\
+  The form factor bootstrap approach is used to compute the exact contributions
+in the large distance expansion of the correlation function $<\sigma(x)
+\sigma(0)>$ of the two-dimensional Ising model in a magnetic field at $T=T_c$.
+The matrix elements of the magnetization operator $\sigma(x)$ present a rich
+analytic structure induced by the (multi) scattering processes of the eight
+massive particles of the model. The spectral representation series has a fast
+rate of convergence and perfectly agrees with the numerical determination of
+the correlation function.
+\\

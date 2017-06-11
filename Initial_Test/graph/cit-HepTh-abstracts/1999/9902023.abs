@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9902023
+From: Konstantin G. Savvidy <ksavvidi@phoenix.princeton.edu>
+Date: Tue, 2 Feb 1999 19:10:24 GMT   (24kb)
+Date (revised v2): Thu, 4 Feb 1999 20:48:52 GMT   (24kb)
+Date (revised v3): Wed, 24 Feb 1999 20:08:42 GMT   (24kb)
+
+Title: Neumann Boundary Conditions from Born-Infeld Dynamics
+Authors: K. Savvidy, G. Savvidy
+Comments: Some typos, reference added. 9 pages, 2 figures, LaTex
+Report-no: PUPT-1835
+Journal-ref: Nucl.Phys. B561 (1999) 117-124
+\\
+  We show that certain excitations of the F-string/D3-brane system can be shown
+to obey Neumann boundary conditions by considering Born-Infeld dynamics of the
+F-string (viewed as a 3-brane cylindrically wrapped on an $S_2$). Excitations
+which are coming down the string with a polarization along a direction parallel
+to the brane are almost completely reflected just as in the case of all-normal
+excitations, but the end of the string moves freely on the 3-brane, thus
+realizing Polchinski's open string Neumann boundary condition dynamically. In
+the low energy limit w -> 0, i.e. for wavelengths much larger than the string
+scale only a small fraction ~w^4 of the energy escapes in the form of dipole
+radiation. The physical interpretation is that a string attached to the 3-brane
+manifests itself as an electric charge, and waves on the string cause the end
+point of the string to freely oscillate and therefore produce electromagnetic
+dipole radiation in the asymptotic outer region.
+\\

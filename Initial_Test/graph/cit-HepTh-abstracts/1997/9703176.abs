@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9703176
+From: MUKHERJEE@BINAH.CC.BRANDEIS.EDU
+Date: Tue, 25 Mar 1997 14:36:00 -0500 (EST)   (13kb)
+Date (revised): Fri, 04 Apr 1997 12:52:06 -0500 (EST)
+
+Title: A Note on the Picard-Fuchs Equations for N=2 Seiberg-Witten Theories
+Authors: J. M. Isidro, A. Mukherjee, J. P. Nunes and H. J. Schnitzer
+Comments: 25 pages, Latex; some new references added
+Report-no: BRX TH-407, BROWN-HET-1078, US-FT-10/97
+Journal-ref: Int.J.Mod.Phys. A13 (1998) 233-250
+\\
+  A concise presentation of the PF equations for N=2 Seiberg-Witten theories
+for the classical groups of rank r with N_f massless hypermultiplets in the
+fundamental representation is provided. For N_f=0, all r PF equations can be
+given in a generic form. For certain cases with N_f\neq zero, not all equations
+are generic. However, in all cases there are at least r-2 generic PF equations.
+For these cases the classical part of the equations is generic, while the
+quantum part can be formulated using a method described in a previous paper by
+the authors, which is well suited to symbolic computer calculations.
+\\

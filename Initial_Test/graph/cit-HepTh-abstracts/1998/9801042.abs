@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9801042
+From: verbaarschot@nuclear.physics.sunysb.edu
+Date: Thu, 8 Jan 1998 15:12:08 GMT   (8kb)
+Date (revised v2): Wed, 25 Feb 1998 19:27:44 GMT   (9kb)
+
+Title: Universality in Chiral Random Matrix Theory at $\beta =1$ and $\beta =4$
+Author: M.K. Sener and J.J.M. Verbaarschot
+Comments: 4 pages, modified discussion of edge contributions and corrected
+  typos
+Report-no: SUNY-NTG-98/5
+Journal-ref: Phys.Rev.Lett. 81 (1998) 248-251
+\\
+  In this paper the kernel for the spectral correlation functions of the
+invariant chiral random matrix ensembles with real ($\beta =1$) and quaternion
+real ($\beta = 4$) matrix elements is expressed in terms of the kernel of the
+corresponding complex Hermitean random matrix ensembles ($\beta=2$). Such
+identities are exact in case of a Gaussian probability distribution and, under
+certain smoothness assumptions, they are shown to be valid asymptotically for
+an arbitrary finite polynomial potential. They are proved by means of a
+construction proposed by Br\'ezin and Neuberger. Universal behavior at the hard
+edge of the spectrum for all three chiral ensembles then follows from
+microscopic universality for $\beta =2$ as shown by Akemann, Damgaard, Magnea
+and Nishigaki.
+\\

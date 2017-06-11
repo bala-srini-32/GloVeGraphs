@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0004068
+From: Clifford V. Johnson <c.v.johnson@durham.ac.uk>
+Date: Tue, 11 Apr 2000 22:58:29 GMT   (56kb)
+Date (revised v2): Fri, 14 Apr 2000 20:14:04 GMT   (58kb)
+Date (revised v3): Tue, 22 Aug 2000 23:33:14 GMT   (53kb)
+
+Title: Enhancons, Fuzzy Spheres and Multi-Monopoles
+Authors: Clifford V. Johnson
+Comments: 25 pages, latex, 3 primary figures, psfig (v2: Omission of references
+  to important early work on multi-monopoles is fixed. Note added on possible
+  relations to certain other recent work on large N, monopoles, and
+  non-commutativity. A few typos fixed.) (v3: Extensive revision. Statements
+  about role of Atiyah-Hitchin manifold and instanton corrections refined.
+  Speculation about location of Higgs zeros removed. Discussion improved in
+  many places.)
+Report-no: DTP/00/29
+Journal-ref: Phys.Rev. D63 (2001) 065004
+\\
+  We study the `enhancon', a spherical hypersurface apparently made of
+D-branes, which arises in string theory studies of large N SU(N) pure gauge
+theories with eight supercharges. When the gauge theory is 2+1 dimensional, the
+enhancon is an S^2. A relation to charge N BPS multi-monopoles is exploited to
+uncover many of its detailed properties. It is simply a spherical slice through
+an Atiyah-Hitchin-like submanifold of the charge $N$ BPS monopole moduli space.
+In the form of Nahm data, it is built from the N dimensional irreducible
+representation of SU(2). In this sense the enhancon is a non-commutative
+sphere, reminiscent of the spherical `dielectric' branes of Myers.
+\\

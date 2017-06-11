@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9805150
+From: Martin Stock <mstock@MIT.EDU>
+Date: Fri, 22 May 1998 19:37:48 GMT   (89kb)
+Date (revised v2): Tue, 23 Jun 1998 23:14:07 GMT   (197kb)
+
+Title: Unambiguous one-loop quantum energies of 1+1 dimensional bosonic field
+  configurations
+Authors: N Graham and RL Jaffe
+Comments: Email correspondence to graham@mitlns.mit.edu ; 10 pages, 2 figures,
+  REVTeX, BoxedEPS Fixed description of level crossing as a function of $x_0$
+Report-no: MIT-CTP-2744
+Journal-ref: Phys.Lett. B435 (1998) 145-151
+\\
+  We calculate one-loop quantum energies in a renormalizable self-interacting
+theory in one spatial dimension by summing the zero-point energies of small
+oscillations around a classical field configuration, which need not be a
+solution of the classical field equations. We unambiguously implement standard
+perturbative renormalization using phase shifts and the Born approximation. We
+illustrate our method by calculating the quantum energy of a
+soliton/antisoliton pair as a function of their separation. This energy
+includes an imaginary part that gives a quantum decay rate and is associated
+with a level crossing in the solutions to the classical field equation in the
+presence of the source that maintains the soliton/antisoliton pair.
+\\

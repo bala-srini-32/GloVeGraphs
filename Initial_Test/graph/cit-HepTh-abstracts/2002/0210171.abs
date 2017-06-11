@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0210171
+From: Luca Martucci <luca.martucci@mi.infn.it>
+Date: Thu, 17 Oct 2002 18:30:38 GMT   (26kb)
+Date (revised v2): Wed, 30 Oct 2002 17:33:29 GMT   (26kb)
+
+Title: Noncommutative Electrodynamics
+Authors: G.Berrino, S.L.Cacciatori, A.Celi, L.Martucci and A.Vicini
+Comments: 13 pages, 2 figures, one reference added
+\\
+  In this paper we define a causal Lorentz covariant noncommutative (NC)
+classical Electrodynamics. We obtain an explicit realization of the NC theory
+by solving perturbatively the Seiberg-Witten map. The action is polynomial in
+the field strenght $F$, allowing to preserve both causality and Lorentz
+covariance. The general structure of the Lagrangian is studied, to all orders
+in the perturbative expansion in the NC parameter $\theta$. We show that
+monochromatic plane waves are solutions of the equations of motion to all
+orders. An iterative method has been developed to solve the equations of motion
+and has been applied to the study of the corrections to the superposition law
+and to the Coulomb law.
+\\

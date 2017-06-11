@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9606105
+From: Michael Duetsch <duetsch@sonne.physik.unizh.ch>
+Date: Tue, 18 Jun 96 9:52:33 MET DST   (28kb)
+
+Title: Slavnov-Taylor Identities from the Causal Point of View
+Author: Michael Duetsch (e-mail: duetsch@physik.unizh.ch)
+Comments: 29 pages. The paper is written in TEX. The necessary macros are
+  included. The figures are not done by computer, they can be ordered at the
+  authors address
+Report-no: Preprint ZU-TH-30/95
+Journal-ref: Int.J.Mod.Phys. A12 (1997) 3205-3248
+\\
+  We continue the investigation of quantized Yang-Mills theories coupled to
+matter fields in the framework of causal perturbation theory which goes back to
+Epstein and Glaser. In this approach gauge invariance is expressed by a simple
+commutator relation for the S-matrix and the corresponding gauge
+transformations are simple transformations of the free fields only. In spite of
+this simplicity, gauge invariance implies the usual Slavnov-Taylor identities.
+The main purpose of this paper is to prove the latter statement. Since the
+Slavnov-Taylor identities are formulated in terms of Green's functions, we
+investigate the agreement of two perturbative definitions of Green's functions,
+namely of Epstein and Glaser's definition with the Gell-Mann Low series.
+\\

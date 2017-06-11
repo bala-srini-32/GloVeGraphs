@@ -1,0 +1,19 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9701124
+From: Uwe Mueller <umueller@ifh.de>
+Date: Thu, 23 Jan 1997 22:41:50 +0100   (49kb)
+Date (revised): Thu, 6 Feb 1997 00:08:58 +0100
+
+Title: Basis Invariants in Non--Abelian Gauge Theories
+Author: Uwe M\"uller
+Comments: 21 pages, 2 figures, 15 tables; LaTeX, uses epsfig; figure in Table 5
+  and typo in Table 8 corrected
+Report-no: DESY 96-154
+\\
+  A basis of Lorentz and gauge-invariant monomials in non--Abelian gauge
+theories with matter is described, applicable for the inverse mass expansion of
+effective actions. An algorithm to convert an arbitrarily given invariant
+expression into a linear combination of the basis elements is presented. The
+linear independence of the basis invariants is proven.
+\\

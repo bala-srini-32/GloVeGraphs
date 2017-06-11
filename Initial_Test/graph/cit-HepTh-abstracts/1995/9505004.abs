@@ -1,0 +1,19 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9505004
+From: David Kutasov <kutasov@yukawa.uchicago.edu>
+Date: Mon, 1 May 1995 10:08:19 -0500   (9kb)
+
+Title: On Duality in Supersymmetric Yang-Mills Theory
+Authors: D. Kutasov and A. Schwimmer
+Comments: 11 pages, harvmac
+Report-no: EFI-95-11, WIS/4/95
+Journal-ref: Phys.Lett. B354 (1995) 315-321
+\\
+  We discuss non-abelian $SU(N_c)$ gauge theory coupled to an adjoint chiral
+superfield $X$, and a number of fundamental chiral superfields $Q^i$. Using
+duality, we show that turning on a superpotential $W(X)=\Tr\sum_{l=1}^k g_l
+X^{l+1}$ leads to non-trivial long distance dynamics, a large number of
+multicritical IR fixed points and vacua, connected to each other by varying the
+coefficients $g_l$.
+\\

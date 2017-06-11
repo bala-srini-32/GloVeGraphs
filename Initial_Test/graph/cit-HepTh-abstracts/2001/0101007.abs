@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0101007
+From: Klaus Behrndt <behrndt@physik.hu-berlin.de>
+Date: Mon, 1 Jan 2001 14:52:14 GMT   (13kb)
+Date (revised v2): Wed, 17 Jan 2001 15:15:00 GMT   (13kb)
+Date (revised v3): Thu, 1 Mar 2001 23:58:21 GMT   (11kb)
+Date (revised v4): Thu, 28 Jun 2001 14:38:50 GMT   (11kb)
+
+Title: Gauging of N=2 Supergravity Hypermultiplet and Novel Renormalization
+  Group Flows
+Authors: Klaus Behrndt,Mirjam Cvetic
+Comments: 11 pages, Latex, corrected flow in section 3, final version to appear
+  in Nucl.Phys.B
+Journal-ref: Nucl.Phys. B609 (2001) 183-192
+\\
+  We provide the explicit gauging of all the SU(2,1) isometries of one N=2
+supergravity hypermultiplet, which spans SU(2,1)/U(2) coset space parameterized
+in terms of two complex projective coordinate fields z_1 and z_2. We derive the
+full, explicit Killing prepotential that specifies the most general
+superpotential. As an application we consider the supersymmetric flow
+(renormalization group) equations for: (i) the flow from a null singularity to
+the flat, supersymmetric space-time and (ii) the flow that violates c-theorem
+with the superpotential crossing zero.
+\\

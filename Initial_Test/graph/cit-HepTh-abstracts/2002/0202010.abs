@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0202010
+From: Paolo Carta <paolo.carta@ca.infn.it>
+Date: Fri, 1 Feb 2002 17:31:30 GMT   (13kb)
+Date (revised v2): Tue, 19 Mar 2002 08:43:49 GMT   (13kb)
+
+Title: Quantum dilaton gravity as a linear dilaton conformal field theory
+Authors: M. Cadoni, P. Carta, S. Mignemi
+Comments: 7 pages, RevTeX4 file. v2: some comments and one reference added
+Report-no: INFNCA-TH0201
+Journal-ref: Phys.Rev. D65 (2002) 104024
+\\
+  A model of matter-coupled gravity in two dimensions is quantized. The crucial
+requirement for performing the quantization is the vanishing of the conformal
+anomaly, which is achieved by tuning a parameter in the interaction potential.
+The spectrum of the theory is determined by mapping the model first onto a
+field theory with a Liouville interaction, then onto a linear dilaton conformal
+field theory. In absence of matter fields a pure gauge theory with massless
+ground state is found; otherwise it is possible to minimally couple up to 11
+matter scalar fields: in this case the ground state is tachyonic and the matter
+sector decouples, like the transverse oscillators in the critical bosonic
+string.
+\\

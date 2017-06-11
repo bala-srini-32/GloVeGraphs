@@ -1,0 +1,32 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9801175
+From: Chien-hao Liu <chienliu@fireant.ma.utexas.edu>
+Date: Tue, 27 Jan 1998 21:50:25 GMT   (98kb)
+Date (revised v2): Fri, 18 Dec 1998 16:27:19 GMT   (112kb)
+
+Title: On extremal transitions of Calabi-Yau threefolds and the singularity of
+  the associated 7-space from rolling
+Author: Volker Braun and Chien-Hao Liu (U.T. Austin)
+Comments: 38 pages, 7 Postscript figures. A computer code by V.B. is added and
+  used to check and select possible local admissible pairs of extremal
+  transitions in the previous version by C.-H.L
+Subj-class: High Energy Physics - Theory; Algebraic Geometry; Algebraic
+  Topology
+\\
+  M-theory compactification leads one to consider 7-manifolds obtained by
+rolling Calabi-Yau threefolds in the web of Calabi-Yau moduli spaces. The
+resulting 7-space in general has singularities governed by the extremal
+transition undergone. After providing some background in Sec. 1, the simplest
+case of conifold transitions is studied in Sec. 2. In Sec. 3 we employ
+topological methods, Smale's classification theorem of smooth simply-connected
+spin closed 5-manifolds, and a computer code in the Appendix to understand the
+5-manifolds that appear as the link of the singularity of a singuler Calabi-Yau
+threefolds from a Type II primitive contraction of a smooth one.
+  From this we obtain many locally admissible extremal transition pairs of
+Calabi-Yau threefolds, listed in Sec. 4. Their global realization will require
+further study. As a mathematical byproduct in the pursuit of the subject, we
+obtain a formula to compute the topology of the boundary of the tubular
+neighborhood of a Gorenstein rational singular del Pezzo surface embedded in a
+smooth Calabi-Yau threefold as a divisor.
+\\

@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9602007
+From: Dr R Szabo <r.szabo1@physics.oxford.ac.uk>
+Date: Thu, 1 Feb 96 16:01:09 GMT   (14kb)
+Date (revised): Mon, 4 Mar 96 15:47:24 GMT
+
+Title: Polymer Statistics and Fermionic Vector Models
+Authors: Gordon W. Semenoff and Richard J. Szabo
+Comments: 13 pages LaTeX, run twice. Minor technical details corrected (mainly
+  in combinatorics for Feynman graphs) and clarifying comments added;
+  additional reference included
+Report-no: UBC/S-96/1, OUTP-96-04P
+Journal-ref: Mod.Phys.Lett. A11 (1996) 1185-1198
+\\
+  We consider a variation of $O(N)$-symmetric vector models in which the vector
+components are Grassmann numbers. We show that these theories generate the same
+sort of random polymer models as the $O(N)$ vector models and that they lie in
+the same universality class in the large-$N$ limit. We explicitly construct the
+double-scaling limit of the theory and show that the genus expansion is an
+alternating Borel summable series that otherwise coincides with the topological
+expansion of the bosonic models. We also show how the fermionic nature of these
+models leads to an explicit solution even at finite-$N$ for the generating
+functions of the number of random polymer configurations.
+\\

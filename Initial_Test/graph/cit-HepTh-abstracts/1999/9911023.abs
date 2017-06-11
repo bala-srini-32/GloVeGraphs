@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9911023
+From: Ivan K. Kostov <kostov@spht.saclay.cea.fr>
+Date: Thu, 4 Nov 1999 23:20:51 GMT   (31kb)
+Date (revised v2): Fri, 10 Dec 1999 16:13:53 GMT   (32kb)
+Date (revised v3): Sun, 12 Dec 1999 21:02:25 GMT   (32kb)
+
+Title: Exact Solution of the Six-Vertex Model on a Random Lattice
+Authors: Ivan Kostov
+Comments: 25 pages, TeX, harvmac, 5 fugures, minor corrections
+Report-no: SPhT/t99/130
+Subj-class: High Energy Physics - Theory; Statistical Mechanics
+Journal-ref: Nucl.Phys. B575 (2000) 513-534
+\\
+  We solve exactly the 6-vertex model on a dynamical random lattice, using its
+representation as a large N matrix model. The model describes a gas of dense
+nonintersecting oriented loops coupled to the local curvature defects on the
+lattice. The model can be mapped to the c=1 string theory, compactified at some
+length depending on the vertex coupling. We give explicit expression for the
+disk amplitude and evaluate the fractal dimension of its boundary, the average
+number of loops and the dimensions of the vortex operators, which vary
+continuously with the vertex coupling.
+\\

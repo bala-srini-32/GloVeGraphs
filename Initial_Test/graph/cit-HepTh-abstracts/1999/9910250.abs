@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9910250
+From: Matthew J. Strassler <strasslr@ias.edu>
+Date: Fri, 29 Oct 1999 21:44:34 GMT   (13kb)
+Date (revised v2): Mon, 1 Nov 1999 00:08:41 GMT   (13kb)
+Date (revised v3): Thu, 30 Mar 2000 15:20:29 GMT   (13kb)
+
+Title: On Inherited Duality in N=1 d=4 Supersymmetric Gauge Theories
+Authors: Philip C. Argyres (Cornell, ITP Santa Barbara), Ken Intriligator (UC
+  San Diego, Inst. for Adv. Study), Robert G. Leigh (Illinois), Matthew J.
+  Strassler (Inst. for Adv. Study)
+Comments: 11 pages, LaTeX; v2 (v3) has minor changes in wording (references)
+Report-no: RU-96-109, IAS-TH-96/124, ILL-(TH)-96-16, CLNS-99/1642,
+  NSF-ITP-99-126, UCSD/PTH 99-16
+Journal-ref: JHEP 0004 (2000) 029
+\\
+  Four-dimensional N=1 supersymmetric gauge theories with two adjoints and a
+quartic superpotential are believed, from AdS/CFT duality, to have SL(2,Z)
+invariance. In this note we review an old, unpublished argument for this
+property, based solely on field theory. The technique involves a complexified
+flavor rotation which deforms an N=2 supersymmetric gauge theory with matter to
+an N=1 theory, leaving all holomorphic invariants unchanged. We apply this to
+the N=1 gauge theory with two massless adjoints and show that it has the same
+auxiliary torus as that of N=4 gauge theory, from which SL(2,Z) invariance
+follows. In an appendix, we check that our arguments are consistent with
+earlier work on the SU(2) case. Our technique is general and applies to many
+other N=1 theories.
+\\

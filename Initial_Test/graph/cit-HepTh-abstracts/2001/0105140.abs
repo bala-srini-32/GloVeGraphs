@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0105140
+From: MAROAN@ccvax.sinica.edu.tw
+Date: Tue, 15 May 2001 05:37:03 GMT   (29kb)
+Date (revised v2): Fri, 30 Aug 2002 03:19:19 GMT   (29kb)
+
+Title: Baxter's T-Q Relation and Bethe Ansatz of Discrete Quantum Pendulum and
+  Sine-Gordon Model
+Authors: Shao-shiung Lin, Shi-shyr Roan
+Comments: 27 pages, Latex; Some reorganizations and improvement of
+  presentations, and other minor changes
+Subj-class: High Energy Physics - Theory; Mathematical Physics; Algebraic
+  Geometry; Exactly Solvable and Integrable Systems; Statistical Mechanics
+\\
+  Using the Baxter's T-Q relation derived from the transfer matrix technique,
+we consider the diagonalization problem of discrete quantum pendulum and
+discrete quantum sine-Gordon Hamiltonian from the algebraic geometry aspect.
+For a finite chain system of the size L, when the spectral curve degenerates
+into rational curves, we have reduced Baxter's T-Q relation into a polynomial
+equation; the connection of T-Q polynomial equation with the algebraic Bethe
+Ansatz is clearly established . In particular, for L=4 it is the case of
+rational spectral curves for the discrete quantum pendulum and discrete
+sine-Gordon model. To these Baxter's T-Q polynomial equations, we have obtained
+the complete and explicit solutions with a detailed understanding of their
+quantitative and qualitative structure. In general the model possesses a
+spectral curve with a generic parameter. We have conducted certain qualitative
+study on the algebraic geometry of this high-genus Riemann surface
+incorporating Baxter's T-Q relation.
+\\

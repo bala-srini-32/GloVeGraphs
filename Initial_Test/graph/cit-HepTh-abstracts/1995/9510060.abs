@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9510060
+From: Max welling <M.Welling@fys.ruu.nl>
+Date: Tue, 10 Oct 1995 22:30:45 +0100 (GMT+0100)   (30kb)
+
+Title: Gravity in 2+1 dimensions as a Riemann-Hilbert problem
+Author: Max Welling (Institute of Theoretical Physics Utrecht)
+Comments: 32 pages Latex, 4 figures (uuencoded)
+Report-no: THU95/24
+Journal-ref: Class.Quant.Grav. 13 (1996) 653-680
+\\
+  In this paper we consider 2+1-dimensional gravity coupled to N
+point-particles. We introduce a gauge in which the $z$- and
+$\bar{z}$-components of the dreibein field become holomorphic and
+anti-holomorphic respectively. As a result we can restrict ourselves to the
+complex plane. Next we show that solving the dreibein-field: $e^a_z(z)$ is
+equivalent to solving the Riemann-Hilbert problem for the group $SO(2,1)$. We
+give the explicit solution for 2 particles in terms of hypergeometric
+functions. In the N-particle case we give a representation in terms of
+conformal field theory. The dreibeins are expressed as correlators of 2 free
+fermion fields and twistoperators at the position of the particles.
+\\

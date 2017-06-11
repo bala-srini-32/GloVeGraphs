@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9509084
+From: Vipul Periwal <vipul@puhep1.Princeton.EDU>
+Date: Thu, 14 Sep 1995 17:49:10 -0400   (6kb)
+Date (revised): Fri, 15 Sep 1995 11:15:54 -0400
+Date (revised): Mon, 18 Sep 1995 15:51:22 -0400
+Date (revised): Tue, 26 Sep 1995 20:08:38 -0400
+
+Title: Infrared regularization of non-Abelian gauge theories
+Author: Vipul Periwal
+Comments: Plain TeX, 6 pages. Comment added to emphasize that the screening
+  equation is in terms of bare parameters
+Report-no: PUPT-1562
+\\
+  Curci and Ferrari found a unique BRS-invariant action for non-Abelian gauge
+theories which includes a mass term for the gauge bosons. I analyze this
+action. While the BRS operator is not nilpotent, the Zinn-Justin equation
+generalizes in a simple way so that the renormalization of the theory is
+consistent with the infrared regularization provided by the mass---infrared
+singularities and ultraviolet infinities are therefore clearly separated.
+Relations between renormalization constants are derived in dimensional
+regularization with minimal subtraction. Additional new symmetries allow a
+simple characterization of physical operators. A new formula is given for the
+gauge parameter dependence of physical operators.
+\\

@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0109198
+From: Kirill Krasnov <krasnov@cosmic.physics.ucsb.edu>
+Date: Tue, 25 Sep 2001 16:54:52 GMT   (32kb)
+Date (revised v2): Thu, 27 Sep 2001 20:36:31 GMT   (32kb)
+Date (revised v3): Sat, 22 Feb 2003 17:29:15 GMT   (33kb)
+
+Title: On Holomorphic Factorization in Asymptotically AdS 3D Gravity
+Authors: Kirill Krasnov (AEI)
+Comments: 32+1 pages, no figures; (v2) one reference added, a statement
+  regarding priorities modified; (v3) presentational changes, an important sign
+  mistake corrected
+\\
+  This paper studies aspects of ``holography'' for Euclidean signature pure
+gravity on asymptotically AdS 3-manifolds. This theory can be described as
+SL(2,C) CS theory. However, not all configurations of CS theory correspond to
+asymptotically AdS 3-manifolds. We show that configurations that do have the
+metric interpretation are parameterized by the so-called projective structures
+on the boundary. The corresponding asymptotic phase space is shown to be the
+cotangent bundle over the Schottky space of the boundary. This singles out a
+``gravitational'' sector of the SL(2,C) CS theory. It is over this sector that
+the path integral has to be taken to obtain the gravity partition function. We
+sketch an argument for holomorphic factorization of this partition function.
+\\

@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9510184
+From: Serguei Isakov <serguei@shs.no>
+Date: Wed, 25 Oct 1995 11:28:41 +0100   (19kb)
+
+Title: Algebra of one-particle operators for the Calogero model
+Authors: Serguei B. Isakov and Jon Magne Leinaas (Centre for Advanced Study,
+  Oslo)
+Comments: 23 pages, LaTeX
+Report-no: SHS-95-1
+Journal-ref: Nucl.Phys. B463 (1996) 194-214
+\\
+  An algebra ${\cal G}$ of symmetric {\em one-particle} operators is
+constructed for the Calogero model. This is an infinite-dimensional
+Lie-algebra, which is independent of the interaction parameter $\lambda$ of the
+model. It is constructed in terms of symmetric polynomials of raising and
+lowering operators which satisfy the commutation relations of the $S_N$-{\em
+extended} Heisenberg algebra. We interpret ${\cal G}$ as the algebra of
+observables for a system of identical particles on a line. The parameter
+$\lambda$, which characterizes (a class of) irreducible representations of the
+algebra, is interpreted as a statistics parameter for the identical particles.
+\\

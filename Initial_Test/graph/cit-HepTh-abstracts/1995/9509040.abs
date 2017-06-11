@@ -1,0 +1,33 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9509040
+From: SAIDI EL HASSANE <saidi@ictp.trieste.it>
+Date: Fri, 8 Sep 1995 12:02:51 +0200 (MET DST)   (31kb)
+
+Title: On the N=2 U(1) supercovariant Lax formalism and WA(n-1|n-1)^(1)
+  symmetries
+Author: E.H. Saidi
+Comments: 37 pages, ICTPTeX file, IC181
+\\
+  We introduce the concept of conformal spin gradation of the untwisted affine
+Lie superalgebra $\hat A(n-1| n-1)^{(1)}$ to study the $W\hat A (n-1|
+n-1)^{(1)}$ Miura transformation. We show that the essential of $\hat A(n-1|
+n-1)^{(1)}$ may be read from the conformal spin gradation of the canonical
+vector basis of the $SL(n| n)$ vector representation space $V_{2n}$ and a
+spectral parameter $\mu$. We give the generic formula of their conformal spin
+weights. Then, we set up the fundamentals of a manifestly $N=2 U(1)$ Lax
+formalism leading to a manifestly $N=2 W\hat A(n-1| n-1)^{(1)}$ Miura
+transformation. Its explicit form is obtained and is shown to have a similar
+structure as in the N=0 case. Both $N=0 W\hat A(n-1)^{(1)}$ and $N=2 W\hat
+A(n-1| n-1)^{(1)}$ Miura transformations involve $(n-1) N=0$ and N=2 conserved
+currents with integer conformal spins. The leading cases are discussed. Using
+the U(1) charge of the N=2 algebra, we develop also a new method of
+constructing N=2 superfield realizations of the N=2 higher spin supercurrents.
+Among other results, we find that in general there are three series of $(n-1)$
+higher conformal spin N=2 supercurrents. The usual N=2 super $W$ currents are
+the only hermitian ones. At the $n=3$ level, we find a new Feigin Fuchs type
+extension of the conformal spin one N=2 supercurrent. Such a feature, which has
+no analogue at the $n=2$ level, is also present for $n>3$. Finally, we give the
+N=2 superfield formulation of the N=2 Boussinesq equation and its
+generalization involving complex N=2 supercurrents.
+\\

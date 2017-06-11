@@ -1,0 +1,33 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9804028
+From: Itzhak Bars <bars@physics1.usc.edu>
+Date: Fri, 3 Apr 1998 07:33:25 GMT   (15kb)
+Date (revised v2): Wed, 8 Apr 1998 13:43:30 GMT   (16kb)
+
+Title: Conformal Symmetry and Duality between Free Particle, H-atom and
+  Harmonic Oscillator
+Authors: Itzhak Bars
+Comments: Latex, 23 pages, minor improvements
+Report-no: USC-98/HEP-B2
+Subj-class: High Energy Physics - Theory; Mathematical Physics; Atomic Physics
+Journal-ref: Phys.Rev. D58 (1998) 066006
+\\
+  We establish a duality between the free massless relativistic particle in d
+dimensions, the non-relativistic hydrogen atom (1/r potential) in (d-1) space
+dimensions, and the harmonic oscillator in (d-2) space dimensions with its mass
+given as the lightcone momentum of an additional dimension. The duality is in
+the sense that the classical action of these systems are gauge fixed forms of
+the same worldline gauge theory action at the classical level, and they are all
+described by the same unitary representation of the conformal group SO(d,2) at
+the quantum level. The worldline action has a gauge symmetry Sp(2) which treats
+canonical variables (x,p) as doublets and exists only with a target spacetime
+that has d spacelike dimensions and two timelike dimensions. This spacetime is
+constrained due to the gauge symmetry, and the various dual solutions
+correspond to solutions of the constraints with different topologies. For
+example, for the H-atom the two timelike dimensions X^{0'},X^{0} live on a
+circle. The model provides an example of how realistic physics can be viewed as
+existing in a larger covariant space that includes two timelike coordinates,
+and how the covariance in the larger space unifies different looking physics
+into a single system.
+\\

@@ -1,0 +1,19 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9501120
+From: plefka@itp.uni-hannover.de (Jan Plefka)
+Date: Thu, 26 Jan 1995 12:43:57 +0100 (MET)   (16kb)
+
+Title: Iterative Solution of the Supereigenvalue Model
+Author: Jan C. Plefka
+Comments: 21 pages, LaTeX, no figures
+Report-no: ITP-UH-04-95
+Journal-ref: Nucl.Phys. B444 (1995) 333-352
+\\
+An integral form of the discrete superloop equations for the supereigenvalue
+model of Alvarez-Gaume, Itoyama, Manes and Zadra is given. By a change of
+variables from coupling constants to moments we find a compact form of the
+planar solution for general potentials. In this framework an iterative scheme
+for the calculation of higher genera contributions to the free energy and the
+multi-loop correlators is developed. We present explicit results for genus one.
+\\

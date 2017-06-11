@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9605084
+From: Shinji Hamamoto <hamamoto@sci1.sci.toyama-u.ac.jp>
+Date: Mon, 13 May 1996 14:41:41 +0900   (18kb)
+
+Title: Massless Limits of Massive Tensor Fields
+Author: Shinji Hamamoto (Toyama University)
+Comments: LaTeX, 15 pages, uses ptptex.sty and ptp-prep.sty
+Report-no: TOYAMA-90
+Journal-ref: Prog.Theor.Phys. 96 (1996) 639-652
+\\
+  In order to construct a massive tensor theory with a smooth massless limit,
+we apply two kinds of gauge-fixing procedures, Nakanishi's one and the BRS one,
+to two models of massive tensor field. The first is of the Fierz-Pauli (FP)
+type, which describes a pure massive tensor field; the other is of the
+additional-scalar-ghost (ASG) type, which includes a scalar ghost in addition
+to an ordinary tensor field. It is shown that Nakanishi's procedure can
+eliminate massless singularities in both two models, while the BRS procedure
+regularizes the ASG model only. The BRS-regularized ASG model is most promising
+in constructing a complete nonlinear theory.
+\\

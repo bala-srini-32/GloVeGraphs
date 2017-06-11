@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9903260
+From: kanno@math.sci.hiroshima-u.ac.jp (Hiroaki Kanno)
+Date: Wed, 31 Mar 1999 08:23:23 GMT   (12kb)
+Date (revised v2): Thu, 1 Apr 1999 06:04:33 GMT   (12kb)
+
+Title: A Note on Higher Dimensional Instantons and Supersymmetric Cycles
+Authors: H. Kanno
+Comments: 14 pages, latex, Talk presented at the workshop on Gauge Theory and
+  Integrable Models (YITP, Kyoto), January 26-29, 1999, the title corrected
+Journal-ref: Prog.Theor.Phys.Suppl. 135 (1999) 18-28
+\\
+  We discuss instantons in dimensions higher than four. A generalized self-dual
+or anti-self-dual instanton equation in n-dimensions can be defined in terms of
+a closed (n-4) form $\Omega$ and it was recently employed as a topological
+gauge fixing condition in higher dimensional generalizations of cohomological
+Yang-Mills theory. When $\Omega$ is a calibration which is naturally introduced
+on the manifold of special holomony, we argue that higher dimensional instanton
+may be locally characterized as a family of four dimensional instantons over a
+supersymmetric (n-4) cycle $\Sigma$ with respect to the calibration $\Omega$.
+This is an instanton configuration on the total space of the normal bundle
+$N(\Sigma)$ of the submanifold $\Sigma$ and regarded as a natural
+generalization of point-like instanton in four dimensions that plays a
+distinguished role in a compactification of instanton moduli space.
+\\

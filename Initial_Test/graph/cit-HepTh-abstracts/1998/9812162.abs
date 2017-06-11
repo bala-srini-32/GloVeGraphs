@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9812162
+From: Sebastian Jaimungal <jaimung@physics.ubc.ca>
+Date: Fri, 18 Dec 1998 22:17:27 GMT   (67kb)
+Date (revised v2): Wed, 6 Jan 1999 21:53:10 GMT   (67kb)
+
+Title: Topological Holography
+Authors: Viqar Husain and Sebastian Jaimungal (British Columbia U.)
+Comments: LaTeX 10 pages, 1 figure using epsfig, typo in eqn.(15) corrected
+Journal-ref: Phys.Rev. D60 (1999) 061501
+\\
+  We study a topological field theory in four dimensions on a manifold with
+boundary. A bulk-boundary interaction is introduced through a novel variational
+principle rather than explicitly. Through this scheme we find that the boundary
+values of the bulk fields act as external sources for the boundary theory.
+Furthermore, the full quantum states of the theory factorize into a single bulk
+state and an infinite number of boundary states labeled by loops on the spatial
+boundary. In this sense the theory is purely holographic. We show that this
+theory is dual to Chern-Simons theory with an external source. We also point
+out that the holographic hypothesis must be supplemented by additional
+assumptions in order to take into account bulk topological degrees freedom,
+since these are apriori invisible to local boundary fields.
+\\

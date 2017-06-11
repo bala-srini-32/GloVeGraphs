@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0208060
+From: Walter Goldberger <walter@thsrv.lbl.gov>
+Date: Thu, 8 Aug 2002 19:57:03 GMT   (26kb)
+Date (revised v2): Fri, 1 Nov 2002 22:35:53 GMT   (26kb)
+
+Title: Effective Field Theory and Unification in AdS Backgrounds
+Authors: Walter D. Goldberger and Ira Z. Rothstein
+Comments: LaTeX, 27 pages; minor corrections
+Report-no: UCB-PTH-02/39; LBNL-51486; CMUHEP-02-12
+\\
+  This work is an extension of our previous work, hep-th/0204160, which showed
+how to systematically calculate the high energy evolution of gauge couplings in
+compact AdS_5 backgrounds. We first directly compute the one-loop effects of
+massive charged scalar fields on the low energy couplings of a gauge theory
+propagating in the AdS background. It is found that scalar bulk mass scales
+(which generically are of order the Planck scale) enter only logarithmically in
+the corrections to the tree-level gauge couplings. As we pointed out
+previously, we show that the large logarithms that appear in the AdS one-loop
+calculation can be obtained within the confines of an effective field theory,
+by running the Planck brane correlator from a high UV matching scale down to
+the TeV scale. This result exactly reproduces our previous calculation, which
+was based on AdS/CFT duality. We also calculate the effects of scalar fields
+satisfying non-trivial boundary conditions (relevant for orbifold breaking of
+bulk symmetries) on the running of gauge couplings.
+\\

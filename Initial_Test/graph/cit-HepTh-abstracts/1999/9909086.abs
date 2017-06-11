@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9909086
+From: Patrick J. Sutton <psutton@phys.ualberta.ca>
+Date: Mon, 13 Sep 1999 21:21:30 GMT   (26kb)
+Date (revised v2): Wed, 22 Sep 1999 20:08:59 GMT   (26kb)
+Date (revised v3): Sat, 9 Oct 1999 21:17:21 GMT   (26kb)
+
+Title: The Dimensional-Reduction Anomaly
+Authors: V. Frolov, P. Sutton, and A. Zelnikov
+Comments: LaTeX, 28 pages, references added. To be published in Phys. Rev. D
+Report-no: Alberta-Thy-15-99
+Journal-ref: Phys.Rev. D61 (2000) 024021
+\\
+  In a wide class of D-dimensional spacetimes which are direct or semi-direct
+sums of a (D-n)-dimensional space and an n-dimensional homogeneous ``internal''
+space, a field can be decomposed into modes. As a result of this mode
+decomposition, the main objects which characterize the free quantum field, such
+as Green functions and heat kernels, can effectively be reduced to objects in a
+(D-n)-dimensional spacetime with an external dilaton field. We study the
+problem of the dimensional reduction of the effective action for such
+spacetimes. While before renormalization the original D-dimensional effective
+action can be presented as a ``sum over modes'' of (D-n)-dimensional effective
+actions, this property is violated after renormalization. We calculate the
+corresponding anomalous terms explicitly, illustrating the effect with some
+simple examples.
+\\

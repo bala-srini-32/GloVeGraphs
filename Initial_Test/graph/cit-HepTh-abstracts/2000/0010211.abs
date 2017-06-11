@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0010211
+From: Jean Alexandre <jalex@lattice.physics.mathphys.ntua.gr>
+Date: Tue, 24 Oct 2000 09:58:26 GMT   (23kb)
+Date (revised v2): Tue, 31 Oct 2000 16:40:35 GMT   (23kb)
+Date (revised v3): Thu, 9 Nov 2000 13:02:07 GMT   (23kb)
+Date (revised v4): Mon, 15 Jan 2001 12:46:46 GMT   (25kb)
+
+Title: Magnetic catalysis in QED_3 at finite temperature: beyond the constant
+  mass approximation
+Authors: J.Alexandre, K.Farakos, G.Koutsoumbas
+Comments: 21 pages, 10 figures, published version
+Subj-class: High Energy Physics - Theory; Superconductivity
+Journal-ref: Phys.Rev. D63 (2001) 065015
+\\
+  We solve the Schwinger-Dyson equations for (2+1)-dimensional QED in the
+presence of a strong external magnetic field. The calculation is done at finite
+temperature and the fermionic self energy is not supposed to be
+momentum-independent, which is the usual simplification in such calculations.
+The phase diagram in the temperature-magnetic field plane is determined. For
+intermediate magnetic fields the critical temperature turns out to have a
+square root dependence on the magnetic field, but for very strong magnetic
+fields it approaches a B-independent limiting value.
+\\

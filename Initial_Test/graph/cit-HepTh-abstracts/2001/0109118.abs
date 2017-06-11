@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0109118
+From: Carlos M. Naon <naon@venus.fisica.unlp.edu.ar>
+Date: Fri, 14 Sep 2001 15:16:01 GMT   (6kb)
+Date (revised v2): Fri, 21 Sep 2001 19:11:34 GMT   (12kb)
+
+Title: Conformal Gaussian Approximation
+Authors: An\'{\i}bal Iucci and Carlos Na\'on
+Comments: 9 pages, 1 figure, missing figure added, figure caption corrected
+Report-no: La Plata-Th-01-11
+Subj-class: High Energy Physics - Theory; Statistical Mechanics
+\\
+  We present an alternative way to determine the unknown parameter associated
+to a gaussian approximation in a generic two-dimensional model. Instead of the
+standard variational approach, we propose a procedure based on a quantitative
+prediction of conformal invariance, valid for systems in the scaling regime,
+away from criticality. We illustrate our idea by considering, as an example,
+the sine-Gordon model. Our method gives a good approximation for the soliton
+mass as function of $\beta$.
+\\

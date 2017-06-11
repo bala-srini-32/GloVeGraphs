@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9604045
+From: Achim Kempf <A.Kempf@damtp.cam.ac.uk>
+Date: Tue, 9 Apr 96 10:41:09 BST   (10kb)
+
+Title: Nonpointlike Particles in Harmonic Oscillators
+Author: Achim Kempf (DAMTP, Cambridge, U.K.)
+Comments: LaTeX, 9 pages, 1 figure included via epsf option
+Report-no: DAMTP/96-39
+Journal-ref: J.Phys. A30 (1997) 2093-2102
+\\
+  Quantum mechanics ordinarily describes particles as being pointlike, in the
+sense that the uncertainty $\Delta x$ can, in principle, be made arbitrarily
+small. It has been shown that suitable correction terms to the canonical
+commutation relations induce a finite lower bound to spatial localisation.
+Here, we perturbatively calculate the corrections to the energy levels of an in
+this sense nonpointlike particle in isotropic harmonic oscillators. Apart from
+a special case the degeneracy of the energy levels is removed.
+\\

@@ -1,0 +1,32 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9501102
+From: Arne-Lykke.Larsen@obspm.fr
+Date: Mon, 23 Jan 1995 15:28:39 +0002   (15kb)
+
+Title: The Effect of Spatial Curvature on the Classical and Quantum Strings
+Authors: A.L. Larsen (Obs. de Paris, DEMIRM), N. Sanchez (Obs. de Paris,
+  DEMIRM)
+Comments: 30 pages Latex + three tables and five figures (not included)
+Report-no: DEMIRM-Obs. de Paris-95004
+Journal-ref: Int.J.Mod.Phys. A11 (1996) 4005-4030
+\\
+We study the effects of the spatial curvature on the classical and quantum
+string dynamics. We find the general solution of the circular string motion in
+static Robertson-Walker spacetimes with closed or open sections. This is given
+closely and completely in terms of elliptic functions. The physical properties,
+string length, energy and pressure are computed and analyzed. We find the {\it
+back-reaction} effect of these strings on the spacetime: the self-consistent
+solution to the Einstein equations is a spatially closed $(K>0)$ spacetime with
+a selected value of the curvature index $K$ (the scale f* is normalized to
+unity). No self-consistent solutions with $K\leq 0$ exist. We semi-classically
+quantize the circular strings and find the mass $m$ in each case. For $K>0,$
+the very massive strings, oscillating on the full hypersphere, have $m^2\sim K
+n^2\;\;(n\in N_0)$ {\it independent} of $\alpha'$ and the level spacing {\it
+grows} with $n,$ while the strings oscillating on one hemisphere (without
+crossing the equator) have $m^2\alpha'\sim n$ and a {\it finite} number of
+states $N\sim 1/(K\alpha').$ For $K<0,$ there are infinitely many string states
+with masses $m\log m\sim n,$ that is, the level spacing grows {\it slower} than
+$n.$ The stationary string solutions as well as the generic string fluctuations
+around the center of mass are also found and analyzed in closed form.
+\\

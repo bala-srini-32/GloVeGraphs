@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0110161
+From: Uwe Trittmann <trittman@tick.mpi-hd.mpg.de>
+Date: Wed, 17 Oct 2001 20:51:11 GMT   (46kb)
+
+Title: Towards testing the Maldacena Conjecture with SDLCQ
+Authors: U. Trittmann
+Comments: 6pp., 2 figures, uses elsart.cls
+Journal-ref: Nucl.Phys.Proc.Suppl. 90 (2000) 252-255
+\\
+  We consider the Maldacena conjecture applied to the near horizon geometry of
+a D1-brane in the supergravity approximation and present numerical results of a
+test of the conjecture against the boundary field theory calculation using
+supersymmetric discrete light-cone quantization (SDLCQ). We present numerical
+results with approximately 1000 times as many states as we previously
+considered. These results support the Maldacena conjecture and are within
+10-15% of the predicted numerical results in some regions. Our results are
+still not sufficient to demonstrate convergence, and, therefore, cannot be
+considered to a numerical proof of the conjecture. We present a method for
+using a ``flavor'' symmetry to greatly reduce the size of the basis and discuss
+a numerical method that we use which is particularly well suited for this type
+of matrix element calculation.
+\\

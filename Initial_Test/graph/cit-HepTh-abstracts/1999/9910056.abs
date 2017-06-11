@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9910056
+From: Pierre Vanhove <P.Vanhove@damtp.cam.ac.uk>
+Date: Wed, 6 Oct 1999 21:17:29 GMT   (38kb)
+Date (revised v2): Mon, 1 Nov 1999 14:30:46 GMT   (38kb)
+
+Title: The low energy expansion of the one-loop type II superstring amplitude
+Authors: Michael B. Green and Pierre Vanhove (DAMTP, UK)
+Comments: harvmac (b), 25 pages, 3 eps figures. v2: Factors of 2 corrected.
+  Conclusion unchanged
+Report-no: DAMTP-99-124, CERN-TH/99-200, SPHT-T99/071
+Journal-ref: Phys.Rev. D61 (2000) 104011
+\\
+  The one-loop four-graviton amplitude in either of the type II superstring
+theories is expanded in powers of the external momenta up to and including
+terms of order s^4 log s R^4, where R^4 denotes a specific contraction of four
+linearized Weyl tensors and s is a Mandelstam invariant. Terms in this series
+are obtained by integrating powers of the two-dimensional scalar field theory
+propagator over the toroidal world-sheet as well as the moduli of the torus.
+The values of these coefficients match expectations based on duality relations
+between string theory and eleven-dimensional supergravity.
+\\

@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9804152
+From: Henning Samtleben <henning@aei-potsdam.mpg.de>
+Date: Thu, 23 Apr 1998 08:42:40 GMT   (34kb)
+Date (revised v2): Wed, 1 Jul 1998 14:00:46 GMT   (34kb)
+
+Title: Integrability and Canonical Structure of d=2, N=16 Supergravity
+Authors: H. Nicolai and H. Samtleben
+Comments: LaTeX2e, 28 pages, 1 figure, minor corrections, one reference ([42])
+  added, version to appear in Nuclear Physics B
+Report-no: AEI-061
+Journal-ref: Nucl.Phys. B533 (1998) 210-242
+\\
+  The canonical formulation of d=2, N=16 supergravity is presented. We work out
+the supersymmetry generators (including all higher order spinor terms) and the
+N=16 superconformal constraint algebra. We then describe the construction of
+the conserved non-local charges associated with the affine E_9 symmetry of the
+classical equations of motion. These charges are shown to commute weakly with
+the supersymmetry constraints, and hence with all other constraints. Under
+commutation, they close into a quadratic algebra of Yangian type, which is
+formally the same as that of the bosonic theory. The Lie-Poisson action of E_9
+on the classical solutions is exhibited explicitly. Further implications of our
+results are discussed.
+\\

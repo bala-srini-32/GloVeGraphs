@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0210013
+From: Dmitrij Shirkov <shirkovd@thsun1.jinr.ru>
+Date: Wed, 2 Oct 2002 09:18:52 GMT   (21kb)
+Date (revised v2): Sat, 14 Dec 2002 10:47:19 GMT   (36kb)
+Date (revised v3): Tue, 18 Feb 2003 15:59:10 GMT   (36kb)
+
+Title: On the Fourier transformation of Renormalization Invariant Coupling
+Authors: D.V. Shirkov
+Comments: LaTeX2e, 17 pages, 2 eps figures; The concluding Discussion is
+  updated with taking into account of few fresh references which has been added
+  to the reference list; no new results. To appear in Theor. Math. Phys
+Report-no: JINR preprint E2-2003-1
+\\
+  Integral transformations of the QCD invariant (running) coupling and of some
+related objects are discussed. Special attention is paid to the Fourier
+transformation, that is to transition from the space-time to the
+energy--momentum representation.
+  The conclusion is that the condition of possibility of such a transition
+provides us with one more argument against the real existence of unphysical
+singularities observed in the perturbative QCD.
+  The second conclusion relates to the way of "translation" of some singular
+long--range asymptotic behaviors to the infrared momentum region. Such a
+transition has to be performed with the due account of the Tauberian theorem.
+This comment relates to the recent ALPHA collaboration results on the
+asymptotic behavior of the QCD effective coupling obtained by lattice
+simulation.
+\\

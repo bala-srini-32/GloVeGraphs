@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9501028
+From: Anna Koubek <A.Koubek@amtp.cam.ac.uk>
+Date: Tue, 10 Jan 1995 13:58:16 GMT   (11kb)
+Date (revised): Mon, 16 Jan 1995 10:10:23 GMT
+Date (revised): Wed, 18 Jan 1995 14:00:17 GMT
+
+Title: A method to determine the operator content of perturbed conformal field
+  theories
+Author: Anni Koubek
+Comments: 12 pages. LaTeX. To appear in Phys. Lett. B.; error which caused the
+  truncation of the file by the mailer has been removed and this should be now
+  the COMPLETE paper.
+Report-no: DAMTP-94/89
+Journal-ref: Phys.Lett. B346 (1995) 275-283
+\\
+A method to determine the full structure of the space of local operators of
+massive integrable field theories, based on the form factor bootstrap approach
+is presented. This method is applied to the integrable perturbations of the
+Ising conformal point. It is found that the content of local operators can be
+expressed in terms of fermionic sum representations of the characters $\c(q)$
+of the Virasoro irreducible representations of the minimal model $\M_{3,4}$.
+The space of operators factorises into chiral components as $Z=\sum \c(q)
+\c(\q)$, but with the relation $\q=q^{-1}$.
+\\

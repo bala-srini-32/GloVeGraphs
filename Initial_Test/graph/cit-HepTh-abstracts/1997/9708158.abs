@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9708158
+From: "J.A. Briginshaw" <jab24@cus.cam.ac.uk>
+Date: Thu, 28 Aug 1997 20:10:05 +0100 (BST)   (32kb)
+
+Title: Effective action of quantum fields in the space-time of a cylindrically
+  symmetric spinning body
+Author: J.A. Briginshaw
+Comments: 45 pages LaTeX, 3 figures
+Report-no: DAMTP-97-92
+\\
+  The aim of this article is to calculate (to first order in $\hbar$) the
+renormalized effective action of a self interacting massive scalar field
+propagating in the space-time due to a cylindrically symmetric, rotating body.
+The vacuum (exterior space-time) contribution is model independent, we also
+consider the simplest case of a core (interior space-time) model, namely a
+cylindrical shell. The heat kernel of the system is calculated, and used to
+obtain an expression for the determinant of the Klein-Gordon operator on the
+space-time manifold. New ultra-violet poles are discovered, and regularization
+techniques are then employed to render finite the Klein-Gordon determinant and
+consequently extract the regularized one loop effective action for a self
+interacting scalar field theory. The coupling constants of the theory are then
+renormalized. As a test case a conical singularity with non-zero flux is also
+considered.
+\\

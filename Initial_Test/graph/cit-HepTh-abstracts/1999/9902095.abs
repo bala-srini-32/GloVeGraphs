@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9902095
+From: a.tseytlin@ic.ac.uk
+Date: Fri, 12 Feb 1999 22:54:19 GMT   (25kb)
+Date (revised v2): Mon, 22 Feb 1999 16:12:04 GMT   (25kb)
+Date (revised v3): Wed, 24 Feb 1999 10:59:34 GMT   (24kb)
+
+Title: Effective potential in non-supersymmetric SU(N) x SU(N) gauge theory and
+  interactions of type 0 D3-branes
+Authors: A.A. Tseytlin and K. Zarembo
+Comments: 14 pages, latex, v2: minor corrections, v3: a comment and references
+  added at the end of section 5
+Report-no: ITEP-TH-4/99, Imperial/TP/98-99/41
+Journal-ref: Phys.Lett. B457 (1999) 77-86
+\\
+  We study some aspects of short-distance interaction between parallel
+D3-branes in type 0 string theory as described by the corresponding
+world-volume gauge theory. We compute the one-loop effective potential in the
+non-supersymmetric SU(N) x SU(N) gauge theory (which is a Z_2 projection of the
+U(2N) n=4 SYM theory) representing dyonic branes composed of N electric and N
+magnetic D3-branes. The branes of the same type repel at short distances, but
+an electric and a magnetic brane attract, and the forces between self-dual
+branes cancel. The self-dual configuration (with the positions of the electric
+and the magnetic branes, i.e. the diagonal entries of the adjoint scalar
+fields, being the same) is stable against separation of one electric or one
+magnetic brane, but is unstable against certain modes of separation of several
+same-type branes. This instability should be suppressed in the large N limit,
+i.e. should be irrelevant for the large N CFT interpretation of the gauge
+theory suggested in hep-th/9901101.
+\\

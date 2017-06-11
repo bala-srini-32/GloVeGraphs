@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9901120
+From: Kanehisa Takasaki <takasaki@yukawa.kyoto-u.ac.jp>
+Date: Mon, 25 Jan 1999 11:40:40 GMT   (24kb)
+Date (revised v2): Thu, 28 Jan 1999 01:22:59 GMT   (24kb)
+
+Title: Whitham Deformations of Seiberg-Witten Curves for Classical Gauge Groups
+Authors: Kanehisa Takasaki
+Comments: latex, 39pp, no figure; some more comments and references on
+  integrable systems are added, and many typos are corrected
+Report-no: KUCP-0127
+Subj-class: High Energy Physics - Theory; Quantum Algebra; Exactly Solvable and
+  Integrable Systems
+Journal-ref: Int.J.Mod.Phys. A15 (2000) 3635-3666
+\\
+  Gorsky et al. presented an explicit construction of Whitham deformations of
+the Seiberg-Witten curve for the $SU(N+1)$ $\calN = 2$ SUSY Yang-Mills theory.
+We extend their result to all classical gauge groups and some other cases such
+as the spectral curve of the $A^{(2)}_{2N}$ affine Toda Toda system. Our
+construction, too, uses fractional powers of the superpotential $W(x)$ that
+characterizes the curve. We also consider the $u$-plane integral of
+topologically twisted theories on four-dimensional manifolds $X$ with
+$b_2^{+}(X) = 1$ in the language of these explicitly constructed Whitham
+deformations and an integrable hierarchy of the KdV type hidden behind.
+\\

@@ -1,0 +1,34 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0007199
+From: sreedhar@stp.dias.ie
+Date: Tue, 25 Jul 2000 15:57:29 GMT   (11kb)
+Date (revised v2): Fri, 28 Jul 2000 15:45:57 GMT   (11kb)
+Date (revised v3): Mon, 9 Apr 2001 15:45:53 GMT   (12kb)
+
+Title: The Maximal Kinematical Invariance Group of Fluid Dynamics and
+  Explosion-Implosion Duality
+Authors: L. O'Raifeartaigh and V. V. Sreedhar
+Comments: Plain TeX File: 19 Pages
+Report-no: DIAS-STP-00-16
+Subj-class: High Energy Physics - Theory; Fluid Dynamics; Mathematical Physics
+Journal-ref: Annals Phys. 293 (2001) 215-227
+\\
+  It has recently been found that supernova explosions can be simulated in the
+laboratory by implosions induced in a plasma by intense lasers. A theoretical
+explanation is that the inversion transformation, ($\Sigma: t \to -1/t,~ {\bf
+x}\to {\bf x}/t$), leaves the Euler equations of fluid dynamics, with standard
+polytropic exponent, invariant. This implies that the kinematical invariance
+group of the Euler equations is larger than the Galilei group. In this paper we
+determine, in a systematic manner, the maximal invariance group ${\cal G}$ of
+general fluid dynamics and show that it is a semi-direct product ${\cal G} =
+SL(2,R) \wedge G$, where the $SL(2,R)$ group contains the time-translations,
+dilations and the inversion $\Sigma$, and $G$ is the static (nine-parameter)
+Galilei group. A subtle aspect of the inclusion of viscosity fields is
+discussed and it is shown that the Navier-Stokes assumption of constant
+viscosity breaks the $SL(2, R)$ group to a two-parameter group of time
+translations and dilations in a tensorial way. The 12-parameter group ${\cal
+G}$ is also known to be the maximal invariance group of the free Schr\"odinger
+equation. It originates in the free Hamilton-Jacobi equation which is central
+to both fluid dynamics and the Schr\"odinger equation.
+\\

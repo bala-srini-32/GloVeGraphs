@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0009009
+From: Boris Pioline <pioline@physics.harvard.edu>
+Date: Fri, 1 Sep 2000 15:48:58 GMT   (87kb)
+
+Title: On the short-distance structure of irrational non-commutative gauge
+  theories
+Authors: S. Elitzur (Jerusalem), B. Pioline (Harvard and LPTHE), E. Rabinovici
+  (Jerusalem)
+Comments: 17 pages, 4 figures, uses JHEP.cls
+Report-no: HUTP-00/A034, RI-08-04
+Journal-ref: JHEP 0010 (2000) 011
+\\
+  As shown by Hashimoto and Itzhaki in hep-th/9911057, the perturbative degrees
+of freedom of a non-commutative Yang-Mills theory (NCYM) on a torus are
+quasi-local only in a finite energy range. Outside that range one may resort to
+a Morita equivalent (or T-dual) description appropriate for that energy. In
+this note, we study NCYM on a non-commutative torus with an irrational
+deformation parameter $\theta$. In that case, an infinite tower of dual
+descriptions is generically needed in order to describe the UV regime. We
+construct a hierarchy of dual descriptions in terms of the continued fraction
+approximations of $\theta$. We encounter different descriptions depending on
+the level of the irrationality of $\theta$ and the amount of non-locality
+tolerated. The behavior turns out to be isomorphic to that found for the phase
+structure of the four-dimensional Villain $Z_N$ lattice gauge theories, which
+we revisit as a warm-up. At large 't Hooft coupling, using the AdS/CFT
+correspondance, we find that there are domains of the radial coordinate $U$
+where no T-dual description makes the derivative expansion converge. The radial
+direction obtains multifractal characteristics near the boundary of AdS.
+\\

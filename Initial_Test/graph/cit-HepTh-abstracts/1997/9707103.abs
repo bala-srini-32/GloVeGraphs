@@ -1,0 +1,32 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9707103
+From: Seth Rosenberg <seth@physics.ucsb.edu>
+Date: Thu, 10 Jul 1997 17:49:04 MDT   (38kb)
+Date (revised): Thu, 10 Jul 1997 18:05:12 MDT
+
+Title: Testing causality violation on spacetimes with closed timelike curves
+Authors: Seth Rosenberg
+Comments: 28 pages, 8 figures, latex
+Report-no: UCSBTH-97-17
+Journal-ref: Phys.Rev. D57 (1998) 3365-3377
+\\
+  Generalized quantum mechanics is used to examine a simple two-particle
+scattering experiment in which there is a bounded region of closed timelike
+curves (CTCs) in the experiment's future. The transitional probability is shown
+to depend on the existence and distribution of the CTCs. The effect is
+therefore acausal, since the CTCs are in the experiment's causal future. The
+effect is due to the non-unitary evolution of the pre- and post-scattering
+particles as they pass through the region of CTCs. We use the time-machine
+spacetime developed by Politzer [1], in which CTCs are formed due to the
+identification of a single spatial region at one time with the same region at
+another time. For certain initial data, the total cross-section of a scattering
+experiment is shown to deviate from the standard value (the value predicted if
+no CTCs existed). It is shown that if the time machines are small, sparsely
+distributed, or far away, then the deviation in the total cross-section may be
+negligible as compared to the experimental error of even the most accurate
+measurements of cross-sections. For a spacetime with CTCs at all points, or one
+where microscopic time machines pervade the spacetime in the final moments
+before the big crunch, the total cross-section is shown to agree with the
+standard result (no CTCs) due to a cancellation effect.
+\\

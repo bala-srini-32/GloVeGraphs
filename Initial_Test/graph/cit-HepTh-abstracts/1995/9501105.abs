@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9501105
+From: PENATI@mi.infn.it
+Date: Mon, 23 Jan 1995 18:10:51 +0100 (WET)   (184kb)
+Date (revised): Tue, 24 Jan 1995 10:50:09 +0100 (WET)
+Date (revised): Thu, 26 Jan 1995 12:35:28 +0100 (WET)
+
+Title: Quantum integrability in two-dimensional systems with boundary
+Authors: S. Penati and D. Zanon
+Comments: latex file, 18 pages, 1 figure
+Report-no: IFUM-490-FT
+Journal-ref: Phys. Lett. B358 (1995) 63
+\\
+In this paper we consider affine Toda systems defined on the half-plane and
+study the issue of integrability, i.e. the construction of higher-spin
+conserved currents in the presence of a boundary perturbation. First at the
+classical level we formulate the problem within a Lax pair approach which
+allows to determine the general structure of the boundary perturbation
+compatible with integrability. Then we analyze the situation at the quantum
+level and compute corrections to the classical conservation laws in specific
+examples. We find that, except for the sinh-Gordon model, the existence of
+quantum conserved currents requires a finite renormalization of the boundary
+potential.
+\\

@@ -1,0 +1,17 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0005079
+From: Gert Roepstorff <roep@physik.rwth-aachen.de>
+Date: Tue, 9 May 2000 08:55:13 GMT   (8kb)
+
+Title: A Class of Anomaly-Free Gauge Theories
+Authors: G.Roepstorff
+Comments: 9 pages, LaTeX2e, AMS fonts
+\\
+  We report on a detailed calculation of the anomaly coefficients for the odd
+and even parts of the $Z_2$-graded representation $\theta$ of the Lie algebra
+Lie$ G$ on the exterior algebra of dimension $2^n$ assuming that $G\subset
+U(n)$. The coefficients vanish provided $G\subset SU(n)$ and $n\ne3$. The
+singular role of the gauge group SU(3) is emphasized.
+  The Standard Model is covered by this result.
+\\

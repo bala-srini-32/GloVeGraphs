@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9908012
+From: Adam D. Helfer <adam@godel.math.missouri.edu>
+Date: Mon, 2 Aug 1999 17:09:39 GMT   (34kb)
+Date (revised v2): Fri, 22 Dec 2000 18:48:07 GMT   (23kb)
+
+Title: The Hamiltonians of Linear Quantum Fields: II. Classically Positive
+  Hamiltonians
+Authors: Adam D. Helfer
+Comments: 22 pages, Latex2e with AMS packages, typos corrected
+\\
+  For linear bose field theories, I show that if a classical Hamiltonian
+function is strictly positive, then there is a canonical transformation making
+the evolution orthogonal. This structure theorem is used to analyze the
+corresponding quantum theories. It is shown that there is an intimate
+connection between boundedness-below and self-adjoint implementability.
+  Finally, it is shown that there is a broad class of "quantum inequalities:"
+any timelike component of the four-momentum density operator, averaged over a
+compact region in curved space-time, must be bounded below.
+\\

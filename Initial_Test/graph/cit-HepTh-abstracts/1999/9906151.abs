@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9906151
+From: a.tseytlin@ic.ac.uk
+Date: Fri, 18 Jun 1999 21:26:13 GMT   (21kb)
+Date (revised v2): Sat, 19 Jun 1999 18:07:38 GMT   (22kb)
+Date (revised v3): Fri, 2 Jul 1999 17:07:56 GMT   (22kb)
+
+Title: Dilaton - fixed scalar correlators and AdS_5 x S^5 - SYM correspondence
+Authors: Hong Liu and A.A. Tseytlin
+Comments: 16 pages, harvmac; references added
+Report-no: Imperial/TP/98-99/56, NSF-ITP-99-060
+Journal-ref: JHEP 9910 (1999) 003
+\\
+  We address the question of AdS/CFT correspondence in the case of the 3-point
+function <O_4 O_4 O_8>. O_4 and O_8 are particular primary states represented
+by F^2 + ... and F^4 + ... operators in \N=4 SYM theory and dilaton \phi and
+massive `fixed' scalar \nu in D=5 supergravity. While the value of <O_4 O_4
+O_8> computed in large N weakly coupled SYM theory is non-vanishing, the D=5
+action of type IIB supergravity compactified on S^5 does not contain
+\phi\phi\nu coupling and thus the corresponding correlator seems to vanish on
+the AdS_5 side. This is in obvious contradiction with arguments suggesting
+non-renormalization of 2- and 3-point functions of states from short multiplets
+and implying agreement between the supergravity and SYM expressions for them.
+We propose a natural resolution of this paradox which emphasizes the
+10-dimensional nature of the correspondence. The basic idea is to treat the
+constant mode of the dilaton as a part of the full S^5 Kaluza-Klein family of
+dilaton modes. This leads to a non-zero result for the <O_4 O_4 O_8> correlator
+on the supergravity side.
+\\

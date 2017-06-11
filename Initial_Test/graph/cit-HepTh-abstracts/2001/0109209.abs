@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0109209
+From: Olaf Lechtenfeld <lechtenf@itp.uni-hannover.de>
+Date: Thu, 27 Sep 2001 12:42:18 GMT   (19kb)
+Date (revised v2): Thu, 18 Oct 2001 19:06:12 GMT   (20kb)
+Date (revised v3): Wed, 6 Feb 2002 19:24:59 GMT   (22kb)
+
+Title: Noncommutative 't Hooft Instantons
+Authors: Olaf Lechtenfeld and Alexander D. Popov
+Comments: 1+20 pages; v2: projection clarified, gauge potential corrected,
+  section 4 partially rewritten; v3: some formulae modified, ADHM description
+  added
+Journal-ref: JHEP 0203 (2002) 040
+\\
+  We employ the twistor approach to the construction of U(2) multi-instantons
+`a la 't Hooft on noncommutative R^4. The noncommutative deformation of the
+Corrigan-Fairlie-'t Hooft-Wilczek ansatz is derived. However, naively
+substituting into it the 't Hooft-type solution is unsatisfactory because the
+resulting gauge field fails to be self-dual on a finite-dimensional subspace of
+the Fock space. We repair this deficiency by a suitable Murray-von Neumann
+transformation after a specific projection of the gauge potential. The proper
+noncommutative 't Hooft multi-instanton field strength is given explicitly, in
+a singular as well as in a regular gauge.
+\\

@@ -1,0 +1,34 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9611083
+From: feher@avzw02.physik.uni-bonn.de
+Date: Tue, 12 Nov 96 16:11:17 +0100   (40kb)
+Date (revised): Sat, 16 Nov 96 16:52:18 +0100
+
+Title: Wakimoto realizations of current algebras: an explicit construction
+Authors: Jan de Boer, Laszlo Feher
+Comments: 38 pages, LaTeX, contains improved formulations of theorems 3 and 6,
+  two references and a remark added, plus minor stylistic changes
+Report-no: LBNL-39562, UCB-PTH-96/49, BONN-TH-96/16
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+Journal-ref: Commun.Math.Phys. 189 (1997) 759-793
+\\
+  A generalized Wakimoto realization of $\widehat{\cal G}_K$ can be associated
+with each parabolic subalgebra ${\cal P}=({\cal G}_0 +{\cal G}_+)$ of a simple
+Lie algebra ${\cal G}$ according to an earlier proposal by Feigin and Frenkel.
+In this paper the proposal is made explicit by developing the construction of
+Wakimoto realizations from a simple but unconventional viewpoint. An explicit
+formula is derived for the Wakimoto current first at the Poisson bracket level
+by Hamiltonian symmetry reduction of the WZNW model. The quantization is then
+performed by normal ordering the classical formula and determining the required
+quantum correction for it to generate $\widehat{\cal G}_K$ by means of
+commutators. The affine-Sugawara stress-energy tensor is verified to have the
+expected quadratic form in the constituents, which are symplectic bosons
+belonging to ${\cal G}_+$ and a current belonging to ${\cal G}_0$. The
+quantization requires a choice of special polynomial coordinates on the big
+cell of the flag manifold $P\backslash G$. The effect of this choice is
+investigated in detail by constructing quantum coordinate transformations.
+Finally, the explicit form of the screening charges for each generalized
+Wakimoto realization is determined, and some applications are briefly
+discussed.
+\\

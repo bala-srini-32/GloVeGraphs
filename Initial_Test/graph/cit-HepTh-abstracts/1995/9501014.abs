@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9501014
+From: ashok@mri.ernet.in
+Date: Thu, 5 Jan 1995 05:12:19 +0500   (24kb)
+
+Title: HAMILTONIAN PATH INTEGRAL QUANTIZATION IN ARBITRARY CO-ORDINATES AND
+  EXACT PATH INTEGRATION
+Authors: A. K. Kapoor and Pankaj Sharan
+Comments: LATEX, 35 Pages , compile twice to get equation numbers correct, No
+  Figures.
+Report-no: MRI-PHY/94/18
+\\
+We briefly review a hamiltonian path integral formalism developed earlier by
+one of us. An important feature of this formalism is that the path integral
+quantization in arbitrary co-ordinates is set up making use of only classical
+hamiltonian without addition of adhoc $\hbar^2$ terms. In this paper we use
+this hamiltonian formalism and show how exact path integration may be done for
+several potentials.
+\\

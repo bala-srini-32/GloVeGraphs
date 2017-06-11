@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9508050
+From: anne@insti.physics.sunysb.edu (Anne Schilling)
+Date: Fri, 11 Aug 1995 16:41:09 -0400 (EDT)   (26kb)
+Date (revised): Thu, 17 Aug 1995 22:56:27 -0400 (EDT)
+Date (revised): Tue, 31 Oct 1995 21:56:48 +1900 (EST)
+
+Title: Polynomial Fermionic Forms for the Branching Functions of the Rational
+  Coset Conformal Field Theories $\widehat{su}(2)_{M}\times
+  \widehat{su}(2)_{N}/\widehat{su}(2)_{M+N}$}
+Author: Anne Schilling (SUNY Stony Brook)
+Comments: 40 pages, LATEX, no figures; revised version to appear in Nuclear
+  Physics B
+Report-no: ITP-SB 95-26
+Journal-ref: Nucl.Phys. B459 (1996) 393-436
+\\
+  General fermionic expressions for the branching functions of the rational
+coset conformal field theories $\widehat{su}(2)_{M}\times
+\widehat{su}(2)_N/\widehat{su}(2)_{M+N}$ are given. The equality of the bosonic
+and fermionic representations for the branching functions is proven by
+introducing polynomial truncations of these branching functions which are the
+configuration sums of the RSOS models in regime III. The path space
+interpretation of the RSOS models provides recursion relations for the
+configuration sums. The proof of the recursion relations for the fermionic
+expressions is given by using telescopic expansion techniques. The
+configuration sums of the RSOS model in regime II which correspond to the
+branching functions of the $Z_{M+N}$-parafermion conformal field theory are
+obtained by the duality transformation $q\rightarrow q^{-1}$.
+\\

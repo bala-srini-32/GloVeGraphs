@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0112144
+From: Roberto Casalbuoni <roberto.casalbuoni@fi.infn.it>
+Date: Mon, 17 Dec 2001 14:55:11 GMT   (27kb)
+
+Title: A theory of algebraic integration
+Authors: Roberto Casalbuoni
+Comments: LaTex file, 50 pages, no figures. Contribution to the Michael Marinov
+  Memorial Volume
+Report-no: DFF-379/12/01
+Subj-class: High Energy Physics - Theory; Mathematical Physics; Quantum Algebra
+\\
+  In this paper we extend the idea of integration to generic algebras. In
+particular we concentrate over a class of algebras, that we will call
+self-conjugated, having the property of possessing equivalent right and left
+multiplication algebras. In this case it is always possible to define an
+integral sharing many of the properties of the usual integral. For instance, if
+the algebra has a continuous group of automorphisms, the corresponding
+derivations are such that the usual formula of integration by parts holds. We
+discuss also how to integrate over subalgebras. Many examples are discussed,
+starting with Grassmann algebras, where we recover the usual Berezin's rule.
+The paraGrassmann algebras are also considered, as well as the algebra of
+matrices. Since Grassmann and paraGrassmann algebras can be represented by
+matrices we show also that their integrals can be seen in terms of traces over
+the corresponding matrices. An interesting application is to the case of group
+algebras where we show that our definition of integral is equivalent to a sum
+over the unitary irreducuble representations of the group. We show also some
+example of integration over non self-conjugated algebras (the bosonic and the
+$q$-bosonic oscillators), and over non-associative algebras (the octonions).
+\\

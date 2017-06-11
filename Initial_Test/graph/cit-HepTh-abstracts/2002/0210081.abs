@@ -1,0 +1,34 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0210081
+From: Kimball A. Milton <milton@phyast.nhn.ou.edu>
+Date: Tue, 8 Oct 2002 21:48:30 GMT   (19kb)
+Date (revised v2): Thu, 21 Nov 2002 21:48:48 GMT   (21kb)
+
+Title: Calculating Casimir Energies in Renormalizable Quantum Field Theory
+Authors: Kimball A. Milton
+Comments: 25 pages, REVTeX4, 1 ps figure. Revision includes new subsection 4B
+  and Appendix, and other minor corrections
+Report-no: OKHEP-02-05
+\\
+  Quantum vacuum energy has been known to have observable consequences since
+1948 when Casimir calculated the force of attraction between parallel uncharged
+plates, a phenomenon confirmed experimentally with ever increasing precision.
+Casimir himself suggested that a similar attractive self-stress existed for a
+conducting spherical shell, but Boyer obtained a repulsive stress. Other
+geometries and higher dimensions have been considered over the years. Local
+effects, and divergences associated with surfaces and edges have been studied
+by several authors. Quite recently, Graham et al. have re-examined such
+calculations, using conventional techniques of perturbative quantum field
+theory to remove divergences, and have suggested that previous self-stress
+results may be suspect. Here we show that the examples considered in their work
+are misleading; in particular, it is well-known that in two dimensions a
+circular boundary has a divergence in the Casimir energy for massless fields,
+while for general dimension $D$ not equal to an even integer the corresponding
+Casimir energy arising from massless fields interior and exterior to a
+hyperspherical shell is finite. It has also long been recognized that the
+Casimir energy for massive fields is divergent for $D\ne1$. These conclusions
+are reinforced by a calculation of the relevant leading Feynman diagram in $D$
+and three dimensions. There is therefore no doubt of the validity of the
+conventional finite Casimir calculations.
+\\

@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0006181
+From: "J\"urgen Fuchs" <jfuchs@fuchs.tekn.kau.se>
+Date: Thu, 22 Jun 2000 19:40:53 GMT   (33kb)
+Date (revised v2): Sat, 12 Aug 2000 11:13:17 GMT   (34kb)
+
+Title: Solitonic sectors, alpha-induction and symmetry breaking boundaries
+Authors: J. Fuchs, C. Schweigert
+Comments: 13 pages, LaTeX2e; v2: typos corrected
+Report-no: PAR-LPTHE 00-26, ESI-907
+Journal-ref: Phys.Lett. B490 (2000) 163-172
+\\
+  We develop a systematic approach to boundary conditions that break bulk
+symmetries in a general way such that left and right movers are not necessarily
+connected by an automorphism. In the context of string compactifications, such
+boundary conditions typically include non-BPS branes. Our formalism is based on
+two dual fusion rings, one for the bulk and one for the boundary fields. Only
+in the Cardy case these two structures coincide. In general they are related by
+a version of alpha-induction. Symmetry breaking boundary conditions correspond
+to solitonic sectors. In examples, we compute the annulus amplitudes and
+boundary states.
+\\

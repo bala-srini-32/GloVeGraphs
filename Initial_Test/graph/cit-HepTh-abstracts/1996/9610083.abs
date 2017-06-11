@@ -1,0 +1,18 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9610083
+From: phdamg@hetws5.nbi.dk
+Date: Fri, 11 Oct 96 13:57:07 +0200   (8kb)
+
+Title: BRST Formulation of Partition Function Constraints
+Authors: J. Alfaro, K. Bering and P.H. Damgaard
+Comments: LaTeX, 7 pages
+Report-no: UUITP-23/96, NBI-HE-96-52
+Journal-ref: Mod.Phys.Lett. A12 (1997) 1119-1126
+\\
+  We show that constraints on the generating functional have direct
+BRST-extensions in terms of nilpotent operators $\Delta$ that annihilate this
+generating functional, and which may be of arbitrarily high order. The free
+energy $F$ in the presence of external sources thus satisfies a ``Master
+Equation'' which is described in terms of a tower of higher antibrackets.
+\\

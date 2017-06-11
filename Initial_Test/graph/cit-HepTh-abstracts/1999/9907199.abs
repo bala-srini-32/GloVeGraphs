@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9907199
+From: Marty Stock <mstock@MIT.EDU>
+Date: Tue, 27 Jul 1999 20:12:09 GMT   (188kb)
+
+Title: The Casimir Energy in a Separable Potential
+Authors: R.L. Jaffe and L.R. Williamson
+Comments: 16 pages, 4 EPS figures, REVTeX using BoxedEPS macros; email to
+  jaffe@mit.edu
+Report-no: MIT-CTP-2881
+Journal-ref: Annals Phys. 282 (2000) 432-448
+\\
+  The Casimir energy is the first-order-in-\hbar correction to the energy of a
+time-independent field configuration in a quantum field theory. We study the
+Casimir energy in a toy model, where the classical field is replaced by a
+separable potential. In this model the exact answer is trivial to compute,
+making it a good place to examine subtleties of the problem. We construct two
+traditional representations of the Casimir energy, one from the Greens
+function, the other from the phase shifts, and apply them to this case. We show
+that the two representations are correct and equivalent in this model. We study
+the convergence of the Born approximation to the Casimir energy and relate our
+findings to computational issues that arise in more realistic models.
+\\

@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9908134
+From: Jorge Russo <russo@zeppo.df.uba.ar>
+Date: Thu, 19 Aug 1999 21:56:54 GMT   (20kb)
+Date (revised v2): Tue, 21 Sep 1999 17:18:58 GMT   (20kb)
+Date (revised v3): Fri, 12 May 2000 16:16:07 GMT   (21kb)
+
+Title: Large N Limit of Non-Commutative Gauge Theories
+Authors: Juan M. Maldacena and Jorge G. Russo
+Comments: 21 pages, harvmac. Some errors in correlators corrected, minor
+  corrections to the Lorentzian solutions
+Report-no: HUTP-99/A046
+Journal-ref: JHEP 9909 (1999) 025
+\\
+  Using the correspondence between gauge theories and string theory in curved
+backgrounds, we investigate aspects of the large $N$ limit of non-commutative
+gauge theories by considering gravity solutions with $B$ fields. We argue that
+the total number of physical degrees of freedom at any given scale coincides
+with the commutative case. We then compute a two-point correlation function
+involving momentum components in the directions of the $B$-field. In the UV
+regime, we find that the two-point function decays exponentially with the
+momentum. A calculation of Wilson lines suggests that strings cannot be
+localized near the boundary. We also find string configurations that are
+localized in a finite region of the radial direction. These are worldsheet
+instantons.
+\\

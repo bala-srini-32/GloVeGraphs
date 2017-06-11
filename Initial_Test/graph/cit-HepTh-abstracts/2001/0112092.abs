@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0112092
+From: Fedele Lizzi <fedele.lizzi@na.infn.it>
+Date: Tue, 11 Dec 2001 18:48:01 GMT   (37kb)
+Date (revised v2): Wed, 19 Dec 2001 17:48:25 GMT   (38kb)
+
+Title: Infinitely many star products to play with
+Authors: J.M. Gracia-Bondia, F. Lizzi, G. Marmo, P. Vitale
+Comments: LaTeX, 36 pages. Minor corrections, references added
+Report-no: DSF-40-01, BiBoS 01-12069, ESI 1109
+Subj-class: High Energy Physics - Theory; Mathematical Physics; Quantum
+  Algebra; Operator Algebras
+Journal-ref: JHEP 0204 (2002) 026
+\\
+  While there has been growing interest for noncommutative spaces in recent
+times, most examples have been based on the simplest noncommutative algebra:
+[x_i,x_j]=i theta_{ij}. Here we present new classes of (non-formal) deformed
+products associated to linear Lie algebras of the kind [x_i,x_j]=ic_{ij}^k x_k.
+For all possible three-dimensional cases, we define a new star product and
+discuss its properties. To complete the analysis of these novel noncommutative
+spaces, we introduce noncompact spectral triples, and the concept of star
+triple, a specialization of the spectral triple to deformations of the algebra
+of functions on a noncompact manifold. We examine the generalization to the
+noncompact case of Connes' conditions for noncommutative spin geometries, and,
+in the framework of the new star products, we exhibit some candidates for a
+Dirac operator. On the technical level, properties of the Moyal multiplier
+algebra M(R_\theta^{2n) are elucidated.
+\\

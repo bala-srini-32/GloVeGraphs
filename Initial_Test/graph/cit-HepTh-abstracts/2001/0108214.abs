@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0108214
+From: Yavuz Nutku <nutku@gursey.gov.tr>
+Date: Wed, 29 Aug 2001 10:46:04 GMT   (19kb)
+Date (revised v2): Mon, 3 Sep 2001 14:52:25 GMT   (19kb)
+
+Title: Multi-Lagrangians for Integrable Systems
+Authors: Y. Nutku and M. V. Pavlov
+Comments: typos corrected and a reference added
+Subj-class: High Energy Physics - Theory; Exactly Solvable and Integrable
+  Systems
+Journal-ref: J.Math.Phys. 43 (2002) 1441-1459
+\\
+  We propose a general scheme to construct multiple Lagrangians for completely
+integrable non-linear evolution equations that admit multi- Hamiltonian
+structure. The recursion operator plays a fundamental role in this
+construction. We use a conserved quantity higher/lower than the Hamiltonian in
+the potential part of the new Lagrangian and determine the corresponding
+kinetic terms by generating the appropriate momentum map. This leads to some
+remarkable new developments. We show that nonlinear evolutionary systems that
+admit $N$-fold first order local Hamiltonian structure can be cast into
+variational form with $2N-1$ Lagrangians which will be local functionals of
+Clebsch potentials. This number increases to $3N-2$ when the Miura
+transformation is invertible. Furthermore we construct a new Lagrangian for
+polytropic gas dynamics in $1+1$ dimensions which is a {\it local} functional
+of the physical field variables, namely density and velocity, thus dispensing
+with the necessity of introducing Clebsch potentials entirely. This is a
+consequence of bi-Hamiltonian structure with a compatible pair of first and
+third order Hamiltonian operators derived from Sheftel's recursion operator.
+\\

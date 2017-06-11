@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9502162
+From: dhoker@physics.ucla.edu (D'Hoker)
+Date: Tue, 28 Feb 1995 10:28:40 +0800   (22kb)
+
+Title: Invariant Effective Actions, Cohomology of Homogeneous Spaces and
+  Anomalies
+Author: Eric D'Hoker
+Comments: 30 pages, Plain TeX, no figures.
+Report-no: UCLA/95/TEP/5
+Journal-ref: Nucl. Phys. B451 (1995) 725
+\\
+We construct the most general local effective actions for Goldstone boson
+fields associated with spontaneous symmetry breakdown from a group $G$ to a
+subgroup $H$. In a preceding paper, it was shown that any $G$-invariant term in
+the action, which results from a non-invariant Lagrangian density, corresponds
+to a non-trivial generator of the de Rham cohomology classes of $G/H$. Here, we
+present an explicit construction of all the generators of this cohomology for
+any coset space $G/H$ and compact, connected group $G$. Generators contributing
+to actions in 4-dimensional space-time arise either as products of generators
+of lower degree such as the Goldstone-Wilczek current, or are of the
+Wess-Zumino-Witten type. The latter arise if and only if $G$ has a non-zero
+$G$-invariant symmetric $d$-symbol, which vanishes when restricted to the
+subgroup $H$, i.e. when $G$ has anomalous representations in which $H$ is
+embedded in an anomaly free way. Coupling of additional gauge fields leads to
+actions whose gauge variation coincides with the chiral anomaly, which is
+carried here by Goldstone boson fields at tree level. Generators contributing
+to actions in 3-dimensional space-time arise as Chern-Simons terms evaluated on
+connections that are composites of the Goldstone field.
+\\

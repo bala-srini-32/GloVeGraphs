@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0208001
+From: Joao M. Baptista <j.m.baptista@damtp.cam.ac.uk>
+Date: Thu, 1 Aug 2002 18:56:02 GMT   (36kb)
+
+Title: The dynamics of vortices on S^2 near the Bradlow limit
+Authors: J.M. Baptista, N.S. Manton
+Comments: 17 pages, 9 figures
+Report-no: DAMTP-2002-94
+Subj-class: High Energy Physics - Theory; Mathematical Physics
+\\
+  The explicit solutions of the Bogomolny equations for N vortices on a sphere
+of radius R^2 > N are not known. In particular, this has prevented the use of
+the geodesic approximation to describe the low energy vortex dynamics. In this
+paper we introduce an approximate general solution of the equations, valid for
+R^2 close to N, which has many properties of the true solutions, including the
+same moduli space CP^N. Within the framework of the geodesic approximation, the
+metric on the moduli space is then computed to be proportional to the Fubini-
+Study metric, which leads to a complete description of the particle dynamics.
+\\

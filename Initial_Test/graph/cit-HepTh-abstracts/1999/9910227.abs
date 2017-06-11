@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9910227
+From: "Vasiliy A. Dolgushev" <vald@phys.tsu.ru>
+Date: Thu, 28 Oct 1999 11:59:11 GMT   (4kb)
+
+Title: Polynomial Gauge Invariants of a Bosonic String
+Author: V.A. Dolgushev
+Comments: 4 pages, Latexfile, Talk presented at the QFTHEP'99, Moscow, 27 May -
+  2 June
+\\
+  An open bosonic string is considered with the aim to construct a general
+gauge invariant, being a polynomial of Fubini-Veneziano (FV) fields. The FV
+fields are transformed as 1-forms on $S^1$, that allows to formulate the
+problem in geometric terms. We introduce a most general anzats for these
+invariants and explicitly resolve the invariance conditions in the framework of
+the anzats. The invariants are interpreted as integrals of n-form over a gauge
+invariant domains in an n-dimensional torus, where the invariance of these
+domains is considered with respect to the action of the diagonal of the group
+$\times (Diff~S^1)^n$. We also discuss a possibility to get a complete set of
+gauge invariants which allow an actual dependence on the string zero modes. We
+find that the complete set can't be restricted by polynomial invariants only.
+The classical polynomial invariants, being directly defined in the string Fock
+space, turn out to break the structure of the respective BRST cohomology even
+in the critical dimension. We discuss a possibility to restore the BRST
+invariance of the corresponding operator algebra by a non-trivial quantum
+deformation of the original invariants.
+\\

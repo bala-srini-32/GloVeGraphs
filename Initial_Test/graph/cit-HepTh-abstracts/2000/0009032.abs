@@ -1,0 +1,34 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0009032
+From: visser@tui.wustl.edu (Matt Visser)
+Date: Mon, 4 Sep 2000 22:47:38 GMT   (23kb)
+Date (revised v2): Thu, 5 Oct 2000 16:36:00 GMT   (23kb)
+
+Title: Braneworld gravity: Influence of the moduli fields
+Authors: Carlos Barcelo (Washington University in Saint Louis) and Matt Visser
+  (Washington University in Saint Louis)
+Comments: LaTeX2e, 23 pages, no figures. V2: three references added, some
+  references updated, no physics changes
+Journal-ref: JHEP 0010 (2000) 019
+\\
+  We consider the case of a generic braneworld geometry in the presence of one
+or more moduli fields (e.g., the dilaton) that vary throughout the bulk
+spacetime. Working in an arbitrary conformal frame, using the generalized
+junction conditions of gr-qc/0008008 and the Gauss--Codazzi equations, we
+derive the effective ``induced'' on-brane gravitational equations. As usual in
+braneworld scenarios, these equations do not form a closed system in that the
+bulk can exchange both information and stress-energy with the braneworld. We
+work with an arbitrary number of moduli fields described by an arbitrary sigma
+model, with arbitrary curvature couplings, arbitrary self interactions, and
+arbitrary dimension for the bulk. (The braneworld is always codimension one.)
+Among the novelties we encounter are modifications of the on-brane
+stress-energy conservation law, anomalous couplings between on-brane gravity
+and the trace of the on-brane stress-energy tensor, and additional
+possibilities for modifying the on-brane effective cosmological constant. After
+obtaining the general stress-energy ``conservation'' law and the ``induced
+Einstein equations'' we particularize the discussion to two particularly
+attractive cases: for a (n-2)-brane in ([n-1]+1) dimensions we discuss both the
+effect of (1) generic variable moduli fields in the Einstein frame, and (2) the
+effect of a varying dilaton in the string frame.
+\\

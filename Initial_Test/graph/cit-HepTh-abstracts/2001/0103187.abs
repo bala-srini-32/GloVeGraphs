@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0103187
+From: So Matsuura <matsu@yukawa.kyoto-u.ac.jp>
+Date: Thu, 22 Mar 2001 13:24:32 GMT   (25kb)
+Date (revised v2): Thu, 17 May 2001 05:48:52 GMT   (25kb)
+
+Title: Higher-Derivative Gravity and the AdS/CFT Correspondence
+Authors: Masafumi Fukuma, So Matsuura, Tadakatsu Sakai
+Comments: 34 pages, LaTeX2e, minor changes
+Report-no: YITP-01-18
+Journal-ref: Prog.Theor.Phys. 105 (2001) 1017-1044
+\\
+  We investigate the AdS/CFT correspondence for higher-derivative gravity
+systems, and develop a formalism in which the generating functional of the
+boundary field theory is given as a functional that depends only on the
+boundary values of bulk fields. We also derive a Hamilton-Jacobi-like equation
+that uniquely determines the generating functional, and give an algorithm
+calculating the Weyl anomaly. Using the expected duality between a
+higher-derivative gravity system and N=2 superconformal field theory in four
+dimensions, we demonstrate that the resulting Weyl anomaly is consistent with
+the field theoretic one.
+\\

@@ -1,0 +1,32 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0205006
+From: Konstadinos Sfetsos <Konstadinos.Sfetsos@cern.ch>
+Date: Wed, 1 May 2002 02:35:19 GMT   (22kb)
+Date (revised v2): Tue, 11 Jun 2002 16:29:17 GMT   (22kb)
+Date (revised v3): Sun, 23 Jun 2002 08:47:17 GMT   (23kb)
+
+Title: PP-waves and logarithmic conformal field theories
+Author: I. Bakas and K. Sfetsos
+Comments: 22 pages, Latex.v2: typos corrected and section 5 expanded to include
+  the free field realization.v3: a few refs. added, NPB version
+Journal-ref: Nucl.Phys. B639 (2002) 223-240
+\\
+  We provide a world-sheet interpretation to the plane wave limit of a large
+class of exact supergravity backgrounds in terms of logarithmic conformal field
+theories. As an illustrative example, we consider the two-dimensional conformal
+field theory of the coset model SU(2)_N/U(1) times a free time-like boson
+U(1)_{-N}, which admits a space-time interpretation as a three-dimensional
+plane wave solution by taking a correlated limit \`a la Penrose. We show that
+upon a contraction of Saletan type, in which the parafermions of the compact
+coset model are combined with the free time-like boson, one obtains a novel
+logarithmic conformal field theory with central charge c=3. Our results are
+motivated at the classical level using Poisson brackets of the fields, but they
+are also explicitly demonstrated at the quantum level using exact operator
+product expansions. We perform several computations in this theory including
+the evaluation of the four-point functions involving primary fields and their
+logarithmic partners, which are identified. We also employ the extended
+conformal symmetries of the model to construct an infinite number of
+logarithmic operators. This analysis can be easily generalized to other exact
+conformal field theory backgrounds with a plane wave limit in the target space.
+\\

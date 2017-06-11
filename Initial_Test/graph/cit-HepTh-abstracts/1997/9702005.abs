@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9702005
+From: akemann@cpt.univ-mrs.fr
+Date: Fri, 31 Jan 1997 18:07:37 +0000 (WET)   (20kb)
+Date (revised): Fri, 15 Aug 1997 18:03:46 +0200 (MET DST)
+
+Title: Universal correlators for multi-arc complex matrix models
+Author: Gernot Akemann
+Comments: 25 pages, LaTex, minor changes, to appear in Nucl.Phys.B
+Report-no: CPT-97/P.3455
+Journal-ref: Nucl.Phys. B507 (1997) 475-500
+\\
+  The correlation functions of the multi-arc complex matrix model are shown to
+be universal for any finite number of arcs. The universality classes are
+characterized by the support of the eigenvalue density and are conjectured to
+fall into the same classes as the ones recently found for the hermitian model.
+This is explicitly shown to be true for the case of two arcs, apart from the
+known result for one arc. The basic tool is the iterative solution of the loop
+equation for the complex matrix model with multiple arcs, which provides all
+multi-loop correlators up to an arbitrary genus. Explicit results for genus one
+are given for any number of arcs. The two-arc solution is investigated in
+detail, including the double-scaling limit. In addition universal expressions
+for the string susceptibility are given for both the complex and hermitian
+model.
+\\

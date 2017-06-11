@@ -21,8 +21,8 @@ def evaluate(filename):
 	graphfname = filename.replace("community", "network")
 	print "Generating embeddings for " + graphfname + "..."
 	call(["cp", graphfname, "tmpi"])
-	command = "./../../../snap-master/snap-master/examples/node2vec/node2vec"
-	call([command, "-i:tmpi", "-o:tmp", "-v", "-p:1", "-e:10"]) 
+	command = sys.argv[2]
+	call([command, "-i:tmpi", "-o:tmp", "-v", "-p:1", "-e:10", "-d:64"]) 
 
 	#read and cluster embeddings
 	print "Clustering embeddings of " + graphfname + "..."
@@ -49,8 +49,8 @@ def evaluate(filename):
 
 
 def main():
-	if len(sys.argv) < 2:
-		print "Please provide directory of graphs... Exiting..."
+	if len(sys.argv) < 3:
+		print "Please provide directory of graphs, and node2vec path... Exiting..."
 		return
 	op = open("results.txt", "a")
 	dirname = sys.argv[1]
@@ -60,6 +60,7 @@ def main():
 		if filename.startswith("community"):
 			nmi.append(evaluate(dirname + "/" + filename))
 	score = sum(nmi)/len(nmi)
+	print "RESULT " + dirname + " " + str(score)
 	op.write(dirname + " " + str(score) + "\n")
 	op.close()
 

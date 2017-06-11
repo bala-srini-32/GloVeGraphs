@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0204257
+From: So Matsuura <matsu@yukawa.kyoto-u.ac.jp>
+Date: Tue, 30 Apr 2002 17:03:10 GMT   (9kb)
+Date (revised v2): Fri, 12 Jul 2002 06:24:12 GMT   (9kb)
+
+Title: Comment on Field Redefinitions in the AdS/CFT Correspondence
+Authors: Masafumi Fukuma and So Matsuura
+Comments: 11 pages, no figures, typos corrected, references added
+Report-no: KUNS-1782, YITP-02-30
+Journal-ref: Prog.Theor.Phys. 108 (2002) 375-382
+\\
+  We carry out field redefinitions in ten-dimensional Type IIB supergravity and
+show that they do not give rise to any physical corrections to the holographic
+renormalization group structure in the AdS/CFT correspondence. We in particular
+show that the holographic Weyl anomaly of the N=4 SU(N) super Yang-Mills theory
+does not change under the field redefinition of the ten-dimensional metric of
+the form G_{MN} -> G_{MN}+\alpha R G_{MN}+\beta R_{MN}. These results are
+consistent with the fact that classical supergravity represents the on-shell
+structure of massless modes of superstrings, which should not change under
+redefinitions of fields.
+\\

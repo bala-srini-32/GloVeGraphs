@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9612097
+From: Tetsuo Hatsuda <hatsuda@nucl.ph.tsukuba.ac.jp>
+Date: Tue, 10 Dec 96 15:24:31 JST   (58kb)
+
+Title: Optimized Perturbation Theory for Wave Functions of Quantum Systems
+Authors: T. Hatsuda (Univ. of Tsukuba), T. Kunihiro (Ryukoku Univ.) and T.
+  Tanaka (Univ. of Tsukuba)
+Comments: 11 pages, RevTeX, three ps figures
+Report-no: UTHEP-353, RYUTHP-96/3
+Subj-class: High Energy Physics - Theory; Mathematical Physics; Statistical
+  Mechanics; Functional Analysis
+Journal-ref: Phys.Rev.Lett. 78 (1997) 3229-3232
+\\
+  The notion of the optimized perturbation, which has been successfully applied
+to energy eigenvalues, is generalized to treat wave functions of quantum
+systems. The key ingredient is to construct an envelope of a set of
+perturbative wave functions. This leads to a condition similar to that obtained
+from the principle of minimal sensitivity. Applications of the method to
+quantum anharmonic oscillator and the double well potential show that uniformly
+valid wave functions with correct asymptotic behavior are obtained in the
+first-order optimized perturbation even for strong couplings.
+\\

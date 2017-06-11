@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0301097
+From: Michael P Fry <mpfry@maths.tcd.ie>
+Date: Wed, 15 Jan 2003 17:01:21 GMT   (24kb)
+Date (revised v2): Mon, 20 Jan 2003 11:33:41 GMT   (24kb)
+Date (revised v3): Thu, 13 Feb 2003 17:15:31 GMT   (24kb)
+
+Title: Fermion determinant for general background gauge fields
+Authors: M.P. Fry
+Comments: Some typographical errors have now been corrected
+\\
+  An exact representation of the Euclidean fermion determinant in two
+dimensions for centrally symmetric, finite-ranged Abelian background fields is
+derived. Input data are the wave function inside the field's range and the
+scattering phase shift with their momenta rotated to the positive imaginary
+axis and fixed at the fermion mass for each partial-wave. The determinant's
+asymptotic limit for strong coupling and small fermion mass for
+square-integrable, unidirecitonal magnetic fields is shown to depend only on
+the chiral anomaly. The concept of duality is extended from one to two-variable
+fields, thereby relating the two-dimensional Euclidean determinant for a class
+of background magnetic fields to the pair production probability in four
+dimensions for a related class of electric pulses. Additionally, the
+``diamagnetic'' bound on the two-dimensional Euclidean determinant is related
+to the negative sign of dImS_eff/dm^2 in four dimensions in the strong
+coupling, small mass limit, where S_eff is the one-loop effective action.
+\\

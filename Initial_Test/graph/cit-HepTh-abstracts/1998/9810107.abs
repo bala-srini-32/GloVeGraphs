@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9810107
+From: Jose Gaite Cuesta <gaite@LAEFF.ESA.Es>
+Date: Wed, 14 Oct 1998 16:47:42 GMT   (116kb)
+Date (revised v2): Tue, 2 Nov 1999 18:38:10 GMT   (120kb)
+
+Title: Entropic C-theorems in free and interacting two-dimensional field
+  theories
+Authors: Jose Gaite
+Comments: 34 pages, 3 figures (8 EPS files), Latex2e file, continuation of
+  hep-th/9710241; rigorous analysis of sufficient conditions for universality
+  of the dimensionless relative entropy, more detailed discussion of the
+  relation with Zamolodchikov's theorem, references added; to appear in Phys.
+  Rev. D
+Subj-class: High Energy Physics - Theory; Statistical Mechanics
+Journal-ref: Phys.Rev. D61 (2000) 045006
+\\
+  The relative entropy in two-dimensional field theory is studied on a cylinder
+geometry, interpreted as finite-temperature field theory. The width of the
+cylinder provides an infrared scale that allows us to define a dimensionless
+relative entropy analogous to Zamolodchikov's $c$ function. The one-dimensional
+quantum thermodynamic entropy gives rise to another monotonic dimensionless
+quantity. I illustrate these monotonicity theorems with examples ranging from
+free field theories to interacting models soluble with the thermodynamic Bethe
+ansatz. Both dimensionless entropies are explicitly shown to be monotonic in
+the examples that we analyze.
+\\

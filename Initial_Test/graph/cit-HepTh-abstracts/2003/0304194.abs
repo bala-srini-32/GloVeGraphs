@@ -1,0 +1,32 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0304194
+From: Etsuko Itou <itou@het.phys.sci.osaka-u.ac.jp>
+Date: Wed, 23 Apr 2003 02:49:25 GMT   (30kb)
+
+Title: Three Dimensional Nonlinear Sigma Models in the Wilsonian
+  Renormalization Method
+Authors: K. Higashijima and E. Itou
+Comments: 16 pages, 1 figure
+Report-no: OU-HET439
+\\
+  The three dimensional nonlinear sigma model is unrenormalizable in
+perturbative method. By using the $\beta$ function in the nonperturbative
+Wilsonian renormalization group method, we argue that ${\cal N}=2$
+supersymmetric nonlinear $\sigma$ models are renormalizable in three
+dimensions. When the target space is an Einstein-K\"{a}hler manifold with
+positive scalar curvature, such as C$P^N$ or $Q^N$, there are nontrivial
+ultraviolet (UV) fixed point, which can be used to define the nontrivial
+continuum theory. If the target space has a negative scalar curvature, however,
+the theory has only the infrared Gaussian fixed point, and the sensible
+continuum theory cannot be defined. We also construct a model which
+interpolates between the C$P^N$ and $Q^N$ models with two coupling constants.
+This model has two non-trivial UV fixed points which can be used to define the
+continuum theory. Finally, we construct a class of conformal field theories
+with ${\bf SU}(N)$ symmetry, defined at the fixed point of the nonperturbative
+$\beta$ function. These conformal field theories have a free parameter
+corresponding to the anomalous dimension of the scalar fields. If we choose a
+specific value of the parameter, we recover the conformal field theory defined
+at the UV fixed point of C$P^N$ model and the symmetry is enhanced to ${\bf
+SU}(N+1)$.
+\\

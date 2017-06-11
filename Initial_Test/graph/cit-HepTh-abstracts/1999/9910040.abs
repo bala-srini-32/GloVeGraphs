@@ -1,0 +1,33 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9910040
+From: Clifford V. Johnson <cvj@pa.uky.edu>
+Date: Tue, 5 Oct 1999 19:24:54 GMT   (13kb)
+Date (revised v2): Thu, 7 Oct 1999 17:37:36 GMT   (14kb)
+Date (revised v3): Fri, 4 Feb 2000 16:39:15 GMT   (15kb)
+Date (revised v4): Sat, 3 Jun 2000 14:44:13 GMT   (15kb)
+
+Title: Holographic Stress Tensors for Kerr-AdS Black Holes
+Authors: Adel M. Awad and Clifford V. Johnson
+Comments: 9 pages, RevTeX; v5: Note added (as in published PRD version) about
+  the new stress tensor not having same conserved quantities as old. i.e.,
+  "improvement" fails. The fascinating reason will be reported on in a separate
+  publication.)
+Report-no: UK/99-13, IASSNS-HEP-99/88, DTP/99/71
+Journal-ref: Phys.Rev. D61 (2000) 084025
+\\
+  We use the counterterm subtraction method to calculate the action and
+stress-energy-momentum tensor for the (Kerr) rotating black holes in AdS_{n+1},
+for n=2, 3 and 4. We demonstrate that the expressions for the total energy for
+the Kerr-AdS_3 and Kerr-AdS_5 spacetimes, in the limit of vanishing black hole
+mass, are equal to the Casimir energies of the holographically dual
+n-dimensional conformal field theories. In particular, for Kerr-AdS_5, dual to
+the case of four dimensional N=4 supersymmetric Yang-Mills theory on the
+rotating Einstein universe, we explicitly verify the equality of the zero mass
+stress tensor from the two sides of the correspondence, and present the result
+for general mass as a prediction from gravity. Amusingly, it is observed in
+four dimensions that while the trace of the stress tensor defined using the
+standard counterterms does not vanish, its integral does, thereby keeping the
+action free of ultraviolet divergences. Using a different regularisation scheme
+another stress tensor can be defined, which is traceless.
+\\

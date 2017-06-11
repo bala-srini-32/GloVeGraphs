@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0007120
+From: James T. Liu <jtliu@pauli.physics.lsa.umich.edu>
+Date: Mon, 17 Jul 2000 22:58:50 GMT   (29kb)
+Date (revised v2): Wed, 13 Sep 2000 23:23:19 GMT   (30kb)
+
+Title: A supersymmetric Type IIB Randall-Sundrum realization
+Authors: M.J. Duff, James T. Liu, K.S. Stelle
+Comments: 24 pages, latex
+Report-no: UM-TH-00-15, Imperial/TP/99-0/33
+Journal-ref: J.Math.Phys. 42 (2001) 3027-3047
+\\
+  We show that an earlier domain wall solution of type IIB supergravity
+provides a supersymmetric realization of the Randall-Sundrum brane-world, and
+give its ten-dimensional interpretation in terms of IIB 3-branes. We also
+explain how previous no-go theorems are circumvented. In particular, whereas
+D=5 supergravity scalars have AdS_5 energy E_0 <= 4 and are unable to support a
+D=5 positive tension brane, our scalar has E_0=8, and is the breathing mode of
+the S^5 compactification. Another essential element of the construction is the
+implementation of a Z_2 symmetry by patching together compactifications with
+opposite signs for their 5-form field strengths. This is thus a IIB analogue of
+a previous D=5 3-brane realization of the Horava-Witten orbifold. A
+mode-locking phenomenon avoids the appearance of negative energy zero-modes in
+spite of the necessity of a D=10 negative tension brane-source.
+\\

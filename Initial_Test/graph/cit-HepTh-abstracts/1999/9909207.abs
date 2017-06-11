@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9909207
+From: Luka Sustersic <luka.sustersic@ijs.si>
+Date: Wed, 29 Sep 1999 08:02:16 GMT   (8kb)
+Date (revised v2): Mon, 5 Jun 2000 13:14:46 GMT   (9kb)
+
+Title: Regularization of QED by a generalized 't Hooft and Veltman method
+Authors: Marijan Ribaric and Luka Sustersic
+Comments: RevTeX, 5 pages, nofigures; changed title and changed and added few
+  sentences to stress that this is an example, and to shortly explain the
+  framework of the original 't Hooft and Veltman regularization method
+\\
+  Generalizing the 't Hooft and Veltman method of unitary regulators, we
+demonstrate for the first time the existence of local, Lorentz-invariant,
+physically motivated Lagrangians of quantum-electrodynamic phenomena such that:
+(i) Feynman diagrams are finite and equal the diagrams of QED but with
+regularized propagators. (ii) N-point Green functions are causal. (iii)
+S-matrix relates only electrons, positrons and photons, is unitary and
+Lorentz-invariant, and conserves charge and total four-momentum.
+\\

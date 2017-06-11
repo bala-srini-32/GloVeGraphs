@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9709147
+From: David Adams <dadams@maths.tcd.ie>
+Date: Fri, 19 Sep 1997 18:36:45 +0100 (BST)   (10kb)
+Date (revised): Sun, 21 Sep 1997 20:57:18 GMT
+Date (revised): Sat, 25 Oct 1997 20:11:12 GMT
+
+Title: The semiclassical approximation for the Chern-Simons partition function
+Author: David H. Adams
+Comments: 14 p., latex (a typo corrected), to appear in Phys.Lett.B
+Subj-class: High Energy Physics - Theory; Differential Geometry; Quantum
+  Algebra
+Journal-ref: Phys.Lett. B417 (1998) 53-60
+\\
+  The semiclassical approximation for the partition function in Chern-Simons
+gauge theory is derived using the invariant integration method. Volume and
+scale factors which were undetermined and had to be fixed by hand in previous
+derivations are automatically taken account of in this framework. Agreement
+with Witten's exact expressions for the partition function in the weak coupling
+(large k) limit is verified for gauge group SU(2) and spacetimes S^3, S^2 x
+S^1, S^1 x S^1 x S^1 and L(p,q).
+\\

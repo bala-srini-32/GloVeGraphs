@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9505084
+From: H.Suzuki <hsuzuki@mito.ipc.ibaraki.ac.jp>
+Date: Mon, 15 May 95 16:25:47 JST   (49kb)
+Date (revised): Tue, 16 May 95 20:08:31 JST
+
+Title: Improved Convergence Proof of the Delta Expansion and Order Dependent
+  Mappings
+Author: Riccardo Guida, Kenichi Konishi and Hiroshi Suzuki
+Comments: some bugs of uuencoded postscript figures are fixed
+Report-no: GEF-Th-4/1995; LPTHE Orsay-95/25; IU-MSTP/3
+Journal-ref: Annals Phys. 249 (1996) 109-145
+\\
+  We improve and generalize in several accounts the recent rigorous proof of
+convergence of delta expansion - order dependent mappings (variational
+perturbation expansion) for the energy eigenvalues of anharmonic oscillator.
+For the single-well anharmonic oscillator the uniformity of convergence in
+$g\in[0,\infty]$ is proven. The convergence proof is extended also to complex
+values of $g$ lying on a wide domain of the Riemann surface of $E(g)$. Via the
+scaling relation \`a la Symanzik, this proves the convergence of delta
+expansion for the double well in the strong coupling regime (where the standard
+perturbation series is non Borel summable), as well as for the complex ``energy
+eigenvalues'' in certain metastable potentials. Sufficient conditions for the
+convergence of delta expansion are summarized in the form of three theorems,
+which should apply to a wide class of quantum mechanical and higher dimensional
+field theoretic systems.
+\\

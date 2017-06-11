@@ -1,0 +1,34 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9805171
+From: Albion Lawrence <lawrence@curie.harvard.edu>
+Date: Tue, 26 May 1998 21:01:10 GMT   (29kb)
+Date (revised v2): Thu, 11 Jun 1998 22:17:24 GMT   (32kb)
+Date (revised v3): Mon, 15 Jun 1998 23:18:47 GMT   (32kb)
+Date (revised v4): Mon, 27 Jul 1998 22:26:31 GMT   (33kb)
+
+Title: Bulk vs. Boundary Dynamics in Anti-de Sitter Spacetime
+Authors: Vijay Balasubramanian, Per Kraus, Albion Lawrence
+Comments: Standard LaTeX, 28 pages, 2 postscript figures. v2: References added.
+  Substantial revision in section 3 of treatment of global modes;
+  non-normalizable modes have arbitrary time dependence. Revised discussion of
+  low-mass modes and puzzle raised re: coupling of the dual boundary operators.
+  v3: unwanted paragraph removed. v4: Sec. 5.2 corrected
+Journal-ref: Phys.Rev. D59 (1999) 046003
+\\
+  We investigate the details of the bulk-boundary correspondence in Lorentzian
+signature anti-de Sitter space. Operators in the boundary theory couple to
+sources identified with the boundary values of non-normalizable bulk modes.
+Such modes do not fluctuate and provide classical backgrounds on which bulk
+excitations propagate. Normalizable modes in the bulk arise as a set of
+saddlepoints of the action for a fixed boundary condition. They fluctuate and
+describe the Hilbert space of physical states. We provide an explicit, complete
+set of both types of modes for free scalar fields in global and Poincar\'e
+coordinates. For $\ads{3}$, the normalizable and non-normalizable modes
+originate in the possible representations of the isometry group
+$\SL_L\times\SL_R$ for a field of given mass. We discuss the group properties
+of mode solutions in both global and Poincar\'e coordinates and their relation
+to different expansions of operators on the cylinder and on the plane. Finally,
+we discuss the extent to which the boundary theory is a useful description of
+the bulk spacetime.
+\\

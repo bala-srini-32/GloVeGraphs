@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9804124
+From: dhoker@itp.ucsb.edu (Eric D'Hoker)
+Date: Sun, 19 Apr 1998 18:30:03 GMT   (88kb)
+Date (revised v2): Mon, 29 Jun 1998 22:53:40 GMT   (88kb)
+
+Title: Calogero-Moser Lax Pairs with Spectral Parameter for General Lie
+  Algebras
+Authors: E. D'Hoker and D.H. Phong
+Comments: 84 pages, Plain TeX, 1 figure; minor typos corrected, 2 refs added
+Report-no: UCLA/98/TEP/9
+Subj-class: High Energy Physics - Theory; Exactly Solvable and Integrable
+  Systems
+Journal-ref: Nucl.Phys. B530 (1998) 537-610
+\\
+  We construct a Lax pair with spectral parameter for the elliptic
+Calogero-Moser Hamiltonian systems associated with each of the finite
+dimensional Lie algebras, of the classical and of the exceptional type. When
+the spectral parameter equals one of the three half periods of the elliptic
+curve, our result for the classical Lie algebras reduces to one of the Lax
+pairs without spectral parameter that were known previously. These
+Calogero-Moser systems are invariant under the Weyl group of the associated
+untwisted affine Lie algebra. For non-simply laced Lie algebras, we introduce
+new integrable systems, naturally associated with twisted affine Lie algebras,
+and construct their Lax operators with spectral parameter (except in the case
+of $G_2$).
+\\

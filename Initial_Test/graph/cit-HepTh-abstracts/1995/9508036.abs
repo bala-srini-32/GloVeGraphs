@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9508036
+From: Jorge Pullin <pullin@obelix.fisica.edu.uy>
+Date: Tue, 8 Aug 1995 11:39:37 -0400 (AST)   (22kb)
+Date (revised): Mon, 27 Nov 95 21:55:49 -0500
+
+Title: Towards a loop representation for quantum canonical supergravity
+Authors: Daniel Armand-Ugon, Rodolfo Gambini, Octavio Obregon, Jorge Pullin
+Comments: 12 pages Revtex, figures with epsf. An important revision was made of
+  section four. We were able to identify the exact quantum state of all the
+  constraints of supergravity as the Dubrovnik version of the Kauffman
+  polynomial. This provides the first known link of that polynomial to quantum
+  field theory
+Report-no: CGPG-95/8-3
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+Journal-ref: Nucl.Phys. B460 (1996) 615-631
+\\
+  We study several aspects of the canonical quantization of supergravity in
+terms of the Asthekar variables. We cast the theory in terms of a $GSU(2)$
+connection and we introduce a loop representation. The solution space is
+similar to the loop representation of ordinary gravity, the main difference
+being the form of the Mandelstam identities. Physical states are in general
+given by knot invariants that are compatible with the $GSU(2)$ Mandelstam
+identities. There is an explicit solution to all the quantum constraint
+equations connected with the Chern-Simons form, which coincides exactly with
+the Dubrovnik version of the Kauffman Polynomial. This provides for the first
+time the possibility of finding explicit analytic expressions for the
+coefficients of that knot polynomial.
+\\

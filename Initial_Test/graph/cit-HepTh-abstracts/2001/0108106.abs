@@ -1,0 +1,36 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0108106
+From: "Igor R. Klebanov" <klebanov@feynman.princeton.edu>
+Date: Tue, 14 Aug 2001 18:01:45 GMT   (23kb)
+Date (revised v2): Thu, 6 Sep 2001 16:25:40 GMT   (29kb)
+Date (revised v3): Mon, 10 Sep 2001 16:02:15 GMT   (29kb)
+Date (revised v4): Fri, 19 Oct 2001 21:12:36 GMT   (29kb)
+
+Title: String Corrections to the Holographic RG Flow of Supersymmetric SU(N) x
+  SU(N+M) Gauge Theory
+Authors: Sergey Frolov, Igor R. Klebanov and Arkady A. Tseytlin
+Comments: harvmac, 29 p. v4: final version, to appear in NPB
+Report-no: OHSTPY-HEP-T-01-024, PUPT-2004
+Journal-ref: Nucl.Phys. B620 (2002) 84-108
+\\
+  We study leading string corrections to the type IIB supergravity solution
+dual to the ${\cal N}=1$ supersymmetric $SU(N+M)\times SU(N)$ gauge theory
+coupled to bifundamental chiral superfields $A_i, B_j$, $i,j=1,2$. This
+solution was found in hep-th/0007191, and its asymptotic form describing
+logarithmic RG flow was constructed in hep-th/0002159. The leading tree-level
+string correction to the type IIB string effective action is represented by the
+invariant of the form $\a'{}^3 (R^4 + ...)$. Since the background contains
+3-form field strengths, we need to know parts of this invariant that depend on
+them. By analyzing the 5-point superstring scattering amplitudes we show that
+only a few specific $R^3 (H_3)^2$ and $R^3 (F_3)^2$ terms are present in the
+effective action.
+  Their contribution to the holographic RG flow turns out to be of the same
+order as of the $R^4$ terms. Using this fact we show that it is possible to
+have agreement between the $\alpha'$-corrected radial dependence of the
+supergravity fields and the RG flow dictated by the NSVZ beta functions in
+field theory. The agreement with field theory requires that the anomalous
+dimension of the operators $\Tr (A_i B_j)$ is corrected by a term of order
+$(M/N)^4 \lambda^{-1/2}$ from its value $-{1 \over 2} $ found for M=0
+($\lambda$ is the appropriate 't Hooft coupling which is assumed to be strong).
+\\

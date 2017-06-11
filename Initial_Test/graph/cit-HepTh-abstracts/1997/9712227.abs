@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9712227
+From: Jonathan Mark Evans <J.M.Evans@damtp.cam.ac.uk>
+Date: Wed, 24 Dec 1997 12:18:27 GMT   (31kb)
+
+Title: Quantum Integrability of Coupled N=1 Super Sine/Sinh-Gordon Theories and
+  the Lie Superalgebra D(2,1;\A)
+Authors: Jonathan M. Evans (DAMTP, Cambridge) and Jens Ole Madsen (Universidade
+  de Santiago de Compostela)
+Comments: 25 pages, LaTeX
+Report-no: DAMTP/97-147, US-FT/35-97
+Journal-ref: Int.J.Mod.Phys. A14 (1999) 2551-2580
+\\
+  We discuss certain integrable quantum field theories in (1+1)-dimensions
+consisting of coupled sine/sinh-Gordon theories with N=1 supersymmetry,
+positive kinetic energy, and bosonic potentials which are bounded from below.
+We show that theories of this type can be constructed as Toda models based on
+the exceptional affine Lie superalgebra $D(2,1;\A)^{(1)}$ (or on related
+algebras which can be obtained as various limits) provided one adopts
+appropriate reality conditions for the fields. In particular, there is a
+continuous family of such models in which the couplings and mass ratios all
+depend on the parameter $\A$. The structure of these models is analyzed in some
+detail at the classical level, including the construction of conserved currents
+with spins up to 4. We then show that these currents generalize to the quantum
+theory, thus demonstrating quantum-integrability of the models.
+\\

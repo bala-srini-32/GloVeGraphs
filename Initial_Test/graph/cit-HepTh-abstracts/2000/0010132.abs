@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0010132
+From: J. Bijtebier <jbijtebi@vub.ac.be>
+Date: Tue, 17 Oct 2000 08:10:21 GMT   (4kb)
+
+Title: Towards a 3D reduction of the N-body Bethe-Salpeter equation
+Authors: J. Bijtebier
+Comments: 4 pages. Poster presented at the XVIIth conference on few-body
+  problems in physics, Evora 2000
+\\
+  Starting with the homogeneous Bethe-Salpeter equation for two fermions, we
+perform a 3D reduction using a series expansion around an unspecified
+positive-energy instantaneous approximation of the kernel. A second series
+expansion is made, at the 3D level, in order to get an "hermitian" potential.
+The combination of both series gives a very simple result, which does not
+depend of the initial approximation of the kernel anymore, and could be
+obtained directly by starting with an approximation of the free propagator. The
+generalisation of this result to a system of f (=0,...N) fermions and N-f
+bosons is easy.
+\\

@@ -1,0 +1,19 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9508019
+From: Rodriguez Romo Suemi-FESC <suemi@servidor.dgsca.unam.mx>
+Date: Fri, 4 Aug 1995 10:09:41 -0600 (CST)   (12kb)
+
+Title: Examples of q-regularization
+Authors: Suemi Rodr\'{\i}guez-Romo
+Comments: 17 pages, LaTex, to be published in IJTP 1995.11
+Report-no: CIT-FESC-UNAM 95/3
+Journal-ref: Int.J.Theor.Phys. 34 (1995) 2179-2194
+\\
+  An Introduction to Hopf algebras as a tool for the regularization of relavent
+quantities in quantum field theory is given. We deform algebraic spaces by
+introducing q as a regulator of a non-commutative and non-cocommutative Hopf
+algebra. Relevant quantities are finite provided q\neq 1 and diverge in the
+limit q\rightarrow 1. We discuss q-regularization on different q-deformed
+spaces for \lambda\phi^4 theory as example to illustrate the idea.
+\\

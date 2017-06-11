@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0110062
+From: Brett McInnes <matmcinn@nus.edu.sg>
+Date: Sun, 7 Oct 2001 06:37:01 GMT   (20kb)
+Date (revised v2): Tue, 16 Oct 2001 08:16:50 GMT   (21kb)
+
+Title: Exploring the Similarities of the dS/CFT and Ads/CFT Correspondences
+Authors: Brett McInnes
+Comments: Typos fixed, minor clarifications
+Report-no: NUS Math801
+Journal-ref: Nucl.Phys. B627 (2002) 311-329
+\\
+  The dS/CFT correspondence differs from its AdS/CFT counterpart in some ways,
+yet is strikingly similar to it in many others. For example, both involve CFTs
+defined on connected spaces (despite the fact that the conformal boundary of
+deSitter space is not connected), and both impose constraints on scalar masses
+(Strominger's bound for deSitter, and the Breitenlohner-Freedman bound for
+Anti-deSitter). We argue that these similarities can be explored and exploited
+using a slight extension of the Euclidean approach to AdS/CFT. The methods are
+particularly compatible with Hull's embedding of deSitter Space in a timelike
+T-dual version of M-theory.
+\\

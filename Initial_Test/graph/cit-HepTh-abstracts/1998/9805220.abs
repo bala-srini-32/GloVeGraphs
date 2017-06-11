@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9805220
+From: Tamas Hauer <hauer@mit.edu>
+Date: Fri, 29 May 1998 23:43:30 GMT   (23kb)
+Date (revised v2): Mon, 29 Jun 1998 20:11:09 GMT   (22kb)
+
+Title: Constraints on the BPS Spectrum of N = 2, D = 4 Theories with A-D-E
+  Flavor Symmetry
+Authors: Oliver DeWolfe, Tamas Hauer, Amer Iqbal and Barton Zwiebach
+Comments: 15 pages, LaTeX, 1 eps figure; references added
+Report-no: MIT-CTP-2747
+Journal-ref: Nucl.Phys. B534 (1998) 261-274
+\\
+  BPS states of N=2, D=4 Super Yang-Mills theories with ADE flavor symmetry
+arise as junctions joining a D3-brane to a set of 7-branes defining the
+enhanced flavor algebra. We show that the familiar BPS spectrum of SU(2)
+theories with N_f <= 4 is simply given by the set of junctions whose
+self-intersection is bounded below as required by supersymmetry. This
+constraint, together with the relations between junction and weight lattices,
+is used to establish the appearance of arbitrarily large flavor representations
+for the case of D_{n>=5} and E_n symmetries. Such representations are required
+by consistency with decoupling down to smaller flavor symmetries.
+\\

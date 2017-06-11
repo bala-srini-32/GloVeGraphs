@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9601111
+From: tsutsui@ins.u-tokyo.ac.jp
+Date: Mon, 22 Jan 96 16:52:00 +0900   (56kb)
+
+Title: Quantum mechanical Liouville model with attractive potential
+Author: Hiroyuki Kobayashi, Izumi Tsutsui
+Comments: 20 pages, plain tex, 2 Postscript figures
+Report-no: INS-Rep.-1124
+Journal-ref: Nucl.Phys. B472 (1996) 409-426
+\\
+  We study the quantum mechanical Liouville model with attractive potential
+which is obtained by Hamiltonian symmetry reduction from the system of a free
+particle on $SL(2, \Real)$. The classical reduced system consists of a pair of
+Liouville subsystems which are `glued together' in such a way that the
+singularity of the Hamiltonian flow is regularized. It is shown that the
+quantum theory of this reduced system is labelled by an angle parameter $\theta
+\in [\,0,2\pi)$ characterizing the self-adjoint extensions of the Hamiltonian
+and hence the energy spectrum. There exists a probability flow between the two
+Liouville subsystems, demonstrating that the two subsystems are also
+`connected' quantum mechanically, even though all the wave functions in the
+Hilbert space vanish at the junction.
+\\

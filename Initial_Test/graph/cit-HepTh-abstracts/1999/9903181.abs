@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9903181
+From: Changhyun Ahn <ahn@bh.kyungpook.ac.kr>
+Date: Mon, 22 Mar 1999 08:06:49 GMT   (17kb)
+Date (revised v2): Tue, 30 Mar 1999 06:19:51 GMT   (18kb)
+Date (revised v3): Fri, 9 Apr 1999 12:07:15 GMT   (18kb)
+
+Title: Branes at $\C^4/\Ga$ Singularity from Toric Geometry
+Authors: Changhyun Ahn and Hoil Kim
+Comments: 1 figure, 4 tables, latex file and 26 pages:v1 added mathematical
+  results on projective crepant resolutions by Dais et al and refs added:v2
+  typos corrected and the beginning paragrphs in section 3 clarified
+Report-no: SNUTP-99-011
+Journal-ref: JHEP 9904 (1999) 012
+\\
+  We study toric singularities of the form of $\C^4/\Ga$ for finite abelian
+groups $\Ga \subset SU(4)$. In particular, we consider the simplest case
+$\Ga=\Z_2 \times \Z_2 \times \Z_2$ and find explicitly charge matrices for
+partial resolutions of this orbifold by extending the method by Morrison and
+Plesser. We obtain three kinds of algebraic equations, $z_1 z_2 z_3 z_4=z_5^2,
+z_1 z_2 z_3=z_4^2 z_5 $ and $z_1 z_2 z_5 = z_3 z_4$ where $z_i$'s parametrize
+$\C^5$. When we put $N$ D1 branes at this singularity, it is known that the
+field theory on the worldvolume of $N$ D1 branes is T-dual to $2 \times 2
+\times 2 $ brane cub model. We analyze geometric interpretation for field
+theory parameters and moduli space.
+\\

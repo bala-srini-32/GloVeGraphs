@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9907192
+From: "Vladimir Nesterenko" <nestr@thsun1.jinr.ru>
+Date: Tue, 27 Jul 1999 10:13:42 GMT   (16kb)
+Date (revised v2): Tue, 24 Aug 1999 18:48:21 GMT   (16kb)
+Date (revised v3): Mon, 18 Oct 1999 15:09:05 GMT   (16kb)
+
+Title: Casimir energy of a compact cylinder under the condition $\epsilon\mu =
+  c^{-2}$
+Authors: V.V. Nesterenko and I.G. Pirozhenko
+Comments: REVTeX, 12 pages, 1 figure in a separate fig1.eps file, 1 table;
+  minor corrections in English and misprints; version to be published in Phys.
+  Rev. D15
+Journal-ref: Phys.Rev. D60 (1999) 125007
+\\
+  The Casimir energy of an infinite compact cylinder placed in a uniform
+unbounded medium is investigated under the continuity condition for the light
+velocity when crossing the interface. As a characteristic parameter in the
+problem the ratio $\xi^2=(\epsilon_1-\epsilon_2)^2/ (\epsilon_1+\epsilon_2)^-2
+= (\mu_1-\mu_2)^2/(\mu_1+ \mu_2)^2 \le 1$ is used, where $\epsilon_1$ and
+$\mu_1$ are, respectively, the permittivity and permeability of the material
+making up the cylinder and $\epsilon_2$ and $\mu_2$ are those for the
+surrounding medium. It is shown that the expansion of the Casimir energy in
+powers of this parameter begins with the term proportional to $\xi^4$. The
+explicit formulas permitting us to find numerically the Casimir energy for any
+fixed value of $\xi^2$ are obtained. Unlike a compact ball with the same
+properties of the materials, the Casimir forces in the problem under
+consideration are attractive. The implication of the calculated Casimir energy
+in the flux tube model of confinement is briefly discussed.
+\\

@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9503067
+From: "J.W. Goodison" <J.W.Goodison@newcastle.ac.uk>
+Date: Fri, 10 Mar 1995 13:51:45 +0000 (GMT)   (7kb)
+
+Title: Calogero-Vasiliev Oscillator in Dynamically Evolving Curved Spacetime
+Author: Jim Goodison
+Comments: 11 pages ( no figures ), RevTex - To appear in Physics Letters B
+Report-no: NCL94-TP15
+Journal-ref: Phys. Lett. B350 (1995) 17
+\\
+In a recent work, the consequences of quantizing a real scalar field $\Phi$
+according to generalized ``quon'' statistics in a dynamically evolving curved
+spacetime (~which, prior to some initial time and subsequent to some later
+time, is flat~) were considered. Here a similar calculation is performed; this
+time we quantize $\Phi$ via the Calogero-Vasiliev oscillator algebra, described
+by a real parameter $\nu > -1/2$. It is found that both conservation ( $\nu
+\rightarrow \nu$ ) and anticonservation ( $\nu \rightarrow - \nu$ ) of
+statistics is allowed. We find that for mathematical consistency the Bogoliubov
+coefficients associated with the $i$'th field mode must satisfy $|\alpha_i |^2
+- | \beta_i |^2 = 1$ with $| \beta_i |^2$ taking an integer value.
+\\

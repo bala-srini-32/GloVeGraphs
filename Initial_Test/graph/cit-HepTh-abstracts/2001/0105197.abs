@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0105197
+From: "Ryu Sasaki" <ryu@yukawa.kyoto-u.ac.jp>
+Date: Mon, 21 May 2001 05:01:48 GMT   (12kb)
+
+Title: Hierarchies of Spin Models related to Calogero-Moser Models
+Authors: V. I. Inozemtsev and R. Sasaki
+Comments: 12pages, LaTeX2e, packages used: pstricks, pst-node, pstcol, if these
+  are not available, an eps file will be sent upon request
+Report-no: YITP-01-42
+Subj-class: High Energy Physics - Theory; Mathematical Physics; Exactly
+  Solvable and Integrable Systems
+Journal-ref: Nucl.Phys. B618 (2001) 689-698
+\\
+  The universal formulation of spin exchange models related to Calogero-Moser
+models implies the existence of integrable hierarchies, which have not been
+explored. We show the general structures and features of the spin exchange
+model hierarchies by taking as examples the well-known Heisenberg spin chain
+with the nearest neighbour interactions. The energy spectra of the second
+member of the hierarchy belonging to the models based on the $A_r$ root systems
+$(r=3,4,5)$ are explicitly and {\em exactly} evaluated. They show many many
+interesting features and in particular, much higher degree of degeneracy than
+the original Heisenberg model, as expected from the integrability.
+\\

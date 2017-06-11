@@ -1,0 +1,19 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0212035
+From: J. David Vergara <vergara@nuclecu.unam.mx>
+Date: Tue, 3 Dec 2002 21:58:23 GMT   (11kb)
+Date (revised v2): Thu, 12 Dec 2002 19:10:11 GMT   (12kb)
+
+Title: Boundary conditions as constraints
+Authors: Juan M. Romero and J. David Vergara
+Comments: 18 pages, references added
+\\
+  A new method to compute the symplectic structure of a quantum field theory
+with non trivial boundary conditions is proposed. Following the suggestion in
+\cite{ho:gnus, ardalan}, we regard that the boundary conditions are second
+class constraints in the sense of the Dirac's method. However, we show that
+this proposal is more useful if we consider an inverse of the Holographic map
+between a theory defined in the boundary to another with constraints but
+without boundary.
+\\

@@ -1,0 +1,18 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0003094
+From: Luka Sustersic <luka.sustersic@ijs.si>
+Date: Mon, 13 Mar 2000 13:44:52 GMT   (8kb)
+Date (revised v2): Mon, 2 Jul 2001 07:02:27 GMT   (9kb)
+
+Title: Realistic regularization of the QED Green functions
+Authors: Marijan Ribaric and Luka Sustersic
+\\
+  Generalizing the 't Hooft and Veltman method of unitary regulators, we
+demonstrate for the first time the existence of local, Lorentz-invariant,
+physically motivated Lagrangians of quantum-electrodynamic phenomena such that:
+(i) Feynman diagrams are finite and equal the diagrams of QED but with
+regularized propagators. (ii) N-point Green functions are C-, P-, and
+T-invariant up to a phase factor, Lorentz-invariant and causal. (iii) No
+auxiliary particles or parameters are introduced.
+\\

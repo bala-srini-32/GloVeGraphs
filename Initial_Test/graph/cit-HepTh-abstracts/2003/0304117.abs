@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0304117
+From: Max NIEDERMAIER <max@phys.univ-tours.fr>
+Date: Fri, 11 Apr 2003 22:27:48 GMT   (49kb)
+
+Title: Dimensionally reduced gravity theories are asymptotically safe
+Authors: M. Niedermaier
+Comments: 47 pages, Latex, 1 figure
+\\
+  4D Einstein gravity coupled to scalars and abelian gauge fields in its
+2-Killing vector reduction is shown to be quasi-renormalizable to all loop
+orders at the expense of introducing infinitely many essential couplings. The
+latter can be combined into one or two functions of the `area radius'
+associated with the two Killing vectors. The renormalization flow of these
+couplings is governed by beta functionals expressible in closed form in terms
+of the (one coupling) beta function of a symmetric space sigma-model.
+Generically the matter coupled systems are asymptotically safe, that is the
+flow possesses a non-trivial UV stable fixed point at which the trace anomaly
+vanishes. The main exception is a minimal coupling of 4D Einstein gravity to
+massless free scalars, in which case the scalars decouple from gravity at the
+fixed point.
+\\

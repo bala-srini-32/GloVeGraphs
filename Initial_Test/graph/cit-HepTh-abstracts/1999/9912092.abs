@@ -1,0 +1,37 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9912092
+From: Dirk Kreimer <kreimer@dipmza.physik.uni-mainz.de>
+Date: Mon, 13 Dec 1999 16:10:51 GMT   (115kb)
+
+Title: Renormalization in quantum field theory and the Riemann-Hilbert problem
+  I: the Hopf algebra structure of graphs and the main theorem
+Authors: Alain Connes and Dirk Kreimer
+Comments: 35p, 18 eps-figures, to appear in Commun.Math.Phys
+Report-no: MZ-TH/99-54
+Subj-class: High Energy Physics - Theory; Mathematical Physics; Quantum Algebra
+Journal-ref: Commun.Math.Phys. 210 (2000) 249-273
+\\
+  This paper gives a complete selfcontained proof of our result announced in
+hep-th/9909126 showing that renormalization in quantum field theory is a
+special instance of a general mathematical procedure of extraction of finite
+values based on the Riemann-Hilbert problem.
+  We shall first show that for any quantum field theory, the combinatorics of
+Feynman graphs gives rise to a Hopf algebra $\Hc$ which is commutative as an
+algebra. It is the dual Hopf algebra of the envelopping algebra of a Lie
+algebra $\ud G$ whose basis is labelled by the one particle irreducible Feynman
+graphs. The Lie bracket of two such graphs is computed from insertions of one
+graph in the other and vice versa. The corresponding Lie group $G$ is the group
+of characters of $\Hc$.
+  We shall then show that, using dimensional regularization, the bare
+(unrenormalized) theory gives rise to a loop $$ \g (z) \in G \qquad z \in C $$
+where $C$ is a small circle of complex dimensions around the integer dimension
+$D$ of space-time. Our main result is that the renormalized theory is just the
+evaluation at $z = D$ of the holomorphic part $\g_+$ of the Birkhoff
+decomposition of $\g$.
+  We begin to analyse the group $G$ and show that it is a semi-direct product
+of an easily understood abelian group by a highly non-trivial group closely
+tied up with groups of diffeomorphisms. The analysis of this latter group as
+well as the interpretation of the renormalization group and of anomalous
+dimensions are the content of our second paper with the same overall title.
+\\

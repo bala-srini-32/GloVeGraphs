@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9510155
+From: NUNES@BINAH.CC.BRANDEIS.EDU
+Date: Fri, 20 Oct 1995 17:44:54 -0500 (EST)   (10kb)
+Date (revised): Tue, 07 Nov 1995 13:21:13 -0500 (EST)
+
+Title: The Master Field For 2D QCD On The Sphere
+Authors: J. P. Nunes and H. J. Schnitzer
+Comments: 14 pages, latex file, no macros, 1 reference added
+Report-no: BRX-TH-385
+Journal-ref: Phys.Lett. B377 (1996) 117-123
+\\
+  We continue our analysis of the field strength correlation functions of
+two-dimensional QCD on Riemann surfaces by studying the large $N$ limit of
+these correlation functions on the sphere for gauge group $U(N)$. Our results
+allow us to exhibit an explicit master field for the field strength
+$F_{\mu\nu}$ in a ``topological gauge'', given by a single master matrix in the
+Lie algebra of the maximal torus of the gauge group. Field correlators are
+obtained from traces of products of the master field. We also obtain a master
+field for the gauge potential $A_{\mu}$ on the sphere, consistent with the
+master field for the field strength.
+\\

@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0205269
+From: Yi Liao <liaoy@itp.uni-leipzig.de>
+Date: Sun, 26 May 2002 11:12:11 GMT   (17kb)
+Date (revised v2): Wed, 3 Jul 2002 15:25:02 GMT   (17kb)
+
+Title: Time-ordered Perturbation Theory on Noncommutative Spacetime: Basic
+  Rules
+Authors: Yi Liao, Klaus Sibold (ITP, Leipzig)
+Comments: 19 pages, 1 figure using axodraw; version 2: typos fixed and one ref
+  updated, to appear in Eur Phys J C
+Report-no: LU-ITP 2002/009
+Journal-ref: Eur.Phys.J. C25 (2002) 469-477
+\\
+  Assuming the S-matrix on noncommutative (NC) spacetime can still be
+developped perturbatively in terms of the time-ordered exponential of the
+interaction Lagrangian, we investigate the perturbation theory of NC field
+theory. We first work out with care some typical Green functions starting from
+the usual concepts of time-ordering and commutation relations for free fields.
+The results are found to be very different from those in the naive approach
+pursued in the literature. A simple framework then appears naturally which can
+incorporate the new features of our results and which turns out to be the usual
+time-ordered perturbation theory extended to the NC context. We provide the
+prescriptions for computing S-matrix elements and Green functions in this
+framework. We also emphasize that the naive seemingly covariant approach cannot
+be reproduced from the current one, in contrast to the field theory on ordinary
+spacetime. We attribute this to the phase-like nonlocal interaction intrinsic
+in NC field theory which modifies the analytic properties of Green functions
+significantly.
+\\

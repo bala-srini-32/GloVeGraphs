@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9803056
+From: Morikawa Keiichi <morikawa@hep.s.kanazawa-u.ac.jp>
+Date: Fri, 6 Mar 1998 11:30:02 GMT   (67kb)
+Date (revised v2): Mon, 23 Mar 1998 15:49:30 GMT   (67kb)
+
+Title: Rapidly Converging Truncation Scheme of the Exact Renormalization Group
+Authors: Ken-Ichi Aoki, Keiichi Morikawa, Wataru Souma, Jun-Ichi Sumi, Haruhiko
+  Terao
+Comments: 17 pages including 13 figures, LaTeX, to appear in Prog. Theor.
+  Phys., references added
+Report-no: KANAZAWA-97-20
+Journal-ref: Prog.Theor.Phys. 99 (1998) 451-466
+\\
+  The truncation scheme dependence of the exact renormalization group equations
+is investigated for scalar field theories in three dimensions. The exponents
+are numerically estimated to the next-to-leading order of the derivative
+expansion. It is found that the convergence property in various truncations in
+the number of powers of the fields is remarkably improved if the expansion is
+made around the minimum of the effective potential. It is also shown that this
+truncation scheme is suitable for evaluation of infrared effective potentials.
+The physical interpretation of this improvement is discussed by considering
+O(N) symmetric scalar theories in the large-N limit.
+\\

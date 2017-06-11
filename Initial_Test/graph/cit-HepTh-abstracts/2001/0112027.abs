@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0112027
+From: Stephane Fidanza <Stephane.Fidanza@cpht.polytechnique.fr>
+Date: Tue, 4 Dec 2001 18:18:58 GMT   (30kb)
+Date (revised v2): Thu, 26 Sep 2002 10:27:28 GMT   (29kb)
+
+Title: Towards an explicit expression of the Seiberg-Witten map at all orders
+Authors: Stephane Fidanza
+Comments: 17 pages. Latex, 1 figure. v2: minor changes, published version
+Report-no: CPHT-S054.1101
+Journal-ref: JHEP 0206 (2002) 016
+\\
+  The Seiberg-Witten map links noncommutative gauge theories to ordinary gauge
+theories, and allows to express the noncommutative variables in terms of the
+commutative ones. Its explicit form can be found order by order in the
+noncommutative parameter theta and the gauge potential A by the requirement
+that gauge orbits are mapped on gauge orbits. This of course leaves
+ambiguities, corresponding to gauge transformations, and there is an infinity
+of solutions. Is there one better, clearer than the others ? In the abelian
+case, we were able to find a solution, linked by a gauge transformation to
+already known formulas, which has the property of admitting a recursive
+formulation, uncovering some pattern in the map. In the special case of a pure
+gauge, both abelian and non-abelian, these expressions can be summed up, and
+the transformation is expressed using the parametrisation in terms of the gauge
+group.
+\\

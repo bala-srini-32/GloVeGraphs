@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9807181
+From: boucaud <phi@qcd.th.u-psud.fr>
+Date: Thu, 23 Jul 1998 11:12:38 GMT   (7kb)
+Date (revised v2): Fri, 26 Feb 1999 12:35:11 GMT   (8kb)
+Date (revised v3): Mon, 25 Oct 1999 17:28:06 GMT   (12kb)
+
+Title: Mass protection via translational invariance
+Authors: J.L. Alonso, Ph. Boucaud, J.M. Carmona, J.L. Cortes, J. Polonyi and
+  A.J. van der Sijs
+Comments: 9 pages, LaTeX. Final version to appear in Modern Physics Letters
+Report-no: SCSC-TR-98-07, DFTUZ/98/22, LPTHE-Orsay 98/51
+Journal-ref: Mod.Phys.Lett. A14 (1999) 2277-2285
+\\
+  We propose a way of protecting a Dirac fermion interacting with a scalar
+field from acquiring a mass from the vacuum. It is obtained through an
+implementation of translational symmetry when the theory is formulated with a
+momentum cutoff, which forbids the usual Yukawa term. We consider that this
+mechanism can help to understand the smallness of neutrino masses without a
+tuning of the Yukawa coupling. The prohibition of the Yukawa term for the
+neutrino forbids at the same time a gauge coupling between the right-handed
+electron and neutrino. We prove that this mechanism can be implemented on the
+lattice.
+\\

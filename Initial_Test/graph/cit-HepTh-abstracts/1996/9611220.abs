@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9611220
+From: Juan Carlos Perez Bueno <pbueno@lie.ific.uv.es>
+Date: Tue, 26 Nov 1996 16:27:59 MET   (7kb)
+Date (revised): Wed, 27 Nov 1996 11:04:05 MET
+
+Title: Multibracket simple Lie algebras
+Authors: J. A. de Azcarraga and J. C. Perez Bueno
+Comments: Latex file; 5 pages. Some latex problems solved. Talk given at the
+  XXI International Colloquium on Group Theoretical Methods in Physics. July
+  1996, Goslar, Germany. To appear in the Proceedings
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+Journal-ref: Group 21: Physical Applications and Mathematical Aspects of
+  Geometry, Groups and Algebra, Vol I, pp. 103-107. World Sci. 1997
+\\
+  We introduce higher-order (or multibracket) simple Lie algebras that
+generalize the ordinary Lie algebras. Their `structure constants' are given by
+Lie algebra cohomology cocycles which, by virtue of being such, satisfy a
+suitable generalization of the Jacobi identity. Finally, we introduce a
+nilpotent, complete BRST operator associated with the l multibracket algebras
+which are based on a given simple Lie algebra of rank l.
+\\

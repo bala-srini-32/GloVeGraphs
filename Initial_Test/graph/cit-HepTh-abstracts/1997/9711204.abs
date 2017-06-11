@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9711204
+From: Achim Kempf <a.kempf@damtp.cam.ac.uk>
+Date: Fri, 28 Nov 1997 20:58:07 GMT   (6kb)
+
+Title: Recent results on UV-regularisation through UV-modified uncertainty
+  relations
+Authors: A. Kempf (DAMTP, Cambridge)
+Comments: 4 pages, LaTeX, to appear in Proceedings 5th Wigner Symposium,
+  Vienna, Aug 97
+Report-no: DAMTP-97-136
+\\
+  Assume that in a fundamental theory of quantum gravity spatial information is
+encoded through elements x_i of an associative, complex and possibly
+noncommutative algebra in which the involution acts as x^*_i = x_i. Without
+further assumptions it can be shown that such x_i can describe only three
+different types of short distance structures: I. a lattice, II. a continuum or
+III. a finite lower bound on the uncertainty in positions, as e.g. described in
+a stringy uncertainty relation. All other cases are mixtures of the three. We
+briefly review recent results on the case III short distance structure, in
+particular its ultraviolet regularity and a possible new mechanism that turns
+the external degrees of freedom lost through the UV-cutoff into internal
+degrees of freedom.
+\\

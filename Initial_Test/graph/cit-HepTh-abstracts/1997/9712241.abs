@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9712241
+From: Nikita Nekrassov <nikita@curie.harvard.edu>
+Date: Sun, 28 Dec 1997 01:11:24 GMT   (31kb)
+
+Title: Integrating Over Higgs Branches
+Authors: G.Moore, N.Nekrasov, and S.Shatashvili
+Comments: 32pp. harvmac big mode
+Report-no: ITEP-TH-62/97, HUTP-97/A089, YCTP-P23/97
+Journal-ref: Commun.Math.Phys. 209 (2000) 97-121
+\\
+  We develop some useful techinques for integrating over Higgs branches in
+supersymmetric theories with 4 and 8 supercharges. In particular, we define a
+regularized volume for hyperkahler quotients. We evaluate this volume for
+certain ALE and ALF spaces in terms of the hyperkahler periods. We also reduce
+these volumes for a large class of hyperkahler quotients to simpler integrals.
+These quotients include complex coadjoint orbits, instanton moduli spaces on
+$\IR^{4}$ and ALE manifolds, Hitchin spaces, and moduli spaces of parabolic
+Higgs bundles on Riemann surfaces. In the case of Hitchin spaces the evaluation
+of the volume reduces to a summation over solutions of Bethe Ansatz equations
+for the non-linear Schr\"odinger system. We discuss some applications of our
+results.
+\\

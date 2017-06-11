@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0201023
+From: Nicolas Boulanger <nboulang@ulb.ac.be>
+Date: Fri, 4 Jan 2002 15:55:55 GMT   (20kb)
+Date (revised v2): Fri, 8 Feb 2002 12:34:37 GMT   (20kb)
+
+Title: Conformal (super)gravities with several gravitons
+Authors: Nicolas Boulanger, Marc Henneaux and Peter van Nieuwenhuizen
+Comments: 19+1 pages, LaTeX. Reference added
+Journal-ref: JHEP 0201 (2002) 035
+\\
+  We construct consistent interacting gauge theories for M conformal massless
+spin-2 fields ("Weyl gravitons") with the following properties: (i) in the free
+limit, each field fulfills the equation ${\cal B}^{\mu \nu} = 0$, where ${\cal
+B}^{\mu \nu}$ is the linearized Bach tensor, (ii) the interactions contain no
+more than four derivatives, just as the free action and (iii) the internal
+metric for the Weyl gravitons is not positive definite. The interacting
+theories are obtained by gauging appropriate non-semi-simple extensions of the
+conformal algebra $so(4,2)$ with commutative, associative algebras of dimension
+M. By writing the action in terms of squares of supercurvatures,
+supersymmetrization is immediate and leads to consistent conformal
+supergravities with M interacting gravitons.
+\\

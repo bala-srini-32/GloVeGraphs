@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0302026
+From: Andrei Starinets <starina@anitra.phys.washington.edu>
+Date: Wed, 5 Feb 2003 20:34:30 GMT   (97kb)
+
+Title: AdS/CFT correspondence, quasinormal modes, and thermal correlators in
+  N=4 SYM
+Authors: Alvaro Nunez and Andrei O. Starinets
+Comments: 30 pages, 1 table, 14 figures
+Report-no: NYU-TH/03/02/01, INT-PUB 03-02
+\\
+  We use the Lorentzian AdS/CFT prescription to find the poles of the retarded
+thermal Green's functions of ${\cal N=4}$ SU(N) SYM theory in the limit of
+large N and large 't Hooft coupling. In the process, we propose a natural
+definition for quasinormal modes in an asymptotically AdS spacetime, with
+boundary conditions dictated by the AdS/CFT correspondence. The corresponding
+frequencies determine the dispersion laws for the quasiparticle excitations in
+the dual finite-temperature gauge theory. Correlation functions of operators
+dual to massive scalar, vector and gravitational perturbations in a
+five-dimensional AdS-Schwarzschild background are considered. We find
+asymptotic formulas for quasinormal frequencies in the massive scalar and
+tensor cases, and an exact expression for vector perturbations. The latter
+result allows us to reconstruct the finite-temperature R-current correlator at
+strong coupling in the limit of zero spatial momentum. In the long-distance,
+low-frequency limit we recover results of the hydrodynamic approximation to
+thermal Yang-Mills theory.
+\\

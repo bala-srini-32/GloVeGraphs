@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9810232
+From: Roland.Rosenfelder@psi.ch
+Date: Wed, 28 Oct 1998 15:16:00 GMT   (5kb)
+
+Title: The Feynman Variational Principle in the Worldline Representation of
+  Field Theory
+Authors: R. Rosenfelder (Paul Scherrer Institute, Switzerland), C. Alexandrou
+  (University of Cyprus) and A. W. Schreiber (University of Adelaide,
+  Australia)
+Comments: 5 pages, revtex, no figures. To appear in Proceedings of PI98,
+  Florence, Italy
+\\
+  Following Feynman's treatment of the non-relativistic polaron problem,
+similar techniques are used to study relativistic field theories: after
+integrating out the bosonic degrees of freedom the resulting effective action
+is formulated in terms of particle trajectories (worldlines) instead of field
+operators. The Green functions of the theory are then approximated
+variationally on the pole of the external particles by using a retarded
+quadratic trial action. Application to a scalar theory gives non-perturbative,
+covariant results for vertex functions and scattering processes. Recent
+progress in dealing with the spin degrees of freedom in fermionic systems, in
+particular Quantum Electrodynamics, is discussed. We evaluate the averages
+needed in the Feynman variational principle for a general quadratic trial
+action and study the structure of the dressed fermion propagator.
+\\

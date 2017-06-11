@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9608123
+From: Ramon Rodriguez <ramon@mnhepo.hep.umn.edu>
+Date: Mon, 19 Aug 1996 08:52:47 -0500 (CDT)   (7kb)
+
+Title: Aspects of Confinement and Chiral Dynamics in 2-d QED at Finite
+  Temperature
+Authors: R. Rodriguez, Y. Hosotani, J.E. Hetrick, and S. Iso
+Comments: 4 pages, 2 ps files, uses sprocl.sty. To appear in Proceedings of
+  DPF96 (August, Minnesota)
+Report-no: UMN-TH-1507/96, NUC-MINN-96/14-T
+\\
+  We evaluate the Polyakov loop and string tension at zero and finite
+temperature in $QED_2.$ Using bozonization the problem is reduced to solving
+the Schr\"odinger equation with a particular potential determined by the ground
+state. In the presence of two sources of opposite charges the vacuum angle
+parameter $\theta $ changes by $2\pi (q/e)$, independent of the number of
+flavors. This, in turn, alters the chiral condensate. Particularly, in the one
+flavor case through a simple computer algorithm, we explore the chiral dynamics
+of a heavy fermion.
+\\

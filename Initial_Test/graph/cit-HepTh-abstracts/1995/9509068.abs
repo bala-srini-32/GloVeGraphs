@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9509068
+From: Kim Tae Seong <tskim@chep6.kaist.ac.kr>
+Date: Wed, 13 Sep 0 21:31:44 "KST   (9kb)
+
+Title: The Dynamical Behaviors in (2+1)-Dimensional Gross-Neveu Model with a
+  Thirring Interaction
+Authors: Tae Seong Kim, Won-Ho Kye and Jae Kwan Kim
+Comments: 19 pages, LaTex, 6 ps figure files(uuencoded in seperate file)
+Report-no: KAIST-TPP-K20
+Journal-ref: Phys.Rev. D52 (1995) 6109-6115
+\\
+  We analyze (2+1)-dimensional Gross-Neveu model with a Thirring interaction,
+where a vector-vector type four-fermi interaction is on equal terms with a
+scalar-scalar type one. The Dyson-Schwinger equation for fermion self-energy
+function is constructed up to next-to-leading order in 1/N expansion. We
+determine the critical surface which is the boundary between a broken phase and
+an unbroken one in ($\alpha_c,~ \beta_c,~ N_c$) space. It is observed that the
+critical behavior is mainly controlled by Gross-Neveu coupling $\alpha_c$ and
+the region of the broken phase is separated into two parts by the line
+$\alpha_c=\alpha_c^*(=\frac{8}{\pi^2})$. The mass function is strongly
+dependent upon the flavor number N for $\alpha > \alpha_c^*$, while weakly for
+$\alpha < \alpha_c^*$. For $\alpha > \alpha_c^*$, the critical flavor number
+$N_c$ increases as Thirring coupling $\beta$ decreases. By driving the CJT
+effective potential, we show that the broken phase is energetically preferred
+to the symmetric one. We discuss the gauge dependence of the mass function and
+the ultra-violet property of the composite operators.
+\\

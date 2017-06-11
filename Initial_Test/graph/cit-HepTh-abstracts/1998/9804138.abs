@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9804138
+From: Takuya Tsukioka <tsukioka@particle.sci.hokudai.ac.jp>
+Date: Tue, 21 Apr 1998 10:45:03 GMT   (39kb)
+
+Title: Quantization of Even-Dimensional Actions of Chern-Simons Form with
+  Infinite Reducibility
+Authors: N. Kawamoto, K. Suehiro, T. Tsukioka and H. Umetsu
+Comments: 50 pages, latex, no figures
+Report-no: EPHOU-98-003
+Journal-ref: Nucl.Phys. B532 (1998) 429-472
+\\
+  We investigate the quantization of even-dimensional topological actions of
+Chern-Simons form which were proposed previously. We quantize the actions by
+Lagrangian and Hamiltonian formulations {\`a} la Batalin, Fradkin and
+Vilkovisky. The models turn out to be infinitely reducible and thus we need
+infinite number of ghosts and antighosts. The minimal actions of Lagrangian
+formulation which satisfy the master equation of Batalin and Vilkovisky have
+the same Chern-Simons form as the starting classical actions. In the
+Hamiltonian formulation we have used the formulation of cohomological
+perturbation and explicitly shown that the gauge-fixed actions of both
+formulations coincide even though the classical action breaks Dirac's
+regularity condition. We find an interesting relation that the BRST charge of
+Hamiltonian formulation is the odd-dimensional fermionic counterpart of the
+topological action of Chern-Simons form. Although the quantization of two
+dimensional models which include both bosonic and fermionic gauge fields are
+investigated in detail, it is straightforward to extend the quantization into
+arbitrary even dimensions. This completes the quantization of previously
+proposed topological gravities in two and four dimensions.
+\\

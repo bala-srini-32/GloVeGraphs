@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9603185
+From: Seiji SAKODA <sakoda@cc.hc.keio.ac.jp>
+Date: Thu, 28 Mar 1996 18:49:19 +0900   (28kb)
+Date (revised): Fri, 29 Mar 1996 20:37:23 +0900
+Date (revised): Wed, 10 Apr 1996 17:23:06 +0900
+
+Title: The Aharonov-Bohm scattering : the role of the incident wave
+Authors: S. Sakoda and M. Omote
+Comments: 22 pages, latex, 4 figures (not included)
+  A comment for integral flux is added with two more citations.
+  Corrections of trivial misprints in appendix C have been done
+Journal-ref: J.Math.Phys. 38 (1997) 716-737
+\\
+  The scattering problem under the influence of the Aharonov-Bohm (AB)
+potential is reconsidered. By solving the Lippmann-Schwinger (LS) equation we
+obtain the wave function of the scattering state in this system. In spite of
+working with a plane wave as an incident wave we obtain the same wave function
+as was given by Aharonov and Bohm. Another method to solve the scattering
+problem is given by making use of a modified version of Gordon's idea which was
+invented to consider the scattering by the Coulomb potential. These two methods
+give the same result, which guarantees the validity of taking an incident plane
+wave as usual to make an analysis of this scattering problem. The scattering
+problem by a solenoid of finite radius is also discussed, and we find that the
+vector potential of the solenoid affects the charged particles even when the
+magnitude of the flux is an odd integer as well as noninteger. It is shown that
+the unitarity of the $S$ matrix holds provided that a plane wave is taken to be
+an incident one.
+\\

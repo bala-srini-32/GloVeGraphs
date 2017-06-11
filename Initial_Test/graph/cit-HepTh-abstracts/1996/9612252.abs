@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9612252
+From: Kojima Takeo <kojima@kurims.kyoto-u.ac.jp>
+Date: Tue, 31 Dec 96 07:17:12 JST   (14kb)
+Date (revised): Thu, 27 Mar 97 05:29:46 JST
+
+Title: Completely Integrable Equation for the Quantum Correlation Function of
+  Nonlinear Schr\"odinger Eqaution
+Authors: T. Kojima, V. Korepin and N. Slavnov
+Comments: LaTEX file, 23 pages
+Subj-class: High Energy Physics - Theory; Quantum Algebra; Exactly Solvable and
+  Integrable Systems
+Journal-ref: Commun.Math.Phys. 189 (1997) 709-728
+\\
+  Correlation functions of exactly solvable models can be described by
+differential equation [Barough, McCoy, Wu]. In this paper we show that for non
+free fermionic case differential equations should be replaced by
+integro-differential equations.
+  We derive an integro-differential equation, which describes time and
+temperature dependent correlation function $<\psi(0,0)\psi^\dagger(x,t)>_T$
+of penetrable Bose gas. The integro-differential equation turns out be the
+continuum generalization of classical nonlinear Schr\"odinger equation.
+\\

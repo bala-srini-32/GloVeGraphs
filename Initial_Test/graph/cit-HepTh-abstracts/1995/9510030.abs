@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9510030
+From: Nelson R. F. Braga <braga@if.ufrj.br>
+Date: Fri, 6 Oct 1995 13:30:08 -0300   (12kb)
+Date (revised): Fri, 28 Jun 1996 11:00:30 -0300
+
+Title: A Superspace Formulation for the Master Equation
+Authors: Everton M. C. Abreu and Nelson R. F. Braga
+Comments: The constrained nature of standard BRST superfields and the
+  importance of using Alfaro and Damgaard's collective fields in the superspace
+  approach to avoid undefined superfield derivatives was emphasized. To appear
+  in Phys. Rev. D. Latex file, 20 pages
+Report-no: UFRJ-IF-FPC-024/95
+Journal-ref: Phys.Rev. D54 (1996) 4080-4086
+\\
+  It is shown that the quantum master equation of the Field Antifield
+quantization method at one loop order can be translated into the requirement of
+a superfield structure for the action. The Pauli Villars regularization is
+implemented in this BRST superspace and the case of anomalous gauge theories is
+investigated. The quantum action, including Wess Zumino terms, shows up as one
+of the components of a superfield that includes the BRST anomalies in the other
+component. The example of W2 quantum gravity is also discussed.
+\\

@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9501032
+From: smhw@qcd.th.u-psud.fr (stephen man hoe wong)
+Date: Tue, 10 Jan 1995 17:11:38 GMT   (16kb)
+Date (revised): Tue, 2 May 1995 10:09:35 +0100
+Date (revised): Mon, 16 Oct 1995 22:09:03 +0100
+
+Title: Difficulties in Formulating an imaginary-time formalism of temporal
+  axial gauge at finite T
+Authors: S.M.H. Wong
+Comments: Comments: 18 pages (latex) + 1 page of figures appended at the end
+  (tex, pictex macro needed), no major change from the previous version except
+  the title
+Report-no: LPTHE-Orsay 94/114
+Journal-ref: Z. Phys. C 69 (1996) 663-671
+\\
+  Following the successful construction of the finite T real-time formalism in
+temporal axial gauge, we attempt to further study the equivalent new
+imaginary-time formalism of James and Landshoff based on the same Hamiltonian
+approach in the hope that it will provide the answer to Debye screening in QCD.
+It turns out that, unlike in the real-time case, energy conservation does not
+hold because of the unusual representation of the longitudinal field forced
+upon by the Hamiltonian formulation.
+\\

@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0201237
+From: Stefano Arnone <sa@hep.phys.soton.ac.uk>
+Date: Tue, 29 Jan 2002 16:46:00 GMT   (16kb)
+Date (revised v2): Mon, 10 Jun 2002 13:52:50 GMT   (34kb)
+
+Title: Exact scheme independence at one loop
+Authors: Stefano Arnone, Antonio Gatti and Tim R. Morris
+Comments: 13 pages, no figures, version to appear in JHEP, includes some minor
+  corrections
+Report-no: SHEP 02-02
+Journal-ref: JHEP 0205 (2002) 059
+\\
+  The requirement that the quantum partition function be invariant under a
+renormalization group transformation results in a wide class of exact
+renormalization group equations, differing in the form of the kernel. Physical
+quantities should not be sensitive to the particular choice of the kernel. We
+demonstrate this scheme independence in four dimensional scalar field theory by
+showing that, even with a general kernel, the one-loop beta function may be
+expressed only in terms of the effective action vertices, and thus, under very
+general conditions, the universal result is recovered.
+\\

@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0211077
+From: "Xiang-Qian Luo" <stslxq@zsu.edu.cn>
+Date: Sat, 9 Nov 2002 05:50:23 GMT   (18kb)
+
+Title: Monte Carlo Hamiltonian: the Linear Potentials
+Authors: Xiang-Qian Luo (Zhongshan Univ., China), Jin-Jiang Liu, Chun-Qing
+  Huang, Jun-Qin Jiang, Helmut Kroger (Laval Univ., Canada)
+Comments: Latex file, 8 figures
+Journal-ref: Commun.Theor.Phys. 38 (2002) 561-565
+\\
+  We further study the validity of the Monte Carlo Hamiltonian method. The
+advantage of the method, in comparison with the standard Monte Carlo Lagrangian
+approach, is its capability to study the excited states. We consider two
+quantum mechanical models: a symmetric one $V(x) = |x|/2$; and an asymmetric
+one $V(x)=\infty$, for $x < 0$ and $V(x)=x$, for $x \ge 0$. The results for the
+spectrum, wave functions and thermodynamical observables are in agreement with
+the analytical or Runge-Kutta calculations.
+\\

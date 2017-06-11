@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9807086
+From: ogawa@particle.sci.hokudai.ac.jp (Naohisa OGAWA)
+Date: Mon, 13 Jul 1998 00:08:55 GMT   (3kb)
+Date (revised v2): Tue, 14 Jul 1998 16:03:25 GMT   (3kb)
+Date (revised v3): Tue, 8 Sep 1998 04:31:27 GMT   (4kb)
+
+Title: A Note on the scale symmetry and Noether current
+Authors: Naohisa Ogawa
+Comments: 6pages, No figures, Latex, References are added
+\\
+  Usually we consider the symmetry of action as the symmetry of the theory,
+however, in the Keplar problem the scaling symmetry existing in equa tion of
+motion is not the ones for action. It changes the multiplicative c onstant of
+action and the time boundary. In such a case that the scale tran sformation
+does not leave the action invariant but keeping the equation inva riant, the
+following statement is proved. The time integration of Lagrangian is explicitly
+performed and the action ca n be expressed by the difference of formal
+(non-conserved) Noether charges a t time boundaries. In field theory the action
+can be expressed by the bound ary integration of the formal Noether current.
+\\

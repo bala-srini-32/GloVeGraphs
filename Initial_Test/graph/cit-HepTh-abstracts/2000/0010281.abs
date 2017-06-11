@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0010281
+From: Katrin Wendland <wendland@physics.unc.edu>
+Date: Mon, 30 Oct 2000 20:57:32 GMT   (32kb)
+Date (revised v2): Tue, 7 Nov 2000 21:52:31 GMT   (33kb)
+Date (revised v3): Mon, 4 Jun 2001 16:49:05 GMT   (35kb)
+Date (revised v4): Sun, 20 Jan 2002 17:25:44 GMT   (26kb)
+
+Title: Consistency of Orbifold Conformal Field Theories on K3
+Authors: Katrin Wendland
+Comments: adapted to atmp.sty: 28 pages; final version to be published in Adv.
+  Theor. Math. Phys
+Subj-class: High Energy Physics - Theory; Mathematical Physics
+Journal-ref: Adv.Theor.Math.Phys. 5 (2002) 429-456
+\\
+  We explicitly determine the locations of G orbifold conformal field theories,
+G=Z_M, M=2,3,4,6, G=\hat D_n, n=4,5, or G the binary tetrahedral group \hat T,
+within the moduli space M^{K3} of N=(4,4) superconformal field theories
+associated to K3. This is achieved purely from the known description of the
+moduli space [AM94] and the requirement of a consistent embedding of orbifold
+conformal field theories within M^{K3}. We calculate the Kummer type lattices
+for all these orbifold limits. Our method allows an elementary derivation of
+the B-field values in direction of the exceptional divisors that arise from the
+orbifold procedure [Asp95,Dou97,BI97], without recourse to D-geometry. We show
+that our consistency requirement fixes these values uniquely and determine them
+explicitly. The relation of our results to the classical McKay correspondence
+is discussed.
+\\

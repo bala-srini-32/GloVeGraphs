@@ -1,0 +1,33 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0110108
+From: Vijay Balasubramanian <vijay@dept.physics.upenn.edu>
+Date: Thu, 11 Oct 2001 19:52:04 GMT   (27kb)
+Date (revised v2): Thu, 11 Oct 2001 20:54:41 GMT   (27kb)
+Date (revised v3): Tue, 29 Jan 2002 14:02:16 GMT   (31kb)
+
+Title: Mass, Entropy and Holography in Asymptotically de Sitter Spaces
+Authors: Vijay Balasubramanian, Jan de Boer, Djordje Minic
+Comments: 31 pages, LaTeX. v2: references and acknowledgements added, rewrite
+  of "RG flow vs. cosmological evolution" section, log divergences commented
+  on, typos corrected, comments on signs
+Report-no: UPR-964-T, VPI-IPPAP-01-01,ITFA-2001-35
+Journal-ref: Phys.Rev. D65 (2002) 123508
+\\
+  We propose a novel prescription for computing the boundary stress tensor and
+charges of asymptotically de Sitter (dS) spacetimes from data at early or late
+time infinity. If there is a holographic dual to dS spaces, defined analogously
+to the AdS/CFT correspondence, our methods compute the (Euclidean) stress
+tensor of the dual. We compute the masses of Schwarzschild-de Sitter black
+holes in four and five dimensions, and the masses and angular momenta of
+Kerr-de Sitter spaces in three dimensions. All these spaces are less massive
+than de Sitter, a fact which we use to qualitatively and quantitatively relate
+de Sitter entropy to the degeneracy of possible dual field theories. Our
+results in general dimension lead to a conjecture: Any asymptotically de Sitter
+spacetime with mass greater than de Sitter has a cosmological singularity.
+Finally, if a dual to de Sitter exists, the trace of our stress tensor computes
+the RG equation of the dual field theory. Cosmological time evolution
+corresponds to RG evolution in the dual. The RG evolution of the c function is
+then related to changes in accessible degrees of freedom in an expanding
+universe.
+\\

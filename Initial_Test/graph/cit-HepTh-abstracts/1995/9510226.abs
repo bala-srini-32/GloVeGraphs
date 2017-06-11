@@ -1,0 +1,15 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9510226
+From: terrab@cbpfsu1.cat.cbpf.br (Edgardo Salomon Cheb Terrab)
+Date: Mon, 30 Oct 95 23:38:33 EDT   (10kb)
+
+Title: Symbolic Computing with Grassman Variables
+Authors: E.S. Cheb-Terrab (Symb. Comp. Group, DFT-UERJ, Brazil)
+Comments: 11 pages, LaTeX, submitted to Journal of Symbolic Computation.
+  Soft-package: file grassman.txt, available at ftp://152.92.4.69/grassman/
+Report-no: IF-UERJ-95-27
+\\
+  A package of Maple 5.3 commands for doing calculations with anticommutative
+variables is presented.
+\\

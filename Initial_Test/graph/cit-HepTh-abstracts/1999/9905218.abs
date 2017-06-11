@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9905218
+From: Bogdan Morariu <morariu@thwk2.lbl.gov>
+Date: Sat, 29 May 1999 19:18:48 GMT   (7kb)
+Date (revised v2): Sat, 24 Jul 1999 00:46:48 GMT   (7kb)
+
+Title: Duality Invariant Born-Infeld Theory
+Authors: Daniel Brace, Bogdan Morariu, Bruno Zumino
+Comments: 10 pages, LaTeX file; to appear in the Yuri Golfand memorial volume;
+  typos corrected, references added
+Report-no: LBNL-43404
+\\
+  We present an Sp(2n,R) duality invariant Born-Infeld U(1)^2n gauge theory
+with scalar fields. To implement this duality we had to introduce complex gauge
+fields and as a result the rank of the duality group is only half as large as
+that of the corresponding Maxwell gauge theory with the same number of gauge
+fields. The latter is self-dual under Sp(4n,R), the largest allowed duality
+group. A special case appears for n=1 when one can also write an SL(2,R)
+duality invariant Born-Infeld theory with a real gauge field. We also describe
+the supersymmetric version of the above construction.
+\\

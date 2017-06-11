@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9610202
+From: "Ludmil Hadjiivanov" <lhadji@inrne.acad.bg>
+Date: Fri, 25 Oct 1996 15:19:55 +0200 (MET DST)   (12kb)
+Date (revised): Mon, 16 Dec 1996 17:01:23 +0100 (MET)
+Date (revised): Fri, 7 Mar 1997 18:01:10 EET
+
+Title: A Quantum Gauge Group Approach to the 2D SU(n) WZNW Model
+Authors: Paolo Furlan, Ludmil K. Hadjiivanov and Ivan T. Todorov
+Comments: 10 pages, LATEX (Proposition 4.2 corrected, one reference added)
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+Journal-ref: Int.J.Mod.Phys. A12 (1997) 23-32
+\\
+  The canonical quantization of the WZNW model provides a complete set of
+exchange relations in the enlarged chiral state spaces that include the Gauss
+components of the monodromy matrices. Regarded as new dynamical variables, the
+elements of the latter cannot be identified -- they satisfy different exchange
+relations. Accordingly, the two dimensional theory expressed in terms of the
+left and right movers' fields does not automatically respect monodromy
+invariance. Continuing our recent analysis of the problem by gauge theory
+methods we conclude that physical states (on which the two dimensional field
+acts as a single valued operator) are invariant under the (permuted) coproduct
+of the left and right $U_q(sl(n))$. They satisfy additional constraints fully
+described for n=2.
+\\

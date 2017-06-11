@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9608189
+From: dowker@a3.ph.man.ac.uk
+Date: Thu, 29 Aug 1996 11:02:41 BST   (30kb)
+
+Title: Spinors and forms on generalised cones
+Authors: J.S. Dowker and Klaus Kirsten
+Comments: 34 pages, JyTeX
+Report-no: MUTP/96/23
+\\
+  A method is presented, and used, for determining any heat-kernel coefficient
+for the form-valued Laplacian on the $D$-ball as an explicit function of
+dimension and form order. The calculation is offerred as a particular
+application of a general technique developed earlier for obtaining heat-kernel
+coefficients on a bounded generalised cone which involves writing the sphere
+and ball \zfs, and coefficients, in terms of Barnes \zfs\ and generalised
+Bernoulli polynomials. Functional determinants are computed. Spinors are also
+treated by the general method.
+\\

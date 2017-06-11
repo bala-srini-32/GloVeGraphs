@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0002159
+From: "Igor R. Klebanov" <klebanov@feynman.princeton.edu>
+Date: Fri, 18 Feb 2000 23:41:12 GMT   (17kb)
+Date (revised v2): Tue, 29 Feb 2000 19:10:12 GMT   (20kb)
+
+Title: Gravity Duals of Supersymmetric SU(N) x SU(N+M) Gauge Theories
+Authors: I.R. Klebanov and A.A. Tseytlin
+Comments: 19 pages, harvmac; v2: a section added on the full 3-brane solution
+  (it looks like the conventional 3-brane solution with a logarithmically
+  running effective charge), references added
+Report-no: PUPT-1919, OHSTPY-HEP-T-00-002
+Journal-ref: Nucl.Phys. B578 (2000) 123-138
+\\
+  The world volume theory on N regular and M fractional D3-branes at the
+conifold singularity is a non-conformal n=1 supersymmetric SU(N+M) x SU(N)
+gauge theory. In previous work the Type IIB supergravity dual of this theory
+was constructed to leading non-trivial order in M/N: it is the AdS_5 x T^{1,1}
+background with NS-NS and R-R 2-form fields turned on. Far in the UV this dual
+description was shown to reproduce the logarithmic flow of couplings found in
+the field theory. In this paper we study the supersymmetric RG flow at all
+scales. We introduce an ansatz for the 10-d metric and other fields and show
+that the equations of motion may be derived in first order form from a simple
+superpotential. This allows us to explicitly solve for the gravity dual of the
+RG trajectory.
+\\

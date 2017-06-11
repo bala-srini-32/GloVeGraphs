@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9909147
+From: Paul Wiegmann <wiegmann@rainbow.uchicago.edu>
+Date: Tue, 21 Sep 1999 14:37:11 GMT   (15kb)
+Date (revised v2): Wed, 22 Sep 1999 03:27:22 GMT   (15kb)
+Date (revised v3): Wed, 12 Jan 2000 18:16:36 GMT   (16kb)
+Date (revised v4): Tue, 21 Mar 2000 01:45:33 GMT   (17kb)
+
+Title: Conformal maps and dispersionless integrable hierarchies
+Authors: P.B.Wiegmann and A. Zabrodin
+Comments: few references were added
+Subj-class: High Energy Physics - Theory; Exactly Solvable and Integrable
+  Systems
+Journal-ref: Commun.Math.Phys. 213 (2000) 523-538
+\\
+  We show that conformal maps of simply connected domains with an analytic
+boundary to a unit disk have an intimate relation to the dispersionless 2D Toda
+integrable hierarchy. The maps are determined by a particular solution to the
+hierarchy singled out by the conditions known as "string equations". The same
+hierarchy locally solves the 2D inverse potential problem, i.e. reconstruction
+of the domain out of a set of its harmonic moments. This is the same solution
+which is known to describe 2D gravity coupled to c=1 matter. We also introduce
+a concept of the $\tau$-function for analytic curves.
+\\

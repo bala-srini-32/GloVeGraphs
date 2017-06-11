@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9506011
+From: verlinde@nxth04.cern.ch
+Date: Thu, 1 Jun 95 23:14:30 +0100   (16kb)
+Date (revised): Fri, 2 Jun 95 01:23:34 +0100
+Date (revised): Tue, 6 Jun 95 14:25:44 +0100
+
+Title: Global Aspects of Electric-Magnetic Duality
+Author: Erik Verlinde
+Comments: Latex-file, 16 pages
+Report-no: CERN-TH/95-146
+Journal-ref: Nucl.Phys. B455 (1995) 211-228
+\\
+  We show that the partition function of free Maxwell theory on a generic
+Euclidean four-manifold transforms in a non-trivial way under electric-magnetic
+duality. The classical part of the partition sum can be mapped onto the
+genus-one partition function of a 2d toroidal model, without the oscillator
+contributions. This map relates electric-magnetic duality to modular invariance
+of the toroidal model and, conversely, the $O(d,d',\Z)$ duality to the
+invariance of Maxwell theory under the 4d mapping class group. These dualities
+and the relation between toroidal models and Maxwell theory can be understood
+by regarding both theories as dimensional reductions of a self-dual 2-form
+theory in six dimensions. Generalizations to more $U(1)$-gauge fields and
+reductions from higher dimensions are also discussed. We find indications that
+the Abelian gauge theories related to 4d string theories with $N=4$ space-time
+supersymmetry are exactly duality invariant.
+\\

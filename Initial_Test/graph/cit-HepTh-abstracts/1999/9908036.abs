@@ -1,0 +1,32 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9908036
+From: Roger E. Behrend <behrend@insti.physics.sunysb.edu>
+Date: Wed, 4 Aug 1999 18:20:20 GMT   (124kb)
+Date (revised v2): Mon, 18 Oct 1999 20:50:21 GMT   (143kb)
+Date (revised v3): Thu, 13 Apr 2000 02:51:04 GMT   (143kb)
+
+Title: Boundary Conditions in Rational Conformal Field Theories
+Authors: Roger E. Behrend, Paul A. Pearce, Valentina B. Petkova and
+  Jean-Bernard Zuber
+Comments: 71 pages. Minor changes with respect to 2nd version. Recently
+  published in Nucl.Phys.B but mistakenly as 1st version. Will be republished
+  in Nucl.Phys.B as this (3rd) version
+Journal-ref: Nucl.Phys. B570 (2000) 525-589; Nucl.Phys. B579 (2000) 707-773
+\\
+  We develop further the theory of Rational Conformal Field Theories (RCFTs) on
+a cylinder with specified boundary conditions emphasizing the role of a triplet
+of algebras: the Verlinde, graph fusion and Pasquier algebras. We show that
+solving Cardy's equation, expressing consistency of a RCFT on a cylinder, is
+equivalent to finding integer valued matrix representations of the Verlinde
+algebra. These matrices allow us to naturally associate a graph $G$ to each
+RCFT such that the conformal boundary conditions are labelled by the nodes of
+$G$. This approach is carried to completion for $sl(2)$ theories leading to
+complete sets of conformal boundary conditions, their associated cylinder
+partition functions and the $A$-$D$-$E$ classification. We also review the
+current status for WZW $sl(3)$ theories. Finally, a systematic generalization
+of the formalism of Cardy-Lewellen is developed to allow for multiplicities
+arising from more general representations of the Verlinde algebra. We obtain
+information on the bulk-boundary coefficients and reproduce the relevant
+algebraic structures from the sewing constraints.
+\\

@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9511090
+From: Jose Gaite <gaite@sisifo.imaff.csic.es>
+Date: Mon, 13 Nov 1995 23:29:48 +0100   (42kb)
+Date (revised): Mon, 22 Jul 1996 21:48:16 +0200
+
+Title: Field Theory Entropy, the $H$-theorem and the Renormalization Group
+Authors: Jose Gaite and Denjoe O'Connor
+Comments: 25 pages, plain TeX (macros included), 6 ps figures. Addition in
+  title. Entropy of cutoff Gaussian model modified in section 4 to avoid a
+  divergence. Therefore, last figure modified. Other minor changes to improve
+  readability. Version to appear in Phys. Rev. D
+Report-no: DIAS-STP-95-36, ITFA-94-36
+Subj-class: High Energy Physics - Theory; Adaptation and Self-Organizing
+  Systems
+Journal-ref: Phys.Rev. D54 (1996) 5163-5173
+\\
+  We consider entropy and relative entropy in Field theory and establish
+relevant monotonicity properties with respect to the couplings. The relative
+entropy in a field theory with a hierarchy of renormalization group fixed
+points ranks the fixed points, the lowest relative entropy being assigned to
+the highest multicritical point. We argue that as a consequence of a
+generalized $H$ theorem Wilsonian RG flows induce an increase in entropy and
+propose the relative entropy as the natural quantity which increases from one
+fixed point to another in more than two dimensions.
+\\

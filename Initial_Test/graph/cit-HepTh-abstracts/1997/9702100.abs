@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9702100
+From: goldhab@insti.physics.sunysb.edu (Alfred Goldhaber)
+Date: Wed, 12 Feb 97 13:10 EST   (12kb)
+
+Title: Aharonov-Bohm Problem for Spin-One
+Authors: M.L. Horner and Alfred S. Goldhaber (SUNY Stony Brook)
+Comments: 15 pages, Latex
+Journal-ref: Phys.Rev. D55 (1997) 5951-5956
+\\
+  The basic AB problem is to determine how an unshielded tube of magnetic flux
+$\Phi$ affects arbitrarily long-wavelength charged particles impinging on it.
+For spin-1 at almost all $\Phi$ the particles do not penetrate the tube, so
+the interaction essentially is periodic in $\Phi$ (AB effect). Below-threshold
+bound states move freely only along the tube axis, and consequent induced
+vacuum currents supplement rather than screen $\Phi$. For a pure magnetic
+interaction the tube must be broader than the particle Compton wavelength,
+i.e., only the nonrelativistic spin-1 AB problem exists.
+\\

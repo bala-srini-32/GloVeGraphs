@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9907102
+From: "Ryu Sasaki" <ryu@yukawa.kyoto-u.ac.jp>
+Date: Wed, 14 Jul 1999 06:34:22 GMT   (23kb)
+
+Title: Calogero-Moser Models IV: Limits to Toda theory
+Authors: S.P. Khastgir, R. Sasaki and K. Takasaki (Univ. Kyoto)
+Comments: LaTeX2e with amsfonts.sty, 33 pages, no figures
+Report-no: YITP-99-20, KUCP-0132
+Subj-class: High Energy Physics - Theory; Mathematical Physics; Exactly
+  Solvable and Integrable Systems
+Journal-ref: Prog.Theor.Phys. 102 (1999) 749-776
+\\
+  Calogero-Moser models and Toda models are well-known integrable
+multi-particle dynamical systems based on root systems associated with Lie
+algebras. The relation between these two types of integrable models is
+investigated at the levels of the Hamiltonians and the Lax pairs. The Lax pairs
+of Calogero-Moser models are specified by the representations of the
+reflection groups, which are not the same as those of the corresponding Lie
+algebras. The latter specify the Lax pairs of Toda models. The Hamiltonians of
+the elliptic Calogero-Moser models tend to those of Toda models as one of the
+periods of the elliptic function goes to infinity, provided the dynamical
+variables are properly shifted and the coupling constants are scaled. On the
+other hand most of Calogero-Moser Lax pairs, for example, the root type Lax
+pairs, do not a have consistent Toda model limit. The minimal type Lax pairs,
+which corresponds to the minimal representations of the Lie algebras, tend to
+the Lax pairs of the corresponding Toda models.
+\\

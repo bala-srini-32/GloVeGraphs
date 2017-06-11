@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0006045
+From: Bernd Berg <berg@scri.fsu.edu>
+Date: Tue, 6 Jun 2000 16:23:58 GMT   (4kb)
+Date (revised v2): Tue, 13 Jun 2000 00:33:12 GMT   (4kb)
+Date (revised v3): Fri, 16 Jun 2000 21:02:17 GMT   (4kb)
+
+Title: The transformations of non-abelian gauge fields under translations
+Authors: Bernd A. Berg
+Comments: References to work by Jackiw and others are added
+\\
+  I consider infinitesimal translations $x'^{\alpha}=x^{\alpha}+\delta
+x^{\alpha}$ and demand that Noether's approach gives a symmetric
+energy-momentum tensor as it is required for gravitational sources. This
+argument determines the transformations of non-abelian gauge fields under
+infinitesimal translations to differ from the usually assumed invariance by the
+gauge transformation, $A'^a_{\gamma} (x') - A^a_{\gamma}(x) = \partial_{\gamma}
+[ \delta x_{\beta} A^{a \beta}(x)] + C^a_{bc} \delta x_{\beta} A^{c \beta}(x)
+A^{b}_{\gamma}(x)$ where the $C^a_{bc}$ are the structure constants of the
+gauge group.
+\\

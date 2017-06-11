@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0011145
+From: Kai Chen <kai@phy.nwu.edu.cn>
+Date: Thu, 16 Nov 2000 11:27:46 GMT   (17kb)
+Date (revised v2): Thu, 23 Nov 2000 04:01:46 GMT   (18kb)
+Date (revised v3): Sun, 21 Jan 2001 04:07:21 GMT   (18kb)
+
+Title: The Lax pairs for elliptic C_n and BC_n Ruijsenaars-Schneider models and
+  their spectral curves
+Authors: Kai Chen, Bo-yu Hou and Wen-Li Yang
+Comments: LaTeX2e, 25 pages, 1 table, some references added and rearranged
+  together with misprints corrected
+Journal-ref: J.Math.Phys. 42 (2001) 4894-4914
+\\
+  We study the elliptic C_n and BC_n Ruijsenaars-Schneider models which is
+elliptic generalization of system given in hep-th/0006004. The Lax pairs for
+these models are constructed by Hamiltonian reduction technology. We show that
+the spectral curves can be parameterized by the involutive integrals of motion
+for these models. Taking nonrelativistic limit and scaling limit, we verify
+that they lead to the systems corresponding to Calogero-Moser and Toda types.
+\\

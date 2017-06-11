@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9508172
+From: Hagen Kleinert <kleinert@dirac.physik.fu-berlin.de>
+Date: Tue, 29 Aug 1995 08:44:24 +0200 (MET DST)   (25kb)
+
+Title: Large-Order Behavior of Two-coupling Constant $\phi^4$-Theory with Cubic
+  Anisotropy
+Authors: H. Kleinert and S. Thoms
+Comments: LaTeX file with eps files in src. See also
+  http://www.physik.fu-berlin.de/~kleinert/institution.html
+Journal-ref: Phys.Rev. D52 (1995) 5926-5943
+\\
+  For the anisotropic $[u (\sum_{i=1^N {\phi}_i^2)^2+v \sum_{i=1^N
+\phi_i^4]$-theory with {$N=2,3$} we calculate the imaginary parts of the
+renormalization-group functions in the form of a series expansion in $v$, i.e.,
+around the isotropic case. Dimensional regularization is used to evaluate the
+fluctuation determinants for the isotropic instanton near the space dimension
+4. The vertex functions in the presence of instantons are renormalized with the
+help of a nonperturbative procedure introduced for the simple $g{\phi^4$-theory
+by McKane et al.
+\\

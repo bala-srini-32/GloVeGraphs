@@ -1,0 +1,36 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0111027
+From: roy@theory.saha.ernet.in
+Date: Sat, 3 Nov 2001 08:53:51 GMT   (18kb)
+Date (revised v2): Fri, 16 Nov 2001 09:59:53 GMT   (18kb)
+Date (revised v3): Fri, 23 Nov 2001 09:03:29 GMT   (18kb)
+Date (revised v4): Tue, 15 Jan 2002 10:15:35 GMT   (19kb)
+
+Title: On decoupled theories in (5+1) dimensions from (F,D1,NS5,D5)
+  supergravity configuration
+Authors: R. -G. Cai, I. Mitra, N. Ohta and S. Roy
+Comments: 28 pages, LaTeX, no figures, v4: a para in the introduction added to
+  emphasize the motivation and a conclusion added, published version
+Report-no: SINP-TNP/01-26, OU-HET 399
+Journal-ref: JHEP 0112 (2001) 029
+\\
+  It is well-known that ($N$, $M$) 5-branes of type IIB supergravity form a
+non-threshold bound state with ($N'$, $M'$) strings called the (F, D1, NS5, D5)
+bound state where the strings lie along one of the spatial directions of the
+5-branes (hep-th/9905056). By taking low energy limits in appropriate ways on
+this supergravity configuration, we obtain the supergravity duals of various
+decoupled theories in (5+1) dimensions corresponding to noncommutative open
+string (NCOS) theory, open D-string (OD1) theory and open D5-brane (OD5)
+theory. We then study the $SL(2, Z)$ transformation properties of these
+theories. We show that when the asymptotic value of the axion ($\chi_0$) is
+rational (for which $\chi_0$ can be put to zero), NCOS theory is always related
+to OD1 theory by strong-weak or S-duality symmetry. We also discuss the
+self-duality conjecture (hep-th/0006062) of both NCOS and OD1 theories. On the
+other hand, when $\chi_0$ is irrational, we find that $SL(2, Z)$ duality on
+NCOS theory gives another NCOS theory with different values of the parameters,
+but for OD1 theory $SL(2,Z)$ duality always gives an NCOS theory. $SL(2, Z)$
+transformation on OD5 theory reveals that it gives rise to Little String Theory
+(LST) when $\chi_0$ = rational, but it gives another OD5 theory with different
+values of the parameters when $\chi_0$ is irrational.
+\\

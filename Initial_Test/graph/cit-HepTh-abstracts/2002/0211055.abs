@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0211055
+From: canet leonie <canet@lpthe.jussieu.fr>
+Date: Thu, 7 Nov 2002 11:36:25 GMT   (42kb)
+Date (revised v2): Mon, 16 Dec 2002 11:27:42 GMT   (43kb)
+Date (revised v3): Wed, 12 Mar 2003 14:55:58 GMT   (43kb)
+
+Title: Optimization of the derivative expansion in the nonperturbative
+  renormalization group
+Authors: L. Canet, B. Delamotte, D. Mouhanna, J. Vidal
+Comments: 13 pages, 9 PS figures, published version
+Subj-class: High Energy Physics - Theory; Statistical Mechanics
+Journal-ref: Phys. Rev. D 67, 065004 (2003)
+\\
+  We study the optimization of nonperturbative renormalization group equations
+truncated both in fields and derivatives. On the example of the Ising model in
+three dimensions, we show that the Principle of Minimal Sensitivity can be
+unambiguously implemented at order $\partial^2$ of the derivative expansion.
+This approach allows us to select optimized cut-off functions and to improve
+the accuracy of the critical exponents $\nu$ and $\eta$. The convergence of the
+field expansion is also analyzed. We show in particular that its optimization
+does not coincide with optimization of the accuracy of the critical exponents.
+\\

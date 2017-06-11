@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9608169
+From: rhd@fwi.uva.nl (R. H. Dijkgraaf)
+Date: Mon, 26 Aug 1996 11:40:05 +0200 (MET DST)   (34kb)
+Date (revised): Mon, 18 Nov 1996 09:36:32 +0100 (MET)
+
+Title: Balanced Topological Field Theories
+Authors: R. Dijkgraaf, G. Moore
+Comments: 40 pages, harvmac, references added, to appear in Commun. Math. Phys
+Report-no: YCTP-P17-96
+Journal-ref: Commun.Math.Phys. 185 (1997) 411-440
+\\
+  We describe a class of topological field theories called ``balanced
+topological field theories.'' These theories are associated to moduli problems
+with vanishing virtual dimension and calculate the Euler character of various
+moduli spaces. We show that these theories are closely related to the geometry
+and equivariant cohomology of ``iterated superspaces'' that carry two
+differentials. We find the most general action for these theories, which turns
+out to define Morse theory on field space. We illustrate the constructions with
+numerous examples. Finally, we relate these theories to topological
+sigma-models twisted using an isometry of the target space.
+\\

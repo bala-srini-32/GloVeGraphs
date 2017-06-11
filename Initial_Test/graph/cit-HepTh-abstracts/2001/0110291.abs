@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0110291
+From: Mohammad Sheikh-Jabbari <jabbari@itp.stanford.edu>
+Date: Wed, 31 Oct 2001 01:49:01 GMT   (21kb)
+Date (revised v2): Mon, 12 Nov 2001 18:30:54 GMT   (21kb)
+Date (revised v3): Tue, 30 Apr 2002 20:51:42 GMT   (21kb)
+
+Title: Coherent State Induced Star-Product on $R^3_{\lambda}$ and the Fuzzy
+  Sphere
+Authors: A.B. Hammou, M. Lagraa, M.M. Sheikh-Jabbari
+Comments: 25 pages, Latex file, no figures, v2: minor changes, typos corrected
+  and some references added, v3: Final version to appear in PRD
+Report-no: SU-ITP-01-043, IC/2001/58
+Journal-ref: Phys.Rev. D66 (2002) 025025
+\\
+  Using the Hopf fibration and starting from a four dimensional noncommutative
+Moyal plane, $R^2_{\theta}\times R^2_{\theta}$, we obtain a star-product for
+the noncommutative (fuzzy) $R^3_{\lambda}$ defined by
+$[x^i,x^j]=i\lambda\epsilon_{ijk}x^k$. Furthermore, we show that there is a
+projection function which allows us to reduce the functions on $R^3_{\lambda}$
+to that of the fuzzy sphere, and hence we introduce a new star-product on the
+fuzzy sphere. We will then briefly discuss how using our method one can extract
+information about the field theory on fuzzy sphere and $\rrlam$ from the
+corresponding field theories on $R_{theta}\times R_{\theta}$ space.
+\\

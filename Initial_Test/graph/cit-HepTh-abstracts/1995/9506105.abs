@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9506105
+From: Alexander Turbiner <turbiner@teorica0.ifisicacu.unam.mx>
+Date: Fri, 16 Jun 95 10:33:32 -0600   (9kb)
+Date (revised): Thu, 3 Aug 95 10:52:36 -0600
+
+Title: Exact Solvability of the Calogero and Sutherland Models
+Authors: Werner Ruhl and Alexander Turbiner
+Comments: 13 pages, latex. Connection to Jack polynomials clarified, misprints
+  corrected
+Report-no: IFUNAM FT 95-78, KL-TH 95/18
+Subj-class: High Energy Physics - Theory; Functional Analysis; Exactly Solvable
+  and Integrable Systems
+Journal-ref: Mod. Phys. Lett. A10 (1995) 2213
+\\
+  Translationally invariant symmetric polynomials as coordinates for $N$-body
+problems with identical particles are proposed. It is shown that in those
+coordinates the Calogero and Sutherland $N$-body Hamiltonians, after
+appropriate gauge transformations, can be presented as a {\it quadratic}
+polynomial in the generators of the algebra $sl_N$ in finite-dimensional
+degenerate representation. The exact solvability of these models follows from
+the existence of the infinite flag of such representation spaces, preserved by
+the above Hamiltonians. A connection with Jack polynomials is discussed.
+\\

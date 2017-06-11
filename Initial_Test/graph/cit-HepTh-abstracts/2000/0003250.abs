@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0003250
+From: Vincent G.J. Rodgers <vincent@tnecniv.physics.uiowa.edu>
+Date: Mon, 27 Mar 2000 21:14:24 GMT   (106kb)
+Date (revised v2): Tue, 4 Apr 2000 04:35:37 GMT   (106kb)
+
+Title: The Image of Self Intersecting QCD Strings in Four Dimensions
+Authors: Bob Bacus and V.G.J. Rodgers
+Comments: 15 pages Latex, 39 figures, corrected typos and spelling
+Journal-ref: Comput.Phys.Commun. 136 (2001) 37-53
+\\
+  We numerically examine the self-dual solutions of self-intersecting strings
+immersed in four dimensions. We find that open torus knots have topologies that
+can support monopole/anti-monopole as well as q-qbar production and
+annihilation. We give an estimate of the string tension from quark production
+rates, show that the intersection number for torus-knots is 4(p-q), and discuss
+a chiral symmetry breaking mechanism due to self-intersections. We supply a
+MAPLE program that can annimate the torus-knot solutions. These annimations can
+be found at http://www-hep.physics.uiowa.edu/~bacus/research.html under the
+``Animation Control Panel''.
+\\

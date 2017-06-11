@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0302078
+From: Pietro Antonio Grassi <pgrassi@insti.physics.sunysb.edu>
+Date: Tue, 11 Feb 2003 20:10:18 GMT   (12kb)
+
+Title: Non-commutative superspace from string theory
+Authors: J. de Boer (Amsterdam Univ.), P. A. Grassi (YITP, Stony Brook) and P.
+  van Nieuwenhuizen (YITP, Stony Brook)
+Comments: LaTex, 12 pages
+Report-no: YITP-SB-02-74, ITFA-2003-09
+\\
+  Turning on background fields in string theory sometimes has an alternative
+interpretation as a deformation of the target space geometry. A particularly
+well-known case is the NS-NS two form B, which gives rise to space-time
+non-commutativity. In this note we point out that this phenomenon extends to
+ten-dimensional superspace when employing a covariant quantization of the
+superstring, generalizing an observation by Ooguri and Vafa in four dimensions.
+In particular, we will find that RR field strengths give rise to a non-zero
+$\{\theta,\theta\}$ anti-commutator, just as in four dimensions, whereas the
+gravitino yields a non-zero value for $[x,\theta]$.
+\\

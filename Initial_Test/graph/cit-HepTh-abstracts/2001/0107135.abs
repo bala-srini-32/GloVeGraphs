@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0107135
+From: "U. Jentschura" <Jentschura@physik.tu-dresden.de>
+Date: Mon, 16 Jul 2001 14:26:12 GMT   (22kb)
+Date (revised v2): Thu, 18 Oct 2001 09:08:06 GMT   (24kb)
+
+Title: QED Effective Action Revisited
+Authors: Ulrich D. Jentschura, Holger Gies, Sree Ram Valluri, Darrell R. Lamm,
+  Ernst Joachim Weniger
+Comments: 20 pages, LaTeX, 1 table; minor additions and adjustments; to appear
+  in Can. J. Phys
+Report-no: CERN-TH/2001-185
+Journal-ref: Can.J.Phys. 80 (2002) 267-284
+\\
+  The derivation of a convergent series representation for the quantum
+electrodynamic effective action obtained by two of us (S.R.V. and D.R.L.) in
+[Can. J. Phys. vol. 71, p. 389 (1993)] is reexamined. We present more details
+of our original derivation. Moreover, we discuss the relation of the
+electric-magnetic duality to the integral representation for the effective
+action, and we consider the application of nonlinear convergence acceleration
+techniques which permit the efficient and reliable numerical evaluation of the
+quantum correction to the Maxwell Lagrangian.
+\\

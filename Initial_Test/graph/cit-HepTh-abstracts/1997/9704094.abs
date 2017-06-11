@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9704094
+From: Tim Morris <trmorris@hep.ph.soton.ac.uk>
+Date: Fri, 11 Apr 97 15:07:51 BST   (14kb)
+Date (revised): Fri, 18 Apr 97 14:15:41 BST
+Date (revised): Fri, 27 Jun 97 14:40:22 BST
+
+Title: Large N and the renormalization group
+Authors: Marco D'Attanasio and Tim R. Morris
+Comments: 13 pages, uses harvmac; Added: one page with further clarification of
+  the main results, discussion of earlier work, and new references. To be
+  published in Phys. Lett. B
+Journal-ref: Phys.Lett. B409 (1997) 363-370
+\\
+  In the large N limit, we show that the Local Potential Approximation to the
+flow equation for the Legendre effective action, is in effect no longer an
+approximation, but exact - in a sense, and under conditions, that we determine
+precisely. We explain why the same is not true for the Polchinski or Wilson
+flow equations and, by deriving an exact relation between the Polchinski and
+Legendre effective potentials (that holds for all N), we find the correct large
+N limit of these flow equations. We also show that all forms (and all parts) of
+the renormalization group are exactly soluble in the large N limit, choosing as
+an example, D dimensional O(N) invariant N-component scalar field theory.
+\\

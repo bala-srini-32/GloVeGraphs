@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0107073
+From: Kneur Jean-Loic <kneur@lpm.univ-montp2.fr>
+Date: Tue, 10 Jul 2001 13:28:25 GMT   (194kb)
+Date (revised v2): Tue, 24 Jul 2001 17:08:57 GMT   (194kb)
+Date (revised v3): Tue, 13 Nov 2001 14:48:48 GMT   (189kb)
+
+Title: Borel convergence of the variationally improved mass expansion and
+  dynamical symmetry breaking
+Authors: J.-L. Kneur and D. Reynaud (Montpellier U.)
+Comments: 16 pp, 3 figures. v2: References added. v3: mistake corrected in
+  Eq.18. Simpler Borel convergence exhibited changes the discussion in sec.5
+Report-no: PM/00-25
+Journal-ref: Eur.Phys.J. C24 (2002) 323-329
+\\
+  A modification of perturbation theory, known as delta-expansion
+(variationally improved perturbation), gave rigorously convergent series in
+some D=1 models (oscillator energy levels) with factorially divergent ordinary
+perturbative expansions. In a generalization of variationally improved
+perturbation appropriate to renormalizable asymptotically free theories, we
+show that the large expansion orders of certain physical quantities are
+similarly improved, and prove the Borel convergence of the corresponding series
+for $m_v \lsim 0$, with $m_v$ the new (arbitrary) mass perturbation parameter.
+We argue that non-ambiguous estimates of quantities relevant to dynamical
+(chiral) symmetry breaking in QCD, are possible in this resummation framework.
+\\

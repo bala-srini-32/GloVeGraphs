@@ -1,0 +1,36 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9701018
+From: Giampiero.Esposito@na.infn.it
+Date: Tue, 7 Jan 1997 17:38:45 +0100   (20kb)
+Date (revised): Sat, 10 Jan 1998 15:42:47 GMT
+
+Title: Heat-Kernel Asymptotics with Generalized Boundary Conditions
+Authors: Ivan G. Avramidi and G. Esposito
+Comments: 19 pages, plain Tex. The revised version contains new results, and
+  the presentation is improved. To appear in Classical and Quantum Gravity
+  under the title: "New invariants in the one-loop divergences on manifolds
+  with boundary"
+Report-no: DSF preprint 97/1
+Journal-ref: Class.Quant.Grav. 15 (1998) 281-297
+\\
+  The quantization of gauge fields and gravitation on manifolds with boundary
+makes it necessary to study boundary conditions which involve both normal and
+tangential derivatives of the quantized field. The resulting one-loop
+divergences can be studied by means of the asymptotic expansion of the heat
+kernel, and a particular case of their general structure is here analyzed in
+detail. The interior and boundary contributions to heat-kernel coefficients are
+written as linear combinations of all geometric invariants of the problem. The
+behaviour of the differential operator and of the heat kernel under conformal
+rescalings of the background metric leads to recurrence relations which,
+jointly with the boundary conditions, may determine these linear combinations.
+Remarkably, they are expressed in terms of universal functions, independent of
+the dimension of the background and invariant under conformal rescalings, and
+new geometric invariants contribute to heat-kernel asymptotics. Such technique
+is applied to the evaluation of the A(1) coefficient when the matrices
+occurring in the boundary operator commute with each other. Under these
+assumptions, the form of the A(3/2) and A(2) coefficients is obtained for the
+first time, and new equations among universal functions are derived. A
+generalized formula, relating asymptotic heat kernels with different boundary
+conditions, is also obtained.
+\\

@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9504104
+From: Ali Yegulalp <yegulalp@puhep1.Princeton.EDU>
+Date: Thu, 20 Apr 1995 11:58:53 -0400 (EDT)   (19kb)
+
+Title: New Boundary Conformal Field Theories Indexed by the Simply-Laced Lie
+  Algebras
+Author: Ali Yegulalp (Princeton University)
+Comments: 24 pages in plain tex, requires harvmac.tex
+Report-no: PUPT-1538
+Journal-ref: Nucl. Phys. B450 (1995) 641
+\\
+  We consider the field theory of $N$ massless bosons which are free except for
+an interaction localized on the boundary of their 1+1 dimensional world. The
+boundary action is the sum of two pieces: a periodic potential and a coupling
+to a uniform abelian gauge field. Such models arise in open string theory and
+dissipative quantum mechanics, and possibly in edge state tunneling in the
+fractional quantized Hall effect. We explicitly show that conformal invariance
+is unbroken for certain special choices of the gauge field and the periodic
+potential. These special cases are naturally indexed by semi-simple, simply
+laced Lie algebras. For each such algebra, we have a discrete series of
+conformally invariant theories where the potential and gauge field are
+conveniently given in terms of the weight lattice of the algebra. We compute
+the exact boundary state for these theories, which explicitly shows the group
+structure. The partition function and correlation functions are easily computed
+using the boundary state result.
+\\

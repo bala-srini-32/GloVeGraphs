@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9703112
+From: Kirill Krasnov <krasnov@phys.psu.edu>
+Date: Sun, 16 Mar 1997 13:58:30 -0500 (EST)   (26kb)
+
+Title: Quantization of Diffeomorphism-Invariant Theories with Fermions
+Authors: John C. Baez and Kirill V. Krasnov
+Comments: 28 pages, latex, 7 ps-files (included) are needed to process the
+  source file
+Report-no: CGPG-97/3-5
+Journal-ref: J.Math.Phys. 39 (1998) 1251-1271
+\\
+  We extend ideas developed for the loop representation of quantum gravity to
+diffeomorphism-invariant gauge theories coupled to fermions. Let P -> Sigma be
+a principal G-bundle over space and let F be a vector bundle associated to P
+whose fiber is a sum of continuous unitary irreducible representations of the
+compact connected gauge group G, each representation appearing together with
+its dual. We consider theories whose classical configuration space is A x F,
+where A is the space of connections on P and F is the space of sections of F,
+regarded as a collection of Grassmann-valued fermionic fields. We construct the
+`quantum configuration space a x f as a completion of A x F. Using this we
+construct a Hilbert space L^2(a x f) for the quantum theory on which all
+automorphisms of P act as unitary operators, and determine an explicit `spin
+network basis' of the subspace L^2((a x f)/G) consisting of gauge-invariant
+states. We represent observables constructed from holonomies of the connection
+along paths together with fermionic fields and their conjugate momenta as
+operators on L^2((a x f)/G). We also construct a Hilbert space H_diff of
+diffeomorphism-invariant states using the group averaging procedure of
+Ashtekar, Lewandowski, Marolf, Mourao and Thiemann.
+\\

@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0001107
+From: LEE Hyung Won <hwlee@physics.inje.ac.kr>
+Date: Tue, 18 Jan 2000 11:56:22 GMT   (7kb)
+Date (revised v2): Thu, 20 Jan 2000 11:33:52 GMT   (7kb)
+Date (revised v3): Wed, 15 Mar 2000 04:48:18 GMT   (8kb)
+
+Title: Randall-Sundrum Gauge in the Brane World
+Authors: Y.S. Myung, Gungwon Kang, H.W. Lee (Inje University)
+Comments: corrected some typographical mistakes, 11 pages with ReVTeX, no
+  figure
+Report-no: INJE-TP-00-1
+Journal-ref: Phys.Lett. B478 (2000) 294-298
+\\
+  We discuss the Randall-Sundrum (RS) choice for $h_{MN}$ in the brane-world.
+We begin with the de Donder gauge (transverse-tracefree) including
+scalar($h_{55}$), vector($h_{5\mu}$) and tensor($h_{\mu\nu}$) in five
+dimensions for comparison. One finds that $h_{55}=0$ and $h_{5\mu}=0$. This
+leads to the RS choice. It appears that the RS choice is so restrictive for the
+five massless states, whereas it is unique for describing the massive states.
+Furthermore, one can establish the stability of the RS solution with the RS
+choice only.
+\\

@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0111090
+From: Luigi Del Debbio <ldd@df.unipi.it>
+Date: Sat, 10 Nov 2001 22:46:12 GMT   (66kb)
+Date (revised v2): Tue, 13 Nov 2001 16:06:51 GMT   (67kb)
+Date (revised v3): Wed, 27 Mar 2002 16:51:48 GMT   (67kb)
+
+Title: Spectrum of confining strings in SU(N) gauge theories
+Authors: Luigi Del Debbio, Haralambos Panagopoulos, Paolo Rossi, Ettore Vicari
+Comments: Latex, 34 pages, 10 figures. Results of new SU(4) simulations added.
+  The new data are included in the analysis, leading to improved final
+  estimates for SU(4). Conclusions unchanged
+Journal-ref: JHEP 0201 (2002) 009
+\\
+  We study the spectrum of the confining strings in four-dimensional SU(N)
+gauge theories. We compute, for the SU(4) and SU(6) gauge theories formulated
+on a lattice, the string tensions sigma_k related to sources with Z_N charge k,
+using Monte Carlo simulations. Our results are consistent with the sine formula
+sigma_k/sigma = sin k pi/N / sin pi/N for the ratio between sigma_k and the
+standard string tension sigma.
+  For the SU(4) and SU(6) cases the accuracy is approximately 1% and 2%,
+respectively. The sine formula is known to emerge in various realizations of
+supersymmetric SU(N) gauge theories. On the other hand, our results show
+deviations from Casimir scaling. We also discuss an analogous behavior
+exhibited by two-dimensional SU(N) x SU(N) chiral models.
+\\

@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9512079
+From: "Alexei Semikhatov" <asemikha@td.lpi.ac.ru>
+Date: Tue, 12 Dec 1995 01:43:26 +0300 (MSK)   (25kb)
+Date (revised): Wed, 17 Jan 1996 00:56:23 +0300 (MSK)
+Date (revised): Sun, 26 May 1996 23:43:02 +0400 (MSD)
+
+Title: Singular Vectors of the Topological Conformal Algebra
+Authors: A M Semikhatov and I Yu Tipunin (P N Lebedev Physics Institute)
+Comments: LaTeX 2.09, 19 pages. Minor changes, making the paper identical to
+  the one to be published in IJMPA
+Journal-ref: Int.J.Mod.Phys. A11 (1996) 4597-4622
+\\
+  A general construction is found for `topological' singular vectors of the
+twisted N=2 superconformal algebra. It demonstrates many parallels with the
+known construction for sl(2) singular vectors due to Malikov--Feigin--Fuchs,
+but is formulated independently of the latter. The two constructions taken
+together provide an isomorphism between topological and sl(2)- singular
+vectors. The general formula for topological singular vectors can be
+reformulated as a chain of direct recursion relations that allow one to derive
+a given singular vector |S(r,s)> from the lower ones |S(r,s'<s)>. We also
+introduce generalized Verma modules over the twisted N=2 algebra and show that
+they provide a natural setup for the new construction for topological singular
+vectors.
+\\

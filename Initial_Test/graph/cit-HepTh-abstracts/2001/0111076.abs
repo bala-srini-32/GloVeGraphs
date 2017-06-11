@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0111076
+From: Tomy Scaria <tomy@bose.res.in>
+Date: Thu, 8 Nov 2001 17:09:03 GMT   (17kb)
+Date (revised v2): Mon, 15 Jul 2002 04:18:13 GMT   (20kb)
+
+Title: On the Associativity of Star Product in Systems with Nonlinear
+  Constraints
+Authors: Rabin Banerjee, Biswajit Chakraborty, Tomy Scaria
+Comments: latex, 21 pages, no figures, Revised version with modified abstract
+  and text, New references added. Typos corrected
+\\
+  The noncommutative star product of phase space functions is, by construction,
+associative for both non-degenerate and degenerate case (involving only second
+class constraints) as has been shown by Berezin, Batalin and Tyutin. However,
+for the latter case, the manifest associativity is lost if an arbitrary
+coordinate system is used but can be restored by using an unconstrained
+canonical set.
+ The existence of such a canonical transformation is guaranteed by a theorem
+due to Maskawa and Nakajima. In terms of these new variables, the Kontsevich
+series for the star product reduces to an exponential series which is
+manifestly associative. We also show, using the star product formalism, that
+the angular momentum of a particle moving on a circle is quantized.
+\\

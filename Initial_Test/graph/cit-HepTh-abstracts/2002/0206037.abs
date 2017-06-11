@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0206037
+From: Mauricio Ayala Sanchez <mauricio@ayala.as>
+Date: Wed, 5 Jun 2002 02:46:47 GMT   (11kb)
+Date (revised v2): Thu, 6 Jun 2002 00:13:41 GMT   (11kb)
+
+Title: Group contractions and its consequences upon representations of
+  different spatial symmetry groups
+Authors: Mauricio Ayala (Universidad de los Andes, Bogota - Colombia), Richard
+  Haase (Universidad Nacional, Bogota - Colombia)
+Comments: To be published in the Proceedings of the Summer School "Geometric
+  and Topological methods for Quantum Field Theory", Villa de Leyva, Colombia
+  (2001)
+Subj-class: High Energy Physics - Theory; Mathematical Physics; Group Theory
+\\
+  We investigate the group contraction method for various space-time groups,
+including SO(3)->E_2, SO(3,1)->G_3, SO(5-h,h)->P(3,1) (h=1 or 2), and its
+consequences for representations of these groups. Following strictly quantum
+mechanical procedures we specifically pay attention in the asymptotic limiting
+procedure employed in the contraction G -> G', not only to the respective
+algebras but to their representations spaces spanned by the eigenvectors of the
+Cartan subalgebra and the eigenvalues labelling these representation spaces.
+Where appropriate a physical interpretation is given to the contraction
+prodecure.
+\\

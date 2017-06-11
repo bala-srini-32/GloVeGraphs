@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9712163
+From: "M.Abouzeid" <M.Abouzeid@qmw.ac.uk>
+Date: Tue, 16 Dec 1997 19:43:22 GMT   (6kb)
+Date (revised v2): Thu, 18 Dec 1997 15:11:32 GMT   (6kb)
+Date (revised v3): Mon, 22 Dec 1997 18:05:26 GMT   (6kb)
+
+Title: D-Brane Actions, Intrinsic Geometry and Duality
+Authors: M. Abou Zeid
+Comments: LaTeX, 6 pages, no figures, uses crckapb.sty; one reference added. To
+  appear in the proceedings of the 1997 Cargese Summer School "Strings, Branes
+  and Dualities", May 26-June 14, 1997
+Report-no: QMW-PH-97-40
+\\
+  We discuss an alternative form of the supersymmetric D-$p$-brane action which
+is quadratic in derivatives of $X$ and linear in $F_{\mu \nu}$. This action
+involves an auxiliary worldvolume tensor and generalises the simplification of
+the Nambu-Goto action for $p$-branes using a symmetric metric. When the
+worldvolume gauge field is abelian, it appears as a Lagrange multiplier, and
+solving the constraint gives the dual form of the ($p+1$)-dimensional action
+with a $p-2$ form gauge field instead of a vector gauge field. This is
+illustrated by the example of the dual D-2-brane action, for which the known
+result is recovered.
+\\

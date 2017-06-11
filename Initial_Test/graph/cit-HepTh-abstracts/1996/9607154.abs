@@ -1,0 +1,32 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9607154
+From: smilga@vitep5.itep.ru
+Date: Thu, 18 Jul 1996 14:34:45 EET   (12kb)
+Date (revised): Wed, 25 Sep 1996 02:23:29 EET
+
+Title: Critical amplitudes in two-dimensional theories
+Author: A.V. Smilga
+Comments: A paper is substantially revised. A number of references is added and
+  discussed. The title changed in the revised version. 12 pages LaTeX
+Report-no: ITEP-TH-27/96
+Journal-ref: Phys.Rev. D55 (1997) 443-447
+\\
+  We derive exact analytical expressions for the critical amplitudes
+$A_\psi$, $A_{gap}$ in the scaling laws for the fermion condensate $<\bar
+\psi \psi> = A_\psi m^{1/3} g^{2/3}$ and for the mass of the lightest state
+$M_{gap} = A_{gap} m^{2/3} g^{1/3}$ in the Schwinger model with two light
+flavors, $m \ll g$. $A_\psi$ and $A_{gap}$ are expressed via certain
+universal amplitude ratios being calculated recently in TBA technique and the
+known coefficient $A_{\psi\psi}$ in the scaling law $<\bar \psi \psi (x) \bar
+\psi \psi (0)> = A_{\psi\psi} (g/x)$ at the critical point. Numerically,
+$A_\psi = -0.388..., A_{gap} = 2.008...$ . The same is done for the standard
+square lattice Ising model at $T = T_c$. Using recent Fateev's results, we
+get $<\sigma_{lat}> = 1.058... (H_{lat}/T_c)^{1/15}$ for the magnetization
+and $M_{gap} = a/\xi = 4.010... (H_{lat}/T_c)^{8/15}$ for the inverse
+correlation length ($a$ is the lattice spacing). The theoretical prediction
+for $<\sigma^{lat}>$ is in a perfect agreement with numerical data. Two
+available numerical papers give the values of $M_{gap}$ which differ from
+each other by a factor $\approx \sqrt{2}$ . The theoretical result for
+$M_{gap}$ agrees with one of them.
+\\

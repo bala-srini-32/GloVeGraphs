@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9810233
+From: Chi-Wei Herbert Lee <cwhlee@pas.rochester.edu>
+Date: Wed, 28 Oct 1998 19:59:05 GMT   (27kb)
+Date (revised v2): Sun, 15 Nov 1998 21:21:07 GMT   (27kb)
+Date (revised v3): Tue, 17 Nov 1998 21:03:04 GMT   (28kb)
+
+Title: Poisson Brackets of Normal-Ordered Wilson Loops
+Authors: C.-W. H. Lee and S. G. Rajeev
+Comments: 34 pages, 4 eps figures, LaTeX2.09; citations added
+Subj-class: High Energy Physics - Theory; Mathematical Physics
+Journal-ref: J.Math.Phys. 40 (1999) 1870-1890
+\\
+  We formulate Yang-Mills theory in terms of the large-N limit, viewed as a
+classical limit, of gauge-invariant dynamical variables, which are closely
+related to Wilson loops, via deformation quantization. We obtain a Poisson
+algebra of these dynamical variables corresponding to normal-ordered quantum
+(at a finite value of $\hbar$) operators. Comparing with a Poisson algebra one
+of us introduced in the past for Weyl-ordered quantum operators, we find, using
+ideas closly related to topological graph theory, that these two Poisson
+algebras are, roughly speaking, the same. More precisely speaking, there exists
+an invertible Poisson morphism between them.
+\\

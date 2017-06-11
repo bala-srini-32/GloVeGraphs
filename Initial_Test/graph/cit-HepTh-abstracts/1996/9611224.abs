@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9611224
+From: fferrari@lpthe.jussieu.fr (Franco FERRARI)
+Date: Wed, 27 Nov 1996 10:37:42 +0100   (22kb)
+Date (revised): Fri, 27 Jun 1997 14:01:45 +0200
+
+Title: Perturbative Analysis of Chern-Simons Field Theory in the Coulomb Gauge
+Authors: Franco Ferrari and I. Lazzizzera
+Comments: 15 pages, Latex + psfig. With respect to the previous version, the
+  perturbative calculations have now been performed without using a particular
+  regularization for the ultraviolet divergences. Moreover, the paper has been
+  totally rewritten improving its clarity and adding some new references and
+  Comments
+Report-no: PAR-LPTHE 96-44, UTF 387/96
+Journal-ref: Int.J.Mod.Phys. A13 (1998) 1773-1784
+\\
+  In this paper we analyse the perturbative aspects of Chern-Simons field
+theories in the Coulomb gauge. We show that in the perturbative expansion of
+the Green functions there are neither ultraviolet not infrared divergences.
+Moreover, all the radiative corrections are zero at any loop order. Some
+problems connected with the Coulomb gauge fixing, like the appearance of
+spurious singularities in the computation of the Feynman diagrams, are
+discussed and solved. The regularization used here for the spurious
+singularities can be easily applied also to the Yang-Mills case, which is
+affected by similar divergences.
+\\

@@ -1,0 +1,19 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9612113
+From: Tony Kennedy <ADK@scri.fsu.edu>
+Date: Tue, 10 Dec 1996 17:22:04 -0500 (EST)   (62kb)
+
+Title: A Simple Proof of the BPH Theorem
+Authors: A. D. Kennedy (SCRI, Florida State University)
+Comments: 8 pages
+Report-no: FSU-SCRI-96-132
+\\
+  A new formalism is given for the renormalization of quantum field theories to
+all orders of perturbation theory, in which there are manifestly no overlapping
+divergences. We prove the BPH theorem in this formalism, and show how the local
+subtractions add up to counterterms in the action. Applications include the
+renormalization of lattice perturbation theory, the decoupling theorem,
+Zimmermann oversubtraction, the renormalization of operator insertions, and the
+operator product expansion.
+\\

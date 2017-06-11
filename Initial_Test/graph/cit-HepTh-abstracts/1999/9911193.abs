@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9911193
+From: LEE Hyung Won <hwlee@physics.inje.ac.kr>
+Date: Wed, 24 Nov 1999 15:38:20 GMT   (6kb)
+Date (revised v2): Mon, 29 Nov 1999 05:52:28 GMT   (6kb)
+Date (revised v3): Sat, 19 Feb 2000 01:32:10 GMT   (7kb)
+
+Title: Greybody factor for D3-branes in B field
+Authors: Y.S. Myung, Gungwon Kang, H.W. Lee (Inje University)
+Comments: some discussions and references are added, 10 pages, no figure,
+  ReVTeX
+Report-no: INJE-TP-99-8
+Journal-ref: Phys.Rev. D62 (2000) 047503
+\\
+  We calculate the effect of noncommutative spacetime on the greybody factor on
+the supergravity side. For this purpose we introduce a system of D3-branes with
+a constant NS $B$-field along their world volume directions ($x_2, x_3$).
+Considering the propagation of minimally coupled scalar with non-zero momentum
+along($x_2, x_3$), we derive an exact form of the greybody factor in $B$ field.
+It turns out that $\sigma^{B\ne0}_l > \sigma^{B=0}_l$. This means that the
+presence of $B$-field (the noncommutativity) suppresses the potential barrier
+surrounding the black hole. As a result, it comes out the increase of greybody
+factor.
+\\

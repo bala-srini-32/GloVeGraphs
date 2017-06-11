@@ -1,0 +1,38 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9703045
+From: palla@hal9000.elte.hu (Laszlo Palla)
+Date: Thu, 6 Mar 1997 13:43:52 +0100 (NFT)   (56kb)
+Date (revised): Fri, 7 Mar 1997 09:44:34 +0100 (NFT)
+Date (revised): Wed, 1 Jan 1997 13:56:51 +0100 (NFT)
+
+Title: Coadjoint orbits of the Virasoro algebra and the global Liouville
+  equation
+Authors: J. Balog, L. Feh\'er and L. Palla
+Comments: Plain TEX, 48 pages, final version to appear in IJMPA
+Journal-ref: Int.J.Mod.Phys. A13 (1998) 315-362
+\\
+  The classification of the coadjoint orbits of the Virasoro algebra is
+reviewed and is then applied to analyze the so-called global Liouville
+equation. The review is self-contained, elementary and is tailor-made for the
+application. It is well-known that the Liouville equation for a smooth, real
+field $\phi$ under periodic boundary condition is a reduction of the SL(2,R)
+WZNW model on the cylinder, where the WZNW field g in SL(2,R) is restricted to
+be Gauss decomposable. If one drops this restriction, the Hamiltonian reduction
+yields, for the field $Q=\kappa g_{22}$ where $\kappa\neq 0$ is a constant,
+what we call the global Liouville equation. Corresponding to the winding number
+of the SL(2,R) WZNW model there is a topological invariant in the reduced
+theory, given by the number of zeros of Q over a period. By the substitution
+$Q=\pm\exp(- \phi/2)$, the Liouville theory for a smooth $\phi$ is recovered in
+the trivial topological sector. The nontrivial topological sectors can be
+viewed as singular sectors of the Liouville theory that contain blowing-up
+solutions in terms of $\phi$. Since the global Liouville equation is
+conformally invariant, its solutions can be described by explicitly listing
+those solutions for which the stress-energy tensor belongs to a set of
+representatives of the Virasoro coadjoint orbits chosen by convention. This
+direct method permits to study the `coadjoint orbit content' of the topological
+sectors as well as the behaviour of the energy in the sectors. The analysis
+confirms that the trivial topological sector contains special orbits with
+hyperbolic monodromy and shows that the energy is bounded from below in this
+sector only.
+\\

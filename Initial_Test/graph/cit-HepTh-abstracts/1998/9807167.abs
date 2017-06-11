@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9807167
+From: Manu Mathur <manu@boson.bose.res.in>
+Date: Wed, 22 Jul 1998 00:58:48 GMT   (8kb)
+
+Title: Abelianization of Low Energy SU(2) Effective Action
+Authors: Manu Mathur
+Comments: 8 pages, Latex
+Report-no: SNB/98-07-06
+\\
+  Recently Faddeev and Niemi proposed a low energy effective action for pure
+SU(2) Yang Mills theory in 4 dimension to describe its long distance physics.
+The effective action is O(3) $\sigma$ model with a mass parameter, a
+dimensionless coupling constant e and a topological term. In this work,
+choosing a new set of variables, we relate this $\sigma$ model to a U(1) gauge
+theory with electric and magnetic charges of charge e and $4 \pi e^{-1}$
+respectively. In the new formulation the connection of the mass parameter with
+the monopole condensate is discussed. This theory after lattice regularisation
+is the compact U(1) gauge theory coupled to electric charges.
+\\

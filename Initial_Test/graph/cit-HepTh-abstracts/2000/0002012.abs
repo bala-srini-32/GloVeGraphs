@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0002012
+From: Paul S. Aspinwall <psa@cgtp.duke.edu>
+Date: Tue, 1 Feb 2000 21:22:05 GMT   (165kb)
+Date (revised v2): Mon, 22 May 2000 04:12:54 GMT   (165kb)
+
+Title: Lie Groups, Calabi-Yau Threefolds, and F-Theory
+Authors: Paul S. Aspinwall, Sheldon Katz, and David R. Morrison
+Comments: 24 pages, 6 figures, LaTeX2e; revised version corrects the matter
+  spectrum in one case, adds references, and makes other minor corrections
+Report-no: DUKE-CGTP-00-02,OSU-Math-2000-3
+Subj-class: High Energy Physics - Theory; Algebraic Geometry
+Journal-ref: Adv.Theor.Math.Phys. 4 (2000) 95-126
+\\
+  The F-theory vacuum constructed from an elliptic Calabi-Yau threefold with
+section yields an effective six-dimensional theory. The Lie algebra of the
+gauge sector of this theory and its representation on the space of massless
+hypermultiplets are shown to be determined by the intersection theory of the
+homology of the Calabi-Yau threefold. (Similar statements hold for M-theory and
+the type IIA string compactified on the threefold, where there is also a
+dependence on the expectation values of the Ramond-Ramond fields.) We describe
+general rules for computing the hypermultiplet spectrum of any F-theory vacuum,
+including vacua with non-simply-laced gauge groups. The case of monodromy
+acting on a curve of A_even singularities is shown to be particularly
+interesting and leads to some unexpected rules for how 2-branes are allowed to
+wrap certain 2-cycles. We also review the peculiar numerical predictions for
+the geometry of elliptic Calabi-Yau threefolds with section which arise from
+anomaly cancellation in six dimensions.
+\\

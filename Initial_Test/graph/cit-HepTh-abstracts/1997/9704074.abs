@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9704074
+From: antonov@lpthe.jussieu.fr (Sacha ANTONOV)
+Date: Wed, 9 Apr 1997 17:46:19 +0200 (MET DST)   (22kb)
+Date (revised): Tue, 29 Apr 1997 11:49:36 +0200 (MET DST)
+
+Title: On trigonometric intertwining vectors and non-dynamical R-matrix for the
+  Ruijsenaars model
+Authors: A.Antonov, K.Hasegawa, A. Zabrodin
+Comments: 20 pages, LaTeX, references are added
+Report-no: LPTHE 97-09
+Subj-class: High Energy Physics - Theory; Quantum Algebra; Exactly Solvable and
+  Integrable Systems
+Journal-ref: Nucl.Phys. B503 (1997) 747-770
+\\
+  We elaborate the trigonometric version of intertwining vectors and factorized
+L-operators. The starting point is the corresponding elliptic construction with
+Belavin's R-matrix. The naive trigonometric limit is singular and a careful
+analysis is needed. It is shown that the construction admits several different
+trigonometric degenerations. As a by-product, a quantum Lax operator for the
+trigonometric Ruijsenaars model intertwined by a non-dynamical R-matrix is
+obtained. The latter differs from the standard trigonometric R-matrix of $A_n$
+type. A connection with the dynamical R-matrix approach is discussed.
+\\

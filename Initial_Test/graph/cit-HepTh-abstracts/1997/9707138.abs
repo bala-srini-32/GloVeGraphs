@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9707138
+From: Giampiero.Esposito@na.infn.it
+Date: Tue, 15 Jul 1997 12:45:03 +0200   (3kb)
+
+Title: New Results in One-Loop Quantum Cosmology
+Authors: Giampiero Esposito and Alexander Yu. Kamenshchik
+Comments: 4 pages, plain Tex, talk given in Jerusalem during the Quantum
+  Cosmology session of the Eighth Marcel Grossmann Meeting (June 1997)
+Report-no: DSF preprint 97/32
+\\
+  A crucial problem in quantum cosmology is a careful analysis of the one-loop
+semiclassical approximation for the wave function of the universe, after an
+appropriate choice of mixed boundary conditions. The results for Euclidean
+quantum gravity in four dimensions are here presented, when linear covariant
+gauges are implemented by means of the Faddeev-Popov formalism. On using
+zeta-function regularization and a mode-by-mode analysis, one finds a result
+for the one-loop divergence which agrees with the Schwinger-DeWitt method only
+after taking into account the non-trivial effect of gauge and ghost modes. For
+the gravitational field, however, the geometric form of heat-kernel asymptotics
+with boundary conditions involving tangential derivatives of metric
+perturbations is still unknown. Moreover, boundary effects are found to be
+responsible for the lack of one-loop finiteness of simple supergravity, when
+only one bounding three-surface occurs. This work raises deep interpretative
+issues about the admissible backgrounds and about quantization techniques in
+quantum cosmology.
+\\

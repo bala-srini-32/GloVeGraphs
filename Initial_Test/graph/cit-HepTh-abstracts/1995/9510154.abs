@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9510154
+From: nunes@het.brown.edu (Joao Nunes)
+Date: Fri, 20 Oct 1995 18:04:08 -0500 (EST)   (21kb)
+Date (revised): Tue, 07 Nov 1995 13:17:56 -0500 (EST)
+Date (revised): Tue, 30 Apr 1996 16:01:36 -0500 (EST)
+Date (revised): Tue, 3 Dec 96 13:38:25 EST
+
+Title: Field Strength Correlators For 2D Yang-Mills Over Riemann Surfaces
+Authors: J. P. Nunes, H. J. Schnitzer
+Comments: final version to appear in Int. Jour. Mod. Phys. A, minor
+  corrections, added a few comments on Wilson loops and non-abelian Stokes
+  theorem
+Journal-ref: Int.J.Mod.Phys. A12 (1997) 4743-4768
+\\
+  The path integral computation of field strength correlation functions for two
+dimensional Yang-Mills theories over Riemann surfaces is studied. The
+calculation is carried out by abelianization, which leads to correlators that
+are topological. They are nontrivial as a result of the topological
+obstructions to the abelianization. It is shown in the large N limit on the
+sphere that the correlators undergo second order phase transitions at the
+critical point. Our results are applied to a computation of contractible Wilson
+loops.
+\\

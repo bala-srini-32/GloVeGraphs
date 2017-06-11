@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9510194
+From: mblau@enslapp.ens-lyon.fr
+Date: Thu, 26 Oct 1995 23:59:21 +0100   (44kb)
+Date (revised): Thu, 12 Dec 1996 20:28:03 +0100 (MET)
+
+Title: Grassmannian Topological Kazama-Suzuki Models and Cohomology
+Authors: Matthias Blau, Faheem Hussain, George Thompson
+Comments: expanded version to appear in NPB: detailed analysis of torsion
+  sectors arising from the adjoint gauging included; 67 pages, LaTeX file
+Report-no: IC/95/341, ENSLAPP-L-557/95
+Journal-ref: Nucl.Phys. B488 (1997) 599-652
+\\
+  We investigate in detail the topological gauged Wess-Zumino-Witten models
+describing topological Kazama-Suzuki models based on complex Grassmannians. We
+show that there is a topological sector in which the ring of observables
+(constructed from the Grassmann odd scalars of the theory) coincides with the
+classical cohomology ring of the Grassmannian for all values of the level k. We
+perform a detailed analysis of the non-trivial topological sectors arising from
+the adjoint gauging, and investigate the general ring structure of bosonic
+correlation functions, uncovering a whole hierarchy of level-rank relations
+(including the standard level-rank duality) among models based on different
+Grassmannians. Using the previously established localization of the topological
+Kazama-Suzuki model to an Abelian topological field theory, we reduce the
+correlators to finite-dimensional purely algebraic expressions. As an
+application, these are evaluated explicitly for the CP{2} model at level k and
+shown for all k to coincide with the cohomological intersection numbers of the
+two-plane Grassmannian G(2,k+2), thus realizing the level-rank duality between
+this model and the G(2,k+2) model at level one.
+\\

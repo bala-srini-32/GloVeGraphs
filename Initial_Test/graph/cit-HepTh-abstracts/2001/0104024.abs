@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0104024
+From: Andrea Pelissetto <Andrea.Pelissetto@roma1.infn.it>
+Date: Tue, 3 Apr 2001 12:26:39 GMT   (40kb)
+Date (revised v2): Tue, 8 May 2001 09:50:54 GMT   (40kb)
+
+Title: Large-n Critical Behavior of O(n)xO(m) Spin Models
+Authors: Andrea Pelissetto, Paolo Rossi and Ettore Vicari
+Comments: 29 pages, a few refs added, Nucl. Phys. B in press
+Journal-ref: Nucl.Phys. B607 (2001) 605-634
+\\
+  We consider the Landau-Ginzburg-Wilson Hamiltonian with O(n)x O(m) symmetry
+and compute the critical exponents at all fixed points to O(n^{-2}) and to
+O(\epsilon^3) in a \epsilon=4-d expansion. We also consider the corresponding
+non-linear sigma model and determine the fixed points and the critical
+exponents to O(\tilde{\epsilon}^2) in the \tilde{\epsilon}=d-2 expansion. Using
+these results, we draw quite general conclusions on the fixed-point structure
+of models with O(n)xO(m) symmetry for n large and all 2 < d < 4.
+\\

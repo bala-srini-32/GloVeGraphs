@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9801169
+From: Thomas P. Pause <thomas.pause@physik.uni-regensburg.de>
+Date: Mon, 26 Jan 1998 13:46:58 GMT   (94kb)
+
+Title: The Configuration Space of Low-dimensional Yang-Mills Theories
+Authors: T. Pause and T. Heinzl (Universitaet Regensburg, Germany)
+Comments: 52 pages LaTeX2e, 8 postscript figures, uses epsfig, amsmath, amssymb
+Report-no: TPR-97-06
+Journal-ref: Nucl.Phys. B524 (1998) 695-741
+\\
+  We discuss the construction of the physical configuration space for
+Yang-Mills quantum mechanics and Yang-Mills theory on a cylinder. We explicitly
+eliminate the redundant degrees of freedom by either fixing a gauge or
+introducing gauge invariant variables. Both methods are shown to be equivalent
+if the Gribov problem is treated properly and the necessary boundary
+identifications on the Gribov horizon are performed. In addition, we analyze
+the significance of non-generic configurations and clarify the relation between
+the Gribov problem and coordinate singularities.
+\\

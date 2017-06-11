@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0208175
+From: Luiz Agostinho Ferreira <laf@ift.unesp.br>
+Date: Sat, 24 Aug 2002 01:43:05 GMT   (37kb)
+
+Title: Construction of exact Riemannian instanton solutions
+Authors: L. Bonora, C.P. Constantinidis, L.A. Ferreira and E.E. Leite
+Comments: 35 pages, needs axodraw.sty
+Report-no: IFT-P.056/02, SISSA/59/02/EP
+Subj-class: High Energy Physics - Theory; Exactly Solvable and Integrable
+  Systems; Mathematical Physics
+\\
+  We give the exact construction of Riemannian (or stringy) instantons, which
+are classical solutions of 2d Yang-Mills theories that interpolate between
+initial and final string configurations. They satisfy the Hitchin equations
+with special boundary conditions. For the case of U(2) gauge group those
+equations can be written as the sinh-Gordon equation with a delta function
+source. Using techniques of integrable theories based on the zero curvature
+conditions, we show that the solution is a condensate of an infinite number of
+one-solitons with the same topological charge and with all possible rapidities.
+\\

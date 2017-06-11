@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9505171
+From: QUEVEDO <Fernando.Quevedo@iph.unine.ch>
+Date: Sun, 28 May 1995 14:41:21 +0200   (42kb)
+
+Title: ON GAUGINO CONDENSATION WITH FIELD-DEPENDENT GAUGE COUPLINGS
+Authors: C.P. Burgess, J.-P. Derendinger, F. Quevedo, M. Quiros
+Comments: 54 pages, plain tex
+Report-no: CERN-TH/95-111, IEM-FT-105/95, McGill-95/05,NEIP-95-04
+Journal-ref: Annals Phys. 250 (1996) 193-233
+\\
+  We study in detail gaugino condensation in globally and locally
+supersymmetric Yang-Mills theories. We focus on models for which gauge-neutral
+matter couples to the gauge bosons only through nonminimal gauge kinetic terms,
+for the cases of one and several condensing gauge groups. Using only symmetry
+arguments, the low-energy expansion, and general properties of supersymmetry,
+we compute the low energy Wilson action, as well as the (2PI) effective action
+for the composite {\it classical} superfield $U\equiv\langle \Tr\WW \rangle$,
+with $W_\alpha$ the supersymmetric gauge field strength. The 2PI effective
+action provides a firmer foundation for the approach of Veneziano and
+Yankielowicz, who treated the composite superfield, $U$, as a quantum degree of
+freedom. We show how to rederive the Wilson action by minimizing the 2PI action
+with respect to $U$. We determine, in both formulations and for global and
+local supersymmetry, the effective superpotential, $W$, the non-perturbative
+contributions to the low-energy K\"ahler potential $K$, and the leading higher
+supercovariant derivative terms in an expansion in inverse powers of the
+condensation scale. As an application of our results we include the string
+moduli dependence of the super- and K\"ahler potentials for simple orbifold
+models.
+\\

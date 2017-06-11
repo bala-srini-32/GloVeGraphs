@@ -1,0 +1,19 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0103121
+From: Shin-Ichiro Kuroki <kuroki@theo.phys.sci.hiroshima-u.ac.jp>
+Date: Thu, 15 Mar 2001 17:23:36 GMT   (32kb)
+
+Title: Large-N_c meson theory
+Authors: Shin-Ichiro Kuroki, Keiichi Morikawa, Takuya Morozumi
+Comments: 1+10 pages including 4 figures, Latex, style files psfig.sty and
+  wrapft.sty
+Report-no: CERN-TH/2001-070, HUPD-0102
+\\
+  We derive an effective Lagrangian for meson fields. This is done in the
+light-cone gauge for two-dimensional large-N_c QCD by using the bilocal
+auxiliary field method. The auxiliary fields are bilocal on light-cone space
+and their Fourier transformation determines the parton momentum distribution.
+As the first test of our method, the 't Hooft equation is derived from the
+effective Lagrangian.
+\\

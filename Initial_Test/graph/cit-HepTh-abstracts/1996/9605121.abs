@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9605121
+From: Wen-feng Chen <wfchen@rock.helsinki.fi>
+Date: Fri, 17 May 1996 13:13:15 +0300 (EET DST)   (16kb)
+Date (revised): Wed, 29 May 1996 16:54:28 +0300 (EET DST)
+Date (revised): Fri, 1 Nov 1996 13:14:58 +0200 (EET)
+
+Title: Differential Regularization of Topologically Massive Yang-Mills Theory
+  and Chern-Simons Theory
+Authors: W.F. Chen, H.C. Lee and Z.Y. Zhu
+Comments: 25 pages, 4 figures. Several typewritten errors and inappropriate
+  arguments are corrected, especially the correct adresses of authors are given
+Journal-ref: Phys.Rev. D55 (1997) 3664-3673
+\\
+  We apply differential renormalization method to the study of
+three-dimensional topologically massive Yang-Mills and Chern-Simons theories.
+The method is especially suitable for such theories as it avoids the need for
+dimensional continuation of three-dimensional antisymmetric tensor and the
+Feynman rules for three-dimensional theories in coordinate space are relatively
+simple. The calculus involved is still lengthy but not as difficult as other
+existing methods of calculation. We compute one-loop propagators and vertices
+and derive the one-loop local effective action for topologically massive
+Yang-Mills theory. We then consider Chern-Simons field theory as the large mass
+limit of topologically massive Yang-Mills theory and show that this leads to
+the famous shift in the parameter $k$. Some useful formulas for the calculus of
+differential renormalization of three-dimensional field theories are given in
+an Appendix.
+\\

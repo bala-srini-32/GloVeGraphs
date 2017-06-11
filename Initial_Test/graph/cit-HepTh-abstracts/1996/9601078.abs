@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9601078
+From: Bert Schellekens <t58@next.nikhef.nl>
+Date: Tue, 16 Jan 96 11:08:08 +0100   (60kb)
+Date (revised): Thu, 15 Feb 96 14:42:37 +0100
+
+Title: A matrix S for all simple current extensions
+Authors: J"urgen Fuchs, Bert Schellekens, Christoph Schweigert
+Comments: Phyzzx, 53 pages 1 uuencoded figure Arrow in figure corrected;
+  Forgotten acknowledment to funding organization added; DESY preprint-number
+  added
+Report-no: DESY 96--008 - IHES/P/98/8 - NIKHEF 96-001
+Journal-ref: Nucl.Phys. B473 (1996) 323-366
+\\
+  A formula is presented for the modular transformation matrix S for any simple
+current extension of the chiral algebra of a conformal field theory. This
+provides in particular an algorithm for resolving arbitrary simple current
+fixed points, in such a way that the matrix S we obtain is unitary and
+symmetric and furnishes a modular group representation. The formalism works in
+principle for any conformal field theory. A crucial ingredient is a set of
+matrices S^J_{ab}, where J is a simple current and a and b are fixed points of
+J. We expect that these input matrices realize the modular group for the torus
+one-point functions of the simple currents. In the case of WZW-models these
+matrices can be identified with the S-matrices of the orbit Lie algebras that
+we introduced in a previous paper. As a special case of our conjecture we
+obtain the modular matrix S for WZW-theories based on group manifolds that are
+not simply connected, as well as for most coset models.
+\\

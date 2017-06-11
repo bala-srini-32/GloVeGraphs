@@ -1,0 +1,33 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9906176
+From: castro@ctsps.cau.edu
+Date: Wed, 23 Jun 1999 04:08:47 GMT   (14kb)
+Date (revised v2): Fri, 25 Jun 1999 21:38:17 GMT   (14kb)
+Date (revised v3): Sun, 27 Jun 1999 20:56:27 GMT   (16kb)
+Date (revised v4): Mon, 13 Nov 2000 19:24:09 GMT   (23kb)
+
+Title: Conformally Invariant Sigma Models on Anti de Sitter Spaces,
+  Chern-Simons p-branes and W Geometry
+Author: Carlos Castro
+Comments: Revised Tex file, 21 pages. An addition of the recent work on
+  Chern-Simons Hadronic Bags (Ansoldi, Castro, Spallucci : hep-th/0011013) and
+  p-branes from Moyal Deformation of Generalized Yang Mills (hep-th/9908115)
+  has been added
+\\
+  Conformally invariant sigma models in $D=2n$ dimensions with target
+non-compact O(2n,1) groups are studied. It is shown that despite the
+non-compact nature of the O(2n,1) groups, the classical action and Hamiltonian
+are positive definite. Instanton field configurations are found to correspond
+geometrically to conformal ``stereographic'' mappings of $R^{2n}$ into the
+Euclidean signature $AdS_{2n}$ spaces. Zaikov's relationship between Self Dual
+$p$-branes and Chern-Simons $p'$-branes, provided $p=p'+1$ and the embedding
+$D=p+1$-dimensional manifold is Euclidean, is elaborated further. Branes
+actions can be obtained also from a Moyal deformation quantization of
+Generalized Yang Mills Theories. Using this procedure, we show how four
+dimensional SU(N) YM theories contain Chern-Simons membranes and hadronic bags
+in the large $N$ limit. Since Chern-Simons $p'$-branes have an underlying
+infinite dimensional algebra containing $W_{1+\infty}$, as shown by Zaikov, we
+discuss the importance that $W$ geometry should have in the final formulation
+of $M$ theory.
+\\

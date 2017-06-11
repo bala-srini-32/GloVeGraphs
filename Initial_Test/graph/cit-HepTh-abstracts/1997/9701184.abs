@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9701184
+From: manfredi@galileo.pi.infn.it (Emanuele MANFREDINI)
+Date: Thu, 30 Jan 1997 18:17:17 +0100 (MET)   (42kb)
+
+Title: Finite Size Scaling and Running Coupling Constant in CP(N-1) models
+Authors: Emanuele Manfredini
+Comments: 17 pages in REVTex + 6 figures, to be published in International
+  Journal of Modern Physics A
+Report-no: IFUP-TH 59/96
+Journal-ref: Int.J.Mod.Phys. A13 (1998) 887-902
+\\
+  In this work I present a numerical study of the Finite Size Scaling (FSS) of
+a correlation length in the framework of the $CP ^{N-1}$ model by means of the
+1/N expansion. This study has been thought as propedeutical to the application
+of FSS to the measure on the lattice of a new coupling constant $f_{x}(1/R)$,
+defined in terms or rectangular Wilson Loops. I give also a perturbative
+expansion of $f_{x}(1/R)$ in powers of the corresponding coupling constant in
+the $\overline{MS}$ scheme together with some preliminary numerical results
+obtained from the Polyakov ratio and I point out the conceptual problems that
+limit this approach.
+\\

@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9906057
+From: Csaba Csaki <csaki@thwk5.lbl.gov>
+Date: Tue, 8 Jun 1999 01:10:07 GMT   (37kb)
+Date (revised v2): Tue, 15 Jun 1999 23:09:42 GMT   (38kb)
+
+Title: Beta Functions of Orbifold Theories and the Hierarchy Problem
+Authors: Csaba Csaki (Berkeley), Witold Skiba (San Diego), John Terning
+  (Berkeley)
+Comments: 21 pages, LaTeX, 6 figures. Minor clarifications, references added
+Report-no: LBNL-4342, UCB-PTH-99/27, UCSD-PTH-99/07
+Journal-ref: Phys.Rev. D61 (2000) 025019
+\\
+  We examine a class of gauge theories obtained by projecting out certain
+fields from an N=4 supersymmetric SU(N) gauge theory. These theories are
+non-supersymmetric and in the large N limit are known to be conformal. Recently
+it was proposed that the hierarchy problem could be solved by embedding the
+standard model in a theory of this kind with finite N. In order to check this
+claim one must find the conformal points of the theory. To do this we calculate
+the one-loop beta functions for the Yukawa and quartic scalar couplings. We
+find that with the beta functions set to zero the one-loop quadratic
+divergences are not canceled at sub-leading order in N; thus the hierarchy
+between the weak scale and the Planck scale is not stabilized unless N is of
+the order 10^28 or larger. We also find that at sub-leading orders in N
+renormalization induces new interactions, which were not present in the
+original Lagrangian.
+\\

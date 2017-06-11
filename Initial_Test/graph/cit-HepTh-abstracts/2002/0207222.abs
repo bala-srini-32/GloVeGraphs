@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0207222
+From: Federica Vian <federica.vian@pd.infn.it>
+Date: Wed, 24 Jul 2002 15:46:48 GMT   (22kb)
+Date (revised v2): Tue, 30 Jul 2002 16:19:30 GMT   (22kb)
+Date (revised v3): Mon, 9 Sep 2002 14:59:48 GMT   (25kb)
+Date (revised v4): Mon, 30 Sep 2002 13:07:19 GMT   (25kb)
+
+Title: Wilson line correlators in two-dimensional noncommutative Yang-Mills
+  theory
+Authors: A. Bassetto and F. Vian
+Comments: 21 pages, 1 figure, typeset in JHEP style; some formulas corrected in
+  Sect.3, one reference added, results unchanged
+Report-no: DFPD 02/TH 19
+Journal-ref: JHEP 0210 (2002) 004
+\\
+  We study the correlator of two parallel Wilson lines in two-dimensional
+noncommutative Yang-Mills theory, following two different approaches. We first
+consider a perturbative expansion in the large-N limit and resum all planar
+diagrams. The second approach is non-perturbative: we exploit the Morita
+equivalence, mapping the two open lines on the noncommutative torus (which
+eventually gets decompacted) in two closed Wilson loops winding around the dual
+commutative torus. Planarity allows us to single out a suitable region of the
+variables involved, where a saddle-point approximation of the general Morita
+expression for the correlator can be performed. In this region the correlator
+nicely compares with the perturbative result, exhibiting an exponential
+increase with respect to the momentum p.
+\\

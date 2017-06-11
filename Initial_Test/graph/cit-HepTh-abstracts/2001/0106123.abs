@@ -1,0 +1,18 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0106123
+From: Terry Gannon <tgannon@math.ualberta.ca>
+Date: Thu, 14 Jun 2001 19:40:17 GMT   (21kb)
+Date (revised v2): Tue, 12 Feb 2002 01:29:28 GMT   (22kb)
+
+Title: Algorithms for affine Kac-Moody algebras
+Authors: Terry Gannon
+Comments: 20 pages
+\\
+  Weyl groups are ubiquitous, and efficient algorithms for them -- especially
+for the exceptional algebras -- are clearly desirable. In this paper we provide
+several of these, addressing practical concerns arising naturally for instance
+in computational aspects of the study of affine algebras or Wess-Zumino-Witten
+conformal field theories. We also discuss the efficiency and numerical accuracy
+of these algorithms.
+\\

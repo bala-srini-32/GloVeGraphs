@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9802178
+From: feruglio@nxth04.cern.ch
+Date: Wed, 25 Feb 1998 17:31:06 GMT   (15kb)
+Date (revised v2): Wed, 20 May 1998 13:56:45 GMT   (15kb)
+
+Title: A smooth massless limit for supersymmetric QCD
+Author: Ferruccio Feruglio
+Comments: 14 pages, LaTeX, introduction modified, references added, conclusions
+  unchanged, final version to appear on Phys. Lett. B
+Report-no: CERN-TH/98-45, DFPD 98/TH/08
+Journal-ref: Phys.Lett. B450 (1999) 377-387
+\\
+  We analyse in detail the behaviour of supersymmetric QCD with a number of
+flavours M smaller than the number of colours N, for quark masses smaller than
+the dynamically generated scale. In this regime, we find it useful to move from
+meson superfields to Nambu-Goldstone-like variables. In particular we work out
+the mass spectrum and the set of decay constants that specify the interactions
+of the low-energy theory. We explicitly check that masses and decay constants
+have a consistent behaviour under decoupling and that they satisfy current
+algebra requirements. Finally we speculate about the massless limit. For
+vanishing quark masses, and only in this case, the relation between mesons and
+Nambu-Goldstone variables becomes singular. When analysed in terms of the
+Nambu-Goldstone superfields, the massless limit exhibits a spontaneous breaking
+of the flavour symmetry, with massless Goldstone modes embedded in an
+M^2-dimensional complex moduli space. The symmetry-breaking order parameter is
+formally infinite, but this has the only effect of turning off the interactions
+between the chiral superfields.
+\\

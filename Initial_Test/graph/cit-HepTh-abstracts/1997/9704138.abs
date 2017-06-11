@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9704138
+From: Nouredine Chair <chair@sissa.it>
+Date: Fri, 18 Apr 1997 19:18:32 +0200 (MET_DST)   (12kb)
+Date (revised): Thu, 29 May 1997 18:36:00 +0200 (MET_DST)
+
+Title: Grassmannian Cohomolgy Rings and Fusion Rings from Algebraic Equations
+Authors: Noureddine Chair
+Comments: 18 pages, LaTeX. Minor adjustment to references
+Report-no: SISSA-ISAS 53/97/FM
+Subj-class: High Energy Physics - Theory; Algebraic Geometry
+\\
+  The potential that generates the cohomology ring of the Grassmannian is given
+in terms of the elementary symmetric functions using the Waring formula that
+computes the power sum of roots of an algebraic equation in terms of its
+coefficients. As a consequence, the fusion potential for $su(N)_K$ is obtained.
+This potential is the explicit Chebyshev polynomial in several variables of the
+first kind. We also derive the fusion potential for $sp(N)_K$ from a reciprocal
+algebraic equation. This potential is identified with another Chebyshev
+polynomial in several variables. We display a connection between these fusion
+potentials and generalized Fibonacci and Lucas numbers.
+\\

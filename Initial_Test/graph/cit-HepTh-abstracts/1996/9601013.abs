@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9601013
+From: Stefan.Vandoren@fys.kuleuven.ac.be
+Date: Thu, 4 Jan 96 19:42:42 CET   (109kb)
+Date (revised): Fri, 5 Jan 96 18:16:17 CET
+
+Title: Covariant Quantisation in the Antifield Formalism
+Author: S. Vandoren
+Comments: Latex, 151 pages, PhD thesis, KUleuven, December 1995
+  12 files compressed into thes.tar.gz
+\\
+  In this thesis we give an overview of the antifield formalism and show how it
+must be used to quantise arbitrary gauge theories. The formalism is further
+developed and illustrated in several examples, including Yang-Mills theory,
+chiral $W_3$ and $W_{2,5/2}$ gravity, strings in curved backgrounds and
+topological field theories. All these models are characterised by their gauge
+algebra, which can be open, reducible, or even infinitly reducible. We show in
+detail how to perform the gauge fixing and how to compute the anomalies using
+Pauli-Villars regularisation and the heat kernel method. Finally, we discuss
+the geometrical structure of the antifield formalism.
+\\

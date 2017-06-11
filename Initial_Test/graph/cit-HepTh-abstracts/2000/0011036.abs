@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0011036
+From: Gerald V. Dunne <dunne@phys.uconn.edu>
+Date: Tue, 7 Nov 2000 18:52:47 GMT   (10kb)
+
+Title: QED Effective Actions in Inhomogeneous Backgrounds: Summing the
+  Derivative Expansion
+Authors: Gerald V. Dunne
+Comments: 8 pages, talk at QED2000, Trieste (October 2000)
+\\
+  The QED effective action encodes nonlinear interactions due to quantum vacuum
+polarization effects. While much is known for the special case of electrons in
+a constant electromagnetic field (the Euler-Heisenberg case), much less is
+known for inhomogeneous backgrounds. Such backgrounds are more relevant to
+experimental situations. One way to treat inhomogeneous backgrounds is the
+"derivative expansion", in which one formally expands around the soluble
+constant-field case. In this talk I use some recent exactly soluble
+inhomogeneous backgrounds to perform precision tests on the derivative
+expansion, to learn in what sense it converges or diverges. A closely related
+question is to find the exponential correction to Schwinger's pair-production
+formula for a constant electric field, when the electric background is
+inhomogeneous.
+\\

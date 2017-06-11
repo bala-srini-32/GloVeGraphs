@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9610191
+From: Christian Schubert <schubert@ifh.de>
+Date: Thu, 24 Oct 1996 23:56:00 +0200 (MET)   (45kb)
+Date (revised): Fri, 25 Oct 1996 03:48:43 +0200 (MET)
+Date (revised): Sun, 20 Apr 1997 21:13:55 +0200 (MET)
+Date (revised): Tue, 7 Oct 1997 21:39:34 GMT
+
+Title: Constant External Fields in Gauge Theory and the Spin 0, 1/2, 1 Path
+  Integrals
+Authors: Martin Reuter, Michael G. Schmidt, and Christian Schubert
+Comments: 54 pages, no figures, Latex, uses dina4.sty, final version (minor
+  corrections)
+Report-no: IASSNS-HEP-96/90, DESY 96-225, HD-THEP-96/17, HUB-EP-96/13
+Journal-ref: Annals Phys. 259 (1997) 313-365
+\\
+  We investigate the usefulness of the "string-inspired technique" for gauge
+theory calculations in a constant external field background. Our approach is
+based on Strassler's worldline path integral approach to the Bern-Kosower
+formalism, and on the construction of worldline (super--) Green's functions
+incorporating external fields as well as internal propagators. The worldline
+path integral representation of the gluon loop is reexamined in detail. We
+calculate the two-loop effective actions induced for a constant external field
+by a scalar and spinor loop, and the corresponding one-loop effective action in
+the gluon loop case.
+\\

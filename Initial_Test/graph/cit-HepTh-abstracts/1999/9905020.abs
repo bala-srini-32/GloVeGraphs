@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9905020
+From: Kenneth Intriligator <keni@bohr.ucsd.edu>
+Date: Tue, 4 May 1999 01:19:31 GMT   (22kb)
+
+Title: Bonus Symmetry and the Operator Product Expansion of N=4
+  Super-Yang-Mills
+Authors: Kenneth Intriligator and Witold Skiba
+Comments: 22 pages, 2 figures, harvmac
+Report-no: UCSD/PTH-99/06, IASSNS-HEP-99/45
+Journal-ref: Nucl.Phys. B559 (1999) 165-183
+\\
+  The superconformal group of N=4 super-Yang-Mills has two types of operator
+representations: short and long. We conjecture that operator product expansions
+for which at least two of the three operators are short exactly respect a bonus
+U(1)_Y R-symmetry, which acts as an automorphism of the superconformal group.
+This conjecture is for arbitrary gauge group G and gauge coupling g_{YM}. A
+consequence is that n\leq 4-point functions involving only short operators
+exactly respect the U(1)_Y symmetry, as has been previously conjectured based
+on AdS duality. This, in turn, would imply that all n\leq 3 -point functions
+involving only short operators are not renormalized, as has also been
+previously conjectured and subjected to perturbative checks. It is argued that
+instantons are compatible with our conjecture. Some perturbative checks of the
+conjecture are presented and SL(2,Z) modular transformation properties are
+discussed.
+\\

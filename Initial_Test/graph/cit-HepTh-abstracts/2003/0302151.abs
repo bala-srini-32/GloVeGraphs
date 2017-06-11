@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0302151
+From: Yutaka Matsuo <matsuo@hep-th.phys.s.u-tokyo.ac.jp>
+Date: Wed, 19 Feb 2003 20:16:08 GMT   (30kb)
+Date (revised v2): Thu, 20 Feb 2003 00:43:42 GMT   (31kb)
+Date (revised v3): Fri, 21 Feb 2003 03:22:29 GMT   (30kb)
+Date (revised v4): Mon, 24 Feb 2003 06:16:27 GMT   (30kb)
+
+Title: Analytic Study of Nonperturbative Solutions in Open String Field Theory
+Authors: I. Bars, I. Kishimoto and Y. Matsuo
+Comments: 29 pages
+Report-no: UT-03-04, USCHEP/0302ib1
+\\
+  We propose an analytic framework to study the nonperturbative solutions of
+Witten's open string field theory. The method is based on the Moyal star
+formulation where the kinetic term can be split into two parts. The first one
+describes the spectrum of two identical half strings which are independent from
+each other. The second one, which we call midpoint correction, shifts the half
+string spectrum to that of the standard open string. We show that the nonlinear
+equation of motion of string field theory is exactly solvable at zeroth order
+in the midpoint correction. An infinite number of solutions are classified in
+terms of projection operators. Among them, there exists only one stable
+solution which is identical to the standard butterfly state. We include the
+effect of the midpoint correction around each exact zeroth order solution as a
+perturbation expansion which can be formally summed to the complete exact
+solution.
+\\

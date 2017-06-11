@@ -1,0 +1,34 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9902044
+From: Matthias Doerrzapf <M.Doerrzapf@damtp.cam.ac.uk>
+Date: Fri, 5 Feb 1999 23:06:58 GMT   (35kb)
+
+Title: Singular dimensions of the N=2 superconformal algebras II: the twisted
+  N=2 algebra
+Authors: Matthias Doerrzapf and Beatriz Gato-Rivera
+Comments: Latex, 29 pages
+Report-no: DAMTP-99-19, IMAFF-99-FM/08, NIKHEF-99-06
+Subj-class: High Energy Physics - Theory; Mathematical Physics; Quantum
+  Algebra; Operator Algebras; Representation Theory
+Journal-ref: Commun.Math.Phys. 220 (2001) 263-292
+\\
+  We introduce a suitable adapted ordering for the twisted N=2 superconformal
+algebra (i.e. with mixed boundary conditions for the fermionic fields). We show
+that the ordering kernels for complete Verma modules have two elements and the
+ordering kernels for G-closed Verma modules just one. Therefore, spaces of
+singular vectors may be two-dimensional for complete Verma modules whilst for
+G-closed Verma modules they can only be one-dimensional. We give all singular
+vectors for the levels 1/2, 1, and 3/2 for both complete Verma modules and
+G-closed Verma modules. We also give explicit examples of degenerate cases with
+two-dimensional singular vector spaces in complete Verma modules. General
+expressions are conjectured for the relevant terms of all (primitive) singular
+vectors, i.e. for the coefficients with respect to the ordering kernel. These
+expressions allow to identify all degenerate cases as well as all G-closed
+singular vectors. They also lead to the discovery of subsingular vectors for
+the twisted N=2 superconformal algebra. Explicit examples of these subsingular
+vectors are given for the levels 1/2, 1, and 3/2. Finally, the multiplication
+rules for singular vector operators are derived using the ordering kernel
+coefficients. This sets the basis for the analysis of the twisted N=2 embedding
+diagrams.
+\\

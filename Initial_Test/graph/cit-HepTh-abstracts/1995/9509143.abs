@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9509143
+From: Tadakatsu Sakai <tsakai@th.phys.titech.ac.jp>
+Date: Tue, 26 Sep 1995 16:22:05 +0900   (20kb)
+Date (revised): Wed, 04 Oct 1995 14:22:22 +0900
+
+Title: Vacuum Energies and Effective Potential in Light-Cone Field Theories
+Author: Shin-ichi Kojima, Norisuke Sakai, Tadakatsu Sakai
+Comments: LaTeX file, 19 page, 1 eps figure, some references added
+Report-no: TIT/HEP 299
+Journal-ref: Prog.Theor.Phys. 95 (1996) 621-636
+\\
+  Vacuum energies are computed in light-cone field theories to obtain effective
+potentials which determine vacuum condensate. Quantization surfaces
+interpolating between the light-like surface and the usual spatial one are
+useful to define the vacuum energies unambiguously. The Gross-Neveu, SU(N)
+Thirring, and O(N) vector models are worked out in the large $N$ limit. The
+vacuum energies are found to be independent of the interpolating angle to
+define the quantization surface. Renormalization of effective potential is
+explicitly performed. As an example of the case with nonconstant order
+parameter, two-dimensional QCD is also studied. Vacuum energies are explicitly
+obtained in the large $N$ limit which give the gap equation as the stationary
+point.
+\\

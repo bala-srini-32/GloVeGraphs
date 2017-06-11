@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0204069
+From: "Hooft 't G." <G.tHooft@phys.uu.nl>
+Date: Mon, 8 Apr 2002 11:42:01 GMT   (30kb)
+
+Title: Large N
+Author: G. 't Hooft
+Comments: 16 pages, 12 pages, 15 Postscript figures, uses ws-p8-50x6-00.cls.
+  Keynote Address, presented at the workshop on "The Phenomenology of Large N_c
+  QCD", Arizona State University, January, 2002
+Report-no: SPIN-2002/08; ITF-2002/14
+\\
+  In the first part of this lecture, the 1/N expansion technique is illustrated
+for the case of the large-N sigma model. In large-N gauge theories, the 1/N
+expansion is tantamount to sorting the Feynman diagrams according to their
+degree of planarity, that is, the minimal genus of the plane onto which the
+diagram can be mapped without any crossings. This holds both for the usual
+perturbative expansion with respect to powers of {tilde g}^2=g^2 N, as well as
+for the expansion of lattice theories in positive powers of 1/{tilde g}^2. If
+there were no renormalization effects, the tilde g expansion would have a
+finite radius of convergence. The zero-dimensional theory can be used for
+counting planar diagrams. It can be solved explicitly, so that the generating
+function for the number of diagrams with given 3-vertices and 4-vertices, can
+be derived exactly. This can be done for various kinds of Feynman diagrams. We
+end with some remarks about planar renormalization.
+\\

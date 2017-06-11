@@ -1,0 +1,37 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0205003
+From: Ira Wasserman <ira@astro.cornell.edu>
+Date: Wed, 1 May 2002 19:42:13 GMT   (14kb)
+Date (revised v2): Thu, 2 May 2002 19:51:18 GMT   (14kb)
+Date (revised v3): Mon, 6 May 2002 15:12:12 GMT   (15kb)
+Date (revised v4): Tue, 7 May 2002 11:49:36 GMT   (15kb)
+Date (revised v5): Thu, 27 Jun 2002 21:29:35 GMT   (15kb)
+
+Title: Cosmological Constraints on Tachyon Matter
+Authors: Gary Shiu and Ira Wasserman
+Comments: 14 pages, additional references, typos corrected
+Report-no: UPR-992-T
+Journal-ref: Phys.Lett. B541 (2002) 6-15
+\\
+  We examine whether tachyon matter is a viable candidate for the cosmological
+dark matter. First, we demonstrate that in order for the density of tachyon
+matter to have an acceptable value today, the magnitude of the tachyon
+potential energy at the onset of rolling must be finely tuned. For a tachyon
+potential $V(T)\sim M_{Pl}^4\exp(-T/\tau)$, the tachyon must start rolling at
+$T\simeq 60\tau$ in order for the density of tachyon matter today to satisfy
+$\Omega_{T,0}\sim 1$, provided that standard big bang cosmology begins at the
+same time as the tachyon begins to roll. In this case, the value of
+$\Omega_{T,0}$ is exponentially sensitive to $T/\tau$ at the onset of rolling,
+so smaller $T/\tau$ is unacceptable, and larger $T/\tau$ implies a tachyon
+density that is too small to have interesting cosmological effects. If instead
+the universe undergoes a second inflationary epoch after the tachyon has
+already rolled considerably, then the tachyon can begin with $T$ near zero, but
+the increase of the scale factor during inflation must still be finely tuned in
+order for $\Omega_{T,0} \sim 1$. Second, we show that tachyon matter, unlike
+quintessence, can cluster gravitationally on very small scales. If the starting
+value of $T/\tau$ is tuned finely enough that $\Omega_{T,0}\sim 1$, then
+tachyon matter clusters more or less identically to pressureless dust. Thus, if
+the fine-tuning problem can be explained, tachyon matter is a viable candidate
+for cosmological dark matter.
+\\

@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0106267
+From: Arjan Keurentjes <arjan@lpthe.jussieu.fr>
+Date: Thu, 28 Jun 2001 17:05:54 GMT   (32kb)
+Date (revised v2): Fri, 17 Aug 2001 15:57:00 GMT   (33kb)
+
+Title: Classifying orientifolds by flat n-gerbes
+Authors: Arjan Keurentjes
+Comments: LaTeX, no figures, 35 pages; v2, references added, no other changes,
+  conforms with published version
+Report-no: PAR-LPTHE 01-31, LPT-ENS 01/32
+Journal-ref: JHEP 0107 (2001) 010
+\\
+  The discrete tensorial charges carried by orientifold planes define n-gerbes
+in space-time. The simplest way to ensure a consistent string compactification
+is to require these gerbes to be flat. This results in expressions for the
+local gerbe-holonomies around each orientifold plane, describing its charges.
+Inverting the procedure and considering all flat gerbes leads to a
+classification of orientifold configurations. Requiring that the tadpole is
+cancelled by adding D-branes, we classify all supersymmetric orientifolds on
+T^k/Z_2 with 2^k O(9-k) planes at the fixed points, for k less or equal to 6.
+For k=6 these theories organize in orbits of the SL(2,Z) S-duality symmetry of
+N=4 supersymmetric gauge theories.
+\\

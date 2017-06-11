@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0002222
+From: Kentaro Hori <hori@infeld.harvard.edu>
+Date: Fri, 25 Feb 2000 23:10:34 GMT   (76kb)
+Date (revised v2): Sun, 27 Feb 2000 23:53:36 GMT   (76kb)
+Date (revised v3): Fri, 31 Mar 2000 00:49:48 GMT   (77kb)
+
+Title: Mirror Symmetry
+Authors: Kentaro Hori and Cumrun Vafa
+Comments: 91 pages
+Report-no: HUTP-00/A005
+\\
+  We prove mirror symmetry for supersymmetric sigma models on Kahler manifolds
+in 1+1 dimensions. The proof involves establishing the equivalence of the
+gauged linear sigma model, embedded in a theory with an enlarged gauge
+symmetry, with a Landau-Ginzburg theory of Toda type. Standard R -> 1/R duality
+and dynamical generation of superpotential by vortices are crucial in the
+derivation. This provides not only a proof of mirror symmetry in the case of
+(local and global) Calabi-Yau manifolds, but also for sigma models on manifolds
+with positive first Chern class, including deformations of the action by
+holomorphic isometries.
+\\

@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0001035
+From: Nathan Jacob Berkovits <nberkovi@ift.unesp.br>
+Date: Fri, 7 Jan 2000 22:23:49 GMT   (15kb)
+Date (revised v2): Mon, 10 Jan 2000 14:15:33 GMT   (14kb)
+
+Title: Super-Poincare Covariant Quantization of the Superstring
+Authors: Nathan Berkovits (IFT/UNESP, Sao Paulo)
+Comments: Improved proof that amplitudes are supersymmetric, simplified AdS_5
+  action, and corrected typos
+Report-no: IFT-P.005/2000
+Journal-ref: JHEP 0004 (2000) 018
+\\
+  Using pure spinors, the superstring is covariantly quantized. For the first
+time, massless vertex operators are constructed and scattering amplitudes are
+computed in a manifestly ten-dimensional super-Poincar\'e covariant manner.
+Quantizable non-linear sigma model actions are constructed for the superstring
+in curved backgrounds, including the $AdS_5\times S^5$ background with
+Ramond-Ramond flux.
+\\

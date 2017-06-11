@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9912005
+From: tom weidig <tom.weidig@durham.ac.uk>
+Date: Wed, 1 Dec 1999 15:17:53 GMT   (38kb)
+
+Title: Quantum Mass Correction of Solitons in (1+1)D via Numerical Methods
+Authors: Tom Weidig (Centre for Particle Theory, University of Durham, UK)
+Comments: 19 pages, LaTeX, chapter of my PhD thesis
+\\
+  We show how to calculate the quantum mass correction to (1+1)D solitonic
+field theories using numerical methods. This is essential if we want to find
+the corrections to non-integrable models. We start with a review of the
+standard derivation of the first order quantum correction. Then, we re-derive a
+trace formula which allows us to compute the mass correction mode by mode.
+Specifically, we are interested in the extent to which the lowest modes from
+both, the soliton and the vacuum, sectors give the leading contribution. We
+apply the technique to both the Sine-Gordon and the $\phi^4$-kink model. Then,
+we compute all the modes numerically and hence the first order quantum
+contribution to the mass of the Sine-Gordon and $\phi^4$ soliton.
+\\

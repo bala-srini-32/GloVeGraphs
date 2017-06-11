@@ -1,0 +1,38 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9710048
+From: Ivan Avramidi <avramidi@rz.uni-greifswald.de>
+Date: Mon, 6 Oct 1997 11:52:19 GMT   (29kb)
+Date (revised v2): Fri, 10 Apr 1998 23:03:01 GMT   (38kb)
+
+Title: Gauge theories on manifolds with boundary
+Author: Ivan G. Avramidi (University of Iowa) and Giampiero Esposito (INFN and
+  University of Naples)
+Comments: 50 pages, LaTeX, 127 KB, no figures, Sections 3 and 7 completely
+  revised
+Report-no: University of Greifswald (October, 1997), DSF 97/45
+Subj-class: High Energy Physics - Theory; Differential Geometry
+Journal-ref: Commun.Math.Phys. 200 (1999) 495-543
+\\
+  The boundary-value problem for Laplace-type operators acting on smooth
+sections of a vector bundle over a compact Riemannian manifold with generalized
+local boundary conditions including both normal and tangential derivatives is
+studied. The condition of strong ellipticity of this boundary-value problem is
+formulated. The resolvent kernel and the heat kernel in the leading
+approximation are explicitly constructed. As a result, the previous work in the
+literature on heat-kernel asymptotics is shown to be a particular case of a
+more general structure. For a bosonic gauge theory on a compact Riemannian
+manifold with smooth boundary, the problem is studied of obtaining a
+gauge-field operator of Laplace type, jointly with local and gauge-invariant
+boundary conditions, which should lead to a strongly elliptic boundary-value
+problem. The scheme is extended to fermionic gauge theories by means of local
+and gauge-invariant projectors. After deriving a general condition for the
+validity of strong ellipticity for gauge theories, it is proved that for
+Euclidean Yang--Mills theory and Rarita--Schwinger fields all the above
+conditions can be satisfied. For Euclidean quantum gravity, however, this
+property no longer holds, i.e. the corresponding boundary-value problem is not
+strongly elliptic. Some non-standard local formulae for the leading asymptotics
+of the heat-kernel diagonal are also obtained. It is shown that, due to the
+absence of strong ellipticity, the heat-kernel diagonal is non-integrable near
+the boundary.
+\\

@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9904103
+From: "Sergei M. Natanzon" <natanzon@natanzon.mccme.ru>
+Date: Wed, 14 Apr 1999 20:28:15 GMT   (7kb)
+Date (revised v2): Mon, 14 Jun 1999 10:21:02 GMT   (7kb)
+Date (revised v3): Wed, 10 Nov 1999 20:40:57 GMT   (7kb)
+
+Title: Formulas for A_n and B_n-solutions of WDVV equations
+Authors: S.M.Natanzon
+Comments: 12 pages, AmsTex, simplification of formulas
+Subj-class: High Energy Physics - Theory; Mathematical Physics; Differential
+  Geometry; Algebraic Geometry
+Journal-ref: J.Geom.Phys. 39 (2001) 323-336
+\\
+  The simplest non-trivial solutions of WDVV equations are A_n and
+B_n-potentials, which describe metrics of K.Saito on spaces of versal
+deformation of A_n and B_n-singularities. These are some polynomials, which
+were known for $n\leqslant$ 4. We find some recurrence relations, which give a
+possibility to find all A_n and B_n-potentials. In passing we give recurrence
+formulas for coefficients of dispersionless KP hierarchy.
+\\

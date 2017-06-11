@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0003159
+From: Jac Verbaarschot <verbaarschot@tonic.physics.sunysb.edu>
+Date: Fri, 17 Mar 2000 23:41:42 GMT   (38kb)
+Date (revised v2): Mon, 17 Apr 2000 18:24:32 GMT   (38kb)
+
+Title: Chiral Random Matrix Model for Critical Statistics
+Authors: A.M. Garcia-Garcia and J.J.M. Verbaarschot (Stony Brook)
+Comments: 21 pages, 3 figures, Latex; added two references and minor
+  corrections
+Report-no: SUNY-NTG/00-03
+Journal-ref: Nucl.Phys. B586 (2000) 668-685
+\\
+  We propose a random matrix model that interpolates between the chiral random
+matrix ensembles and the chiral Poisson ensemble. By mapping this model on a
+non-interacting Fermi-gas we show that for energy differences less than a
+critical energy $E_c$ the spectral correlations are given by chiral Random
+Matrix Theory whereas for energy differences larger than $E_c$ the number
+variance shows a linear dependence on the energy difference with a slope that
+depends on the parameters of the model. If the parameters are scaled such that
+the slope remains fixed in the thermodynamic limit, this model provides a
+description of QCD Dirac spectra in the universality class of critical
+statistics. In this way a good description of QCD Dirac spectra for gauge field
+configurations given by a liquid of instantons is obtained.
+\\

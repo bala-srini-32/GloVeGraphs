@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9809206
+From: Matt Visser <Matt.Visser@MCS.VUW.AC.NZ>
+Date: Wed, 30 Sep 1998 05:02:33 GMT   (8kb)
+
+Title: Zeta functions, renormalization group equations, and the effective
+  action
+Authors: David Hochberg (LAEFF, Madrid), Carmen Molina-Paris (Los Alamos), Juan
+  Perez-Mercader (LAEFF, Madrid), Matt Visser (Washington University)
+Comments: 4 pages, ReV-TeX 3.1
+Journal-ref: Phys.Rev.Lett. 81 (1998) 4802-4805
+\\
+  We demonstrate how to extract all the one-loop renormalization group
+equations for arbitrary quantum field theories from knowledge of an appropriate
+Seeley--DeWitt coefficient. By formally solving the renormalization group
+equations to one loop, we renormalization group improve the classical action,
+and use this to derive the leading-logarithms in the one-loop effective action
+for arbitrary quantum field theories.
+\\

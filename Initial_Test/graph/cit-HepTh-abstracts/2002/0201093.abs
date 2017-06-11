@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0201093
+From: David Berenstein <dberens@ias.edu>
+Date: Mon, 14 Jan 2002 22:11:24 GMT   (20kb)
+Date (revised v2): Tue, 29 Jan 2002 15:00:59 GMT   (21kb)
+
+Title: Reverse geometric engineering of singularities
+Authors: David Berenstein
+Comments: 17 pages, Latex. v2: updates references
+Journal-ref: JHEP 0204 (2002) 052
+\\
+  One can geometrically engineer supersymmetric field theories theories by
+placing D-branes at or near singularities. The opposite process is described,
+where one can reconstruct the singularities from quiver theories. The
+description is in terms of a noncommutative quiver algebra which is constructed
+from the quiver diagram and the superpotential. The center of this
+noncommutative algebra is a commutative algebra, which is the ring of
+holomorphic functions on a variety V. If certain algebraic conditions are met,
+then the reverse geometric engineering produces V as the geometry that D-branes
+probe. It is also argued that the identification of V is invariant under
+Seiberg dualities.
+\\

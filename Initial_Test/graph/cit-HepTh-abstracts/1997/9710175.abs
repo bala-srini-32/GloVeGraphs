@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9710175
+From: Robert Perry <perry@pacific.mps.ohio-state.edu>
+Date: Thu, 23 Oct 1997 04:38:52 GMT   (85kb)
+
+Title: Light-Front QCD: A Constituent Picture of Hadrons
+Author: Robert J. Perry (The Ohio State University)
+Comments: 44 pages, LATEX (including 4 ps-figures), uses epsfig.sty. Based on
+  lectures given at the NATO Advanced Study Institute: Confinement, Duality,
+  and Non-Perturbative Aspects of QCD, Newton Institute, Cambridge, 23 June - 4
+  July, 1997
+\\
+  Light-front coordinates offer a scenario in which a constituent approximation
+of hadron structure can emerge from QCD. This requires cutoffs that violate
+Lorentz covariance and gauge invariance, and a new renormalization group
+formalism based on a similarity transformation is used with coupling coherence
+to fix counterterms that restore these symmetries. The counterterms contain
+functions of longitudinal momentum fractions which severely complicate
+renormalization, but they also offer possible resolutions of apparent
+contradictions between the constituent picture and QCD. The similarity
+transformation and coupling coherence are applied to QED; and it is shown that
+the resultant Hamiltonian leads to the correct bound state results. The same
+techniques are applied to QCD and it is shown that a simple confinement
+mechanism and a reasonable description of heavy quark bound states emerge
+naturally.
+\\

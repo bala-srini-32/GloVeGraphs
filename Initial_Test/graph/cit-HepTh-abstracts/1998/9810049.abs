@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9810049
+From: Daniel Phillips <phillips@dirac.phys.washington.edu>
+Date: Wed, 7 Oct 1998 17:55:09 GMT   (20kb)
+Date (revised v2): Wed, 24 Feb 1999 17:47:50 GMT   (21kb)
+
+Title: Scheming in Dimensional Regularization
+Authors: D. R. Phillips, S. R. Beane (University of Maryland), M. C. Birse
+  (University of Manchester, U.K.)
+Comments: 12 pages, additional text in opening section, version to be published
+  in J. Phys. A
+Report-no: U. Md. PP#99-030, DOE/ER/40762-162
+Journal-ref: J.Phys. A32 (1999) 3397-3407
+\\
+  We consider the most general loop integral that appears in non-relativistic
+effective field theories with no light particles. The divergences of this
+integral are in correspondence with simple poles in the space of complex
+space-time dimensions. Integrals related to the original integral by
+subtraction of one or more poles in dimensions other than D=4 lead to
+nonminimal subtraction schemes. Subtraction of all poles in correspondence with
+ultraviolet divergences of the loop integral leads naturally to a
+regularization scheme which is precisely equivalent to cutoff regularization.
+We therefore recover cutoff regularization from dimensional regularization with
+a nonminimal subtraction scheme. We then discuss the power-counting for
+non-relativistic effective field theories which arises in these alternative
+schemes.
+\\

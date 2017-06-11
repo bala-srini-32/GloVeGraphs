@@ -1,0 +1,32 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0001180
+From: Arne Lykke Larsen <all@fysik.ou.dk>
+Date: Thu, 27 Jan 2000 11:19:51 GMT   (13kb)
+Date (revised v2): Mon, 13 Mar 2000 08:52:45 GMT   (13kb)
+
+Title: Quantum Coherent String States in AdS_3 and SL(2,R) WZWN Model
+Authors: A.L. Larsen and N. S\'anchez
+Comments: Misprints corrected. Final version to appear in Phys. Rev. D
+Journal-ref: Phys.Rev. D62 (2000) 046003
+\\
+  In this paper we make the connection between semi-classical string
+quantization and exact conformal field theory quantization of strings in 2+1
+Anti de Sitter spacetime. More precisely, considering the WZWN model
+corresponding to SL(2,R) and its covering group, we construct quantum {\it
+coherent} string states, which generalize the ordinary coherent states of
+quantum mechanics, and show that in the classical limit they correspond to
+oscillating circular strings. After quantization, the spectrum is found to
+consist of two parts: A continuous spectrum of low mass states (partly
+tachyonic) fulfilling the standard spin-level condition necessary for unitarity
+|j|< k/2, and a discrete spectrum of high mass states with asymptotic behaviour
+m^2\alpha'\propto N^2 (N positive integer). The quantization condition for the
+high mass states arises from the condition of finite positive norm of the
+coherent string states, and the result agrees with our previous results
+obtained using semi-classical quantization. In the k\to\infty limit, all the
+usual properties of coherent or {\it quasi-classical} states are recovered. It
+should be stressed that we consider the circular strings only for simplicity
+and clarity, and that our construction can easily be used for other string
+configurations too. We also compare our results with those obtained in the
+recent preprint hep-th/0001053 by Maldacena and Ooguri.
+\\

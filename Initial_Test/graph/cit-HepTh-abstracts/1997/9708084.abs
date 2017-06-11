@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9708084
+From: Oliver DeWolfe <odewolfe@ctp.mit.edu>
+Date: Fri, 15 Aug 1997 15:30:00 -0400 (EDT)   (76kb)
+
+Title: Minimal Area Nonorientable String Diagrams
+Authors: Oliver DeWolfe
+Comments: 15 pages, LaTeX, 9 figures, BoxedEPS
+Report-no: CTP-MIT-2667
+\\
+  We use minimal area metrics to generate all nonorientable string diagrams.
+The surfaces in unoriented string theory have nontrivial open curves and
+nontrivial closed curves whose neighborhoods are either annuli or Mobius
+strips. We define a minimal area problem by imposing length conditions on open
+curves and on annular closed curves only. We verify that the minimal area
+conditions are respected by the sewing operations. The natural objects that
+satisfy recursion relations involving the propagator, which performs both
+orientable and nonorientable sewing, are classes of moduli spaces grouped by
+Euler characteristic.
+\\

@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9704012
+From: Neil G Turok <N.G.Turok@damtp.cam.ac.uk>
+Date: Wed, 2 Apr 1997 16:50:37 +0100   (307kb)
+Date (revised): Mon, 21 Apr 1997 15:28:29 +0100
+
+Title: Normal Modes of the B=4 Skyrme Soliton
+Author: Chris Barnes, Kim Baskerville and Neil Turok
+Comments: 4 pages, RevTex file and two figures, the former requiring
+  spectrum.eps, the latter requiring 17 eps files sh.sol*.eps which are
+  included. Replaced version corrects one typo in the Table, replacing the
+  representation F_1^- with F_2^- for the omega=.513 mode
+Report-no: DAMTP preprint 97-23, SWAT preprint 97-152
+Journal-ref: Phys.Rev.Lett. 79 (1997) 367-370
+\\
+  The Skyrme model of nuclear physics requires quantisation if it is to match
+observed nuclear properties. A simple technique is used to find the normal mode
+spectrum of the baryon number B=4 Skyrme soliton, representing the $\alpha$
+particle. We find sixteen vibrational modes and classify them under the cubic
+symmetry group $O_h$ of the static solution. The spectrum possesses a
+remarkable structure, with the lowest energy modes lying in those
+representations expected from an approximate correspondence between Skyrmions
+and BPS monopoles. The next mode up is the `breather', and above that are
+higher multipole breathing modes.
+\\

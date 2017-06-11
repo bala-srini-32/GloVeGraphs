@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0209023
+From: D. Sanchez-Ruiz <domingo@toboso.fis.ucm.es>
+Date: Tue, 3 Sep 2002 19:51:18 GMT   (147kb)
+Date (revised v2): Tue, 29 Oct 2002 19:15:33 GMT   (147kb)
+
+Title: BRS symmetry restoration of chiral Abelian Higgs-Kibble theory in
+  dimensional renormalization with a non-anticommuting $\gamma_5$
+Authors: D. Sanchez-Ruiz (Universidad Complutense de Madrid)
+Comments: 32 pages, 11 figures, one table, plane tex in several files, uses
+  epsf.tex. Mathematica programs which generate the tex files with results are
+  included. V.2: references added and minor typos corrected
+\\
+  The one-loop renormalization of the abelian Higgs-Kibble model in a general
+'t Hooft gauge and with chiral fermions is fully worked out within dimensional
+renormalization scheme with a non-anticommuting $\gamma_5$. The anomalous terms
+introduced in the Slavnov-Taylor identities by the minimal subtraction
+algorithm are calculated and the asymmetric counterterms needed to restore the
+BRS symmetry, if the anomaly cancellation conditions are met, are computed. The
+computations draw heavily from regularized action principles and Algebraic
+Renormalization theory.
+\\

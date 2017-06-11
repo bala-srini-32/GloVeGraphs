@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9703096
+From: qpark@nms.kyunghee.ac.kr (Park Q-Han)
+Date: Thu, 13 Mar 97 17:16:21 KST   (10kb)
+
+Title: Path Integral Bosonization of Massive GNO Fermions
+Authors: Q-Han Park and H.J. Shin
+Comments: 11 pages
+Report-no: SNUTP 97-016
+Journal-ref: Nucl.Phys. B506 (1997) 537-547
+\\
+  We show the quantum equivalence between certain symmetric space sine-Gordon
+models and the massive free fermions. In the massless limit, these fermions
+reduce to the free fermions introduced by Goddard, Nahm and Olive (GNO) in
+association with symmetric spaces $K/G$. A path integral formulation is given
+in terms of the Wess-Zumino-Witten action where the field variable $g$ takes
+value in the orthogonal, unitary, and symplectic representations of the group
+$G$ in the basis of the symmetric space. We show that, for example, such a path
+integral bosonization is possible when the symmetric spaces $K/G$ are $SU(N)
+\times SU(N)/SU(N); N \le 3, ~ Sp(2)/U(2)$ or $SO(8)/U(4)$. We also address
+the relation between massive GNO fermions and the nonabelian solitons, and
+explain the restriction imposed on the fermion mass matrix due to the
+integrability of the bosonic model.
+\\

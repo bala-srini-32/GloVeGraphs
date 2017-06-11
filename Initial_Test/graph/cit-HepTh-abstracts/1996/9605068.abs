@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9605068
+From: Hugo Fort <hugo@fisica.edu.uy>
+Date: Thu, 9 May 1996 12:59:13 -0300 (SAT)   (12kb)
+
+Title: The Path Integral for the Loop Representation of Lattice Gauge Theories
+Authors: J. M. Aroca (Universitat Polit\`ecnica de Catalunya ) , H. Fort and R.
+  Gambini (Facultad de Ciencias, Montevideo, Uruguay)
+Comments: 8 pages, REVTEX, 1 Encapsulated Postscript figure using psfig
+Journal-ref: Phys.Rev. D54 (1996) 7751-7756
+\\
+  We show how the Hamiltonian lattice loop representation can be cast
+straightforwardly in the path integral formalism. The procedure is general for
+any gauge theory. Here we present in detail the simplest case: pure compact
+QED. We also analyze the non-Abelian Yang-Mills theory. The lattice loop path
+integral approach allows to knit together the power of statistical algorithms
+with the transparency of the gauge invariant loop description. The results
+produced by numerical simulations with the loop classical action for different
+lattice models are discused.
+\\

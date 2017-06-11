@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0205286
+From: Christoph Sieg <csieg@physik.hu-berlin.de>
+Date: Tue, 28 May 2002 16:44:33 GMT   (48kb)
+
+Title: Some remarks on Feynman rules for non-commutative gauge theories based
+  on groups $G\neq U(N)$
+Authors: Harald Dorn and Christoph Sieg (Humboldt University of Berlin)
+Comments: 20 pages, LaTeX, 5 figures
+Report-no: HU-Berlin-EP-02/21
+Journal-ref: JHEP 0207 (2002) 018
+\\
+  We study for subgroups $G\subseteq U(N)$ partial summations of the
+$\theta$-expanded perturbation theory. On diagrammatic level a summation
+procedure is established, which in the U(N) case delivers the full star-product
+induced rules. Thereby we uncover a cancellation mechanism between certain
+diagrams, which is crucial in the U(N) case, but set out of work for $G\subset
+U(N)$. In addition, an explicit proof is given that for $G\subset U(N), G\neq
+U(M), M<N$ there is no partial summation of the $\theta $-expanded rules
+resulting in new Feynman rules using the U(N) star-product vertices and besides
+suitable modified propagators at most a $finite$ number of additional building
+blocks. Finally, we show that certain SO(N) Feynman rules conjectured in the
+literature cannot be derived from the enveloping algebra approach.
+\\

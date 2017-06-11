@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0104120
+From: Christian Korff <korff@insti.physics.sunysb.edu>
+Date: Thu, 12 Apr 2001 18:01:11 GMT   (20kb)
+Date (revised v2): Mon, 27 Aug 2001 16:15:46 GMT   (20kb)
+
+Title: Loop symmetry of integrable vertex models at roots of unity
+Authors: Christian Korff and Barry M. McCoy
+Comments: tcilatex, 19 pages (minor typos corrected, one reference changed)
+Subj-class: High Energy Physics - Theory; Statistical Mechanics; Mathematical
+  Physics
+Journal-ref: Nucl.Phys. B618 (2001) 551-569
+\\
+  It has been recently discovered in the context of the six vertex or XXZ model
+in the fundamental representation that new symmetries arise when the anisotropy
+parameter $(q+q^{-1})/2$ is evaluated at roots of unity $q^{N}=1$. These new
+symmetries have been linked to an $U(A^{(1)}_1)$ invariance of the transfer
+matrix and the corresponding spin-chain Hamiltonian.In this paper these results
+are generalized for odd primitive roots of unity to all vertex models
+associated with trigonometric solutions of the Yang-Baxter equation by invoking
+representation independent methods which only take the algebraic structure of
+the underlying quantum groups $U_q(\hat g)$ into account. Here $\hat g$ is an
+arbitrary Kac-Moody algebra. Employing the notion of the boost operator it is
+then found that the Hamiltonian and the transfer matrix of the integrable model
+are invariant under the action of $U(\hat{g})$. For the simplest case $\hat
+g=A_1^{(1)}$ the discussion is also extended to even primitive roots of unity.
+\\

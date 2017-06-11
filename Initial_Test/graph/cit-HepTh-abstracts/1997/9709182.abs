@@ -1,0 +1,18 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9709182
+From: "D.V. Vasilevich" <vasilev@snoopy.phys.spbu.ru>
+Date: Thu, 25 Sep 1997 11:27:30 GMT   (8kb)
+
+Title: The Faddeev-Popov trick in the presence of boundaries
+Author: D.V. Vassilevich
+Comments: LaTEX, 10pp
+Journal-ref: Phys.Lett. B421 (1998) 93-98
+\\
+  We formulate criteria of applicability of the Faddeev-Popov trick to gauge
+theories on manifolds with boundaries. With the example of Euclidean Maxwell
+theory we demonstrate that the path integral is indeed gauge independent when
+these criteria are satisfied, and depends on a gauge choice whenever these
+criteria are violated. In the latter case gauge dependent boundary conditions
+are required for a self-consistent formulation of the path intgral.
+\\

@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9503212
+From: Eva Silverstein <silver@puhep1.Princeton.EDU>
+Date: Thu, 30 Mar 1995 03:53:58 GMT   (33kb)
+Date (revised): Sun, 30 Apr 1995 11:57:00 -0400
+Date (revised): Wed, 3 Nov 1999 06:10:16 GMT
+
+Title: Criteria for Conformal Invariance of (0,2) Models
+Authors: Eva Silverstein and Edward Witten
+Comments: 36 pages, harvmac. Equation (3.14) and miscellaneous typos corrected.
+  (Error in section 5.2 has been corrected in 1999 version.)
+Report-no: IASSNS-HEP-95/22, PUPT-1533
+Journal-ref: Nucl.Phys. B444 (1995) 161-190
+\\
+  It is argued that many linear (0,2) models flow in the infrared to
+conformally invariant solutions of string theory. The strategy in the argument
+is to show that the effective space-time superpotential must vanish because
+there is no place where it can have a pole. This conclusion comes from either
+of two different analyses, in which the Kahler class or the complex structure
+of the gauge bundle is varied, while keeping everything else fixed. In the
+former case, we recover from the linear sigma model the usual simple pole in
+the ${\bf \bar {27}}^3$ Yukawa coupling but show that an analogous pole does
+not arise in the couplings of gauge singlet modes. In the latter case, a
+dimension count shows that the world-sheet instanton sum does not ``see'' the
+singularities of the gauge bundle and hence cannot have a pole.
+\\

@@ -1,0 +1,19 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9811117
+From: dean lee <dlee@het.phast.umass.edu>
+Date: Thu, 12 Nov 1998 20:22:44 GMT   (188kb)
+
+Title: Introduction to spherical field theory
+Author: Dean Lee
+Report-no: HUTP-98/A023
+Journal-ref: Phys.Lett. B439 (1998) 85-94
+\\
+  Spherical field theory is a new non-perturbative method for studying quantum
+field theories. It uses the spherical partial wave expansion to reduce a
+general d-dimensional Euclidean field theory into a set of coupled
+one-dimensional systems. The coupled one-dimensional systems are then converted
+to partial differential equations and solved numerically. We demonstrate the
+methods of spherical field theory by analyzing Euclidean phi^4 theory in two
+dimensions.
+\\

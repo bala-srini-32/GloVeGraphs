@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9703024
+From: Arthur J Mountain <a.j.mountain@damtp.cam.ac.uk>
+Date: Tue, 4 Mar 1997 01:36:58 MST   (15kb)
+Date (revised): Mon, 28 Jun 1999 14:36:37 GMT
+
+Title: Construction of supercharges for the one-dimensional supersymmetric
+  nonlinear sigma model
+Authors: A. J. Macfarlane and A. J. Mountain
+Comments: 16 pages, Latex. Introduction rewritten. Some new results added
+Report-no: DAMTP 97-14
+Journal-ref: JHEP 9906 (1999) 005
+\\
+  This paper addresses an issue essential to the study of hidden
+supersymmetries (meaning here ones that do not close on the Hamiltonian) for
+one-dimensional non-linear supersymmetric sigma models. The issue relates to
+ambiguities, due to partial integrations in superspace, both in the actual
+definition of these supersymmetries and in the Noether definition of the
+associated supercharges. The unique consistent forms of both these definitions
+have to be determined simultaneously by a process that adjusts the former
+definitions so that the associated supercharges do indeed correctly generate
+them with the aid of the canonical formalism. The paper explains and
+illustrates these matters and gives some new results.
+\\

@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9709101
+From: Matthias Staudacher <matthias@aei-potsdam.mpg.de>
+Date: Mon, 15 Sep 1997 17:53:48 +0200   (9kb)
+
+Title: Two-Dimensional QCD in the Wu-Mandelstam-Leibbrandt Prescription
+Authors: Matthias Staudacher and Werner Krauth
+Comments: 7 pages, LaTeX, REVTEX
+Report-no: CERN-TH/97-245
+Journal-ref: Phys.Rev. D57 (1998) 2456-2459
+\\
+  We find the exact non-perturbative expression for a simple Wilson loop of
+arbitrary shape for U(N) and SU(N) Euclidean or Minkowskian two-dimensional
+Yang-Mills theory regulated by the Wu-Mandelstam-Leibbrandt gauge prescription.
+The result differs from the standard pure exponential area-law of YM_2, but
+still exhibits confinement as well as invariance under area-preserving
+diffeomorphisms and generalized axial gauge transformations. We show that the
+large N limit is NOT a good approximation to the model at finite N and conclude
+that Wu's N=infinity Bethe-Salpeter equation for QCD_2 should have no bound
+state solutions. The main significance of our results derives from the
+importance of the Wu-Mandelstam-Leibbrandt prescription in higher-dimensional
+perturbative gauge theory.
+\\

@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9905005
+From: Damiano Anselmi <anselmi@cpht.polytechnique.fr>
+Date: Sun, 2 May 1999 14:13:52 GMT   (31kb)
+Date (revised v2): Thu, 26 Aug 1999 17:26:40 GMT   (31kb)
+Date (revised v3): Fri, 10 Dec 1999 02:45:09 GMT   (31kb)
+
+Title: Quantum irreversibility in arbitrary dimension
+Authors: D. Anselmi
+Comments: 28 pages, 1 figure. Proof corrections included. NPB in press
+Report-no: CERN-TH/99-97
+Subj-class: High Energy Physics - Theory; Mathematical Physics
+Journal-ref: Nucl.Phys. B567 (2000) 331-359
+\\
+  Some recent ideas are generalized from four dimensions to the general
+dimension n. In quantum field theory, two terms of the trace anomaly in
+external gravity, the Euler density G_n and Box^{n/2-1}R, are relevant to the
+problem of quantum irreversibility. By adding the divergence of a
+gauge-invariant current, G_n can be extended to a new notion of Euler density,
+linear in the conformal factor. We call it pondered Euler density. This notion
+relates the trace-anomaly coefficients a and a' of G_n and Box^{n/2-1}R in a
+universal way (a=a') and gives a formula expressing the total RG flow of a as
+the invariant area of the graph of the beta function between the fixed points.
+I illustrate these facts in detail for n=6 and check the prediction to the
+fourth-loop order in the phi^3-theory. The formula of quantum irreversibility
+for general n even can be extended to n odd by dimensional continuation.
+Although the trace anomaly in external gravity is zero in odd dimensions, I
+show that the odd-dimensional formula has a predictive content.
+\\

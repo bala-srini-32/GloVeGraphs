@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0107194
+From: Damiano Anselmi <anselmi@df.unipi.it>
+Date: Mon, 23 Jul 2001 14:09:14 GMT   (26kb)
+Date (revised v2): Thu, 6 Dec 2001 14:09:44 GMT   (29kb)
+
+Title: Kinematic sum rules for trace anomalies
+Authors: D. Anselmi
+Comments: 21 pages; published version: added discussion about scheme
+  independence and generalization to sum rules for c
+Report-no: IFUP-TH/01-11
+Journal-ref: JHEP 0111 (2001) 033
+\\
+  I derive a procedure to generate sum rules for the trace anomalies a and a'.
+Linear combinations of Delta a = a_UV-a_IR and Delta a' = a'_UV-a'_IR are
+expressed as multiple flow integrals of the two-, three- and four-point
+functions of the trace of the stress tensor. Eliminating Delta a', universal
+flow invariants are obtained, in particular sum rules for Delta a. The formulas
+hold in the most general renormalizable quantum field theory (unitary or not),
+interpolating between UV and IR conformal fixed points. I discuss the relevance
+of these sum rules for the issue of the irreversibility of the RG flow. The
+procedure can be generalized to derive sum rules for the trace anomaly c.
+\\

@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9808133
+From: Joachim Lindig <lindig@itp.uni-leipzig.de>
+Date: Fri, 21 Aug 1998 07:45:23 GMT   (12kb)
+
+Title: Not all adiabatic vacua are physical states
+Authors: Joachim Lindig
+Comments: 13 pages, LaTex2e
+Journal-ref: Phys.Rev. D59 (1999) 064011
+\\
+  Adiabatic vacua are known to be Hadamard states. We show, however that the
+energy-momentum tensor of a linear Klein-Gordon field on Robertson-Walker
+spaces developes a generic singularity on the initial hypersurface if the
+adiabatic vacuum is of order less than four. Therefore, adiabatic vacua are
+physically reasonable only if their order is at least four.
+  A certain non-local large momentum expansion of the mode functions has
+recently been suggested to yield the subtraction terms needed to remove the
+ultraviolet divergences in the energy-momentum tensor. We find that this scheme
+fails to reproduce the trace anomaly and therefore is not equivalent to
+adiabatic regularisation.
+\\

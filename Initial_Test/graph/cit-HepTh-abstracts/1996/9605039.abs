@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9605039
+From: Martin Reuter <T00REU@DSYIBM.DESY.DE>
+Date: TUE, 7 MAY 96 11:17:55 +0200   (35kb)
+
+Title: Quantum Liouville Field Theory as Solution of a Flow Equation
+Author: M. Reuter and C. Wetterich
+Comments: 49 pages, latex
+Report-no: DESY 96-081, HD-THEP-96-11
+Journal-ref: Nucl.Phys. B506 (1997) 483-520
+\\
+  A general framework for the Weyl invariant quantization of Liouville field
+theory by means of an exact renormalization group equation is proposed. This
+flow equation describes the scale dependence of the effective average action
+which has a built-in infrared cutoff. For c<1 it is solved approximately by a
+truncation of the space of action functionals. We derive the Ward identities
+associated to Weyl transformations in presence of the infrared cutoff. They are
+used to select a specific universality class for the renormalization group
+trajectory which is found to connect two conformal field theories with central
+charges 25-c and 26-c, respectively.
+\\

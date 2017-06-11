@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9912262
+From: Katsumi Itoh <itoh@ed.niigata-u.ac.jp>
+Date: Tue, 28 Dec 1999 09:59:02 GMT   (12kb)
+Date (revised v2): Fri, 14 Jan 2000 13:02:02 GMT   (10kb)
+
+Title: Exact Symmetries realized on the Renormalized Group Flow
+Authors: Yuji Igarashi, Katsumi Itoh and Hiroto So
+Comments: Latex, 10 pages
+Report-no: NIIG-DP-99-2
+Journal-ref: Phys.Lett. B479 (2000) 336-342
+\\
+  We show that symmetries are preserved exactly along the (Wilsonian)
+renormalization group flow, though the IR cutoff deforms concrete forms of the
+transformations. For a gauge theory the cutoff dependent Ward-Takahashi
+identity is written as the master equation in the antifield formalism: one may
+read off the renormalized BRS transformation from the master equation. The
+Maxwell theory is studied explicitly to see how it works. The renormalized BRS
+transformation becomes non-local but keeps off-shell nilpotency. Our formalism
+is applicable for a generic global symmetry. The master equation considered for
+the chiral symmetry provides us with the continuum analog of the
+Ginsparg-Wilson relation and the L{\" u}scher's symmetry.
+\\

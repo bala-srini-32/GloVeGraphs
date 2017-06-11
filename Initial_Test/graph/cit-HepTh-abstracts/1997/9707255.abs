@@ -1,0 +1,19 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9707255
+From: Stanislav Boldyrev <boldyrev@pppl.gov>
+Date: Thu, 31 Jul 1997 18:23:19 -0400 (EDT)   (11kb)
+
+Title: Burgers turbulence with pressure
+Author: S. Boldyrev
+Comments: 4 pages, revtex
+\\
+  The randomly driven Burgers equation with pressure is considered as a 1D
+model of strong turbulence of compressible fluid. It is shown that infinitely
+small pressure provides a finite effect on the velocity and density statistics
+and this case therefore is qualitatively different from turbulence without
+pressure. We establish the corresponding operator product expansion and predict
+the intermittent velocity- difference and mass-difference PDFs. We then apply
+the developed methods to the statistics of a passive scalar advected by the
+Burgers field.
+\\

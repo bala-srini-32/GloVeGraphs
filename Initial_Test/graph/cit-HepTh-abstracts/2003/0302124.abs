@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0302124
+From: Hagen Kleinert <kleinert@physik.fu-berlin.de>
+Date: Mon, 17 Feb 2003 10:48:31 GMT   (13kb)
+
+Title: Summing Non-Borel Tunneling Amplitudes by Variational Perturbation
+  Theory
+Authors: B. Hamprecht and H. Kleinert
+Comments: Author Information under
+  http://www.physik.fu-berlin.de/~kleinert/institution.html . Latest update of
+  paper (including all PS fonts) at
+  http://www.physik.fu-berlin.de/~kleinert/342
+\\
+  We present a method for evaluating divergent Borel-nonsummable series by an
+analytic continuation of variational perturbation theory. We demonstrate its
+validity by an application to the exactly known partition function of the
+anharmonic oscillator in zero spacetime dimensions, and derive the full
+imaginary part of the ground state energy of the anharmonic oscillator for all
+negative values of the coupling constant $g$. As a highlight of the theory we
+retrieve from the divergent perturbation expansion the instanton action and the
+contribution of the higher loop fluctuations around the instanton in the path
+integral.
+\\

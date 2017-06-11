@@ -1,0 +1,19 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0301256
+From: JORGE ZANELLI <jz@cecs.cl>
+Date: Fri, 31 Jan 2003 14:56:49 GMT   (5kb)
+
+Title: Irregular Hamiltonian Systems
+Authors: Olivera Miskovic and Jorge Zanelli
+Comments: To appear in Proceedings of the XIII Chilean Symposium of Physics,
+  Concepcion, Chile, November 13-15 2002. LaTeX; 5 pages; no figures
+\\
+  Hamiltonian systems with linearly dependent constraints (irregular systems),
+are classified according to their behavior in the vicinity of the constraint
+surface. For these systems, the standard Dirac procedure is not directly
+applicable. However, Dirac's treatment can be slightly modified to obtain, in
+some cases, a Hamiltonian description completely equivalent to the Lagrangian
+one. A recipe to deal with the different cases is provided, along with a few
+pedagogical examples.
+\\

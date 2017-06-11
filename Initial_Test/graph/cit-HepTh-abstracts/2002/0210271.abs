@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0210271
+From: Albert Schwarz <schwarz@math.ucdavis.edu>
+Date: Mon, 28 Oct 2002 20:54:19 GMT   (23kb)
+Date (revised v2): Mon, 28 Oct 2002 22:50:29 GMT   (23kb)
+
+Title: Noncommutative supergeometry, duality and deformations
+Authors: Albert Schwarz
+Comments: Extended version of hep-th/9912212
+Journal-ref: Nucl.Phys. B650 (2003) 475-496
+\\
+  We introduce a notion of $Q$-algebra that can be considered as a
+generalization of the notion of $Q$-manifold (a supermanifold equipped with an
+odd vector field obeying $\{Q,Q\} =0$). We develop the theory of connections on
+modules over $Q$-algebras and prove a general duality theorem for gauge
+theories on such modules. This theorem containing as a simplest case
+$SO(d,d,{\bf Z})$-duality of gauge theories on noncommutative tori can be
+applied also in more complicated situations. We show that $Q$-algebras appear
+naturally in Fedosov construction of formal deformation of commutative algebras
+of functions and that similar $Q$-algebras can be constructed also in the case
+when the deformation parameter is not formal.
+\\

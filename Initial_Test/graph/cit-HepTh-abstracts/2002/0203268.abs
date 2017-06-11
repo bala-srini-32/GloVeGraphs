@@ -1,0 +1,34 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0203268
+From: Luciano Vanzo <vanzo@science.unitn.it>
+Date: Thu, 28 Mar 2002 13:15:07 GMT   (20kb)
+Date (revised v2): Fri, 5 Apr 2002 09:12:16 GMT   (21kb)
+Date (revised v3): Thu, 2 May 2002 09:17:01 GMT   (21kb)
+
+Title: De Sitter Gravity and Liouville Theory
+Authors: Dietmar Klemm and Luciano Vanzo
+Comments: 22 pages, LateX2e; added references for section 1 and section 2;
+  corrected typos; improved discussion in section 2
+Report-no: IFUM-710-FT, UTF-447
+Journal-ref: JHEP 0204 (2002) 030
+\\
+  We show that the spectrum of conical defects in three-dimensional de Sitter
+space is in one-to-one correspondence with the spectrum of vertex operators in
+Liouville conformal field theory. The classical conformal dimensions of vertex
+operators are equal to the masses of the classical point particles in dS_3 that
+cause the conical defect. The quantum dimensions instead are shown to coincide
+with the mass of the Kerr-dS_3 solution computed with the Brown-York stress
+tensor. Therefore classical de Sitter gravity encodes the quantum properties of
+Liouville theory. The equality of the gravitational and the Liouville stress
+tensor provides a further check of this correspondence. The Seiberg bound for
+vertex operators translates on the bulk side into an upper mass bound for
+classical point particles. Bulk solutions with cosmological event horizons
+correspond to microscopic Liouville states, whereas those without horizons
+correspond to macroscopic (normalizable) states. We also comment on recent
+criticism by Dyson, Lindesay and Susskind, and point out that the
+contradictions found by these authors may be resolved if the dual CFT is not
+able to capture the thermal nature of de Sitter space. Indeed we find that on
+the CFT side, de Sitter entropy is merely Liouville momentum, and thus has no
+statistical interpretation in this approach.
+\\

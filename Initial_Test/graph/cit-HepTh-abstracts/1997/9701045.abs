@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9701045
+From: oskar pelc <oskar@cc.huji.ac.il>
+Date: Sun, 12 Jan 1997 20:24:40 +0200 (GMT+0200)   (23kb)
+Date (revised): Wed, 10 Sep 1997 10:07:02 MDT
+
+Title: The Coulomb Phase in N=1 Gauge Theories With a LG-Type Superpotenetial
+Authors: Amit Giveon, Oskar Pelc and Eliezer Rabinovici
+Comments: 26 pages, latex, no figures; the derivation of the classical part of
+  the curves is clarified; version published in Nucl.Phys. B
+Report-no: RI-12-96
+Journal-ref: Nucl.Phys. B499 (1997) 100-124
+\\
+  We consider N=1 supersymmetric gauge theories with a simple classical gauge
+group, one adjoint $\Phi, N_f$ pairs ($Q_i,\tilde{Q_i}$) of (fundamental,
+anti-fundamental) and a tree-level superpotential with terms of the
+Landau-Ginzburg form $\tilde{Q}_i\Phi^lQ_j$. The quantum moduli space of these
+models includes a Coulomb branch. We find hyperelliptic curves that encode the
+low energy effective gauge coupling for the groups SO(N_c) and USp(N_c) (the
+corresponding curve for SU(N_c) is already known). As a consistency check, we
+derive the sub-space of some vacua with massless dyons via confining phase
+superpotentials. We also discuss the existence and nature of the non-trivial
+superconformal points appearing when singularities merge in the Coulomb branch.
+\\

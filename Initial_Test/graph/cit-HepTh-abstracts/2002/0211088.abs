@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0211088
+From: A.I.Nikishov <nikishov@lpi.ru>
+Date: Mon, 11 Nov 2002 14:11:06 GMT   (7kb)
+Date (revised v2): Wed, 15 Jan 2003 08:54:05 GMT   (7kb)
+
+Title: Equivalent sets of solutions of the Dirac equation with a constant
+  electric field
+Authors: A.I.Nikishov
+Comments: 9 pages, acknowledgement added
+Report-no: FIAN/TD/17/02
+\\
+  Two families of sets, nonstationary and stationary, are obtained. Each
+nonstationary set $\psi_{p_v}$ consists of the solutions with the quantum
+number $p_v=p^0v-p_3.$ It can be obtained from the nonstationary set
+$\psi_{p_3}$ with quantum number $p_3$ by a boost along $x_3$-axis (along the
+direction of the electric field) with velocity $-v$. Similarly, any stationary
+set of solutions characterized by a quantum number $p_s=p^0-sp_3$ can be
+obtained from stationary solutions with quantum number $p^0$ by the same boost
+with velocity $-s$. All these sets are equivalent and the classification (i.e.
+ascribing the frequency sign and in-, out- indexes) in any set is determined by
+the classification in $\psi_{p_3}$-set, where it is beyond doubt.
+\\

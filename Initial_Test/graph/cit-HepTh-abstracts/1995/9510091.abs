@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9510091
+From: milton@phyast.nhn.uoknor.edu (Kim Milton)
+Date: Fri, 13 Oct 1995 17:01:02 -0500   (10kb)
+
+Title: Casimir Energy for a Spherical Cavity in a Dielectric: Toward a Model
+  for Sonoluminescence?
+Author: Kimball A. Milton (Department of Physics and Astronomy, The University
+  of Oklahoma, Norman OK, USA; kmilton@uoknor.edu)
+Comments: 10 pages, LaTeX2e, Invited Talk at the Third Workshop on Quantum
+  Field Theory Under the Influence of External Conditions, Leipzig, September
+  18--22, 1995
+Report-no: OKHEP-95-06
+\\
+  In the final few years of his life, Julian Schwinger proposed that the
+``dynamical Casimir effect'' might provide the driving force behind the
+puzzling phenomenon of sonoluminescence. Motivated by that exciting suggestion,
+I have computed the static Casimir energy of a spherical cavity in an otherwise
+uniform material with dielectric constant $\epsilon$ and permeability $\mu$. As
+expected the result is divergent; yet a plausible finite answer is extracted,
+in the leading uniform asymptotic approximation. That result gives far too
+small an energy to account for the large burst of photons seen in
+sonoluminescence. If the divergent result is retained (which is different from
+that guessed by Schwinger), it is of the wrong sign to drive the effect.
+Dispersion does not resolve this contradiction. However, dynamical effects are
+not yet included.
+\\

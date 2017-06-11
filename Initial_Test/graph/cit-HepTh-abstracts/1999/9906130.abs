@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9906130
+From: Bonnet Gabrielle <gabonnet@spht.saclay.cea.fr>
+Date: Thu, 17 Jun 1999 07:30:44 GMT   (9kb)
+
+Title: The Potts-q random matrix model : loop equations, critical exponents,
+  and rational case
+Authors: B. Eynard and G. Bonnet
+Comments: 7 pages, submitted to Phys. Letters B
+Report-no: Saclay T99/060
+Journal-ref: Phys.Lett. B463 (1999) 273-279
+\\
+  In this article, we study the q-state Potts random matrix models extended to
+branched polymers, by the equations of motion method. We obtain a set of loop
+equations valid for any arbitrary value of q. We show that, for q=2-2 \cos {l
+\over r} \pi (l, r mutually prime integers with l < r), the resolvent satisfies
+an algebraic equation of degree 2 r -1 if l+r is odd and r-1 if l+r is even.
+This generalizes the presently-known cases of q=1, 2, 3. We then derive for any
+0 \leq q \leq 4 the Potts-q critical exponents and string susceptibility.
+\\

@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9504112
+From: Martin Cederwall <tfemc@fy.chalmers.se>
+Date: Fri, 21 Apr 1995 16:40:38 +0200   (16kb)
+Date (revised): Mon, 24 Apr 1995 07:03:24 +0200
+Date (revised): Fri, 15 Dec 1995 12:27:48 +0100
+
+Title: Deformations in Closed String Theory -- Canonical Formulation and
+  Regularization
+Author: Martin Cederwall, Alexander von Gussich and Per Sundell
+Comments: Plain TeX, 16 pages. Some additions in the discussion of the
+  curvature
+Journal-ref: Nucl.Phys. B464 (1996) 117-134
+\\
+  We study deformations of closed string theory by primary fields of conformal
+weight $(1,1)$, using conformal techniques on the complex plane. A canonical
+surface integral formalism for computing commutators in a non-holomorphic
+theory is constructed, and explicit formul\ae for deformations of operators are
+given. We identify the unique regularization of the arising divergences that
+respects conformal invariance, and consider the corresponding parallel
+transport. The associated connection is metric compatible and carries no
+curvature.
+\\

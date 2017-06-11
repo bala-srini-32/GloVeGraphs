@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9612216
+From: Lev Rozansky <rozansky@math.uic.edu>
+Date: Fri, 20 Dec 1996 10:58:57 -0600 (CST)   (53kb)
+Date (revised): Mon, 28 Apr 1997 12:13:04 -0500 (CDT)
+Date (revised): Fri, 18 Jul 1997 10:08:39 -0500 (CDT)
+
+Title: Hyper-Kahler Geometry and Invariants of Three-Manifolds
+Authors: L. Rozansky, E. Witten
+Comments: 70 pages, LaTeX (a few typos corrected)
+Report-no: IASSNS-HEP-96/128
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+Journal-ref: Selecta Math. 3 (1997) 401-458
+\\
+  We study a 3-dimensional topological sigma-model, whose target space is a
+hyper-Kahler manifold X. A Feynman diagram calculation of its partition
+function demonstrates that it is a finite type invariant of 3-manifolds which
+is similar in structure to those appearing in the perturbative calculation of
+the Chern-Simons partition function.
+  The sigma-model suggests a new system of weights for finite type invariants
+of 3-manifolds, described by trivalent graphs. The Riemann curvature of X plays
+the role of Lie algebra structure constants in Chern-Simons theory, and the
+Bianchi identity plays the role of the Jacobi identity in guaranteeing the
+so-called IHX relation among the weights.
+  We argue that, for special choices of X, the partition function of the
+sigma-model yields the Casson-Walker invariant and its generalizations. We also
+derive Walker's surgery formula from the SL(2,Z) action on the
+finite-dimensional Hilbert space obtained by quantizing the sigma-model on a
+two-dimensional torus.
+\\

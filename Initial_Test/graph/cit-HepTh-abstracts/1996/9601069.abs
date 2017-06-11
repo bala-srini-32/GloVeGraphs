@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9601069
+From: matthias@nxth04.cern.ch
+Date: Sun, 14 Jan 96 18:39:39 +0100   (46kb)
+Date (revised): Mon, 15 Jan 96 23:04:17 +0100
+Date (revised): Fri, 16 Feb 96 15:17:10 +0100
+
+Title: Exact Solution of Discrete Two-Dimensional R^2 Gravity
+Authors: V.A. Kazakov, M. Staudacher and T. Wynter
+Comments: 27 pages, 6 ps figures, uses harvmac.tex and epsf, minor changes
+Report-no: LPTENS-95/56 and CERN-TH/95-352
+Journal-ref: Nucl.Phys. B471 (1996) 309-333
+\\
+  We exactly solve a special matrix model of dually weighted planar graphs
+describing pure two-dimensional quantum gravity with an R^2 interaction. It
+permits us to study the intermediate regimes between the gravitating and flat
+metric. Flat space is modeled by a regular square lattice, while localised
+curvature is introduced through lattice defects. No ``flattening'' phase
+transition is found with respect to the R^2 coupling: the infrared behaviour of
+the system is that of pure gravity for any finite R^2 coupling. In the limit of
+infinite coupling, we are able to extract a scaling function interpolating
+between pure gravity and a dilute gas of curvature defects on a flat
+background. We introduce and explain some novel techniques concerning our
+method of large N character expansions and the calculation of Schur characters
+on big Young tableaux.
+\\

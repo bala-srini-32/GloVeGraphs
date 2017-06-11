@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0212149
+From: Andre van Tonder <andre@het.brown.edu>
+Date: Thu, 12 Dec 2002 22:08:58 GMT   (15kb)
+
+Title: Cohomology and Decomposition of Tensor Product Representations of
+  SL(2,R)
+Authors: Andre van Tonder (Brown University)
+Comments: 22 pages, no figures, Latex2e
+Report-no: BROWN-HET-1338
+Subj-class: High Energy Physics - Theory; Representation Theory
+\\
+  We analyze the decomposition of tensor products of infinite dimensional
+discrete series (unitary) and finite-dimensional (non-unitary) representations
+of SL(2,R). Although such tensor products are not in general completely
+reducible, we show that the product representations become completely reducible
+on the cohomology of a natural nilpotent operator Q derived from the Casimir.
+We introduce a definition of the character of a representation compatible with
+the cohomology and use these characters to derive explicit tensor product
+decomposition formulae.
+\\

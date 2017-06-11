@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9902057
+From: HAGEN@urhep.pas.rochester.edu
+Date: Mon, 8 Feb 1999 16:09:00 GMT   (8kb)
+Date (revised v2): Wed, 26 May 1999 19:16:17 GMT   (9kb)
+
+Title: Casimir Energy for Spherical boundaries
+Authors: C.R. Hagen
+Comments: Revtex, 7 pages, Appendix added providing details of failure of
+  stress tensor method
+Report-no: UR-1564
+Journal-ref: Phys.Rev. D61 (2000) 065005
+\\
+  Calculations of the Casimir energy for spherical geometries which are based
+on integrations of the stress tensor are critically examined. It is shown that
+despite their apparent agreement with numerical results obtained from mode
+summation methods, they contain a number of serious errors. Specifically, these
+include (1) an improper application of the stress tensor to spherical
+boundaries, (2) the neglect of pole terms in contour integrations, and (3) the
+imposition of inappropriate boundary conditions upon the relevant propagators.
+A calculation which is based on the stress tensor and which avoids such
+problems is shown to be possible. It is, however, equivalent to the mode
+summation method and does not therefore constitute an independent calculation
+of the Casimir energy.
+\\

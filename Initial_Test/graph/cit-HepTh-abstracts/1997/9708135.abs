@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9708135
+From: Andre LeClair <leclair@mail.lns.cornell.edu>
+Date: Mon, 25 Aug 1997 18:57:14 -0400   (18kb)
+Date (revised): Tue, 26 Aug 1997 13:39:04 -0400
+
+Title: Minimal Models with Integrable Local Defects
+Authors: A. LeClair and A. W. W. Ludwig
+Comments: 18 pages, one figure
+Report-no: ITP-97-080
+Journal-ref: Nucl.Phys. B549 (1999) 546-562
+\\
+  We describe a general way of constructing integrable defect theories as
+perturbations of conformal field theory by local defect operators. The method
+relies on folding the system onto a boundary field theory of twice the central
+charge. The classification of integrable defect theories obtained in this way
+parallels that of integrable bulk theories which are a perturbation of the
+tensor product of two conformal field theories. These include local defect
+perturbations of all $c<1$ minimal models, as well as of the coset theories
+based on SO(2n), obtained in this way. We discuss in detail the former case of
+all the Virasoro minimal models. In the Ising case our construction corresponds
+to having a spin field as a defect operator; in the folded formulation this is
+mapped onto an orbifolding of the boundary sine-Gordon theory at $\beta^2/8\pi
+= 1/8$, or a version of the anisotropic Kondo model.
+\\

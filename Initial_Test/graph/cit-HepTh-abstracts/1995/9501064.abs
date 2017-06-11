@@ -1,0 +1,19 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9501064
+From: Klaus Kirsten <KLAUS@Ecm.Ub.Es>
+Date: Mon, 16 Jan 95 13:38:15 BCN   (7kb)
+
+Title: Heat-kernel coefficients of the Laplace operator on the 3-dimensional
+  ball
+Authors: K. Kirsten and M. Bordag
+Comments: 7 pages, LaTex
+Report-no: UB-ECM-PF 95/1
+\\
+We consider the heat-kernel expansion of the massive Laplace operator on the
+three dimensional ball with Dirichlet boundary conditions. Using this example,
+we illustrate a very effective scheme for the calculation of an (in principle)
+arbitrary number of heat-kernel coefficients for the case where the basis
+functions are known. New results for the coefficients $B_{\frac 5 2},...,B_5$
+are presented.
+\\

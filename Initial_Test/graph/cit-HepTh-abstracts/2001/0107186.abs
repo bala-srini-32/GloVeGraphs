@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0107186
+From: Ergin Sezgin <sezgin@physics.tamu.edu>
+Date: Mon, 23 Jul 2001 08:08:55 GMT   (30kb)
+
+Title: Towards Massless Higher Spin Extension of D=5, N=8 Gauged Supergravity
+Authors: E. Sezgin and P. Sundell
+Comments: 36 pages, latex
+Journal-ref: JHEP 0109 (2001) 025
+\\
+  The AdS_5 superalgebra PSU(2,2|4) has an infinite dimensional extension,
+which we denote by hs(2,2|4). We show that the gauging of hs(2,2|4) gives rise
+to a spectrum of physical massless fields which coincides with the symmetric
+tensor product of two AdS_5 spin-1 doubletons (i.e. the N=4 SYM multiplets
+living on the boundary of AdS_5). This product decomposes into levels
+\ell=0,1,2,..,\infty of massless supermultiplets of PSU(2,2|4). In particular,
+the D=5, N=8 supergravity multiplet arises at level \ell=0. In addition to a
+master gauge field, we construct a master scalar field containing the s=0,1/2
+fields, the anti-symmetric tensor field of the gauged supergravity and its
+higher spin analogs. We define the linearized constraints and obtain the
+linearized field equations of the full spectrum, including those of D=5,N=8
+gauged supergravity and in particular the self-duality equations for the 2-form
+potentials of the gauged supergravity (forming a 6-plet of SU(4)), and their
+higher spin cousins with s=2,3,...,\infty.
+\\

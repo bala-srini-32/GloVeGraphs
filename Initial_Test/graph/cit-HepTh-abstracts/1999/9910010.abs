@@ -1,0 +1,19 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9910010
+From: Tevian Dray <tevian@math.orst.edu>
+Date: Fri, 1 Oct 1999 16:42:08 GMT   (14kb)
+Date (revised v2): Mon, 4 Oct 1999 15:00:22 GMT   (15kb)
+
+Title: Quaternionic Spin
+Authors: Tevian Dray and Corinne A. Manogue
+Comments: LaTeX2e, 15 pages, 1 PS figure; to appear in Clifford '99 proceedings
+\\
+  We rewrite the standard 4-dimensional Dirac equation in terms of quaternionic
+2-component spinors, leading to a formalism which treats both massive and
+massless particles on an equal footing. The resulting unified description has
+the correct particle spectrum to be a generation of leptons, with the correct
+number of spin/helicity states. Furthermore, precisely three such generations
+naturally combine into an octonionic description of the 10-dimensional massless
+Dirac equation, as discussed in previous work.
+\\

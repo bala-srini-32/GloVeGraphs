@@ -1,0 +1,35 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9510187
+From: mblau@enslapp.ens-lyon.fr
+Date: Wed, 25 Oct 1995 16:27:38 +0100   (52kb)
+Date (revised): Thu, 12 Dec 1996 20:18:14 +0100 (MET)
+
+Title: Some General Aspects of Coset Models and Topological Kazama-Suzuki
+  Models
+Authors: Matthias Blau, Faheem Hussain, George Thompson
+Comments: expanded version to appear in NPB: construction of wave functions,
+  proof of holomorphic factorization and localization extended to non-trivial
+  gauge bundles; 73 pages, LaTeX file
+Report-no: IC/95/340, ENSLAPP-L-556/95
+Journal-ref: Nucl.Phys. B488 (1997) 541-598
+\\
+  We study global aspects of N=2 Kazama-Suzuki coset models by investigating
+topological G/H Kazama-Suzuki models in a Lagrangian framework based on gauged
+Wess-Zumino-Witten models. We first generalize Witten's analysis of the
+holomorphic factorization of bosonic G/H models to models with N=1 and N=2
+supersymmetry. We also find some new anomaly-free and supersymmetric models
+based on non-diagonal embeddings of the gauge group. We then explain the basic
+properties (action, symmetries, metric independence, ...) of the topologically
+twisted G/H Kazama-Suzuki models. We explain how all of the above generalizes
+to non-trivial gauge bundles.
+  We employ the path integral methods of localization and abelianization (shown
+to be valid also for non-trivial bundles) to establish that the twisted G/H
+models can be localized to bosonic H/H models (with certain quantum
+corrections), and can hence be reduced to an Abelian bosonic T/T model, T a
+maximal torus of H. We also present the action and the symmetries of the
+coupling of these models to topological gravity. We determine the bosonic
+observables for all the models based on classical flag manifolds and the
+bosonic observables and their fermionic descendants for models based on complex
+Grassmannians.
+\\

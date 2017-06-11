@@ -1,0 +1,33 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0012076
+From: Andrew Chamblin <chamblin@ctpblack.mit.edu>
+Date: Fri, 8 Dec 2000 20:34:56 GMT   (29kb)
+Date (revised v2): Fri, 9 Feb 2001 03:09:05 GMT   (31kb)
+Date (revised v3): Thu, 22 Feb 2001 04:57:39 GMT   (31kb)
+
+Title: AdS/CFT in the Infinite Momentum Frame
+Authors: D. Brecher, A. Chamblin, H.S. Reall
+Comments: 32 pages LaTeX. Corrected a typo, added a section on supersymmetry,
+  comments on the implications of our analysis for the Randall-Sundrum
+  scenario, and a brief discourse about free field theory and the ambiguity in
+  the 2-point function
+Report-no: DTP/00/103, QMW-PH/00-15, MIT-CTP-3052
+Journal-ref: Nucl.Phys. B607 (2001) 155-190
+\\
+  This paper considers the spacetimes describing pp-waves propagating on
+extremal non-dilatonic branes. It is shown that an observer moving along a
+geodesic will experience infinite curvature at the horizon of the brane, which
+should therefore be regarded as singular. Taking the decoupling limit of these
+brane-wave spacetimes gives a pp-wave in AdS, the simplest example being the
+Kaigorodov spacetime. It has been conjectured that gravity in this spacetime is
+dual to a CFT in the infinite momentum frame with constant momentum density. If
+correct, this implies that the CFT must resolve the singularity of the bulk
+spacetime. Evidence in favour of this conjecture is presented. The unbroken
+conformal symmetries determine the scalar 2-point function up to an arbitrary
+function of one variable. However, an AdS/CFT calculation shows that this
+function is constant (to leading order in $1/N^2$) and the result is therefore
+the same as when the full conformal symmetry is unbroken. This paper also
+discusses a recently discovered Virasoro symmetry of metrics describing
+pp-waves in AdS and naked singularities in the Randall-Sundrum scenario.
+\\

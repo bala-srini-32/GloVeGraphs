@@ -1,0 +1,19 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0207122
+From: John R. Hiller <jhiller@d.umn.edu>
+Date: Fri, 12 Jul 2002 16:55:41 GMT   (17kb)
+
+Title: Nonperturbative solution of supersymmetric gauge theories
+Authors: J.R. Hiller
+Comments: 9 pages, LaTeX2e, ws-procs9x6; to appear in the proceedings of the
+  fifth workshop on Continuous Advances in QCD (Arkadyfest), Minneapolis,
+  Minnesota, May 17-23, 2002
+Report-no: UMN-D-02-4
+\\
+  Recent work on the numerical solution of supersymmetric gauge theories is
+described. The method used is SDLCQ (supersymmetric discrete light-cone
+quantization). An application to N=1 supersymmetric Yang-Mills theory in 2+1
+dimensions at large N_c is summarized. The addition of a Chern-Simons term is
+also discussed.
+\\

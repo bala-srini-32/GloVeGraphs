@@ -1,0 +1,34 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0106124
+From: Nicholas Read <nicholas.read@yale.edu>
+Date: Thu, 14 Jun 2001 20:08:22 GMT   (41kb)
+
+Title: Exact spectra of conformal supersymmetric nonlinear sigma models in two
+  dimensions
+Authors: N. Read and H. Saleur
+Comments: 21 pages, no figures, RevTex format
+Subj-class: High Energy Physics - Theory; Mesoscopic Systems and Quantum Hall
+  Effect
+Journal-ref: Nucl.Phys. B613 (2001) 409
+\\
+  We study two-dimensional nonlinear sigma models in which the target spaces
+are the coset supermanifolds U(n+m|n)/[U(1)\times U(n+m-1|n)] \cong
+CP^{n+m-1|n} (projective superspaces) and OSp(2n+m|2n)/OSp(2n+m-1|2n) \cong
+S^{2n+m-1|2n} (superspheres), n, m integers, -2\leq m\leq 2; these quantum
+field theories live in Hilbert spaces with indefinite inner products. These
+theories possess non-trivial conformally-invariant renormalization-group fixed
+points, or in some cases, lines of fixed points. Some of the conformal
+fixed-point theories can also be obtained within Landau-Ginzburg theories. We
+obtain the complete spectra (with multiplicities) of exact conformal weights of
+states (or corresponding local operators) in the isolated fixed-point conformal
+field theories, and at one special point on each of the lines of fixed points.
+Although the conformal weights are rational, the conformal field theories are
+not, and (with one exception) do not contain the affine versions of their
+superalgebras in their chiral algebras. The method involves lattice models that
+represent the strong-coupling region, which can be mapped to loop models, and
+then to a Coulomb gas with modified boundary conditions. The results apply to
+percolation, dilute and dense polymers, and other statistical mechanics models,
+and also to the spin quantum Hall transition in noninteracting fermions with
+quenched disorder.
+\\

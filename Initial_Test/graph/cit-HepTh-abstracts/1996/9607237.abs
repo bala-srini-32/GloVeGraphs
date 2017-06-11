@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9607237
+From: Raimar Wulkenhaar <Raimar.Wulkenhaar@itp.uni-leipzig.de>
+Date: Wed, 31 Jul 96 12:54:43 -0000   (69kb)
+Date (revised): Mon, 10 Feb 97 21:45:13 +0100
+
+Title: Grand Unification in Non-Associative Geometry
+Authors: Raimar Wulkenhaar
+Comments: 48 pages, LaTeX2e + AMS macros + graphics.sty + eps table; revised
+  version: A Majorana mass for the right neutrinos has been introduced. This
+  leads to an additional 50-plet of Higgs fields, and an unobserved neutral
+  gauge field gets a very large mass
+\\
+  We formulate the flipped SU(5) x U(1)-GUT within the framework of
+non-associative geometry. It suffices to take the matrix Lie algebra su(5) as
+the input; the u(1)-part with its representation on the fermions is an
+algebraic consequence. The occurring Higgs multiplets
+(24,5,45,50-representations of su(5)) are uniquely determined by the fermionic
+mass matrix and the spontaneous symmetry breaking pattern to SU(3) x U(1). We
+find the most general gauge invariant Higgs potential that is compatible with
+the given Higgs vacuum. Our formalism yields tree-level predictions for the
+masses of all gauge and Higgs bosons. It turns out that the low-energy sector
+is identical with the standard model. In particular, there exists precisely one
+light Higgs field, whose upper bound for the mass is 1.45 m_t. All remaining
+207 Higgs fields are extremely heavy.
+\\

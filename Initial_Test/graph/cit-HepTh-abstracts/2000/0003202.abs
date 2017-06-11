@@ -1,0 +1,18 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0003202
+From: Christian Brouder <christian.brouder@lmcp.jussieu.fr>
+Date: Wed, 22 Mar 2000 18:53:24 GMT   (32kb)
+
+Title: Renormalization of QED with planar binary trees
+Authors: Christian Brouder and Alessandra Frabetti
+Comments: Uses feynmf package. 20 pages
+Journal-ref: Eur.Phys.J. C19 (2001) 715-741
+\\
+  The renormalized photon and electron propagators are expanded over planar
+binary trees. Explicit recurrence solutions are given for the terms of these
+expansions. In the case of massless Quantum Electrodynamics (QED), the relation
+between renormalized and bare expansions is given in terms of a Hopf algebra
+structure. For massive quenched QED, the relation between renormalized and bare
+expansions is given explicitly.
+\\

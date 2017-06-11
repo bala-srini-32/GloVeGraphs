@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0106023
+From: Filipe Moura <fmoura@insti.physics.sunysb.edu>
+Date: Sun, 3 Jun 2001 03:29:24 GMT   (23kb)
+Date (revised v2): Mon, 29 Oct 2001 16:30:33 GMT   (23kb)
+
+Title: Four dimensional N=1 supersymmetrization of R^4 in superspace
+Authors: Filipe Moura
+Comments: 30 pages, no figures. Reference added, typos corrected. Calculation
+  details included as an appendix
+Report-no: YITP-SB-01/26
+Journal-ref: JHEP 0109 (2001) 026
+\\
+  We write an action, in four dimensional N=1 curved superspace, which contains
+a pure R^4 term with a coupling constant. Starting from the off-shell solution
+of the Bianchi identities, we compute the on-shell torsions and curvatures with
+this term. We show that their complete solution includes, for some of them, an
+infinite series in the R^4 coupling constant, which can only be computed
+iteratively. We explicitly compute the superspace torsions and curvatures up to
+second order in this coupling constant. Finally, we comment on the lifting of
+this result to higher dimensions.
+\\

@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9811184
+From: A. W. Schreiber <aschreiber@physics.adelaide.edu.au>
+Date: Fri, 20 Nov 1998 06:57:00 GMT   (54kb)
+
+Title: Chiral symmetry breaking in dimensionally regularized nonperturbative
+  quenched QED
+Authors: V. P. Gusynin, A. W. Schreiber, T. Sizer and A. G. Williams
+Comments: 24 pages, including 5 figures; submitted to Phys. Rev. D
+Report-no: ADP-98-70/T337
+Journal-ref: Phys.Rev. D60 (1999) 065007
+\\
+  In this paper we study dynamical chiral symmetry breaking in dimensionally
+regularized quenched QED within the context of Dyson-Schwinger equations. In D
+< 4 dimensions the theory has solutions which exhibit chiral symmetry breaking
+for all values of the coupling. To begin with, we study this phenomenon both
+numerically and, with some approximations, analytically within the rainbow
+approximation in the Landau gauge. In particular, we discuss how to extract the
+critical coupling alpha_c = pi/3 relevant in four dimensions from the D
+dimensional theory. We further present analytic results for the chirally
+symmetric solution obtained with the Curtis-Pennington vertex as well as
+numerical results for solutions exhibiting chiral symmetry breaking. For these
+we demonstrate that, using dimensional regularization, the extraction of the
+critical coupling relevant for this vertex is feasible. Initial results for
+this critical coupling are in agreement with cut-off based work within the
+currently achievable numerical precision.
+\\

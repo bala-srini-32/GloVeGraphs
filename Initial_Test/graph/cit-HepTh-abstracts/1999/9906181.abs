@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9906181
+From: A.M. Fedotov <fedotov@cea.ru>
+Date: Thu, 24 Jun 1999 00:03:09 GMT   (45kb)
+
+Title: Boundary conditions in the Unruh problem
+Authors: N.B. Narozhny, A.M. Fedotov, B.M. Karnakov, V.D. Mur, and V.A.
+  Belinskii
+Comments: 31 pages,1 figure
+Journal-ref: Phys.Rev. D65 (2002) 025004
+\\
+  We have analyzed the Unruh problem in the frame of quantum field theory and
+have shown that the Unruh quantization scheme is valid in the double Rindler
+wedge rather than in Minkowski spacetime. The double Rindler wedge is composed
+of two disjoint regions ($R$- and $L$-wedges of Minkowski spacetime) which are
+causally separated from each other. Moreover the Unruh construction implies
+existence of boundary condition at the common edge of $R$- and $L$-wedges in
+Minkowski spacetime. Such boundary condition may be interpreted as a
+topological obstacle which gives rise to a superselection rule prohibiting any
+correlations between $r$- and $l$- Unruh particles. Thus the part of the field
+from the $L$-wedge in no way can influence a Rindler observer living in the
+$R$-wedge and therefore elimination of the invisible "left" degrees of freedom
+will take no effect for him. Hence averaging over states of the field in one
+wedge can not lead to thermalization of the state in the other. This result is
+proved both in the standard and algebraic formulations of quantum field theory
+and we conclude that principles of quantum field theory does not give any
+grounds for existence of the "Unruh effect".
+\\

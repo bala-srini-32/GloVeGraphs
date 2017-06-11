@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0207269
+From: Ahmed Jellal <jellal@gursey.gov.tr>
+Date: Tue, 30 Jul 2002 14:01:40 GMT   (10kb)
+
+Title: Electrons-Holes on Noncommutative Plane and Hall Effect
+Authors: Ahmed Jellal
+Comments: 13 pages
+\\
+  By considering N_e-electrons and N_h-holes together in uniform external
+magnetic and electric fields, we end up with a total Hall conductivity
+\sigma_{H}^{tot}, which is depending to the difference between N_e and N_h and
+becomes null when N_e=N_h. Dealing with the same system but requiring that the
+coordinates of plane are noncommuting, we obtain a new Hall conductivity
+\sigma_{H}^{(tot,nc)}. In the limit N_e=N_h, we find that \sigma_{H}^{(tot,nc)}
+is only noncommutativity parameters \theta_i-dependent, which means that
+theoretically it is possible to have Hall effect without B. Moreover, at the
+critical points \theta_e=l^2 and \theta_h=-l^2, we find that
+\sigma_{H}^{(tot,nc)} becomes two times the usual Hall conductivity for an
+noninteracting mixing system.
+\\

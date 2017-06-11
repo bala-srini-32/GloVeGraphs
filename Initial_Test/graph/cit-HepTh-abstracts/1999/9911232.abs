@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9911232
+From: Rafael I. Nepomechie <nepomechie@physics.miami.edu>
+Date: Mon, 29 Nov 1999 18:47:22 GMT   (6kb)
+Date (revised v2): Mon, 13 Dec 1999 15:34:35 GMT   (6kb)
+
+Title: Nonstandard coproducts and the Izergin-Korepin open spin chain
+Authors: Rafael I. Nepomechie
+Comments: 7 pages, LaTeX; v2 has one additional sentence on the degeneracy
+  pattern
+Report-no: UMTG-220
+Subj-class: High Energy Physics - Theory; Exactly Solvable and Integrable
+  Systems
+Journal-ref: J.Phys. A33 (2000) L21-L26
+\\
+  Corresponding to the Izergin-Korepin (A_2^(2)) R matrix, there are three
+diagonal solutions (``K matrices'') of the boundary Yang-Baxter equation. Using
+these R and K matrices, one can construct transfer matrices for open integrable
+quantum spin chains. The transfer matrix corresponding to the identity matrix
+K=1 is known to have U_q(o(3)) symmetry. We argue here that the transfer
+matrices corresponding to the other two K matrices also have U_q(o(3))
+symmetry, but with a nonstandard coproduct. We briefly explore some of the
+consequences of this symmetry.
+\\

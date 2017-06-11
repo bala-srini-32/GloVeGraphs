@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9601138
+From: Claudio Emmrich <cemm@phyq1.physik.uni-freiburg.de>
+Date: Thu, 25 Jan 1996 11:40:13 +0100 (MEZ)   (9kb)
+
+Title: Multicomponent WKB and Quantization
+Authors: C. Emmrich, H. R\"omer
+Comments: 10 pages, latex
+Report-no: HEPTH-96/2
+Journal-ref: Acta Phys.Polon. B27 (1996) 2393-2402
+\\
+  Hamiltonians whose symbols are not simply real valued, but matrix or, more
+generally, endomorphism valued functions appear in many places in physics,
+examples being the Dirac equation, multicomponent wave equations like
+electrodynamics in media, and Yang-Mills theories, and the Born-Oppenheimer
+approximation in molecular physics. The aim of this paper is to give a
+completely geometric approach to the WKB approximation od such systems, and to
+reduce the problem ``as far as possible'' to the scalar case. A star-product
+formulation of quantum mechanics proves to be particularly useful in this
+context. As opposed to other approaches in the literature which restrict
+themselves to the use of the Moyal product and thus to the study of trivial
+bundles (or local trivializations) over $\real^{2n}$, we will consider general
+bundles over arbitrary symplectic manifolds. Here, Fedosov's construction
+\cite{fedosov} will be the adequate tool, since it gives an explicit
+construction for star products in this general setting.
+\\

@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9802003
+From: Tekeshi Oota <toota@yukawa.kyoto-u.ac.jp>
+Date: Mon, 2 Feb 1998 02:42:17 GMT   (9kb)
+
+Title: The Determinant Representation for a Correlation Function in Scaling
+  Lee-Yang Model
+Authors: Vladimir E. Korepin and Takeshi Oota
+Comments: 14 pages, LaTeX, no figures
+Report-no: ITP-SB-98-14, YITP-98-11
+Subj-class: High Energy Physics - Theory; Quantum Algebra; Exactly Solvable and
+  Integrable Systems
+Journal-ref: J.Phys. A31 (1998) L371-L380
+\\
+  We consider the scaling Lee-Yang model. It corresponds to the unique
+perturbation of the minimal CFT model M(2,5). This is not a unitary model. We
+used known expression for form factors in order to obtain a closed expression
+for a correlation function of a trace of energy-momentum tensor. This
+expression is a determinant of an integral operator. Similar determinant
+representation were proven to be useful not only for quantum correlation
+functions but also in matrix models.
+\\

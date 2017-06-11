@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9511005
+From: Carlos Aragao <aragao@if.ufrj.br>
+Date: Wed, 1 Nov 1995 15:07:32 -0200   (13kb)
+Date (revised): Fri, 3 Nov 1995 13:14:14 -0200
+
+Title: Tunnelings as Catastrophes
+Authors: C.A.A. de Carvalho and R.M. Cavalcanti
+Comments: 5 pages, revtex, 5 figures, uuencoded tar-compressed
+\\
+  We use path-integrals to derive a general expression for the semiclassical
+approximation to the partition function of a one-dimensional quantum-mechanical
+system. Our expression depends solely on ordinary integrals which involve the
+potential. For high temperatures, the semiclassical expression is dominated by
+single closed paths. As we lower the temperature, new closed paths appear,
+including tunneling paths. The transition from single to multiple-path regime
+corresponds to well-defined catastrophes. Tunneling sets in whenever they
+occur. (Our formula fully accounts for this feature.)
+\\

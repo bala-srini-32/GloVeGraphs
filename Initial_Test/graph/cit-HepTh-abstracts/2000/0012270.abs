@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0012270
+From: Naoki Sasakura <naokisa@stanford.edu>
+Date: Fri, 29 Dec 2000 23:58:41 GMT   (11kb)
+Date (revised v2): Tue, 9 Jan 2001 20:09:26 GMT   (11kb)
+Date (revised v3): Fri, 9 Feb 2001 19:37:26 GMT   (11kb)
+
+Title: Low-energy propagation modes on string network
+Authors: Naoki Sasakura (YITP, Kyoto Univ.)
+Comments: LaTeX, 10 pages, 3 figures, a wrong factor corrected
+Report-no: SU-ITP 00-37, YITP-00-72
+Journal-ref: JHEP 0102 (2001) 033
+\\
+  We study low-energy propagation modes on string network lattice.
+Specifically, we consider an infinite two-dimensional regular hexagonal string
+network and analyze the low frequency propagation modes on it. The fluctuation
+modes tangent to the two-dimensional plane respect the spatial rotational
+symmetry on the plane, and are described by Maxwell theory. The gauge symmetry
+comes from the marginal deformation of changing the sizes of the loops of the
+lattice. The effective Lorentz symmetry respected at low energy will be
+violated at high energy.
+\\

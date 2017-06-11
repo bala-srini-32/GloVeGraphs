@@ -1,0 +1,38 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0205256
+From: Malte HENKEL <henkel@lpm.u-nancy.fr>
+Date: Fri, 24 May 2002 16:47:50 GMT   (150kb)
+Date (revised v2): Wed, 26 Jun 2002 20:42:33 GMT   (151kb)
+Date (revised v3): Mon, 29 Jul 2002 13:37:18 GMT   (151kb)
+
+Title: Phenomenology of local scale invariance: from conformal invariance to
+  dynamical scaling
+Author: Malte Henkel
+Comments: Latex, 73 pages, with 9 figures. Minor corrections, final form
+Subj-class: High Energy Physics - Theory; Mathematical Physics
+Journal-ref: Nucl. Phys. B641, 405-486 (2002)
+\\
+  Statistical systems displaying a strongly anisotropic or dynamical scaling
+behaviour are characterized by an anisotropy exponent theta or a dynamical
+exponent z. For a given value of theta, we construct local scale
+transformations which can be viewed as scale transformations with a
+space-time-dependent dilatation factor. Two distinct types of local scale
+transformations are found. The first type may describe strongly anisotropic
+scaling of static systems with a given value of theta, whereas the second type
+may describe dynamical scaling with a dynamical exponent z. Local scale
+transformations act as a dynamical symmetry group of certain non-local
+free-field theories. Known special cases of local scale invariance are
+conformal invariance for theta=1 and Schrodinger invariance for theta=2. The
+hypothesis of local scale invariance implies that two-point functions of
+quasiprimary operators satisfy certain linear fractional differential
+equations, which are constructed from commuting fractional derivatives. The
+explicit solution of these yields exact expressions for two-point correlators
+at equilibrium and for two-point response functions out of equilibrium.
+Aparticularly simple and general form is found for the two-time autoresponse
+function. These predictions are explicitly confirmed at the uniaxial Lifshitz
+points in the ANNNI and ANNNS models and in the aging behaviour of simple
+ferromagnets such as the kinetic Glauber-Ising model and the kinetic spherical
+model with a non-conserved order parameter undergoing either phase-ordering
+kinetics or non-equilibrium critical dynamics.
+\\

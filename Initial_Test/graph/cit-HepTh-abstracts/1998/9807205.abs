@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9807205
+From: Ofer Aharony <oferah@physics.rutgers.edu>
+Date: Tue, 28 Jul 1998 15:34:27 GMT   (14kb)
+
+Title: Anti-de Sitter Space and the Center of the Gauge Group
+Authors: Ofer Aharony and Edward Witten
+Comments: 14 pages, harvmac
+Report-no: IASSNS-HEP-98/66, RU-98-34
+Journal-ref: JHEP 9811 (1998) 018
+\\
+  Upon compactification on a circle, SU(N) gauge theory with all fields in the
+adjoint representation acquires a $Z_N$ global symmetry because the center of
+the gauge group is $Z_N$. For N=4 super Yang-Mills theory, we show how this
+$Z_N$ "topological symmetry" arises in the context of the AdS/CFT
+correspondence, and why the symmetry group is $Z_N$ rather than U(1). This
+provides a test of the AdS/CFT correspondence for finite N. If the theory is
+formulated on $R^3 \times S^1$ with anti-periodic boundary conditions for
+fermions around the $S^1$, the topological symmetry is spontaneously broken; we
+show that the domain walls are D-strings, and hence that flux tubes associated
+with magnetic confinement can end on the domain walls associated with the
+topological symmetry. For the (0,2) $A_{N-1}$ superconformal field theory in
+six dimensions, we demonstrate an analogous phenomenon: a $Z_N$ global symmetry
+group arises if this theory is compactified on a Riemann surface. In this case,
+the domain walls are M-theory membranes.
+\\

@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0103195
+From: Daniel Litim <Daniel.Litim@cern.ch>
+Date: Thu, 22 Mar 2001 20:08:54 GMT   (71kb)
+Date (revised v2): Fri, 3 Aug 2001 16:47:00 GMT   (73kb)
+
+Title: Optimised Renormalisation Group Flows
+Author: Daniel F. Litim
+Comments: 35 pages, 3 figures, explanations and two references added, abstract
+  streamlined, to appear in PRD
+Report-no: CERN-TH-2001-084
+Journal-ref: Phys.Rev. D64 (2001) 105007
+\\
+  We study the optimisation of exact renormalisation group (ERG) flows. We
+explain why the convergence of approximate solutions towards the physical
+theory is optimised by appropriate choices of the regularisation. We consider
+specific optimised regulators for bosonic and fermionic fields and compare the
+optimised ERG flows with generic ones. This is done up to second order in the
+derivative expansion at both vanishing and non-vanishing temperature. We find
+that optimised flows at finite temperature factorise. This corresponds to the
+disentangling of thermal and quantum fluctuations. A similar factorisation is
+found at second order in the derivative expansion. The corresponding optimised
+flow for a ``proper-time renormalisation group'' is also provided to leading
+order in the derivative expansion.
+\\

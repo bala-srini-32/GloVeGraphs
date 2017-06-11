@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0212208
+From: Joseph A. Minahan <joseph.minahan@teorfys.uu.se>
+Date: Tue, 17 Dec 2002 20:01:42 GMT   (36kb)
+Date (revised v2): Wed, 15 Jan 2003 19:01:09 GMT   (36kb)
+Date (revised v3): Mon, 10 Mar 2003 16:12:46 GMT   (36kb)
+
+Title: The Bethe-Ansatz for N=4 Super Yang-Mills
+Authors: J. A. Minahan and K. Zarembo (Uppsala)
+Comments: 35 pages, 3 figures, LaTeX; v2 references added, typos corrected,
+  \Lambda fixed; v3 expanded discussion of higher loops in conclusion, matches
+  published version
+Report-no: UUITP-17/02, ITEP-TH-73/02
+\\
+  We derive the one loop mixing matrix for anomalous dimensions in N=4 Super
+Yang-Mills. We show that this matrix can be identified with the Hamiltonian of
+an integrable SO(6) spin chain with vector sites. We then use the Bethe ansatz
+to find a recipe for computing anomalous dimensions for a wide range of
+operators. We give exact results for BMN operators with two impurities and
+results up to and including first order 1/J corrections for BMN operators with
+many impurities. We then use a result of Reshetikhin's to find the exact
+one-loop anomalous dimension for an SO(6) singlet in the limit of large bare
+dimension. We also show that this last anomalous dimension is proportional to
+the square root of the string level in the weak coupling limit.
+\\

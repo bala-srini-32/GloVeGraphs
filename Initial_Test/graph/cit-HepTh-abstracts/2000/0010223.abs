@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0010223
+From: Peter Mayr <peter.mayr@cern.ch>
+Date: Wed, 25 Oct 2000 22:58:36 GMT   (43kb)
+Date (revised v2): Thu, 2 Nov 2000 22:29:36 GMT   (49kb)
+Date (revised v3): Fri, 9 Mar 2001 09:10:31 GMT   (49kb)
+
+Title: Phases of Supersymmetric D-branes on Kaehler Manifolds and the McKay
+  correspondence
+Authors: P. Mayr
+Comments: 46 pages, harvmac (b), 3 figures, typos corrected
+Report-no: CERN-TH/2000-315
+Journal-ref: JHEP 0101 (2001) 018
+\\
+  We study the topological zero mode sector of type II strings on a K\"ahler
+manifold $X$ in the presence of boundaries. We construct two finite bases, in a
+sense bosonic and fermionic, that generate the topological sector of the
+Hilbert space with boundaries. The fermionic basis localizes on compact
+submanifolds in $X$. A variation of the FI terms interpolates between the
+description of these ground states in terms of the ring of chiral fields at the
+boundary at small volume and helices of exceptional sheaves at large volume,
+respectively. The identification of the bosonic/fermionic basis with the dual
+bases for the non-compact/compact K-theory group on $X$ gives a natural
+explanation of the McKay correspondence in terms of a linear sigma model and
+suggests a simple generalization of McKay to singular resolutions. The
+construction provides also a very effective way to describe D-brane states on
+generic, compact Calabi--Yau manifolds and allows to recover detailed
+information on the moduli space, such as monodromies and analytic continuation
+matrices, from the group theoretical data of a simple orbifold.
+\\

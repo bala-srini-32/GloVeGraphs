@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0207050
+From: Mohammad Sheikh-Jabbari <jabbari@itp.stanford.edu>
+Date: Fri, 5 Jul 2002 19:54:00 GMT   (62kb)
+Date (revised v2): Sun, 7 Jul 2002 19:40:41 GMT   (68kb)
+Date (revised v3): Wed, 10 Jul 2002 19:19:47 GMT   (71kb)
+
+Title: Protected Multiplets of M-Theory on a Plane Wave
+Authors: Keshav Dasgupta, Mohammad M. Sheikh-Jabbari, Mark Van Raamsdonk
+Comments: Latex file, 30 eps figures, 42 pages. v3: Minor corrections in
+  section 7
+Report-no: SU-ITP-02/29
+Journal-ref: JHEP 0209 (2002) 021
+\\
+  We show that the symmetry algebra governing the interacting part of the
+matrix model for M-theory on the maximally supersymmetric pp-wave is the basic
+classical Lie superalgebra SU(4|2). We determine the SU(4|2) multiplets present
+in the exact spectrum in the limit where \mu (the mass parameter) becomes
+infinite, and find that these include infinitely many BPS multiplets. Using the
+representation theory of SU(4|2), we demonstrate that some of these BPS
+multiplets, including all of the vacuum states of the matrix model plus certain
+infinite towers of excited states, have energies which are exactly protected
+non-perturbatively for any value of \mu > 0. In the large N limit, these lead
+to exact quantum states of M-theory on the pp-wave. We also show explicitly
+that there are certain BPS multiplets which do receive energy corrections by
+combining with other BPS multiplets to form ordinary multiplets.
+\\

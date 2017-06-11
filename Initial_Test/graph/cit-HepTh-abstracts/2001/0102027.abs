@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0102027
+From: John F. Tighe <jft@hep.phys.soton.ac.uk>
+Date: Tue, 6 Feb 2001 11:52:40 GMT   (12kb)
+
+Title: Convergence of derivative expansions in scalar field theory
+Authors: Tim R. Morris and John F. Tighe
+Comments: 6 pages, 3 figures, presented at the 2nd Conference on the Exact RG,
+  Rome 2000
+Report-no: SHEP 01-06
+Journal-ref: Int.J.Mod.Phys. A16 (2001) 2095-2100
+\\
+  The convergence of the derivative expansion of the exact renormalisation
+group is investigated via the computation of the beta function of massless
+scalar lambda phi^4 theory. The derivative expansion of the Polchinski flow
+equation converges at one loop for certain fast falling smooth cutoffs.
+Convergence of the derivative expansion of the Legendre flow equation is
+trivial at one loop, but also can occur at two loops and in particular
+converges for an exponential cutoff.
+\\

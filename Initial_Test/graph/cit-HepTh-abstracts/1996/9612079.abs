@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9612079
+From: zack@puhep1.Princeton.EDU (Zachary Guralnik)
+Date: Sat, 7 Dec 1996 16:22:34 -0500   (35kb)
+
+Title: Theta Vacua and Boundary Conditions of the Schwinger Dyson Equations
+Authors: S. Garcia, G. Guralnik and Z. Guralnik
+Comments: 32 pages, Latex, 3 figures
+Report-no: PUPT-1670, MIT-CTP-2582
+\\
+  Quantum field theories and Matrix models have a far richer solution set than
+is normally considered, due to the many boundary conditions which must be set
+to specify a solution of the Schwinger-Dyson equations. The complete set of
+solutions of these equations is obtained by generalizing the path integral to
+include sums over various inequivalent contours of integration in the complex
+plane. We discuss the importance of these exotic solutions. While naively the
+complex contours seem perverse, they are relevant to the study of theta vacua
+and critical phenomena. Furthermore, it can be shown that within certain phases
+of many theories, the physical vacuum does not correspond to an integration
+over a real contour. We discuss the solution set for the special case of one
+component zero dimensional scalar field theories, and make remarks about matrix
+models and higher dimensional field theories that will be developed in more
+detail elsewhere. Even the zero dimensional examples have much structure, and
+show some analogues of phenomena which are usually attributed to the effects of
+taking a thermodynamic limit.
+\\

@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0202011
+From: Fernando Ruiz <t63@aeneas.fis.ucm.es>
+Date: Fri, 1 Feb 2002 19:09:23 GMT   (72kb)
+Date (revised v2): Mon, 27 May 2002 09:49:18 GMT   (73kb)
+
+Title: UV/IR mixing and the Goldstone theorem in noncommutative field theory
+Authors: F. Ruiz Ruiz
+Comments: 30 pages, 7 eps figures. V2: references added
+Report-no: UCM-FT/2002-13-0
+Journal-ref: Nucl.Phys. B637 (2002) 143-167
+\\
+  Noncommutative IR singularities and UV/IR mixing in relation with the
+Goldstone theorem for complex scalar field theory are investigated. The
+classical model has two coupling constants, $\lambda_1$ and $\lambda_2$,
+associated to the two noncommutative extensions
+$\phi^*\star\phi\star\phi^*\star\phi$ and $\phi^*\star\phi^*\star\phi\star\phi$
+of the interaction term $|\phi|^4$ on commutative spacetime. It is shown that
+the symmetric phase is one-loop renormalizable for all $\lambda_1$ and
+$\lambda_2$ compatible with perturbation theory, whereas the broken phase is
+proved to exist at one loop only if $\lambda_2=0$, a condition required by the
+Ward identities for global U(1) invariance. Explicit expressions for the
+noncommutative IR singularities in the 1PI Green functions of both phases are
+given. They show that UV/IR duality does not hold for any of the phases and
+that the broken phase is free of quadratic noncommutative IR singularities.
+More remarkably, the pion selfenergy does not have noncommutative IR
+singularities at all, which proves essential to formulate the Goldstone theorem
+at one loop for all values of the spacetime noncommutativity parameter
+$\theta$.
+\\

@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0003144
+From: Marty Stock <mstock@MIT.EDU>
+Date: Thu, 16 Mar 2000 18:10:21 GMT   (515kb)
+Date (revised v2): Sun, 18 Jun 2000 16:44:21 GMT   (542kb)
+Date (revised v3): Thu, 6 Jul 2000 18:33:07 GMT   (542kb)
+
+Title: Heavy Fermion Stabilization of Solitons in 1+1 Dimensions
+Authors: E. Farhi, N. Graham, R. L. Jaffe and H. Weigel
+Comments: 27 papes Latex, equation labels corrected, version to be published in
+  Nucl. Phys. B
+Report-no: MIT-CTP # 2950
+Journal-ref: Nucl.Phys. B585 (2000) 443
+\\
+  We find static solitons stabilized by quantum corrections in a
+(1+1)-dimensional model with a scalar field chirally coupled to fermions. This
+model does not support classical solitons. We compute the renormalized energy
+functional including one-loop quantum corrections. We carry out a variational
+search for a configuration that minimizes the energy functional. We find a
+nontrivial configuration with fermion number whose energy is lower than the
+same number of free fermions quantized about the translationally invariant
+vacuum. In order to compute the quantum corrections for a given background
+field we use a phase-shift parameterization of the Casimir energy. We identify
+orders of the Born series for the phase shift with perturbative Feynman
+diagrams in order to renormalize the Casimir energy using perturbatively
+determined counterterms. Generalizing dimensional regularization, we
+demonstrate that this procedure yields a finite and unambiguous energy
+functional.
+\\

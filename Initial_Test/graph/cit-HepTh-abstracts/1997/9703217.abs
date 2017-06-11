@@ -1,0 +1,41 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9703217
+From: Akikazu Hashimoto <aki@puhep1.princeton.edu>
+Date: Sun, 30 Mar 1997 15:51:17 MST   (29kb)
+Date (revised): Sun, 30 Mar 1997 22:08:50 MST
+Date (revised): Mon, 14 Apr 1997 14:17:23 MDT
+Date (revised): Fri, 30 May 1997 17:01:15 MDT
+
+Title: Fluctuation Spectra of Tilted and Intersecting D-branes from the
+  Born-Infeld Action
+Authors: Akikazu Hashimoto and Washington Taylor IV
+Comments: LaTeX, 28 pages, 7 eps figures. Uses psfig.sty, available from
+  http://xxx.lanl.gov/ftp/hep-th/papers/macros/psfig.sty Discussion of
+  symmetrized trace prescription in non-abelian Born-Infeld action clarified.
+  Comment regarding relation to relativistic D-brane scattering extended.
+  References added. More references added
+Report-no: PUPT-1693
+Journal-ref: Nucl.Phys. B503 (1997) 193-219
+\\
+  We consider the spectra of excitations around diagonal and intersecting
+D-brane configurations on tori. These configurations are described by constant
+curvature connections in a dual gauge theory description. The low-energy string
+fluctuation spectrum is reproduced exactly by the gauge theory in the case of
+vanishing field strength; however, this correspondence breaks down for fixed
+nonzero field strength. We show that in many cases the full Born-Infeld action
+correctly captures the low-energy spectrum in the case of non-vanishing field
+strength. This gives a field theory description of the low-energy physics of
+systems of diagonally wound branes and branes at angles as considered by
+Berkooz, Douglas and Leigh. This description extends naturally to
+non-supersymmetric configurations, where the tachyonic instability associated
+with brane-anti-brane systems appears as an instability around a saddle point
+solution of the corresponding Yang-Mills/Born-Infeld theory. In some cases, the
+field theory description requires a non-abelian generalization of the
+Born-Infeld action. We follow Tseytlin's recent proposal for formulating such
+an action. In the case of intersecting branes, the non-abelian Born-Infeld
+theory produces a transcendental relation which comes tantalizingly close to
+reproducing the correct spectrum; however, a discrepancy remains which
+indicates that a further clarification of the non-abelian Born-Infeld action
+may be necessary.
+\\

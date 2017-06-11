@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9504101
+From: COLATTO LUIZ PAULO <colatto@ictp.trieste.it>
+Date: Thu, 20 Apr 1995 13:49:19 +0200   (10kb)
+Date (revised): Mon, 23 Oct 1995 15:23:18 +0100
+Date (revised): Tue, 24 Oct 1995 15:25:22 +0100
+
+Title: On q-Deformed Supersymmetric Classical Mechanical Models
+Author: L. P. Colatto and J. L. Matheus-Valle
+Comments: No figures, 14 pages, Latex, revised version
+Report-no: ICTP preprint IC/95/96
+Journal-ref: J.Math.Phys. 37 (1996) 6121-6129
+\\
+  Based on the idea of quantum groups and paragrassmann variables, we presenta
+generalization of supersymmetric classical mechanics with a deformation
+parameter $q= \exp{\frac{2 \pi i}{k}}$ dealing with the $k =3$ case. The
+coordinates of the $q$-superspace are a commuting parameter $t$ and a
+paragrassmann variable $\theta$, where $% \theta^3 = 0$. The generator and
+covariant derivative are obtained, as well as the action for some possible
+superfields.
+\\

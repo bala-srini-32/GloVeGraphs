@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0006079
+From: Guendel Eduardo <guendel@bgumail.bgu.ac.il>
+Date: Mon, 12 Jun 2000 10:29:22 GMT   (13kb)
+Date (revised v2): Tue, 4 Jul 2000 09:44:55 GMT   (13kb)
+
+Title: Superextendons with a modified measure
+Author: E.I. Guendelman
+Comments: typos corrected, references added
+Journal-ref: Phys.Rev. D63 (2001) 046006
+\\
+  For superstrings, the consequences of replacing the measure of integration
+$\sqrt{-\gamma}d^2 x$ in the Polyakov's action by $\Phi d^2 x$ where $\Phi$ is
+a density built out of degrees of freedom independent of the metric
+$\gamma_{ab}$ defined in the string are studied. As in Siegel reformulation of
+the Green Schwarz formalism the Wess-Zumino term is the square of
+supersymmetric currents. As opposed to the Siegel case, the compensating fields
+needed for this do not enter into the action just as in a total derivative.
+They instead play a crucial role to make up a consistent dynamics. The string
+tension appears as an integration constant of the equations of motion. The
+generalization to higher dimensional extended objects is also studied using in
+this case the Bergshoeff and Sezgin formalism with the associated additional
+fields, which again are dynamically relevant unlike the standard formulation.
+Also unlike the standard formulation, there is no need of a cosmological term
+on the world brane.
+\\

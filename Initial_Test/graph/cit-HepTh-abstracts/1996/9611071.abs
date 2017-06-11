@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9611071
+From: Will Orrick <worrick@insti.physics.sunysb.edu>
+Date: Mon, 11 Nov 1996 14:02:52 -0500 (EST)   (37kb)
+Date (revised): Thu, 5 Dec 1996 13:11:37 -0500 (EST)
+Date (revised): Tue, 15 Apr 1997 16:16:18 -0400 (EDT)
+
+Title: Single Particle Excitations in the Lattice E_8 Ising Model
+Authors: Barry M. McCoy, William P. Orrick
+Comments: 15 pages, 7 figures, TeX, harvmac, corrected numerical error in
+  figures 6 and 7
+Report-no: ITPSB 96-63
+Journal-ref: Phys.Lett. A230 (1997) 24-32
+\\
+  We present analytic expressions for the single particle excitation energies
+of the 8 quasi-particles in the lattice $E_8$ Ising model and demonstrate that
+all excitations have an extended Brillouin zone which, depending on the
+excitation, ranges from 0<P < 4\pi to 0< P< 12 \pi. These are compared with
+exact diagonalizations for systems through size 10 and with the E_8 fermionic
+representations of the characters of the critical system in order to study the
+counting statistics.
+\\

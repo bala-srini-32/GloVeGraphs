@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9511226
+From: Peter Haagensen <haagense@hep.physics.mcgill.ca>
+Date: Thu, 30 Nov 1995 15:32:37 -0500 (EST)   (19kb)
+
+Title: Gauge Invariant Geometric Variables For Yang-Mills Theory
+Authors: Peter E. Haagensen, Kenneth Johnson and C.S. Lam
+Comments: 21 pp. in plain TeX. Uses harvmac.tex
+Report-no: CTP#2492, McGill-95/60
+Journal-ref: Nucl.Phys. B477 (1996) 273-292
+\\
+  In a previous publication [1], local gauge invariant geometric variables were
+introduced to describe the physical Hilbert space of Yang-Mills theory. In
+these variables, the electric energy involves the inverse of an operator which
+can generically have zero modes, and thus its calculation is subtle. In the
+present work, we resolve these subtleties by considering a small deformation in
+the definition of these variables, which in the end is removed. The case of
+spherical configurations of the gauge invariant variables is treated in detail,
+as well as the inclusion of infinitely heavy point color sources, and the
+expression for the associated electric field is found explicitly. These
+spherical geometries are seen to correspond to the spatial components of
+instanton configurations. The related geometries corresponding to Wu-Yang
+monopoles and merons are also identified.
+\\

@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0112068
+From: "Iver H. Brevik" <iver.h.brevik@mtf.ntnu.no>
+Date: Mon, 10 Dec 2001 09:55:24 GMT   (22kb)
+Date (revised v2): Sat, 30 Mar 2002 14:52:51 GMT   (22kb)
+
+Title: Thermodynamic Properties of the 2N-Piece Relativistic String
+Authors: Iver Brevik, Andrei A. Bytsenko and Roger Sollie
+Comments: 15 pages, LaTeX, 2 figures. Discussion in section 8 expanded
+Journal-ref: J.Math.Phys. 44 (2003) 1044-1055
+\\
+  The thermodynamic free energy F(\beta) is calculated for a gas consisting of
+the transverse oscillations of a piecewise uniform bosonic string. The string
+consists of 2N parts of equal length, of alternating type I and type II
+material, and is relativistic in the sense that the velocity of sound
+everywhere equals the velocity of light. The present paper is a continuation of
+two earlier papers, one dealing with the Casimir energy of a 2N--piece string
+[I. Brevik and R. Sollie (1997)], and another dealing with the thermodynamic
+properties of a string divided into two (unequal) parts [I. Brevik, A. A.
+Bytsenko and H. B. Nielsen (1998)]. Making use of the Meinardus theorem we
+calculate the asymptotics of the level state density, and show that the
+critical temperatures in the individual parts are equal, for arbitrary
+spacetime dimension D. If D=26, we find \beta= (2/N)\sqrt{2\pi /T_{II}}, T_{II}
+being the tension in part II. Thermodynamic interactions of parts related to
+high genus g is also considered.
+\\

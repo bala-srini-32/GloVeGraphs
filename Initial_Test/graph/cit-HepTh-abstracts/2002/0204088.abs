@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0204088
+From: Michele Caselle <caselle@to.infn.it>
+Date: Wed, 10 Apr 2002 15:20:04 GMT   (13kb)
+Date (revised v2): Tue, 11 Jun 2002 15:39:57 GMT   (14kb)
+
+Title: Finite temperature corrections in 2d integrable models
+Authors: M. Caselle and M. Hasenbusch
+Comments: 16 pages, LaTex, no figures, v2: references added, to appear in Nucl.
+  Phys. B
+Report-no: DFTT 10/02, DESY 02-042
+Subj-class: High Energy Physics - Theory; Statistical Mechanics
+Journal-ref: Nucl.Phys. B639 (2002) 549-561
+\\
+  We study the finite size corrections for the magnetization and the internal
+energy of the 2d Ising model in a magnetic field by using transfer matrix
+techniques. We compare these corrections with the functional form recently
+proposed by Delfino and LeClair-Mussardo for the finite temperature behaviour
+of one-point functions in integrable 2d quantum field theories. We find a
+perfect agreement between theoretical expectations and numerical results.
+Assuming the proposed functional form as an input in our analysis we obtain a
+relevant improvement in the precision of the continuum limit estimates of both
+quantities.
+\\

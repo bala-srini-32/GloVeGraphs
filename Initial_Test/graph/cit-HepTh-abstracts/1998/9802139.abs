@@ -1,0 +1,35 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9802139
+From: "Shin'ichi NOJIRI (2200)" <nojiri@cmr4w1.cc.nda.ac.jp>
+Date: Fri, 20 Feb 1998 04:32:21 GMT   (77kb)
+Date (revised v2): Sat, 6 Jun 1998 17:14:54 GMT   (78kb)
+
+Title: Quantum cosmology in the models of 2d and 4d dilatonic supergravity with
+  WZ matter
+Authors: S. James Gates, Jr., Tomoko Kadoyoshi, Shin'ichi Nojiri and Sergei D.
+  Odintsov
+Comments: LaTeX file of the text (36 pages) and 3 ps files of 14 figures, few
+  misprints are corrected and references added
+Report-no: OCHA-PP-114, NDA-FP-45
+Journal-ref: Phys.Rev. D58 (1998) 084026
+\\
+  We consider N=1 two-dimensional (2d) dilatonic supergravity (SG), 2d
+dilatonic SG obtained by dimensional reduction from N=1 four-dimensional (4d)
+SG, N=2 2d dilatonic SG and string-inspired 4d dilatonic SG. For all the
+theories, the corresponding action on a bosonic background is constructed and
+the interaction with $N$ (dilatonic) Wess-Zumino (WZ) multiplets is presented.
+Working in the large-N approximation, it is enough to consider the trace
+anomaly induced effective action due to dilaton-coupled conformal matter as a
+quantum correction (for 2d models s-waves approximation is additionally used).
+The equations of motion for all such models with quantum corrections are
+written in a form convenient for numerical analysis. Their solutions are
+numerically investigated for 2d and 4d Friedmann-Robertson-Walker (FRW) or 4d
+Kantowski-Sacks Universes with a time-dependent dilaton via exponential dilaton
+coupling. The evolution of the corresponding quantum cosmological models is
+given for different choices of initial conditions and theory parameters. In
+most cases we find quantum singular Universes. Nevertheless, there are examples
+of Universe non-singular at early times. Hence, it looks unlikely that quantum
+matter back reaction on dilatonic background (at least in large $N$
+approximation) may really help to solve the singularity problem.
+\\

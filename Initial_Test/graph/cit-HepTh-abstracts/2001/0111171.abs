@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0111171
+From: Karel Van Acoleyen <karel.vanacoleyen@rug.ac.be>
+Date: Tue, 20 Nov 2001 15:05:45 GMT   (15kb)
+Date (revised v2): Thu, 22 Nov 2001 13:03:44 GMT   (15kb)
+
+Title: Dynamical mass generation by source inversion: Calculating the mass gap
+  of the Gross-Neveu model
+Authors: K. Van Acoleyen and H. Verschelde
+Comments: 13 pages, 3 figures, added reference
+Journal-ref: Phys.Rev. D65 (2002) 085006
+\\
+  We probe the U(N) Gross-Neveu model with a source-term $J\bar{\Psi}\Psi$. We
+find an expression for the renormalization scheme and scale invariant source
+$\hat{J}$, as a function of the generated mass gap. The expansion of this
+function is organized in such a way that all scheme and scale dependence is
+reduced to one single parameter d. We get a non-perturbative mass gap as the
+solution of $\hat{J}=0$. In one loop we find that any physical choice for d
+gives good results for high values of N. In two loops we can determine d
+self-consistently by the principle of minimal sensitivity and find remarkably
+accurate results for N>2.
+\\

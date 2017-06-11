@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0108226
+From: Hiroaki Kanno <kanno@math.nagoya-u.ac.jp>
+Date: Thu, 30 Aug 2001 10:15:28 GMT   (15kb)
+Date (revised v2): Thu, 6 Sep 2001 07:01:24 GMT   (16kb)
+Date (revised v3): Thu, 29 Nov 2001 02:03:50 GMT   (16kb)
+
+Title: On Spin(7) holonomy metric based on SU(3)/U(1)
+Authors: Hiroaki Kanno and Yukinori Yasui
+Comments: 21 pages, Latex, Introduction slightly expanded, an error in section
+  6 corrected and references added, (v3) minor corrections
+Journal-ref: J.Geom.Phys. 43 (2002) 293-309
+\\
+  We investigate the $Spin(7)$ holonomy metric of cohomogeneity one with the
+principal orbit $SU(3)/U(1)$. A choice of U(1) in the two dimensional Cartan
+subalgebra is left as free and this allows manifest $\Sigma_3=W(SU(3))$ (= the
+Weyl group) symmetric formulation. We find asymptotically locally conical (ALC)
+metrics as octonionic gravitational instantons. These ALC metrics have orbifold
+singularities in general, but a particular choice of the U(1) subgroup gives a
+new regular metric of $Spin(7)$ holonomy. Complex projective space ${\bf
+CP}(2)$ that is a supersymmetric four-cycle appears as a singular orbit. A
+perturbative analysis of the solution near the singular orbit shows an evidence
+of a more general family of ALC solutions. The global topology of the manifold
+depends on a choice of the U(1) subgroup. We also obtain an $L^2$-normalisable
+harmonic 4-form in the background of the ALC metric.
+\\

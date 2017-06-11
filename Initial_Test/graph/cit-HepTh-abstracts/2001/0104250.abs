@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0104250
+From: Anatoly Dymarsky <dymarsky@gate.itep.ru>
+Date: Sun, 29 Apr 2001 11:49:21 GMT   (8kb)
+
+Title: Noncommutative field theory in formalism of first quantization
+Authors: A.Dymarsky
+Comments: LaTeX, 6 pages
+Report-no: ITEP-TH-20/01
+Journal-ref: Phys.Lett. B527 (2002) 125-130
+\\
+  We present a first-quantized formulation of the quadratic non-commutative
+field theory in the background of abelian (gauge) field. Even in this simple
+case the Hamiltonian of a propagating particle depends non-trivially on the
+momentum (since external fields depend on location of the Landau orbit) so that
+one can not integrate out momentum to obtain a local theory in the second order
+formalism. The cases of scalar and spinning particles are considered. A
+representation for exact propagators is found and the result is applied to
+description of the Schwinger-type processes (pair-production in homogenous
+external field).
+\\

@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9910103
+From: Dean Lee <dlee@het2.physics.umass.edu>
+Date: Wed, 13 Oct 1999 20:19:27 GMT   (284kb)
+Date (revised v2): Fri, 15 Oct 1999 19:43:32 GMT   (284kb)
+Date (revised v3): Thu, 20 Jan 2000 18:50:01 GMT   (287kb)
+
+Title: Modal expansions and non-perturbative quantum field theory in Minkowski
+  space
+Authors: Nathan Salwen (Harvard U.), Dean Lee (UMass Amherst)
+Comments: new material added, 12 pages, 6 figures
+Journal-ref: Phys. Rev. D62 (2000) 025006
+\\
+  We introduce a spectral approach to non-perturbative field theory within the
+periodic field formalism. As an example we calculate the real and imaginary
+parts of the propagator in 1+1 dimensional phi^4 theory, identifying both
+one-particle and multi-particle contributions. We discuss the computational
+limits of existing diagonalization algorithms and suggest new quasi-sparse
+eigenvector methods to handle very large Fock spaces and higher dimensional
+field theories.
+\\

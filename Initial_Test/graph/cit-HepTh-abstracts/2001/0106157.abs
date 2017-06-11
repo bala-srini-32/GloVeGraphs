@@ -1,0 +1,36 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0106157
+From: Itzhak Bars <bars@physics1.usc.edu>
+Date: Mon, 18 Jun 2001 16:44:06 GMT   (8kb)
+Date (revised v2): Thu, 28 Jun 2001 08:10:10 GMT   (9kb)
+Date (revised v3): Tue, 24 Jul 2001 19:10:52 GMT   (12kb)
+Date (revised v4): Tue, 4 Sep 2001 02:47:37 GMT   (12kb)
+
+Title: Map of Witten's * to Moyal's *
+Authors: Itzhak Bars
+Comments: Revised version contains a discussion of midpoint ambiguity and its
+  relation to odd versus even modes in the split string formalism. Also a
+  generating formula for explicit computations is included. Signs and powers in
+  eqs.53-57 are corrected (wrong in published version in Phys. Lett.)
+Report-no: CITUSC/01-024, NSF-ITP-01-70
+Journal-ref: Phys.Lett. B517 (2001) 436-444
+\\
+  It is shown that Witten's star product in string field theory, defined as the
+overlap of half strings, is equivalent to the Moyal star product involving the
+relativistic phase space of even string modes. The string field A(x[\sigma])
+can be rewritten as a phase space field of the even modes $x_{2n},x_{0},
+p_{2n}$ where $x_{2n}$ are the positions of the even string modes, and $p_{2n}$
+are related to the Fourier space of the odd modes $x_{2n+1}$ up to a linear
+transformation. The $p_{2n}$ play the role of conjugate momenta for the even
+modes $x_{2n}$ under the string star product. The split string formalism is
+used in the intermediate steps to establish the map from Witten's star-product
+to Moyal's star-product. An ambiguity related to the midpoint in the split
+string formalism is clarified by considering odd or even modding for the split
+string modes, and its effect in the Moyal star product formalism is discussed.
+The noncommutative geometry defined in this way is technically similar to the
+one that occurs in noncommutative field theory, but it includes the timelike
+components of the string modes, and is Lorentz invariant. This map could be
+useful to extend the computational methods and concepts from noncommutative
+field theory to string field theory and vice-versa.
+\\

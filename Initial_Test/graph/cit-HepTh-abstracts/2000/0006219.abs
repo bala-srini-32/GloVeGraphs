@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0006219
+From: Spenta Wadia <wadia@theory.tifr.res.in>
+Date: Wed, 28 Jun 2000 15:22:03 GMT   (11kb)
+Date (revised v2): Mon, 14 Aug 2000 12:15:42 GMT   (11kb)
+
+Title: Gauge Theory on a Quantum Phase Space
+Authors: Luis Alvarez-Gaume and Spenta R. Wadia
+Comments: Latex, 13 pages, comments and refs. added
+Report-no: CERN-TH/2000-130, TIFR/TH/00-3
+Journal-ref: Phys.Lett. B501 (2001) 319-325
+\\
+  In this note we present a operator formulation of gauge theories in a quantum
+phase space which is specified by a operator algebra. For simplicity we work
+with the Heisenberg algebra. We introduce the notion of the derivative
+(transport) and Wilson line (parallel transport) which enables us to construct
+a gauge theory in a simple way. We illustrate the formulation by a discussion
+of the Higgs mechanism and comment on the large N masterfield.
+\\

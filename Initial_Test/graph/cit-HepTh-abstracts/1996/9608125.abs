@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9608125
+From: Anselmi Damiano <anselmi@string.harvard.edu>
+Date: Mon, 19 Aug 96 16:48:42 -0400   (13kb)
+Date (revised): Mon, 19 Aug 96 23:14:11 -0400
+Date (revised): Tue, 20 May 97 12:25:54 -0400
+
+Title: Universality of the Operator Product Expansions of SCFT_4
+Authors: D. Anselmi, D.Z. Freedman, M.T. Grisaru and A.A. Johansen
+Comments: LaTeX file, 11 pages, no figure
+Report-no: HUTP-96/A037, MIT-CTP-2560 and BRX-TH-396
+Journal-ref: Phys.Lett. B394 (1997) 329-336
+\\
+  We study the operator product algebra of the supercurrent J and Konishi
+superfield K in four-dimensional supersymmetric gauge theories. The Konishi
+superfield appears in the JJ OPE and the algebra is characterized by two
+central charges c and c' and an anomalous dimension h for K. In free field
+(one-loop) approximation, c~3N_v+N_\chi and c'~N_\chi, where N_v and N_\chi
+are, respectively, the number of vector and chiral multiplets in the theory. In
+higher order c, c' and h depend on the gauge and Yukawa couplings and we obtain
+the two-loop contributions by combining earlier work on c with our own
+calculations of c'. The major result is that the radiative corrections to the
+central charges cancel when the one-loop beta-functions vanish, suggesting that
+c and c' (but not h) are invariant under continuous deformations of
+superconformal theories. The behavior of c and c' along renormalization group
+flows is studied from the viewpoint of a c-theorem.
+\\

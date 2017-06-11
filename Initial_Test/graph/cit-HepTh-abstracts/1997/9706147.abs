@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9706147
+From: "Nikita A.Slavnov" <nslavnov@mi.ras.ru>
+Date: Fri, 20 Jun 1997 20:17:31 +0400 (MSD)   (14kb)
+
+Title: The Riemann-Hilbert problem associated with the quantum Nonlinear
+  Schrodinger equation
+Authors: V. E. Korepin (State University of New York, Stony Brook, USA) and N.
+  A. Slavnov (Steklov Mathematical Institute, Moscow, Russia)
+Comments: 21 pages, Latex, no figures
+Report-no: ITP-SUNY-SB-97-33
+Subj-class: High Energy Physics - Theory; Quantum Algebra; Exactly Solvable and
+  Integrable Systems
+Journal-ref: J.Phys. A30 (1997) 8241-8255
+\\
+  We consider the dynamical correlation functions of the quantum Nonlinear
+Schrodinger equation. In a previous paper we found that the dynamical
+correlation functions can be described by the vacuum expectation value of an
+operator-valued Fredholm determinant. In this paper we show that a
+Riemann-Hilbert problem can be associated with this Fredholm determinant. This
+Riemann-Hilbert problem formulation permits us to write down completely
+integrable equations for the Fredholm determinant and to perform an asymptotic
+analysis for the correlation function.
+\\

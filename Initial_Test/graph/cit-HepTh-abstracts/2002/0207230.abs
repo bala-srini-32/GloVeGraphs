@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0207230
+From: Fidel Schaposnik <fidel@venus.fisica.unlp.edu.ar>
+Date: Thu, 25 Jul 2002 12:53:40 GMT   (14kb)
+
+Title: Finite temperature regularization
+Authors: C.D. Fosco and F.A. Schaposnik
+Comments: 17 pages, LaTeX file
+Journal-ref: Phys.Lett. B547 (2002) 69-78
+\\
+  We present a non-perturbative regularization scheme for Quantum Field
+Theories which amounts to an embedding of the originally unregularized theory
+into a spacetime with an extra compactified dimensions of length L ~
+Lambda^{-1} (with Lambda an ultraviolet cutoff), plus a doubling in the number
+of fields, which satisfy different periodicity conditions and have opposite
+Grassmann parity. The resulting regularized action may be interpreted, for the
+fermionic case, as corresponding to a finite-temperature theory with a
+supersymmetry, which is broken because of the boundary conditions. We test our
+proposal in a perturbative calculation (the vacuum polarization graph for a
+D-dimensional fermionic theory) and in a non-perturbative one (the chiral
+anomaly).
+\\

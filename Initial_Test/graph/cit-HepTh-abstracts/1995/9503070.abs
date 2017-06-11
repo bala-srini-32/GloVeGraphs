@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9503070
+From: vaysburd@tsmi19.sissa.it
+Date: Fri, 10 Mar 1995 18:45:14 +0200   (16kb)
+Date (revised): Tue, 14 Mar 1995 17:28:50 +0200
+Date (revised): Tue, 21 Mar 1995 18:02:41 +0200
+
+Title: Critical RSOS Models in External Fields
+Author: Igor Vaysburd (SISSA)
+Comments: 20 pages, latex (references added)
+Report-no: SISSA-ISAS 150/94/FM
+Journal-ref: Nucl. Phys. B446 (1995) 387
+\\
+  We suggest a new family of unitary RSOS scattering models which is obtained
+by placing the SO(N) critical models in "electric" or "magnetic" field. These
+fields are associated with two operators from the space of the SO(N) RCFT
+corresponding to the highest weight of the vector representation of SO(N). A
+perturbation by the external fields destroys the Weyl group symmetry of an
+original statistical model. We show that the resulting kinks scattering
+theories can be viewed as affine imaginary Toda models for non-simply-laced and
+twisted algebras taken at rational values (roots of unity) of $q$-parameter. We
+construct the fundamental kink $S$-matrices for these models. At the levels
+$k=1, 2, \infty$ our answers match the known results for the Sine-Gordon,
+$Z_{2N}$ - parafermions and free fermions respectively. As a by-product in the
+SO(4)-case we obtain an RSOS $S$-matrix describing an integrable coupling of
+two minimal CFT.
+\\

@@ -1,0 +1,16 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9902178
+From: Nathan Jacob Berkovits <nberkovi@ift.unesp.br>
+Date: Wed, 24 Feb 1999 17:15:35 GMT   (3kb)
+
+Title: A Note on the Superstring BRST Operator
+Authors: J.N. Acosta, N. Berkovits and O. Chandia (IFT/UNESP, Sao Paulo)
+Comments: 4 pages latex
+Report-no: IFT-P.021/99
+Journal-ref: Phys.Lett. B454 (1999) 247-248
+\\
+  We write the BRST operator of the N=1 superstring as $Q= e^{-R} (\oint dz
+\gamma^2 b)e^R$ where $\gamma$ and $b$ are super-reparameterization ghosts.
+This provides a trivial proof that $Q$ is nilpotent.
+\\

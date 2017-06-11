@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9811062
+From: Alexandre Tort <tort@if.ufrj.br>
+Date: Fri, 6 Nov 1998 19:23:26 GMT   (13kb)
+
+Title: QED vacuum between an unusual pair of plates
+Authors: M. V. Cougo-Pinto, C. Farina, F. C. Santos. A. C. Santos
+Comments: Latex, 16 pages, no figures
+Report-no: IF/UFRJ/98/68
+Journal-ref: J.Phys. A32 (1999) 4463-4474
+\\
+  We consider the photon field between an unusual configuration of infinite
+parallel plates: a perfectly conducting plate $(\epsilon\to\infty)$ and an
+infinitely permeable one $\mu\to\infty)$. After quantizing the vector potential
+in the Coulomb gauge, we obtain explicit expressions for the vacuum expectation
+values of field operators of the form $<{\hat E}_i{\hat E}_j>_0$ and $<{\hat
+B}_i{\hat B}_j>_0$. These field correlators allow us to reobtain the Casimir
+effect for this set up and to discuss the light velocity shift caused by the
+presence of plates (Scharnhorst effect \cite{Scharnhorst,Barton,BarScharn}) for
+both scalar and spinor QED.
+\\

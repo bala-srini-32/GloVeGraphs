@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0104074
+From: me next5 <W.Wetzel@ThPhys.Uni-Heidelberg.DE>
+Date: Mon, 9 Apr 2001 10:03:36 GMT   (16kb)
+Date (revised v2): Tue, 13 Nov 2001 11:10:25 GMT   (29kb)
+Date (revised v3): Fri, 4 Oct 2002 14:03:28 GMT   (30kb)
+
+Title: Quantum correlations from incomplete classical statistics
+Author: C.Wetterich
+Comments: New formulation of introduction,conclusions and title,33 pages,LaTex
+Report-no: HD-THEP-2001-19
+\\
+  We formulate incomplete classical statistics for situations where the
+knowledge about the probability distribution outside a local region is limited.
+The information needed to compute expectation values of local observables can
+be collected in a quantum mechanical state vector, whereas further statistical
+information about the probability distribution outside the local region becomes
+irrelevant. The translation of the available information between neighboring
+local regions is expressed by a Hamilton operator. A quantum mechanical
+operator can be associated to each local observable, such that expectation
+values of ``classical'' observables can be computed by the usual quantum
+mechanical rules. The requirement that correlation functions should respect
+equivalence relations for local obeservables induces a non-commutative product
+in classical statistics, in complete correspondence to the quantum mechanical
+operator product. We also discuss the issue of interference and the complex
+structure of quantum mechanics within our classical statistical setting.
+\\

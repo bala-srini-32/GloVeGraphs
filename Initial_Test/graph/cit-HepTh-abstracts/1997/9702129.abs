@@ -1,0 +1,18 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9702129
+From: jouko mickelsson <jouko@theophys.kth.se>
+Date: Mon, 17 Feb 1997 13:51:15 +0100   (10kb)
+
+Title: Vacuum polarization and the geometric phase: Gauge invariance
+Author: Jouko Mickelsson
+Comments: AmsTex file, 10 output pages, no figures. (Can be run with plain Tex,
+  the file will call for the macros amstex.tex and amsppt.sty.)
+Journal-ref: J.Math.Phys. 39 (1998) 831-837
+\\
+  A nonperturbative approach to the vacuum polarization for quantized fermions
+in external vector potentials is discussed. It is shown that by a suitable
+choice of counterterms the vacuum polarization phase is both gauge and
+renormalization independent, within a large class of nonperturbative
+renormalizations.
+\\

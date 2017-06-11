@@ -1,0 +1,33 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9602043
+From: malda@puhep1.Princeton.EDU (Juan Maldacena)
+Date: Fri, 9 Feb 1996 00:34:53 -0500   (23kb)
+Date (revised): Wed, 21 Feb 1996 00:58:38 -0500
+
+Title: D-brane Approach to Black Hole Quantum Mechanics
+Authors: Curtis G. Callan and Juan M. Maldacena
+Comments: 18 pages, uses harvmac and psfig. The new version of the paper
+  corrects various errors, omissions and obscurities of the original
+  submission. The major error was an underestimate of the severity of the
+  strong coupling problem in the D-brane description of black holes with a
+  macroscopic event horizon. The new version has a more sober, but still
+  optimistic assessment of what aspects of black hole quantum mechanics are be
+  brought under control by D-branes. We thank several correspondents for
+  helpful criticism and advice
+Journal-ref: Nucl.Phys. B472 (1996) 591-610
+\\
+  Strominger and Vafa have used D-brane technology to identify and precisely
+count the degenerate quantum states responsible for the entropy of certain
+extremal, BPS-saturated black holes. Here we give a Type-II D-brane description
+of a class of extremal {\it and} non-extremal five-dimensional
+Reissner-Nordstr\"om solutions and identify a corresponding set of degenerate
+D-brane configurations. We use this information to do a string theory
+calculation of the entropy, radiation rate and ``Hawking'' temperature. The
+results agree perfectly with standard Hawking results for the corresponding
+nearly extremal Reissner-Nordstr\"om black holes. Although these calculations
+suffer from open-string strong coupling problems, we give some reasons to
+believe that they are nonetheless qualitatively reliable. In this optimistic
+scenario there would be no ``information loss'' in black hole quantum
+evolution.
+\\

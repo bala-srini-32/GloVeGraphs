@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9505002
+From: k.milton@ic.ac.uk
+Date: Mon, 1 May 95 14:31:59 bst   (11kb)
+
+Title: Non-Abelian Finite-Element Gauge Theory
+Author: K. A. Milton
+Comments: 18 pages, LaTeX (REVTeX), no figures, available through anonymous ftp
+  from ftp://euclid.tp.ph.ic.ac.uk/papers/ or on WWW at
+  http://euclid.tp.ph.ic.ac.uk/Papers/
+Report-no: Imperial/TP/94-95/27 and OKHEP-95-04
+Journal-ref: Nucl.Phys. B452 (1995) 401
+\\
+  We complete the formulation of the equations of motion of a non-Abelian gauge
+field coupled to fermions on a finite-element lattice in four space-time
+dimensions. This is accomplished by a straightforward iterative approach, in
+which successive interaction terms are added to the Dirac and Yang-Mills
+equations of motion, and to the field strength, in order to preserve lattice
+gauge invariance exactly, yielding a series in powers of $ghA$. Here $g$ is the
+coupling constant, $h$ is the lattice spacing, and $A$ is the gauge potential.
+Gauge transformations of the potentials are determined simultaneously. The
+interaction terms in the equations of motion are nonlocal, and can be expressed
+either by an iterative formula or by a difference equation. On the other hand,
+the field strength is locally constructed from the potentials in terms of a
+path-ordered product of exponentials.
+\\

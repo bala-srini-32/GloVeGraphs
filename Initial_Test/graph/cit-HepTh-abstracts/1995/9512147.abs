@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9512147
+From: avan@lpthe.jussieu.fr (Jean AVAN)
+Date: Tue, 19 Dec 1995 17:10:56 +0100 (MET)   (16kb)
+Date (revised): Tue, 19 Mar 1996 15:08:45 +0100 (MET)
+
+Title: Collective field theory of the matrix-vector model
+Authors: Jean Avan, Antal Jevicki
+Comments: OLatex file, 20 pages, no figures. Misprints corrected, references
+  added; reformulation of the constraint algebra and additional Comments on its
+  structure; additional Comments on the structure of the continuum limit;
+  Nuclear Physics B, to appear
+Report-no: Brown HET 1018 and PAR LPTHE 95-48
+Journal-ref: Nucl.Phys. B469 (1996) 287-301
+\\
+  We construct collective field theories associated with one-matrix plus $r$
+vector models. Such field theories describe the continuum limit of spin
+Calogero Moser models. The invariant collective fields consist of a scalar
+density coupled to a set of fields in the adjoint representation of $U(r)$.
+Hermiticity conditions for the general quadratic Hamiltonians lead to a new
+type of extended non-linear algebra of differential operators acting on the
+Jacobian. It includes both Virasoro and $SU(r)$ (included in $sl(r, {\bf C})
+\times sl(r, {\bf C})$) current algebras. A systematic construction of exact
+eigenstates for the coupled field theory is given and exemplified.
+\\

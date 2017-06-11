@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9707173
+From: "Mohammad Reza Rahimi Tabar" <RAHIMI@netware2.ipm.ac.ir>
+Date: Sat, 19 Jul 1997 16:51:35 -3:30   (7kb)
+Date (revised): Tue, 22 Jul 1997 10:41:25 -3:30
+Date (revised): Tue, 6 Jan 1998 10:36:11 GMT
+
+Title: Exact Two-Point Correlation Functions of Turbulence Without Pressure in
+  Three-Dimensions
+Authors: A. R. Rastegar, M. R. Rahimi Tabar and P. Hawaii
+Comments: 9 pages, latex, no figures, we have corrected the our basic
+  equations. We predict the inertial-range exponent for the energy spectrum for
+  3D-turbulence without pressure. We will present the detail of calculation and
+  the results for 2D-turbulence elsewhere. Also some references are added
+Subj-class: High Energy Physics - Theory; Chaotic Dynamics
+\\
+  We investigate exact results of isotropic turbulence in three-dimensions when
+the pressure gradient is negligible. We derive exact two-point correlation
+functions of density in three-dimensions and show that the density-density
+correlator behaves as $ |{x_1 - x_2}|^{-\alpha_3}$, where $\alpha_3 = 2 +
+\frac{\sqrt{33}}{6}$. It is shown that, in three-dimensions, the energy
+spectrum $E(k)$ in the inertial range scales with exponent $ 2 - \frac
+{\sqrt{33}}{12} \simeq 1.5212$. We also discuss the time scale for which our
+exact results are valid for strong 3D--turbulence in the presence of the
+pressure. We confirm our predictions by using the recent results of numerical
+calculations and experiment.
+\\

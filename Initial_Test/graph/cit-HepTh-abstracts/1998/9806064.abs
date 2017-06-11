@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9806064
+From: Luigi Pilo <l.pilo@damtp.cam.ac.uk>
+Date: Mon, 8 Jun 1998 16:12:49 GMT   (185kb)
+
+Title: Chern-Simons field theory and invariants of 3-manifolds
+Authors: Luigi Pilo (DAMTP, University of Cambridge)
+Comments: Latex file, 186 pages, 83 eps figures. PhD thesis, November 1997,
+  Scuola Normale Superiore, Pisa, Italy
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+\\
+  The Chern-Simons (CS) theory in three dimensions with a compact gauge group G
+is studied. Starting from the BRST quantization of the theory defined in R^3,
+the values of gauge invariants observables are computed in any closed and
+orientable three manifold M by constructing a surgery operator associated with
+a Dehn's surgery presentation of M. We have given the general rules to find the
+reduced tensor algebra whose elements give the physical inequivalent quantum
+numbers that characterize uniquely the CS observables. Some general properties
+of the reduced tensor algebra and of the surgery operator are studied. Many
+examples of the general construction are given in the case of G=SU(2) and
+G=SU(3), in particular the expectation value of a Wilson line associated with
+the unknot and the Hopf link in R^3(S^3) is computed for any irreducible
+representation of the gauge group. The relation of the topological invariant
+I(M), defined as a suitable modified partition function of the CS theory in M,
+and the fundamental group of M is studied. Finally, the relationship between CS
+theory and WZWN model in two dimensions is exploited to derive from a full
+three-dimensional point of view some classical results in conformal field
+theory.
+\\

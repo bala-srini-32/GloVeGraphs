@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9801067
+From: Barak Kol <barak@leland.Stanford.EDU>
+Date: Tue, 13 Jan 1998 00:54:40 GMT   (26kb)
+Date (revised v2): Fri, 20 Mar 1998 21:39:33 GMT   (26kb)
+
+Title: BPS Spectrum of 5 Dimensional Field Theories, (p,q) Webs and Curve
+  Counting
+Authors: Barak Kol, J. Rahmfeld
+Comments: 20 pages, latex, 9 figures. Changes are described at the end of the
+  introduction
+Journal-ref: JHEP 9808 (1998) 006
+\\
+  We study the BPS spectrum of supersymmetric 5 dimensional field theories and
+their representations as string webs. It is found that a state of given charges
+exists when it has a representation as an irreducible string web. Its spin is
+determined by the string web. The number of fermionic zero modes is 8g+4b,
+where g is the number of internal faces and b is the number of boundaries. In
+the lift to M theory of 4d field theories such states are described by
+membranes ending on the 5-brane, breaking SUSY from 8 to 4, and g becomes the
+genus of the membrane. Mathematically, we obtain a diagrammatic method to find
+the spectrum of curves on a toric complex surface, and the number of their
+moduli.
+\\

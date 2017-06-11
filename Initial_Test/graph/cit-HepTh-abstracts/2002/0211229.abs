@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0211229
+From: Andrei Mikhailov <andrei@kitp.ucsb.edu>
+Date: Sun, 24 Nov 2002 03:37:14 GMT   (20kb)
+Date (revised v2): Thu, 5 Dec 2002 17:52:44 GMT   (20kb)
+
+Title: Special contact Wilson loops
+Authors: Andrei Mikhailov
+Comments: 23 pages, LaTeX, references added, small corrections in Section 4
+Report-no: NSF-ITP-02-170, ITEP-TH-53/02
+Subj-class: High Energy Physics - Theory; Differential Geometry
+\\
+  Wilson loops in ${\cal N}=4$ supersymmetric Yang-Mills theory correspond at
+strong coupling to extremal surfaces in $AdS_5$. We study a class of extremal
+surfaces known as special Legendrian submanifolds. The "hemisphere"
+corresponding to the circular Wilson loop is an example of a special Legendrian
+submanifold, and we give another example. We formulate the necessary conditions
+for the contour on the boundary of $AdS_5$ to be the boundary of the special
+Legendrian submanifold and conjecture that these conditions are in fact
+sufficient. We call the solutions of these conditions "special contact Wilson
+loops". The first order equations for the special Legendrian submanifold impose
+a constraint on the functional derivatives of the Wilson loop at the special
+contact contour which should be satisfied in the Yang-Mills theory at strong
+coupling.
+\\

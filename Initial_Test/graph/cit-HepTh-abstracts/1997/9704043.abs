@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9704043
+From: John H. Brodie <brodie@puhep1.princeton.edu>
+Date: Sun, 6 Apr 1997 15:17:52 MDT   (31kb)
+
+Title: Type IIA Superstrings, Chiral Symmetry, and N=1 4D Gauge Theory
+  Dualities
+Authors: John H. Brodie (Princeton University), Amihay Hanany (Institute for
+  Advanced Study)
+Comments: 32 pages, 9 figures, uses harvmac, tables, and epsf
+Report-no: PU-1695, IASSNS-HEP-97/35
+Journal-ref: Nucl.Phys. B506 (1997) 157-182
+\\
+  We study N=1 four dimensional gauge theories as the world volume theory of
+D4-branes between NS 5-branes. We find constructions for a number of known
+field theory dualities involving $SU(N_c)\times SU(N_c')$ groups, coupled by
+matter fields F in the $(N_c, \bar N_c)$ representation, in terms of branes of
+type IIA string theory. The dual gauge group follows from simply reversing the
+ordering of the NS 5-branes and the D6-branes while conserving magnetic charge
+on the world volume of the branes. We interpret many field theory phenomena
+such as deformation of the superpotential $W = \Tr (F\tilde F)^{k+1}$ in terms
+of the position of branes. By looking to D-branes for guidance, we find new N=1
+dualities involving arbitrary numbers of gauge groups. We propose a mechanism
+for enhanced chiral symmetry in the brane construction which, we conjecture, is
+associated with tensionless threebranes in six dimensions.
+\\

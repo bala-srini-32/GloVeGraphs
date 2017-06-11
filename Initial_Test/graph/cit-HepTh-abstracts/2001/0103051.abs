@@ -1,0 +1,37 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0103051
+From: Clare Dunning <tcd1@york.ac.uk>
+Date: Wed, 7 Mar 2001 19:51:02 GMT   (36kb)
+Date (revised v2): Wed, 21 Mar 2001 20:21:08 GMT   (42kb)
+Date (revised v3): Thu, 22 Mar 2001 14:44:31 GMT   (42kb)
+Date (revised v4): Mon, 9 Apr 2001 14:05:31 GMT   (42kb)
+Date (revised v5): Wed, 11 Jul 2001 14:28:14 GMT   (43kb)
+
+Title: Spectral equivalences, Bethe Ansatz equations, and reality properties in
+  PT-symmetric quantum mechanics
+Authors: Patrick Dorey, Clare Dunning and Roberto Tateo
+Comments: 32 pages, 12 figures, Latex2e, amssymb, cite and graphicx. v2:
+  References, and a new section with two further dualities, added; typos
+  corrected. v3: Ref [8] corrected. v4: 5 more references,and more typos
+  corrected v5: New title, note added at end and 3 new refs
+Report-no: DCTP/01/19
+Subj-class: High Energy Physics - Theory; Mathematical Physics; Exactly
+  Solvable and Integrable Systems
+Journal-ref: J.Phys. A34 (2001) 5679-5704
+\\
+  The one-dimensional Schrodinger equation for the potential $x^6+\alpha x^2
++l(l+1)/x^2$ has many interesting properties. For certain values of the
+parameters l and alpha the equation is in turn supersymmetric (Witten),
+quasi-exactly solvable (Turbiner), and it also appears in Lipatov's approach to
+high energy QCD. In this paper we signal some further curious features of these
+theories, namely novel spectral equivalences with particular second- and
+third-order differential equations. These relationships are obtained via a
+recently-observed connection between the theories of ordinary differential
+equations and integrable models. Generalised supersymmetry transformations
+acting at the quasi-exactly solvable points are also pointed out, and an
+efficient numerical procedure for the study of these and related problems is
+described. Finally we generalise slightly and then prove a conjecture due to
+Bessis, Zinn-Justin, Bender and Boettcher, concerning the reality of the
+spectra of certain PT-symmetric quantum-mechanical systems.
+\\

@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9501084
+From: Henric Rhedin <hr@fy.chalmers.se>
+Date: Thu, 19 Jan 1995 09:24:57 +0100   (13kb)
+
+Title: Construction of BRST invariant states in $G/H$ WZNW models.
+Authors: Stephen Hwang and Henric Rhedin
+Comments: 12 pages, latex
+Report-no: G\"oteborg ITP 94-26
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+Journal-ref: Phys. Lett. B350 (1995) 38
+\\
+We study the cohomology arising in the BRST formulation of G/H gauged WZNW
+models, i.e. in which the states of the gauged theory are projected out from
+the ungauged one by means of a BRST condition. We will derive for a general
+simple group $H$ with arbitrary level, conditions for which the cohomology is
+non-trivial. We show, by introducing a small perturbation due to Jantzen, in
+the highest weights of the representations, how states in the cohomology,
+"singlet pairs", arise from unphysical states, "Kugo-Ojima quartets", as the
+perturbation is set to zero. This will enable us to identify and construct
+states in the cohomology. The ghost numbers that will occur are $\pm p$, with
+$p$ uniquely determined by the representations of the algebras involved. Our
+construction is given in terms of the current modes and relies on the explicit
+form of highest weight null-states given by Malikov, Feigen and Fuchs.
+\\

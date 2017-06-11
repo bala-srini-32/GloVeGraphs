@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9605206
+From: "Stepanyantz" <stepan@theor.phys.msu.su>
+Date: Wed, 29 May 1996 14:39:05   (34kb)
+Date (revised): Tue, 01 Jul 1997 19:55:23
+
+Title: One-loop counterterms for the dimensional regularization of arbitrary
+  Lagrangians
+Authors: P. Pronin, K. Stepanyantz
+Comments: 39 pages, Latex, 3 PS figures, replaced with published version
+Journal-ref: Nucl.Phys. B485 (1997) 517-544
+\\
+  We present master formulas for the divergent part of the one-loop effective
+action for an arbitrary (both minimal and nonminimal) operators of any order in
+the 4-dimensional curved space. They can be considered as computer algorithms,
+because the one-loop calculations are then reduced to the simplest algebraic
+operations. Some test applications are considered by REDUCE analytical
+calculation system.
+\\

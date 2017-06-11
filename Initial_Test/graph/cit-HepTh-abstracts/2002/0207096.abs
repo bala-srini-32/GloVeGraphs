@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0207096
+From: Marcos Marino <marcos@born.harvard.edu>
+Date: Wed, 10 Jul 2002 19:48:06 GMT   (25kb)
+Date (revised v2): Wed, 10 Jul 2002 22:06:51 GMT   (25kb)
+Date (revised v3): Wed, 21 Aug 2002 18:33:10 GMT   (25kb)
+Date (revised v4): Thu, 14 Nov 2002 18:45:22 GMT   (26kb)
+
+Title: Chern-Simons theory, matrix integrals, and perturbative three-manifold
+  invariants
+Authors: Marcos Marino
+Comments: 26 pages, JHEP style, typos corrected, some improvements in section
+  5.2, references added
+Report-no: HUTP-02/A029
+Subj-class: High Energy Physics - Theory; Geometric Topology; Quantum Algebra
+\\
+  The universal perturbative invariants of rational homology spheres can be
+extracted from the Chern-Simons partition function by combining perturbative
+and nonperturbative results. We spell out the general procedure to compute
+these invariants, and we work out in detail the case of Seifert spaces. By
+extending some previous results of Lawrence and Rozansky, the Chern-Simons
+partition function with arbitrary simply-laced group for these spaces is
+written in terms of matrix integrals. The analysis of the perturbative
+expansion amounts to the evaluation of averages in a Gaussian ensemble of
+random matrices. As a result, explicit expressions for the universal
+perturbative invariants of Seifert homology spheres up to order five are
+presented.
+\\

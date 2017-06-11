@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0201053
+From: Hitoshi ITO <itoh@phys.kindai.ac.jp>
+Date: Wed, 9 Jan 2002 02:53:18 GMT   (4kb)
+
+Title: On the Chern-Simons Gauge Theory of Anyons in the Fractional Quantum
+  Hall Effect
+Authors: Hitoshi Ito
+Comments: This is a supplementary comment on hep-th/0110197
+Report-no: KNK02I1
+\\
+  This short note was born out of discussions on anyons in the FQHE at the YITP
+workshop "Fundamental problems of quantum field theories" (December 19-21,
+2001, YITP, Kyoto). At that time, I felt that there might not be a sound
+consensus of opinion on the subject. Now, I would like to show my understanding
+here, the essential part of which is based on hep-th/0110197.
+  The first problem discussed is a notion of ``bosonized electrons
+(bosonization)", which are unphysical objects from the standpoint of the
+Chern-Simons gauge invariance. Therefore, their condensate is merely of
+mathematical concept and the true physical state realized is a liquid-like one
+made of degeneration of anyons. Based on this recognition, I argue about a
+mechanism of the degeneration that results from the genuine CS gauge field
+theory. It is noted that the Ginzburg-Landau effective theory is not necessary.
+As the last problem, the gauge invariance in the "composite-fermion theories"
+is discussed.
+\\

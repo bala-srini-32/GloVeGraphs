@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9511148
+From: wally@insti.physics.sunysb.edu (Andrew Waldron)
+Date: Tue, 21 Nov 1995 14:58:28 -0500 (EST)   (52kb)
+
+Title: Cancellation of quantum mechanical higher loop contributions to the
+  gravitational chiral anomaly
+Author: Andrew K. Waldron
+Comments: 10 pages, LaTeX and psfig (many figures)
+Report-no: ITP-SB-95-53
+Journal-ref: Phys.Rev. D53 (1996) 5692-5697
+\\
+  We give an explicit demonstration, using the rigorous Feynman rules developed
+in~$\0^{1}$, that the regularized trace $\tr \gamma_5 e^{-\beta \Dslash^2}$ for
+the gravitational chiral anomaly expressed as an appropriate quantum mechanical
+path integral is $\beta$-independent up to two-loop level. Identities and
+diagrammatic notations are developed to facilitate rapid evaluation of graphs
+given by these rules.
+\\

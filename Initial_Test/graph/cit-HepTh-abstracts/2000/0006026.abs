@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0006026
+From: Daniele Binosi <binosi@titan.ific.uv.es>
+Date: Sun, 4 Jun 2000 15:38:20 GMT   (49kb)
+
+Title: Leaving the BPS bound: Tunneling of classically saturated solitons
+Authors: D. Binosi, M. Shifman and T. ter Veldhuis
+Comments: LaTeX, 22 pages, 9 figures (eps)
+Report-no: TPI-MINN-00/27-T, UMN-TH-1908/00, FTUV/000601, IFIC/00-32
+Journal-ref: Phys.Rev. D63 (2001) 025006
+\\
+  We discuss quantum tunneling between classically BPS saturated solitons in
+two-dimensional theories with N=2 supersymmetry and a compact space dimension.
+Genuine BPS states form shortened multiplets of dimension two. In the models we
+consider there are two degenerate shortened multiplets at the classical level,
+but there is no obstruction to pairing up through quantum tunneling. The
+tunneling amplitude in the imaginary time is described by instantons. We find
+that the instanton is nothing but the 1/4 BPS saturated ``wall junction,''
+considered previously in the literature in other contexts. Two central charges
+of the superalgebra allow us to calculate the instanton action without finding
+the explicit solution (it is checked, though, numerically, that the saturated
+solution does exist). We present a quantum-mechanical interpretation of the
+soliton tunneling.
+\\

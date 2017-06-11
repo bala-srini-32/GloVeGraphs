@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9504055
+From: Bertfried Fauser <bertfried.fauser@uni-tuebingen.de>
+Date: Mon, 10 Apr 1995 16:02:19 +0200 (MESZ)   (11kb)
+
+Title: Vertex Normalordering as a Consequence of Nonsymmetric Bilinearforms in
+  Clifford Algebras
+Authors: Bertfried Fauser (Bertfried.Fauser@uni-tuebingen.de)
+Report-no: Tue-prep-95-04-1
+Journal-ref: J.Math.Phys. 37 (1996) 72-83
+\\
+  We consider Clifford algebras with nonsymmetric bilinear forms, which are
+isomorphic to the standard symmetric ones, but not equal. Observing, that the
+content of physical theories is dependent on the injection $\oplus^n\bigwedge
+\V^{(n)}\rightarrow CL({\cal V},Q)$ one has to transform to the standard
+construction. The injection is of course dependent on the antisymmetric part of
+the bilinear form. This process results in the appropriate vertex
+normalordering terms, which are now obtained from the theory itself and not
+added ad hoc via a regularization argument.
+\\

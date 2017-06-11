@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0204250
+From: Vyacheslav Rychkov <rytchkov@math.princeton.edu>
+Date: Tue, 30 Apr 2002 18:18:35 GMT   (67kb)
+Date (revised v2): Fri, 5 Jul 2002 16:51:45 GMT   (67kb)
+
+Title: Wilson Loops, D-Branes, and Reparametrization Path-Integrals
+Authors: Vyacheslav S. Rychkov (Princeton U.)
+Comments: 36pp
+Journal-ref: JHEP 0212 (2002) 068
+\\
+  We study path-integrals over reparametrizations of the world-sheet boundary.
+Such integrals arise when string propagates between fixed space-time contours.
+In gauge/string duality they are needed to describe gauge theory Wilson loops.
+We show that (1) in AdS/CFT, the integral is well defined and gives a finite
+1-loop correction to the Wilson loop; (2) in critical string theory, the
+integral is UV divergent, and fixed contour amplitudes are off shell. In the
+second case, we show that the divergences can be removed by renormalizing the
+contour. We calculate the 2-loop contour beta-function and explain how it is
+related to the D0-brane effective action. We also apply this method to compute
+the first alpha' correction to the effective action of higher dimensional
+branes.
+\\

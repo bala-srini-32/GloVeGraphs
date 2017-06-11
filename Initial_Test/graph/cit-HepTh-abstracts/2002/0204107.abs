@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0204107
+From: "Maulik K. Parikh" <mkp@physics.columbia.edu>
+Date: Sun, 14 Apr 2002 20:33:22 GMT   (10kb)
+Date (revised v2): Fri, 21 Jun 2002 22:23:57 GMT   (10kb)
+Date (revised v3): Wed, 2 Oct 2002 19:41:58 GMT   (10kb)
+
+Title: New Coordinates for de Sitter Space and de Sitter Radiation
+Author: Maulik K. Parikh
+Comments: LaTeX, 10 pages; v2. references added; v3. minor sign errors fixed,
+  reference added, journal version
+Report-no: CU-TP-1054
+Journal-ref: Phys.Lett. B546 (2002) 189-195
+\\
+  We introduce a simple coordinate system covering half of de Sitter space. The
+new coordinates have several attractive properties: the time direction is a
+Killing vector, the metric is smooth at the horizon, and constant-time slices
+are just flat Euclidean space. We demonstrate the usefulness of the coordinates
+by calculating the rate at which particles tunnel across the horizon. When
+self-gravitation is taken into account, the resulting tunneling rate is only
+approximately thermal. The effective temperature decreases through the emission
+of radiation.
+\\

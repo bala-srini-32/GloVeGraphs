@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0207072
+From: Saurya Das <saurya@math.unb.ca>
+Date: Mon, 8 Jul 2002 22:36:43 GMT   (10kb)
+
+Title: Leading Log Corrections to Bekenstein-Hawking Entropy
+Authors: Saurya Das (Univ of New Brunswick)
+Comments: 9 pages, revtex. To appear in proceedings of Canadian Association of
+  Physicists Annual Congress, Quebec City, June 2-5, 2002
+\\
+  We show that the Bekenstein-Hawking entropy associated with any black hole
+undergoes logarithmic corrections when small thermodynamic fluctuations around
+equilibrium are taken into account. Thus, the corrected expression for black
+hole entropy is given by $S= A/4 - k \ln(A)$, where $A$ is the horizon area and
+$k$ is a constant which depends on the specific black hole. We apply our result
+to BTZ black hole, for which $k=3/2$, as found earlier, as well as to anti-de
+Sitter-Schwarzschild and Reissner-Nordstrom black hole in arbitrary spacetime
+dimensions. Finally, we examine the role of conformal field theory in black
+hole entropy and its corrections.
+\\

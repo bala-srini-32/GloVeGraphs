@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0303249
+From: Oliver DeWolfe <odewolfe@itp.ucsb.edu>
+Date: Thu, 27 Mar 2003 20:43:51 GMT   (58kb)
+Date (revised v2): Fri, 28 Mar 2003 23:10:33 GMT   (52kb)
+
+Title: Defect Conformal Field Theory and Locally Localized Gravity
+Authors: Ofer Aharony, Oliver DeWolfe, Daniel Z. Freedman and Andreas Karch
+Comments: 38 pages, LaTeX, 5 figures. v2: typos fixed
+Report-no: WIS/03/03-MAR-DPP,NSF-KITP-03-21,MIT-CTP-3352,UW/PT-03/06
+\\
+  Gravity may be "locally localized" over a wide range of length scales on a
+d-dimensional anti-de Sitter (AdS) brane living inside AdS_{d+1}. In this paper
+we examine this phenomenon from the point of view of the holographic dual
+"defect conformal field theory". The mode expansion of bulk fields on the
+gravity side is shown to be precisely dual to the "boundary operator product
+expansion" of operators as they approach the defect. From the field theory
+point of view, the condition for localization is that a "reduced operator"
+appearing in this expansion acquires negative anomalous dimension. In
+particular, a very light localized graviton exists when a mode arising from the
+reduction of the ambient stress-energy tensor to the defect has conformal
+dimension Delta ~ d-1. The part of the stress tensor containing the defect
+dynamics has dimension Delta = d-1 in the free theory, but we argue that it
+acquires an anomalous dimension in the interacting theory, and hence does not
+participate in localization in the regime of small backreaction of the brane.
+We demonstrate that such an anomalous dimension is consistent with the
+conservation of the full stress-energy tensor. Finally, we analyze how to
+compute the anomalous dimensions of reduced operators from gravity at leading
+order in the interactions with the brane.
+\\

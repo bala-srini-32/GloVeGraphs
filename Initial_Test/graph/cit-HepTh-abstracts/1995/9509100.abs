@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9509100
+From: Florian Nill <nill@physik.fu-berlin.de>
+Date: Tue, 12 Sep 1995 21:03:22 +0200 (MET DST)   (49kb)
+Date (revised): Tue, 5 Aug 1997 21:50:40 +0200 (MET DST)
+
+Title: Quantum Chains of Hopf Algebras with Quantum Double Cosymmetry
+Authors: Florian Nill and Kornel Szlachanyi
+Comments: Latex, 48 pages, no figures, extended version of hep-th/9507174, but
+  without the field algebra construction, contains full proofs of the slightly
+  shortened article published in Commun.Math.Phys., the revision only concerns
+  some misprints and an update of the literature
+Report-no: Sfb288 No.178
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+Journal-ref: Commun.Math.Phys. 187 (1997) 159-200
+\\
+  Given a finite dimensional C^*-Hopf algebra H and its dual H^ we construct
+the infinite crossed product A=... x H x H^ x H ... and study its
+superselection sectors in the framework of algebraic quantum field theory. A is
+the observable algebra of a generalized quantum spin chain with H-order and
+H^-disorder symmetries, where by a duality transformation the role of order and
+disorder may also appear interchanged. If H=\CC G is a group algebra then A
+becomes an ordinary G-spin model. We classify all DHR-sectors of A --- relative
+to some Haag dual vacuum representation --- and prove that their symmetry is
+described by the Drinfeld double D(H). To achieve this we construct localized
+coactions \rho: A \to (A \otimes D(H)) and use a certain compressibility
+property to prove that they are universal amplimorphisms on A. In this way the
+double D(H) can be recovered from the observable algebra A as a universal
+cosymmetrty.
+\\

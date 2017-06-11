@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9704098
+From: piljin@cuphy3.phys.columbia.edu (Piljin Yi)
+Date: Sun, 13 Apr 97 18:05:45 GMT   (13kb)
+
+Title: Witten Index and Threshold Bound States of D-Branes
+Authors: Piljin Yi
+Comments: LaTex, 15pages, no figure
+Report-no: CU-TP-827
+Journal-ref: Nucl.Phys. B505 (1997) 307-318
+\\
+  We consider the Witten index ${\cal I}= Tr (-1)^F$ of SU(2) Super-Yang-Mills
+quantum mechanics (SYMQ) with N=16, 8, 4 supersymmetries. The theory governs
+the interactions between a pair of D-branes under various circumstances, and
+our goal is to count the number of the threshold bound states directly from
+the low-energy effective theory. The string theory and M theory have predicted
+that ${\cal I}=1$ for N=16, which in fact forms an underlying hypothesis of
+the M(atrix) theory formulation. Also the consistency of conifold transitions
+in type II theories is known to require ${\cal I}=0$ for N=8 and 4. Here, the
+bulk contribution to ${\cal I}$ is computed explicitly, and for N=16, 8, 4,
+found to be 5/4, 1/4, 1/4 respectively, suggesting a common defect
+contribution of -1/4. We illustrate how the defect term of -1/4 may arise in
+the SU(2) SYMQ by considering the effective dynamics along the asymptotic
+region.
+\\

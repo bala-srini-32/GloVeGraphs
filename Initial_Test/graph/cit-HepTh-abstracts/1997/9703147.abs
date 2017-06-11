@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9703147
+From: lukas@ovrut.hep.upenn.edu ("Andre Lukas")
+Date: Thu, 20 Mar 1997 23:41:26 -0500   (16kb)
+Date (revised): Fri, 28 Mar 1997 13:17:38 -0500
+
+Title: Effective Action of the N = 2 Maxwell Multiplet in Harmonic Superspace
+Authors: I. L. Buchbinder, E. I. Buchbinder, E. A. Ivanov, S. M. Kuzenko and B.
+  A. Ovrut
+Comments: 15 pages, Latex, FEYNMAN macros included, minor corrections in
+  abstract
+Report-no: IASSNS-HEP-97/6, UPR-733T, JINR E2-97-82, ITP-UH-09/97
+Journal-ref: Phys.Lett. B412 (1997) 309-319
+\\
+  We present, in the N=2, D=4 harmonic superspace formalism, a general method
+for constructing the off-shell effective action of an N=2 abelian gauge
+superfield coupled to matter hypermultiplets. Using manifestly N=2
+supersymmetric harmonic supergraph techniques, we calculate the low-energy
+corrections to the renormalized one-loop effective action in terms of N=2
+(anti)chiral superfield strengths. For a harmonic gauge prepotential with
+vanishing vacuum expectation value, corresponding to massless hypermultiplets,
+the only non-trivial radiative corrections to appear are non-holomorphic. For a
+prepotential with non-zero vacuum value, which breaks the U(1)-factor in the
+N=2 supersymmetry automorphism group and corresponds to massive
+hypermultiplets, only non-trivial holomorphic corrections arise at leading
+order. These holomorphic contribution are consistent with Seiberg's quantum
+correction to the effective action, while the first non-holomorphic
+contribution in the massless case is the N=2 supersymmetrization of the
+Heisenberg-Euler effective Lagrangian.
+\\

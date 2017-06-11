@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9702119
+From: Othmar Brodbeck <brodbeck@physik.unizh.ch>
+Date: Sun, 16 Feb 1997 01:55:01 +0100   (13kb)
+Date (revised): Fri, 14 Mar 1997 15:35:35 +0100
+
+Title: Zero Modes of the Dirac Operator for regular Einstein-Yang-Mills
+  Background fields
+Authors: Othmar Brodbeck and Norbert Straumann (University of Zurich)
+Comments: 17 pages, LaTeX. Preprint archive number corrected and minor
+  improvements of the text
+Report-no: ZU-TH 3/97
+Journal-ref: Commun.Math.Phys. 190 (1998) 585-596
+\\
+  The existence of normalizable zero modes of the twisted Dirac operator is
+proven for a class of static Einstein-Yang-Mills background fields with a
+half-integer Chern-Simons number. The proof holds for any gauge group and
+applies to Dirac spinors in an arbitrary representation of the gauge group. The
+class of background fields contains all regular, asymptotically flat,
+CP-symmetric configurations with a connection that is globally described by a
+time-independent spatial one-form which vanishes sufficiently fast at infinity.
+A subset is provided by all neutral, spherically symmetric configurations which
+satisfy a certain genericity condition, and for which the gauge potential is
+purely magnetic with real magnetic amplitudes.
+\\

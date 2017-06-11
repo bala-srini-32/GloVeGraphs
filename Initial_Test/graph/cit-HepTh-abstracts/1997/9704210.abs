@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9704210
+From: Brandon CARTER <carter@mesiob.obspm.fr>
+Date: Wed, 30 Apr 1997 07:06:14 MDT   (12kb)
+
+Title: Electromagnetic self interaction in strings
+Authors: Brandon Carter
+Comments: 10 pages Latex, to appear in Phys. Lett. B
+Report-no: OBSPM 97005
+Journal-ref: Phys.Lett. B404 (1997) 246-252
+\\
+  To facilitate the treatment of electromagnetic effects in applications such
+as dynamically perturbed vortons, this work employs a covariantly formulated
+string-source Green measure to obtain a coherent relativistic scheme for
+describing the self interaction of electromagnetic currents in string models of
+a very general kind, at leading order in the relevant field gradients, using a
+regularised gradient operator given by $\hat\nabla_\nu=$
+$\bar\nabla_\nu +{1\over 2} K_\nu$ where $\bar\nabla_\nu$ is the
+usual tangential gradient operator and $K_\nu$ is the extrinsic curvature
+vector.
+\\

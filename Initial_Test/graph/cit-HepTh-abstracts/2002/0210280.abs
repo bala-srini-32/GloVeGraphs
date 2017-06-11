@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0210280
+From: Robert Mann <mann@avatar.uwaterloo.ca>
+Date: Tue, 29 Oct 2002 15:27:04 GMT   (67kb)
+Date (revised v2): Thu, 31 Oct 2002 15:12:40 GMT   (41kb)
+
+Title: Thermodynamics of $(d+1)$-dimensional NUT-charged AdS Spacetimes
+Authors: R. Clarkson, L. Fatibene, R.B. Mann
+Comments: Latex, 11 figures, 37 pages, minor latex errors corrected
+Report-no: WATPHYS-TH02/10
+Journal-ref: Nucl.Phys. B652 (2003) 348-382
+\\
+  We consider the thermodynamic properties of $(d+1)$-dimensional spacetimes
+with NUT charges. Such spacetimes are asymptotically locally anti de Sitter (or
+flat), with non-trivial topology in their spatial sections, and can have fixed
+point sets of the Euclidean time symmetry that are either $(d-1)$-dimensional
+(called "bolts") or of lower dimensionality (pure "NUTs"). We compute the free
+energy, conserved mass, and entropy for 4, 6, 8 and 10 dimensions for each,
+using both Noether charge methods and the AdS/CFT-inspired counterterm
+approach. We then generalize these results to arbitrary dimensionality. We find
+in $4k+2$ dimensions that there are no regions in parameter space in the pure
+NUT case for which the entropy and specific heat are both positive, and so all
+such spacetimes are thermodynamically unstable. For the pure NUT case in $4k$
+dimensions a region of stability exists in parameter space that decreases in
+size with increasing dimensionality. All bolt cases have some region of
+parameter space for which thermodynamic stability can be realized.
+\\

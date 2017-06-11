@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9612082
+From: Achim Kempf <a.kempf@damtp.cam.ac.uk>
+Date: Sun, 8 Dec 1996 08:31:59 MST   (6kb)
+
+Title: String/Quantum Gravity motivated Uncertainty Relations and
+  Regularisation in Field Theory
+Authors: Achim Kempf (D.A.M.T.P., Cambridge, UK)
+Comments: 6 pages, LaTex, (to appear in Proc. 21st Intl. Coll. on Group Theor.
+  Methods in Physics, Goslar, July '96)
+Report-no: DAMTP/96-101
+Subj-class: High Energy Physics - Theory; Mathematical Physics; Quantum Algebra
+\\
+  The possibility of the existence of small correction terms to the canonical
+commutation relations and the uncertainty relations has recently found renewed
+interest. In particular, such correction terms could induce finite lower bounds
+$\Delta x_0, \Delta p_0$ to the resolution of distances and/or momenta. I
+review a general framework for the path integral formulation of quantum field
+theories on such generalised geometries, and focus then on the mechanisms by
+which $\Delta p_0>0$, and/or $\Delta x_0>0$ lead to IR and/or UV
+regularisation.
+\\

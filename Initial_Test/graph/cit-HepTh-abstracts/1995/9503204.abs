@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9503204
+From: yang@hepth.hanyang.ac.kr (Hyunseok Yang)
+Date: Wed, 29 Mar 1995 10:51:45 +0000 (KST)   (15kb)
+Date (revised): Sat, 21 Oct 1995 17:13:27 +0000 (KST)
+
+Title: Lie algebra cohomology and group structure of gauge theories
+Authors: Hyun Seok Yang and Bum-Hoon Lee
+Comments: 24 pages, RevTex, Revised version submitted to J. Math. Phys
+Report-no: HYUPT-95/2, SNUTP 95-032
+Journal-ref: J.Math.Phys. 37 (1996) 6106-6120
+\\
+  We explicitly construct the adjoint operator of coboundary operator and
+obtain the Hodge decomposition theorem and the Poincar\'e duality for the Lie
+algebra cohomology of the infinite-dimensional gauge transformation group. We
+show that the adjoint of the coboundary operator can be identified with the
+BRST adjoint generator $Q^{\dagger}$ for the Lie algebra cohomology induced by
+BRST generator $Q$. We also point out an interesting duality relation -
+Poincar\'e duality - with respect to gauge anomalies and Wess-Zumino-Witten
+topological terms. We consider the consistent embedding of the BRST adjoint
+generator $Q^{\dagger}$ into the relativistic phase space and identify the
+noncovariant symmetry recently discovered in QED with the BRST adjoint N\"other
+charge $Q^{\dagger}$.
+\\

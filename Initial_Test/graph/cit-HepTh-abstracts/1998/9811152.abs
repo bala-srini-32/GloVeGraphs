@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9811152
+From: Hong Liu <hong.liu@ic.ac.uk>
+Date: Mon, 16 Nov 1998 18:57:09 GMT   (38kb)
+Date (revised v2): Tue, 5 Jan 1999 17:31:54 GMT   (39kb)
+
+Title: Scattering in Anti-de Sitter Space and Operator Product Expansion
+Authors: Hong Liu (Imperial College)
+Comments: 39 pages, using harvmac and epsf, eight figures; discussion in
+  coinciding pole cases expanded, references added, misprints corrected
+Report-no: Imperial/TP/98-99/012
+Journal-ref: Phys.Rev. D60 (1999) 106005
+\\
+  We develop a formalism to evaluate generic scalar exchange diagrams in
+AdS_{d+1} relevant for the calculation of four-point functions in AdS/CFT
+correspondence. The result may be written as an infinite power series of
+functions of cross-ratios. Logarithmic singularities appear in all orders
+whenever the dimensions of involved operators satisfy certain relations. We
+show that the AdS_{d+1} amplitude can be written in a form recognisable as the
+conformal partial wave expansion of a four-point function in CFT_{d} and
+identify the spectrum of intermediate operators. We find that, in addition to
+the contribution of the scalar operator associated with the exchanged field in
+the AdS diagram, there are also contributions of some other operators which may
+possibly be identified with two-particle bound states in AdS. The CFT
+interpretation also provides a useful way to ``regularize'' the logarithms
+appearing in AdS amplitude.
+\\

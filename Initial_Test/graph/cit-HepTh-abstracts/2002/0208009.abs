@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0208009
+From: Kazuki Ohmori <ohmori@hep-th.phys.s.u-tokyo.ac.jp>
+Date: Thu, 1 Aug 2002 18:10:47 GMT   (40kb)
+Date (revised v2): Mon, 5 Aug 2002 10:54:56 GMT   (40kb)
+Date (revised v3): Thu, 7 Nov 2002 05:35:25 GMT   (40kb)
+
+Title: On Ghost Structure of Vacuum Superstring Field Theory
+Authors: Kazuki Ohmori
+Comments: 1+42 pages, 5 figures. v2: a reference added, and a brief comment
+  added (footnote 14). v3: version to appear in NPB. Numerical coefficients in
+  front of the kinetic operators, and some signs in the eqs. of motion, have
+  been corrected. Some minor modifications
+Report-no: UT-02-42
+Journal-ref: Nucl.Phys. B648 (2003) 94-130
+\\
+  After discussing the general form of the kinetic operator around the tachyon
+vacuum, we determine the specific form of the pure-ghost kinetic operator Q^ by
+requiring the twist invariance of the action. We obtain a novel result that the
+Grassmann-even piece Q_even of Q^ must act differently on GSO(+) sector and on
+GSO(-) sector to preserve the twist invariance, and show that this structure is
+crucial for gauge invariance of the action. With this choice of Q^, we
+construct a solution in an approximation scheme which is conjectured to
+correspond to a non-BPS D9-brane. We consider both 0-picture cubic and
+Berkovits' non-polynomial superstring field theories for the NS sector.
+\\

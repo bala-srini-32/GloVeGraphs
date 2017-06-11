@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0111062
+From: Ivanov Evgeny <Evgeni.Ivanov@lnf.infn.it>
+Date: Wed, 7 Nov 2001 16:19:38 GMT   (12kb)
+Date (revised v2): Wed, 14 Nov 2001 14:43:35 GMT   (12kb)
+
+Title: Complete N=4 Structure of Low-Energy Effective Action in N=4 Super
+  Yang-Mills Theories
+Authors: I.L. Buchbinder, E.A. Ivanov
+Comments: 14 pages, Latex, no figures, slight corrections, refs added
+Journal-ref: Phys.Lett. B524 (2002) 208-216
+\\
+  Using the ${\cal N}=2$ superfield approach, we construct full ${\cal N}=4$
+supersymmetric low-energy effective actions for ${\cal N}=4$ SYM models, with
+both ${\cal N}=2$ gauge superfield strengths and hypermultiplet superfields
+included. The basic idea is to complete the known non-holomorphic effective
+potentials which depend only on ${\cal N}=2$ superfield strengths $W$ and
+${\bar W}$ to the full on-shell ${\cal N}=4$ invariants by adding the
+appropriate superfield hypermultiplet terms. We prove that the effective
+potentials of the form ${ln} W {ln} \bar W$ can be ${\cal N} = 4$ completed in
+this way and present the precise structure of the corresponding completions.
+However, the effective potentials of the non-logarithmic form suggested in
+hep-th/9811017 and hep-th/9909020 do not admit the ${\cal N}=4$ completion.
+Therefore, such potentials cannot come out as (perturbative or
+non-perturbative) quantum corrections in ${\cal N}=4$ SYM models.
+\\

@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0007040
+From: "Sergei Kharchev" <kharchev@vitep5.itep.ru>
+Date: Wed, 5 Jul 2000 21:31:09 GMT   (15kb)
+
+Title: Integral representations for the eigenfunctions of quantum open and
+  periodic Toda chains from QISM formalism
+Authors: S. Kharchev, D. Lebedev
+Comments: Latex+amssymb.sty, 14 pages
+Report-no: ITEP-TH-34/00
+Journal-ref: J.Phys. A34 (2001) 2247-2258
+\\
+  The integral representations for the eigenfunctions of $N$ particle quantum
+open and periodic Toda chains are constructed in the framework of Quantum
+Inverse Scattering Method (QISM). Both periodic and open $N$-particle solutions
+have essentially the same structure being written as a generalized Fourier
+transform over the eigenfunctions of the $N-1$ particle open Toda chain with
+the kernels satisfying to the Baxter equations of the second and first order
+respectively. In the latter case this leads to recurrent relations which result
+to representation of the Mellin-Barnes type for solutions of an open chain. As
+byproduct, we obtain the Gindikin-Karpelevich formula for the Harish-Chandra
+function in the case of $GL(N,\RR)$ group.
+\\

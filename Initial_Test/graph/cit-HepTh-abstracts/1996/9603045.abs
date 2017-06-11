@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9603045
+From: okumura_yoshitaka <okum@isc.chubu.ac.jp>
+Date: Fri, 8 Mar 1996 18:07:13 +0900   (12kb)
+Date (revised): Mon, 20 May 1996 18:53:17 +0900
+
+Title: BRST invariant Lagrangian of spontaneously broken gauge theories in
+  noncommutative geometry
+Author: Yoshitaka Okumura
+Comments: RevTeX, page 9
+Report-no: Chubu 9603
+Journal-ref: Phys.Rev. D54 (1996) 4114-4120
+\\
+  The quantization of spontaneously broken gauge theories in noncommutative
+geometry(NCG) has been sought for some time, because quantization is crucial
+for making the NCG approach a reliable and physically acceptable theory. Lee,
+Hwang and Ne'eman recently succeeded in realizing the BRST quantization of
+gauge theories in NCG in the matrix derivative approach proposed by Coquereaux
+et al. The present author has proposed a characteristic formulation to
+reconstruct a gauge theory in NCG on the discrete space $M_4\times Z_{_N}$.
+Since this formulation is a generalization of the differential geometry on the
+ordinary manifold to that on the discrete manifold, it is more familiar than
+other approaches. In this paper, we show that within our formulation we can
+obtain the BRST invariant Lagrangian in the same way as Lee, Hwang and Ne'eman
+and apply it to the SU(2)$\times$U(1) gauge theory.
+\\

@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0105277
+From: Alberto Santambrogio <alberto.santambrogio@mi.infn.it>
+Date: Mon, 28 May 2001 16:08:45 GMT   (30kb)
+Date (revised v2): Fri, 22 Jun 2001 15:52:04 GMT   (30kb)
+Date (revised v3): Wed, 29 Aug 2001 13:16:24 GMT   (30kb)
+Date (revised v4): Wed, 13 Nov 2002 15:47:36 GMT   (30kb)
+
+Title: F^5 contributions to the nonabelian Born Infeld action from a
+  supersymmetric Yang-Mills five-point function
+Authors: Andrea Refolli, Alberto Santambrogio, Niccolo' Terzi, Daniela Zanon
+Comments: 25 pages, 7 figures. v4: factor of 2 corrected in formula in the
+  first line after (6.3), and consequently in (6.3)-(6.6); final results in
+  (6.7) and (6.8) agree with hep-th/0210146. Erratum to appear in Nucl.Phys. B
+Report-no: IFUM-FT-688
+Journal-ref: Nucl.Phys. B613 (2001) 64-86; Erratum-ibid. B648 (2003) 453-454
+\\
+  We consider the N=4 supersymmetric Yang-Mills theory in four dimensions. We
+compute the one-loop contributions to the effective action with five external
+vector fields and compare them with corresponding results in open superstring
+theory. Our calculation determines the structure of the F^5 terms that appear
+in the nonabelian generalization of the Born Infeld action. The trace operation
+on the gauge group indices receives contributions from the symmetric as well as
+the antisymmetric part. We find that in order to study corrections to the
+symmetrized trace prescription one has to consistently take into account
+derivative contributions not only with antisymmetrized products
+\nabla_{[\mu}\nabla_{\nu]} but also with symmetrized ones
+\nabla_{(\mu}\nabla_{\nu)}.
+\\

@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0002240
+From: Harald Skarke <skarke@physik.hu-berlin.de>
+Date: Mon, 28 Feb 2000 16:25:24 GMT   (76kb)
+
+Title: Complete classification of reflexive polyhedra in four dimensions
+Authors: Maximilian Kreuzer, Harald Skarke
+Comments: 22 pages, latex2e
+Report-no: HUB-EP-00/13, TUW-00-07
+Subj-class: High Energy Physics - Theory; Algebraic Geometry
+Journal-ref: Adv.Theor.Math.Phys. 4 (2002) 1209-1230
+\\
+  Four dimensional reflexive polyhedra encode the data for smooth Calabi-Yau
+threefolds that are hypersurfaces in toric varieties, and have important
+applications both in perturbative and in non-perturbative string theory. We
+describe how we obtained all 473,800,776 reflexive polyhedra that exist in four
+dimensions and the 30,108 distinct pairs of Hodge numbers of the resulting
+Calabi-Yau manifolds. As a by-product we show that all these spaces (and hence
+the corresponding string vacua) are connected via a chain of singular
+transitions.
+\\

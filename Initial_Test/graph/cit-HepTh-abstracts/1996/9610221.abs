@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9610221
+From: Evgeni V Ivashkevich <ivashkev@stp.dias.ie>
+Date: Mon, 28 Oct 1996 20:05:54 +0300   (9kb)
+Date (revised): Mon, 19 Jan 1998 19:36:26 GMT
+
+Title: Symmetries of the stochastic Burgers equation
+Authors: E.V. Ivashkevich
+Comments: 4 pages, REVTeX, replaced with published version
+Subj-class: High Energy Physics - Theory; Chaotic Dynamics
+Journal-ref: J.Phys. A30 (1997) L525-L533
+\\
+  All Lie symmetries of the Burgers equation driven by an external random force
+are found. Besides the generalized Galilean transformations, this equation is
+also invariant under the time reparametrizations. It is shown that the Gaussian
+distribution of a pumping force is not invariant under the symmetries and
+breaks them down leading to the nontrivial vacuum (instanton). Integration over
+the volume of the symmetry groups provides the description of fluctuations
+around the instanton and leads to an exactly solvable quantum mechanical
+problem.
+\\

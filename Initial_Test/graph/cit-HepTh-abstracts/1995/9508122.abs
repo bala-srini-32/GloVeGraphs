@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9508122
+From: BURAKOV@taunivm.tau.ac.il
+Date: Thu, 24 Aug 95 11:51:53 IST   (16kb)
+
+Title: Generalized Boltzmann Equation in a Manifestly Covariant Relativistic
+  Statistical Mechanics
+Authors: L. Burakovsky and L.P. Horwitz
+Journal-ref: Found.Phys. 25 (1995) 1335-1358
+\\
+  We consider the relativistic statistical mechanics of an ensemble of $N$
+events with motion in space-time parametrized by an invariant ``historical
+time'' $\tau .$ We generalize the approach of Yang and Yao, based on the Wigner
+distribution functions and the Bogoliubov hypotheses, to find the approximate
+dynamical equation for the kinetic state of any nonequilibrium system to the
+relativistic case, and obtain a manifestly covariant Boltzmann-type equation
+which is a relativistic generalization of the Boltzmann-Uehling-Uhlenbeck (BUU)
+equation for indistinguishable particles. This equation is then used to prove
+the $H$-theorem for evolution in $\tau .$ In the equilibrium limit, the
+covariant forms of the standard statistical mechanical distributions are
+obtained. We introduce two-body interactions by means of the direct action
+potential $V(q),$ where $q$ is an invariant distance in the Minkowski
+space-time. The two-body correlations are taken to have the support in a
+relative $O( 2,1)$-invariant subregion of the full spacelike region. The
+expressions for the energy density and pressure are obtained and shown to have
+the same forms (in terms of an invariant distance parameter) as those of the
+nonrelativistic theory and to provide the correct nonrelativistic limit.
+\\

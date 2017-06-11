@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9904174
+From: Volkov <vol@tpi.uni-jena.de>
+Date: Mon, 26 Apr 1999 17:27:17 GMT   (15kb)
+
+Title: Bogomol'nyi Equations for Einstein-Yang-Mills-Dilaton theory
+Authors: Mikhail S. Volkov and Dieter Maison
+Comments: 13 pages, LaTeX, 2 epsf figures, uses elsart
+Report-no: MPI-PHT-99/18, FSUJ-TPI-99/04
+Journal-ref: Nucl.Phys. B559 (1999) 591-602
+\\
+  A static, spherically symmetric and purely magnetic solution of the
+Einstein-Yang-Mills-Dilaton theory, found previously by numerical integration
+is shown to obey a system of first order Bogomol'nyi equations. As common for
+such equations, there is a tight relation to supersymmetry, in the present case
+to the N=4 gauged SU(2)$\times$SU(2) supergravity of Freedman and Schwarz.
+Specifically, the dilaton potential of the latter can be avoided by choosing
+one of the two gauge coupling constants to be imaginary. It is argued that this
+corresponds to a hitherto unknown N=4 gauged SU(2)$\times$SU(1,1) supergravity
+in four Euclidean dimensions leading to Bogomol'nyi equations with
+asymptotically flat solutions.
+\\

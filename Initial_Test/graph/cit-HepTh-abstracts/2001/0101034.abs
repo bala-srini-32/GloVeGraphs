@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0101034
+From: Paul Fendley <fendley@rockpile.phys.virginia.edu>
+Date: Fri, 5 Jan 2001 18:39:31 GMT   (46kb)
+
+Title: Integrable sigma models and perturbed coset models
+Authors: Paul Fendley
+Comments: 39 pages, 6 figures
+Subj-class: High Energy Physics - Theory; Statistical Mechanics
+Journal-ref: JHEP 0105 (2001) 050
+\\
+  Sigma models arise frequently in particle physics and condensed-matter
+physics as low-energy effective theories. In this paper I compute the exact
+free energy at any temperature in two hierarchies of integrable sigma models in
+two dimensions. These theories, the SU(N)/SO(N) and O(2P)/O(P) x O(P) models,
+are asymptotically free and exhibit charge fractionalization. When the
+instanton coupling theta=pi, they flow to the SU(N)_1 and O(2P)_1 conformal
+field theories, respectively. I also generalize the free energy computation to
+massive and massless perturbations of the coset conformal field theories
+SU(N)_k/SO(N)_{2k} and O(2P)_k/O(P)_k x O(P)_k.
+\\

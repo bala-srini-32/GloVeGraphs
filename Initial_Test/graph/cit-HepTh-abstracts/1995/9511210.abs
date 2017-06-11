@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9511210
+From: ufrjanik@jetta.if.uj.edu.pl (Romuald Janik)
+Date: Wed, 29 Nov 1995 13:22:49 +0100   (8kb)
+Date (revised): Thu, 30 Nov 1995 08:09:50 +0100
+
+Title: Modular Invariance and the Odderon
+Authors: Romuald Janik
+Comments: 9 pages, LaTeX, uses amssym.def for \Bbb 'blackboard math' fonts
+Report-no: TPJU-18/95
+Journal-ref: Phys.Lett. B371 (1996) 293-297
+\\
+  We identify a new symmetry for the equations governing odderon amplitudes,
+corresponding in the Regge limit of QCD to the exchange of 3 reggeized gluons.
+The symmetry is a modular invariance with respect to the unique normal subgroup
+of sl(2,Z) {\,} of index 2.
+ This leads to a natural description of the Hamiltonian and conservation-law
+operators as acting on the moduli space of elliptic curves with a fixed
+``sign'': elliptic curves are identified if they can be transformed into each
+other by an {\em even} number of Dehn twists.
+\\

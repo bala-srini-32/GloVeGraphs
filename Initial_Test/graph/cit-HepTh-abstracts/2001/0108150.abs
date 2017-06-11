@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0108150
+From: Hiroyuki Hata <hata@gauge.scphys.kyoto-u.ac.jp>
+Date: Tue, 21 Aug 2001 11:13:33 GMT   (22kb)
+Date (revised v2): Thu, 30 Aug 2001 01:12:07 GMT   (22kb)
+Date (revised v3): Fri, 19 Oct 2001 01:14:41 GMT   (22kb)
+Date (revised v4): Thu, 27 Dec 2001 01:05:43 GMT   (22kb)
+
+Title: Open String States around a Classical Solution in Vacuum String Field
+  Theory
+Authors: Hiroyuki Hata (Kyoto U.) and Teruhiko Kawano (Tokyo U.)
+Comments: 30 pages, no figures, LaTeX2e, v4: version appeared in JHEP
+Report-no: KUNS-1732, UT-963
+Journal-ref: JHEP 0111 (2001) 038
+\\
+  We construct a classical solution of vacuum string field theory (VSFT) and
+study whether it represents the perturbative open string vacuum. Our solution
+is given as a squeezed state in the Siegel gauge, and it fixes the arbitrary
+coefficients in the BRST operator in VSFT. We identify the tachyon and massless
+vector states as fluctuation modes around the classical solution. The tachyon
+mass squared \alpha m_t^2 is given in a closed form using the Neumann
+coefficients defining the three-string vertex, and it reproduces numerically
+the expected value of -1 to high precision. The ratio of the potential height
+of the solution to the D25-brane tension is also given in terms of the Neumann
+coefficients. However, the behavior of the potential height in level truncation
+does not match our expectation, though there are subtle points in the analysis.
+\\

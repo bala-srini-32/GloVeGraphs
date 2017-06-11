@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0108100
+From: Gregory Moore <gmoore@physics.rutgers.edu>
+Date: Tue, 14 Aug 2001 15:23:41 GMT   (41kb)
+
+Title: D-Brane Instantons and K-Theory Charges
+Authors: Juan Maldacena, Gregory Moore, Nathan Seiberg
+Comments: 44 pages, harvmac, b-mode
+Report-no: RUNHETC-2001-24
+Journal-ref: JHEP 0111 (2001) 062
+\\
+  We discuss some physical issues related to the K-theoretic classification of
+D-brane charges, putting an emphasis on the role of D-brane instantons. The
+relation to D-instantons provides a physical interpretation to the mathematical
+algorithm for computing K-theory known as the ``Atiyah-Hirzebruch spectral
+sequence.'' Conjecturally, a formulation in terms of D-instantons leads to a
+computationally useful formulation of K-homology in general. As an application
+and illustration of this viewpoint we discuss some issues connected with
+D-brane charges associated with branes in WZW models. We discuss the case of
+SU(3) in detail, and comment on the general picture of branes in SU(N), based
+on a recent result of M. Hopkins.
+\\

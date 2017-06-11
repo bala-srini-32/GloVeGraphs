@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0001129
+From: Michael Duetsch <duetsch@mail.desy.de>
+Date: Thu, 20 Jan 2000 18:34:23 GMT   (28kb)
+
+Title: Algebraic Quantum Field Theory, Perturbation Theory, and the Loop
+  Expansion
+Authors: M. Duetsch and K. Fredenhagen
+Comments: 29 pages
+Report-no: DESY 00-013
+Journal-ref: Commun.Math.Phys. 219 (2001) 5-30
+\\
+  The perturbative treatment of quantum field theory is formulated within the
+framework of algebraic quantum field theory. We show that the algebra of
+interacting fields is additive, i.e. fully determined by its subalgebras
+associated to arbitrary small subregions of Minkowski space. We also give an
+algebraic formulation of the loop expansion by introducing a projective system
+${\cal A}^{(n)}$ of observables ``up to $n$ loops'' where ${\cal A}^{(0)}$ is
+the Poisson algebra of the classical field theory. Finally we give a local
+algebraic formulation for two cases of the quantum action principle and compare
+it with the usual formulation in terms of Green's functions.
+\\

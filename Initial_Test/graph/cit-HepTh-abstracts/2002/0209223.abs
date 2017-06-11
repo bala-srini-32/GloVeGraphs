@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0209223
+From: Keiichi Nagao <nagao@post.kek.jp>
+Date: Thu, 26 Sep 2002 14:52:04 GMT   (9kb)
+Date (revised v2): Thu, 3 Oct 2002 15:00:37 GMT   (10kb)
+
+Title: Ginsparg-Wilson Relation, Topological Invariants and Finite
+  Noncommutative Geometry
+Authors: Hajime Aoki, Satoshi Iso and Keiichi Nagao
+Comments: Revtex4 file, 4 pages, references added, typo corrected
+Report-no: Saga-HE-190, KEK-TH-843
+Subj-class: High Energy Physics - Theory; Mathematical Physics; Quantum Algebra
+\\
+  We show that the Ginsparg-Wilson (GW) relation can play an important role to
+define chiral structures in {\it finite} noncommutative geometries. Employing
+GW relation, we can prove the index theorem and construct topological
+invariants even if the system has only finite degrees of freedom. As an
+example, we consider a gauge theory on a fuzzy two-sphere and give an explicit
+construction of a noncommutative analog of the GW relation, chirality operator
+and the index theorem. The topological invariant is shown to coincide with the
+1st Chern class in the commutative limit.
+\\

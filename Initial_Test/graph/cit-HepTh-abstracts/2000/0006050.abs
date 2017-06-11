@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0006050
+From: Sergey A. Cherkis <cherkis@cooper.physics.ucla.edu>
+Date: Wed, 7 Jun 2000 03:35:07 GMT   (37kb)
+Date (revised v2): Fri, 7 Jul 2000 17:14:46 GMT   (38kb)
+
+Title: Nahm Transform For Periodic Monopoles And N=2 Super Yang-Mills Theory
+Authors: Sergey A. Cherkis and Anton Kapustin
+Comments: 48 pages, AMS latex. v2: several minor errors corrected, exposition
+  improved
+Report-no: IASSNS-HEP-00/44, UCLA-00TEP-17, CITUSC/00-25
+Subj-class: High Energy Physics - Theory; Differential Geometry; Algebraic
+  Geometry
+Journal-ref: Commun.Math.Phys. 218 (2001) 333-371
+\\
+  We study Bogomolny equations on $R^2\times S^1$. Although they do not admit
+nontrivial finite-energy solutions, we show that there are interesting
+infinite-energy solutions with Higgs field growing logarithmically at infinity.
+We call these solutions periodic monopoles. Using Nahm transform, we show that
+periodic monopoles are in one-to-one correspondence with solutions of Hitchin
+equations on a cylinder with Higgs field growing exponentially at infinity. The
+moduli spaces of periodic monopoles belong to a novel class of hyperk\"ahler
+manifolds and have applications to quantum gauge theory and string theory. For
+example, we show that the moduli space of $k$ periodic monopoles provides the
+exact solution of ${\cal N}=2$ super Yang-Mills theory with gauge group $SU(k)$
+compactified on a circle of arbitrary radius.
+\\

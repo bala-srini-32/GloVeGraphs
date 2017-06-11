@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9707106
+From: KACKKACHI KACKKACHI <kachkach@ictp.trieste.it>
+Date: Fri, 11 Jul 1997 09:34:36 +0200 (MET DST)   (8kb)
+
+Title: Gauge Theories: Geometry and cohomological invariants
+Authors: M. Kachkachi, A. Lamine and M. Sarih (D\'epartement de
+  Math\'ematiques, Universit\'e Hassan 1er, Settat, Morocco)
+Comments: 15 pages, revtex. Submitted to J. Phys. A: Mathematical and General
+Journal-ref: Int.J.Theor.Phys. 37 (1998) 1681-1692
+\\
+  We develop a geometrical structure of the manifolds $\Gamma$ and $\hat\Gamma$
+associated respectively to the gauge symmetry and to the BRST symmetry. Then,
+we show that ($\hat\Gamma,\hat\zeta,\Gamma$), where $\hat\zeta$ is the group of
+BRST transformations, is endowed with the structure of a principle fiber bundle
+over the base manifold $\Gamma$. Furthermore, in this geometrical set up due to
+the nilpotency of the BRST operator, we prove that the effective action of a
+gauge theory is a BRST-exact term up to the classical action. Then, we conclude
+that the effective action where only the gauge symmetry is fixed, is
+cohomologically equivalent to the action where the gauge and the BRST
+symmetries are fixed.
+\\

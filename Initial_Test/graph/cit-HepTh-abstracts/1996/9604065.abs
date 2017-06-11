@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9604065
+From: aki@puhep1.Princeton.EDU (Akikazu Hashimoto)
+Date: Thu, 11 Apr 1996 23:00:44 -0400   (14kb)
+
+Title: Decay of Excited D-branes
+Authors: Akikazu Hashimoto and Igor R. Klebanov
+Comments: LaTeX, 12 pages, 1 eps figure. Uses psfig.sty, available from
+  http://xxx.lanl.gov/ftp/hep-th/papers/macros/psfig.sty
+Report-no: PUPT-1612
+Journal-ref: Phys.Lett. B381 (1996) 437-445
+\\
+  We calculate the leading order interactions of massless D-brane excitations.
+Their 4-point functions are found to be identical to those found in type I
+theory. The amplitude for two massless D-brane fluctuations to produce a
+massless closed string is found to possess interesting new structure. As a
+function of its single kinematic invariant, it displays an infinite sequence of
+alternating zeros and poles. At high transverse momenta, this amplitude decays
+exponentially, indicating a growing effective thickness of the D-brane. This
+amplitude is the leading process by which non-extremal D-branes produce
+Hawking radiation.
+\\

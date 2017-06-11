@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0211171
+From: Jeff Murugan <jeff@hbar.mth.uct.ac.za>
+Date: Tue, 19 Nov 2002 17:50:24 GMT   (373kb)
+Date (revised v2): Wed, 27 Nov 2002 16:34:30 GMT   (374kb)
+
+Title: Comments on Noncommutative Sigma Models
+Authors: Jeff Murugan, Rory Adams
+Comments: 22 pages, 4 figures, LaTeX (JHEP3), Minor changes, Discussion
+  expanded and references added
+Journal-ref: JHEP 0212 (2002) 073
+\\
+  We review the derivation of a noncommutative version of the nonlinear sigma
+model on $\CPn$ and it's soliton solutions for finite $\theta$ emphasizing the
+similarities it bears to the GMS scalar field theory. It is also shown that
+unlike the scalar theory, some care needs to be taken in defining the
+topological charge of BPS solitons of the theory due to nonvanishing surface
+terms in the energy functional. Finally it is shown that, like its commutative
+analogue, the noncommutative $\CPn$-model also exhibits a non-BPS sector.
+Unlike the commutative case however, there are some surprises in the
+noncommutative case that merit further study.
+\\

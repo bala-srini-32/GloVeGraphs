@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9910248
+From: Paul S. Aspinwall <psa@math.duke.edu>
+Date: Fri, 29 Oct 1999 19:15:47 GMT   (27kb)
+Date (revised v2): Fri, 19 Nov 1999 19:25:11 GMT   (28kb)
+
+Title: Heterotic String Corrections from the Dual Type II String
+Authors: Paul S. Aspinwall and M. Ronen Plesser
+Comments: 21 pages, 5 figures, refs added
+Report-no: DUKE-CGTP-99-08
+Journal-ref: JHEP 0004 (2000) 025
+\\
+  We introduce a method of using the a dual type IIA string to compute
+alpha'-corrections to the moduli space of heterotic string compactifications.
+In particular we study the hypermultiplet moduli space of a heterotic string on
+a K3 surface. One application of this machinery shows that type IIB strings
+compactified on a Calabi-Yau space suffer from worldsheet instantons, spacetime
+instantons and, in addition, "mixed" instantons which in a sense are both
+worldsheet and spacetime. As another application we look at the hyperkaehler
+limit of the moduli space in which the K3 surface becomes an ALE space. This is
+a variant of the "geometric engineering" method used for vector multiplet
+moduli space and should be applicable to a wide range of examples. In
+particular we reproduce Sen and Witten's result for the heterotic string on an
+A1 singularity and a trivial bundle and generalize this to a collection of E8
+point-like instantons on an ALE space.
+\\

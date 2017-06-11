@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0208230
+From: Martin Porrmann <martin.porrmann@desy.de>
+Date: Fri, 30 Aug 2002 17:05:27 GMT   (41kb)
+Date (revised v2): Wed, 6 Nov 2002 18:32:38 GMT   (41kb)
+
+Title: Particle Weights and their Disintegration I
+Authors: Martin Porrmann
+Comments: 33 pages, amslatex, mathptm, minor corrections including numbering
+  scheme
+\\
+  The notion of Wigner particles is attached to irreducible unitary
+representations of the Poincare group, characterized by parameters m and s of
+mass and spin, respectively. However, the Lorentz symmetry is broken in
+theories with long-range interactions, rendering this approach inapplicable
+(infraparticle problem). A unified treatment of both particles and
+infraparticles via the concept of particle weights can be given within the
+framework of Local Quantum Physics. They arise as temporal limits of physical
+states in the vacuum sector and describe the asymptotic particle content. In
+this paper their definition and characteristic properties are worked out in
+detail. The existence of the temporal limits is established by use of suitably
+defined seminorms which are also essential in proving the characteristic
+features of particle weights.
+\\

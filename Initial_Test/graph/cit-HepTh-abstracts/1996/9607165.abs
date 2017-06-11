@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9607165
+From: Wolfgang Eholzer <W.Eholzer@damtp.cam.ac.uk>
+Date: Sun, 21 Jul 1996 19:01:52 +0100   (13kb)
+Date (revised): Tue, 17 Dec 1996 16:18:20 GMT
+
+Title: Product Expansions of Conformal Characters
+Authors: Wolfgang Eholzer and Nils-Peter Skoruppa
+Comments: 10 pages, LaTeX2e (+amsfonts, amsopn, amsthm, amsmath), one reference
+  added
+Report-no: DAMTP-96-63
+Journal-ref: Phys.Lett. B388 (1996) 82-89
+\\
+  We describe several infinite series of rational conformal field theories
+whose conformal characters are modular units, i.e. which are modular functions
+having no zeros or poles in the upper complex half plane, and which thus
+possess simple product expansions. We conjecture that certain infinite series
+of rational models of Casimir W-algebras always have this property.
+Furthermore, we describe an algorithm which can be used to prove whether a
+modular function is a modular unit or not.
+\\

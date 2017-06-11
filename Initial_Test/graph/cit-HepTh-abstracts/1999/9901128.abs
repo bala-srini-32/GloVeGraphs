@@ -1,0 +1,36 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9901128
+From: "M. Mattis" <mattis@skyrmion.lanl.gov>
+Date: Tue, 26 Jan 1999 00:39:25 GMT   (95kb)
+Date (revised v2): Fri, 29 Jan 1999 19:41:49 GMT   (95kb)
+Date (revised v3): Mon, 18 Oct 1999 19:07:43 GMT   (96kb)
+
+Title: Multi-Instanton Calculus and the AdS/CFT Correspondence in N=4
+  Superconformal Field Theory
+Authors: N. Dorey (Washington, Swansea), T.J. Hollowood (Los Alamos, Swansea),
+  V.V. Khoze (Durham), M.P. Mattis (Los Alamos), S. Vandoren (Swansea)
+Comments: 87 pages, uses an avant-garde version of Latex. Version 3 has an
+  improved discussion of the expansion around the saddle-point solution
+Journal-ref: Nucl.Phys. B552 (1999) 88-168
+\\
+  We present a self-contained study of ADHM multi-instantons in SU(N) gauge
+theory, especially the novel interplay with supersymmetry and the large-N
+limit. We give both field- and string-theoretic derivations of the N=4
+supersymmetric multi-instanton action and collective coordinate integration
+measure. As a central application, we focus on certain n-point functions G_n,
+n=16, 8 or 4, in N=4 SU(N) gauge theory at the conformal point (as well as on
+related higher-partial-wave correlators); these are correlators in which the 16
+exact supersymmetric and superconformal fermion zero modes are saturated. In
+the large-N limit, for the first time in any 4-dimensional theory, we are able
+to evaluate all leading-order multi-instanton contributions exactly. We find
+compelling evidence for Maldacena's conjecture: (1) The large-N k-instanton
+collective coordinate space has the geometry of a single copy of AdS_5 x S^5.
+(2) The integration measure on this space includes the partition function of
+10-dimensional N=1 SU(k) gauge theory dimensionally reduced to 0 dimensions,
+matching the description of D-instantons in Type IIB string theory. (3) In
+exact agreement with Type IIB string calculations, at the k-instanton level,
+G_n = \sqrt{N} g^8 k^{n-7/2} e^{2\pi ik\tau} \sum_{d|k} d^{-2}
+F_n(x_1,...,x_n), where F_n is identical to a convolution of n bulk-to-boundary
+supergravity propagators.
+\\

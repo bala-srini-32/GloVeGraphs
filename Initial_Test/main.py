@@ -74,9 +74,9 @@ def read_graph():
 					G[edge[0]][edge[1]]['weight'] = 1
 	else:
 		if args.weighted:
-			G = nx.read_edgelist(args.input, nodetype=int, data=(('weight',float),), create_using=nx.DiGraph())
-		else:
 			G = nx.read_edgelist(args.input, nodetype=int, create_using=nx.DiGraph())
+		else:
+			G = nx.read_edgelist(args.input, nodetype = int, create_using=nx.DiGraph())
 			for edge in G.edges():
 				G[edge[0]][edge[1]]['weight'] = 1
 
@@ -99,6 +99,7 @@ def main(args):
 	'''
 	Pipeline for representational learning for all nodes in a graph.
 	'''
+	print "Weighted = "+str(args.weighted)
 	nx_G = read_graph()
 	G = node2vec.Graph(nx_G, args.directed, args.p, args.q)
 	G.preprocess_transition_probs()

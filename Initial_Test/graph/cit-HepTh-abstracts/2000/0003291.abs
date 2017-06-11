@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0003291
+From: Brett McInnes <matmcinn@nus.edu.sg>
+Date: Fri, 31 Mar 2000 07:05:37 GMT   (53kb)
+Date (revised v2): Tue, 11 Apr 2000 05:42:21 GMT   (53kb)
+Date (revised v3): Mon, 24 Apr 2000 06:32:36 GMT   (29kb)
+
+Title: AdS/CFT For Non-Boundary Manifolds
+Authors: Brett McInnes
+Comments: 21 pages, 1 eps figure (1000x500), remarks on p-brane stress-tensor
+  clarified
+Report-no: NUS Math Report 773
+Journal-ref: JHEP 0005 (2000) 025
+\\
+  In its Euclidean formulation, the AdS/CFT correspondence begins as a study of
+Yang-Mills conformal field theories on the sphere, S^4. It has been
+successfully extended, however, to S^1 X S^3 and to the torus T^4. It is
+natural to hope that it can be made to work for any manifold on which it is
+possible to define a stable Yang-Mills conformal field theory. We consider a
+possible classification of such manifolds, and show how to deal with the most
+obvious objection : the existence of manifolds which cannot be represented as
+boundaries. We confirm Witten's suggestion that this can be done with the help
+of a brane in the bulk.
+\\

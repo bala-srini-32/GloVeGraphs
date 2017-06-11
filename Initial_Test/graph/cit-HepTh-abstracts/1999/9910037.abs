@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9910037
+From: Harold Steinacker <harold.steinacker@physik.uni-muenchen.de>
+Date: Tue, 5 Oct 1999 16:35:29 GMT   (46kb)
+Date (revised v2): Sun, 10 Oct 1999 16:50:52 GMT   (46kb)
+
+Title: Quantum Anti-de Sitter space and sphere at roots of unity
+Authors: Harold Steinacker
+Comments: 45 pages, LaTeX, 2 figures using epsf. Slight change in notation
+  allows to obtain AdS^2, AdS^3 as special cases of the general scheme
+Report-no: LMU-TPW 99-15
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+Journal-ref: Adv.Theor.Math.Phys. 4 (2000) 155-208
+\\
+  An algebra of functions on q-deformed Anti-de Sitter space AdS_q^D is defined
+which is covariant under U_q(so(2,D-1)), for q a root of unity. The
+star-structure is studied in detail. The scalar fields have an intrinsic
+high-energy cutoff, and arise most naturally as fields on orbifolds AdS_q^D
+\times S^D/G if D is odd, and AdS_q^D \times S_{\chi}^{2D-1}/G if D is even.
+Here G is a finite abelian group, and S_{\chi} is a certain ``chiral sector''
+of the classical sphere. Hilbert spaces of square integrable functions are
+discussed. Analogous results are found for the q-deformed sphere S_q^D.
+\\

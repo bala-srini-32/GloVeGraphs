@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9709168
+From: Andrei Mironov <Andrei.Mironov@itep.ru>
+Date: Tue, 23 Sep 1997 18:10:52 GMT   (13kb)
+Date (revised): Sat, 11 Oct 1997 16:14:27 GMT
+
+Title: Zero curvature representation for classical lattice sine-Gordon equation
+  via quantum R-matrix
+Author: A.Zabrodin
+Comments: 10 pages, LaTeX (misprints are corrected)
+Report-no: ITEP-TH-47/97
+Journal-ref: JETP Lett. 66 (1997) 653-659
+\\
+  Local M-operators for the classical sine-Gordon model in discrete space-time
+are constructed by convolution of the quantum trigonometric 4$\times$4 R-matrix
+with certain vectors in its "quantum" space. Components of the vectors are
+identified with $\tau$-functions of the model. This construction generalizes
+the known representation of M-operators in continuous time models in terms of
+Lax operators and classical $r$-matrix.
+\\

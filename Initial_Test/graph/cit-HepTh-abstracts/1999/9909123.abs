@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9909123
+From: Aalok Misra fc phy <aalok@iitk.ac.in>
+Date: Fri, 17 Sep 1999 07:07:27 GMT   (30kb)
+Date (revised v2): Thu, 18 Nov 1999 11:38:20 GMT   (30kb)
+
+Title: Correct Treatment of 1/(\eta\cdot k)^p Singularities in the Axial Gauge
+  Propagator
+Authors: Satish D. Joglekar, A. Misra (Department of Physics, Indian Institute
+  of Technology, Kanpur, UP, India)
+Comments: 34 pages, LaTex, 2 ps figures; some comments on Wilson loop and two
+  references added; (this) revised version to appear in Int.J.Mod.Phys.A
+Journal-ref: Int.J.Mod.Phys. A15 (2000) 1453-1480; Erratum-ibid. A15 (2000)
+  3899
+\\
+  The propagators in axial-type, light-cone and planar gauges contain
+1/(\eta\cdot k)^p-type singularities. These singularities have generally been
+treated by inventing prescriptions for them. In this work, we propose an
+alternative procedure for treating these singularities in the path integral
+formalism using the known way of treating the singularities in Lorentz gauges.
+To this end, we use a finite field-dependent BRS transformation that
+interpolates between Lorentz-type and the axial-type gauges. We arrive at the
+$\epsilon$-dependent tree propagator in the axial-type gauges. We examine the
+singularity structure of the propagator and find that the axial gauge
+propagator so constructed has {\it no} spurious poles (for real $k$). It
+however has a complicated structure in a small region near $\eta\cdot k=0$. We
+show how this complicated structure can effectively be replaced by a much
+simpler propagator.
+\\

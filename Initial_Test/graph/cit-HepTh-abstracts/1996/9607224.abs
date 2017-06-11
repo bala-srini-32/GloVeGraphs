@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9607224
+From: attilioc@acf2.NYU.EDU (attilioc)
+Date: Mon, 29 Jul 96 17:21:01 -0400   (32kb)
+Date (revised): Wed, 19 Mar 97 05:56:54 -0500
+
+Title: Static Color-Coulomb Force
+Authors: Attilio Cucchieri and Daniel Zwanziger (New York University)
+Comments: Rewritten to make it more self-contained, by explaining the general
+  ideas of the approach followed. 5 pages (including 1 figure); (latex using
+  revtex macro). To be published in Phys.Rev.Lett
+Report-no: NYU-ThPhCZ7-22-96
+Journal-ref: Phys.Rev.Lett. 78 (1997) 3814-3817
+\\
+  The static color-Coulomb interaction potential is calculated as the solution
+of a non-linear integral equation which arises in the Hamiltonian Coulomb gauge
+when the restriction to the interior of the Gribov horizon is implemented. The
+potential obtained is in qualitative agreement with expectations, being
+Coulombic with logarithmic corrections at short range, and confining at long
+range. The values obtained for the string tension and $\Lambda_{\overline{MS}}$
+are in semi-quantitative agreement with lattice Monte Carlo and
+phenomenological determinations.
+\\

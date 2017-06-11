@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9609117
+From: jallouli@ipncls.in2p3.fr
+Date: Mon, 16 Sep 96 11:18:08 +0200   (31kb)
+
+Title: Gauge transformations in relativistic two-particle constraint theory
+Authors: H. Jallouli, H. Sazdjian
+Comments: 32 pages, latex file with 3 figures, uses epsfile.sty for figures
+Report-no: IPNO/TH 96-32
+Journal-ref: J.Math.Phys. 38 (1997) 4951-4970
+\\
+  Using connection with quantum field theory, the infinitesimal covariant
+abelian gauge transformation laws of relativistic two-particle constraint
+theory wave functions and potentials are established and weak invariance of the
+corresponding wave equations shown. Because of the three-dimensional projection
+operation, these transformation laws are interaction dependent. Simplifications
+occur for local potentials, which result, in each formal order of perturbation
+theory, from the infra-red leading effects of multiphoton exchange diagrams. In
+this case, the finite gauge transformation can explicitly be represented, with
+a suitable approximation and up to a multiplicative factor, by a momentum
+dependent unitary operator that acts in $x$-space as a local dilatation
+operator. The latter is utilized to reconstruct from the Feynman gauge the
+potentials in other linear covariant gauges. The resulting effective potential
+of the final Pauli-Schr\"odinger type eigenvalue equation has the gauge
+invariant attractive singularity $\alpha^2/r^2$, leading to a gauge invariant
+critical coupling constant $\alpha_c =1/2$.
+\\

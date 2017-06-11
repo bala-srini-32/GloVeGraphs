@@ -1,0 +1,33 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0011247
+From: Timothy J. Hollowood <t.hollowood@swansea.ac.uk>
+Date: Tue, 28 Nov 2000 10:46:23 GMT   (31kb)
+Date (revised v2): Mon, 19 Feb 2001 13:58:35 GMT   (31kb)
+
+Title: The D-Instanton Partition Function
+Authors: Nick Dorey, Timothy J. Hollowood and Valentin V. Khoze
+Comments: 32 pages, JHEP.cls, some extra comments and typos fixed
+Journal-ref: JHEP 0103 (2001) 040
+\\
+  The D-instanton partition function is a fascinating quantity because in the
+presence of N D3-branes, and in a certain decoupling limit, it reduces to the
+functional integral of N=4 U(N) supersymmetric gauge theory for multi-instanton
+solutions. We study this quantity as a function of non-commutativity in the
+D3-brane theory, VEVs corresponding to separating the D3-branes and alpha'.
+Explicit calculations are presented in the one-instanton sector with arbitrary
+N, and in the large-N limit for all instanton charge. We find that for general
+instanton charge, the matrix theory admits a nilpotent fermionic symmetry and
+that the action is Q-exact. Consequently the partition function localizes on
+the minima of the matrix theory action. This allows us to prove some general
+properties of these integrals. In the non-commutative theory, the contributions
+come from the ``Higgs Branch'' and are equal to the Gauss-Bonnet-Chern integral
+of the resolved instanton moduli space. Separating the D3-branes leads to
+additional localizations on products of abelian instanton moduli spaces. In the
+commutative theory, there are additional contributions from the ``Coulomb
+Branch'' associated to the small instanton singularities of the instanton
+moduli space. We also argue that both non-commutativity and alpha'-corrections
+play a similar role in suppressing the contributions from these singularities.
+Finally we elucidate the relation between the partition function and the Euler
+characteristic of the instanton moduli space.
+\\

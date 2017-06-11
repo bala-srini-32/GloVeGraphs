@@ -1,0 +1,19 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9608178
+From: Antonio Garcia Centeno <garcia@nuclecu.unam.mx>
+Date: Tue, 27 Aug 1996 11:19:28 -0500   (16kb)
+
+Title: BRST-BFV method for nonstationary systems
+Authors: J. Antonio Garc\'ia, J. David Vergara and Luis F. Urrutia
+Comments: Latex, RevTeX, 13 pages
+Journal-ref: Phys.Rev. D51 (1995) 5806-5815
+\\
+  Starting from an associated reparametrization-invariant action, the
+generalization of the BRST-BFV method for the case of nonstationary systems is
+constructed. The extension of the Batalin-Tyutin conversional approach is also
+considered in the nonstationary case. In order to illustrate these ideas, the
+propagator for the time-dependent two-dimensional rotor is calculated by
+reformulating the problem as a system with only first class constraints and
+subsequently using the BRST-BFV prescription previously obtained.
+\\

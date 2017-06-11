@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0005121
+From: guralnik@ovrut.hep.upenn.edu ("Zachary Guralnik")
+Date: Fri, 12 May 2000 22:19:38 GMT   (40kb)
+Date (revised v2): Mon, 15 May 2000 14:24:05 GMT   (40kb)
+Date (revised v3): Thu, 7 Sep 2000 20:40:56 GMT   (41kb)
+
+Title: Five-Brane BPS States in Heterotic M-Theory
+Authors: Antonella Grassi, Zachary Guralnik, and Burt Ovrut (U. Penn)
+Comments: LaTeX, 50 pages, 8 figures, minor changes, submitted to JHEP
+Report-no: UPR 887-T, OUTP-99-03P
+Journal-ref: JHEP 0101 (2001) 037
+\\
+  We present explicit methods for computing the discriminant curves and the
+associated Kodaira type fiber degeneracies of elliptically fibered Calabi-Yau
+threefolds. These methods are applied to a specific three-family, SU(5) grand
+unified theory of particle physics within the context of Heterotic M-Theory. It
+is demonstrated that there is always a region of moduli space where a bulk
+space five-brane is wrapped on a pure fiber in the Calabi-Yau threefold.
+Restricting the discussion to the smooth parts of the discriminant curve, we
+explore the properties of the N=2 BPS supermultiplets that arise on the
+worldvolume of this five-brane due to the degeneration of the elliptic fiber.
+The associated degenerating M membranes are shown to project to string
+junctions in the base space. We use string junction techniques to explicitly
+compute the light BPS hyper- and vector multiplet spectrum for each Kodaira
+type fiber near the smooth part of the discriminant curve in the SU(5) GUT
+theory.
+\\

@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9904199
+From: Dominique Toublan <toublan@tonic.physics.sunysb.edu>
+Date: Wed, 28 Apr 1999 17:56:33 GMT   (20kb)
+Date (revised v2): Tue, 4 May 1999 22:21:39 GMT   (21kb)
+Date (revised v3): Tue, 11 May 1999 15:05:41 GMT   (21kb)
+
+Title: The Spectral Density of the QCD Dirac Operator and Patterns of Chiral
+  Symmetry Breaking
+Authors: D. Toublan and J.J.M. Verbaarschot
+Comments: 27 pages Latex, corrected typos
+Report-no: SUNY-NTG-99/8
+Journal-ref: Nucl.Phys. B560 (1999) 259-282
+\\
+  We study the spectrum of the QCD Dirac operator for two colors with fermions
+in the fundamental representation and for two or more colors with adjoint
+fermions. For $N_f$ flavors, the chiral flavor symmetry of these theories is
+spontaneously broken according to $SU(2N_f)\to Sp(2N_f)$ and $SU(N_f)\to
+O(N_f)$, respectively, rather than the symmetry breaking pattern $SU(N_f)
+\times SU(N_f) \to SU(N_f)$ for QCD with three or more colors and fundamental
+fermions. In this paper we study the Dirac spectrum for the first two symmetry
+breaking patterns. Following previous work for the third case we find the Dirac
+spectrum in the domain $\lambda \ll \Lambda_{\rm QCD}$ by means of partially
+quenched chiral perturbation theory. In particular, this result allows us to
+calculate the slope of the Dirac spectrum at $\lambda = 0$. We also show that
+for $\lambda \ll 1/L^2 \Lambda_{QCD}$ (with $L$ the linear size of the system)
+the Dirac spectrum is given by a chiral Random Matrix Theory with the
+symmetries of the Dirac operator.
+\\

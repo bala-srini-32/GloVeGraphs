@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9907031
+From: Thordur Jonsson <thjons@raunvis.hi.is>
+Date: Tue, 6 Jul 1999 17:09:38 GMT   (10kb)
+
+Title: The spectrum of a transfer matrix for loops
+Authors: Thordur Jonsson and George K. Savvidy
+Comments: Latex2e 13 pages
+Report-no: University of Iceland preprint RH-05-99
+Journal-ref: Nucl.Phys. B575 (2000) 661-672
+\\
+  We study the spectral properties of the transfer matrix for a gonihedric
+random surface model on a three-dimensional lattice. The transfer matrix is
+indexed by generalized loops in a natural fashion and is invariant under a
+group of motions in loop-space. The eigenvalues of the transfer matrix can be
+evaluated exactly in terms of the partition function, the internal energy and
+the correlation functions of the two-dimensional Ising model and the
+corresponding eigenfunctions are explicit functions on loop-space.
+\\

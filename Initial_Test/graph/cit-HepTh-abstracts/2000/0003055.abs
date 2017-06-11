@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0003055
+From: J. Erickson <erickson@alf.nbi.dk>
+Date: Wed, 8 Mar 2000 00:32:31 GMT   (25kb)
+
+Title: Wilson Loops in N=4 Supersymmetric Yang--Mills Theory
+Authors: J.K. Erickson, G.W. Semenoff and K. Zarembo
+Comments: 24 pages, LaTeX, uses feynmp, 12 postscript figures
+Report-no: ITEP-TH-13/00
+Journal-ref: Nucl.Phys. B582 (2000) 155-175
+\\
+  Perturbative computations of the expectation value of the Wilson loop in N=4
+supersymmetric Yang-Mills theory are reported. For the two special cases of a
+circular loop and a pair of anti-parallel lines, it is shown that the sum of an
+infinite class of ladder-like planar diagrams, when extrapolated to strong
+coupling, produces an expectation value characteristic of the results of the
+AdS/CFT correspondence, $<W>\sim\exp((constant)\sqrt{g^2N})$. For the case of
+the circular loop, the sum is obtained analytically for all values of the
+coupling. In this case, the constant factor in front of $\sqrt{g^2N}$ also
+agrees with the supergravity results. We speculate that the sum of diagrams
+without internal vertices is exact and support this conjecture by showing that
+the leading corrections to the ladder diagrams cancel identically in four
+dimensions. We also show that, for arbitrary smooth loops, the ultraviolet
+divergences cancel to order $g^4N^2$.
+\\

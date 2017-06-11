@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9911139
+From: Nitta Muneto <nitta@het.phys.sci.osaka-u.ac.jp>
+Date: Thu, 18 Nov 1999 08:28:47 GMT   (26kb)
+Date (revised v2): Fri, 3 Dec 1999 09:29:17 GMT   (26kb)
+Date (revised v3): Tue, 28 Mar 2000 08:56:35 GMT   (26kb)
+
+Title: Supersymmetric Nonlinear Sigma Models as Gauge Theories
+Authors: Kiyoshi Higashijima and Muneto Nitta (Osaka Univ.)
+Comments: 38 pages, LaTeX, no figures, the version to appear in Prog. Theor.
+  Phys. 103 (2000)
+Report-no: OU-HET 332
+Subj-class: High Energy Physics - Theory; Mathematical Physics
+Journal-ref: Prog.Theor.Phys. 103 (2000) 635-663
+\\
+  Supersymmetric nonlinear sigma models are obtained from linear sigma models
+by imposing supersymmetric constraints. If we introduce auxiliary chiral and
+vector superfields, these constraints can be expressed by D-terms and F-terms
+depending on the target manifolds. Auxiliary vector superfields appear as gauge
+fields without kinetic terms. If there are no D-term constraints, the target
+manifolds are always non-compact manifolds. When all the degrees of freedom in
+these non-compact directions are eliminated by gauge symmetries, the target
+manifold becomes compact. All supersymmetric nonlinear sigma models, whose
+target manifolds are the hermitian symmetric spaces, are successfully
+formulated as gauge theories.
+\\

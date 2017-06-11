@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9508145
+From: DENIS UGLOV <duglov@kurims.kyoto-u.ac.jp>
+Date: Sun, 27 Aug 1995 17:48:55 +0900 (JST)   (33kb)
+Date (revised): Wed, 30 Aug 1995 04:07:37 +0900 (JST)
+
+Title: The trigonometric counterpart of the Haldane Shastry Model
+Author: Denis Uglov
+Comments: amslatex, 42 pages, discrepancies between amslatex 1.1 and newer
+  versions are rectified, two references are added
+\\
+  The hierarchy of Integrable Spin Chain Hamiltonians, which are trigonometric
+analogs of the Haldane Shastry Model and of the associated higher conserved
+charges, is derived by a reduction from the trigonometric Dynamical Models of
+Bernard-Gaudin-Haldane-Pasquier. The Spin Chain Hamiltonians have the property
+of $U_q(\hat{gl}_2)$-invariance. The spectrum of the Hamiltonians and the
+$U_q(\hat{gl}_2)$-representation content of their eigenspaces are found by a
+descent from the Dynamical Models.
+\\

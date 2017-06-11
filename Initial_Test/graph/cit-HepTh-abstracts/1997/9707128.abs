@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9707128
+From: Felix Finster <felix@MATH.HARVARD.EDU>
+Date: Mon, 14 Jul 1997 09:32:16 -0400 (EDT)   (24kb)
+Date (revised): Thu, 3 Sep 1998 04:12:25 GMT
+Date (revised): Fri, 18 Jun 1999 14:37:43 GMT
+
+Title: Light-Cone Expansion of the Dirac Sea to First Order in the External
+  Potential
+Authors: Felix Finster
+Comments: 28 pages (published version)
+Subj-class: High Energy Physics - Theory; Mathematical Physics
+Journal-ref: Michigan Math.J. 46 (1999) 377-408
+\\
+  The perturbation of the Dirac sea to first order in the external potential is
+calculated in an expansion around the light cone. It is shown that the
+perturbation consists of a causal contribution, which describes the singular
+behavior of the Dirac sea on the light cone and contains bounded line integrals
+over the potential and its partial derivatives, and a non-causal contribution,
+which is a smooth function. As a preparatory step, we construct a formal
+solution of the inhomogeneous Klein-Gordon equation in terms of an infinite
+series of line integrals.
+  More generally, the method presented can be used for an explicit analysis of
+Feynman diagrams of the Dirac, Klein-Gordon, and wave equations in position
+space.
+\\

@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0103134
+From: Yannick Meurice <meurice@hepaxp.physics.uiowa.edu>
+Date: Fri, 16 Mar 2001 21:32:55 GMT   (26kb)
+Date (revised v2): Fri, 20 Jul 2001 20:20:44 GMT   (138kb)
+Date (revised v3): Fri, 8 Feb 2002 17:08:09 GMT   (137kb)
+
+Title: A Simple Method to Make Asymptotic Series of Feynman Diagrams Converge
+Authors: Y. Meurice
+Comments: 4 pages, 7 figs., uses revtex; contains a discussion of the
+  double-well
+Report-no: U.of Iowa 012501
+Subj-class: High Energy Physics - Theory; Statistical Mechanics
+Journal-ref: Phys.Rev.Lett. 88 (2002) 141601
+\\
+  We show that for two non-trivial lambda phi ^4 problems (the anharmonic
+oscillator and the Landau-Ginzburg hierarchical model), improved perturbative
+series can be obtained by cutting off the large field contributions. The
+modified series converge to values exponentially close to the exact ones. For
+lambda larger than some critical value, the method outperforms Pade's
+approximants and Borel summations. The method can also be used for series which
+are not Borel summable such as the double-well potential series. We show that
+semi-classical methods can be used to calculate the modified Feynman rules,
+estimate the error and optimize the field cutoff.
+\\

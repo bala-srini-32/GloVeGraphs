@@ -1,0 +1,32 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0004190
+From: Kazuo Fujikawa <fujikawa@hep-th.phys.s.u-tokyo.ac.jp>
+Date: Thu, 27 Apr 2000 04:57:24 GMT   (8kb)
+Date (revised v2): Mon, 4 Dec 2000 08:00:56 GMT   (11kb)
+
+Title: Quantum and Classical Gauge Symmetries in a Modified Quantization Scheme
+Authors: Kazuo Fujikawa and Hiroaki Terashima (Department of Physics,
+  University of Tokyo)
+Comments: 14 pages. Substantially revised and enlarged including the change of
+  the title. To appear in International Journal of Modern Physics A
+Report-no: UT-885
+Journal-ref: Int.J.Mod.Phys. A16 (2001) 1775
+\\
+  The use of the mass term as a gauge fixing term has been studied by
+Zwanziger, Parrinello and Jona-Lasinio, which is related to the non-linear
+gauge $A_{\mu}^{2}=\lambda$ of Dirac and Nambu in the large mass limit. We have
+recently shown that this modified quantization scheme is in fact identical to
+the conventional {\em local} Faddeev-Popov formula {\em without} taking the
+large mass limit, if one takes into account the variation of the gauge field
+along the entire gauge orbit and if the Gribov complications can be ignored.
+This suggests that the classical massive vector theory, for example, is
+interpreted in a more flexible manner either as a gauge invariant theory with a
+gauge fixing term added, or as a conventional massive non-gauge theory. As for
+massive gauge particles, the Higgs mechanics, where the mass term is gauge
+invariant, has a more intrinsic meaning.
+ It is suggested to extend the notion of quantum gauge symmetry (BRST symmetry)
+not only to classical gauge theory but also to a wider class of theories whose
+gauge symmetry is broken by some extra terms in the classical action. We
+comment on the implications of this extended notion of quantum gauge symmetry.
+\\

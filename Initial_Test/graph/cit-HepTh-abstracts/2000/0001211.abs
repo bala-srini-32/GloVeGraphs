@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0001211
+From: LEE Hyung Won <hwlee@physics.inje.ac.kr>
+Date: Mon, 31 Jan 2000 04:20:10 GMT   (8kb)
+Date (revised v2): Wed, 2 Feb 2000 06:54:17 GMT   (8kb)
+Date (revised v3): Sun, 6 Aug 2000 13:29:43 GMT   (10kb)
+Date (revised v4): Mon, 11 Dec 2000 02:16:39 GMT   (10kb)
+
+Title: Schwarzschild black hole in the dilatonic domain wall
+Authors: Y.S. Myung, H.W. Lee (Inje University)
+Comments: 10 pages, title changed, a crucial comment on the brane world black
+  hole added, and to appear in Phys. Rev. D
+Report-no: INJE-TP-00-02
+Journal-ref: Phys.Rev. D63 (2001) 064034
+\\
+  In the dilatonic domain wall model, we study the Schwarzschild black hole as
+a solution to the Kaluza-Klein (KK) zero mode effective action which is
+equivalent to the Brans-Dicke (BD) model with a potential. This can describe
+the large Randall-Sundrum (RS) black hole whose horizon is to be the
+intersection of the black cigar with the brane.
+  The black cigar located far from the AdS$_5$-horizon is known to be stable,
+but any explicit calculation for stability of the RS black hole at $z=0$ is not
+yet performed. Here its stability is investigated against the $z$-independent
+perturbations composed of odd, even parities of graviton ($h_{\mu\nu}$) and BD
+scalar($h_{44} = 2\phi $). It seems that the RS black hole is classically
+unstable because it has a potential instability at wavelength with $\lambda >
+1/(2k)$. However, this is not allowed inside an AdS$_5$-box of the size with
+$1/(2k)$. Thus the RS black hole becomes stable. The RS black hole can be
+considered as a stable remnant at $z=0 $ of the black cigar.
+\\

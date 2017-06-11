@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0202070
+From: Alejandro Corichi <corichi@nuclecu.unam.mx>
+Date: Mon, 11 Feb 2002 17:04:53 GMT   (24kb)
+Date (revised v2): Wed, 13 Feb 2002 23:52:30 GMT   (25kb)
+
+Title: On the Relation Between Fock and Schroedinger Representations for a
+  Scalar Field
+Authors: Alejandro Corichi, Jeronimo Cortez, Hernando Quevedo
+Comments: 24 pages. No figures. References added. Introduction and abstract
+  modified
+Report-no: ICN-UNAM-02/01
+\\
+  It is generally known that linear (free) field theories are one of the few
+QFT that are exactly soluble. There are, however, (at least) two very different
+languages to describe them, Fock space methods and the Schrodinger functional
+description. In this paper, the precise sense in which the two representations
+are related is explored. The well known fact that the usual Fock representation
+is described by a Gaussian measure in the functional picture is proved in an
+explicit fashion, starting `from scratch', for a real scalar field theory on
+Minkowski spacetime but for arbitrary, non-inertial embeddings of the Cauchy
+surface.
+\\

@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9702176
+From: Glenn Barnich <barnich@physik.fu-berlin.de>
+Date: Tue, 25 Feb 1997 12:52:49 +0100 (MET)   (18kb)
+
+Title: The sh Lie structure of Poisson brackets in field theory
+Authors: G. Barnich, R. Fulp, T. Lada and J. Stasheff
+Comments: 24 pages Latex file
+Report-no: CGPG-96/1-7, UNC-MATH-97/3
+Subj-class: High Energy Physics - Theory; Differential Geometry; Quantum
+  Algebra
+\\
+  A general construction of an sh Lie algebra from a homological resolution of
+a Lie algebra is given. It is applied to the space of local functionals
+equipped with a Poisson bracket, induced by a bracket for local functions along
+the lines suggested by Gel'fand, Dickey and Dorfman. In this way, higher order
+maps are constructed which combine to form an sh Lie algebra on the graded
+differential algebra of horizontal forms. The same construction applies for
+graded brackets in field theory such as the Batalin-Fradkin-Vilkovisky bracket
+of the Hamiltonian BRST theory or the Batalin-Vilkovisky antibracket.
+\\

@@ -1,0 +1,19 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9903060
+From: "R. Parthasarathy" <sarathy@imsc.ernet.in>
+Date: Mon, 8 Mar 1999 06:44:39 GMT   (6kb)
+Date (revised v2): Tue, 9 Mar 1999 06:14:03 GMT   (6kb)
+
+Title: Special properties of a submanifold of su(3)
+Authors: R.Parthasarathy
+Comments: 10 pages, LATEX file
+Report-no: IMSc/99/03/06
+\\
+  The finite gauge transformation, in the submanifold of su(3) introduced in
+hep-th/9902027, is found to be linear in the gauge functions ${\omega}^a$'s. In
+this manner, a parameterization of SU(3) in terms of a single real octet vector
+${\omega}^a$ is achieved. Under this finite transformation, those gauge fields
+satisfying $D^{ab}_{\mu}{\omega}^b = 0$, remain unchanged. A geometric meaning
+to the submanifold in terms of rotations in E8 is presented.
+\\

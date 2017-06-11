@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0105261
+From: Andreas Albrecht <albrecht@physics.ucdavis.edu>
+Date: Mon, 28 May 2001 21:24:19 GMT   (27kb)
+Date (revised v2): Fri, 13 Jul 2001 19:56:01 GMT   (29kb)
+Date (revised v3): Wed, 6 Feb 2002 23:42:39 GMT   (31kb)
+
+Title: Exponentially Large Extra Dimensions
+Authors: A. Albrecht, C.P. Burgess, F. Ravndal and C. Skordis
+Comments: 15 Pages including 1 figure. V3: Final version accepted for
+  publication in PRD. This version has an improved discussion (in section IV-B)
+  of our mechanism for preserving the small radion mass. No changes have been
+  made to the technical content or results
+Journal-ref: Phys.Rev. D65 (2002) 123506
+\\
+  We show how the presence of a very light scalar with a cubic self-interaction
+in six dimensions can stabilize the extra dimensions at radii which are
+naturally exponentially large, $r \sim \ell \exp [(4\pi)^3/g^2]$, where $\ell$
+is a microscopic physics scale and $g$ is the (dimensionless) cubic coupling
+constant. The resulting radion mode of the metric becomes a very light degree
+of freedom whose mass, $m \sim 1/(M_p r^2)$ is stable under radiative
+corrections. For $1/r \sim 10^{-3}$ eV the radion is extremely light, $m \sim
+10^{-33}$ eV. Its couplings cause important deviations from General Relativity
+in the very early universe, but naturally evolve to phenomenologically
+acceptable values at present.
+\\

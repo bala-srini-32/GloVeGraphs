@@ -1,0 +1,37 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0004205
+From: Kurt Haller <khaller@uconnvm.uconn.edu>
+Date: Fri, 28 Apr 2000 17:55:03 GMT   (30kb)
+Date (revised v2): Mon, 1 May 2000 12:59:45 GMT   (30kb)
+Date (revised v3): Tue, 11 Jul 2000 15:24:24 GMT   (35kb)
+Date (revised v4): Wed, 3 Jan 2001 16:36:29 GMT   (33kb)
+
+Title: Gauge-invariant fields in the temporal gauge, Coulomb-gauge fields, and
+  the Gribov ambiguity
+Authors: Kurt Haller
+Comments: 27 pages, 1 figure; text has been revised and references added
+Journal-ref: Int.J.Mod.Phys. A16 (2001) 2789
+\\
+  We examine the relation between Coulomb-gauge fields and the gauge-invariant
+fields constructed in the temporal gauge for two-color QCD by comparing a
+variety of properties, including their equal-time commutation rules and those
+of their conjugate chromoelectric fields. We also express the temporal-gauge
+Hamiltonian in terms of gauge-invariant fields and show that it can be
+interpreted as a sum of the Coulomb-gauge Hamiltonian and another part that is
+important for determining the equations of motion of temporal-gauge fields, but
+that can never affect the time evolution of ``physical'' state vectors. We also
+discuss multiplicities of gauge-invariant temporal-gauge fields that belong to
+different topological sectors and that, in previous work, were shown to be
+based on the same underlying gauge-dependent temporal-gauge fields. We argue
+that these multiplicities of gauge-invariant fields are manifestations of the
+Gribov ambiguity. We show that the differential equation that bases the
+multiplicities of gauge-invariant fields on their underlying gauge-dependent
+temporal-gauge fields has nonlinearities identical to those of the ``Gribov''
+equation, which demonstrates the non-uniqueness of Coulomb-gauge fields. These
+multiplicities of gauge-invariant fields --- and, hence, Gribov copies ---
+appear in the temporal gauge, but only with the imposition of Gauss's law and
+the implementation of gauge invariance; they do not arise when the theory is
+represented in terms of gauge-dependent fields and Gauss's law is left
+unimplemented.
+\\

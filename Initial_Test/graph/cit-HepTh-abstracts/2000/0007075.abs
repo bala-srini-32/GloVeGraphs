@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0007075
+From: T. Jayaraman <jayaram@imsc.ernet.in>
+Date: Mon, 10 Jul 2000 08:54:01 GMT   (26kb)
+Date (revised v2): Sat, 15 Jul 2000 08:48:25 GMT   (27kb)
+
+Title: On D-branes from Gauged Linear Sigma Models
+Authors: Suresh Govindarajan (IITM), T. Jayaraman (IMSc) and Tapobrata Sarkar
+  (TIFR)
+Comments: 31+1 pages; LaTex; (v2) Results now extended to include weighted
+  projective spaces. Typos corrected
+Report-no: IMSc/2000/06/22; TIFR/TH/00-25
+Journal-ref: Nucl.Phys. B593 (2001) 155-182
+\\
+  We study both A-type and B-type D-branes in the gauged linear sigma model by
+considering worldsheets with boundary. The boundary conditions on the matter
+and vector multiplet fields are first considered in the large-volume
+phase/non-linear sigma model limit of the corresponding Calabi-Yau manifold,
+where we also find that we need to add a contact term on the boundary. These
+considerations enable to us to derive the boundary conditions in the full
+gauged linear sigma model, including the addition of the appropriate boundary
+contact terms, such that these boundary conditions have the correct non-linear
+sigma model limit. Most of the analysis is for the case of Calabi-Yau manifolds
+with one Kahler modulus (including those corresponding to hypersurfaces in
+weighted projective space), though we comment on possible generalizations.
+\\

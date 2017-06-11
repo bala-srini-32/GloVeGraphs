@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9706213
+From: Achim Kempf <a.kempf@damtp.cam.ac.uk>
+Date: Sat, 28 Jun 1997 18:21:50 MDT   (7kb)
+
+Title: On Nonlocality, Lattices and Internal Symmetries
+Authors: A. Kempf
+Comments: 6 pages, LaTeX
+Report-no: DAMTP-97-66
+Journal-ref: Europhys.Lett. 40 (1997) 257-261
+\\
+  We study functional analytic aspects of two types of correction terms to the
+Heisenberg algebra. One type is known to induce a finite lower bound $\Delta
+x_0$ to the resolution of distances, a short distance cutoff which is motivated
+from string theory and quantum gravity. It implies the existence of families of
+self-adjoint extensions of the position operators with lattices of eigenvalues.
+These lattices, which form representations of certain unitary groups cannot be
+resolved on the given geometry. This leads us to conjecture that, within this
+framework, degrees of freedom that correspond to structure smaller than the
+resolvable (Planck) scale turn into internal degrees of freedom with these
+unitary groups as symmetries. The second type of correction terms is related to
+the previous essentially by "Wick rotation", and its basics are here considered
+for the first time. In particular, we investigate unitarily inequivalent
+representations.
+\\

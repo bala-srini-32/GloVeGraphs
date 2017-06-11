@@ -1,0 +1,32 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0103173
+From: Mitsuo J. Hayashi <mhayashi@keyaki.cc.u-tokai.ac.jp>
+Date: Wed, 21 Mar 2001 05:55:09 GMT   (7kb)
+Date (revised v2): Sat, 7 Apr 2001 02:31:35 GMT   (7kb)
+Date (revised v3): Tue, 10 Apr 2001 05:05:29 GMT   (7kb)
+Date (revised v4): Tue, 11 Dec 2001 01:41:20 GMT   (8kb)
+
+Title: Spin-3/2 Fermions in Twistor Formalism
+Authors: Mitsuo J. Hayashi
+Comments: 13 pages, Latex2e. The derivations and the conclusions are improved
+Report-no: TOKAI-HEP/TH-0105
+Journal-ref: Mod.Phys.Lett. A16 (2001) 2103-2114
+\\
+  Consistency conditions for the local existence of massless spin 3/2 fields
+has been explored that the field equations for massless helicity 3/2 are
+consistent iff the space-time is Ricci-flat and that in Minkowski space-time
+the space of conserved charges for the fields is its twistor space itself.
+After considering the twistorial methods to study such massless helicity 3/2
+fields, we derive in flat space-time that the charges of spin-3/2 fields
+defined topologically by the first Chern number of their spin-lowered self-dual
+Maxwell fields, are given by their twistor space, and in curved space-time that
+the (anti-)self-duality of the space-time is the necessary condition. Since in
+N=1 supergravity torsions are the essential ingredients, we generalize our
+space-time to that with torsion (Einstein-Cartan theory) and have investigated
+the consistency of existence of spin 3/2 fields in it. A simple solution is
+found that the space-time has to be conformally (anti-)self-dual, left-(or
+right-)torsion-free. The integrability condition on $\alpha$-surface shows that
+the (anti-)self-dual Weyl spinor can be described only by the covariant
+derivative of the right-(left-)handed-torsion.
+\\

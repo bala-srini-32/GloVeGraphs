@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0111078
+From: Christopher Herzog <cpherzog@princeton.edu>
+Date: Thu, 8 Nov 2001 19:56:03 GMT   (86kb)
+Date (revised v2): Fri, 9 Nov 2001 16:12:42 GMT   (86kb)
+Date (revised v3): Tue, 13 Nov 2001 13:45:59 GMT   (86kb)
+Date (revised v4): Wed, 14 Aug 2002 06:34:32 GMT   (15kb)
+
+Title: On String Tensions in Supersymmetric SU(M) Gauge Theory
+Authors: Christopher P. Herzog and Igor R. Klebanov
+Comments: 9 pages, 1 figure, v4: Published in PLB, typos in eqs. 10 and 12
+  fixed, figure compressed
+Journal-ref: Phys.Lett. B526 (2002) 388-392
+\\
+  In some models of N=1 supersymmetric SU(M) gauge dynamics (hep-th/9503163 and
+hep-th/9707244), the tension of a string ending on q external quarks is
+proportional to sin(pi q/M), q=1,..., M-1. In this paper we calculate the
+ratios of the q-string tensions using the recently derived type IIB gravity
+duals of N=1 SUSY gauge theories. Far in the IR these gravity duals contain a
+three-sphere with M units of R-R 3-form flux which, upon S-duality, turns into
+NS-NS 3-form flux. The confining q-string is described by a D3-brane wrapping a
+two-sphere inside the three-sphere with q units of world volume flux. For one
+of the gravity dual backgrounds (Maldacena-Nunez) a D3-brane probe calculation
+exactly reproduces the sin(pi q/M) dependence, while for another
+(Klebanov-Strassler) we find approximate agreement. We speculate on the
+connection of the q-string tensions with D-brane tensions in the SU(2) WZW
+model.
+\\

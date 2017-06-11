@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0111261
+From: Peter Mattsson <p.a.mattsson@durham.ac.uk>
+Date: Wed, 28 Nov 2001 19:50:23 GMT   (126kb)
+
+Title: Integrable Quantum Field Theories, in the Bulk and with a Boundary
+Authors: Peter Mattsson
+Comments: Ph.D. thesis, Durham, LaTeX, 112 pages, 6 eps figures, uses
+  fancyheadings.sty
+\\
+  This thesis considers massive field theories in 1+1 dimensions known as
+affine Toda quantum field theories. We first consider the boundary sine-Gordon
+model, deriving a complete picture of the boundary bound state structure for
+general integrable boundary conditions, and then more general ATFTs in the
+bulk, discovering a "generalised bootstrap" equation which explicitly encodes
+the Lie algebra into the S-matrix. This last is related to a number of S-matrix
+identities, as well as a generalisation of the idea that the conserved charges
+of the theory form an eigenvector of the Cartan matrix.
+\\

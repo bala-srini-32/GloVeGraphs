@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9707094
+From: Federica.Vian@PR.infn.it
+Date: Thu, 10 Jul 1997 12:33:30 +0200   (26kb)
+
+Title: Chiral gauge theories and anomalies in the Wilson renormalization group
+  approach
+Authors: M. Bonini and F. Vian
+Comments: 16 pages, 4 figures, LaTex, uses epsfig, amssymb
+Report-no: UPRF 97-07
+Journal-ref: Nucl.Phys. B511 (1998) 479-494
+\\
+  We extend the Wilson renormalization group (RG) formulation to chiral gauge
+theories and show that local gauge symmetry can be implemented by a suitable
+choice of the RG flow boundary conditions. Since the space-time dimension is
+four, there is no ambiguity in handling the matrix $\g_5$ and left and right
+fermions are not coupled. As a result the ultraviolet action contains all
+possible globally chiral invariant interactions. Nevertheless, the correct
+chiral anomaly is reproduced.
+\\

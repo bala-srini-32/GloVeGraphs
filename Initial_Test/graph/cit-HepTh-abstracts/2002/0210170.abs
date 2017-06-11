@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0210170
+From: Cosmas Zachos <zachos@hep.anl.gov>
+Date: Thu, 17 Oct 2002 16:20:19 GMT   (10kb)
+
+Title: Deformation Quantization, Superintegrability, and Nambu Mechanics
+Authors: Cosmas K Zachos and Thomas L Curtright
+Comments: hip-artc.sty LaTeX, 5 pages, Invited talk by CZ at the Wigner
+  Centennial Conference, Pecs, Hungary
+Report-no: ANL-HEP-CP-02-089, Miami TH-4-02
+\\
+  Phase Space is the framework best suited for quantizing superintegrable
+systems--systems with more conserved quantities than degrees of freedom. In
+this quantization method, the symmetry algebras of the hamiltonian invariants
+are preserved most naturally. We illustrate the power and simplicity of the
+method through new applications to nonlinear sigma-models, specifically for
+Chiral Models and de Sitter N-spheres, where the symmetric quantum hamiltonians
+amount to compact and elegant expressions, in accord with the Groenewold-van
+Hove theorem. Additional power and elegance is provided by the use of Nambu
+Brackets (linked to Dirac Brackets) involving the extra invariants of
+superintegrable models. The quantization of Nambu Brackets is then successfully
+compared to that of Moyal, validating Nambu's original proposal, while
+invalidating other proposals.
+\\

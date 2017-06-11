@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9608014
+From: Reinhold Gebert <rwgebert@x4u2.desy.de>
+Date: Fri, 2 Aug 1996 17:07:10 +0200 (MST)   (20kb)
+Date (revised): Thu, 22 Aug 1996 14:04:43 +0200 (MST)
+Date (revised): Tue, 29 Apr 1997 20:04:46 +0200 (MST)
+
+Title: An Affine String Vertex Operator Construction at Arbitrary Level
+Authors: R. W. Gebert (IAS, Princeton), H. Nicolai (AEI, Potsdam)
+Comments: 15 pages, LaTeX2e, packages amsfonts, amssymb, xspace; final version
+  to appear in J. Math. Phys
+Report-no: DESY 96-166
+Journal-ref: J.Math.Phys. 38 (1997) 4435-4450
+\\
+  An affine vertex operator construction at arbitrary level is presented which
+is based on a completely compactified chiral bosonic string whose momentum
+lattice is taken to be the (Minkowskian) affine weight lattice. This
+construction is manifestly physical in the sense of string theory, i.e., the
+vertex operators are functions of DDF ``oscillators'' and the Lorentz
+generators, both of which commute with the Virasoro constraints. We therefore
+obtain explicit representations of affine highest weight modules in terms of
+physical (DDF) string states. This opens new perspectives on the representation
+theory of affine Kac-Moody algebras, especially in view of the simultaneous
+treatment of infinitely many affine highest weight representations of arbitrary
+level within a single state space as required for the study of hyperbolic
+Kac-Moody algebras. A novel interpretation of the affine Weyl group as the
+``dimensional null reduction'' of the corresponding hyperbolic Weyl group is
+given, which follows upon re-expression of the affine Weyl translations as
+Lorentz boosts.
+\\

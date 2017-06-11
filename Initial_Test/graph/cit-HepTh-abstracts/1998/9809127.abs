@@ -1,0 +1,44 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9809127
+From: marco.matone@pd.infn.it
+Date: Thu, 17 Sep 1998 15:36:29 GMT   (100kb)
+Date (revised v2): Fri, 6 Aug 1999 21:57:37 GMT   (109kb)
+
+Title: The Equivalence Postulate of Quantum Mechanics
+Authors: Alon E. Faraggi and Marco Matone
+Comments: 1+3+140 pages, LaTeX. Invariance of the wave-function under the
+  action of SL(2,R) subgroups acting on the reduced action explicitly reveals
+  that the wave-function describes only equivalence classes of Planck length
+  deterministic physics. New derivation of the Schwarzian derivative from the
+  cocycle condition. "Legendre brackets" introduced to further make "Legendre
+  duality" manifest. Introduction now contains examples and provides a short
+  pedagogical review. Clarifications, conclusions, ackn. and references added
+Report-no: UMN-TH-1720-98-TPI-MINN-98/15, UFIFT-HEP-97-18, DFPD98/TH/41
+Subj-class: High Energy Physics - Theory; Mathematical Physics; Exactly
+  Solvable and Integrable Systems
+Journal-ref: Int.J.Mod.Phys. A15 (2000) 1869-2017
+\\
+  The Equivalence Principle (EP), stating that all physical systems are
+connected by a coordinate transformation to the free one with vanishing energy,
+univocally leads to the Quantum Stationary HJ Equation (QSHJE). Trajectories
+depend on the Planck length through hidden variables which arise as initial
+conditions. The formulation has manifest p-q duality, a consequence of the
+involutive nature of the Legendre transform and of its recently observed
+relation with second-order linear differential equations. This reflects in an
+intrinsic psi^D-psi duality between linearly independent solutions of the
+Schroedinger equation. Unlike Bohm's theory, there is a non-trivial action even
+for bound states. No use of any axiomatic interpretation of the wave-function
+is made. Tunnelling is a direct consequence of the quantum potential which
+differs from the usual one and plays the role of particle's self-energy. The
+QSHJE is defined only if the ratio psi^D/psi is a local self-homeomorphism of
+the extended real line. This is an important feature as the L^2 condition,
+which in the usual formulation is a consequence of the axiomatic interpretation
+of the wave-function, directly follows as a basic theorem which only uses the
+geometrical gluing conditions of psi^D/psi at q=\pm\infty as implied by the EP.
+As a result, the EP itself implies a dynamical equation that does not require
+any further assumption and reproduces both tunnelling and energy quantization.
+Several features of the formulation show how the Copenhagen interpretation
+hides the underlying nature of QM. Finally, the non-stationary higher
+dimensional quantum HJ equation and the relativistic extension are derived.
+\\

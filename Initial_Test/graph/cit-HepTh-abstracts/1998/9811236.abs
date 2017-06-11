@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9811236
+From: Petr Jizba <P.Jizba@damtp.cam.ac.uk>
+Date: Fri, 27 Nov 1998 11:45:47 GMT   (152kb)
+Date (revised v2): Sat, 28 Nov 1998 15:27:10 GMT   (152kb)
+
+Title: Pressure of the Non-equilibrium O(N) Phi^{4} Theory in the Large N Limit
+Authors: P.Jizba and E.S.Tututi (DAMTP-Cambridge)
+Comments: 11 pages, REVTeX, 5 figures
+Journal-ref: Phys.Rev. D60 (1999) 105013
+\\
+  We calculate the off-equilibrium hydrostatic pressure for the O(N) Phi^{4}
+theory to the leading order in 1/N. The present paper, the first of a series,
+concentrates on the calculation of pressure in the non-equilibrium but
+translationally invariant medium. The Jaynes-Gibbs principle of maximal entropy
+is used to introduce the relevant density matrix which is then directly
+implemented into dynamical equations through generalised Kubo-Martin-Schwinger
+(KMS) conditions. We show that in the large N limit use of Ward identities
+enables the pressure to be expressed in terms of two point Green's functions.
+These satisfy the Kadanoff-Baym equations which are exactly solvable, and we
+explicitly calculate the pressure for three illustrative choices of \rho.
+\\

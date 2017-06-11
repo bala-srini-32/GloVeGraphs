@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0108181
+From: Naofumi Kitsunezaki <kitsune@eken.phys.nagoya-u.ac.jp>
+Date: Fri, 24 Aug 2001 10:25:24 GMT   (14kb)
+Date (revised v2): Sun, 26 Aug 2001 09:35:06 GMT   (14kb)
+Date (revised v3): Tue, 30 Oct 2001 09:32:44 GMT   (14kb)
+
+Title: Large-N behaviors of the IIB matrix model and the regularized Schild
+  models
+Authors: Naofumi Kitsunezaki, Shozo Uehara
+Comments: 7 pages, 4 figures: minor changes, references added, to appear in
+  JHEP
+Journal-ref: JHEP 0110 (2001) 033
+\\
+  We evaluate $N$ dependences of correlation functions in the bosonic part of
+the IIB matrix model by the Monte Carlo method. We also evaluate those in two
+sorts of regularized Schild models and find that the $N$ dependences are
+different from those in the matrix model. In particular, the distribution of
+the eigenvalues are logarithmically divergent in the regularized Schild model
+when $g^2N$ is fixed.
+\\

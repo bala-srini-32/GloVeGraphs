@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9507028
+From: David Mcavity <mcavity@physics.ubc.ca>
+Date: Wed, 5 Jul 1995 10:46:53 -0700 (PDT)   (15kb)
+
+Title: Integral Transforms for Conformal Field Theories with a Boundary
+Author: David M. McAvity
+Comments: 20 pagess, LateX file
+Report-no: UBC\TP-95-008
+Journal-ref: J.Phys. A28 (1995) 6915-6930
+\\
+  A new method is developed for solving the conformally invariant integrals
+that arise in conformal field theories with a boundary. The presence of a
+boundary makes previous techniques for theories without a boundary less
+suitable. The method makes essential use of an invertible integral transform,
+related to the radon transform, involving integration over planes parallel to
+the boundary. For successful application of this method several nontrivial
+hypergeometric function relations are also derived.
+\\

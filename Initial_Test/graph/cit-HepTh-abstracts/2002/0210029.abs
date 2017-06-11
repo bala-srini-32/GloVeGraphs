@@ -1,0 +1,36 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0210029
+From: Shinpei Kobayashi <shinpei@phys.h.kyoto-u.ac.jp>
+Date: Thu, 3 Oct 2002 15:37:29 GMT   (20kb)
+Date (revised v2): Fri, 24 Jan 2003 00:46:55 GMT   (20kb)
+
+Title: Cosmology with Radion and Bulk Scalar Field in Two Branes Model
+Authors: Shinpei Kobayashi, Kazuya Koyama
+Comments: 34pages, No figure, typos corrected and references added
+Journal-ref: JHEP 0212 (2002) 056
+\\
+  We investigate cosmological evolutions of the bulk scalar field $\phi(t)$ and
+the radion $d(t)$ in five-dimensional dilatonic two branes model. The bulk
+potential for the scalar field is taken as the exponential function $V_{bulk}
+\propto \exp(-2 \sqrt{2} b\phi)$, where $b$ is the parameter of the theory.
+This model includes Randall-Sundrum model (with $b=0$) and five-dimensional
+Ho\v{r}ava-Witten theory (with $b=1$). We consider matter on both branes and
+arbitrary potentials on the branes and in the bulk. These matter and potentials
+induce the cosmological expansion of the brane as well as the time evolution of
+the bulk scalar field and the radion. Starting with full five-dimensional
+equations, we derive four-dimensional effective equations which govern the
+low-energy dynamics of brane worlds. A correspondent five-dimensional geometry
+is also obtained. The effective four-dimensional theory on a positive tension
+brane is described by bi-scalar tensor theory. If the radion is stabilized, the
+effective theory becomes Brans-Dicke (BD) theory with BD parameter $1/2 b^2$.
+On the other hand, if the scalar field is stabilized, the effective theory
+becomes scalar-tensor theory with BD parameter
+$\frac{3}{2(3b^2+1)}\frac{\phi(t)}{1-\phi(t)}$ where $\phi$ is the BD field
+defined by radion $d(t)$. If we do not introduce the stabilization mechanism
+for these moduli fields, the acceptable late time cosmology can be realized
+only if the dilaton coupling $b$ is small ($b^2 < 1.6 \times 10^{-4}$) and the
+negative tension brane is sufficiently away from the positive tension brane. We
+also construct several models for inflationary brane worlds driven by
+potentials on the brane and in the bulk.
+\\

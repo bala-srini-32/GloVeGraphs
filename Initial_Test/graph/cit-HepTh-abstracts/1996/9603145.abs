@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9603145
+From: Gernot Muenster <munsteg@uni-muenster.de>
+Date: Mon, 18 Mar 1996 18:16:34 +0100 (MET)   (10kb)
+
+Title: Tadpole Summation by Dyson-Schwinger Equations
+Authors: Jens Kuester and Gernot Muenster (University of Muenster)
+Comments: 12 pages, use LaTeX2e with macro package feynmf
+Report-no: MS-TPI-96-4
+Journal-ref: Z.Phys. C73 (1997) 551-555
+\\
+  In quantum field theory with three-point and four-point couplings the Feynman
+diagrams of perturbation theory contain momentum independent subdiagrams, the
+``tadpoles'' and ``snails''. With the help of Dyson-Schwinger equations we show
+how these can be summed up completely by a suitable modification of the mass
+and coupling parameters. This reduces the number of diagrams significantly. The
+method is useful for the organisation of perturbative calculations in higher
+orders.
+\\

@@ -1,0 +1,36 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9512048
+From: FIELDS@perugia.infn.it
+Date: Thu, 7 Dec 1995 17:48:48 +0100 (WET)   (42kb)
+Date (revised): Mon, 11 Mar 1996 17:38:21 +0100 (WET)
+
+Title: Charge Screening and Confinement in Hot 3-D QED
+Authors: G. Grignani, G. Semenoff, P. Sodano and O. Tirkkonen
+Comments: 32 pages, Latex, 1 figure, few misprints corrected, some points
+  clarified and some references added
+Report-no: DFUPG 107-95, UBC/GS/122-95
+Journal-ref: Nucl.Phys. B473 (1996) 143-172
+\\
+  We examine the possibility of a confinement-deconfinement phase transition at
+finite temperature in both parity invariant and topologically massive
+three-dimensional quantum electrodynamics. We review an argument showing that
+the Abelian version of the Polyakov loop operator is an order parameter for
+confinement, even in the presence of dynamical electrons. We show that, in the
+parity invariant case, where the tree-level Coulomb potential is logarithmic,
+there is a Berezinskii-Kosterlitz-Thouless transition at a critical temperature
+($T_c=e^2/8\pi+{\cal O}(e^4/m)$, when the ratio of the electromagnetic coupling
+and the temperature to the electron mass is small). Above $T_c$ the electric
+charge is not confined and the system is in a Debye plasma phase, whereas below
+$T_c$ the electric charges are confined by a logarithmic Coulomb potential,
+qualitatively described by the tree-level interaction. When there is a
+topological mass, no matter how small, in a strict sense the theory is not
+confining at any temperature; the model exhibits a screening phase, analogous
+to that found in the Schwinger model and two-dimensional QCD with massless
+adjoint matter. However, if the topological mass is much smaller than the other
+dimensional parameters, there is a temperature for which the range of the
+Coulomb interaction changes from the inverse topological mass to the inverse
+electron mass. We speculate that this is a vestige of the BKT transition of the
+parity-invariant system, separating regions with screening and deconfining
+behavior.
+\\

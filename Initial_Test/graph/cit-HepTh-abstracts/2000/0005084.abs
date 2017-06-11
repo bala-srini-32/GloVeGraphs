@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0005084
+From: Gernot Muenster <munsteg@uni-muenster.de>
+Date: Tue, 9 May 2000 13:56:00 GMT   (25kb)
+Date (revised v2): Tue, 22 Aug 2000 12:51:35 GMT   (25kb)
+
+Title: Distribution of instanton sizes in a simplified instanton gas model
+Authors: Gernot M\"unster and Christel Kamp (University of M\"unster)
+Comments: 16 pages, 4 Postscript figures, LaTeX2e, content revised, references
+  added
+Report-no: MS-TPI-00-3
+Subj-class: High Energy Physics - Theory; Statistical Mechanics
+Journal-ref: Eur.Phys.J. C17 (2000) 447-454
+\\
+  We investigate the distribution of instanton sizes in the framework of a
+simplified model for ensembles of instantons. This model takes into account the
+non-diluteness of instantons. The infrared problem for the integration over
+instanton sizes is dealt with in a self-consistent manner by approximating
+instanton interactions by a repulsive hard core potential. This leads to a
+dynamical suppression of large instantons. The characteristic features of the
+instanton size distribution are studied by means of analytic and Monte Carlo
+methods. In one dimension exact results can be derived. In any dimension we
+find a power law behaviour for small sizes, consistent with the semi-classical
+results. At large instanton sizes the distribution decays exponentially. The
+results are compared with those from lattice simulations.
+\\

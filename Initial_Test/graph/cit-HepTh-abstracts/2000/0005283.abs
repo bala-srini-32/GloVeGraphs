@@ -1,0 +1,34 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0005283
+From: Bin Chen <chenb@funpth.phys.sci.osaka-u.ac.jp>
+Date: Wed, 31 May 2000 11:51:30 GMT   (64kb)
+Date (revised v2): Mon, 12 Jun 2000 13:01:14 GMT   (59kb)
+Date (revised v3): Mon, 25 Sep 2000 03:10:16 GMT   (59kb)
+
+Title: Worldsheet and Spacetime Properties of p-p' System with B Field and
+  Noncommutative Geometry
+Authors: B. Chen, H. Itoyama, T. Matsuo and K. Murakami
+Comments: 41 pages, 4 figures, Latex; revised version, typos corrected, comment
+  on spacetime picture and eq. (5.8) improved
+Report-no: OU-HET 345
+Journal-ref: Nucl.Phys. B593 (2001) 505-544
+\\
+  We study worldsheet and spacetime properties of the p-p' (p < p') open string
+system with constant B_{ij} field viewed from the Dp' brane. The description of
+this system in terms of the CFT with spin and twist fields leads us to consider
+the renormal ordering procedure from the SL(2,R) invariant vacuum to the
+oscillator vacuum. We compute the attendant two distinct superspace two-point
+functions as well as their difference (the subtracted two-point function).
+These bring us an integral (Koba-Nielsen) representation for the multiparticle
+tree scattering amplitudes consisting of N-2 vectors and two tachyons. We
+evaluate them explicitly for the N=3,4 cases. Several novel features are
+observed which include a momentum dependent multiplicative factor to each
+external vector leg and the emergence of a symplectic tensor multiplying the
+polarization vectors. In the zero slope limit, the principal parts of the
+amplitudes translate into a noncommutative field theory in p'+1 dimensions in
+which a scalar field decaying exponentially in (p'-p) dimensions and a
+noncommutative U(1) gauge field interact via the minimal coupling and a new
+interaction. A large number of nearly massless states noted before are shown to
+propagate in the t-channel.
+\\

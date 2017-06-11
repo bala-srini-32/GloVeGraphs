@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9808009
+From: Modanese Giovanni <modanese@science.unitn.it>
+Date: Mon, 3 Aug 1998 08:46:22 GMT   (16kb)
+Date (revised v2): Mon, 7 Dec 1998 16:19:54 GMT   (16kb)
+
+Title: Tunneling of a Massless Field through a 3D Gaussian Barrier
+Authors: G. Modanese
+Comments: 16 pages, LaTeX, 3 PostScript figures; improved presentation, to
+  appear in J. Math. Phys
+Report-no: ECT*-98-12
+Journal-ref: J.Math.Phys. 40 (1999) 3300-3310
+\\
+  We propose a method for the approximate computation of the Green function of
+a scalar massless field Phi subjected to potential barriers of given size and
+shape in spacetime. This technique is applied to the case of a 3D gaussian
+ellipsoid-like barrier, placed on the axis between two pointlike sources of the
+field. Instead of the Green function we compute its temporal integral, that
+gives the static potential energy of the interaction of the two sources. Such
+interaction takes place in part by tunneling of the quanta of Phi across the
+barrier. We evaluate numerically the correction to the potential in dependence
+on the size of the barrier and on the barrier-sources distance.
+\\

@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0002105
+From: "Cesar D. Fosco" <fosco@ictp.trieste.it>
+Date: Sun, 13 Feb 2000 22:32:12 GMT   (38kb)
+Date (revised v2): Tue, 15 Feb 2000 19:31:18 GMT   (38kb)
+
+Title: On the chiral and deconfinement phase transitions in parity-conserving
+  QED_3 at finite temperature
+Authors: I. J. R. Aitchison and C. D. Fosco
+Comments: 1 reference added
+Journal-ref: Nucl.Phys. B578 (2000) 199-214
+\\
+  We present some results about the interplay between the chiral and
+deconfinement phase transitions in parity-conserving QED3 (with N flavours of
+massless 4 component fermions) at finite temperature. Following Grignani et al
+(Phys. Rev. D53, 7157 (1996), Nucl. Phys. B473, 143 (1996)), confinement is
+discussed in terms of an effective Sine-Gordon theory for the timelike
+component of the gauge field A_0. But whereas in the references above the
+fermion mass m is a Lagrangian parameter, we consider the m=0 case and ask
+whether an effective S-G theory can again be derived with m replaced by the
+dynamically generated mass Sigma which appears below T_{ch}, the critical
+temperature for the chiral phase transition. The fermion and gauge sectors are
+strongly interdependent, but as a first approximation we decouple them by
+taking Sigma to be a constant, depending only on the constant part of the gauge
+field. We argue that the existence of a low-temperature confining phase may be
+associated with the generation of Sigma; and that, analogously, the vanishing
+of Sigma for T > T_{ch} drives the system to its deconfining phase. The effect
+of the gauge field dynamics on mass generation is also indicated. (38kb)
+\\

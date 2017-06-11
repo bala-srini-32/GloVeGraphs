@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0112248
+From: Raimar Wulkenhaar <raimar@doppler.thp.univie.ac.at>
+Date: Fri, 28 Dec 2001 16:02:33 GMT   (34kb)
+Date (revised v2): Tue, 2 Apr 2002 09:41:27 GMT   (34kb)
+
+Title: Non-renormalizability of \theta-expanded noncommutative QED
+Authors: Raimar Wulkenhaar (Vienna)
+Comments: 30 pages, LaTeX, JHEP.cls, uses the feynmf package to draw 96 Feynman
+  graphs. v2: minor corrections, references added, adapted to JHEP style
+Report-no: UWThPh-2001-56
+Journal-ref: JHEP 0203 (2002) 024
+\\
+  Computing all divergent one-loop Green's functions of \theta-expanded
+noncommutative quantum electrodynamics up to first order in \theta, we show
+that this model is not renormalizable. The reason is a divergence in the
+electron four-point function which cannot be removed by field redefinitions.
+Ignoring this problem, we find however clear hints for new symmetries in
+massless \theta-expanded noncommutative QED: Four additional divergences which
+would be compatible with gauge and Lorentz symmetries and which are not
+reachable by field redefinitions are absent.
+\\

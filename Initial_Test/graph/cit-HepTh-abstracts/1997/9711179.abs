@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9711179
+From: Chris Hull <C.M.Hull@qmw.ac.uk>
+Date: Mon, 24 Nov 1997 20:14:01 GMT   (19kb)
+Date (revised v2): Wed, 7 Oct 1998 13:23:35 GMT   (20kb)
+
+Title: Matrix Theory, U-Duality and Toroidal Compactifications of M-Theory
+Authors: C.M. Hull
+Comments: 28 Pages, Phyzzx Macro. Minor corrections
+Report-no: QMW-97-35, LPTENS 97/57
+Journal-ref: JHEP 9810 (1998) 011
+\\
+  Using U-duality, the properties of the matrix theories corresponding to the
+compactification of M-theory on $T^d$ are investigated. The couplings of the
+$d+1$ dimensional effective Super-Yang-Mills theory to all the M-theory moduli
+is deduced and the spectrum of BPS branes in the SYM gives the corresponding
+spectrum of the matrix theory.Known results are recovered for $d\le 5$ and
+predictions for $d>5$ are proposed. For $d>3$, the spectrum includes $d-4$
+branes arising from YM instantons, and U-duality interchanges momentum modes
+with brane wrapping modes.For $d=6$, there is a generalised $\th $-angle which
+couples to instantonic 3-branes and which combines with the SYM coupling
+constant to take values in $SL(2,\R)/U(1)$, acted on by an $SL(2,\Z)$ subgroup
+of the U-duality group $E_6(\Z)$. For $d=4,7,8$, there is an $SL(d+1)$
+symmetry, suggesting that the matrix theory could be a scale-invariant $d+2$
+dimensional theory on $T^{d+1} \times \R$ in these cases, as is already known
+to be the case for $d=4$; evidence is found suggesting this happens for $d=8$
+but not $d=7$.
+\\

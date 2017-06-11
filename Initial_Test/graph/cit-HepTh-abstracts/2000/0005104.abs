@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0005104
+From: Saint-Aubin <saint@crm.umontreal.ca>
+Date: Thu, 11 May 2000 14:49:28 GMT   (21kb)
+
+Title: Crossing probabilities on same-spin clusters in the two-dimensional
+  Ising model
+Authors: Ervig Lapalme and Yvan Saint-Aubin
+Comments: 13 pages, 2 figures, latex
+Report-no: CRM-2676
+Journal-ref: J.Phys. A34 (2001) 1825-1836
+\\
+  Probabilities of crossing on same-spin clusters, seen as order parameters,
+have been introduced recently for the critical 2d Ising model by Langlands,
+Lewis and Saint-Aubin. We extend Cardy's ideas, introduced for percolation, to
+obtain an ordinary differential equation of order 6 for the horizontal crossing
+probability pih. Due to the identity pih(r)+pih(1/r)=1, the function pih must
+lie in a 3-dimensional subspace. New measurements of pih are made for 40 values
+of the aspect ratio r (r in [0.1443,6.928]). These data are more precise than
+those obtained by Langlands et al as the 95%-confidence interval is brought to
+4x10^{-4}. A 3-parameter fit using these new data determines the solution of
+the differential equation. The largest gap between this solution and the 40
+data is smaller than 4x10^{-4}. The probability pihv of simultaneous horizontal
+and vertical crossings is also treated.
+\\

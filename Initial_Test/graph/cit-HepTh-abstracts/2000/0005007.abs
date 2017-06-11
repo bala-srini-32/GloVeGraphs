@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0005007
+From: "Sumit R. Das" <das@gravity.theory.tifr.res.in>
+Date: Sun, 30 Apr 2000 20:02:43 GMT   (14kb)
+Date (revised v2): Thu, 11 May 2000 16:41:39 GMT   (14kb)
+
+Title: A Note on Supergravity Duals of Noncommutative Yang-Mills Theory
+Authors: Sumit R. Das and Banhiman Ghosh
+Comments: 18 pages, harvmac; typos corrected and references added
+Report-no: TIFR-TH/00-21
+Journal-ref: JHEP 0006 (2000) 043
+\\
+  A class of supergravity backgrounds have been proposed as dual descriptions
+of strong coupling large-N noncommutative Yang-Mills (NCYM) theories in 3+1
+dimensions. However calculations of correlation functions in supergravity from
+an evaluation of relevant classical actions appear ambiguous. We propose a
+resolution of this ambiguity. Assuming that {\it some} holographic description
+exists - regardless of whether it is the NCYM theory - we argue that there
+should be operators in the holographic boundary theory which create normalized
+states of definite energy and momenta. An operator version of the dual
+correspondence then provides a calculation of correlators of these operators in
+terms of bulk Green's functions. We show that in the low energy limit the
+correlators reproduce expected answers of the ordinary Yang-Mills theory.
+\\

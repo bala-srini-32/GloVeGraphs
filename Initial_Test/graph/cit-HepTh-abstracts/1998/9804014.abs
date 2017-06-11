@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9804014
+From: Toshiya Kawai <toshiya@kurims.kyoto-u.ac.jp>
+Date: Thu, 2 Apr 1998 10:54:44 GMT   (27kb)
+Date (revised v2): Tue, 19 May 1998 19:10:30 GMT   (28kb)
+Date (revised v3): Tue, 14 Jul 1998 10:55:58 GMT   (28kb)
+
+Title: String Duality and Enumeration of Curves by Jacobi Forms
+Authors: Toshiya Kawai
+Comments: 35 pages, submitted to the Proceedings of the Taniguchi Symposium
+  1997 on "Integrable Systems and Algebraic Geometry", Kobe/Kyoto
+\\
+  For a Calabi-Yau threefold admitting both a $K3$ fibration and an elliptic
+fibration (with some extra conditions) we discuss candidate asymptotic
+expressions of the genus 0 and 1 Gromov-Witten potentials in the limit
+(possibly corresponding to the perturbative regime of a heterotic string) where
+the area of the base of the $K3$ fibration is very large. The expressions are
+constructed by lifting procedures using nearly holomorphic Weyl-invariant
+Jacobi forms. The method we use is similar to the one introduced by Borcherds
+for the constructions of automorphic forms on type IV domains as infinite
+products and employs in an essential way the elliptic polylogarithms of
+Beilinson and Levin. In particular, if we take a further limit where the base
+of the elliptic fibration decompactifies, the Gromov-Witten potentials are
+expressed simply by these elliptic polylogarithms. The theta correspondence
+considered by Harvey and Moore which they used to extract the expression for
+the perturbative prepotential is closely related to the Eisenstein-Kronecker
+double series and hence the real versions of elliptic polylogarithms introduced
+by Zagier.
+\\

@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9907057
+From: Uwe Mueller <umueller@thep.physik.uni-mainz.de>
+Date: Thu, 8 Jul 1999 17:28:21 GMT   (14kb)
+Date (revised v2): Thu, 30 Mar 2000 18:26:11 GMT   (14kb)
+
+Title: Integration of the SL(2,R)/U(1) Gauged WZNW Model with Periodic Boundary
+  Conditions
+Authors: Uwe Mueller (Mainz) and Gerhard Weigt (DESY Zeuthen)
+Comments: Equations (72) corrected in accordance with the version published in
+  Nuclear Physics B
+Journal-ref: Nucl.Phys. B568 (2000) 457-471
+\\
+  Gauged WZNW models are integrable conformal field theories. We integrate the
+classical \slu{} theory with periodic boundary conditions, which describes
+closed strings moving in a curved target-space geometry. We calculate its
+Poisson bracket structure by solving an initial state problem. The results
+differ from previous field-theoretic calculations due to zero modes. For a
+future exact canonical quantization the physical fields are (non-locally)
+transformed onto canonical free fields.
+\\

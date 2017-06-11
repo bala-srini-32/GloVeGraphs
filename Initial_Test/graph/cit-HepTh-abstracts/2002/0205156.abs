@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0205156
+From: Stefano Arnone <sa@hep.phys.soton.ac.uk>
+Date: Wed, 15 May 2002 17:46:37 GMT   (17kb)
+
+Title: A demonstration of scheme independence in scalar ERGs
+Authors: Stefano Arnone, Antonio Gatti and Tim R. Morris
+Comments: 6 pages, no figures, talk presented at the fifth international
+  Conference "RG 2002", Strba, Slovakia
+Report-no: SHEP 02-10
+\\
+  The standard demand for the quantum partition function to be invariant under
+the renormalization group transformation results in a general class of exact
+renormalization group equations, different in the form of the kernel. Physical
+quantities should not be sensitive to the particular choice of the kernel. Such
+scheme independence is elegantly illustrated in the scalar case by showing
+that, even with a general kernel, the one-loop beta function may be expressed
+only in terms of the effective action vertices, and in this way the universal
+result is recovered.
+\\

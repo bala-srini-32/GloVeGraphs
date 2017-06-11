@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9809067
+From: John H. Brodie <brodie@puhep1.princeton.edu>
+Date: Wed, 9 Sep 1998 22:13:11 GMT   (13kb)
+Date (revised v2): Mon, 9 Nov 1998 18:49:21 GMT   (13kb)
+
+Title: String corrections to four point functions in the AdS/CFT correspondence
+Authors: John H. Brodie and Michael Gutperle (Princeton U.)
+Comments: 16 pages, uses harvmac, no figures. Minor corrections to some
+  equations and typos fixed
+Report-no: PUPT-1813
+Journal-ref: Phys.Lett. B445 (1999) 296-306
+\\
+  In a string calculation to order $\alpha'^3$, we compute an eight-derivative
+four-dilaton term in the type IIB effective action. Following the AdS
+prescription, we compute the order $(g_{YM}^2N_c)^{-3/2}$ correction to the
+four-point correlation function involving the operator $tr F^2$ in four
+dimensional N=4 super Yang-Mills using the string corrected type IIB action
+extending the work of Freedman et al. (hep-th/9808006). In the limit where two
+of the Yang-Mills operators approach each other, we find that our correction to
+the four-point correlation functions develops a logarithmic singularity. We
+discuss the possible cancellation of this logarithmic singularities by
+conjecturing new terms in the type IIB effective action.
+\\

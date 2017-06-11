@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9512184
+From: zelnikov@phys.ualberta.ca (Andrei Zelnikov)
+Date: Thu, 21 Dec 95 23:10:46 -0700   (182kb)
+Date (revised): Thu, 28 Dec 95 16:17:08 -0700
+
+Title: Black Hole Entropy: Off-Shell vs On-Shell
+Authors: V.P.Frolov, D.V.Fursaev, and A.I.Zelnikov
+Comments: 47 pages, latex, 7 postscript figures have been included since the
+  first submission of the article
+Report-no: Alberta Thy 33-95
+Journal-ref: Phys.Rev. D54 (1996) 2711-2731
+\\
+  Different methods of calculation of quantum corrections to the
+thermodynamical characteristics of a black hole are discussed and compared. The
+relation between on-shell and off-shell approaches is established. The
+off-shell methods are used to explicitly demonstrate that the thermodynamical
+entropy $S^{TD}$ of a black hole, defined by the first thermodynamical law,
+differs from the statistical-mechanical entropy $S^{SM}$, determined as
+$S^{SM}=-\mbox{Tr}(\hat{\rho}^H\ln\hat{\rho}^H)$ for the density matrix
+$\hat{\rho}^H$ of a black hole. It is shown that the observable thermodynamical
+black hole entropy can be presented in the form $S^{TD}=\pi {\bar
+r}_+^2+S^{SM}-S^{SM}_{Rindler}$. Here ${\bar r}_+$ is the radius of the horizon
+shifted because of the quantum backreaction effect, and $S^{SM}_{Rindler}$ is
+the statistical-mechanical entropy calculated in the Rindler space.
+\\

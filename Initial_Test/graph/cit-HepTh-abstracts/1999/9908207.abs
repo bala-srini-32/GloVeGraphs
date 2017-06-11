@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9908207
+From: Jouko Mickelsson <jouko@theophys.kth.se>
+Date: Tue, 31 Aug 1999 13:54:25 GMT   (43kb)
+
+Title: Functorial QFT, Gauge Anomalies and the Dirac Determinant Bundle
+Authors: Jouko Mickelsson and Simon Scott
+Comments: 40 pages (latex)
+Subj-class: High Energy Physics - Theory; Differential Geometry
+Journal-ref: Commun.Math.Phys. 219 (2001) 567-605
+\\
+  Using properties of the determinant line bundle for a family of elliptic
+boundary value problems, we explain how the Fock space functor defines an
+axiomatic quantum field theory which formally models the Fermionic path
+integral. The 'sewing axiom' of the theory arises as an algebraic pasting law
+for the determinant of the Dirac operator. We show how representations of the
+boundary gauge group fit into this description and that this leads to a Fock
+functor description of certain gauge anomalies.
+\\

@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0211100
+From: Rajesh Gopakumar <gopakumr@tomonaga.harvard.edu>
+Date: Tue, 12 Nov 2002 09:10:47 GMT   (14kb)
+Date (revised v2): Tue, 19 Nov 2002 12:52:38 GMT   (14kb)
+Date (revised v3): Wed, 20 Nov 2002 13:41:37 GMT   (15kb)
+
+Title: ${\cal N}=1$ Theories and a Geometric Master Field
+Authors: Rajesh Gopakumar (Harish-Chandra Research Institute, Allahabad)
+Comments: 16 pages; v2. Further elaboration in Sec. 5 on the relation between
+  gauge and matrix eigenvalue distributions, v3: Minor changes
+\\
+  We study the large $N$ limit of the class of U(N) ${\CN}=1$ SUSY gauge
+theories with an adjoint scalar and a superpotential $W(\P)$. In each of the
+vacua of the quantum theory, the expectation values $\la$Tr$\Phi^p$$\ra$ are
+determined by a master matrix $\Phi_0$ with eigenvalue distribution
+$\rho_{GT}(\l)$. $\rho_{GT}(\l)$ is quite distinct from the eigenvalue
+distribution $\rho_{MM}(\l)$ of the corresponding large $N$ matrix model
+proposed by Dijkgraaf and Vafa. Nevertheless, it has a simple form on the
+auxiliary Riemann surface of the matrix model. Thus the underlying geometry of
+the matrix model leads to a definite prescription for computing
+$\rho_{GT}(\l)$, knowing $\rho_{MM}(\l)$.
+\\

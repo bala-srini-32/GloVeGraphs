@@ -1,0 +1,19 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9906147
+From: Agustin Nieto <agustin.nieto@cern.ch>
+Date: Fri, 18 Jun 1999 17:37:27 GMT   (33kb)
+
+Title: Effective field theory approach to N=4 supersymmetric Yang-Mills at
+  finite temperature
+Authors: Agustin Nieto (CERN) and Michel H.G. Tytgat (Brussels)
+Comments: LaTeX, 10 pages, 1 figure, uses epsf
+Report-no: CERN-TH/99-153, ULB-TH/99-10
+\\
+  We study the perturbation expansion of the free energy of N=4 supersymmetric
+SU(N) Yang-Mills at finite temperature in powers of 't Hooft's coupling g^2 N
+in the large N limit. Infrared divergences are controlled by constructing a
+hierarchy of two 3 dimensional effective field theories. This procedure is
+applied to the calculation of the free energy to order (g^2 N)^(3/2), but it
+can be extended to higher order corrections.
+\\

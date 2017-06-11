@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9710146
+From: Joseph A. Minahan <minahan@physics1.usc.edu>
+Date: Fri, 17 Oct 1997 18:12:13 GMT   (23kb)
+
+Title: Instanton Expansions for Mass Deformed N=4 Super Yang-Mills Theories
+Authors: J. A. Minahan, D. Nemeschansky and N. P. Warner
+Comments: harvmac(b) 28 pages
+Report-no: USC-97/016
+Journal-ref: Nucl.Phys. B528 (1998) 109-132
+\\
+  We derive modular anomaly equations from the Seiberg-Witten-Donagi curves for
+softly broken N=4 SU(n) gauge theories. From these equations we can derive
+recursion relations for the pre-potential in powers of m^2, where m is the mass
+of the adjoint hypermultiplet. Given the perturbative contribution of the
+pre-potential and the presence of ``gaps'' we can easily generate the m^2
+expansion in terms of polynomials of Eisenstein series, at least for relatively
+low rank groups. This enables us to determine efficiently the instanton
+expansion up to fairly high order for these gauge groups, e. g. eighth order
+for SU(3). We find that after taking a derivative, the instanton expansion of
+the pre-potential has integer coefficients. We also postulate the form of the
+modular anomaly equations, the recursion relations and the form of the
+instanton expansions for the SO(2n) and E_n gauge groups, even though the
+corresponding Seiberg-Witten-Donagi curves are unknown at this time.
+\\

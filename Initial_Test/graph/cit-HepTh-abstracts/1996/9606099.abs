@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9606099
+From: "Shinsuke M. Nishigaki" <shinsuke@alf.nbi.dk>
+Date: Mon, 17 Jun 1996 17:34:55 +0200 (MET DST)   (8kb)
+Date (revised): Wed, 22 Jan 1997 15:39:50 +0100
+
+Title: Proof of universality of the Bessel kernel for chiral matrix models in
+  the microscopic limit
+Authors: S. Nishigaki (Niels Bohr Inst.)
+Comments: 8 pages, no figures, LaTeX + elsart.sty, elsart12.sty. A typo
+  corrected
+Report-no: NBI-HE-96-27
+Journal-ref: Phys.Lett. B387 (1996) 139-144
+\\
+  We prove the universality of correlation functions of chiral complex matrix
+models in the microscopic limit (N->\infty, z->0, N z=fixed) which magnifies
+the crossover region around the origin of the eigenvalue distribution. The
+proof exploits the fact that the three-term difference equation for orthogonal
+polynomials reduces into a universal second-order differential (Bessel)
+equation in the microscopic limit.
+\\

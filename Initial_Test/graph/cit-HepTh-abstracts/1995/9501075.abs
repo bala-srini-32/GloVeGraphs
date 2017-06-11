@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9501075
+From: Matthias.Blau@enslapp.ens-lyon.fr (Matthias BLAU)
+Date: Wed, 18 Jan 95 14:56:57 +0100   (66kb)
+
+Title: Localization and Diagonalization: A review of functional integral
+  techniques for low-dimensional gauge theories and topological field theories
+Authors: Matthias Blau and George Thompson
+Comments: 72 pages (60 A4 pages), LaTeX (to appear in the Journal of
+  Mathematical Physics Special Issue on Functional Integration (May 1995))
+Report-no: IC/95/5
+Subj-class: High Energy Physics - Theory; Differential Geometry; Functional
+  Analysis
+Journal-ref: J.Math.Phys. 36 (1995) 2192-2236
+\\
+  We review localization techniques for functional integrals which have
+recently been used to perform calculations in and gain insight into the
+structure of certain topological field theories and low-dimensional gauge
+theories. These are the functional integral counterparts of the Mathai-Quillen
+formalism, the Duistermaat-Heckman theorem, and the Weyl integral formula
+respectively. In each case, we first introduce the necessary mathematical
+background (Euler classes of vector bundles, equivariant cohomology, topology
+of Lie groups), and describe the finite dimensional integration formulae. We
+then discuss some applications to path integrals and give an overview of the
+relevant literature. The applications we deal with include supersymmetric
+quantum mechanics, cohomological field theories, phase space path integrals,
+and two-dimensional Yang-Mills theory.
+\\

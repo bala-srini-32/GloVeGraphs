@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9708099
+From: LEE Hyung Won <hwlee@physics.inje.ac.kr>
+Date: Tue, 19 Aug 1997 13:43:33 +0900 (KST)   (14kb)
+Date (revised): Thu, 21 Aug 1997 13:47:36 +0900 (KST)
+Date (revised): Thu, 18 Jun 1998 05:20:37 GMT
+Date (revised): Sun, 11 Oct 1998 09:40:53 GMT
+
+Title: The role of fixed scalars in scattering off a 5D black hole
+Authors: H.W. Lee, Y.S. Myung (Inje U.) and Jin Young Kim (Kunsan Nat'l U.)
+Comments: minor typo errors were corrected, 20 pages no figure, RevTeX
+Report-no: INJE-TP-97-3
+Journal-ref: Phys.Rev. D58 (1998) 104006
+\\
+  We discuss the role of fixed scalars($\nu,\lambda$) in scattering off a
+five-dimensional balck hole. The issue is to explain the disagreement of the
+greybody factor for $\lambda$ between the semiclassical and effective string
+calculations. In the effective string approach, this is related to the
+operators with dimension (3,1) and (1,3). On the semiclassical calculation,
+this originates from a complicated mixing between $\lambda$ and other fields.
+Hence it may depend on the decoupling procedure. It is shown that $\lambda$
+depends on the gauge choices such as the harmonic, dilaton gauges, and the
+Krasnitz-Klebanov setting for $h_{\mu\nu}$. It turns out that $\nu$ plays a
+role of test field well, while the role of $\lambda$ is obscure.
+\\

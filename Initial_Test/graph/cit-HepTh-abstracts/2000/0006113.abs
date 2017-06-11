@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0006113
+From: Marcos Marino <marcosm@physics.rutgers.edu>
+Date: Thu, 15 Jun 2000 17:42:15 GMT   (29kb)
+Date (revised v2): Thu, 17 Aug 2000 14:53:02 GMT   (29kb)
+Date (revised v3): Fri, 27 Apr 2001 20:44:58 GMT   (29kb)
+
+Title: Blowup formulae in Donaldson-Witten theory and integrable hierarchies
+Authors: Jose D. Edelstein, Marta Gomez-Reino and Marcos Marino
+Comments: 34 pages, harvmac, typos corrected, final version
+Report-no: US-FT-/11-00, RUNHETC-2000-22
+Subj-class: High Energy Physics - Theory; Algebraic Geometry
+Journal-ref: Adv.Theor.Math.Phys. 4 (2000) 503-543
+\\
+  We investigate blowup formulae in Donaldson-Witten theory with gauge group
+SU(N), using the theory of hyperelliptic Kleinian functions. We find that the
+blowup function is a hyperelliptic sigma-function and we describe an explicit
+procedure to expand it in terms of the Casimirs of the gauge group up to
+arbitrary order. As a corollary, we obtain a new expression for the contact
+terms and we show that the correlation functions involving the exceptional
+divisor are governed by the KdV hierarchy. We also show that, for manifolds of
+simple type, the blowup function becomes a tau-function for a multisoliton
+solution.
+\\

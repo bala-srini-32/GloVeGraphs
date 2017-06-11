@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9901069
+From: Kirill Krasnov <krasnov@phys.psu.edu>
+Date: Sun, 17 Jan 1999 19:43:45 GMT   (26kb)
+Date (revised v2): Mon, 25 Jan 1999 21:46:21 GMT   (25kb)
+Date (revised v3): Sun, 25 Jul 1999 18:53:35 GMT   (25kb)
+
+Title: BF Description of Higher-Dimensional Gravity Theories
+Authors: L. Freidel, K. Krasnov, R. Puzio (Penn State)
+Comments: 26 pages, Revtex; minor changes
+Report-no: CGPG-99/1-1
+Journal-ref: Adv.Theor.Math.Phys. 3 (1999) 1289-1324
+\\
+  It is well known that, in the first-order formalism, pure three-dimensional
+gravity is just the BF theory. Similarly, four-dimensional general relativity
+can be formulated as BF theory with an additional constraint term added to the
+Lagrangian. In this paper we show that the same is true also for
+higher-dimensional Einstein gravity: in any dimension gravity can be described
+as a constrained BF theory. Moreover, in any dimension these constraints are
+quadratic in the B field. After describing in details the structure of these
+constraints, we scketch the ``spin foam'' quantization of these theories, which
+proves to be quite similar to the spin foam quantization of general relativity
+in three and four dimensions. In particular, in any dimension, we solve the
+quantum constraints and find the so-called simple representations and
+intertwiners. These exhibit a simple and beautiful structure that is common to
+all dimensions.
+\\

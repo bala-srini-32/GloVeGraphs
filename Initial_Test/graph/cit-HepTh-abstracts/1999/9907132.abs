@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9907132
+From: Masafumi Fukuma <fukuma@yukawa.kyoto-u.ac.jp>
+Date: Thu, 15 Jul 1999 19:37:05 GMT   (11kb)
+Date (revised v2): Fri, 16 Jul 1999 19:26:09 GMT   (11kb)
+Date (revised v3): Mon, 29 Nov 1999 10:50:37 GMT   (18kb)
+
+Title: Comments on T-dualities of Ramond-Ramond Potentials
+Authors: Masafumi Fukuma, Takeshi Oota and Hirokazu Tanaka
+Comments: 26 pages; LaTeX; major version up; discussion on the Chern-Simons
+  term added; references added
+Report-no: YITP-99-43
+Journal-ref: Prog.Theor.Phys. 103 (2000) 425-446
+\\
+  The type IIA/IIB effective actions compactified on T^d are known to be
+invariant under the T-duality group SO(d, d; Z) although the invariance of the
+R-R sector is not so direct to see. Inspired by a work of Brace, Morariu and
+Zumino,we introduce new potentials which are mixture of R-R potentials and the
+NS-NS 2-form in order to make the invariant structure of R-R sector more
+transparent. We give a simple proof that if these new potentials transform as a
+Majorana-Weyl spinor of SO(d, d; Z), the effective actions are indeed invariant
+under the T-duality group. The argument is made in such a way that it can apply
+to Kaluza-Klein forms of arbitrary degree. We also demonstrate that these new
+fields simplify all the expressions including the Chern-Simons term.
+\\

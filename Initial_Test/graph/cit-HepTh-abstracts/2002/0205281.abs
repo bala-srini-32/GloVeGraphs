@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0205281
+From: Marcel Vonk <m.l.vonk@phys.uu.nl>
+Date: Mon, 27 May 2002 21:40:07 GMT   (33kb)
+
+Title: On the partition sum of the NS five-brane
+Authors: R. Dijkgraaf, E. Verlinde and M. Vonk
+Comments: 35 pages
+Report-no: PUPT-2030, SPIN-2002/10, ITFA-2002-9
+\\
+  We study the Type IIA NS five-brane wrapped on a Calabi-Yau manifold X in a
+double-scaled decoupling limit. We calculate the euclidean partition function
+in the presence of a flat RR 3-form field. The classical contribution is given
+by a sum over fluxes of the self-dual tensor field which reduces to a
+theta-function. The quantum contributions are computed using a T-dual IIB
+background where the five-branes are replaced by an ALE singularity. Using the
+supergravity effective action we find that the loop corrections to the free
+energy are given by B-model topological string amplitudes. This seems to
+provide a direct link between the double-scaled little strings on the
+five-brane worldvolume and topological strings. Both the classical and quantum
+contributions to the partition function satisfy (conjugate) holomorphic anomaly
+equations, which explains an observation of Witten relating topological string
+theory to the quantization of three-form fields.
+\\

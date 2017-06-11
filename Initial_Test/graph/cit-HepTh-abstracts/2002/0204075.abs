@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0204075
+From: Yuri Shirman <yuri@theory.caltech.edu>
+Date: Mon, 8 Apr 2002 20:06:12 GMT   (28kb)
+Date (revised v2): Thu, 25 Jul 2002 05:12:09 GMT   (29kb)
+
+Title: The strength of small-instanton amplitudes in gauge theories with
+  compact extra dimensions
+Authors: E. Poppitz and Y. Shirman
+Comments: Title modified, references added, typos corrected. Version to appear
+  in JHEP. 24 pages, 1 figure
+Report-no: CALT-68-2380, UPTP-02-02
+Journal-ref: JHEP 0207 (2002) 041
+\\
+  We study instanton effects in theories with compact extra dimensions. We
+perform an instanton calculation in a 5d theory on a circle of radius R, with
+gauge, scalar, and fermion fields in the bulk of the extra dimension. We show
+that, depending on the matter content, instantons of size rho << R can dominate
+the amplitude. Using deconstruction as an ultraviolet definition of the theory
+allows us to show, in a controlled approximation, that for a small number of
+bulk fermions, the amplitude for small size instantons exponentially grows as
+e^{O(1)R/rho}.
+\\

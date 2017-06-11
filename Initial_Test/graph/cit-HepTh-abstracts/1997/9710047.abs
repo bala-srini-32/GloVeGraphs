@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9710047
+From: Bertfried Fauser <bertfried.fauser@uni-tuebingen.de>
+Date: Mon, 6 Oct 1997 09:06:15 GMT   (19kb)
+Date (revised v2): Sun, 25 Feb 2001 19:58:09 GMT   (32kb)
+
+Title: Clifford geometric parameterization of inequivalent vacua
+Authors: Bertfried Fauser
+Comments: Major update, new chapters, 30 pages one Fig. (prev. 15p, no Fig.)
+Report-no: Tue-prep-97-02
+Journal-ref: Math.Methods Appl.Sci. 24 (2001) 885-912
+\\
+  We propose a geometric method to parameterize inequivalent vacua by dynamical
+data. Introducing quantum Clifford algebras with arbitrary bilinear forms we
+distinguish isomorphic algebras --as Clifford algebras-- by different
+filtrations resp. induced gradings. The idea of a vacuum is introduced as the
+unique algebraic projection on the base field embedded in the Clifford algebra,
+which is however equivalent to the term vacuum in axiomatic quantum field
+theory and the GNS construction in C^*-algebras. This approach is shown to be
+equivalent to the usual picture which fixes one product but employs a variety
+of GNS states. The most striking novelty of the geometric approach is the fact
+that dynamical data fix uniquely the vacuum and that positivity is not
+required. The usual concept of a statistical quantum state can be generalized
+to geometric meaningful but non-statistical, non-definite, situations.
+Furthermore, an algebraization of states takes place. An application to physics
+is provided by an U(2)-symmetry producing a gap-equation which governs a phase
+transition. The parameterization of all vacua is explicitly calculated from
+propagator matrix elements. A discussion of the relation to BCS theory and
+Bogoliubov-Valatin transformations is given.
+\\

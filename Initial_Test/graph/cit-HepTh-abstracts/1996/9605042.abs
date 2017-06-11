@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9605042
+From: "A. Sagnotti, U. Roma Tor Vergata" <SAGNOTTI@ROMA2.INFN.IT>
+Date: Tue, 7 May 1996 14:06:39 +0100 (WET-DST)   (16kb)
+
+Title: Open Descendants in Conformal Field Theory
+Authors: Augusto Sagnotti and Yassen S. Stanev (Univ. Roma "Tor Vergata")
+Comments: 19 pages, LATEX, 4 eps figures. Contribution to the Proceedings of
+  the CERN Meeting on STU Dualities, Dec. 95
+Report-no: ROM2F-96/23
+Journal-ref: Fortsch.Phys. 44 (1996) 585-596; Nucl.Phys.Proc.Suppl. 55B (1997)
+  200-209
+\\
+  Open descendants extend Conformal Field Theory to unoriented surfaces with
+boundaries. The construction rests on two types of generalizations of the
+fusion algebra. The first is needed even in the relatively simple case of
+diagonal models. It leads to a new tensor that satisfies the fusion algebra,
+but whose entries are signed integers. The second is needed when dealing with
+non-diagonal models, where Cardy's ansatz does not apply. It leads to a new
+tensor with positive integer entries, that satisfies a set of polynomial
+equations and encodes the classification of the allowed boundary operators.
+\\

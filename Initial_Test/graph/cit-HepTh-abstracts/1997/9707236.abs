@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9707236
+From: kurt.lechner@pd.infn.it
+Date: Tue, 29 Jul 1997 13:19:34 +0100   (25kb)
+
+Title: N = 1, D = 6 Supergravity: Duality and non Minimal Couplings
+Authors: Gianguido Dall'Agata and Kurt Lechner
+Comments: LaTeX2e file, 29 pages, uses package latexsym, no figures
+Report-no: DFPD 97/TH/27
+Journal-ref: Nucl.Phys. B511 (1998) 326-352
+\\
+  In this paper we present a superspace formulation of $N = 1, D = 6$
+supergravity with one tensor-multiplet and an arbitrary number of vector- and
+hypermultiplets, in which the bosonic abelian superforms of the theory, the
+dilaton, the abelian gauge fields and the two-form are replaced by their
+S-duals i.e. four, three and two-superforms respectively, in compatibility with
+supersymmetry. As usual this replacement interchanges Bianchi identities with
+equations of motion. This formulation holds in the presence of one tensor
+multiplet and arbitrary numbers of hypermultiplets and abelian super-Maxwell
+multiplets if all couplings are minimal. We determine the consistency
+conditions for non-minimal couplings in $N = 1$, $D = 6$ supergravity, for
+which we present a particularly significant solution, namely the one associated
+with the Chern-Simons-Lorentz three-form which entails the Green-Schwarz
+anomaly cancellation mechanism. In the case of non minimal couplings it is
+found that the gauge fields and the two-form can still be dualized while the
+dilaton has to remain a zero-form.
+\\

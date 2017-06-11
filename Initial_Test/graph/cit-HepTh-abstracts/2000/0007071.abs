@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0007071
+From: Shinobu Hosono <hosono@ms.u-tokyo.ac.jp>
+Date: Sun, 9 Jul 2000 15:07:42 GMT   (31kb)
+Date (revised v2): Thu, 27 Jul 2000 13:17:34 GMT   (31kb)
+Date (revised v3): Fri, 20 Oct 2000 07:50:24 GMT   (32kb)
+
+Title: Local Mirror Symmetry and Type IIA Monodromy of Calabi-Yau manifolds
+Authors: S. Hosono
+Comments: 30 pages, harvmac.tex; typos corrected, published version in Adv.
+  Theor. Math. Phys. 4(2000)
+Subj-class: High Energy Physics - Theory; Algebraic Geometry
+Journal-ref: Adv.Theor.Math.Phys. 4 (2000) 335-376
+\\
+  We propose a monodromy invariant pairing $K_{hol}(X) \otimes H_3(X^\vee,\ZZ)
+\to \IQ$ for a mirror pair of Calabi-Yau manifolds, $(X,X^\vee)$. This pairing
+is utilized implicitly in the previous calculations of the prepotentials for
+Gromov-Witten invariants. After identifying the pairing explicitly we interpret
+some hypergeometric series from the viewpoint of homological mirror symmetry
+due to Kontsevich. Also we consider the local mirror symmetry limit to del
+Pezzo surfaces in Calabi-Yau 3-folds.
+\\

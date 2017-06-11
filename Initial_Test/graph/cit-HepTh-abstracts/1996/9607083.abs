@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9607083
+From: avan@lpthe.jussieu.fr (Jean AVAN)
+Date: Wed, 10 Jul 1996 18:03:33 +0200 (MET DST)   (22kb)
+Date (revised): Tue, 26 Nov 1996 16:51:59 +0100 (MET)
+
+Title: Yangian-invariant field theory of matrix-vector models
+Authors: J. Avan (LPTHE Paris VI), A. Jevicki (Brown University), J. Lee (Seoul
+  National University)
+Comments: Extensive modifications in the construction of the spinon basis and
+  the subsequent computations of eigenvalues and eigenvectors. Title and
+  references modified. To appear in Nuclear Physics B. 21 pages, Latex
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+Journal-ref: Nucl.Phys. B486 (1997) 650-672
+\\
+  We extend our study of the field-theoretic description of matrix-vector
+models and the associated many-body problems of one dimensional particles with
+spin. We construct their Yangian-su(R) invariant Hamiltonian. It describes an
+interacting theory of a c=1 collective boson and a k=1 su(R) current algebra.
+When $R \geq 3$ cubic-current terms arise. Their coupling is determined by the
+requirement of the Yangian symmetry. The Hamiltonian can be consistently
+reduced to finite-dimensional subspaces of states, enabling an explicit
+computation of the spectrum which we illustrate in the simplest case.
+\\

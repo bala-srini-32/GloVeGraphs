@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9607129
+From: "=?ISO-8859-1?Q?J=F8rgen?= Rasmussen, NBI" <JRASMUSSEN@nbivms.nbi.dk>
+Date: Tue, 16 Jul 1996 12:44:16 +0200   (41kb)
+
+Title: Fusion, Crossing and Monodromy in Conformal Field Theory Based on
+  $SL(2)$ Current Algebra with Fractional Level
+Authors: J.L. Petersen, J. Rasmussen and M. Yu
+Comments: 42 Pages, LaTeX, uses pictex.sty, alternatively prepictex.tex,
+  pictex.tex, postpictex.tex
+Report-no: NBI-HE-96-18, AS-ITP-96-13
+Journal-ref: Nucl.Phys. B481 (1996) 577-624
+\\
+  Based on our earlier work on free field realizations of conformal blocks for
+conformal field theories with $SL(2)$ current algebra and with fractional level
+and spins, we discuss in some detail the fusion rules which arise. By a careful
+analysis of the 4-point functions, we find that both the fusion rules
+previously found in the literature are realized in our formulation. Since this
+is somewhat contrary to our expectations in our first work based on 3-point
+functions, we reanalyse the 3-point functions and come to the same conclusion.
+We compare our results on 4-point conformal blocks in particular with a
+different realization of these found by O. Andreev, and we argue for the
+equivalence. We describe in detail how integration contours have to be chosen
+to obtain convenient bases for conformal blocks, both in his and in our own
+formulation. We then carry out the rather lengthy calculation to obtain the
+crossing matrix between s- and t-channel blocks, and we use that to determine
+the monodromy invariant 4-point greens functions. We use the monodromy
+coefficients to obtain the operator algebra coefficients for theories based on
+admissible representations.
+\\

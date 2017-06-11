@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9703109
+From: Jun Nishimura <nisimura@eken.phys.nagoya-u.ac.jp>
+Date: Sat, 15 Mar 1997 17:33:22 +0900   (20kb)
+Date (revised): Thu, 14 Aug 1997 13:00:43 +0900 (JST)
+Date (revised): Thu, 21 Aug 1997 18:03:57 +0900 (JST)
+
+Title: Parity Invariant Lattice Regularization of Three-Dimensional
+  Gauge-Fermion System
+Authors: Rajamani Narayanan (Univ. of Washington) and Jun Nishimura (Nagoya
+  Univ.)
+Comments: 22 pages, TeX, 3 eps figures; Conclusions on the global gauge anomaly
+  has changed following a recent paper by Kikukawa and Neuberger
+  (hep-lat/9707016). Infinite mass limit clarified
+Report-no: DOE/ER/40561-320-INT97-00-168, UW/PT-97-06, DPNU-97-19
+Journal-ref: Nucl.Phys. B508 (1997) 371-387
+\\
+  In three dimensions, the effective action for the gauge field induced by
+integrating out a massless Dirac fermion is known to give either a
+parity-invariant or a parity-violating result, depending on the regularization
+scheme. We construct a lattice formulation of the massless Dirac fermion using
+the overlap formalism. We show that the result is parity invariant in contrast
+to the formulation using Wilson fermions in the massless limit. This
+facilitates a non-perturbative study of three-dimensional massless Dirac
+fermions interacting with a gauge field in a parity invariant setting with no
+need for fine-tuning.
+\\

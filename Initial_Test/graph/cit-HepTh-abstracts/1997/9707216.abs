@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9707216
+From: Jri rd <jyri@hexagon.fi.tartu.ee>
+Date: Fri, 25 Jul 1997 06:17:56 MDT   (7kb)
+
+Title: Kinematics and uncertainty relations of a quantum test particle in a
+  curved space-time
+Authors: P. Kuusk, J. Ord
+Comments: 6 pages, LaTeX, talk given in the session ``Quantum Fields in Curved
+  Space'' at the VIII Marcel Grossmann Conference in Jerusalem, Israel, June
+  1997
+Report-no: IP-HEP-1/97
+Journal-ref: Phys.Lett. B421 (1998) 99-104
+\\
+  A possible model for quantum kinematics of a test particle in a curved
+space-time is proposed. Every reasonable neighbourhood V_e of a curved
+space-time can be equipped with a nonassociative binary operation called the
+geodesic multiplication of space-time points. In the case of the Minkowski
+space-time, left and right translations of the geodesic multiplication coincide
+and amount to a rigid shift of the space-time x->x+a. In a curved space-time
+infinitesimal geodesic right translations can be used to define the (geodesic)
+momentum operators. The commutation relations of position and momentum
+operators are taken as the quantum kinematic algebra. As an example, detailed
+calculations are performed for the space-time of a weak plane gravitational
+wave. The uncertainty relations following from the commutation rules are
+derived and their physical meaning is discussed.
+\\

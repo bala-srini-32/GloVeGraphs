@@ -1,0 +1,33 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9706145
+From: Adel Bilal <Adel.Bilal@lpt.ens.fr>
+Date: Fri, 20 Jun 1997 11:03:27 +0200 (MET DST)   (73kb)
+Date (revised): Thu, 26 Jun 1997 19:38:13 +0200 (MET DST)
+Date (revised): Wed, 9 Jul 1997 16:56:45 +0200 (MET DST)
+Date (revised): Mon, 15 Dec 1997 10:50:55 GMT
+
+Title: The BPS Spectra and Superconformal Points in Massive N=2 Supersymmetric
+  QCD
+Authors: Adel Bilal and Frank Ferrari (ENS Paris)
+Comments: 58 pages, 27 figures, uses phyzzx, speculative discussion of UV
+  behaviour removed
+Report-no: LPTENS-97/2
+Journal-ref: Nucl.Phys. B516 (1998) 175-228
+\\
+  We present a detailed study of the analytic structure, BPS spectra and
+superconformal points of the $ N=2 $ susy $ SU(2) $ gauge theories with $
+N_f=1,2,3 $ massive quark hypermultiplets. We compute the curves of marginal
+stability with the help of the explicit solutions for the low energy effective
+actions in terms of standard elliptic functions. We show that only a few of
+these curves are relevant. As a generic example, the case of $ N_f=2 $ with two
+equal bare masses is studied in depth. We determine the precise existence
+domains for each BPS state, and show how they are compatible with the RG flows.
+At the superconformal point, where two singularities coincide, we prove that
+(for $ N_f=2 $) the massless spectrum consists of four distinct BPS states and
+is S-invariant. This is due to the monodromy around the superconformal point
+being S, providing strong evidence for exact S-duality of the SCFT. For all $
+N_f $, we compute the slopes $ \omega $ of the $ \beta $-functions at the fixed
+point couplings and show that they are related to the anomalous dimensions $
+\alpha $ of $ u= < tr \phi^2 > $ by $ \omega= 2 (\alpha -1) $.
+\\

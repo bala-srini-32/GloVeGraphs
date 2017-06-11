@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9504013
+From: Gabriele Ferretti <ferretti@fy.chalmers.se>
+Date: Tue, 4 Apr 1995 20:22:44 +0200   (23kb)
+Date (revised): Tue, 11 Apr 1995 15:50:08 +0200
+
+Title: On the Large N Limit of 3D and 4D Hermitian Matrix Models
+Author: Gabriele Ferretti
+Comments: Number 0.519689 in eqs (36) and (37) should be replaced by 0.303152.
+  The critical exponents were computed with the correct number entry and are
+  therefore UNCHANGED
+Report-no: ITP 95-99
+Journal-ref: Nucl. Phys. B450 (1995) 713
+\\
+  The large N limit of the hermitian matrix model in three and four Euclidean
+space-time dimensions is studied with the help of the approximate
+Renormalization Group recursion formula. The planar graphs contributing to wave
+function, mass and coupling constant renormalization are identified and summed
+in this approximation. In four dimensions the model fails to have an
+interacting continuum limit, but in three dimensions there is a non trivial
+fixed point for the approximate RG relations. The critical exponents of the
+three dimensional model at this fixed point are $\nu = 0.665069$ and
+$\eta=0.19882$. The existence (or non existence) of the fixed point and the
+critical exponents display a fairly high degree of universality since they do
+not seem to depend on the specific (non universal) assumptions made in the
+approximation.
+\\

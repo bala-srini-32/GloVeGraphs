@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9602091
+From: "Sergio A. Pernice" <sergio@charm.pas.rochester.edu>
+Date: Fri, 16 Feb 1996 12:50:09 -0500   (288kb)
+
+Title: Nonperturbative Renormalon Structure of Infrared Unstable Theories
+Authors: A. Duncan and S. Pernice
+Comments: 40 pages, Latex, 9 figures
+Journal-ref: Phys.Rev. D51 (1995) 1956-1967
+\\
+  The properties of a generalized version of the Borel Transform in infrared
+unstable theories with dynamical mass generation are studied. The
+reconstruction of the nonperturbative structure is unambiguous in this version.
+Various methods for extracting the singularity structure of the Borel Transform
+for lattice formulations of such theories are explored, and illustrated
+explicitly with the O(N) sigma model. The status of the first infrared
+renormalon in QCD is discussed. The feasibility of a proposed technique for
+analytically continuing from the left hand Borel plane (where nonperturbative
+information is available via simulation of lattice field theory) to the
+positive real axis is examined using the sigma model.
+\\

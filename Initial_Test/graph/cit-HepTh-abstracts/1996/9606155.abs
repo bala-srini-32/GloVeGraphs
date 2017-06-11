@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9606155
+From: rochev@mx.ihep.su
+Date: Tue, 25 Jun 1996 13:12:17 GMT+03:00   (9kb)
+Date (revised): Thu, 15 May 1997 18:17:59 GMT+03:00
+
+Title: A non-perturbative method of calculation of Green functions
+Authors: V.E. Rochev
+Comments: 13 pages, Plain LaTex, no figures, some discussion of results for
+  anharmonic oscillator and a number of references are added, final version
+  published in Journal of Physics A
+Journal-ref: J.Phys. A30 (1997) 3671-3680
+\\
+  A new method for non-perturbative calculation of Green functions in quantum
+mechanics and quantum field theory is proposed. The method is based on an
+approximation of Schwinger-Dyson equation for the generating functional by
+exactly soluble equation in functional derivatives. Equations of the leading
+approximation and the first step are solved for $\phi^4_d$-model. At $d=1$
+(anharmonic oscillator) the ground state energy is calculated. The
+renormalization program is performed for the field theory at $d=2,3$. At $d=4$
+the renormalization of the coupling involves a trivialization of the theory.
+\\

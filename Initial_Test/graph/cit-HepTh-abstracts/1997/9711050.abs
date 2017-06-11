@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9711050
+From: Bodo Geyer <bodo.geyer@itp.uni-leipzig.de>
+Date: Fri, 7 Nov 1997 16:17:07 GMT   (12kb)
+
+Title: Symmetry properties of massive gauge theories in nonlinear background
+  gauges: Background dependence of Green functions
+Authors: B. Geyer (Leipzig University) and D. M"ulsch (Wissenschaftszentrum
+  e.V.)
+Comments: 10 pages, LATEX
+Report-no: NTZ-29/97
+\\
+  Nonabelian gauge theories with a generic background field A_mu in nonlinear
+gauges due to Delbourgo and Jarvis are investigated. The A_mu-dependence is
+completely determined by the help of a linear differential equation which
+obtaines from the Kluberg-Stern-Zuber and the Lee identity. Its integration
+leads to a relation between the one-particle irreducible vertex functional in
+the background field A_mu and the corresponding functional for A_mu = 0. An
+analogous relation holds for the generating functional of the complete Green
+functions which, after restriction to physical Green functions, is used to
+confirm a result obtained by Rouet in the case of linear background gauge.
+\\

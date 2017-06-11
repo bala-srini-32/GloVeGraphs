@@ -1,0 +1,19 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0210169
+From: "Dmitri Belov" <belov@physics.rutgers.edu>
+Date: Thu, 17 Oct 2002 18:29:06 GMT   (45kb)
+Date (revised v2): Mon, 21 Oct 2002 17:50:34 GMT   (45kb)
+
+Title: On spectral density of Neumann matrices
+Authors: D.M. Belov and A. Konechny
+Comments: 10 pages, 2 figures, LaTeX 2e; typos corrections
+\\
+  In hep-th/0111281 the complete set of eigenvectors and eigenvalues of Neumann
+matrices was found. It was shown also that the spectral density contains a
+divergent constant piece that being regulated by truncation at level L equals
+(log L)/(2\pi). In this paper we find an exact analytic expression for the
+finite part of the spectral density. This function allows one to calculate
+finite parts of various determinants arising in string field theory
+computations. We put our result to some consistency checks.
+\\

@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0208118
+From: Christian Brouder <christian.brouder@lmcp.jussieu.fr>
+Date: Fri, 16 Aug 2002 15:29:57 GMT   (24kb)
+
+Title: Quantum groups and quantum field theory: I. The free scalar field
+Authors: Christian Brouder and Robert Oeckl
+Comments: 22 pages, no figures
+\\
+  The quantum field algebra of real scalar fields is shown to be an example of
+infinite dimensional quantum group. The underlying Hopf algebra is the
+symmetric algebra S(V) and the product is Wick's normal product. Two
+coquasitriangular structures can be built from the two-point function and the
+Feynman propagator of scalar fields to reproduce the operator product and the
+time-ordered product as twist deformations of the normal product. A
+correspondence is established between the quantum group and the quantum field
+concepts. On the mathematical side the underlying structures come out of Hopf
+algebra cohomology.
+\\

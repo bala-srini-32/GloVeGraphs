@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0102047
+From: Tanmay Vachaspati <tanmay@monopole.phys.cwru.edu>
+Date: Fri, 9 Feb 2001 04:39:50 GMT   (10kb)
+Date (revised v2): Tue, 13 Feb 2001 06:32:07 GMT   (10kb)
+Date (revised v3): Wed, 28 Feb 2001 06:03:13 GMT   (10kb)
+
+Title: A class of kinks in SU(N)\times Z_2
+Authors: Tanmay Vachaspati
+Comments: 7 pages; included discussion of gauge fields and other improvements
+Journal-ref: Phys.Rev. D63 (2001) 105010
+\\
+  In a classical, quartic field theory with $SU(N) \times Z_2$ symmetry, a
+class of kink solutions can be found analytically for one special choice of
+parameters. We construct these solutions and determine their energies. In the
+limit $N\to \infty$, the energy of the kink is equal to that of a kink in a
+$Z_2$ model with the same mass parameter and quartic coupling (coefficient of
+${\rm Tr}(\Phi^4)$). We prove the stability of the solutions to small
+perturbations but global stability remains unproven. We then argue that the
+continuum of choices for the boundary conditions leads to a whole space of kink
+solutions. The kinks in this space occur in classes that are determined by the
+chosen boundary conditions. Each class is described by the coset space $H/I$
+where $H$ is the unbroken symmetry group and $I$ is the symmetry group that
+leaves the kink solution invariant.
+\\

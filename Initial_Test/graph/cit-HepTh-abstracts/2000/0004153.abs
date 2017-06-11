@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0004153
+From: D.Broadhurst@open.ac.uk (David Broadhurst)
+Date: Sat, 22 Apr 2000 14:09:01 GMT   (13kb)
+
+Title: Central Binomial Sums, Multiple Clausen Values and Zeta Values
+Authors: J. M. Borwein, D. J. Broadhurst and J. Kamnitzer
+Comments: 17 pages, LaTeX, with use of amsmath and amssymb packages, to appear
+  in Journal of Experimental Mathematics
+Report-no: OUT--4102--88, CECM 99:137
+Subj-class: High Energy Physics - Theory; Classical Analysis and ODEs
+Journal-ref: Exper.Math. 10 (2001) 25-34
+\\
+  We find and prove relationships between Riemann zeta values and central
+binomial sums. We also investigate alternating binomial sums (also called
+Ap\'ery sums). The study of non-alternating sums leads to an investigation of
+different types of sums which we call multiple Clausen values. The study of
+alternating sums leads to a tower of experimental results involving
+polylogarithms in the golden ratio. In the non-alternating case, there is a
+strong connection to polylogarithms of the sixth root of unity, encountered in
+the 3-loop Feynman diagrams of {\tt hep-th/9803091} and subsequently in
+hep-ph/9910223, hep-ph/9910224, cond-mat/9911452 and hep-th/0004010.
+\\

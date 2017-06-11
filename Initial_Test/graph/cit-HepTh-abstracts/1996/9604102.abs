@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9604102
+From: Artemio Gonzalez Lopez <artemio@ciruelo.fis.ucm.es>
+Date: Wed, 17 Apr 1996 16:32:22 +0200   (47kb)
+
+Title: Real Lie Algebras of Differential Operators and Quasi-Exactly Solvable
+  Potentials
+Authors: Artemio Gonzalez-Lopez (1), Niky Kamran (2), and Peter J. Olver (3)
+  ((1) Departamento de Fisica Teorica II, Universidad Complutense, Madrid,
+  SPAIN, (2) Department of Mathematics, McGill University, Montreal, Quebec,
+  CANADA, (3) School of Mathematics, University of Minnesota, Minneapolis, MN,
+  USA)
+Comments: 33 pages, plain TeX. To apper in Phil. Trans. London Math. Soc.
+  Please typeset only the file rf.tex
+Report-no: UCM/FTII-05-95
+\\
+  We first establish some general results connecting real and complex Lie
+algebras of first-order differential operators. These are applied to completely
+classify all finite-dimensional real Lie algebras of first-order differential
+operators in $R^2$. Furthermore, we find all algebras which are quasi-exactly
+solvable, along with the associated finite-dimensional modules of analytic
+functions. The resulting real Lie algebras are used to construct new
+quasi-exactly solvable Schroedinger operators on $R^2$.
+\\

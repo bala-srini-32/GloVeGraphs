@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9901020
+From: Stephan Stieberger <stephan.stieberger@cern.ch>
+Date: Wed, 6 Jan 1999 00:44:17 GMT   (21kb)
+Date (revised v2): Mon, 16 Aug 1999 12:31:57 GMT   (23kb)
+
+Title: Higher Derivative Couplings and Heterotic-Type I Duality in Eight
+  Dimensions
+Authors: K. Foerger (CPHT) and S. Stieberger (CERN)
+Comments: 26 pages, harvmac; Appendix about regularization included; Final
+  version to appear in NPB
+Report-no: CERN-TH/98-412 & CPHT-S707.1298
+Journal-ref: Nucl.Phys. B559 (1999) 277-300
+\\
+  We calculate F^4 and R^4T^(4g-4) couplings in d=8 heterotic and type I string
+vacua (with gauge and graviphoton field strengths F,T, and Riemann curvature
+R). The holomorphic piece F_g of the heterotic one-loop coupling R^4T^(4g-4) is
+given by a polylogarithm of index 5-4g and encodes the counting of genus g
+curves with g nodes on the K3 of the dual F-theory side. We present closed
+expressions for world-sheet tau-integrals with an arbitrary number of lattice
+vector insertions. Furthermore we verify that the corresponding heterotic
+one-loop couplings sum up perturbative open string and non-perturbative
+D-string contributions on the type I side. Finally we discuss a type I one-loop
+correction to the R^2 term.
+\\

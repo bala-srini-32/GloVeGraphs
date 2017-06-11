@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9912283
+From: Noah Graham <graham@mitlns.mit.edu>
+Date: Thu, 30 Dec 1999 23:58:18 GMT   (22kb)
+Date (revised v2): Fri, 24 Mar 2000 19:23:34 GMT   (22kb)
+Date (revised v3): Mon, 27 Mar 2000 18:05:07 GMT   (22kb)
+
+Title: A Heavy Fermion Can Create a Soliton: A 1+1 Dimensional Example
+Authors: E. Farhi, N. Graham, R. L. Jaffe, H. Weigel
+Comments: 10 pages, RevTeX, 2 figures composed from 4 .eps files; v2: fixed
+  minor errors, added reference; v3: corrected reference added in v2
+Report-no: MIT-CTP#2937
+Journal-ref: Phys.Lett. B475 (2000) 335
+\\
+  We show that quantum effects can stabilize a soliton in a model with no
+soliton at the classical level. The model has a scalar field chirally coupled
+to a fermion in 1+1 dimensions. We use a formalism that allows us to calculate
+the exact one loop fermion contribution to the effective energy for a spatially
+varying scalar background. This energy includes the contribution from
+counterterms fixed in the perturbative sector of the theory. The resulting
+energy is therefore finite and unambiguous. A variational search then yields a
+fermion number one configuration whose energy is below that of a single free
+fermion.
+\\

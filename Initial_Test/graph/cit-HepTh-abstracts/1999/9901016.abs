@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9901016
+From: Kasper Peeters <k.peeters@damtp.cam.ac.uk>
+Date: Tue, 5 Jan 1999 15:26:56 GMT   (55kb)
+Date (revised v2): Mon, 17 May 1999 13:44:08 GMT   (56kb)
+
+Title: Spinors on manifolds with boundary: APS index theorems with torsion
+Authors: Kasper Peeters and Andrew Waldron
+Comments: 40 pages, LaTeX2e, uses feynmp.sty
+Report-no: DAMTP-1998-169, NIKHEF 98-034
+Subj-class: High Energy Physics - Theory; Differential Geometry
+Journal-ref: JHEP 9902 (1999) 024
+\\
+  Index theorems for the Dirac operator allow one to study spinors on manifolds
+with boundary and torsion. We analyse the modifications of the boundary
+Chern-Simons correction and APS eta invariant in the presence of torsion. The
+bulk contribution must also be modified and is computed using a supersymmetric
+quantum mechanics representation. Here we find agreement with existing results
+which employed heat kernel and Pauli-Villars techniques. Nonetheless, this
+computation also provides a stringent check of the Feynman rules of de Boer et
+al. for the computation of quantum mechanical path integrals. Our results can
+be verified via a duality relation between manifolds admitting a Killing-Yano
+tensor and manifolds with torsion. As an explicit example, we compute the
+indices of Taub-NUT and its dual constructed using this method and find
+agreement for any finite radius to the boundary. We also suggest a resolution
+to the problematic appearance of the Nieh-Yan invariant multiplied by the
+regulator mass^2 in computations of the chiral gravitational anomaly coupled to
+torsion.
+\\

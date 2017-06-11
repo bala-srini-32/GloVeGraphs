@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9511147
+From: Jean-Guy Demers <jgdemers@hep.physics.mcgill.ca>
+Date: Tue, 21 Nov 1995 13:32:57 -0500 (EST)   (52kb)
+
+Title: Decoherence of Black Holes by Hawking Radiation
+Authors: J.-G. Demers and C. Kiefer
+Comments: 29 pages of LATEX, with 2 (included) figures
+Report-no: Mc-Gill 95-56, Freiburg THEP-95/22
+Journal-ref: Phys.Rev. D53 (1996) 7050-7061
+\\
+  We discuss in detail the semiclassical approximation for the CGHS model of
+two-dimensional dilatonic black holes. This is achieved by a formal expansion
+of the full Wheeler-DeWitt equation and the momentum constraint in powers of
+the gravitational constant. In highest order, the classical CGHS solution is
+recovered. The next order yields a functional Schr\"odinger equation for
+quantum fields propagating on this background. We show explicitly how the
+Hawking radiation is recovered from this equation. Although described by a pure
+quantum state, the expectation value of the number operator exhibits a
+Planckian distribution with respect to the Hawking temperature.
+ We then show how this Hawking radiation can lead to the decoherence of black
+hole superpositions. The cases of a superposition of a black hole with a white
+hole, as well as of a black hole with no hole, are treated explicitly.
+\\

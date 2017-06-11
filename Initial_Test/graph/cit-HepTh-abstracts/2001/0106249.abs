@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0106249
+From: Burkhard EDEN <burkhard@lapp.in2p3.fr>
+Date: Tue, 26 Jun 2001 22:58:08 GMT   (19kb)
+Date (revised v2): Thu, 28 Jun 2001 22:01:51 GMT   (19kb)
+Date (revised v3): Mon, 10 Sep 2001 17:11:15 GMT   (19kb)
+
+Title: On the OPE of 1/2 BPS Short Operators in N=4 SCFT$_4$
+Authors: B. Eden and E. Sokatchev
+Comments: Minor changes made, a reference added
+Report-no: LAPTH-857/01
+Journal-ref: Nucl.Phys. B618 (2001) 259-276
+\\
+  The content of the OPE of two 1/2 BPS operators in N=4 SCFT$_4$ is given by
+their superspace three-point functions with a third, a priori long operator.
+For certain 1/2 BPS short superfields these three-point functions are uniquely
+determined by superconformal invariance. We focus on the cases where the
+leading ($\theta=0$) components lie in the tensor products
+$[0,m,0]\otimes[0,n,0]$ and $[m,0,0]\otimes[0,0,n]$ of SU(4).
+  We show that the shortness conditions at the first two points imply selection
+rules for the supermultiplet at the third point. Our main result is the
+identification of all possible protected operators in such OPE's. Among them we
+find not only BPS short multiplets, but also series of special long multiplets
+which satisfy current-like conservation conditions in superspace.
+\\

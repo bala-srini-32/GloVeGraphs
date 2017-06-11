@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9709152
+From: Tohru Eguchi <eguchi@hep-th.phys.s.u-tokyo.ac.jp>
+Date: Sat, 20 Sep 1997 10:57:12 +0900   (12kb)
+
+Title: Quantum Cohomology and Free Field Representation
+Authors: Tohru Eguchi, Masao Jinzenji and Chuan-Sheng Xiong
+Comments: Latex, 13pages
+Subj-class: High Energy Physics - Theory; Algebraic Geometry
+Journal-ref: Nucl.Phys. B510 (1998) 608-622
+\\
+  In our previous article we have proposed that the Virasoro algebra controls
+the quantum cohomology of Fano varieties at all genera. In this paper we
+construct a free field description of Virasoro operators and quantum
+cohomology. We shall show that to each even (odd) homology class of a
+K\"{a}hler manifold we have a free bosonic (fermionic) field and Virasoro
+operators are given by a simple bilinear form of these fields. We shall show
+that the Virasoro condition correctly reproduces the Gromov-Witten invariants
+also in the case of manifolds with non-vanishing non-analytic classes
+($h^{p,q}\not=0,p\not=q$) and suggest that the Virasoro condition holds
+universally for all compact smooth K\"{a}hler manifolds.
+\\

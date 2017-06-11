@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0002039
+From: Christopher Herzog <cpherzog@princeton.edu>
+Date: Sat, 5 Feb 2000 16:03:35 GMT   (11kb)
+Date (revised v2): Mon, 14 Feb 2000 19:55:51 GMT   (12kb)
+Date (revised v3): Mon, 5 Mar 2001 16:40:52 GMT   (12kb)
+
+Title: OPEs and 4-point Functions in AdS/CFT Correspondence
+Authors: Christopher P. Herzog
+Comments: 18 pages, no figures, references expanded and amended, note added for
+  publication in JHEP
+Journal-ref: JHEP 0102 (2001) 038
+\\
+  Recently D'Hoker et al. (1999) computed 4-point correlation functions of
+axion and dilaton fields in type IIB SUGRA on AdS_5 x S^5. We reproduce from a
+CFT point of view all power law singular terms in these AdS 4-point amplitudes.
+We also calculate a corresponding 4-point function in the weak coupling limit,
+g_{YM}^2 N -> 0. Comparison reveals the existence of a primary operator that
+contributes to these same singular terms in the weak coupling limit but which
+does not contribute to the power law singular terms of the type IIB SUGRA
+4-point function. We conclude that this new operator is not a chiral primary
+and hence acquires a large anomalous dimension in the strong coupling regime.
+\\

@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0204085
+From: Benedicte Ponsot <bponsot@aei-potsdam.mpg.de>
+Date: Wed, 10 Apr 2002 10:33:01 GMT   (20kb)
+Date (revised v2): Fri, 19 Apr 2002 07:57:25 GMT   (21kb)
+Date (revised v3): Tue, 12 Nov 2002 09:41:04 GMT   (22kb)
+
+Title: Monodromy of solutions of the Knizhnik-Zamolodchikov equation:
+  SL(2,C)/SU(2) WZNW model
+Authors: Benedicte Ponsot
+Comments: 26 pages.v2: relation to prior works made explicit, many references
+  added, minor typos corrected
+Journal-ref: Nucl.Phys. B642 (2002) 114-138
+\\
+  Three explicit and equivalent representations for the monodromy of the
+conformal blocks in the SL(2,C)/SU(2) WZNW model are proposed in terms of the
+same quantity computed in Liouville field theory. We show that there are two
+possible fusion matrices in this model. This is due to the fact that the
+conformal blocks, being solutions to the Knizhnik-Zamolodchikov equation, have
+a singularity when the SL(2,C) isospin coordinate x equals the worldsheet
+variable z. We study the asymptotic behaviour of the conformal block when x
+goes to z. The obtained relation inserted into a four point correlation
+function in the SL(2,C)/SU(2) WZNW model gives some expression in terms of two
+correlation functions in Liouville field theory.
+\\

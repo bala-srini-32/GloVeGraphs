@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9811178
+From: Ingo Runkel <ingo@mth.kcl.ac.uk>
+Date: Thu, 19 Nov 1998 15:38:49 GMT   (20kb)
+Date (revised v2): Fri, 4 Jun 1999 14:11:42 GMT   (20kb)
+
+Title: Boundary structure constants for the A-series Virasoro minimal models
+Authors: Ingo Runkel
+Comments: 14 pages, LaTeX2e, 6 figures, uses amsmath,amsfonts,epsfig,cite;
+  minor corrections, version as to appear in Nucl.Phys.B
+Report-no: KCL-MTH-98-59
+Journal-ref: Nucl.Phys. B549 (1999) 563-578
+\\
+  We consider A-series modular invariant Virasoro minimal models on the upper
+half plane. From Lewellen's sewing constraints a necessary form of the bulk and
+boundary structure constants is derived. Necessary means that any solution can
+be brought to the given form by rescaling of the fields. All constants are
+expressed essentially in terms of fusing (F-) matrix elements and the
+normalisations are chosen such that they are real and no square roots appear.
+It is not shown in this paper that the given structure constants solve the
+sewing constraints, however random numerical tests show no contradiction and
+agreement of the bulk structure constants with Dotsenko and Fateev. In order to
+facilitate numerical calculations a recursion relation for the F-matrices is
+given.
+\\

@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0212269
+From: Jan Plefka <plefka@aei-potsdam.mpg.de>
+Date: Fri, 20 Dec 2002 20:12:24 GMT   (14kb)
+Date (revised v2): Fri, 7 Mar 2003 13:14:23 GMT   (14kb)
+Date (revised v3): Tue, 18 Mar 2003 12:49:30 GMT   (13kb)
+
+Title: BMN Gauge Theory as a Quantum Mechanical System
+Authors: N. Beisert, C. Kristjansen, J. Plefka, M. Staudacher
+Comments: 13 pages, v2: minor changes, v3: typo corrected, to appear in Phys.
+  Lett. B
+Report-no: AEI-2002-104
+Journal-ref: Phys. Lett. B558 (2003) 229-237
+\\
+  We rigorously derive an effective quantum mechanical Hamiltonian from N=4
+gauge theory in the BMN limit. Its eigenvalues yield the exact one-loop
+anomalous dimensions of scalar two-impurity BMN operators for all genera. It is
+demonstrated that this reformulation vastly simplifies computations. E.g. the
+known anomalous dimension formula for genus one is reproduced through a
+one-line calculation. We also efficiently evaluate the genus two correction,
+finding a non-vanishing result. We comment on multi-trace two-impurity
+operators and we conjecture that our quantum-mechanical reformulation could be
+extended to higher quantum loops and more impurities.
+\\

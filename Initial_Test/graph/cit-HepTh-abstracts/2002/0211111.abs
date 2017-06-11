@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0211111
+From: Eric D'Hoker <dhoker@physics.ucla.edu>
+Date: Tue, 12 Nov 2002 23:51:24 GMT   (261kb)
+
+Title: Lectures on Two-Loop Superstrings
+Authors: Eric D'Hoker and D.H. Phong
+Comments: 37 pages, 3 figures, Lectures delivered at Hangzhou and Beijing 2002
+Report-no: UCLA/02/TEP/28 - Columbia/Math/02
+\\
+  In these lectures, recent progress on multiloop superstring perturbation
+theory is reviewed. A construction from first principles is given for an
+unambiguous and slice-independent two-loop superstring measure on moduli space
+for even spin structure. A consistent choice of moduli, invariant under local
+worldsheet supersymmetry is made in terms of the super-period matrix. A variety
+of subtle new contributions arising from a careful gauge fixing procedure are
+taken into account.
+  The superstring measure is computed explicitly in terms of genus two
+theta-functions and reveals the importance of a new modular object of weight 6.
+For given even spin structure, the measure exhibits a behavior under
+degenerations of the worldsheet that is consistent with physical principles.
+The measure allows for a unique modular covariant GSO projection. Under this
+GSO projection, the cosmological constant, the 1-, 2- and 3- point functions of
+massless supergravitons vanish pointwise on moduli space. A certain
+disconnected part of the 4-point function is shown to be given by a convergent
+integral on moduli space. A general consistent formula is given for the
+two-loop cosmological constant in compactifications with central charge c=15
+and with N=1 worldsheet supersymmetry. Finally, some comments are made on
+possible extensions of this work to higher loop order.
+\\

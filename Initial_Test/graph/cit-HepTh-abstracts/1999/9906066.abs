@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9906066
+From: Subrata Bal <subrata@imsc.ernet.in>
+Date: Wed, 9 Jun 1999 07:30:05 GMT   (9kb)
+
+Title: The Character of the Exceptional Series of Representations of SU(1,1)
+Authors: Debabrata Basu, Subrata Bal,K. V. Shajesh
+Comments: 19 pages, latex
+Report-no: IMSc/99/04/16, PRL-TH-99/002
+Subj-class: High Energy Physics - Theory; Mathematical Physics
+Journal-ref: J.Math.Phys. 41 (2000) 461-467
+\\
+  The character of the exceptional series of representations of SU(1,1) is
+determined by using Bargmann's realization of the representation in the Hilbert
+space $H_\sigma$ of functions defined on the unit circle. The construction of
+the integral kernel of the group ring turns out to be especially involved
+because of the non-local metric appearing in the scalar product with respect to
+which the representations are unitary. Since the non-local metric disappears in
+the `momentum space' $i.e.$ in the space of the Fourier coefficients the
+integral kernel is constructed in the momentum space, which is transformed back
+to yield the integral kernel of the group ring in $H_\sigma$. The rest of the
+procedure is parallel to that for the principal series treated in a previous
+paper. The main advantage of this method is that the entire analysis can be
+carried out within the canonical framework of Bargmann.
+\\

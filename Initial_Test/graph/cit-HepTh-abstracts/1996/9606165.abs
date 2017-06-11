@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9606165
+From: joep@itp.ucsb.edu (Joe Polchinski)
+Date: Tue, 25 Jun 1996 22:43:17 -0700   (12kb)
+Date (revised): Fri, 5 Jul 1996 17:24:44 -0700
+
+Title: Tensors from K3 Orientifolds
+Author: Joseph Polchinski
+Comments: References added. 16 pages, LaTeX
+Report-no: NSF-ITP-96-54
+Journal-ref: Phys.Rev. D55 (1997) 6423-6428
+\\
+  Recently Gimon and Johnson (hep-th/9604129) and Dabholkar and Park
+(hep-th/9604178) have constructed Type I theories on K3 orbifolds. The spectra
+differ from that of Type I on a smooth K3, having extra tensors. We show that
+the orbifold theories cannot be blown up to smooth K3's, but rather $Z_2$
+orbifold singularities always remain. Douglas's recent proposal to use D-branes
+as probes is useful in understanding the geometry. The $Z_2$ singularities are
+of a new type, with a different orientifold projection from those previously
+considered. We also find a new world-sheet consistency condition that must be
+satisfied by orientifold models.
+\\

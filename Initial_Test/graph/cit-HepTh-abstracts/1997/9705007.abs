@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9705007
+From: brandt@server.ecm.ub.es
+Date: Fri, 2 May 1997 16:58:28 +0200   (17kb)
+Date (revised): Fri, 10 Oct 1997 15:10:15 GMT
+
+Title: Extended antifield-formalism
+Authors: Friedemann Brandt, Marc Henneaux, Andr\'{e} Wilch
+Comments: revtex, 12 pages, no figures; change of title, some changes of text,
+  no changes of results and conclusions; final version to appear in Nucl. Phys.
+  B (Phys. Math.)
+Report-no: UB-ECM-PF-97/7, ULB-TH-97/9
+Journal-ref: Nucl.Phys. B510 (1998) 640-656
+\\
+  The antifield formalism is extended so as to incorporate the rigid symmetries
+of a given theory. To that end, it is necessary to introduce global ghosts not
+only for the given rigid symmetries, but also for all the higher order
+conservation laws, associated with conserved antisymmetric tensors. Otherwise,
+one may encounter obstructions of the type discussed in [13]. These higher
+order conservation laws are shown to define additional rigid symmetries of the
+master equation and to form -- together with the standard symmetries -- an
+interesting algebraic structure. They lead furthermore to independent Ward
+identities which are derived in the standard manner, because the resulting
+master ("Zinn-Justin") equation capturing both the gauge symmetries and the
+rigid symmetries of all orders takes a known form. Issues such as anomalies or
+consistent deformations of the action preserving some set of rigid symmetries
+can be also systematically analysed in this framework.
+\\

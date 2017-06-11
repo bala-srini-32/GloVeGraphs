@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9601144
+From: Sazdovic Branislav <ESAZDOVI@etf.bg.ac.yu>
+Date: Fri, 26 Jan 1996 14:24 +0200   (14kb)
+Date (revised): Wed, 4 Dec 1996 14:56 +0200
+
+Title: W-Strings on Curved Backgrounds
+Authors: A. Mikovic and B. Sazdovic
+Comments: 10 pages, Latex, no figures. Revised version (the incorrect result
+  following from a wrong interpretation of a vielbein constraint has been
+  corrected)
+Report-no: IF-3-96
+Journal-ref: Mod.Phys.Lett. A12 (1997) 501-510
+\\
+  We discuss a canonical formalism method for constructing actions describing
+propagation of W-strings on curved backgrounds. The method is based on the
+construction of a representation of the W-algebra in terms of currents made
+from the string coordinates and the canonically conjugate momenta. We construct
+such a representation for a W_3-string propagating in the background metric
+with one flat direction by using a simple ansatz for the W-generators where
+each generator is a polynomial of the canonical currents and the veilbeins. In
+the case of a general background we show that the simple polynomial ansatz
+fails, and terms containing the veilbein derivatives must be added.
+\\

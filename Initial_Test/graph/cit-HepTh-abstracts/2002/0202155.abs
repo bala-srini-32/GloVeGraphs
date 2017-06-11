@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0202155
+From: Stefano Giusto <stefano.giusto@ge.infn.it>
+Date: Fri, 22 Feb 2002 15:30:28 GMT   (50kb)
+
+Title: The Wilson-Polchinski Renormalization Group Equation in the Planar Limit
+Authors: C. Becchi, S. Giusto, C. Imbimbo
+Comments: 22 pages, Latex, 3 eps figures
+Journal-ref: Nucl.Phys. B633 (2002) 250-270
+\\
+  We derive the Wilson-Polchinski RG equation in the planar limit. We explain
+that the equation necessarily involves also non-planar amplitudes with sphere
+topology, which represent multi-trace contributions to the effective action.
+The resulting RG equation turns out to be of the Hamilton-Jacobi type since
+loop effects manifest themselves through terms which are linear in first order
+derivatives of the effective action with respect to the sources. We briefly
+outline applications to renormalization of non-commutative field theories,
+matrix models with external sources and holography.
+\\

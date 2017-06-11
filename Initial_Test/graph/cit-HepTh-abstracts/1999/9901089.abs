@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9901089
+From: Nikita Nekrassov <nikita@bohr.harvard.edu>
+Date: Wed, 20 Jan 1999 17:22:19 GMT   (24kb)
+Date (revised v2): Sat, 6 Feb 1999 23:36:35 GMT   (24kb)
+Date (revised v3): Wed, 5 May 1999 02:45:45 GMT   (25kb)
+
+Title: Hilbert Schemes, Separated Variables, and D-Branes
+Authors: A. Gorsky, N. Nekrasov, V. Rubtsov
+Comments: harvmac, 27 pp. big mode; v2. typos and references corrected
+Report-no: ITEP-TH-36/97, HUTP-A036/98, Mittag-Leffler-9/98
+Journal-ref: Commun.Math.Phys. 222 (2001) 299-318
+\\
+  We explain Sklyanin's separation of variables in geometrical terms and
+construct it for Hitchin and Mukai integrable systems. We construct Hilbert
+schemes of points on $T^{*}\Sigma$ for $\Sigma = {\IC}, {\IC}^{*}$ or elliptic
+curve, and on ${\bf C}^{2}/{\Gamma}$ and show that their complex deformations
+are integrable systems of Calogero-Sutherland-Moser type. We present the
+hyperk\"ahler quotient constructions for Hilbert schemes of points on cotangent
+bundles to the higher genus curves, utilizing the results of Hurtubise,
+Kronheimer and Nakajima. Finally we discuss the connections to physics of
+$D$-branes and string duality.
+\\

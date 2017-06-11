@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9703086
+From: Chuan-Sheng Xiong <xiong@yukawa.kyoto-u.ac.jp>
+Date: Wed, 12 Mar 1997 11:23:54 +0900 (JST)   (10kb)
+Date (revised): Sun, 20 Apr 1997 23:09:12 +0900 (JST)
+
+Title: Quantum Cohomology and Virasoro Algebra
+Author: Tohru Eguchi, Kentaro Hori and Chuan-Sheng Xiong
+Comments: latex,13pages. Revised version with a few typos corrected
+Subj-class: High Energy Physics - Theory; Algebraic Geometry
+Journal-ref: Phys.Lett. B402 (1997) 71-80
+\\
+  We propose that the Virasoro algebra controls quantum cohomologies of general
+Fano manifolds $M$ ($c_1(M)>0$) and determines their partition functions at all
+genera. We construct Virasoro operators in the case of complex projective
+spaces and show that they reproduce the results of Kontsevich-Manin, Getzler
+etc. on the genus-0,1 instanton numbers. We also construct Virasoro operators
+for a wider class of Fano varieties. The central charge of the algebra is equal
+to $\chi(M)$, the Euler characteristic of the manifold $M$.
+\\

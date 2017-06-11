@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9908099
+From: Theodore A. Jacobson <jacobson@katherine.physics.umd.edu>
+Date: Fri, 13 Aug 1999 21:40:15 GMT   (195kb)
+Date (revised v2): Wed, 12 Jan 2000 23:30:55 GMT   (195kb)
+
+Title: Hawking radiation on a falling lattice
+Authors: Ted Jacobson and David Mattingly
+Comments: 11 pages, 7 figures, RevTex; paragraph added to introduction
+  discussing insensitivity to choice of lattice point worldlines, version
+  appearing in PRD
+Report-no: NSF-ITP-99-097
+Journal-ref: Phys.Rev. D61 (2000) 024017
+\\
+  Scalar field theory on a lattice falling freely into a 1+1 dimensional black
+hole is studied using both WKB and numerical approaches. The outgoing modes are
+shown to arise from incoming modes by a process analogous to a Bloch
+oscillation, with an admixture of negative frequency modes corresponding to the
+Hawking radiation. Numerical calculations show that the Hawking effect is
+reproduced to within 0.5% on a lattice whose proper spacing where the
+wavepacket turns around at the horizon is $\sim0.08$ in units where the surface
+gravity is 1.
+\\

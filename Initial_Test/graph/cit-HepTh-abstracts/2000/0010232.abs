@@ -1,0 +1,38 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0010232
+From: Harvey S. Reall <h.s.reall@qmw.ac.uk>
+Date: Wed, 25 Oct 2000 17:14:46 GMT   (45kb)
+Date (revised v2): Wed, 6 Dec 2000 14:03:03 GMT   (46kb)
+Date (revised v3): Thu, 11 Jan 2001 12:05:45 GMT   (46kb)
+Date (revised v4): Fri, 26 Jan 2001 12:58:49 GMT   (47kb)
+
+Title: Trace anomaly driven inflation
+Authors: S.W. Hawking, T. Hertog and H.S. Reall
+Comments: LaTeX, 42 pages, 5 .eps figures. v2: typos corrected, references
+  added and 2 new paragraphs in conclusions section. v3: comments about strong
+  coupling and unboundedness of action changed, other minor changes. v4:
+  Comments about strong coupling changed again (2-point functions of metric
+  perturbations do not depend on Yang-Mills coupling)
+Report-no: DAMTP-2000-92, QMW-PH/00-10
+Journal-ref: Phys.Rev. D63 (2001) 083504
+\\
+  This paper investigates Starobinsky's model of inflation driven by the trace
+anomaly of conformally coupled matter fields. This model does not suffer from
+the problem of contrived initial conditions that occurs in most models of
+inflation driven by a scalar field. The universe can be nucleated
+semi-classically by a cosmological instanton that is much larger than the
+Planck scale provided there are sufficiently many matter fields. There are two
+cosmological instantons: the four sphere and a new ``double bubble'' solution.
+This paper considers a universe nucleated by the four sphere. The AdS/CFT
+correspondence is used to calculate the correlation function for scalar and
+tensor metric perturbations during the ensuing de Sitter phase. The analytic
+structure of the scalar and tensor propagators is discussed in detail.
+Observational constraints on the model are discussed. Quantum loops of matter
+fields are shown to strongly suppress short scale metric perturbations, which
+implies that short distance modifications of gravity would probably not be
+observable in the cosmic microwave background. This is probably true for any
+model of inflation provided there are sufficiently many matter fields. This
+point is illustrated by a comparison of anomaly driven inflation in four
+dimensions and in a Randall-Sundrum brane-world model.
+\\

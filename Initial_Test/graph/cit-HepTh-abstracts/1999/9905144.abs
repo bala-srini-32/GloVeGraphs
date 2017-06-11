@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9905144
+From: Bandos Igor <bandos@tph51.tuwien.ac.at>
+Date: Wed, 19 May 1999 17:13:05 GMT   (18kb)
+
+Title: Current Density Distributions and a Supersymmetric Action for
+  Interacting Brane Systems
+Authors: Igor Bandos, Wolfgang Kummer
+Comments: 14 pages, latex, no figures
+Report-no: TUW/99-09
+Journal-ref: Phys.Lett. B462 (1999) 254-264
+\\
+  We propose a method to obtain a manifestly supersymmetric action functional
+for interacting brane systems. It is based on the induced map of the
+worldvolume of low-dimensional branes into the worldvolume of the space-time
+filling brane ((D-1)-brane), which may be either dynamical or auxiliary, and
+implies an identification of Grassmann coordinate fields of lower dimensional
+branes with an image of the Grassmann coordinate fields of that (D-1)-brane.
+With this identification the covariant current distribution forms with support
+on the superbrane worldvolumes become invariant under the target space
+supersymmetry and can be used to write the coupled superbrane action as an
+integral over the D-dimensional manifolds ((D-1)-brane worldvolume). We compare
+the equations derived from this new ('Goldstone fermion embedded') action with
+the ones produced by a more straightforward generalization of the free brane
+actions based on the incorporation of the boundary terms with Lagrange
+multipliers ('superspace embedded' action). We find that both procedures
+produce the same equations of motion and thus justify each other. Both actions
+are presented explicitly for the coupled system of a D=10 super-D3-brane and a
+fundamental superstring which ends on the super-D3-brane.
+\\

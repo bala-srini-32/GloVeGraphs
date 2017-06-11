@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0208202
+From: roberto.tateo@durham.ac.uk
+Date: Tue, 27 Aug 2002 21:04:40 GMT   (91kb)
+Date (revised v2): Thu, 10 Oct 2002 15:28:21 GMT   (92kb)
+
+Title: Integrable aspects of the scaling q-state Potts models II: finite-size
+  effects
+Authors: Patrick Dorey, Andrew Pocklington and Roberto Tateo
+Comments: 52 pages, many figures. Latex 2e, uses amssymb,graphicx. v2: typos
+  corrected, references and further comments added
+Report-no: DCPT-02/53
+Subj-class: High Energy Physics - Theory; Mathematical Physics; Quantum Algebra
+\\
+  We continue our discussion of the q-state Potts models for q <= 4, in the
+scaling regimes close to their critical and tricritical points. In a previous
+paper, the spectrum and full S-matrix of the models on an infinite line were
+elucidated; here, we consider finite-size behaviour. TBA equations are proposed
+for all cases related to phi(21) and phi(12) perturbations of unitary minimal
+models. These are subjected to a variety of checks in the ultraviolet and
+infrared limits, and compared with results from a recently-proposed nonlinear
+integral equation. A nonlinear integral equation is also used to study the
+flows from tricritical to critical models, over the full range of q. Our
+results should also be of relevance to the study of the off-critical dilute A
+models in regimes 1 and 2.
+\\

@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0010137
+From: A Gleb <agleb@aei-potsdam.mpg.de>
+Date: Tue, 17 Oct 2000 13:35:33 GMT   (30kb)
+Date (revised v2): Tue, 8 May 2001 17:27:54 GMT   (30kb)
+
+Title: Perturbative and instanton corrections to the OPE of CPOs in N=4 SYM_4
+Authors: G. Arutyunov, S. Frolov and A. C. Petkou
+Comments: Latex, 26p, typos are removed, a strong-coupling anomalous dimension
+  of one of the double-trace operators is corrected
+Report-no: AEI-2000-067, OHSTPY-HEP-T-00-023, IFUM-FT-662
+Journal-ref: Nucl.Phys. B602 (2001) 238-260; Erratum-ibid. B609 (2001) 540
+\\
+  We study perturbative and instanton corrections to the Operator Product
+Expansion of the lowest weight Chiral Primary Operators of N=4 SYM_4. We
+confirm the recently observed non-renormalization of various operators (notably
+of the double-trace operator with dimension 4 in the 20 irrep of SU(4)), that
+appear to be unprotected by unitarity restrictions. We demonstrate the
+splitting of the free-field theory stress tensor and R-symmetry current in
+supermultiplets acquiring different anomalous dimensions in perturbation theory
+and argue that certain double-trace operators also undergo a perturbative
+splitting into operators dual to string and two-particle gravity states
+respectively. The instanton contributions affect only those double-trace
+operators that acquire finite anomalous dimensions at strong coupling. For the
+leading operators of this kind, we show that the ratio of their anomalous
+dimensions at strong coupling to the anomalous dimensions due to instantons is
+the same number.
+\\

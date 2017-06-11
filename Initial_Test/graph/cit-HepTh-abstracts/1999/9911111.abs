@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9911111
+From: Jose Gaite Cuesta <gaite@LAEFF.ESA.Es>
+Date: Mon, 15 Nov 1999 17:23:49 GMT   (24kb)
+
+Title: Relative entropy for compact Riemann surfaces
+Author: Jose Gaite
+Comments: 20 pages, LaTeX 2e, 2 PS figures; to appear in Phys. Rev. D
+Subj-class: High Energy Physics - Theory; Statistical Mechanics
+Journal-ref: Phys.Rev. D61 (2000) 084001
+\\
+  The relative entropy of the massive free bosonic field theory is studied on
+various compact Riemann surfaces as a universal quantity with physical
+significance, in particular, for gravitational phenomena. The exact expression
+for the sphere is obtained, as well as its asymptotic series for large mass and
+its Taylor series for small mass. One can also derive exact expressions for the
+torus but not for higher genus. However, the asymptotic behaviour for large
+mass can always be established-up to a constant-with heat-kernel methods. It
+consists of an asymptotic series determined only by the curvature, hence common
+for homogeneous surfaces of genus higher than one, and exponentially vanishing
+corrections whose form is determined by the concrete topology. The coefficient
+of the logarithmic term in this series gives the conformal anomaly.
+\\

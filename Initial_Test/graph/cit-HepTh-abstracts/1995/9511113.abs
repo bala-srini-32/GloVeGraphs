@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9511113
+From: "Susan McCormick" <SMCCORMI@msnet.mathstat.uoguelph.ca>
+Date: Wed, 15 Nov 1995 12:19:18 EDT   (12kb)
+Date (revised): Thu, 16 Nov 1995 14:10:38 EDT
+
+Title: QCD Pressure at Two Loops in the Temporal Gauge
+Authors: George Leibbrandt (CERN, Geneva) and Mark Staley (Guelph)
+Comments: 19 pages, 2 figures, list of 63 integrals
+Report-no: CERN-TH.228-95
+Journal-ref: Nucl.Phys. B461 (1996) 259-274
+\\
+  We apply the method of \underline{zeta} functions, together with the
+$n_\mu^*$-prescription for the temporal gauge, to evaluate the thermodynamic
+pressure in QCD at finite temperature $T$. Working in the imaginary-time
+formalism and employing a special version of the unified-gauge prescription, we
+show that the pure-gauge contribution to the pressure at two loops is given by
+$P_2^{\mbox{{\scriptsize gauge}}} = -(g^2/144)N_cN_gT^4$, where $N_c$ and $N_g$
+denote the number of colours and gluons, respectively. This result agrees with
+the value in the Feynman gauge.
+\\

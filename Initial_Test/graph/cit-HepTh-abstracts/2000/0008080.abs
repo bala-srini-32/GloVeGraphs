@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0008080
+From: Jeff Greensite <greensit@alf.nbi.dk>
+Date: Wed, 9 Aug 2000 18:32:56 GMT   (100kb)
+Date (revised v2): Fri, 11 Aug 2000 20:18:34 GMT   (100kb)
+Date (revised v3): Tue, 12 Sep 2000 03:20:22 GMT   (101kb)
+Date (revised v4): Wed, 29 Nov 2000 17:50:09 GMT   (102kb)
+
+Title: Broadening of the QCD3 flux tube from the AdS/CFT correspondence
+Authors: J. Greensite and P. Olesen
+Comments: 19 pages, LaTex, 10 figures. Version to appear in JHEP
+Journal-ref: JHEP 0011 (2000) 030
+\\
+  We use the finite temperature AdS/CFT approach to demonstrate logarithmic
+broadening of the confining QCD3 flux tube as a function of quark separation.
+This behavior indicates that, unlike lattice QCD, there is no roughening
+transition in the AdS/CFT formulation, which raises the interesting possibility
+of extrapolating strong coupling results to weak couplings by the use of
+resummation techniques. In the zero-temperature non-confining limit, we find
+that this logarithmic broadening of the field strength distribution is absent.
+Our results are obtained numerically at strong couplings, in the supergravity
+approximation.
+\\

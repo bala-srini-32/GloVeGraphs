@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0105145
+From: Emilio Elizalde <elizalde@ieec.fcr.es>
+Date: Tue, 15 May 2001 17:47:17 GMT   (10kb)
+
+Title: Spectral Zeta Functions in Non-Commutative Spacetimes
+Authors: E. Elizalde
+Comments: 4 pages, no figures
+Journal-ref: Nucl.Phys.Proc.Suppl. 104 (2002) 157-160
+\\
+  Formulas for the most general case of the zeta function associated to a
+quadratic+linear+constant form (in {\bf Z}) are given. As examples, the
+spectral zeta functions $\zeta_\alpha (s)$ corresponding to bosonic ($\alpha
+=2$) and to fermionic ($\alpha =3$) quantum fields living on a noncommutative,
+partially toroidal spacetime are investigated. Simple poles show up at $s=0$,
+as well as in other places (simple or double, depending on the number of
+compactified, noncompactified, and noncommutative dimensions of the spacetime).
+This poses a challenge to the zeta-function regularization procedure.
+\\

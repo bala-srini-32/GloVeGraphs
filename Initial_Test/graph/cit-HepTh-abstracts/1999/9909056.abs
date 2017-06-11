@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9909056
+From: Gary Horowitz <gary@itp.ucsb.edu>
+Date: Thu, 9 Sep 1999 21:21:38 GMT   (39kb)
+Date (revised v2): Mon, 13 Mar 2000 23:43:40 GMT   (40kb)
+
+Title: Quasinormal Modes of AdS Black Holes and the Approach to Thermal
+  Equilibrium
+Authors: Gary T. Horowitz and Veronika E. Hubeny
+Comments: 25 pages, 9 figures extended discussion of horizon boundary
+  conditions, added note on higher l modes
+Journal-ref: Phys.Rev. D62 (2000) 024027
+\\
+  We investigate the decay of a scalar field outside a Schwarzschild anti de
+Sitter black hole. This is determined by computing the complex frequencies
+associated with quasinormal modes. There are qualitative differences from the
+asymptotically flat case, even in the limit of small black holes. In
+particular, for a given angular dependence, the decay is always exponential -
+there are no power law tails at late times. In terms of the AdS/CFT
+correspondence, a large black hole corresponds to an approximately thermal
+state in the field theory, and the decay of the scalar field corresponds to the
+decay of a perturbation of this state. Thus one obtains the timescale for the
+approach to thermal equilibrium. We compute these timescales for the strongly
+coupled field theories in three, four, and six dimensions which are dual to
+string theory in asymptotically AdS spacetimes.
+\\

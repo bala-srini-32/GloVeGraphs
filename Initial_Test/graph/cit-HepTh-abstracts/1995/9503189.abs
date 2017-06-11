@@ -1,0 +1,19 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9503189
+From: Chris Lassig <ccl@physics.unimelb.EDU.AU>
+Date: Tue, 28 Mar 1995 11:00:45 +1000   (8kb)
+
+Title: An Octonionic Gauge Theory
+Authors: C. C. Lassig and G. C. Joshi.
+Comments: 14 pages, Revtex.
+Report-no: UM-P-95/09; RCHEP-95/05.
+\\
+  The nonassociativity of the octonion algebra necessitates a bimodule
+representation, in which each element is represented by a left and a right
+multiplier. This representation can then be used to generate gauge
+transformations for the purpose of constructing a field theory symmetric under
+a gauged octonion algebra, the nonassociativity of which appears as a failure
+of the representation to close, and hence produces new interactions in the
+gauge field kinetic term of the symmetric Lagrangian.
+\\

@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9804065
+From: Harald Dorn <dorn@qft3.physik.hu-berlin.de>
+Date: Wed, 8 Apr 1998 12:17:13 GMT   (12kb)
+Date (revised v2): Thu, 16 Apr 1998 09:33:13 GMT   (12kb)
+
+Title: The mass term in non-Abelian gauge field dynamics on matrix D-branes and
+  T-duality in the $\sigma$-model approach
+Author: H. Dorn
+Comments: 13 pages, Latex, some typos corrected
+Report-no: HU Berlin-EP-98/21
+Journal-ref: JHEP 9804 (1998) 013
+\\
+  The formal extension of the T-duality rules for open strings from Abelian to
+non-Abelian gauge field background leads in a well known manner to the notion
+of matrix valued D-brane position. The application of this concept to the
+non-Abelian gauge field RG $\beta $-function of the corresponding $\sigma
+$-model yields a mass term in the gauge field dynamics on the matrix D-brane.
+The direct calculation in a corresponding D-brane model does $not$ yield such a
+mass term, if the Dirichlet boundary condition is implemented as a constraint
+on the integrand in the defining functional integral. However, the mass term
+arises in the direct calculation for a D-brane model with dynamically realized
+boundary condition.
+\\

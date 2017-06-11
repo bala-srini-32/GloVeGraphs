@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9910190
+From: Gernot Akemann <Gernot.Akemann@mpi-hd.mpg.de>
+Date: Mon, 25 Oct 1999 08:00:54 GMT   (26kb)
+Date (revised v2): Fri, 3 Mar 2000 14:20:28 GMT   (26kb)
+
+Title: On Finite-Volume Gauge Theory Partition Functions
+Authors: G. Akemann and P.H. Damgaard
+Comments: LaTeX, 26 pages. Typo in eq. (7.6) corrected, to appear in
+  Nucl.Phys.B
+Journal-ref: Nucl.Phys. B576 (2000) 597-626
+\\
+  We prove a Mahoux-Mehta--type theorem for finite-volume partition functions
+of SU(N_c\geq 3) gauge theories coupled to fermions in the fundamental
+representation. The large-volume limit is taken with the constraint V <<
+1/m_{\pi}^4. The theorem allows one to express any k-point correlation function
+of the microscopic Dirac operator spectrum entirely in terms of the 2-point
+function. The sum over topological charges of the gauge fields can be
+explicitly performed for these k-point correlation functions. A connection to
+an integrable KP hierarchy, for which the finite-volume partition function is a
+$\tau$-function, is pointed out. Relations between the effective partition
+functions for these theories in 3 and 4 dimensions are derived. We also compute
+analytically, and entirely from finite-volume partition functions, the
+microscopic spectral density of the Dirac operator in SU(N_c) gauge theories
+coupled to quenched fermions in the adjoint representation. The result
+coincides exactly with earlier results based on Random Matrix Theory.
+\\

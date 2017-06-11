@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9506177
+From: azcarrag@evalvx.ific.uv.es (J.A.de Azcarraga)
+Date: Tue, 27 Jun 1995 10:01:45 +0200   (15kb)
+
+Title: Group Theoretical Foundations of Fractional Supersymmetry
+Authors: Jose A. de Azcarraga and Alan J. Macfarlane
+Comments: Plain Latex, 18 pages
+Report-no: FTUV/95-23 IFIC/95-23
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+Journal-ref: J.Math.Phys. 37 (1996) 1115-1127
+\\
+  Fractional supersymmetry denotes a generalisation of supersymmetry which may
+be constructed using a single real generalised Grassmann variable, $\theta =
+\bar{\theta}, \, \theta^n = 0$, for arbitrary integer $n = 2, 3, ...$. An
+explicit formula is given in the case of general $n$ for the transformations
+that leave the theory invariant, and it is shown that these transformations
+possess interesting group properties. It is shown also that the two generalised
+derivatives that enter the theory have a geometric interpretation as generators
+of left and right transformations of the fractional supersymmetry group.
+Careful attention is paid to some technically important issues, including
+differentiation, that arise as a result of the peculiar nature of quantities
+such as $\theta$.
+\\

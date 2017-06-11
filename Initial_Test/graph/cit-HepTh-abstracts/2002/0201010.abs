@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0201010
+From: Dr Danny Stevenson <dstevens@maths.adelaide.edu.au>
+Date: Thu, 3 Jan 2002 05:16:10 GMT   (35kb)
+Date (revised v2): Thu, 10 Jan 2002 05:56:09 GMT   (35kb)
+Date (revised v3): Tue, 19 Feb 2002 04:29:43 GMT   (38kb)
+Date (revised v4): Thu, 26 Sep 2002 00:00:15 GMT   (31kb)
+Date (revised v5): Thu, 9 Jan 2003 04:07:42 GMT   (33kb)
+
+Title: Chern character in twisted K-theory: equivariant and holomorphic cases
+Authors: Varghese Mathai and Danny Stevenson
+Comments: 24 pages, Latex2e. To appear in CMP
+Subj-class: High Energy Physics - Theory; Differential Geometry
+\\
+  It has been argued by Witten and others that in the presence of a nontrivial
+B-field, D-brane charges in type IIB string theories are measured by twisted
+K-theory. In joint work with Bouwknegt, Carey and Murray it was proved that
+twisted K-theory is canonically isomorphic to bundle gerbe K-theory, whose
+elements are ordinary vector bundles on a principal projective unitary bundle,
+with an action of the bundle gerbe determined by the principal projective
+unitary bundle. The principal projective unitary bundle is in turn determined
+by the twist. In this paper, we study in more detail the Chern-Weil
+representative of the Chern character of bundle gerbe K-theory that was
+introduced previously, and we also extend it to the equivariant and holomorphic
+cases. Included is a discussion of interesting examples.
+\\

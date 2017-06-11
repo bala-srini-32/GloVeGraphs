@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0106218
+From: Tetsuyuki Muramatsu <tetsu@hep1.c.u-tokyo.ac.jp>
+Date: Mon, 25 Jun 2001 07:17:47 GMT   (19kb)
+Date (revised v2): Tue, 30 Oct 2001 13:22:03 GMT   (19kb)
+
+Title: Fully Off-shell Effective Action and its Supersymmetry in Matrix Theory
+  II
+Authors: Y. Kazama and T. Muramatsu
+Comments: 21 pages; v2: References and a footnote added
+Report-no: UT-Komaba 01-02
+Journal-ref: Class.Quant.Grav. 18 (2001) 5545-5560
+\\
+  In a previous work, we computed the fully off-shell effective action $\Gamma$
+and the corresponding quantum-corrected supersymmetry (SUSY) transformation
+operator $\delta_\epsilon$ for the so-called source-probe configuration in
+Matrix theory at one loop at order 4 in the derivative expansion, and showed
+that they satisfy the SUSY Ward identity $\delta_\epsilon \Gamma=0$. In this
+article, starting from the most general form of $\Gamma$, we demonstrate that,
+conversely, given such $\delta_\epsilon$ the SUSY Ward identity determines
+$\Gamma$ uniquely to the order specified above. Our demonstration does not
+require the explicit knowledge of the quantum-corrected supersymmetry
+transformation and hence strongly suggests that the uniqueness property would
+persist to all orders in perturbation theory.
+\\

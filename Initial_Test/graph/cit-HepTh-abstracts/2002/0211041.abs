@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0211041
+From: Olaf Lechtenfeld <lechtenf@itp.uni-hannover.de>
+Date: Wed, 6 Nov 2002 17:35:38 GMT   (20kb)
+Date (revised v2): Mon, 27 Jan 2003 13:32:37 GMT   (20kb)
+Date (revised v3): Fri, 14 Feb 2003 12:27:24 GMT   (20kb)
+
+Title: Noncommutative Instantons via Dressing and Splitting Approaches
+Authors: Zalan Horvath, Olaf Lechtenfeld, Martin Wolf
+Comments: 1+16 pages; v2: typos corrected, published version; v3: eq.(4.16)
+  corrected
+Journal-ref: JHEP 0212 (2002) 060
+\\
+  Almost all known instanton solutions in noncommutative Yang-Mills theory have
+been obtained in the modified ADHM scheme. In this paper we employ two
+alternative methods for the construction of the self-dual U(2) BPST instanton
+on a noncommutative Euclidean four-dimensional space with self-dual
+noncommutativity tensor. Firstly, we use the method of dressing
+transformations, an iterative procedure for generating solutions from a given
+seed solution, and thereby generalize Belavin's and Zakharov's work to the
+noncommutative setup. Secondly, we relate the dressing approach with Ward's
+splitting method based on the twistor construction and rederive the solution in
+this context. It seems feasible to produce nonsingular noncommutative
+multi-instantons with these techniques.
+\\

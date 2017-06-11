@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0110180
+From: Richard Woodard <woodard@phys.ufl.edu>
+Date: Fri, 19 Oct 2001 08:44:49 GMT   (6kb)
+
+Title: The One Loop Effective Action of QED for a General Class of Electric
+  Fields
+Authors: H. M. Fried (Brown University) and R. P. Woodard (University of
+  Florida at Gainesville)
+Comments: 9 pages, LaTeX 2 epsilon
+Report-no: UFIFT-HEP-01-14
+Journal-ref: Phys.Lett. B524 (2002) 233-239
+\\
+  We compute the effective action of QED at one loop order for an electric
+field which points in the $\hat{z}$ direction and depends arbitrarily upon the
+light cone time coordinate, $x^+ = (x^0 + x^3)/\sqrt{2}$. This calculation
+generalizes Schwinger's formula for the vacuum persistence probability in the
+presence of a constant electric field.
+\\

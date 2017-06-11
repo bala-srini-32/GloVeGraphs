@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9810217
+From: Young-Jai Park <yjpark@ccs.sogang.ac.kr>
+Date: Tue, 27 Oct 1998 06:13:10 GMT   (12kb)
+
+Title: The quantization of the chiral Schwinger model based on the BFT-BFV
+  formalism II
+Authors: Mu-In Park, Young-Jai Park, and Sean J. Yoon
+Comments: 17 pages, To be published in J. Phys. G
+Report-no: SOGANG-HEP 218/97
+Journal-ref: J.Phys. G24 (1998) 2179-2188
+\\
+  We apply an improved version of Batalin-Fradkin-Tyutin (BFT) Hamiltonian
+method to the a=1 chiral Schwinger Model, which is much more nontrivial than
+the a>1.$ one. Furthermore, through the path integral quantization, we newly
+resolve the problem of the non-trivial $\delta$ function as well as that of the
+unwanted Fourier parameter $\xi$ in the measure. As a result, we explicitly
+obtain the fully gauge invariant partition function, which includes a new type
+of Wess-Zumino (WZ) term irrelevant to the gauge symmetry as well as usual WZ
+action.
+\\

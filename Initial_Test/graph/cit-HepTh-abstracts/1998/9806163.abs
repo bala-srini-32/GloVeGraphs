@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9806163
+From: Roberto.Soldati@bo.infn.it
+Date: Fri, 19 Jun 1998 09:01:48 GMT   (18kb)
+
+Title: Consistent perturbative light-front formulation of quantum
+  electrodynamics
+Authors: Michele Morara and Roberto Soldati
+Comments: PlainTeX, 29 pages, 5 Postscript figures
+Report-no: DFUB-97-17
+Journal-ref: Phys.Rev. D58 (1998) 105011
+\\
+  A new light-front formulation of Q.E.D. is developed, within the framework of
+standard perturbation theory, in which $x^+$ plays the role of the evolution
+parameter and the gauge choice is $A_+=0$ (light-front "temporal" gauge). It is
+shown that this formulation leads to the Mandelstam-Leibbrandt causal
+prescription for the non-covariant singularities in the photon propagator.
+Furthermore, it is proved that the dimensionally regularized one loop off-shell
+amplitudes exactly coincide with the correct ones, as computed within the
+standard approach using ordinary space-time coordinates.
+\\

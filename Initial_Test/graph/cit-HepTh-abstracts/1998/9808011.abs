@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9808011
+From: "Aleksandr I. Sokolov" <ais@sokol.usr.etu.spb.ru>
+Date: Tue, 4 Aug 1998 13:03:18 GMT   (5kb)
+
+Title: Universal effective action for O(n)-symmetric \lambda \phi^4 model from
+  renormalization group
+Authors: A. I. Sokolov, E. V. Orlov, V. A. Ul'kov, and S. S. Kashtanov (Saint
+  Petersburg Electrotechnical University, St. Petersburg, Russia)
+Comments: 5 pages, LaTeX, no figures, reported at the XI Intern. Conf.
+  "Problems of Quantum Field Theory" (July 13-17, 1998, Dubna, Russia),
+  submitted to the Conference Proceedings
+\\
+  The RG expansions for renormalized coupling constants g_6 and g_8 of the 3D
+n-vector model are calculated in the 4-loop and 3-loop approximations
+respectively. Resummation of the RG series for g_6 by the Pade-Borel-Leroy
+technique results in the estimates for its universal critical values g_6^*(n)
+which are argued to deviate from the exact numbers by less than 0.3%. The RG
+expansion for g_8 demonstrates stronger divergence being much less suitable for
+getting reliable numerical estimates.
+\\

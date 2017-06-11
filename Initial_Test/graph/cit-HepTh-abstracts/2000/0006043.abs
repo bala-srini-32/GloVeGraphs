@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/0006043
+From: Avinash Dhar <adhar@theory.tifr.res.in>
+Date: Tue, 6 Jun 2000 13:12:50 GMT   (12kb)
+Date (revised v2): Fri, 14 Jul 2000 13:09:39 GMT   (13kb)
+
+Title: Noncritical Strings, RG Flows and Holography
+Authors: Avinash Dhar and Spenta R. Wadia
+Comments: 19 pages, latex, no figures, minor changes and added references,
+  version to be published in Nucl. Phys. B
+Report-no: TIFR-TH-00/30
+Journal-ref: Nucl.Phys. B590 (2000) 261-272
+\\
+  We derive an RG flow equation that is satisfied by the regularized partition
+function for noncritical strings in background fields. The flow refers to
+change in the position of a ``boundary'' in the liouville direction. The
+boundary is required to regularize the ultraviolet divergences in the partition
+function coming from integration over world-sheets of arbitrarily small area.
+  From the point of view of the target space effective gravitational action
+that the partition function evaluates on-shell, the boundary regularizes {\it
+infrared} divergences coming from the infinite volume of the liouville
+direction. The RG flow equation that we obtain looks very much like the
+Hamilton-Jacobi constraint equation that an on-shell gauge-fixed gravitational
+action must satisfy.
+\\

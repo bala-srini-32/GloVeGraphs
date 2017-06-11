@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9603053
+From: klimcik@surya23.cern.ch (Ctirad KLIMCIK)
+Date: Fri, 8 Mar 1996 21:50:40 --100   (24kb)
+
+Title: Gravity coupled with matter and foundation of non-commutative geometry
+Authors: A. Connes
+Comments: 30 pages, Plain TeX
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+Journal-ref: Commun.Math.Phys. 182 (1996) 155-176
+\\
+  We first exhibit in the commutative case the simple algebraic relations
+between the algebra of functions on a manifold and its infinitesimal length
+element $ds$. Its unitary representations correspond to Riemannian metrics and
+Spin structure while $ds$ is the Dirac propagator $ds = \ts \!\!$---$\!\! \ts =
+D^{-1}$ where $D$ is the Dirac operator. We extend these simple relations to
+the non commutative case using Tomita's involution $J$. We then write a
+spectral action, the trace of a function of the length element in Planck units,
+which when applied to the non commutative geometry of the Standard Model will
+be shown (in a joint work with Ali Chamseddine) to give the SM Lagrangian
+coupled to gravity. The internal fluctuations of the non commutative geometry
+are trivial in the commutative case but yield the full bosonic sector of SM
+with all correct quantum numbers in the slightly non commutative case. The
+group of local gauge transformations appears spontaneously as a normal subgroup
+of the diffeomorphism group.
+\\

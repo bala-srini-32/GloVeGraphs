@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9805098
+From: Raimar Wulkenhaar <raimar@cptsu5.univ-mrs.fr>
+Date: Sat, 16 May 1998 19:30:03 GMT   (108kb)
+Date (revised v2): Thu, 9 Jul 1998 07:58:17 GMT   (119kb)
+Date (revised v3): Mon, 21 Sep 1998 13:21:12 GMT   (121kb)
+Date (revised v4): Wed, 4 Nov 1998 09:46:39 GMT   (121kb)
+
+Title: On Kreimer's Hopf algebra structure of Feynman graphs
+Authors: Thomas Krajewski and Raimar Wulkenhaar (CPT Luminy)
+Comments: 21 pages, LaTeX2e, requires feynmf package to draw Feynman graphs
+  (see log file for additional information). Following an idea by Dirk Kreimer
+  we introduced in the revised version a primitivator which maps overlapping
+  divergences to primitive elements and which provides the link to the Hopf
+  algebra of Kreimer (q-alg/9707029, hep-th/9808042). v4: error in eq (29)
+  corrected and references updated; to appear in Eur.Phys.J. C
+Report-no: CPT-98/P.3639
+Journal-ref: Eur.Phys.J. C7 (1999) 697-708
+\\
+  We reinvestigate Kreimer's Hopf algebra structure of perturbative quantum
+field theories with a special emphasis on overlapping divergences. Kreimer
+first disentangles overlapping divergences into a linear combination of
+disjoint and nested ones and then tackles that linear combination by the Hopf
+algebra operations. We present a formulation where the Hopf algebra operations
+are directly defined on any type of divergence. We explain the precise relation
+to Kreimer's Hopf algebra and obtain thereby a characterization of their
+primitive elements.
+\\

@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9807031
+From: Gerald Dunne <dunne@hep.phys.uconn.edu>
+Date: Fri, 3 Jul 1998 17:05:09 GMT   (19kb)
+Date (revised v2): Wed, 12 Aug 1998 19:53:06 GMT   (19kb)
+
+Title: On the QED Effective Action in Time Dependent Electric Backgrounds
+Authors: Gerald Dunne and Theodore Hall (U. Connecticut)
+Comments: 27 pages, no figures; reference added
+Report-no: UCONN-98-13
+Journal-ref: Phys.Rev. D58 (1998) 105022
+\\
+  We apply the resolvent technique to the computation of the QED effective
+action in time dependent electric field backgrounds. The effective action has
+both real and imaginary parts, and the imaginary part is related to the pair
+production probability in such a background. The resolvent technique has been
+applied previously to spatially inhomogeneous magnetic backgrounds, for which
+the effective action is real. We explain how dispersion relations connect these
+two cases, the magnetic case which is essentially perturbative in nature, and
+the electric case where the imaginary part is nonperturbative. Finally, we use
+a uniform semiclassical approximation to find an expression for very general
+time dependence for the background field. This expression is remarkably similar
+in form to Schwinger's classic result for the constant electric background.
+\\
