@@ -77,7 +77,10 @@ class NodeCooccur():
 		# with open('../glove.py-master/lesmis-cooccur', 'wb') as obj_f:
 		# 	msgpack.dump(cooccur,obj_f)
 		return cooccur'''
-		res = nx.shortest_path(G)
+		if self.weighted:
+			res = nx.shortest_path(G)
+		else:
+			res = nx.shortest_path_length(G)
 		dist_cooccur = []
 		for src in res:
 		    for dest in res[src]:
@@ -87,6 +90,8 @@ class NodeCooccur():
 		        	#print 'accessing src : ',src,' dest : ',dest
 		        	if self.weighted:
 		        		path = res[src][dest]
+		        		if len(path) > 5:
+		        			continue
 		        		l = 0
 		        		for i in range(len(path) -1):
 		        			l += G[path[i]][path[i+1]]['weight']

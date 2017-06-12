@@ -185,11 +185,11 @@ class NodeEmbedding():
 		    print "\tBeginning iteration ", i
 		    cost = self.run_iter(data)
 		    print "\t\tDone - cost : ",cost
-		    if i%10 == 0:
-		    	emb = W
-		    	if self.n2vformat:
-					emb = buildNodeDict(emb,self.node_map)
-		    	save_model(emb,self.output_path)
+		    #if i%10 == 0:
+	    	emb = W
+	    	if self.n2vformat:
+				emb = buildNodeDict(emb,self.node_map)
+	    	save_model(emb,self.output_path)
 
 		return W
 

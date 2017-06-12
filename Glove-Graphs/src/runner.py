@@ -13,7 +13,7 @@ def parse_args():
 
 	parser.add_argument('--output', nargs='?', help='Embeddings path')
 
-	parser.add_argument('--vector-size', type=int, default=100, help='Number of dimensions. Default is 100.')
+	parser.add_argument('--vector-size', type=int, default=64, help='Number of dimensions. Default is 100.')
 
 	#parser.add_argument('--walk-length', type=int, default=80, help='Length of walk per source. Default is 20.')
 
@@ -58,7 +58,7 @@ def read_graph():
 def save_model(W, args):
     with open(args.output, 'wb') as vector_f:
         pickle.dump(W, vector_f, protocol=2)
-        
+
 def buildNodeDict(W,node_map):
 	d = {}
 	l = len(node_map)
@@ -71,7 +71,7 @@ def main(args):
 	G = gloveutils.NodeCooccur(nx_G,args.p, args.q,args.weighted)
 	walk_length = 20
 	coccur = G.build_cooccurence(args.num_walks, walk_length)
-	print 'built cooccurences'
+	print 'built cooccurences of size ',len(coccur)
 	node_map = G.get_node_map()
 	xmax = 0.25
 	alpha = 0.75
