@@ -4,8 +4,7 @@
 /mnt/c/Users/jeyav/Project_Graph_Mining/final/GloVeGraphs/LFR_low_degree/mu_0.15_N_1000 0.964752460441
 /mnt/c/Users/jeyav/Project_Graph_Mining/final/GloVeGraphs/LFR_low_degree/mu_0.2_N_1000 0.966538013108
 /mnt/c/Users/jeyav/Project_Graph_Mining/final/GloVeGraphs/LFR_low_degree/mu_0.25_N_1000 0.964608935082
-/mnt/c/Users/jeyav/Project_Graph_Mining/final/GloVeGraphs/LFR_low_degree/mu_0.3_N_1000 0.790645631888
-/mnt/c/Users/jeyav/Project_Graph_Mining/final/GloVeGraphs/LFR_low_degree/mu_0.3_N_1000 0.958307016876
+/mnt/c/Users/jeyav/Project_Graph_Mining/final/GloVeGraphs/LFR_low_degree/mu_0.3_N_1000 0.964186137342
 /mnt/c/Users/jeyav/Project_Graph_Mining/final/GloVeGraphs/LFR_low_degree/mu_0.35_N_1000 0.94741803712
 /mnt/c/Users/jeyav/Project_Graph_Mining/final/GloVeGraphs/LFR_low_degree/mu_0.4_N_1000 0.936218122635
 /mnt/c/Users/jeyav/Project_Graph_Mining/final/GloVeGraphs/LFR_low_degree/mu_0.45_N_1000 0.839537546914
