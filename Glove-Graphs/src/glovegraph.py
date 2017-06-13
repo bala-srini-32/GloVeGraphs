@@ -75,9 +75,11 @@ class NodeEmbedding():
 	        #   $$ J' = w_i^Tw_j + b_i + b_j - log(X_{ij}) $$
 	        #print i,b_main,b_context
 	        #i+=1
-	        cost_inner = (v_main.dot(v_context)
-	                      + b_main[0] + b_context[0]
-	                      - log(cooccurrence))
+	        # cost_inner = (v_main.dot(v_context)
+	        #               + b_main[0] + b_context[0]
+	        #               - log(cooccurrence))
+
+	        cost_inner = (v_main.dot(v_context)- cooccurrence)
 
 	        # Compute cost
 	        #
@@ -96,22 +98,21 @@ class NodeEmbedding():
 	        grad_context = weight * cost_inner * v_main
 
 	        # Compute gradients for bias terms
-	        grad_bias_main = weight * cost_inner
-	        grad_bias_context = weight * cost_inner
+	        #grad_bias_main = weight * cost_inner
+	        #grad_bias_context = weight * cost_inner
 
 	        # Now perform adaptive updates
 	        v_main -= (self.learning_rate * grad_main / np.sqrt(gradsq_W_main))
 	        v_context -= (self.learning_rate * grad_context / np.sqrt(gradsq_W_context))
 
-	        b_main -= (self.learning_rate * grad_bias_main / np.sqrt(gradsq_b_main))
-	        b_context -= (self.learning_rate * grad_bias_context / np.sqrt(
-	                gradsq_b_context))
+	        #b_main -= (self.learning_rate * grad_bias_main / np.sqrt(gradsq_b_main))
+	        #b_context -= (self.learning_rate * grad_bias_context / np.sqrt(gradsq_b_context))
 
 	        # Update squared gradient sums
 	        gradsq_W_main += np.square(grad_main)
 	        gradsq_W_context += np.square(grad_context)
-	        gradsq_b_main += grad_bias_main ** 2
-	        gradsq_b_context += grad_bias_context ** 2
+	        #gradsq_b_main += grad_bias_main ** 2
+	        #gradsq_b_context += grad_bias_context ** 2
 
 	    return global_cost
 
